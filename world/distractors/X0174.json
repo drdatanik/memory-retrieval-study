@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0174",
+  "name": "Madhu Gupta",
+  "age": 35,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Rheumatoid arthritis",
+    "Epilepsy",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0174-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Rheumatoid arthritis\n  - Status: Active, morning stiffness 45 min, joint swelling in MCP and PIP joints, tender.\n  - Plan: Continue methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Add NSAID as needed. Weight 62 kg, waist 78 cm (<80 cm cut‑off). Diet: Breakfast – low‑sugar, high‑fiber; Lunch – balanced with vegetables; Dinner – light, avoid fried foods.\n- Epilepsy\n  - Status: Seizure‑free on current regimen, no adverse effects.\n  - Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD. Check serum sodium and creatinine annually.\n- Irritable bowel syndrome\n  - Status: Bloating and occasional diarrhea, triggered by spicy food.\n  - Plan: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Avoid trigger foods, increase soluble fiber.\nDue: HbA1c not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0174-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methotrexate 10 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD\nmebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0174-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 28 mm/hr (0‑20)\nCRP 12 mg/L (<5)\nRheumatoid factor 45 IU/ml (<14)\nAnti‑CCP 68 U/ml (<7)\nALT 22 U/L (7‑56)\nAST 20 U/L (8‑48)\nALKP 78 U/L (40‑129)\nGGT 30 U/L (9‑64)\nTotal bilirubin 0.9 mg/dL (0.2‑1.2)\nSerum sodium 138 mmol/L (135‑145)\nSerum creatinine 0.8 mg/dL (0.5‑1.1)\nCBC: Hb 12.8 g/dL, WBC 6.2×10⁹/L, Platelets 210×10⁹/L\nStool routine: Ova nil, pus cells 0‑1/hpf\ntTG‑IgA 0.8 U/mL (<7) negative"
+    },
+    {
+      "memory_id": "X0174-m04",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "X‑ray hands (PA): Soft tissue swelling noted around MCP joints. No erosions seen. Joint spaces preserved. No bony destruction."
+    },
+    {
+      "memory_id": "X0174-m05",
+      "date": "2025-04-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more stiffness in my fingers in the mornings, especially after weekends. My stomach feels bloated after eating spicy curry, and I had a brief episode of loose stool yesterday. No seizures lately."
+    },
+    {
+      "memory_id": "X0174-m06",
+      "date": "2025-04-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:30 am with Dr Karthik Hegde (Endocrinology)."
+    },
+    {
+      "memory_id": "X0174-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Rheumatoid arthritis\n  - Status: Improved, morning stiffness reduced to 20 min, less swelling, patient reports better function.\n  - Plan: Continue current DMARDs. Consider tapering prednisolone to 2.5 mg OD after 4 weeks if symptoms remain stable. Weight 61.5 kg, waist 77 cm (<80 cm). Diet: Breakfast – oats with fruit; Lunch – dal‑rice with veg; Dinner – chapati‑veg, limit oil.\n- Epilepsy\n  - Status: Seizure‑free, no side‑effects.\n  - Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD. Check serum sodium & creatinine in 6 months.\n- Irritable bowel syndrome\n  - Status: Bloating decreased after avoiding spicy food, occasional loose stool.\n  - Plan: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide PRN. Add probiotic trial.\nDue: HbA1c not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0174-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 2.5 mg OD\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD\nmebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0174-m09",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 18 mm/hr (0‑20)\nCRP 6 mg/L (<5)\nRheumatoid factor 30 IU/ml (<14)\nAnti‑CCP 32 U/ml (<7)\nALT 24 U/L (7‑56)\nAST 22 U/L (8‑48)\nALKP 80 U/L (40‑129)\nGGT 28 U/L (9‑64)\nTotal bilirubin 0.8 mg/dL (0.2‑1.2)\nSerum sodium 139 mmol/L (135‑145)\nSerum creatinine 0.78 mg/dL (0.5‑1.1)\nCBC: Hb 13.0 g/dL, WBC 5.9×10⁹/L, Platelets 205×10⁹/L\nLipid profile: Cholesterol 180 mg/dL (<200), Triglycerides 110 mg/dL (<150), HDL 48 mg/dL (>40), LDL 100 mg/dL (<130)\ntTG‑IgA 0.6 U/mL (<7) negative"
+    },
+    {
+      "memory_id": "X0174-m10",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: Awake and sleep recordings show no epileptiform discharges. Background activity normal for age. No focal slowing. Interpretation: No evidence of epileptiform activity; consistent with clinical seizure‑free status."
+    },
+    {
+      "memory_id": "X0174-m11",
+      "date": "2025-07-20",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Neurology, Dr S. Rao, for review of epilepsy management and consideration of possible medication taper given prolonged seizure‑free period. Include recent EEG report and medication list."
+    },
+    {
+      "memory_id": "X0174-m12",
+      "date": "2025-08-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Neurology opinion: Patient remains seizure‑free on levetiracetam 500 mg BD and lamotrigine 50 mg BD. EEG normal. Recommend continuation of current regimen; no taper advised at present. Follow‑up in 6 months or earlier if seizures recur."
+    },
+    {
+      "memory_id": "X0174-m13",
+      "date": "2026-02-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve had more abdominal discomfort lately – crampy pain after meals, alternating constipation and diarrhea. My joints feel okay, morning stiffness minimal. No seizures. I’ve been avoiding dairy and gluten‑rich foods, which seems to help the bloating."
+    },
+    {
+      "memory_id": "X0174-m14",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Rheumatoid arthritis\n  - Status: Stable, morning stiffness <10 min, no new joint tenderness.\n  - Plan: Continue methotrexate 15 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 2.5 mg OD. Monitor LFTs q3months. Weight 61 kg, waist 76 cm (<80 cm). Diet: Breakfast – idli with sambar; Lunch – vegetable‑rice; Dinner – roti‑legume, avoid deep‑fried.\n- Epilepsy\n  - Status: Seizure‑free >18 months, meds well tolerated.\n  - Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD. Check serum sodium & creatinine annually.\n- Irritable bowel syndrome\n  - Status: Symptom‑controlled with diet modification, occasional mild bloating.\n  - Plan: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide PRN. Consider low‑FODMAP trial if symptoms worsen.\nDue: HbA1c not applicable (no glucose‑lowering therapy)."
+    }
+  ]
+}

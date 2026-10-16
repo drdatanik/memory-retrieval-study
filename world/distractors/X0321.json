@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0321",
+  "name": "Narasimha Chowdary",
+  "age": 51,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Osteoarthritis of the knee",
+    "Heart failure with reduced ejection fraction"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0321-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up for osteoarthritis knee and heart failure.\nPRESENTING COMPLAINT: Reports mild right knee pain on stairs, no new dyspnoea or orthopnoea.\nEXAMINATION: BP 128/78 mmHg, weight 78 kg, height 1.75 m, BMI 25.5 (obese). Joint line tenderness right knee, no effusion. Cardiac exam: regular rhythm, no added sounds, lungs clear.\nIMPRESSION: Obese osteoarthritis knee, stable HFrEF (EF 38% on prior echo). Advise weight reduction; order fasting lipid profile, fasting blood sugar, serum vitamin D, electrolytes, creatinine, NT‑proBNP.\nARRANGEMENTS: Continue paracetamol 650 mg SOS, topical diclofenac gel BD, calcium‑vit D3 OD, sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD, furosemide 40 mg OD, dapagliflozin 10 mg OD. Offer influenza vaccine (patient declined). Return if: chest pain, increasing dyspnoea, fever >39°C, sudden knee swelling or inability to bear weight."
+    },
+    {
+      "memory_id": "X0321-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Paracetamol 650 mg SOS; Diclofenac gel 1% topical BD; Calcium 500 mg + Vitamin D3 400 IU OD; Sacubitril/valsartan 24/26 mg BD; Bisoprolol 2.5 mg OD; Spironolactone 25 mg OD; Furosemide 40 mg OD; Dapagliflozin 10 mg OD."
+    },
+    {
+      "memory_id": "X0321-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 5.2 mmol/L (<5.2), Triglycerides 1.8 mmol/L (<1.7 borderline), HDL 1.1 mmol/L (>1.0), LDL 3.0 mmol/L (<2.6 high). Fasting glucose 6.1 mmol/L (3.9‑5.5 impaired). Serum vitamin D 22 nmol/L (<50 deficient). Electrolytes: Na 138 mmol/L (135‑145), K 4.6 mmol/L (3.5‑5.0), Creatinine 105 µmol/L (60‑110). NT‑proBNP 310 pg/mL (<300 mild elevation)."
+    },
+    {
+      "memory_id": "X0321-m04",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine review.\nPRESENTING COMPLAINT: Knee pain worse on walking, occasional nocturnal dyspnoea.\nEXAMINATION: BP 130/80 mmHg, weight 79 kg, BMI 25.8 (obese). Right knee tenderness, mild crepitus. No peripheral oedema. Lungs clear, JVP not elevated.\nIMPRESSION: Progressive osteoarthritis knee, HF stable. Order weight‑bearing X‑ray both knees.\nARRANGEMENTS: Add supervised physiotherapy twice weekly. Continue current meds. Influenza vaccine offered and given today (08/10/2025). Return if: chest pain, worsening dyspnoea, fever >39°C, sudden knee pain with inability to walk."
+    },
+    {
+      "memory_id": "X0321-m05",
+      "date": "2025-08-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Paracetamol 650 mg SOS; Diclofenac gel 1% topical BD; Calcium 500 mg + Vitamin D3 400 IU OD; Sacubitril/valsartan 24/26 mg BD; Bisoprolol 2.5 mg OD; Spironolactone 25 mg OD; Furosemide 40 mg OD; Dapagliflozin 10 mg OD; Physiotherapy referral."
+    },
+    {
+      "memory_id": "X0321-m06",
+      "date": "2025-08-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Weight‑bearing X‑ray both knees: Right knee shows joint space narrowing ~2 mm, osteophytosis; left knee mild changes. No fracture."
+    },
+    {
+      "memory_id": "X0321-m07",
+      "date": "2025-08-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review on 2025-12-10 at 10:00 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0321-m08",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "6‑month review.\nPRESENTING COMPLAINT: Knee pain improved with physiotherapy, no cardiac symptoms.\nEXAMINATION: BP 126/76 mmHg, weight 77 kg, BMI 25.1 (overweight). Right knee less tender, mild crepitus. No oedema, lungs clear.\nIMPRESSION: Osteoarthritis knee improving; HF stable. Repeat fasting lipid profile, fasting glucose, vitamin D, electrolytes, creatinine, NT‑proBNP.\nARRANGEMENTS: Continue meds, advise maintain weight <75 kg. Offer influenza vaccine (already given). Return if: chest pain, dyspnoea at rest, fever >39°C, sudden knee swelling."
+    },
+    {
+      "memory_id": "X0321-m09",
+      "date": "2025-12-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Paracetamol 650 mg SOS; Diclofenac gel 1% topical BD; Calcium 500 mg + Vitamin D3 400 IU OD; Sacubitril/valsartan 24/26 mg BD; Bisoprolol 2.5 mg OD; Spironolactone 25 mg OD; Furosemide 40 mg OD; Dapagliflozin 10 mg OD."
+    },
+    {
+      "memory_id": "X0321-m10",
+      "date": "2025-12-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 4.9 mmol/L (<5.2), Triglycerides 1.6 mmol/L (<1.7), HDL 1.2 mmol/L (>1.0), LDL 2.8 mmol/L (<2.6 borderline). Fasting glucose 5.6 mmol/L (3.9‑5.5 normal). Serum vitamin D 38 nmol/L (<50 still deficient). Electrolytes: Na 137, K 4.4, Creatinine 100. NT‑proBNP 260 pg/mL (<300)."
+    },
+    {
+      "memory_id": "X0321-m11",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual review.\nPRESENTING COMPLAINT: Mild knee discomfort on prolonged standing, no dyspnoea.\nEXAMINATION: BP 124/74 mmHg, weight 75 kg, BMI 24.5 (overweight). Right knee mild tenderness. Cardiac exam normal, lungs clear.\nIMPRESSION: Overweight osteoarthritis knee, HFrEF stable (EF 38%). Order fasting lipid profile, fasting blood sugar, vitamin D, electrolytes, creatinine, NT‑proBNP and repeat echocardiogram.\nARRANGEMENTS: Continue meds, advise weight target 70 kg. Offer influenza vaccine (given 04/10/2025). Return if: chest pain, worsening dyspnoea, fever >39°C, acute knee pain with inability to bear weight."
+    },
+    {
+      "memory_id": "X0321-m12",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Paracetamol 650 mg SOS; Diclofenac gel 1% topical BD; Calcium 500 mg + Vitamin D3 400 IU OD; Sacubitril/valsartan 24/26 mg BD; Bisoprolol 2.5 mg OD; Spironolactone 25 mg OD; Furosemide 40 mg OD; Dapagliflozin 10 mg OD."
+    },
+    {
+      "memory_id": "X0321-m13",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 4.8 mmol/L (<5.2), Triglycerides 1.5 mmol/L (<1.7), HDL 1.3 mmol/L (>1.0), LDL 2.7 mmol/L (<2.6). Fasting glucose 5.4 mmol/L (3.9‑5.5). Serum vitamin D 45 nmol/L (<50 still low). Electrolytes: Na 138, K 4.5, Creatinine 98. NT‑proBNP 240 pg/mL (<300)."
+    },
+    {
+      "memory_id": "X0321-m14",
+      "date": "2026-04-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Transthoracic echocardiogram: LVEF 38 % (mild‑moderately reduced), LV diastolic diameter 5.6 cm, mild mitral regurgitation, NYHA class II. No significant valve stenosis."
+    },
+    {
+      "memory_id": "X0321-m15",
+      "date": "2026-08-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Mid‑year check.\nPRESENTING COMPLAINT: Stable knee pain, occasional orthopnoea on exertion.\nEXAMINATION: BP 128/78 mmHg, weight 74 kg, BMI 24.2 (overweight). Right knee mild tenderness, no effusion. No peripheral oedema, lungs clear.\nIMPRESSION: Osteoarthritis knee stable; HF compensated. No new labs needed today.\nARRANGEMENTS: Continue current meds, reinforce low‑salt diet, daily walk 30 min. Offer influenza vaccine (due autumn). Return if: chest pain, dyspnoea at rest, fever >39°C, sudden knee swelling."
+    },
+    {
+      "memory_id": "X0321-m16",
+      "date": "2026-08-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Paracetamol 650 mg SOS; Diclofenac gel 1% topical BD; Calcium 500 mg + Vitamin D3 400 IU OD; Sacubitril/valsartan 24/26 mg BD; Bisoprolol 2.5 mg OD; Spironolactone 25 mg OD; Furosemide 40 mg OD; Dapagliflozin 10 mg OD."
+    },
+    {
+      "memory_id": "X0321-m17",
+      "date": "2026-09-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Pre‑winter review.\nPRESENTING COMPLAINT: Knee pain slightly worse in cold, no cardiac symptoms.\nEXAMINATION: BP 130/80 mmHg, weight 73 kg, BMI 23.8 (overweight). Right knee tender, mild crepitus. Lungs clear, no oedema.\nIMPRESSION: Overweight osteoarthritis knee, HF stable. Advise continue meds, weight goal 70 kg.\nARRANGEMENTS: Continue meds, advise indoor exercise, weight monitoring. Offer influenza vaccine (to be given 10/01/2027). Return if: chest pain, increasing dyspnoea, fever >39°C, acute knee swelling with inability to bear weight."
+    },
+    {
+      "memory_id": "X0321-m18",
+      "date": "2026-09-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Paracetamol 650 mg SOS; Diclofenac gel 1% topical BD; Calcium 500 mg + Vitamin D3 400 IU OD; Sacubitril/valsartan 24/26 mg BD; Bisoprolol 2.5 mg OD; Spironolactone 25 mg OD; Furosemide 40 mg OD; Dapagliflozin 10 mg OD."
+    }
+  ]
+}

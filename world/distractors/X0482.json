@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0482",
+  "name": "Radha Settipalli",
+  "age": 26,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Generalised anxiety disorder",
+    "Vitamin B12 deficiency",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0482-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  Status: Ongoing, GAD-7 score 12 (mild anxiety).\n  Plan: Continue escitalopram 5 mg OD, buspirone 5 mg BD, monitor symptoms.\n- Vitamin B12 deficiency\n  Status: Deficient, B12 150 pg/mL, Hb 12.8 g/dL, MCV 95 fL.\n  Plan: Start methylcobalamin 1500 mcg OD, recheck B12 in 3 months.\n- Type 2 diabetes mellitus\n  Status: Suboptimal control, HbA1c 7.8%, FPG 150 mg/dL.\n  Plan: Metformin 500 mg BD, glimepiride 1 mg OD before breakfast, sitagliptin 100 mg OD, empagliflozin 10 mg OD.\n- Weight 68 kg, waist 84 cm (female cutoff 80 cm, slightly increased).\n  Diet advice: Breakfast – whole grain toast with egg; Lunch – vegetable dal with brown rice; Dinner – grilled fish with salad.\nDue: HbA1c repeat 2025-07-05."
+    },
+    {
+      "memory_id": "X0482-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Escitalopram 5 mg OD after breakfast\nBuspirone 5 mg BD after meals\nMethylcobalamin 1500 mcg OD after dinner\nMetformin 500 mg BD after meals\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD after breakfast\nEmpagliflozin 10 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0482-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (ref 4-5.6)\nFasting plasma glucose 150 mg/dL (ref 70-99)\nTSH 4.2 mIU/L (ref 0.4-4.0)\nSerum vitamin B12 150 pg/mL (ref 200-900)\nHaemoglobin 12.8 g/dL (female ref 12-16)\nMCV 95 fL (ref 80-100)\nGAD-7 score 12 (0-4 minimal, 5-9 mild, 10-14 moderate, 15-21 severe)\nUrine albumin‑creatinine ratio 30 mg/g (ref <30)"
+    },
+    {
+      "memory_id": "X0482-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  Status: Improved, GAD-7 8 (mild).\n  Plan: Continue escitalopram 5 mg OD, reduce buspirone to 5 mg OD.\n- Vitamin B12 deficiency\n  Status: Responding, B12 350 pg/mL, Hb 13.2 g/dL, MCV 92 fL.\n  Plan: Continue methylcobalamin 1500 mcg OD, recheck in 3 months.\n- Type 2 diabetes mellitus\n  Status: Better, HbA1c 7.2%, FPG 130 mg/dL.\n  Plan: Increase metformin to 750 mg BD, reduce glimepiride to 0.5 mg OD before breakfast, continue sitagliptin and empagliflozin.\n- Weight 67 kg, waist 82 cm (still above 80 cm).\n  Diet advice: Breakfast – oats with milk and nuts; Lunch – mixed veg quinoa; Dinner – chicken stir‑fried with broccoli.\nDue: HbA1c repeat 2025-10-10."
+    },
+    {
+      "memory_id": "X0482-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2% (ref 4-5.6)\nFasting plasma glucose 130 mg/dL (ref 70-99)\nTSH 3.8 mIU/L (ref 0.4-4.0)\nSerum vitamin B12 350 pg/mL (ref 200-900)\nHaemoglobin 13.2 g/dL (female ref 12-16)\nMCV 92 fL (ref 80-100)\nGAD-7 score 8 (0-4 minimal, 5-9 mild, 10-14 moderate, 15-21 severe)\nUrine albumin‑creatinine ratio 25 mg/g (ref <30)"
+    },
+    {
+      "memory_id": "X0482-m06",
+      "date": "2025-10-03",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up visit with Dr Karthik Hegde (D04) on 2025-10-07 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0482-m07",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  Status: Stable, GAD-7 7 (mild).\n  Plan: Continue escitalopram 5 mg OD, buspirone 5 mg OD.\n- Vitamin B12 deficiency\n  Status: Adequate, B12 420 pg/mL.\n  Plan: Continue methylcobalamin 1500 mcg OD.\n- Type 2 diabetes mellitus\n  Status: HbA1c 7.0%, FPG 122 mg/dL.\n  Plan: Maintain metformin 750 mg BD, glimepiride 0.5 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD.\n- Weight 66 kg, waist 80 cm (at cutoff).\n  Diet advice: Breakfast – idli with sambar; Lunch – brown rice with leafy greens; Dinner – paneer tikka with salad.\nDue: HbA1c repeat 2026-01-05."
+    },
+    {
+      "memory_id": "X0482-m08",
+      "date": "2025-10-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Escitalopram 5 mg OD after breakfast\nBuspirone 5 mg OD after dinner\nMethylcobalamin 1500 mcg OD after dinner\nMetformin 750 mg BD after meals\nGlimepiride 0.5 mg OD before breakfast\nSitagliptin 100 mg OD after breakfast\nEmpagliflozin 10 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0482-m09",
+      "date": "2026-01-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dilated fundus exam: No diabetic retinopathy, macula normal, peripheral retina intact. Visual acuity 6/6 both eyes."
+    },
+    {
+      "memory_id": "X0482-m10",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  Status: Well controlled, GAD-7 4 (minimal).\n  Plan: Taper buspirone to stop, continue escitalopram 5 mg OD.\n- Vitamin B12 deficiency\n  Status: Normal, B12 480 pg/mL.\n  Plan: Stop methylcobalamin, consider dietary B12.\n- Type 2 diabetes mellitus\n  Status: HbA1c 6.8%, FPG 110 mg/dL.\n  Plan: Continue metformin 750 mg BD, glimepiride 0.5 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD.\n- Weight 65 kg, waist 78 cm (below cutoff).\n  Diet advice: Breakfast – poha with peanuts; Lunch – millet khichdi with curd; Dinner – grilled salmon with asparagus.\nDue: HbA1c repeat 2026-07-15."
+    },
+    {
+      "memory_id": "X0482-m11",
+      "date": "2026-04-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8% (ref 4-5.6)\nFasting plasma glucose 110 mg/dL (ref 70-99)\nTSH 3.5 mIU/L (ref 0.4-4.0)\nSerum vitamin B12 480 pg/mL (ref 200-900)\nHaemoglobin 13.5 g/dL (female ref 12-16)\nMCV 90 fL (ref 80-100)\nGAD-7 score 4 (0-4 minimal, 5-9 mild, 10-14 moderate, 15-21 severe)\nUrine albumin‑creatinine ratio 20 mg/g (ref <30)"
+    },
+    {
+      "memory_id": "X0482-m12",
+      "date": "2026-09-30",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel much better now. Anxiety is low, energy good, no hypoglycaemia episodes. No side effects from medicines. I would like to continue current plan and see you in a few months."
+    }
+  ]
+}

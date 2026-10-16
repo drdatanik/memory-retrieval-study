@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0192",
+  "name": "Falguni Parikh",
+  "age": 44,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0192-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild dyspnea on climbing two flights of stairs, otherwise independent in ADLs.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal), negative screen.\nfalls: no falls in last 12 months; gait steady; timed up-and-go 9 seconds, within normal range.\nmedicines: 2 regular (tiotropium inhaler OD, budesonide-formoterol 200/6 inhaler BD); salbutamol inhaler SOS as needed.\nmood: denies low mood or anxiety; reports good sleep.\ncarers: husband, Rajesh, spouse.\ngoals: \"I want to stay active at work and keep up with my daily walks.\""
+    },
+    {
+      "memory_id": "X0192-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "tiotropium inhaler 18 mcg inhalation OD\nbudesonide-formoterol 200/6 mcg inhalation BD\nsalbutamol inhaler 100 mcg inhalation SOS"
+    },
+    {
+      "memory_id": "X0192-m03",
+      "date": "2025-04-06",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked spirometry for 2025-05-20 at 10:00 am."
+    },
+    {
+      "memory_id": "X0192-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.68 L (55% predicted), FVC 2.90 L (88% predicted), FEV1/FVC 0.58 (58%). Post-bronchodilator FEV1 1.80 L (59% predicted)."
+    },
+    {
+      "memory_id": "X0192-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: notes increased breathlessness on exertion, uses salbutamol 3-4 times/week; otherwise manages housework.\ncognition: Mini-Cog not repeated (annual screen due next visit).\nfalls: no falls; gait slightly slower on heels; timed up-and-go 10 seconds.\nmedicines: 2 regular (tiotropium OD, budesonide-formoterol BD); salbutamol SOS usage up.\nmood: reports occasional frustration with breathlessness; denies depression.\ncarers: husband, Rajesh, spouse.\ngoals: \"I would like to reduce my inhaler use and feel less tired after work.\""
+    },
+    {
+      "memory_id": "X0192-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "budesonide-formoterol 200/6 mcg inhalation BD increased to 2 puffs BD\ntiotropium inhaler 18 mcg inhalation OD unchanged\nsalbutamol inhaler 100 mcg inhalation SOS"
+    },
+    {
+      "memory_id": "X0192-m07",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Chest X-ray: lungs hyperinflated, flattened diaphragms, no focal consolidation or pleural effusion. Cardiac size within normal limits."
+    },
+    {
+      "memory_id": "X0192-m08",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: \"Over the past week I have felt more short of breath after walking to the bus stop, and I needed my rescue inhaler twice today. Is this normal?\""
+    },
+    {
+      "memory_id": "X0192-m09",
+      "date": "2025-09-10",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referred to Pulmonology, Apollo Specialist Centre, for evaluation of worsening COPD symptoms and possible need for escalation of therapy."
+    },
+    {
+      "memory_id": "X0192-m10",
+      "date": "2025-10-05",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Pulmonology advice: continue current bronchodilators, consider adding roflumilast 500 mcg OD if exacerbations persist; advise annual influenza vaccine and pneumococcal vaccination; repeat spirometry in 6 months."
+    },
+    {
+      "memory_id": "X0192-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports better tolerance to walks after using roflumilast started per pulmonology advice; salbutamol use down to 1-2 times/week.\ncognition: Mini-Cog score 3/5 (recall 2, clock draw mild abnormality), negative screen.\nfalls: no falls; gait normal; timed up-and-go 9 seconds.\nmedicines: 3 regular (tiotropium OD, budesonide-formoterol BD, roflumilast OD); salbutamol SOS as needed.\nmood: feels more optimistic; denies anxiety.\ncarers: husband, Rajesh, spouse.\ngoals: \"I want to keep working full‑time without needing frequent breaks for breathlessness.\""
+    },
+    {
+      "memory_id": "X0192-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "roflumilast 500 mcg oral OD\nbudesonide-formoterol 200/6 mcg inhalation BD\ntiotropium inhaler 18 mcg inhalation OD\nsalbutamol inhaler 100 mcg inhalation SOS"
+    },
+    {
+      "memory_id": "X0192-m13",
+      "date": "2026-03-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.75 L (57% predicted), FVC 2.95 L (90% predicted), FEV1/FVC 0.59 (59%). SpO2 room air 94% (rest)."
+    },
+    {
+      "memory_id": "X0192-m14",
+      "date": "2026-06-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports occasional mild dyspnea on hurried walking; able to complete workday without rescue inhaler.\ncognition: Mini-Cog not due (annual screen next visit).\nfalls: no falls; gait steady; timed up-and-go 9 seconds.\nmedicines: 3 regular (tiotropium OD, budesonide-formoterol BD, roflumilast OD); salbutamol SOS minimal.\nmood: stable; reports good energy.\ncarers: husband, Rajesh, spouse.\ngoals: \"I aim to maintain my current activity level and avoid any exacerbations.\""
+    },
+    {
+      "memory_id": "X0192-m15",
+      "date": "2026-06-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "tiotropium inhaler 18 mcg inhalation OD\nbudesonide-formoterol 200/6 mcg inhalation BD\nroflumilast 500 mcg oral OD\nsalbutamol inhaler 100 mcg inhalation SOS – advise to use only if wheeze develops."
+    },
+    {
+      "memory_id": "X0192-m16",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Changed follow‑up visit from 2026-10-15 to 2026-10-01 at 14:30."
+    }
+  ]
+}

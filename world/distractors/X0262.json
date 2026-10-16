@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0262",
+  "name": "Anoop Kaimal",
+  "age": 19,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Epilepsy",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0262-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: On levetiracetam 500 mg BD and lamotrigine 50 mg BD, reports 2 seizures in past month.\n  - Plan: Check serum sodium and creatinine; consider increasing levetiracetam if labs normal.\n- Allergic rhinitis\n  - Status: Cetirizine 10 mg HS, fluticasone nasal spray OD, montelukast 10 mg HS; mild nasal congestion.\n  - Plan: Continue current regimen; review response in 2 months.\n- Weight 68 kg, waist 78 cm (male cutoff 90 cm).\n  - Diet: Breakfast: whole grain toast + egg; Lunch: rice, dal, veg; Dinner: light soup, roti.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0262-m02",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg BD after food\nLamotrigine 50 mg BD after food\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0262-m03",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 138 mmol/L (135-145)\nSerum Creatinine: 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0262-m04",
+      "date": "2025-05-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: Background activity normal. No epileptiform discharges. No significant change from prior."
+    },
+    {
+      "memory_id": "X0262-m05",
+      "date": "2025-06-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past week I have had three tonic‑clonic seizures, each lasting about 2 minutes. I feel tired afterwards and have missed work."
+    },
+    {
+      "memory_id": "X0262-m06",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Increased seizure frequency (3 episodes in last week) despite current meds.\n  - Plan: Increase levetiracetam to 750 mg BD; keep lamotrigine unchanged; repeat Na/Cr in 4 weeks.\n- Allergic rhinitis\n  - Status: Symptoms stable on current regimen.\n  - Plan: Continue; consider intranasal antihistamine if congestion worsens.\n- Weight 69 kg, waist 80 cm.\n  - Diet: Breakfast: oats + milk; Lunch: chapati, sambar, salad; Dinner: dalia, veg.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0262-m07",
+      "date": "2025-06-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 750 mg BD after food\nLamotrigine 50 mg BD after food\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0262-m08",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 139 mmol/L (135-145)\nSerum Creatinine: 0.88 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0262-m09",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2027-01-15 10:30 AM with Dr Karthik Hegde (D04) for routine follow‑up. Patient confirmed via SMS."
+    },
+    {
+      "memory_id": "X0262-m10",
+      "date": "2025-08-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure frequency reduced to 1 episode in past month after levetiracetam increase.\n  - Plan: Maintain current dose; check Na/Cr again in 3 months.\n- Allergic rhinitis\n  - Status: Nasal congestion mild, no exacerbation.\n  - Plan: Continue current meds; review in 2 months.\n- Weight 70 kg, waist 81 cm.\n  - Diet: Breakfast: idli + sambar; Lunch: rice, rasam, veg; Dinner: khichdi, curd.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0262-m11",
+      "date": "2025-08-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 750 mg BD after food\nLamotrigine 50 mg BD after food\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0262-m12",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Skin prick test: Positive reaction to house dust mite (3+), mild to pollen (1+). Negative to pet dander."
+    },
+    {
+      "memory_id": "X0262-m13",
+      "date": "2025-09-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Total Serum IgE: 210 IU/mL (reference <100). Elevated, consistent with allergic rhinitis."
+    },
+    {
+      "memory_id": "X0262-m14",
+      "date": "2025-10-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "My nasal congestion has improved; I only need cetirizine occasionally. No sneezing or itchy eyes lately."
+    },
+    {
+      "memory_id": "X0262-m15",
+      "date": "2025-11-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure free for 6 weeks; tolerating levetiracetam 750 mg BD.\n  - Plan: Continue current regimen; repeat Na/Cr in 3 months.\n- Allergic rhinitis\n  - Status: Symptoms well controlled with occasional cetirizine; nasal spray used prn.\n  - Plan: Attempt to taper fluticasone to every other day; monitor.\n- Weight 71 kg, waist 82 cm.\n  - Diet: Breakfast: poha + peanuts; Lunch: roti, dal, vegetable; Dinner: vegetable pulao, raita.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0262-m16",
+      "date": "2025-11-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 750 mg BD after food\nLamotrigine 50 mg BD after food\nCetirizine 10 mg HS as needed\nFluticasone nasal spray 1 spray each nostril every other day\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0262-m17",
+      "date": "2026-03-01",
+      "type": "referral",
+      "author": "D04",
+      "text": "To: Neurology Department, Vikram Hospital\nReason: First‑break seizure disorder; optimize anti‑epileptic therapy; consider EEG video monitoring.\nClinical details: 19‑year‑old male on levetiracetam 750 mg BD, lamotrigine 50 mg BD, seizure free for 8 weeks. Baseline labs normal.\nRequest: Opinion on long‑term management and possible drug taper."
+    },
+    {
+      "memory_id": "X0262-m18",
+      "date": "2026-04-01",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "From Neurology, Vikram Hospital\nAssessment: Epilepsy well controlled; medication appropriate.\nRecommendation: Continue current regimen for at least 12 months before considering taper; repeat EEG in 6 months.\nNo urgent intervention needed."
+    }
+  ]
+}

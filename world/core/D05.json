@@ -1,0 +1,42 @@
+{
+  "doctor_id": "D05",
+  "name": "Dr Suresh Menon",
+  "specialty": "Pulmonology",
+  "memories": [
+    {
+      "memory_id": "D05-m01",
+      "date": "2025-04-01",
+      "type": "doctor_preference",
+      "author": "D05",
+      "text": "Dr Menon's notes begin with the diagnosis as a single sentence on the first line, and the evidence for it follows beneath. Symptoms and examination are written together in one short paragraph. Inhalers are named with their device type, for example 'salbutamol metered-dose inhaler'."
+    },
+    {
+      "memory_id": "D05-m02",
+      "date": "2025-04-02",
+      "type": "doctor_preference",
+      "author": "D05",
+      "text": "Dr Menon records spirometry at every review for asthma or COPD. The entry gives FEV1 in litres and as a percentage of predicted, FVC in litres, and the FEV1/FVC ratio, copied from the report. The change in FEV1 since the last test is stated in litres."
+    },
+    {
+      "memory_id": "D05-m03",
+      "date": "2025-04-03",
+      "type": "doctor_preference",
+      "author": "D05",
+      "text": "Dr Menon scores asthma control with the Asthma Control Test at every asthma review. A total of 19 or less is recorded as not well controlled, and 20 to 25 as well controlled. The score is written in the assessment."
+    },
+    {
+      "memory_id": "D05-m04",
+      "date": "2025-04-04",
+      "type": "doctor_preference",
+      "author": "D05",
+      "text": "Dr Menon observes and records inhaler technique at every review. Entries read 'Technique checked: correct' or 'Technique corrected', with what was taught. Patients using a dry powder device also have their inspiratory flow assessed."
+    },
+    {
+      "memory_id": "D05-m05",
+      "date": "2025-04-05",
+      "type": "doctor_preference",
+      "author": "D05",
+      "text": "Dr Menon records smoking status at the first visit and at every review as never, former or current. Pack-years are calculated for anyone who has ever smoked, and former smokers have the year they stopped written beside their status."
+    }
+  ]
+}

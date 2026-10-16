@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0529",
+  "name": "Chandrashekar Shetty",
+  "age": 69,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0529-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow-up of known hypothyroidism, fatigue and weight gain.\nEXAMINATION: BP 138/84, weight 78 kg, height 1.68 m, BMI 27.6 (obese). Pulse regular, no thyroid enlargement.\nIMPRESSION: Hypothyroidism uncontrolled, TSH likely elevated.\nARRANGEMENTS: Order fasting TSH and free T4. Continue levothyroxine 50 mcg OD. Return if worsening fatigue, palpitations, or fever >39°C."
+    },
+    {
+      "memory_id": "X0529-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "levothyroxine 50 mcg OD"
+    },
+    {
+      "memory_id": "X0529-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 8.2 mIU/L (0.4-4.0). Free T4 9.8 pmol/L (10.0-23.0)."
+    },
+    {
+      "memory_id": "X0529-m04",
+      "date": "2025-05-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Review of thyroid labs, persistent mild fatigue.\nEXAMINATION: BP 136/82, weight 77.5 kg, BMI 27.4 (obese).\nIMPRESSION: TSH elevated, free T4 low – inadequate levothyroxine dose.\nARRANGEMENTS: Increase levothyroxine to 75 mcg OD. Recheck TSH in 6 weeks. Return if new palpitations, tremor, or fever >39°C."
+    },
+    {
+      "memory_id": "X0529-m05",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "levothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0529-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.5 mIU/L (0.4-4.0). Free T4 13.2 pmol/L (10.0-23.0)."
+    },
+    {
+      "memory_id": "X0529-m07",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow-up, patient feels better.\nEXAMINATION: BP 134/80, weight 77 kg, BMI 26.9 (overweight). Advised diet and activity.\nIMPRESSION: TSH now within target range on 75 mcg levothyroxine.\nARRANGEMENTS: Continue current dose. Repeat TSH in 6 months. Return if weight change >5 kg, palpitations, or fever >39°C."
+    },
+    {
+      "memory_id": "X0529-m08",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "levothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0529-m09",
+      "date": "2025-08-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel less tired and my constipation has improved since increasing the thyroxine."
+    },
+    {
+      "memory_id": "X0529-m10",
+      "date": "2025-11-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Annual review, asymptomatic.\nEXAMINATION: BP 132/78, weight 76.5 kg, BMI 27.1 (overweight). Advised diet and activity.\nIMPRESSION: Euthyroid on levothyroxine 75 mcg. Lipids and glucose checked as per annual screening.\nARRANGEMENTS: Offered influenza vaccine; patient accepted and received today. Repeat fasting lipid profile and fasting glucose in 1 year. Return if chest pain, dyspnoea, fever >39°C, or unexplained weight loss."
+    },
+    {
+      "memory_id": "X0529-m11",
+      "date": "2025-11-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 5.6 mmol/L (3.9-5.5) – borderline; repeat in 3 months. Total cholesterol 5.2 mmol/L (<5.2 desirable). HDL 1.2 mmol/L (>1.0 good). LDL 2.9 mmol/L (<2.6 near target). Triglycerides 1.8 mmol/L (<1.7 normal). TSH 4.1 mIU/L (0.4-4.0). Free T4 13.5 pmol/L (10.0-23.0)."
+    },
+    {
+      "memory_id": "X0529-m12",
+      "date": "2025-11-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "levothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0529-m13",
+      "date": "2026-02-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-15 10:30 with Dr Priya Natarajan (D03) for review of borderline glucose and lipid results."
+    },
+    {
+      "memory_id": "X0529-m14",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Review of borderline fasting glucose and lipids.\nEXAMINATION: BP 130/76, weight 76 kg, BMI 26.9 (overweight).\nIMPRESSION: Impaired fasting glucose; lipids near target. No overt diabetes.\nARRANGEMENTS: Advise lifestyle modification – reduced refined carbs, daily walk 30 min. Repeat fasting glucose in 3 months. Continue levothyroxine 75 mcg OD. Return if polyuria, polydipsia, weight loss, or fever >39°C."
+    },
+    {
+      "memory_id": "X0529-m15",
+      "date": "2026-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 5.4 mmol/L (3.9-5.5) – still borderline. TSH 4.3 mIU/L (0.4-4.0). Free T4 13.4 pmol/L (10.0-23.0)."
+    },
+    {
+      "memory_id": "X0529-m16",
+      "date": "2026-08-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow-up, stable.\nEXAMINATION: BP 128/74, weight 75.5 kg, BMI 26.8 (overweight). Advised diet and activity.\nIMPRESSION: Borderline glucose persistent; consider metformin if worsens. Thyroid stable.\nARRANGEMENTS: Repeat fasting glucose in 6 months. Continue levothyroxine 75 mcg OD. Return if new symptoms suggestive of diabetes, chest pain, or fever >39°C."
+    },
+    {
+      "memory_id": "X0529-m17",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Final review within study window.\nEXAMINATION: BP 126/72, weight 75 kg, BMI 26.5 (overweight).\nIMPRESSION: Patient euthyroid on levothyroxine 75 mcg OD. Glucose still borderline, lipids acceptable.\nARRANGEMENTS: Continue current therapy. Annual influenza vaccine due next autumn. Return if any red‑flag symptoms: chest pain, breathlessness, fever >39°C, or blood in stools."
+    }
+  ]
+}

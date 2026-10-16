@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0305",
+  "name": "Jyoti Solanki",
+  "age": 76,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0305-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of newly diagnosed dyslipidaemia.\nPRESENTING COMPLAINT: The patient reports feeling well, no chest pain, dyspnoea or muscle aches. She works as a lab technician and denies any new symptoms.\nEXAMINATION: BP 138/84 mmHg, weight 68 kg, height 1.58 m giving BMI 27.2 (obese). Cardiovascular and respiratory exams are normal. No hepatomegaly or muscle tenderness.\nIMPRESSION: Dyslipidaemia, obese. Baseline fasting lipid profile, liver enzymes and creatine kinase ordered.\nARRANGEMENTS: Start atorvastatin 10 mg at bedtime. Advise reduced saturated fat, increase whole grains and walking 30 minutes daily. Influenza vaccine not due today. Return if chest pain, breathlessness, palpitations, unexplained muscle pain, dark urine, or fever >39°C."
+    },
+    {
+      "memory_id": "X0305-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Atorvastatin 10 mg HS"
+    },
+    {
+      "memory_id": "X0305-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 162 mg/dL (optimal <100), HDL 38 mg/dL (>40 desirable), triglycerides 210 mg/dL (<150). Liver function: ALT 28 U/L (7-56), AST 24 U/L (10-40). Creatine kinase 92 U/L (30-200)."
+    },
+    {
+      "memory_id": "X0305-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of lipid‑lowering therapy after 3 months.\nPRESENTING COMPLAINT: Patient reports mild muscle heaviness in thighs after stairs, no pain at rest. No chest pain or breathlessness.\nEXAMINATION: BP 136/82 mmHg, weight 67.5 kg, height 1.58 m, BMI 27.0 (obese). No muscle tenderness, liver span normal.\nIMPRESSION: Persistent elevated LDL despite atorvastatin; mild CK rise suggests possible statin‑related myopathy. Consider switching to rosuvastatin.\nARRANGEMENTS: Stop atorvastatin, start rosuvastatin 10 mg OD. Repeat lipid panel, LFT and CK in 2 weeks. Advise activity modification, report worsening muscle symptoms. Return if muscle pain becomes severe, dark urine, fever >39°C, or chest pain."
+    },
+    {
+      "memory_id": "X0305-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0305-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 138 mg/dL, HDL 40 mg/dL, triglycerides 190 mg/dL. Liver function: ALT 30 U/L, AST 26 U/L. Creatine kinase 115 U/L (slightly up)."
+    },
+    {
+      "memory_id": "X0305-m07",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 6‑month dyslipidaemia review; influenza vaccine due.\nPRESENTING COMPLAINT: Patient feels well, no muscle symptoms, denies chest pain or dyspnoea.\nEXAMINATION: BP 134/80 mmHg, weight 67 kg, height 1.58 m, BMI 26.8 (obese). No hepatomegaly, muscles soft.\nIMPRESSION: LDL improved but still above target; HDL borderline. Liver enzymes stable, CK normal. Continue rosuvastatin, add fenofibrate for triglycerides.\nARRANGEMENTS: Continue rosuvastatin 10 mg OD, add fenofibrate 145 mg OD. Give influenza vaccine today (02‑Oct‑2025). Repeat lipid panel, LFT and CK in 8 weeks. Advise low‑sugar diet, regular exercise. Return if chest pain, breathlessness, severe muscle pain, dark urine, or fever >39°C."
+    },
+    {
+      "memory_id": "X0305-m08",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0305-m09",
+      "date": "2025-10-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 115 mg/dL, HDL 42 mg/dL, triglycerides 165 mg/dL. Liver function: ALT 29 U/L, AST 25 U/L. Creatine kinase 88 U/L."
+    },
+    {
+      "memory_id": "X0305-m10",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: quarterly review; assess tolerability of combination therapy.\nPRESENTING COMPLAINT: Patient reports occasional mild thigh discomfort after long walks, no pain at rest. No cardiovascular symptoms.\nEXAMINATION: BP 132/78 mmHg, weight 66.5 kg, height 1.58 m, BMI 26.6 (obese). No muscle tenderness, liver normal.\nIMPRESSION: LDL at goal, triglycerides near upper limit. CK slightly elevated, possibly due to fenofibrate‑statin interaction. Consider dose adjustment.\nARRANGEMENTS: Reduce fenofibrate to 105 mg OD, keep rosuvastatin 10 mg OD. Repeat lipid panel, LFT and CK in 4 weeks. Advise stretching, hydration. Return if muscle pain worsens, urine darkens, fever >39°C, or chest pain."
+    },
+    {
+      "memory_id": "X0305-m11",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate 105 mg OD"
+    },
+    {
+      "memory_id": "X0305-m12",
+      "date": "2026-01-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 108 mg/dL, HDL 43 mg/dL, triglycerides 158 mg/dL. Liver function: ALT 27 U/L, AST 24 U/L. Creatine kinase 102 U/L."
+    },
+    {
+      "memory_id": "X0305-m13",
+      "date": "2026-04-25",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up after dose reduction; assess CK trend.\nPRESENTING COMPLAINT: Patient states thigh discomfort resolved, feels energetic. No chest pain or dyspnoea.\nEXAMINATION: BP 130/76 mmHg, weight 66 kg, height 1.58 m, BMI 26.4 (obese). No muscle tenderness.\nIMPRESSION: LDL well controlled, triglycerides acceptable. CK normalised. Consider re‑introducing full‑dose fenofibrate for added triglyceride control.\nARRANGEMENTS: Increase fenofibrate to 145 mg OD, keep rosuvastatin 10 mg OD. Repeat lipid panel, LFT and CK in 6 weeks. Advise maintain activity, report any muscle symptoms. Return if chest pain, breathlessness, severe muscle pain, dark urine, or fever >39°C."
+    },
+    {
+      "memory_id": "X0305-m14",
+      "date": "2026-04-25",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0305-m15",
+      "date": "2026-04-27",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 106 mg/dL, HDL 44 mg/dL, triglycerides 152 mg/dL. Liver function: ALT 28 U/L, AST 25 U/L. Creatine kinase 90 U/L."
+    },
+    {
+      "memory_id": "X0305-m16",
+      "date": "2026-07-30",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine 6‑month check; influenza vaccine due again.\nPRESENTING COMPLAINT: Patient feels well, no new symptoms, denies chest pain, breathlessness or muscle pain.\nEXAMINATION: BP 128/74 mmHg, weight 65.5 kg, height 1.58 m, BMI 26.2 (obese). No hepatomegaly, muscles soft.\nIMPRESSION: Lipids stable within target; liver enzymes normal, CK normal. Continue current regimen.\nARRANGEMENTS: Continue rosuvastatin 10 mg OD and fenofibrate 145 mg OD. Give influenza vaccine today (15‑Oct‑2026). Repeat lipid panel, LFT and CK in 12 weeks. Advise balanced diet, regular walks. Return if chest pain, breathlessness, severe muscle pain, dark urine, or fever >39°C."
+    },
+    {
+      "memory_id": "X0305-m17",
+      "date": "2026-07-30",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0305-m18",
+      "date": "2026-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 15‑Nov‑2026 at 09:30 with Dr Priya Natarajan (D03)."
+    }
+  ]
+}

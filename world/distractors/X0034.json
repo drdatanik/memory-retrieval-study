@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0034",
+  "name": "Vasanthi Raman",
+  "age": 20,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Insomnia",
+    "Polycystic ovary syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0034-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Abdominal bloating and alternating diarrhea/constipation, mild discomfort.\n  - Plan: Start mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; advise low‑FODMAP diet, regular meals.\n- Insomnia\n  - Status: Difficulty falling asleep, frequent awakenings, daytime fatigue; ISI score pending.\n  - Plan: Start melatonin 3 mg HS, trazodone 50 mg HS; sleep hygiene counseling.\n- Polycystic ovary syndrome\n  - Status: Irregular menses, acne, weight 58 kg, waist 78 cm (below female cutoff 80 cm).\n  - Plan: Start metformin 500 mg BD, combined oral contraceptive pill OD; lifestyle modification.\nDue: HbA1c repeat in 3 months (2025-07-05)."
+    },
+    {
+      "memory_id": "X0034-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "- mebeverine 135 mg 1-0-1 after food\n- ispaghula husk 5 g 1-0-0 after food\n- loperamide 2 mg 0-0-1 SOS after food\n- melatonin 3 mg 0-0-1 HS\n- trazodone 50 mg 0-0-1 HS\n- metformin 500 mg 1-0-1 after food\n- ethinylestradiol 0.03 mg + levonorgestrel 0.15 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0034-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.8 g/dL (12-16), WBC 6.2×10⁹/L (4-10), Plt 210×10⁹/L (150-400).\nStool routine: No ova, cysts or pus cells; normal consistency.\ntTG‑IgA: Negative (<4 U/mL, ref <7)."
+    },
+    {
+      "memory_id": "X0034-m04",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Insomnia Severity Index: 14 (moderate).\nTSH: 2.1 mIU/L (ref 0.4‑4.0).\nHbA1c: 5.6% (ref 4.0‑5.6)."
+    },
+    {
+      "memory_id": "X0034-m05",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum testosterone: 48 ng/dL (female 15‑70).\nLH: 6.2 mIU/L (ref 2‑12).\nFSH: 5.0 mIU/L (ref 2‑12).\nLH:FSH ratio: 1.2."
+    },
+    {
+      "memory_id": "X0034-m06",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Pelvic ultrasound: Both ovaries enlarged with volume ~10 mL each. Multiple peripheral follicles (≥12 per ovary) seen. Endometrial thickness 6 mm, secretory pattern. No dominant cyst. Impression: Polycystic ovarian morphology consistent with PCOS."
+    },
+    {
+      "memory_id": "X0034-m07",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more tired during the day and still waking up 2‑3 times at night. The melatonin helps a little but I’m still sleepy in the mornings. My bowel symptoms are okay with the mebeverine."
+    },
+    {
+      "memory_id": "X0034-m08",
+      "date": "2025-05-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Bloating reduced, stool frequency normal; no urgent episodes.\n  - Plan: Continue mebeverine, ispaghula husk, loperamide SOS; maintain low‑FODMAP.\n- Insomnia\n  - Status: Persistent daytime fatigue, night awakenings; ISI likely still >12.\n  - Plan: Increase trazodone to 75 mg HS, keep melatonin 3 mg HS; advise limiting caffeine after 4 pm.\n- Polycystic ovary syndrome\n  - Status: Menses regular on OC pill, mild acne.\n  - Plan: Continue metformin 500 mg BD, OC pill; consider referral for endocrine review.\nWeight: 58.5 kg, Waist: 79 cm (still <80 cm).\nDue: HbA1c repeat in 3 months (2025-08-12)."
+    },
+    {
+      "memory_id": "X0034-m09",
+      "date": "2025-05-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "- trazodone 75 mg 0-0-1 HS\n- melatonin 3 mg 0-0-1 HS\n- mebeverine 135 mg 1-0-1 after food\n- ispaghula husk 5 g 1-0-0 after food\n- loperamide 2 mg 0-0-1 SOS after food\n- metformin 500 mg 1-0-1 after food\n- ethinylestradiol 0.03 mg + levonorgestrel 0.15 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0034-m10",
+      "date": "2025-06-15",
+      "type": "referral",
+      "author": "D04",
+      "text": "To: Dr. S. Reddy, Gynecology, Apollo Hospital, Bengaluru.\nReason: PCOS with persistent hyperandrogenism (acne) and need for expert opinion on long‑term management and fertility planning.\nEnclosed: Recent pelvic ultrasound report, serum testosterone, LH/FSH, metformin and OC pill details.\nRequest: Advice on continuation of OC pill, lifestyle interventions, and timing for pregnancy planning."
+    },
+    {
+      "memory_id": "X0034-m11",
+      "date": "2025-07-01",
+      "type": "referral_outcome",
+      "author": "lab",
+      "text": "From Dr. S. Reddy, Gynecology:\nPatient reviewed. OC pill appropriate for cycle control and acne; continue. Metformin beneficial for insulin resistance; continue. Recommend repeat pelvic ultrasound in 6 months to monitor ovarian morphology. Lifestyle: weight maintenance, exercise 150 min/week. No immediate fertility intervention needed."
+    },
+    {
+      "memory_id": "X0034-m12",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up visit booked for 2025-09-15 at 10:30 am with Dr Karthik Hegde (D04). Please bring glucose log and any symptom diary."
+    },
+    {
+      "memory_id": "X0034-m13",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Asymptomatic, no bloating or urgency.\n  - Plan: Continue mebeverine PRS, ispaghula husk daily, loperamide SOS only if needed.\n- Insomnia\n  - Status: Improved sleep onset, fewer awakenings; daytime energy better.\n  - Plan: Trazodone 75 mg HS continue, melatonin 3 mg HS; review in 2 months.\n- Polycystic ovary syndrome\n  - Status: Menses regular, acne mild.\n  - Plan: Metformin 500 mg BD continue, OC pill continue; repeat testosterone and LH/FSH in 6 months.\nWeight: 58.0 kg, Waist: 78 cm.\nDue: HbA1c repeat in 3 months (2025-12-15)."
+    }
+  ]
+}

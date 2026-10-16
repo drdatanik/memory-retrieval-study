@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0287",
+  "name": "Imtiaz Khan",
+  "age": 40,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Epilepsy",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0287-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy and COPD stable on current therapy.\nPatient reports no seizures in the past month, mild dyspnoea on exertion, uses salbutamol inhaler as needed. Examination: respiratory rate 18, SpO2 94% room air, wheeze absent, neurological exam normal. Spirometry: FEV1 1.8 L (55% predicted), FVC 2.5 L, FEV1/FVC 0.72; no prior test for comparison. Asthma Control Test score 18 (not well controlled). Inhaler technique checked: correct for tiotropium Respimat and budesonide-formoterol Dry Powder; inspiratory flow adequate. Smoking status: never. Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD, tiotropium inhaler OD, salbutamol inhaler SOS, budesonide-formoterol 200/6 inhaler BD."
+    },
+    {
+      "memory_id": "X0287-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levetiracetam 500 mg twice daily\nLamotrigine 50 mg twice daily\nTiotropium inhaler 2 puffs once daily\nSalbutamol inhaler 2 puffs as needed\nBudesonide-formoterol 200/6 inhaler 2 puffs twice daily"
+    },
+    {
+      "memory_id": "X0287-m03",
+      "date": "2025-04-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium 138 mmol/L (135-145)\nSerum Creatinine 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0287-m04",
+      "date": "2025-04-04",
+      "type": "investigation",
+      "author": "D05",
+      "text": "EEG: Background activity normal for age, no epileptiform discharges, no slowing. Impression: No electrographic evidence of seizure activity; consistent with well-controlled epilepsy on current medication."
+    },
+    {
+      "memory_id": "X0287-m05",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy seizure-free, COPD mild exacerbation.\nPatient reports no seizures, increased cough and wheeze over past 10 days, used salbutamol inhaler 4-5 times daily. SpO2 92% room air, respiratory rate 20, mild expiratory wheeze bilaterally. Spirometry: FEV1 1.6 L (48% predicted) down 0.2 L from last, FVC 2.4 L, FEV1/FVC 0.67. Asthma Control Test score 16 (not well controlled). Inhaler technique corrected: advised to hold breath 5 seconds after Dry Powder inhalation. Smoking status: never. Continue epilepsy meds; add short course oral prednisolone 40 mg daily for 5 days, continue tiotropium OD, salbutamol SOS, increase budesonide-formoterol to 2 puffs BD (maintain)."
+    },
+    {
+      "memory_id": "X0287-m06",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levetiracetam 500 mg twice daily\nLamotrigine 50 mg twice daily\nTiotropium inhaler 2 puffs once daily\nSalbutamol inhaler 2 puffs as needed\nBudesonide-formoterol 200/6 inhaler 2 puffs twice daily\nPrednisolone 40 mg once daily for 5 days"
+    },
+    {
+      "memory_id": "X0287-m07",
+      "date": "2025-07-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium 137 mmol/L (135-145)\nSerum Creatinine 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0287-m08",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-12 at 10:00 AM with Dr Suresh Menon (D05) for respiratory and epilepsy review."
+    },
+    {
+      "memory_id": "X0287-m09",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy stable, COPD post-exacerbation recovery.\nPatient reports seizure-free, cough resolved, wheeze only occasional with salbutamol use 1-2 times daily. SpO2 94% room air, respiratory rate 18, chest clear. Spirometry: FEV1 1.7 L (52% predicted) up 0.1 L from last, FVC 2.5 L, FEV1/FVC 0.68. Asthma Control Test score 20 (well controlled). Inhaler technique checked: correct for all devices. Smoking status: never. Continue epilepsy meds, tiotropium OD, salbutamol SOS, budesonide-formoterol 200/6 inhaler BD, discontinue prednisolone."
+    },
+    {
+      "memory_id": "X0287-m10",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levetiracetam 500 mg twice daily\nLamotrigine 50 mg twice daily\nTiotropium inhaler 2 puffs once daily\nSalbutamol inhaler 2 puffs as needed\nBudesonide-formoterol 200/6 inhaler 2 puffs twice daily"
+    },
+    {
+      "memory_id": "X0287-m11",
+      "date": "2026-02-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium 138 mmol/L (135-145)\nSerum Creatinine 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0287-m12",
+      "date": "2026-02-16",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray: Lungs hyperinflated, flattened diaphragms, increased retrosternal airspace. No focal consolidation, pleural effusion, or pneumothorax. Cardiac size within normal limits. Impression: Consistent with emphysematous changes of COPD, no acute pathology."
+    },
+    {
+      "memory_id": "X0287-m13",
+      "date": "2026-06-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy and COPD well controlled.\nPatient denies seizures, reports mild exertional dyspnoea only on stairs, uses salbutamol inhaler <2 times per week. SpO2 95% room air, respiratory rate 16, chest clear. Spirometry: FEV1 1.8 L (55% predicted) up 0.1 L from last, FVC 2.6 L, FEV1/FVC 0.69. Asthma Control Test score 22 (well controlled). Inhaler technique checked: correct; inspiratory flow adequate for Dry Powder. Smoking status: never. Continue current epilepsy and COPD regimen."
+    },
+    {
+      "memory_id": "X0287-m14",
+      "date": "2026-06-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levetiracetam 500 mg twice daily\nLamotrigine 50 mg twice daily\nTiotropium inhaler 2 puffs once daily\nSalbutamol inhaler 2 puffs as needed\nBudesonide-formoterol 200/6 inhaler 2 puffs twice daily"
+    },
+    {
+      "memory_id": "X0287-m15",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy seizure-free, COPD stable.\nPatient reports no seizures, occasional mild wheeze with exertion, salbutamol use 1-2 times weekly. SpO2 96% room air, respiratory rate 15, chest clear. Spirometry: FEV1 1.9 L (58% predicted) up 0.1 L from last, FVC 2.7 L, FEV1/FVC 0.70. Asthma Control Test score 23 (well controlled). Inhaler technique checked: correct. Smoking status: never. Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD, tiotropium inhaler OD, salbutamol inhaler SOS, budesonide-formoterol 200/6 inhaler BD."
+    },
+    {
+      "memory_id": "X0287-m16",
+      "date": "2026-09-30",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levetiracetam 500 mg twice daily\nLamotrigine 50 mg twice daily\nTiotropium inhaler 2 puffs once daily\nSalbutamol inhaler 2 puffs as needed\nBudesonide-formoterol 200/6 inhaler 2 puffs twice daily"
+    }
+  ]
+}

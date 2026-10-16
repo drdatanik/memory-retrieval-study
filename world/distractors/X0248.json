@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0248",
+  "name": "Unnikrishnan Kurup",
+  "age": 90,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Type 2 diabetes",
+    "Osteoarthritis of the knee",
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0248-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in basic ADLs; uses a walking stick for outdoor ambulation; manages finances as an accountant.\ncognition: Mini-Cog score 3/5 (negative); recalls 1 of 3 items, clock draw normal.\nfalls: 0 falls in past 12 months; gait slow with cautious steps; timed up-and-go 14 seconds (raised fall risk) – advise supervised strength‑balance exercises and supportive footwear.\nmedicines: 9 regular medicines (polypharmacy) – request review against Beers criteria.\nmood: Reports occasional low mood, denies hopelessness or suicidal thoughts.\ncarers: Carer: Son, Arjun Kumar.\ngoals: \"I want to stay active enough to walk to the temple twice a week.\""
+    },
+    {
+      "memory_id": "X0248-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg tablet BD oral 30 days\nglimepiride 1 mg tablet OD before breakfast 30 days\nsitagliptin 100 mg tablet OD 30 days\nempagliflozin 10 mg tablet OD 30 days\npregabalin 75 mg capsule BD 30 days\ndiclofenac 50 mg tablet BD after food 30 days\nmethylcobalamin 1500 mcg tablet OD 30 days\ntopical diclofenac gel apply to knees BD 30 days\ncalcium 500 mg with vitamin D3 400 IU tablet OD 30 days\nparacetamol 650 mg tablet SOS for pain max 3 g/day 30 days"
+    },
+    {
+      "memory_id": "X0248-m03",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (target <7.0%)\nFasting plasma glucose 162 mg/dL (70-110)\nUrine albumin‑creatinine ratio 45 mg/g (<30)\nSerum creatinine 1.1 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0248-m04",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg tablet BD oral 30 days (continue)\nglimepiride 1 mg tablet OD before breakfast 30 days (continue)\nsitagliptin 100 mg tablet OD 30 days (continue)\nempagliflozin 10 mg tablet OD 30 days (continue)\nadd: vitamin D3 cholecalciferol 1000 IU tablet OD 30 days"
+    },
+    {
+      "memory_id": "X0248-m05",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Walks short distances with stick; reports knee pain limiting stairs.\ncognition: Mini-Cog 3/5 (stable).\nfalls: 1 fall in last 12 months (slipped on bathroom mat); gait unsteady; timed up-and-go 16 seconds (raised fall risk) – prescribe physiotherapy and non‑slip socks.\nmedicines: 10 regular medicines (polypharmacy) – request Beers review.\nmood: Denies depression; reports frustration with mobility.\ncarers: Carer: Son, Arjun Kumar.\ngoals: \"I wish to climb the temple steps without pain.\""
+    },
+    {
+      "memory_id": "X0248-m06",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Weight‑bearing X‑ray both knees: mild joint space narrowing medial compartment, osteophytes; no fracture. Impression: Grade II osteoarthritis bilateral knees."
+    },
+    {
+      "memory_id": "X0248-m07",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.4% (down from 7.8)\nFasting plasma glucose 148 mg/dL\nSerum 25‑OH vitamin D 18 ng/mL (deficient <20)\nUrine ACR 38 mg/g (improving)"
+    },
+    {
+      "memory_id": "X0248-m08",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg tablet BD oral 30 days\nglimepiride 1 mg tablet OD before breakfast 30 days\nsitagliptin 100 mg tablet OD 30 days\nempagliflozin 10 mg tablet OD 30 days\npregabalin 75 mg capsule BD 30 days\ndiclofenac 50 mg tablet BD after food 30 days\nmethylcobalamin 1500 mcg tablet OD 30 days\ncalcium 500 mg with vitamin D3 400 IU tablet OD 30 days\nadd: cholecalciferol 2000 IU tablet OD 30 days (for deficiency)\nparacetamol 650 mg tablet SOS max 3 g/day 30 days"
+    },
+    {
+      "memory_id": "X0248-m09",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Uses walker for community ambulation; reports improved knee pain after physiotherapy.\ncognition: Mini-Cog 2/5 (positive screen) – arrange detailed neuropsych assessment.\nfalls: 0 falls in past 12 months; gait with walker stable; timed up-and-go 14 seconds (borderline) – continue balance exercises.\nmedicines: 11 regular medicines (polypharmacy) – Beers review due.\nmood: Reports occasional anxiety; denies depression.\ncarers: Carer: Son, Arjun Kumar.\ngoals: \"I want to remember my grandchildren’s names and attend family gatherings.\""
+    },
+    {
+      "memory_id": "X0248-m10",
+      "date": "2026-04-20",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Dr. Sita Rao, Ophthalmology, Narayana Nethralaya for dilated fundus exam to assess diabetic retinopathy. Please include visual acuity and OCT macula."
+    },
+    {
+      "memory_id": "X0248-m11",
+      "date": "2026-07-05",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Ophthalmology report: Mild non‑proliferative diabetic retinopathy, both eyes; macula stable. Recommend annual fundus photography and tight glucose control. No laser needed at present."
+    },
+    {
+      "memory_id": "X0248-m12",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-10-15 09:30 with Dr Nandini Kulkarni (D06) for routine geriatric review. Patient confirmed via clinic app."
+    }
+  ]
+}

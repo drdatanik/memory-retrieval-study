@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0485",
+  "name": "Kulwinder Bains",
+  "age": 73,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0485-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Initial assessment for vitamin D deficiency.\nPRESENTING COMPLAINT: The patient reports fatigue and occasional bone aches over the past 2 months.\nEXAMINATION: BP 138/84 mmHg, weight 68 kg, height 1.55 m, BMI 28.3 (obese). General appearance well, no pallor.\nIMPRESSION: Vitamin D deficiency likely contributing to fatigue. No other acute issues.\nARRANGEMENTS: Start cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU daily. Advise weight-bearing exercise and calcium-rich diet. Return if new bone pain, worsening fatigue, or fever >39°C."
+    },
+    {
+      "memory_id": "X0485-m02",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 60000 IU oral once weekly for 8 weeks, then cholecalciferol 1000 IU oral daily."
+    },
+    {
+      "memory_id": "X0485-m03",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 14 ng/mL (ref 30-100). Serum calcium: 9.2 mg/dL (ref 8.6-10.3). Serum phosphate: 2.8 mg/dL (ref 2.5-4.5)."
+    },
+    {
+      "memory_id": "X0485-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Started the weekly high-dose vitamin D. Feel a bit less tired after two weeks, but still get mild back ache after long shifts at the hotel."
+    },
+    {
+      "memory_id": "X0485-m05",
+      "date": "2025-06-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 28 ng/mL (ref 30-100). Serum calcium: 9.4 mg/dL. Serum phosphate: 3.0 mg/dL."
+    },
+    {
+      "memory_id": "X0485-m06",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow-up on vitamin D repletion.\nPRESENTING COMPLAINT: Persistent mild fatigue and occasional back discomfort.\nEXAMINATION: BP 136/82 mmHg, weight 67 kg, BMI 27.9 (overweight). No tenderness.\nIMPRESSION: Vitamin D level still suboptimal; continue supplementation.\nARRANGEMENTS: Switch to cholecalciferol 1000 IU daily indefinitely. Advise daily walk and fortified milk. Return if fatigue worsens, new pain, or fever >39°C."
+    },
+    {
+      "memory_id": "X0485-m07",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 1000 IU oral daily."
+    },
+    {
+      "memory_id": "X0485-m08",
+      "date": "2025-08-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow-up visit for 2025-12-10 at 10:00 AM with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0485-m09",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine check.\nPRESENTING COMPLAINT: Patient feels better, less fatigue.\nEXAMINATION: BP 134/80 mmHg, weight 66 kg, BMI 27.5 (overweight).\nIMPRESSION: Vitamin D likely adequate now; monitor.\nARRANGEMENTS: Continue cholecalciferol 1000 IU daily. Encourage sunlight exposure 15 mins daily. Return if bone pain, fatigue, or fever >39°C."
+    },
+    {
+      "memory_id": "X0485-m10",
+      "date": "2025-12-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 34 ng/mL (ref 30-100). Serum calcium: 9.5 mg/dL. Serum phosphate: 3.1 mg/dL."
+    },
+    {
+      "memory_id": "X0485-m11",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual review.\nPRESENTING COMPLAINT: No specific complaints.\nEXAMINATION: BP 132/78 mmHg, weight 65 kg, BMI 27.0 (overweight).\nIMPRESSION: Vitamin D sufficient. Annual fasting lipid profile and glucose ordered per protocol.\nARRANGEMENTS: Continue cholecalciferol 1000 IU daily. Lipid and glucose labs today. Return if chest pain, breathlessness, fever >39°C."
+    },
+    {
+      "memory_id": "X0485-m12",
+      "date": "2026-04-07",
+      "type": "investigation",
+      "author": "D03",
+      "text": "ECG: Normal sinus rhythm, rate 78 bpm. No ST-T changes. No evidence of ischemia."
+    },
+    {
+      "memory_id": "X0485-m13",
+      "date": "2026-08-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Mid-year follow-up.\nPRESENTING COMPLAINT: Patient reports occasional knee pain after standing long hours.\nEXAMINATION: BP 130/76 mmHg, weight 64 kg, BMI 26.6 (overweight). Knee exam mild tenderness, no effusion.\nIMPRESSION: Vitamin D adequate; knee pain likely mechanical.\nARRANGEMENTS: Continue cholecalciferol 1000 IU daily. Advise quadriceps strengthening, weight control. Return if swelling, redness, fever >39°C."
+    },
+    {
+      "memory_id": "X0485-m14",
+      "date": "2026-08-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 36 ng/mL (ref 30-100). Serum calcium: 9.5 mg/dL. Serum phosphate: 3.2 mg/dL."
+    }
+  ]
+}

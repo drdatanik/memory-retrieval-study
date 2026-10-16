@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0377",
+  "name": "Bhagyalakshmi Naidu",
+  "age": 67,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Gastro-oesophageal reflux",
+    "Non-alcoholic fatty liver disease",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0377-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 67‑year‑old woman reports intermittent heartburn and regurgitation for 3 months, mild fatigue.\nEXAMINATION: BP 138/84 mmHg, weight 68 kg, BMI 22.9 (normal). Abdomen soft, no tenderness.\nIMPRESSION: Gastro‑oesophageal reflux disease, suspected non‑alcoholic fatty liver disease, newly diagnosed type 2 diabetes (HbA1c 7.8%).\nARRANGEMENTS: Start pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, metformin 500 mg BD, glimepiride 1 mg OD, sitagliptin 100 mg OD, silymarin 140 mg TDS, rosuvastatin 5 mg OD. Advise diet low in fat, avoid late meals, walk 30 min daily. Return if chest pain, vomiting, black stools, or fever >39°C."
+    },
+    {
+      "memory_id": "X0377-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nMetformin 500 mg BD\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nSilymarin 140 mg TDS\nRosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0377-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 210 mg/dL (<200), LDL 130 mg/dL (<100), HDL 48 mg/dL (>40), Triglycerides 165 mg/dL (<150).\nFasting plasma glucose: 146 mg/dL (70‑110).\nHbA1c: 7.8% (4‑5.6).\nLiver function: ALT 48 U/L (≤35), AST 42 U/L (≤34), ALP 78 U/L (40‑129), GGT 55 U/L (≤50).\nPlatelet count: 210 ×10^9/L (150‑400)."
+    },
+    {
+      "memory_id": "X0377-m04",
+      "date": "2025-04-07",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Abdominal ultrasound: Liver diffusely hyperechoic consistent with fatty infiltration, spleen normal, no focal lesion, portal vein normal. No gallstones. Impression: Grade 1 non‑alcoholic fatty liver disease."
+    },
+    {
+      "memory_id": "X0377-m05",
+      "date": "2025-04-08",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: \"I still feel burning after meals, especially after spicy food. The metformin sometimes gives me loose stools.\""
+    },
+    {
+      "memory_id": "X0377-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Heartburn improved but still occasional bloating; reports 2‑3 loose stools per week since starting metformin.\nEXAMINATION: BP 136/82, weight 67.5 kg, BMI 22.8.\nIMPRESSION: GERD partially controlled; metformin‑related gastrointestinal upset; NAFLD stable; diabetes HbA1c 7.4% (from prior).\nARRANGEMENTS: Change metformin to extended‑release 500 mg OD evenings, add empagliflozin 10 mg OD for cardio‑renal benefit, continue pantoprazole, domperidone, glimepiride, sitagliptin, silymarin, rosuvastatin. Advise smaller meals, avoid lying down after food, increase fibre. Return if worsening pain, vomiting, blood in stool, or fever."
+    },
+    {
+      "memory_id": "X0377-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nMetformin ER 500 mg OD evening\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nSilymarin 140 mg TDS\nRosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0377-m08",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 7.4% (4‑5.6).\nLiver function: ALT 44 U/L (≤35), AST 38 U/L (≤34).\nFasting glucose: 138 mg/dL (70‑110)."
+    },
+    {
+      "memory_id": "X0377-m09",
+      "date": "2025-08-01",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Dr S. Rao, Gastroenterology, for upper GI endoscopy to rule out Barrett’s esophagus given chronic GERD symptoms despite PPI. Please also assess for H. pylori if indicated."
+    },
+    {
+      "memory_id": "X0377-m10",
+      "date": "2025-09-15",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Endoscopy performed: No erosive esophagitis, no Barrett’s metaplasia. H. pylori stool antigen negative. Small hiatal hernia noted. Impression: Non‑erosive GERD. Recommend continue PPI lifestyle measures."
+    },
+    {
+      "memory_id": "X0377-m11",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Heartburn now rare, only after large meals; no dyspepsia. Reports good energy.\nEXAMINATION: BP 134/80, weight 67 kg, BMI 22.6.\nIMPRESSION: GERD well controlled on pantoprazole; diabetes HbA1c 7.2%; NAFLD stable.\nARRANGEMENTS: Continue current meds. Add low‑dose aspirin 75 mg OD for cardiovascular prophylaxis (age >65 with diabetes). Review in 3 months. Return if chest pain, vomiting, melena, or fever >39°C."
+    },
+    {
+      "memory_id": "X0377-m12",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nMetformin ER 500 mg OD evening\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nSilymarin 140 mg TDS\nRosuvastatin 5 mg OD\nAspirin 75 mg OD"
+    },
+    {
+      "memory_id": "X0377-m13",
+      "date": "2025-10-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Urine albumin‑creatinine ratio: 18 mg/g (<30 normal).\nNo microalbuminuria detected."
+    },
+    {
+      "memory_id": "X0377-m14",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked influenza vaccination for 20‑Jan‑2026 at 10:00 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0377-m15",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient came for seasonal influenza vaccine.\nEXAMINATION: BP 132/78, weight 66.8 kg, BMI 22.4.\nIMPRESSION: Influenza vaccine administered; all chronic conditions stable.\nARRANGEMENTS: Vaccine given (Fluvax) today. Advise to report fever >38.5°C or severe local reaction. Return if worsening dyspnoea, chest pain, or persistent fever."
+    },
+    {
+      "memory_id": "X0377-m16",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "No medication changes today. Continue pantoprazole, domperidone, metformin ER, glimepiride, sitagliptin, empagliflozin, silymarin, rosuvastatin, aspirin as prescribed."
+    },
+    {
+      "memory_id": "X0377-m17",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow‑up. No new symptoms; reports occasional mild heartburn after large festive meals.\nEXAMINATION: BP 130/80, weight 66.5 kg, BMI 22.2 (normal).\nIMPRESSION: GERD controlled; diabetes HbA1c 7.0%; NAFLD stable; lipids improved.\nARRANGEMENTS: Continue current regimen. Order annual fasting lipid profile, fasting glucose, HbA1c, LFT. Return if chest pain, vomiting, black stools, or fever >39°C."
+    },
+    {
+      "memory_id": "X0377-m18",
+      "date": "2026-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 188 mg/dL (<200), LDL 102 mg/dL (<100), HDL 52 mg/dL (>40), Triglycerides 138 mg/dL (<150).\nFasting plasma glucose: 124 mg/dL (70‑110).\nHbA1c: 7.0% (4‑5.6).\nLiver function: ALT 38 U/L (≤35), AST 34 U/L (≤34), ALP 76 U/L (40‑129), GGT 48 U/L (≤50).\nPlatelet count: 205 ×10^9/L (150‑400)."
+    }
+  ]
+}

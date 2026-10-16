@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0323",
+  "name": "Pooja Sharma",
+  "age": 71,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0323-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, intermittent; Hypertension, stage 1.\nPatient reports occasional wheeze on exertion, no nighttime symptoms. BP 148/92 mmHg, pulse 78, respiratory rate 18, SpO2 96% on room air. Lung examination reveals scattered wheezes bilaterally, no crackles. Cardiac exam normal. Spirometry: FEV1 2.85 L (92% predicted), FVC 3.60 L (95% predicted), FEV1/FVC 0.79. Change in FEV1 since prior: not applicable. Asthma Control Test score 22 (well controlled). Technique checked: correct for salbutamol metered-dose inhaler. Smoking status: never."
+    },
+    {
+      "memory_id": "X0323-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol 100 mcg metered-dose inhaler, 2 puffs PRN wheeze.\nFluticasone/salmeterol 250/50 mcg dry powder inhaler, 1 inhalation BD.\nAmlodipine 5 mg OD.\nTelmisartan 40 mg OD.\nLosartan 50 mg OD.\nHydrochlorothiazide 12.5 mg OD."
+    },
+    {
+      "memory_id": "X0323-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.92 mg/dL (0.60-1.20).\neGFR 78 mL/min/1.73m2 (>60).\nSerum potassium 4.6 mmol/L (3.5-5.0).\nECG: sinus rhythm, rate 72, no ST-T changes, left ventricular voltage within normal limits."
+    },
+    {
+      "memory_id": "X0323-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, intermittent; Hypertension, stage 1.\nPatient reports increased wheeze twice weekly, nocturnal cough once. BP 150/94 mmHg, pulse 80, SpO2 95%. Lung exam: mild expiratory wheezes. Spirometry: FEV1 2.70 L (87% predicted), FVC 3.55 L (93% predicted), FEV1/FVC 0.76. Change in FEV1 since last: -0.15 L. Asthma Control Test score 18 (not well controlled). Technique checked: correct for fluticasone/salmeterol DPI; inspiratory flow adequate. Smoking status: never."
+    },
+    {
+      "memory_id": "X0323-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol 100 mcg metered-dose inhaler, 2 puffs PRN wheeze.\nFluticasone/salmeterol 250/50 mcg dry powder inhaler, 2 inhalations BD.\nAmlodipine 5 mg OD.\nTelmisartan 40 mg OD.\nLosartan 50 mg OD.\nHydrochlorothiazide 12.5 mg OD."
+    },
+    {
+      "memory_id": "X0323-m06",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.95 mg/dL (0.60-1.20).\neGFR 75 mL/min/1.73m2 (>60).\nSerum potassium 4.8 mmol/L (3.5-5.0).\nECG: sinus rhythm, rate 70, no ischemic changes."
+    },
+    {
+      "memory_id": "X0323-m07",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, intermittent; Hypertension, stage 1.\nPatient reports wheeze only with heavy exertion, no nocturnal symptoms. BP 148/90 mmHg, pulse 78, SpO2 96%. Lung exam: clear to auscultation. Spirometry: FEV1 2.80 L (90% predicted), FVC 3.62 L (95% predicted), FEV1/FVC 0.77. Change in FEV1 since last: +0.10 L. Asthma Control Test score 24 (well controlled). Technique checked: correct for salbutamol MDI. Smoking status: never."
+    },
+    {
+      "memory_id": "X0323-m08",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol 100 mcg metered-dose inhaler, 2 puffs PRN wheeze.\nFluticasone/salmeterol 250/50 mcg dry powder inhaler, 1 inhalation BD.\nAmlodipine 5 mg OD.\nTelmisartan 40 mg OD.\nLosartan 50 mg OD.\nHydrochlorothiazide 12.5 mg OD."
+    },
+    {
+      "memory_id": "X0323-m09",
+      "date": "2025-10-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.93 mg/dL (0.60-1.20).\neGFR 77 mL/min/1.73m2 (>60).\nSerum potassium 4.5 mmol/L (3.5-5.0).\nECG: sinus rhythm, rate 74, no abnormalities."
+    },
+    {
+      "memory_id": "X0323-m10",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, intermittent; Hypertension, stage 1.\nPatient reports mild wheeze during cold weather, BP 152/96 mmHg. Lung exam: faint wheezes at bases. Spirometry: FEV1 2.65 L (85% predicted), FVC 3.50 L (92% predicted), FEV1/FVC 0.76. Change in FEV1 since last: -0.15 L. Asthma Control Test score 20 (borderline well controlled). Technique checked: correct; taught to use spacer with salbutamol MDI. Smoking status: never."
+    },
+    {
+      "memory_id": "X0323-m11",
+      "date": "2026-02-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol 100 mcg metered-dose inhaler, 2 puffs PRN wheeze.\nFluticasone/salmeterol 250/50 mcg dry powder inhaler, 2 inhalations BD.\nAmlodipine 5 mg OD.\nTelmisartan 40 mg OD.\nLosartan 50 mg OD.\nHydrochlorothiazide 12.5 mg OD."
+    },
+    {
+      "memory_id": "X0323-m12",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.96 mg/dL (0.60-1.20).\neGFR 73 mL/min/1.73m2 (>60).\nSerum potassium 4.9 mmol/L (3.5-5.0).\nECG: sinus rhythm, rate 68, no ST-T changes."
+    },
+    {
+      "memory_id": "X0323-m13",
+      "date": "2026-05-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, intermittent; Hypertension, stage 1.\nPatient asymptomatic, BP 145/88 mmHg. Lung exam clear. Spirometry: FEV1 2.88 L (93% predicted), FVC 3.68 L (96% predicted), FEV1/FVC 0.78. Change in FEV1 since last: +0.23 L. Asthma Control Test score 25 (well controlled). Technique checked: correct for both inhalers. Smoking status: never."
+    },
+    {
+      "memory_id": "X0323-m14",
+      "date": "2026-05-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol 100 mcg metered-dose inhaler, 2 puffs PRN wheeze.\nFluticasone/salmeterol 250/50 mcg dry powder inhaler, 1 inhalation BD.\nAmlodipine 5 mg OD.\nTelmisartan 40 mg OD.\nLosartan 50 mg OD.\nHydrochlorothiazide 12.5 mg OD."
+    },
+    {
+      "memory_id": "X0323-m15",
+      "date": "2026-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.91 mg/dL (0.60-1.20).\neGFR 80 mL/min/1.73m2 (>60).\nSerum potassium 4.4 mmol/L (3.5-5.0).\nECG: sinus rhythm, rate 72, no abnormalities."
+    },
+    {
+      "memory_id": "X0323-m16",
+      "date": "2026-06-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-09-01 10:30 AM with Dr Suresh Menon (D05) for routine follow-up."
+    },
+    {
+      "memory_id": "X0323-m17",
+      "date": "2026-09-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, intermittent; Hypertension, stage 1.\nPatient reports good control, no wheeze, BP 142/86 mmHg. Lung exam clear. Spirometry: FEV1 2.90 L (94% predicted), FVC 3.70 L (97% predicted), FEV1/FVC 0.78. Change in FEV1 since last: +0.02 L. Asthma Control Test score 24 (well controlled). Technique checked: correct. Smoking status: never."
+    },
+    {
+      "memory_id": "X0323-m18",
+      "date": "2026-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel much better since using the spacer with my salbutamol inhaler. No nighttime cough and I can walk upstairs without getting short of breath."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0372",
+  "name": "Zubeda Syed",
+  "age": 76,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0372-m01",
+      "date": "2025-04-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I am a 76-year-old woman who works as a school bus driver and lives in Rajajinagar, Bengaluru. I was told I have fatty liver disease and currently take silymarin 140 mg three times daily and rosuvastatin 5 mg each morning. I want to keep walking independently and avoid any falls that could stop me from working."
+    },
+    {
+      "memory_id": "X0372-m02",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports independent ambulation, manages bus route without assistance, no difficulty with ADLs.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal), negative screen.\nfalls: denies falls in past year, gait steady, timed up-and-go 9 seconds (normal).\nmedicines: 2 regular (silymarin, rosuvastatin); not polypharmacy.\nmood: denies low mood or anxiety, reports good sleep.\ncarers: daughter Priya, provides occasional help with groceries.\ngoal: \"I wish to stay active on my bus route and keep my liver healthy.\""
+    },
+    {
+      "memory_id": "X0372-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg tablet, take one tablet three times daily.\nrosuvastatin 5 mg tablet, take one tablet once daily."
+    },
+    {
+      "memory_id": "X0372-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 48 U/L (7-35), AST 42 U/L (8-33), ALP 92 U/L (40-129), GGT 55 U/L (9-48).\nTotal bilirubin 0.9 mg/dL (0.2-1.2).\nPlatelet count 210 x10^9/L (150-400).\nFasting lipid profile: cholesterol 190 mg/dL (<200), triglycerides 160 mg/dL (<150), HDL 48 mg/dL (>40), LDL 102 mg/dL (<100)."
+    },
+    {
+      "memory_id": "X0372-m05",
+      "date": "2025-05-20",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Abdominal ultrasound: liver shows diffuse hyperechoic parenchyma consistent with steatosis, no focal lesion, spleen normal, portal vein patent, no ascites. Impression: grade 1 non-alcoholic fatty liver disease."
+    },
+    {
+      "memory_id": "X0372-m06",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues to drive bus route, reports mild fatigue after long shifts but otherwise independent.\ncognition: Mini-Cog repeated, score 3/5 (recall 2 items, clock draw mild abnormality), negative.\nfalls: no falls, gait slightly slower, timed up-and-go 10 seconds (normal).\nmedicines: 2 regular (silymarin, rosuvastatin); not polypharmacy.\nmood: occasional irritability, denies depression.\ncarers: daughter Priya, assists with medication pickup.\ngoal: \"I want to keep working and feel less tired during my shifts.\""
+    },
+    {
+      "memory_id": "X0372-m07",
+      "date": "2025-08-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg tablet, take one tablet three times daily.\nrosuvastatin 5 mg tablet, take one tablet once daily (dose unchanged)."
+    },
+    {
+      "memory_id": "X0372-m08",
+      "date": "2025-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 62 U/L (7-35), AST 55 U/L (8-33), ALP 100 U/L (40-129), GGT 70 U/L (9-48).\nTotal bilirubin 1.0 mg/dL (0.2-1.2).\nPlatelet count 205 x10^9/L (150-400).\nFasting lipid profile: cholesterol 205 mg/dL (<200), triglycerides 180 mg/dL (<150), HDL 46 mg/dL (>40), LDL 112 mg/dL (<100)."
+    },
+    {
+      "memory_id": "X0372-m09",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild shortness of breath on exertion, still drives bus but takes breaks.\ncognition: Mini-Cog score 2/5 (recall 1 item, clock draw abnormal), positive screen – plan for MoCA assessment.\nfalls: one fall at home slipping on wet floor, no injury; gait unsteady, timed up-and-go 13 seconds (raised fall risk) – advise strength exercises and supportive footwear.\nmedicines: 2 regular (silymarin, rosuvastatin); not polypharmacy.\nmood: feels low after fall, denies hopelessness.\ncarers: daughter Priya, now helps with home safety.\ngoal: \"I want to regain my strength and avoid any more falls.\""
+    },
+    {
+      "memory_id": "X0372-m10",
+      "date": "2025-12-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg tablet, take one tablet three times daily (continue).\nrosuvastatin 5 mg tablet, take one tablet once daily (continue).\nvitamin E 400 IU softgel, take one capsule daily (added for antioxidant support)."
+    },
+    {
+      "memory_id": "X0372-m11",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 55 U/L (7-35), AST 48 U/L (8-33), ALP 95 U/L (40-129), GGT 60 U/L (9-48).\nTotal bilirubin 0.9 mg/dL (0.2-1.2).\nPlatelet count 200 x10^9/L (150-400).\nFasting lipid profile: cholesterol 198 mg/dL (<200), triglycerides 150 mg/dL (<150), HDL 48 mg/dL (>40), LDL 100 mg/dL (<100)."
+    },
+    {
+      "memory_id": "X0372-m12",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: able to drive bus route with occasional rest, reports improved energy.\ncognition: MoCA performed, score 24/30 (mild impairment), stable.\nfalls: no further falls, gait firmer, timed up-and-go 11 seconds (normal).\nmedicines: 3 regular (silymarin, rosuvastatin, vitamin E); not polypharmacy.\nmood: reports better mood, enjoys time with grandchildren.\ncarers: daughter Priya, continues to assist with meds.\ngoal: \"I wish to keep my liver numbers steady and stay active for my family.\""
+    },
+    {
+      "memory_id": "X0372-m13",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg tablet, take one tablet three times daily (continue).\nrosuvastatin 5 mg tablet, discontinue – liver enzymes stable, statin not needed.\nvitamin E 400 IU softgel, take one capsule daily (continue).\nomega-3 fatty acids 1000 mg capsule, take two capsules daily (added for lipid support)."
+    },
+    {
+      "memory_id": "X0372-m14",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-09-30 at 10:00 AM with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0372-m15",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: drives bus route independently, no fatigue reported.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal), negative.\nfalls: no falls, gait normal, timed up-and-go 9 seconds (normal).\nmedicines: 2 regular (silymarin, omega-3); not polypharmacy.\nmood: euthymic, enjoys daily activities.\ncarers: daughter Priya, provides occasional transport help.\ngoal: \"I want to maintain my health and continue working as long as I feel well.\""
+    },
+    {
+      "memory_id": "X0372-m16",
+      "date": "2026-09-30",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg tablet, take one tablet three times daily (continue).\nomega-3 fatty acids 1000 mg capsule, take two capsules daily (continue)."
+    },
+    {
+      "memory_id": "X0372-m17",
+      "date": "2026-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 38 U/L (7-35), AST 34 U/L (8-33), ALP 88 U/L (40-129), GGT 48 U/L (9-48).\nTotal bilirubin 0.7 mg/dL (0.2-1.2).\nPlatelet count 215 x10^9/L (150-400).\nFasting lipid profile: cholesterol 185 mg/dL (<200), triglycerides 130 mg/dL (<150), HDL 50 mg/dL (>40), LDL 92 mg/dL (<100)."
+    }
+  ]
+}

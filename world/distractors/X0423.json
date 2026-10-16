@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0423",
+  "name": "Ajith Nair",
+  "age": 26,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Hypothyroidism",
+    "Hypertension",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0423-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Hypothyroidism, hypertension and vitamin B12 deficiency. Patient reports fatigue, weight gain, occasional palpitations. BP 138/86 mmHg, pulse 78/min, BMI 27.2 kg/m2. No edema. Chest clear. S1S2 normal. No goiter."
+    },
+    {
+      "memory_id": "X0423-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 50 mcg OD\nAmlodipine 5 mg OD\nTelmisartan 40 mg OD\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0423-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 6.8 mIU/L (0.4-4.0)\nFree T4 9.2 pmol/L (10-23)\nSerum creatinine 0.92 mg/dL (0.6-1.2), eGFR 88 mL/min/1.73m2\nSerum potassium 4.3 mmol/L (3.5-5.0)\nVitamin B12 180 pg/mL (200-900)\nMCV 92 fL (80-100)\nHaemoglobin 13.8 g/dL (13-17)"
+    },
+    {
+      "memory_id": "X0423-m04",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling tired for the past two months and need to nap after work. My weight has gone up by about 4 kg despite no change in diet. I sometimes feel my heart racing when I climb stairs. I have been taking the tablets as prescribed but wonder if the dose is enough."
+    },
+    {
+      "memory_id": "X0423-m05",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0423-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Persistent hypothyroidism. Improved fatigue after levothyroxine start but still mild tiredness. BP 132/84 mmHg. No new symptoms. Lung fields clear. Cardiac rhythm regular."
+    },
+    {
+      "memory_id": "X0423-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 75 mcg OD\nAmlodipine 5 mg OD\nTelmisartan 40 mg OD\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0423-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (0.4-4.0)\nFree T4 11.5 pmol/L (10-23)\nSerum creatinine 0.90 mg/dL, eGFR 90 mL/min/1.73m2\nSerum potassium 4.2 mmol/L\nVitamin B12 260 pg/mL (200-900)\nMCV 90 fL\nHaemoglobin 14.0 g/dL"
+    },
+    {
+      "memory_id": "X0423-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "12‑lead ECG: sinus rhythm, rate 76 bpm. No ST‑T changes. Left ventricular voltage within normal limits. No pathological Q waves."
+    },
+    {
+      "memory_id": "X0423-m10",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel a bit more energetic now, but I still get sleepy in the afternoons. My blood pressure readings at home have been around 130/82. No chest pain or palpitations noticed recently."
+    },
+    {
+      "memory_id": "X0423-m11",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "TSH now at target. Patient reports good energy, no fatigue. BP 128/80 mmHg. No adverse effects. Lung clear. No thyroid enlargement."
+    },
+    {
+      "memory_id": "X0423-m12",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 100 mcg OD\nAmlodipine 5 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0423-m13",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0)\nFree T4 13.8 pmol/L (10-23)\nSerum creatinine 0.88 mg/dL, eGFR 92 mL/min/1.73m2\nSerum potassium 4.4 mmol/L\nVitamin B12 340 pg/mL (200-900)\nMCV 88 fL\nHaemoglobin 14.2 g/dL"
+    },
+    {
+      "memory_id": "X0423-m14",
+      "date": "2025-10-15",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Endocrinology for optimisation of thyroid replacement and to rule out autoimmune thyroiditis. Request TPO antibodies and thyroid ultrasound."
+    },
+    {
+      "memory_id": "X0423-m15",
+      "date": "2025-10-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel much better now; my energy levels are back to normal and I have lost the extra weight I gained. No side effects from the medicines. I am happy with the current plan."
+    },
+    {
+      "memory_id": "X0423-m16",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient reviewed after endocrine review. TSH stable, antibodies negative, ultrasound normal. Hypertension well controlled. No symptoms. Advise to continue current meds and annual review."
+    },
+    {
+      "memory_id": "X0423-m17",
+      "date": "2026-02-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Endocrinology report: TPO antibodies <5 IU/mL (negative). Thyroid ultrasound shows homogeneous gland, no nodules. Advise continue levothyroxine 100 mcg OD. No further action needed."
+    },
+    {
+      "memory_id": "X0423-m18",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.3 mIU/L (0.4-4.0)\nFree T4 13.5 pmol/L (10-23)\nSerum creatinine 0.89 mg/dL, eGFR 91 mL/min/1.73m2\nSerum potassium 4.3 mmol/L\nVitamin B12 330 pg/mL (200-900)\nMCV 89 fL\nHaemoglobin 14.1 g/dL"
+    }
+  ]
+}

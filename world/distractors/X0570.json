@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0570",
+  "name": "Ajay Sharma",
+  "age": 72,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0570-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m02",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m03",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m04",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m05",
+      "date": "2025-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m09",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m10",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m11",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m12",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m13",
+      "date": "2025-10-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m14",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m15",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m16",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m17",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "..."
+    },
+    {
+      "memory_id": "X0570-m18",
+      "date": "2026-01-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "..."
+    }
+  ]
+}

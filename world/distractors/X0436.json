@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0436",
+  "name": "Narasimha Chowdary",
+  "age": 88,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0436-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks with a stick, reports mild morning stiffness in hands.\ncognition: Mini-Cog score 3/5 (negative screen).\nfalls: No falls in last 12 months; gait slow but steady; TUG 13 seconds (raised fall risk); advise leg strengthening exercises and supportive footwear.\nmedicines: 4 regular; polypharmacy not reached.\nmood: Reports occasional low mood, denies depression.\ncarers: Priya, daughter.\ngoals: \"I want to stay active and walk to the temple weekly.\""
+    },
+    {
+      "memory_id": "X0436-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 28 mm/hr (0-20); CRP 8 mg/L (<5); RF positive 45 IU/ml (<14); anti-CCP 68 U/ml (<20); LFT: ALT 30 U/L (7-56), AST 26 U/L (10-40), bilirubin 0.9 mg/dl (0.2-1.2)."
+    },
+    {
+      "memory_id": "X0436-m03",
+      "date": "2025-04-08",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 10 mg once weekly; folic acid 5 mg once weekly; hydroxychloroquine 200 mg OD; prednisolone 5 mg OD."
+    },
+    {
+      "memory_id": "X0436-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages ADLs with occasional knee pain, uses walking aid for longer distances.\ncognition: No change; Mini-Cog not repeated this visit.\nfalls: One fall at home 3 months ago (minor bruise); gait uneven; TUG 14 seconds (raised fall risk); advise balance training and home hazard review.\nmedicines: 4 regular; polypharmacy not reached.\nmood: Persistent low mood, reports poor sleep.\ncarers: Priya, daughter.\ngoals: \"I wish to walk without pain to the market twice a week.\""
+    },
+    {
+      "memory_id": "X0436-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 22 mm/hr (0-20); CRP 6 mg/L (<5); LFT: ALT 38 U/L (7-56), AST 30 U/L (10-40)."
+    },
+    {
+      "memory_id": "X0436-m06",
+      "date": "2025-07-13",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate increased to 15 mg once weekly; folic acid 5 mg once weekly; hydroxychloroquine 200 mg OD; prednisolone 5 mg OD."
+    },
+    {
+      "memory_id": "X0436-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Improved mobility, walks unaided for short distances, reports less joint swelling.\ncognition: No change; Mini-Cog not repeated.\nfalls: No falls in last 6 months; gait steady; TUG 12 seconds (borderline raised fall risk); continue exercises and check footwear.\nmedicines: 4 regular; polypharmacy not reached.\nmood: Mood improved, denies depressive symptoms.\ncarers: Priya, daughter.\ngoals: \"I want to attend my grandson's school event without difficulty.\""
+    },
+    {
+      "memory_id": "X0436-m08",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 18 mm/hr (0-20); CRP 4 mg/L (<5); RF 30 IU/ml (<14); anti-CCP 45 U/ml (<20)."
+    },
+    {
+      "memory_id": "X0436-m09",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 15 mg once weekly; folic acid 5 mg once weekly; hydroxychloroquine 200 mg OD; prednisolone tapered to 2.5 mg OD."
+    },
+    {
+      "memory_id": "X0436-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports increased hand pain and stiffness after festive season; uses warm packs.\ncognition: Mini-Cog not due yet.\nfalls: No falls in last 12 months; gait mildly antalgic; TUG 13 seconds (raised fall risk); advise strengthening and proper shoes.\nmedicines: 4 regular; polypharmacy not reached.\nmood: Reports frustration with pain, occasional tearfulness.\ncarers: Priya, daughter.\ngoals: \"I hope to reduce pain enough to drive short distances again.\""
+    },
+    {
+      "memory_id": "X0436-m11",
+      "date": "2026-01-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 26 mm/hr (0-20); CRP 9 mg/L (<5); LFT: ALT 55 U/L (7-56) mild rise, AST 48 U/L (10-40), bilirubin normal."
+    },
+    {
+      "memory_id": "X0436-m12",
+      "date": "2026-01-18",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate stopped; folic acid 5 mg once weekly; hydroxychloroquine 200 mg OD; prednisolone 5 mg OD."
+    },
+    {
+      "memory_id": "X0436-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports better hand tolerance, able to grip steering wheel briefly; uses assistive device for longer walks.\ncognition: Mini-Cog score 2/5 (positive screen); plan for detailed neuropsych assessment.\nfalls: One fall outside home 2 months ago (no injury); gait slow; TUG 15 seconds (raised fall risk); refer to physiotherapy for balance.\nmedicines: 3 regular; polypharmacy not reached.\nmood: Reports occasional sadness, denies hopelessness.\ncarers: Priya, daughter.\ngoals: \"I wish to drive to the clinic on my own again.\""
+    },
+    {
+      "memory_id": "X0436-m14",
+      "date": "2026-04-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 20 mm/hr (0-20); CRP 5 mg/L (<5)."
+    },
+    {
+      "memory_id": "X0436-m15",
+      "date": "2026-04-23",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate restarted at 7.5 mg once weekly; folic acid 5 mg once weekly; hydroxychloroquine 200 mg OD; prednisolone 5 mg OD."
+    },
+    {
+      "memory_id": "X0436-m16",
+      "date": "2026-08-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-08-10 09:00 to 2026-08-05 10:30 with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0436-m17",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Stable, walks with cane for community visits, reports mild joint aches after exertion.\ncognition: No change; Mini-Cog not repeated this year.\nfalls: No falls in last 6 months; gait steady with aid; TUG 13 seconds (raised fall risk); continue exercise program.\nmedicines: 4 regular; polypharmacy not reached.\nmood: Generally content, enjoys time with grandchildren.\ncarers: Priya, daughter.\ngoals: \"I want to remain independent and attend family gatherings.\""
+    }
+  ]
+}

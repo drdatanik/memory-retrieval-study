@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0562",
+  "name": "Amit Bhatia",
+  "age": 74,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Migraine",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0562-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: preventive propranolol 40 mg OD, acute sumatriptan 50 mg SOS, topiramate 25 mg HS, naproxen 500 mg SOS; status: 4 headache days/month, mild disability; plan: continue prophylaxis, monitor side effects.\nDepression: sertraline 50 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS; status: PHQ-9 8, improved sleep; plan: maintain antidepressants, review mood.\nWeight 78 kg, waist 92 cm (>90 cm cut‑off); advise reduced carbs, walk 30 min daily.\nDue: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0562-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 40 mg OD after food\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nSertraline 50 mg OD after food\nEscitalopram 10 mg OD after food\nMirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0562-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2% (ref 4‑5.6)\nTSH 2.1 µIU/mL (ref 0.4‑4.0)\nVitamin B12 250 pg/mL (ref 200‑900)\nLipids: Total cholesterol 190 mg/dL (<200), Triglycerides 150 mg/dL (<150), HDL 42 mg/dL (>40), LDL 115 mg/dL (<130)"
+    },
+    {
+      "memory_id": "X0562-m04",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Penicillin: rash and pruritus within 30 min of ingestion – allergic reaction. Avoid beta‑lactams."
+    },
+    {
+      "memory_id": "X0562-m05",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Neurological examination: normal cranial nerves, no focal deficits, normal gait. CT head (performed elsewhere) reported no acute pathology."
+    },
+    {
+      "memory_id": "X0562-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: status 2 headache days/month, mild; plan: continue propranolol, consider tapering topiramate if fatigue persists.\nDepression: PHQ-9 6, reports good mood; plan: continue sertraline, escitalopram, mirtazapine.\nWeight 77 kg, waist 90 cm (at cut‑off); advise portion control.\nDue: HbA1c 2025-10-10."
+    },
+    {
+      "memory_id": "X0562-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 40 mg OD after food\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS (taper to 12.5 mg HS if drowsiness)\nNaproxen 500 mg SOS\nSertraline 50 mg OD after food\nEscitalopram 10 mg OD after food\nMirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0562-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.9% (ref 4‑5.6)\nTSH 2.0 µIU/mL (ref 0.4‑4.0)"
+    },
+    {
+      "memory_id": "X0562-m09",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling dizzy after taking topiramate at night, and my appetite has increased leading to weight gain."
+    },
+    {
+      "memory_id": "X0562-m10",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: dizziness likely topiramate-related; status 3 headache days/month; plan: stop topiramate, start amitriptyline 10 mg HS for migraine prophylaxis and neuropathic pain.\nDepression: appetite increase, weight 80 kg, waist 94 cm; PHQ-9 7; plan: continue antidepressants, add lifestyle counselling.\nDue: HbA1c 2026-01-02."
+    },
+    {
+      "memory_id": "X0562-m11",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 40 mg OD after food\nSumatriptan 50 mg SOS\nAmitriptyline 10 mg HS\nNaproxen 500 mg SOS\nSertraline 50 mg OD after food\nEscitalopram 10 mg OD after food\nMirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0562-m12",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-20 10:30 with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0562-m13",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: on propranolol and amitriptyline, headache days 2/month, no dizziness; plan: continue current regimen.\nDepression: weight 79 kg, waist 92 cm, PHQ-9 5; plan: maintain antidepressants, reinforce diet.\nWeight 79 kg, waist 92 cm (>90 cm cut‑off); advise reduced refined carbs.\nDue: HbA1c 2026-04-20; lipid profile due 2026-04-20."
+    },
+    {
+      "memory_id": "X0562-m14",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.7% (ref 4‑5.6)\nTSH 2.2 µIU/mL (ref 0.4‑4.0)\nLipids: Total cholesterol 185 mg/dL (<200), Triglycerides 140 mg/dL (<150), HDL 44 mg/dL (>40), LDL 110 mg/dL (<130)"
+    }
+  ]
+}

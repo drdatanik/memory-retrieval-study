@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0509",
+  "name": "Vijayan Kurup",
+  "age": 52,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Insomnia",
+    "Sciatica",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0509-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up of insomnia, sciatica and type 2 diabetes.\n\nPRESENTING COMPLAINT: The patient reports difficulty falling asleep, waking twice nightly with average sleep of about 5 hours. He describes lumbar radicular pain radiating to the left leg, worsened by prolonged sitting, and notes occasional polyuria and mild thirst.\n\nEXAMINATION: BP 138/86 mmHg, weight 78 kg, height 1.68 m, BMI 27.6 (obese). Advised on diet and increased activity. Neurological exam shows a positive straight‑leg raise on the left at 45°, mild weakness of left ankle dorsiflexion; reflexes are symmetric. Pedal pulses are palpable. Random capillary glucose is 156 mg/dL.\n\nIMPRESSION: 1) Insomnia, moderate severity. 2) Lumbar sciatica, likely L5‑S1 disc irritation. 3) Type 2 diabetes with sub‑optimal glycaemic control.\n\nARRANGEMENTS: Continue melatonin 3 mg HS and trazodone 50 mg HS for sleep. Start pregabalin 75 mg BD, diclofenac 50 mg BD after food, and methylcobalamin 1500 mcg OD for sciatica. Initiate metformin 500 mg BD, glimepiride 1 mg OD before breakfast, sitagliptin 100 mg OD, and empagliflozin 10 mg OD for diabetes. Order fasting lipid profile, fasting blood sugar, HbA1c, urine albumin‑creatinine ratio, TSH, haemoglobin, and Insomnia Severity Index score. Advise return if chest pain, breathlessness, fever >39°C, worsening leg weakness, numbness, or blood in stool."
+    },
+    {
+      "memory_id": "X0509-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS – 30 tablets – take nightly for 3 months.\nTrazodone 50 mg HS – 28 tablets – take nightly for 3 months.\nPregabalin 75 mg BD – 60 capsules – take twice daily after food for 8 weeks.\nDiclofenac 50 mg BD after food – 30 tablets – take with meals for 2 weeks.\nMethylcobalamin 1500 mcg OD – 30 tablets – take daily for 3 months.\nMetformin 500 mg BD – 60 tablets – take twice daily with meals for 3 months.\nGlimepiride 1 mg OD before breakfast – 30 tablets – take each morning for 3 months.\nSitagliptin 100 mg OD – 30 tablets – take daily for 3 months.\nEmpagliflozin 10 mg OD – 30 tablets – take daily for 3 months."
+    },
+    {
+      "memory_id": "X0509-m03",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "patient",
+      "text": "Patient reports a penicillin allergy: develops a widespread itchy rash and facial swelling within 30 minutes of taking amoxicillin for a sore throat two years ago. No anaphylaxis reported."
+    },
+    {
+      "memory_id": "X0509-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting plasma glucose: 142 mg/dL (reference 70‑99).\nHbA1c: 7.8% (reference 4.0‑5.6).\nTotal cholesterol: 210 mg/dL (<200 desirable).\nLDL cholesterol: 132 mg/dL (<100 optimal).\nHDL cholesterol: 38 mg/dL (>40 desirable for men).\nTriglycerides: 165 mg/dL (<150 normal).\nTSH: 2.1 µIU/mL (0.4‑4.0).\nHaemoglobin: 13.8 g/dL (13.0‑17.0).\nInsomnia Severity Index score: 14 (0‑28, higher = worse)."
+    },
+    {
+      "memory_id": "X0509-m05",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Lumbar spine MRI (without contrast): Shows a posterior disc protrusion at L5‑S1 causing mild indentation of the thecal sac and left S1 nerve root. No significant spinal canal stenosis. Degenerative changes at L4‑L5 with mild disc desiccation. Impression: Left L5‑S1 disc protrusion compatible with radiculopathy."
+    },
+    {
+      "memory_id": "X0509-m06",
+      "date": "2025-06-15",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Orthopaedic Spine Service, Sri Jayadeva Institute of Cardiovascular Sciences and Research, Bengaluru. Reason: Persistent left sciatica with MRI‑confirmed L5‑S1 disc protrusion, awaiting opinion on possible epidural steroid injection or microdiscectomy. Attach MRI report and neurology findings. Await appointment within 4 weeks."
+    },
+    {
+      "memory_id": "X0509-m07",
+      "date": "2025-07-01",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Orthopaedic spine clinic review: Patient examined, neurological deficit mild. Conservative management advised: continue pregabalin, NSAIDs, physiotherapy. Epidural steroid injection offered if pain worsens. No surgical indication at present. Recommend follow‑up in 3 months or sooner if symptoms progress."
+    },
+    {
+      "memory_id": "X0509-m08",
+      "date": "2025-08-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘Doctor, my sleep has gotten worse again. I’m waking up three‑four times a night and feel tired during my night shift. I’ve been taking melatonin and trazodone as prescribed but they don’t seem to help much. Any advice?’"
+    },
+    {
+      "memory_id": "X0509-m09",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-09-15 at 10:30 AM with Dr Priya Natarajan (D03) for follow‑up of insomnia, sciatica and diabetes. Patient confirmed via SMS."
+    },
+    {
+      "memory_id": "X0509-m10",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up after labs and orthopaedic opinion.\n\nPRESENTING COMPLAINT: Patient reports insomnia worsening – now waking 3‑4 times nightly, feeling fatigued on night shifts. Sciatica pain unchanged, still aggravated by sitting; no new weakness. Polyuria persists.\n\nEXAMINATION: BP 140/88 mmHg, weight 79 kg, height 1.68 m, BMI 27.9 (obese). Advised on diet and activity. Straight‑leg raise left 50°, mild ankle dorsiflexor weakness unchanged. Random glucose 162 mg/dL.\n\nIMPRESSION: 1) Insomnia, moderate‑severe. 2) Lumbar sciatica, stable. 3) Type 2 diabetes, inadequate control (HbA1c 7.8%).\n\nARRANGEMENTS: Increase metformin to 750 mg BD. Add gabapentin 300 mg at night for neuropathic pain (in addition to pregabalin). Continue current insomnia meds but plan to review sleep hygiene. Order repeat HbA1c, fasting glucose, urine albumin‑creatinine ratio, and lipid profile in 3 months. Arrange dilated fundus exam for diabetic retinopathy screening. Return if chest pain, breathlessness, fever >39°C, worsening leg weakness, numbness, or visual changes."
+    },
+    {
+      "memory_id": "X0509-m11",
+      "date": "2025-09-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS – 30 tablets – take nightly.\nTrazodone 50 mg HS – 28 tablets – take nightly.\nPregabalin 75 mg BD – 60 capsules – take twice daily after food.\nDiclofenac 50 mg BD after food – 30 tablets – take with meals.\nMethylcobalamin 1500 mcg OD – 30 tablets – take daily.\nMetformin 750 mg BD – 60 tablets – take twice daily with meals.\nGlimepiride 1 mg OD before breakfast – 30 tablets – take each morning.\nSitagliptin 100 mg OD – 30 tablets – take daily.\nEmpagliflozin 10 mg OD – 30 tablets – take daily.\nGabapentin 300 mg HS – 30 capsules – take at night for neuropathic pain."
+    },
+    {
+      "memory_id": "X0509-m12",
+      "date": "2025-11-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 7.2% (reference 4.0‑5.6).\nFasting plasma glucose: 128 mg/dL (reference 70‑99).\nUrine albumin‑creatinine ratio: 22 mg/g (<30 normal).\nTotal cholesterol: 195 mg/dL (<200 desirable).\nLDL cholesterol: 118 mg/dL (<100 optimal).\nHDL cholesterol: 42 mg/dL (>40 desirable).\nTriglycerides: 148 mg/dL (<150 normal)."
+    },
+    {
+      "memory_id": "X0509-m13",
+      "date": "2026-04-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Dilated fundus examination (both eyes): Mild microaneurysms noted in the temporal retina of the right eye; no hard exudates, no macular edema. Left eye appears normal. No signs of proliferative diabetic retinopathy. Visual acuity 6/6 each eye. Impression: Early non‑proliferative diabetic retinopathy, right eye, mild. Recommend annual repeat."
+    }
+  ]
+}

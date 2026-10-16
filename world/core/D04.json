@@ -1,0 +1,42 @@
+{
+  "doctor_id": "D04",
+  "name": "Dr Karthik Hegde",
+  "specialty": "Endocrinology",
+  "memories": [
+    {
+      "memory_id": "D04-m01",
+      "date": "2025-04-01",
+      "type": "doctor_preference",
+      "author": "D04",
+      "text": "Dr Hegde's notes are problem-oriented. Each active problem is one bullet point headed by the problem name, with a sub-bullet for status and a sub-bullet for the plan. Problems are listed by clinical priority, and resolved problems are dropped rather than carried forward."
+    },
+    {
+      "memory_id": "D04-m02",
+      "date": "2025-04-02",
+      "type": "doctor_preference",
+      "author": "D04",
+      "text": "Dr Hegde checks HbA1c every 3 months for every patient on glucose-lowering treatment, whatever the last value was. The next HbA1c due date is written in a 'Due:' bullet at the foot of every note."
+    },
+    {
+      "memory_id": "D04-m03",
+      "date": "2025-04-02",
+      "type": "doctor_preference",
+      "author": "D04",
+      "text": "Dr Hegde writes each medicine by generic name first, then the dose in mg, then the timing as a morning-noon-night pattern such as 1-0-1, followed by its relation to food (before or after food). Brand names are not written in notes."
+    },
+    {
+      "memory_id": "D04-m04",
+      "date": "2025-04-03",
+      "type": "doctor_preference",
+      "author": "D04",
+      "text": "Dr Hegde repeats TSH 6 to 8 weeks after any change in levothyroxine dose, and once a year once the dose is stable. He also takes a lipid profile once a year for every patient with diabetes, and the result is written under the dyslipidaemia bullet."
+    },
+    {
+      "memory_id": "D04-m05",
+      "date": "2025-04-04",
+      "type": "doctor_preference",
+      "author": "D04",
+      "text": "Dr Hegde records weight and waist circumference at every visit. The waist is compared with the cut-offs of 90 cm for men and 80 cm for women. Diet advice is given as one bullet per meal rather than as a general paragraph."
+    }
+  ]
+}

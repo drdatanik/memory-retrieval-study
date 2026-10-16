@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0095",
+  "name": "Imtiaz Khan",
+  "age": 37,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Insomnia",
+    "Irritable bowel syndrome",
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0095-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia, IBS, GAD. Patient reports difficulty falling asleep, frequent awakenings, abdominal bloating, diarrhea alternating with constipation, and excessive worry. Exam: mild tachycardia, soft abdomen, no focal lung findings. ISI 18, GAD-7 12, Hb 13.8 g/dl, TSH 2.1 mIU/l."
+    },
+    {
+      "memory_id": "X0095-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS\nEscitalopram 5 mg OD\nBuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0095-m03",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Patient messages via app: 'Still taking >30 min to fall asleep, waking 2-3 times night. Abdomen feels gassy, occasional loose stools after meals.'"
+    },
+    {
+      "memory_id": "X0095-m04",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/l (0.4-4.0); Hb 13.7 g/dl (13.0-17.0); ISI score 18 (0-28); CBC: WBC 6.2x10^9/l, RBC 4.8x10^12/l, Plt 210x10^9/l; Stool routine: ova & parasites nil, WBC nil; tTG-IgA <4 U/ml (<7). GAD-7 12 (0-21)."
+    },
+    {
+      "memory_id": "X0095-m05",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-10 09:30 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0095-m06",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia improved, ISI 14; GAD-7 10; Hb 13.9; TSH 2.0. IBS: bloating less, stool frequency 2-3/day, occasional urgency. Technique checked: correct for salbutamol metered-dose inhaler (not used). Smoking status: never."
+    },
+    {
+      "memory_id": "X0095-m07",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS\nEscitalopram 5 mg OD\nBuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0095-m08",
+      "date": "2025-10-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Patient reports: 'Sleep onset ~20 min, waking once. Abdominal discomfort after lentils, loose stool twice today.'"
+    },
+    {
+      "memory_id": "X0095-m09",
+      "date": "2025-10-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/l; Hb 13.8 g/dl; ISI 14; GAD-7 10; CBC: WBC 6.0, RBC 4.9, Plt 205; Stool: normal; tTG-IgA 3 U/ml."
+    },
+    {
+      "memory_id": "X0095-m10",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia: ISI 12 (better). GAD-7 8. IBS: abdominal pain 2/week, stool pattern normal. Hb 14.0, TSH 2.0. Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0095-m11",
+      "date": "2026-04-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS\nEscitalopram 5 mg OD\nBuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0095-m12",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/l; Hb 14.0 g/dl; ISI 12; GAD-7 8; CBC: WBC 5.8, RBC 5.0, Plt 200; Stool: normal; tTG-IgA 2 U/ml."
+    },
+    {
+      "memory_id": "X0095-m13",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia: ISI 10, GAD-7 6. IBS: asymptomatic, Hb 14.1, TSH 2.0. Technique checked: correct. Smoking: never. Review in 6 months."
+    }
+  ]
+}

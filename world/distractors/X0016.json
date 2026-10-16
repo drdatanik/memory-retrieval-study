@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0016",
+  "name": "Rukhsana Khan",
+  "age": 81,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Osteoarthritis of the knee",
+    "Iron-deficiency anaemia",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0016-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks with a cane for knee pain, manages tailoring work seated.\ncognition: Mini-Cog 4/5 (recall 3, clock draw normal).\nfalls: No falls in last 12 months; gait slow but steady; TUG 13 seconds (raised fall risk) – advise heel‑cord stretching and supportive footwear.\nmedicines: 8 regular (paracetamol 650 mg SOS, topical diclofenac gel BD, calcium‑vit D3 OD, ferrous sulfate 200 mg OD, metformin 500 mg BD, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD) – polypharmacy, request Beers review.\nmood: Reports occasional low mood, denies hopelessness.\ncarers: Daughter Priya, primary caregiver.\ngoal: \"I want to keep stitching clothes without knee swelling and stay active with my grandchildren.\""
+    },
+    {
+      "memory_id": "X0016-m02",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Able to stand 20 minutes, tailoring work limited by knee stiffness after morning.\ncognition: Mini-Cog 3/5 (recall 2, clock draw abnormal).\nfalls: One fall at home while reaching for shelf, no injury; gait antalgic; TUG 14 seconds – continue exercise, consider walking aid.\nmedicines: 8 regular – polypharmacy, note Beers review pending.\nmood: Feels frustrated, tearful at times.\ncarers: Daughter Priya, primary caregiver.\ngoal: \"I wish to walk to the market without pain and finish my tailoring orders on time.\""
+    },
+    {
+      "memory_id": "X0016-m03",
+      "date": "2025-08-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.8 g/dL (12-16); Serum ferritin 12 ng/mL (15-150); MCV 78 fL (80-100).\nHbA1c 7.8% (4-5.6); Fasting plasma glucose 158 mg/dL (70-99).\nUrine albumin‑creatinine ratio 45 mg/g (<30).\nSerum vitamin D 18 ng/mL (30-100)."
+    },
+    {
+      "memory_id": "X0016-m04",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Ferrous sulfate 200 mg OD (increase from alternate days).\nMetformin 500 mg BD (continue).\nGlimepiride 1 mg OD (continue).\nEmpagliflozin 10 mg OD (continue).\nSitagliptin 100 mg OD (continue).\nParacetamol 650 mg SOS (continue).\nTopical diclofenac gel BD (continue).\nCalcium‑vit D3 OD (continue)."
+    },
+    {
+      "memory_id": "X0016-m05",
+      "date": "2025-11-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Standing tolerance 30 minutes, tailoring work improved after morning analgesia.\ncognition: Mini-Cog 3/5 (recall 2, clock draw abnormal).\nfalls: No new falls; gait mildly antalgic; TUG 13 seconds – continue strengthening.\nmedicines: 8 regular – polypharmacy, Beers review completed, no potentially inappropriate meds noted.\nmood: Mood stable, reports occasional sadness.\ncarers: Daughter Priya, primary caregiver.\ngoal: \"I want to reduce knee swelling so I can sew for longer periods without breaks.\""
+    },
+    {
+      "memory_id": "X0016-m06",
+      "date": "2025-12-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Dilated fundus exam: Mild microaneurysms in both eyes, no macular edema, vision 6/9 each eye. Recommend annual repeat."
+    },
+    {
+      "memory_id": "X0016-m07",
+      "date": "2025-12-20",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Orthopaedic Surgery, Dr S. Reddy, for evaluation of bilateral knee osteoarthritis and possible intra‑articular injection."
+    },
+    {
+      "memory_id": "X0016-m08",
+      "date": "2026-01-10",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Orthopaedic review: X‑ray shows medial compartment joint space narrowing. Recommended intra‑articular hyaluronic acid injection series; physiotherapy referral made."
+    },
+    {
+      "memory_id": "X0016-m09",
+      "date": "2026-02-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: \"My knees feel stiff after sitting, and I noticed bruising near the inner knee after the injection. Is this normal?\"?"
+    },
+    {
+      "memory_id": "X0016-m10",
+      "date": "2026-03-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Able to walk 15 minutes without cane, tailoring work less painful after injection.\ncognition: Mini-Cog 4/5 (recall 3, clock draw normal).\nfalls: No falls; gait improved; TUG 11 seconds – within normal range, continue balance exercises.\nmedicines: 8 regular – polypharmacy, advise continue current regimen, monitor for hypoglycemia.\nmood: Reports improved spirits, enjoys time with grandchildren.\ncarers: Daughter Priya, primary caregiver.\ngoal: \"I want to walk to the temple without pain and attend my granddaughter’s school event.\""
+    },
+    {
+      "memory_id": "X0016-m11",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.4 g/dL (12-16); Serum ferritin 48 ng/mL (15-150); MCV 84 fL (80-100).\nHbA1c 7.2% (4-5.6); Fasting plasma glucose 132 mg/dL (70-99).\nUrine albumin‑creatinine ratio 28 mg/g (<30).\nSerum vitamin D 28 ng/mL (30-100)."
+    },
+    {
+      "memory_id": "X0016-m12",
+      "date": "2026-05-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Empagliflozin 10 mg OD (stopped due to borderline vitamin D and mild volume depletion).\nMetformin 500 mg BD (continue).\nGlimepiride 1 mg OD (continue).\nSitagliptin 100 mg OD (continue).\nParacetamol 650 mg SOS (continue).\nTopical diclofenac gel BD (continue).\nCalcium‑vit D3 OD (continue).\nFerrous sulfate 200 mg OD (continue)."
+    },
+    {
+      "memory_id": "X0016-m13",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-08-12 10:30 with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0016-m14",
+      "date": "2026-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.0 g/dL (12-16); Serum ferritin 62 ng/mL (15-150); MCV 88 fL (80-100).\nHbA1c 6.9% (4-5.6); Fasting plasma glucose 118 mg/dL (70-99).\nUrine albumin‑creatinine ratio 22 mg/g (<30).\nSerum vitamin D 32 ng/mL (30-100)."
+    }
+  ]
+}

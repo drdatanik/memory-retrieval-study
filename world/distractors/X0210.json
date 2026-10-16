@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0210",
+  "name": "Jyoti Bhatt",
+  "age": 45,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Psoriasis",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0210-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Psoriasis\n  - Status: Plaques on elbows, knees, scalp; PASI 6.\n  - Plan: Continue clobetasol 0.05% cream BD topically; add calcipotriol ointment OD; methotrexate 7.5 mg PO weekly with folic acid 5 mg OD; monitor LFT, CBC, creatinine.\n- Rheumatoid arthritis\n  - Status: Symmetrical joint pain in MCP and PIP joints, morning stiffness 45 min; ESR 28, CRP 12.\n  - Plan: Methotrexate 10 mg PO weekly; folic acid 5 mg OD; hydroxychloroquine 200 mg OD; prednisolone 5 mg OD; monitor ESR, CRP, RF, anti-CCP, LFT.\n- Weight 68 kg, waist 82 cm (female cutoff 80 cm, slightly increased).\n- Diet advice: Breakfast – whole grain toast with avocado; Lunch – mixed vegetable dal with brown rice; Dinner – grilled fish with steamed vegetables.\n- Due: HbA1c on 2025-07-05."
+    },
+    {
+      "memory_id": "X0210-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "clobetasol 0.05% cream – apply BD to affected areas\ncalcipotriol ointment – apply OD to plaques\nmethotrexate 7.5 mg – take PO once weekly on Friday\nfolic acid 5 mg – take PO daily\nhydroxychloroquine 200 mg – take PO daily\nprednisolone 5 mg – take PO daily"
+    },
+    {
+      "memory_id": "X0210-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.6% (NR 4.0-5.6)\nFasting glucose 92 mg/dL (NR 70-99)\nALT 22 U/L (NR <35)\nAST 20 U/L (NR <40)\nALKP 78 U/L (NR 30-120)\nGGT 18 U/L (NR <51)\nTotal bilirubin 0.9 mg/dL (NR 0.2-1.2)\nCBC: Hb 12.8 g/dL (NR 12-16), WBC 6.2×10^9/L (NR 4-10), Plt 210×10^9/L (NR 150-400)\nSerum creatinine 0.8 mg/dL (NR 0.5-1.1)\nESR 28 mm/hr (NR <20)\nCRP 12 mg/L (NR <5)\nRheumatoid factor 12 IU/mL (NR <14)\nAnti-CCP 5 U/mL (NR <7)"
+    },
+    {
+      "memory_id": "X0210-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been noticing more redness on my scalp and my knees feel stiff in the mornings. The joint pain in my hands is worse after typing at work. I’m worried the medicines aren’t helping enough."
+    },
+    {
+      "memory_id": "X0210-m05",
+      "date": "2025-05-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked with Dr Karthik Hegde (D04) for 2025-06-15 at 10:30 AM. Reason: Review psoriasis and rheumatoid arthritis control, check labs."
+    },
+    {
+      "memory_id": "X0210-m06",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Psoriasis\n  - Status: Scalp plaques reduced, elbows still mildly scaly; PASI 4.\n  - Plan: Continue current topicals; consider scaling methotrexate if LFT stable.\n- Rheumatoid arthritis\n  - Status: Joint tenderness decreased, morning stiffness 30 min; ESR 22, CRP 8.\n  - Plan: Maintain methotrexate 10 mg weekly; add folic acid 5 mg OD (already); consider tapering prednisolone to 2.5 mg OD if symptoms stay low.\n- Weight 67.5 kg, waist 81 cm.\n- Diet advice: Breakfast – oatmeal with nuts; Lunch – quinoa salad with chickpeas; Dinner – chicken stir-fry with broccoli.\n- Due: HbA1c on 2025-09-15."
+    },
+    {
+      "memory_id": "X0210-m07",
+      "date": "2025-06-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methotrexate 10 mg – take PO once weekly on Friday\nfolic acid 5 mg – take PO daily\nhydroxychloroquine 200 mg – take PO daily\nprednisolone 2.5 mg – take PO daily\nclobetasol 0.05% cream – apply BD to affected areas\ncalcipotriol ointment – apply OD to plaques"
+    },
+    {
+      "memory_id": "X0210-m08",
+      "date": "2025-06-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 24 U/L (NR <35)\nAST 21 U/L (NR <40)\nALKP 80 U/L (NR 30-120)\nGGT 19 U/L (NR <51)\nTotal bilirubin 0.8 mg/dL (NR 0.2-1.2)\nCBC: Hb 13.0 g/dL (NR 12-16), WBC 5.9×10^9/L (NR 4-10), Plt 205×10^9/L (NR 150-400)\nSerum creatinine 0.78 mg/dL (NR 0.5-1.1)\nESR 22 mm/hr (NR <20)\nCRP 8 mg/L (NR <5)\nLipids: Total cholesterol 190 mg/dL (<200 desirable), HDL 48 mg/dL (>40), LDL 112 mg/dL (<130), TG 130 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0210-m09",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Psoriasis\n  - Status: Flare on scalp and shins; PASI 8.\n  - Plan: Increase clobetasol to 0.05% cream BD plus salicylic acid 2% shampoo twice weekly; continue calcipotriol OD; consider short course oral steroids if no improvement in 2 weeks.\n- Rheumatoid arthritis\n  - Status: Stable; joint pain mild, morning stiffness 20 min; ESR 18, CRP 6.\n  - Plan: Continue current DMARDs; monitor for steroid side effects.\n- Weight 68 kg, waist 82 cm.\n- Diet advice: Breakfast – idli with sambar; Lunch – vegetable pulao with raita; Dinner – lentil soup with multigrain roti.\n- Due: HbA1c on 2025-12-01."
+    },
+    {
+      "memory_id": "X0210-m10",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "clobetasol 0.05% cream – apply BD to plaques\nsalicylic acid 2% shampoo – use twice weekly on scalp\ncalcipotriol ointment – apply OD to lesions\nmethotrexate 7.5 mg – take PO once weekly on Friday\nfolic acid 5 mg – take PO daily\nhydroxychloroquine 200 mg – take PO daily\nprednisolone 5 mg – take PO daily for 7 days, then taper"
+    },
+    {
+      "memory_id": "X0210-m11",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 27 U/L (NR <35)\nAST 23 U/L (NR <40)\nALKP 82 U/L (NR 30-120)\nGGT 20 U/L (NR <51)\nTotal bilirubin 0.9 mg/dL (NR 0.2-1.2)\nCBC: Hb 12.9 g/dL (NR 12-16), WBC 6.0×10^9/L (NR 4-10), Plt 200×10^9/L (NR 150-400)\nSerum creatinine 0.80 mg/dL (NR 0.5-1.1)"
+    },
+    {
+      "memory_id": "X0210-m12",
+      "date": "2026-02-10",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dr S. Rao, Rheumatology, Vikram Hospital, for persistent joint symptoms despite DMARD therapy. Please assess need for biologic therapy. Enclose recent labs and disease activity scores."
+    },
+    {
+      "memory_id": "X0210-m13",
+      "date": "2026-03-10",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Rheumatology review: Patient shows moderate disease activity (DAS28 3.8). Recommend adding a TNF‑alpha inhibitor (adalimumab 40 mg SC every other week) while continuing methotrexate and hydroxychloroquine. Continue folic acid. Return for review in 8 weeks."
+    },
+    {
+      "memory_id": "X0210-m14",
+      "date": "2026-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "X-ray hands (PA): No erosions observed; joint space preserved; mild soft‑tissue swelling noted. No bony abnormality."
+    },
+    {
+      "memory_id": "X0210-m15",
+      "date": "2026-07-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: Follow‑up with Dr Karthik Hegde (D04) rescheduled from 2026-07-15 to 2026-07-20 at 14:00. Reason: Review response to newly started adalimumab and monitor labs."
+    },
+    {
+      "memory_id": "X0210-m16",
+      "date": "2026-07-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Psoriasis\n  - Status: Scalp lesions much improved; plaques on trunk mild; PASI 2.\n  - Plan: Continue topicals; consider tapering clobetasol to twice weekly.\n- Rheumatoid arthritis\n  - Status: Significant improvement; joint pain minimal, morning stiffness <10 min; ESR 12, CRP 4.\n  - Plan: Continue adalimumab 40 mg SC every other week; methotrexate 7.5 mg weekly; folic acid 5 mg OD; hydroxychloroquine 200 mg OD; monitor for infection.\n- Weight 67 kg, waist 80 cm (at cutoff).\n- Diet advice: Breakfast – poha with peanuts; Lunch – brown rice with sambar and vegetables; Dinner – grilled paneer with salad.\n- Due: HbA1c on 2026-10-20."
+    }
+  ]
+}

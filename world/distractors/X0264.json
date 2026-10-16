@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0264",
+  "name": "Shabana Ansari",
+  "age": 54,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Rheumatoid arthritis",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0264-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports mild stiffness in small joints of hands, able to perform ADLs independently, walks 2 km daily without aid.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal), no concerns.\nfalls: No falls in past 12 months, gait steady, timed up-and-go 9 seconds (normal).\nmedicines: 8 regular (methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD, metformin 500 mg BD, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD) – polypharmacy, review against Beers criteria advised.\nmood: Denies low mood or anxiety, PHQ-2 score 0.\ncarers: Husband, Mr Suresh Kulkarni, provides support with medication dosing.\ngoals: \"I want to stay active and keep working without pain.\""
+    },
+    {
+      "memory_id": "X0264-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 10 mg PO once weekly\nfolic acid 5 mg PO once weekly\nhydroxychloroquine 200 mg PO OD\nprednisolone 5 mg PO OD\nmetformin 500 mg PO BD\nglimepiride 1 mg PO OD before breakfast\nsitagliptin 100 mg PO OD\nempagliflozin 10 mg PO OD"
+    },
+    {
+      "memory_id": "X0264-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 28 mm/hr (0-20) ↑\nCRP 6 mg/L (<5) ↑\nRheumatoid factor 45 IU/mL (<14) ↑\nAnti-CCP 68 U/mL (<20) ↑\nLFT: ALT 32 U/L (7-56), AST 28 U/L (10-40), ALP 84 U/L (30-120), GGT 45 U/L (9-48), bilirubin 0.9 mg/dL (0.2-1.2)\nHbA1c 7.8% (4.0-5.6) ↑\nFPG 152 mg/dL (70-99) ↑\nUrine ACR 22 mg/g (<30) normal"
+    },
+    {
+      "memory_id": "X0264-m04",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Messaged via app: Morning joint stiffness worse in fingers, taking extra paracetamol. Blood sugars fasting around 140 mg/dL. No new symptoms."
+    },
+    {
+      "memory_id": "X0264-m05",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Stiffness improved slightly, still reports difficulty opening jars; walks 1.5 km with occasional cane.\ncognition: Mini-Cog not repeated (annual due next visit).\nfalls: One fall at home 3 months ago (tripped on rug), no injury; gait cautious, timed up-and-go 13 seconds (≥12) – raised fall risk, advise strength training and supportive footwear.\nmedicines: 8 regular (same as before) – polypharmacy, Beers review pending.\nmood: Reports occasional worry about work, PHQ-2 score 1.\ncarers: Husband, Mr Suresh Kulkarni, assists with medication box.\ngoals: \"I want to reduce pain and avoid another fall.\""
+    },
+    {
+      "memory_id": "X0264-m06",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 15 mg PO once weekly (increased)\nfolic acid 5 mg PO once weekly\nhydroxychloroquine 200 mg PO OD\nprednisolone 5 mg PO OD\nmetformin 500 mg PO BD\nglimepiride 1 mg PO OD before breakfast\nsitagliptin 100 mg PO OD\nempagliflozin 10 mg PO OD"
+    },
+    {
+      "memory_id": "X0264-m07",
+      "date": "2025-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 22 mm/hr (0-20) slightly ↑\nCRP 4 mg/L (<5) normal\nRF 38 IU/mL (<14) ↑\nAnti-CCP 60 U/mL (<20) ↑\nLFT: ALT 30 U/L, AST 26 U/L, ALP 80 U/L, GGT 42 U/L, bilirubin 0.8 mg/dL\nHbA1c 7.5% (4.0-5.6) ↑\nFPG 148 mg/dL (70-99) ↑"
+    },
+    {
+      "memory_id": "X0264-m08",
+      "date": "2025-08-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Hand X-ray: periarticular osteopenia, mild joint space narrowing at MCP2-3, no erosions. Consistent with early rheumatoid arthritis changes."
+    },
+    {
+      "memory_id": "X0264-m09",
+      "date": "2025-08-01",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Rheumatology, Dr S. Rao, for consideration of biologic DMARD due to persistent activity despite methotrexate increase. Include recent labs and X-ray."
+    },
+    {
+      "memory_id": "X0264-m10",
+      "date": "2025-09-15",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Rheumatology review: patient advised to continue methotrexate 15 mg weekly, add sulfasalazine 500 mg BD, monitor LFT. No biologic at this time. Return to primary care in 3 months."
+    },
+    {
+      "memory_id": "X0264-m11",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Slight improvement in grip, able to open jars with effort; walks 2 km unaided.\ncognition: Mini-Cog score 3/5 (recall 2 items, clock draw mild abnormality) – positive screen, schedule MoCA in 1 month.\nfalls: No new falls; gait steady, timed up-and-go 11 seconds (normal).\nmedicines: 9 regular (added sulfasalazine 500 mg BD) – polypharmacy, Beers review ongoing.\nmood: Denies depression, PHQ-2 0.\ncarers: Husband, Mr Suresh Kulkarni, reminds about sulfasalazine dosing.\ngoals: \"I want to keep working full‑time and stay independent.\""
+    },
+    {
+      "memory_id": "X0264-m12",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 15 mg PO once weekly\nfolic acid 5 mg PO once weekly\nhydroxychloroquine 200 mg PO OD\nprednisolone 5 mg PO OD\nsulfasalazine 500 mg PO BD\nmetformin 500 mg PO BD\nglimepiride 1 mg PO OD before breakfast\nsitagliptin 100 mg PO OD\nempagliflozin 10 mg PO OD"
+    },
+    {
+      "memory_id": "X0264-m13",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 18 mm/hr (0-20) normal\nCRP 3 mg/L (<5) normal\nRF 35 IU/mL (<14) ↑\nAnti-CCP 58 U/mL (<20) ↑\nLFT: ALT 28 U/L, AST 24 U/L, ALP 78 U/L, GGT 40 U/L, bilirubin 0.7 mg/dL\nHbA1c 7.2% (4.0-5.6) ↑\nFPG 140 mg/dL (70-99) ↑"
+    },
+    {
+      "memory_id": "X0264-m14",
+      "date": "2026-01-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message: Noticed a small sore on left heel that isn’t healing, worried about diabetic foot. Blood sugars fasting 130-150 mg/dL. No fever."
+    },
+    {
+      "memory_id": "X0264-m15",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports heel sore painful, limits walking to 500 m; hand function stable.\ncognition: MoCA performed 2026-01-15 score 24/30, normal.\nfalls: No falls; gait antalgic due to heel pain, timed up-and-go 14 seconds (≥12) – raised fall risk, advise heel off‑loading shoe and physiotherapy.\nmedicines: 9 regular (same) – polypharmacy, Beers review documented.\nmood: Frustrated about heel sore, PHQ-2 score 1.\ncarers: Husband, Mr Suresh Kulkarni, helps with dressing changes.\ngoals: \"I want the heel to heal so I can walk to work again.\""
+    },
+    {
+      "memory_id": "X0264-m16",
+      "date": "2026-02-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 15 mg PO once weekly\nfolic acid 5 mg PO once weekly\nhydroxychloroquine 200 mg PO OD\nprednisolone 5 mg PO OD\nsulfasalazine 500 mg PO BD\nmetformin 500 mg PO BD\nglimepiride 1 mg PO OD before breakfast\nsitagliptin 100 mg PO OD\nempagliflozin 10 mg PO OD\n topical mupirocin 2% ointment to heel BD for 7 days"
+    },
+    {
+      "memory_id": "X0264-m17",
+      "date": "2026-02-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Urine ACR 45 mg/g (<30) ↑ early diabetic nephropathy\nFundus exam: mild microaneurysms temporally, no macular edema\nESR 20 mm/hr (0-20) normal\nCRP 3.5 mg/L (<5) normal\nHbA1c 7.0% (4.0-5.6) ↑\nFPG 138 mg/dL (70-99) ↑"
+    },
+    {
+      "memory_id": "X0264-m18",
+      "date": "2026-04-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-05-05 10:00 to 2026-05-07 14:00 per patient request. Visit with Dr Nandini Kulkarni (D06) for routine review."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0424",
+  "name": "Ranjan Dutta",
+  "age": 54,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Depression",
+    "Glaucoma",
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0424-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports managing small contracts, walks to site unaided, no assistance needed.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal). No cognitive concerns at present.\nfalls: No falls in the last 12 months. Gait steady, timed up-and-go 10 seconds (<12), fall risk not raised.\nmedicines: 7 regular (sertraline 50 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS, timolol 0.5% eye drops BD, latanoprost 0.005% eye drops HS, levocetirizine 5 mg OD, cetirizine 10 mg HS). Polypharmacy present; request review against Beers criteria.\nmood: PHQ-9 8, reports low mood and anhedonia most days, denies suicidal thoughts.\ncarers: Priya, spouse.\ngoal: \"I want to stay independent and keep working on my projects.\""
+    },
+    {
+      "memory_id": "X0424-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 50 mg PO OD\nescitalopram 10 mg PO OD\nmirtazapine 15 mg PO HS\ntimolol 0.5% eye drops 1 drop OD BD\nlatanoprost 0.005% eye drops 1 drop OS HS\nlevocetirizine 5 mg PO OD\ncetirizine 10 mg PO HS"
+    },
+    {
+      "memory_id": "X0424-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 8 (0-27)\nTSH: 2.8 mIU/L (0.4-4.0)\nVitamin B12: 340 pg/mL (200-900)\nIntraocular pressure: OD 18 mmHg, OS 19 mmHg (10-21)\nVisual field: full, no defects\nOptic disc: CDR 0.4 OD, 0.45 OS\nCBC: WBC 6.2 x10^9/L, Hb 13.8 g/dL, platelets 210 x10^9/L, eosinophils 3%\nThyroid function: Free T4 1.2 ng/dL (0.9-1.7)"
+    },
+    {
+      "memory_id": "X0424-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Continues contracting work, reports occasional knee pain after climbing ladders, uses over‑the‑counter analgesic.\ncognition: Mini-Cog 3/5 (recall 2 items, mild clock draw abnormality). No new decline.\nfalls: One fall at home 3 months ago (tripped on rug), no injury. Gait slightly antalgic on right side. Timed up-and-go 13 seconds (≥12) → raised fall risk; advised heel‑to‑toe walk exercise and supportive footwear.\nmedicines: 7 regular (same as before). Polypharmacy; request Beers review.\nmood: PHQ-9 6, improved mood, reports better sleep.\ncarers: Priya, spouse.\ngoal: \"I want to keep working without pain and stay steady on my feet.\""
+    },
+    {
+      "memory_id": "X0424-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 75 mg PO OD (increased from 50 mg)\nescitalopram 10 mg PO OD\nmirtazapine 15 mg PO HS\ntimolol 0.5% eye drops 1 drop OD BD\nlatanoprost 0.005% eye drops 1 drop OS HS\nlevocetirizine 5 mg PO OD\ncetirizine 10 mg PO HS"
+    },
+    {
+      "memory_id": "X0424-m06",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 6 (0-27)\nTSH: 2.9 mIU/L (0.4-4.0)\nVitamin B12: 355 pg/mL (200-900)\nIntraocular pressure: OD 17 mmHg, OS 18 mmHg (10-21)\nVisual field: stable\nOptic disc: CDR unchanged"
+    },
+    {
+      "memory_id": "X0424-m07",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports mild dyspnea on exertion, uses inhaler prn for occasional wheeze; otherwise independent.\ncognition: Mini-Cog 4/5 (recall 3 items, clock draw normal).\nfalls: No falls in last 6 months. Gait steady, timed up-and-go 11 seconds (<12).\nmedicines: 7 regular (sertraline 75 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS, timolol BD, latanoprost HS, levocetirizine OD, cetirizine HS). Polypharmacy; note Beers review pending.\nmood: PHQ-9 5, reports occasional anxiety.\ncarers: Priya, spouse.\ngoal: \"I want to breathe easier and keep my sight sharp.\""
+    },
+    {
+      "memory_id": "X0424-m08",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 75 mg PO OD\nescitalopram 10 mg PO OD\nmirtazapine 15 mg PO HS\ntimolol 0.5% eye drops 1 drop OD BD\nlatanoprost 0.005% eye drops 1 drop OS HS\nlevocetirizine 5 mg PO OD\ncetirizine 10 mg PO HS\nsalbutamol inhaler 2 puffs PRN wheeze"
+    },
+    {
+      "memory_id": "X0424-m09",
+      "date": "2025-10-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 5.9 x10^9/L, Hb 13.6 g/dL, platelets 205 x10^9/L, eosinophils 2%\nThyroid function: TSH 3.0 mIU/L, Free T4 1.15 ng/dL"
+    },
+    {
+      "memory_id": "X0424-m10",
+      "date": "2026-02-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-05 at 10:00 with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0424-m11",
+      "date": "2026-02-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports good tolerance of salbutamol, no exacerbations; continues contracting work.\ncognition: Mini-Cog 3/5 (recall 2 items, mild clock draw abnormality) – unchanged from prior.\nfalls: No falls in last 12 months. Gait normal, timed up-and-go 10 seconds (<12).\nmedicines: 8 regular (added salbutamol PRN, but counted as regular? We'll keep 7 regular + PRN; we state 7 regular). Polypharmacy; Beers review completed, no high‑risk meds.\nmood: PHQ-9 4, reports feeling better.\ncarers: Priya, spouse.\ngoal: \"I want to stay active and keep my eyes healthy.\""
+    },
+    {
+      "memory_id": "X0424-m12",
+      "date": "2026-05-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports occasional shoulder pain from lifting materials, uses topical NSAID; otherwise independent.\ncognition: Mini-Cog 4/5 (recall 3 items, clock draw normal).\nfalls: No falls in last 12 months. Gait steady, timed up-and-go 10 seconds (<12).\nmedicines: 7 regular (sertraline 75 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS, timolol BD, latanoprost HS, levocetirizine OD, cetirizine HS). Polypharmacy; Beers review ok.\nmood: PHQ-9 3, reports minimal depressive symptoms.\ncarers: Priya, spouse.\ngoal: \"I want to keep working without joint pain.\""
+    },
+    {
+      "memory_id": "X0424-m13",
+      "date": "2026-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 3 (0-27)\nTSH: 2.7 mIU/L (0.4-4.0)\nVitamin B12: 360 pg/mL (200-900)\nIntraocular pressure: OD 16 mmHg, OS 17 mmHg (10-21)\nVisual field: full\nOptic disc: CDR 0.35 OD, 0.40 OS\nCBC: WBC 6.0 x10^9/L, Hb 13.9 g/dL, platelets 215 x10^9/L, eosinophils 2%\nThyroid function: Free T4 1.18 ng/dL"
+    }
+  ]
+}

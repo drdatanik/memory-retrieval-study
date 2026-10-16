@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0397",
+  "name": "Arindam Chatterjee",
+  "age": 23,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0397-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Visit for fatigue and pallor suspected iron deficiency.\nPRESENTING COMPLAINT: The patient reports progressive tiredness over the past two months, mild dyspnoea on exertion, and notices pallor of the skin. No bleeding symptoms reported.\nEXAMINATION: BP 118/72 mmHg, weight 68 kg, height 1.65 m, BMI 24.9 (overweight). Conjunctival pallor noted, otherwise cardiovascular and respiratory exams normal.\nIMPRESSION: Iron‑deficiency anaemia likely; concurrent vitamin D deficiency suspected given low sunlight exposure and dietary intake.\nARRANGEMENTS: Order fasting haemoglobin, serum ferritin, MCV, serum 25‑hydroxyvitamin D, calcium and phosphate. Start ferrous sulfate 200 mg OD and cholecalciferol 60000 IU once weekly for 8 weeks. Advise iron‑rich diet, increase fruit and vegetables, and regular low‑impact activity. Offer influenza vaccine; to be given in autumn.\nReturn if: chest pain, breathlessness at rest, fever >39 °C, or blood in stools."
+    },
+    {
+      "memory_id": "X0397-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg tablet, take one tablet daily.\nCholecalciferol 60000 IU capsule, take one capsule once weekly for 8 weeks."
+    },
+    {
+      "memory_id": "X0397-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.8 g/dL (13.0‑17.0).\nSerum ferritin 12 ng/mL (30‑400).\nMCV 68 fL (80‑100).\nSerum 25‑hydroxyvitamin D 14 ng/mL (30‑100).\nSerum calcium 8.9 mg/dL (8.5‑10.5).\nSerum phosphate 2.6 mg/dL (2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0397-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up after 3 months of therapy.\nPRESENTING COMPLAINT: Patient feels less tired, reports improved stamina; no new bleeding or GI symptoms.\nEXAMINATION: BP 120/74 mmHg, weight 68 kg, BMI 24.9 (overweight). Conjunctiva less pale, no lymphadenopathy.\nIMPRESSION: Haemoglobin rising, ferritin improving; vitamin D still low but trending up.\nARRANGEMENTS: Continue ferrous sulfate 200 mg OD, switch vitamin D to cholecalciferol 1000 IU OD. Reinforce diet advice and activity. Influenza vaccine offered for autumn.\nReturn if: chest pain, breathlessness > mild exertion, fever >39 °C, or melena."
+    },
+    {
+      "memory_id": "X0397-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg tablet, take one tablet daily.\nCholecalciferol 1000 IU tablet, take one tablet daily."
+    },
+    {
+      "memory_id": "X0397-m06",
+      "date": "2025-07-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.4 g/dL (13.0‑17.0).\nSerum ferritin 28 ng/mL (30‑400).\nMCV 71 fL (80‑100).\nSerum 25‑hydroxyvitamin D 22 ng/mL (30‑100).\nSerum calcium 9.1 mg/dL (8.5‑10.5).\nSerum phosphate 2.8 mg/dL (2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0397-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Six‑month review.\nPRESENTING COMPLAINT: Patient reports feeling well, no fatigue, occasional mild tiredness after long walks.\nEXAMINATION: BP 119/73 mmHg, weight 68 kg, BMI 24.9 (overweight). Conjunctiva normal pink.\nIMPRESSION: Haemoglobin near normal, ferritin borderline; vitamin D sufficient after maintenance dose.\nARRANGEMENTS: Change ferrous sulfate to 200 mg on alternate days. Continue cholecalciferol 1000 IU OD. Give influenza vaccine today (02‑Oct‑2025). Advise maintain balanced diet and regular exercise.\nReturn if: chest pain, dyspnoea at rest, fever >39 °C, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0397-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg tablet, take one tablet every other day.\nCholecalciferol 1000 IU tablet, take one tablet daily."
+    },
+    {
+      "memory_id": "X0397-m09",
+      "date": "2025-10-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.6 g/dL (13.0‑17.0).\nSerum ferritin 35 ng/mL (30‑400).\nMCV 73 fL (80‑100).\nSerum 25‑hydroxyvitamin D 31 ng/mL (30‑100).\nSerum calcium 9.2 mg/dL (8.5‑10.5).\nSerum phosphate 2.9 mg/dL (2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0397-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Winter check‑up.\nPRESENTING COMPLAINT: Patient denies any symptoms; feels energetic.\nEXAMINATION: BP 121/75 mmHg, weight 68 kg, BMI 24.9 (overweight). No pallor.\nIMPRESSION: Iron stores adequate, vitamin D maintained on replacement.\nARRANGEMENTS: Continue ferrous sulfate 200 mg on alternate days and cholecalciferol 1000 IU OD. Influenza vaccine already given autumn 2025; note status.\nReturn if: chest pain, unexplained breathlessness, fever >39 °C, or blood in stool."
+    },
+    {
+      "memory_id": "X0397-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg tablet, take one tablet every other day.\nCholecalciferol 1000 IU tablet, take one tablet daily."
+    },
+    {
+      "memory_id": "X0397-m12",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Spring review.\nPRESENTING COMPLAINT: Patient reports occasional mild fatigue after work; otherwise well.\nEXAMINATION: BP 120/73 mmHg, weight 68 kg, BMI 24.9 (overweight). Conjunctiva normal.\nIMPRESSION: Haemoglobin stable, ferritin satisfactory; vitamin D adequate.\nARRANGEMENTS: Stop ferrous sulfate as haemoglobin now within normal range. Continue cholecalciferol 1000 IU OD. Advise diet rich in iron and maintain activity.\nReturn if: chest pain, dyspnoea on exertion, fever >39 °C, or melena."
+    },
+    {
+      "memory_id": "X0397-m13",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate – discontinued.\nCholecalciferol 1000 IU tablet, take one tablet daily."
+    },
+    {
+      "memory_id": "X0397-m14",
+      "date": "2026-07-25",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-08-22 at 10:30 am with Dr Priya Natarajan for routine follow‑up."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0239",
+  "name": "Stephen Pereira",
+  "age": 68,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Obesity",
+    "Glaucoma",
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0239-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity, glaucoma, and benign positional vertigo.\nEvidence: BMI 32 kg/m2, intraocular pressure 22 mmHg OD and 21 mmHg OS, positive Dix-Hallpike on right side.\nSymptoms and examination: The patient reports weight gain over the past year, occasional blurred vision, and brief spinning episodes when lying down. On exam, blood pressure 138/86, waist circumference 102 cm, visual fields full to confrontation, ocular adnexa normal, neurologic exam benign with no nystagmus in primary gaze.\nSmoking status: former, quit 2010, pack-years 20."
+    },
+    {
+      "memory_id": "X0239-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg with each main meal\nTimolol 0.5% eye drops one drop BD OU\nLatanoprost 0.005% eye drops one drop HS OU\nBetahistine 16 mg BD\nMeclizine 25 mg SOS for vertigo"
+    },
+    {
+      "memory_id": "X0239-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.8 mmol/L (ref <5.2), LDL 3.6 mmol/L (ref <2.6), HDL 1.0 mmol/L (ref >1.0), triglycerides 2.1 mmol/L (ref <1.7).\nFasting glucose 6.2 mmol/L (ref 3.9-5.6).\nHbA1c 6.0% (ref 4.0-5.6).\nLiver function: ALT 38 U/L (ref <41), AST 34 U/L (ref <40), ALP 78 U/L (ref 40-129), GGT 45 U/L (ref <51), bilirubin 12 µmol/L (ref <21).\nWaist circumference 102 cm."
+    },
+    {
+      "memory_id": "X0239-m04",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: OD 22 mmHg, OS 21 mmHg (ref 10-21).\nVisual field testing: full field OU, no defects.\nOptic disc assessment: cup-to-disc ratio 0.6 OD, 0.5 OS (ref <0.5)."
+    },
+    {
+      "memory_id": "X0239-m05",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Dix-Hallpike test: positive on right side with torsional nystagmus.\nAudiometry: bilateral mild high-frequency hearing loss, thresholds 30 dB at 4 kHz, otherwise normal."
+    },
+    {
+      "memory_id": "X0239-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity, glaucoma, benign positional vertigo – stable.\nEvidence: BMI 31.5 kg/m2, IOP 20 mmHg OD, 19 mmHg OS, Dix-Hallpike now negative.\nSymptoms and examination: Patient reports modest weight loss of 2 kg, fewer vertigo episodes (1 per week), occasional eye irritation. BP 134/82, waist 99 cm, visual fields full, ocular adnexa mild conjunctival erythema.\nSmoking status: former, quit 2010, pack-years 20.\nPlan: Continue orlistat, consider dose reduction if GI intolerance persists; maintain glaucoma drops; betahistine BD continued, meclizine PRN."
+    },
+    {
+      "memory_id": "X0239-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg with each main meal (continue)\nTimolol 0.5% eye drops one drop BD OU\nLatanoprost 0.005% eye drops one drop HS OU\nBetahistine 16 mg BD\nMeclizine 25 mg SOS for vertigo"
+    },
+    {
+      "memory_id": "X0239-m08",
+      "date": "2025-10-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-20 at 10:30 with Dr Suresh Menon (D05) for routine follow-up. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0239-m09",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity, glaucoma, benign positional vertigo – improving.\nEvidence: BMI 30.8 kg/m2, IOP 19 mmHg OD, 18 mmHg OS, Dix-Hallpike negative.\nSymptoms and examination: Patient reports 5 kg weight loss since start, better energy, no vertigo spells in past month, occasional mild eye strain. BP 128/78, waist 96 cm, visual fields full, optic disc cups stable.\nSmoking status: former, quit 2010, pack-years 20.\nPlan: Continue current meds; reinforce diet and exercise; schedule repeat labs in 3 months."
+    },
+    {
+      "memory_id": "X0239-m10",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.4 mmol/L (ref <5.2), LDL 3.3 mmol/L (ref <2.6), HDL 1.1 mmol/L (ref >1.0), triglycerides 1.9 mmol/L (ref <1.7).\nFasting glucose 5.9 mmol/L (ref 3.9-5.6).\nHbA1c 5.8% (ref 4.0-5.6).\nLiver function: ALT 32 U/L, AST 30 U/L, ALP 75 U/L, GGT 42 U/L, bilirubin 11 µmol/L.\nWaist circumference 96 cm."
+    },
+    {
+      "memory_id": "X0239-m11",
+      "date": "2026-04-25",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity, glaucoma, benign positional vertigo – well controlled.\nEvidence: BMI 30.2 kg/m2, IOP 18 mmHg OD, 17 mmHg OS, Dix-Hallpike negative.\nSymptoms and examination: Patient reports stable weight, no vertigo episodes, occasional mild dry eyes. BP 126/76, waist 94 cm, visual fields full, ocular adnexa quiet.\nSmoking status: former, quit 2010, pack-years 20.\nPlan: Maintain orlistat 120 mg with meals; consider switching timolol to preservative-free formulation if irritation persists; continue betahistine BD, meclizine PRN."
+    },
+    {
+      "memory_id": "X0239-m12",
+      "date": "2026-07-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity, glaucoma, benign positional vertigo – stable.\nEvidence: BMI 30.0 kg/m2, IOP 17 mmHg OD, 16 mmHg OS, Dix-Hallpike negative.\nSymptoms and examination: Patient reports no change in weight, occasional mild blurred vision after reading, no vertigo. BP 124/74, waist 93 cm, visual fields full, optic disc cups unchanged.\nSmoking status: former, quit 2010, pack-years 20.\nPlan: Continue current regimen; advise annual eye review; repeat lipids and LFT in 6 months."
+    }
+  ]
+}

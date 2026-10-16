@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0008",
+  "name": "Hasmukh Desai",
+  "age": 25,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Non-alcoholic fatty liver disease",
+    "Asthma",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0008-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, works night shifts as nurse, reports mild fatigue after long walks.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal), no complaints of forgetfulness.\nfalls: No falls in past 12 months, gait steady, timed up-and-go 9 seconds (normal).\nmedicines: 6 regular – silymarin 140 mg TDS, rosuvastatin 5 mg OD, salbutamol MDI SOS, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS, propranolol 40 mg OD. Polypharmacy noted, review against Beers criteria planned.\nmood: Reports occasional stress, denies depression or anxiety, PHQ-2 negative.\ncarers: Lives alone, mother (Mrs Lakshmi Kulkarni) provides occasional support.\ngoals: \"I want to stay healthy enough to continue my nursing job and keep my migraines under control.\""
+    },
+    {
+      "memory_id": "X0008-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg tablet TDS – 3 months\nrosuvastatin 5 mg tablet OD – 3 months\nsalbutamol metered-dose inhaler 100 µg actuation SOS – 3 months\nbudesonide-formoterol 200/6 µg inhaler BD – 3 months\nmontelukast 10 mg tablet HS – 3 months\npropranolol 40 mg tablet OD – 3 months"
+    },
+    {
+      "memory_id": "X0008-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function – ALT 32 U/L (0-40), AST 28 U/L (0-38), bilirubin 0.9 mg/dL (0.2-1.2).\nPlatelet count 210 ×10^9/L (150-400).\nLipids – total cholesterol 185 mg/dL (<200), LDL 110 mg/dL (<130), HDL 45 mg/dL (>40), triglycerides 130 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0008-m04",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Continues night shifts, notes occasional shortness of breath on exertion, uses salbutamol 2-3 times/week.\ncognition: Mini-Cog not repeated (annual due April 2026), no new concerns.\nfalls: No falls, gait normal, TUG 9 seconds.\nmedicines: 6 regular – silymarin 140 mg TDS, rosuvastatin increased to 10 mg OD, salbutamol MDI SOS, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS, propranolol 40 mg OD. Polypharmacy, meds review pending.\nmood: Reports work stress, denies low mood.\ncarers: Mother assists with grocery shopping weekly.\ngoals: \"I want to reduce my inhaler use and keep my liver stable.\""
+    },
+    {
+      "memory_id": "X0008-m05",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg tablet TDS – 3 months\nrosuvastatin 10 mg tablet OD – 3 months\nsalbutamol metered-dose inhaler 100 µg actuation SOS – 3 months\nbudesonide-formoterol 200/6 µg inhaler BD – 3 months\nmontelukast 10 mg tablet HS – 3 months\npropranolol 40 mg tablet OD – 3 months"
+    },
+    {
+      "memory_id": "X0008-m06",
+      "date": "2025-09-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Spirometry with reversibility: Pre-bronchodilator FEV1 2.8 L (78% predicted), FVC 3.6 L (85%), FEV1/FVC 0.78. Post-bronchodilator FEV1 3.1 L (86%), increase 10% and 200 mL – positive reversibility. Consistent with asthma."
+    },
+    {
+      "memory_id": "X0008-m07",
+      "date": "2025-10-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Asthma Control Test score 18/25 (partly controlled). Migraine frequency: 2 episodes last month, each responded to sumatriptan. No new liver symptoms."
+    },
+    {
+      "memory_id": "X0008-m08",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Tolerates night shifts, mild fatigue after long walks, uses salbutamol <2 times/week.\ncognition: Mini-Cog not yet due.\nfalls: No falls, gait normal, TUG 9 seconds.\nmedicines: 6 regular – silymarin 140 mg TDS, rosuvastatin 10 mg OD, salbutamol MDI SOS, budesonide-formoterol reduced to 100/6 inhaler BD, montelukast 10 mg HS, propranolol 40 mg OD. Polypharmacy, meds review scheduled.\nmood: Reports improved sleep, denies anxiety.\ncarers: Mother helps with meal prep twice weekly.\ngoals: \"I aim to cut my budesonide-formoterol dose further and stay migraine-free.\""
+    },
+    {
+      "memory_id": "X0008-m09",
+      "date": "2025-12-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg tablet TDS – 3 months\nrosuvastatin 10 mg tablet OD – 3 months\nsalbutamol metered-dose inhaler 100 µg actuation SOS – 3 months\nbudesonide-formoterol 100/6 µg inhaler BD – 3 months\nmontelukast 10 mg tablet HS – 3 months\npropranolol 40 mg tablet OD – 3 months"
+    },
+    {
+      "memory_id": "X0008-m10",
+      "date": "2026-03-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function – ALT 28 U/L (0-40), AST 24 U/L (0-38), bilirubin 0.8 mg/dL (0.2-1.2).\nPlatelet count 205 ×10^9/L (150-400).\nLipids – total cholesterol 178 mg/dL (<200), LDL 105 mg/dL (<130), HDL 48 mg/dL (>40), triglycerides 122 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0008-m11",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages night shifts well, occasional mild dyspnea on stairs, uses salbutamol once/week.\ncognition: Mini-Cog score 4/5 (recall 3, clock normal) – negative screen.\nfalls: No falls in past year, gait normal, TUG 9 seconds.\nmedicines: 6 regular – silymarin 140 mg TDS, rosuvastatin 10 mg OD, salbutamol MDI SOS, budesonide-formoterol 100/6 inhaler BD, montelukast 10 mg HS, propranolol 40 mg OD. Polypharmacy, meds review against Beers completed, no PIMs.\nmood: Reports good energy, denies depression.\ncarers: Mother provides weekly grocery assistance.\ngoals: \"I want to keep my asthma under control and avoid any liver flare-ups.\""
+    },
+    {
+      "memory_id": "X0008-m12",
+      "date": "2026-04-07",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-07-05 at 10:00 AM with Dr Nandini Kulkarni (D06)."
+    }
+  ]
+}

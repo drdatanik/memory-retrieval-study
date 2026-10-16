@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0449",
+  "name": "Partha Chakraborty",
+  "age": 27,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0449-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow-up for newly diagnosed hypothyroidism, reports fatigue and weight gain.\nEXAMINATION: BP 122/78 mmHg, weight 68 kg, height 1.70 m, BMI 23.5 (overweight). Thyroid not enlarged, skin dry.\nIMPRESSION: Overt hypothyroidism, TSH pending. Start levothyroxine 50 mcg OD.\nARRANGEMENTS: Prescribe levothyroxine 50 mcg OD, advise take on empty stomach, repeat TSH in 6 weeks. Return if worsening fatigue, palpitations, or fever >39°C."
+    },
+    {
+      "memory_id": "X0449-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 50 mcg OD, 30 tablets, repeat after 3 months."
+    },
+    {
+      "memory_id": "X0449-m03",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 8.2 mIU/L (Reference 0.4-4.0). Free T4 0.9 ng/dL (Reference 0.9-1.7)."
+    },
+    {
+      "memory_id": "X0449-m04",
+      "date": "2025-07-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Persistent tiredness, mild cold intolerance.\nEXAMINATION: BP 120/80, weight 68.5 kg, BMI 23.6 (overweight). No goiter.\nIMPRESSION: Biochemical hypothyroidism, TSH elevated, free T4 low-normal. Need dose increase.\nARRANGEMENTS: Increase levothyroxine to 75 mcg OD, counsel adherence, repeat TSH in 6 weeks. Return if chest pain, palpitations, or fever >39°C."
+    },
+    {
+      "memory_id": "X0449-m05",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 75 mcg OD, 30 tablets, repeat after 3 months."
+    },
+    {
+      "memory_id": "X0449-m06",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (Reference 0.4-4.0). Free T4 1.2 ng/dL (Reference 0.9-1.7)."
+    },
+    {
+      "memory_id": "X0449-m07",
+      "date": "2025-10-22",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow-up, feels well, energy improved.\nEXAMINATION: BP 118/76, weight 68 kg, BMI 23.4 (overweight). No thyroid enlargement.\nIMPRESSION: Euthyroid on levothyroxine 75 mcg OD, TSH within target.\nARRANGEMENTS: Continue same dose, advise balanced diet and regular activity, repeat TSH in 6 months. Return if new palpitations, weight loss, or fever >39°C."
+    },
+    {
+      "memory_id": "X0449-m08",
+      "date": "2026-02-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked with Dr Priya Natarajan (D03) on 2026-03-10 at 10:00 for routine follow-up."
+    },
+    {
+      "memory_id": "X0449-m09",
+      "date": "2026-02-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: General check-up, no new symptoms.\nEXAMINATION: BP 122/78, weight 68.2 kg, BMI 23.5 (overweight).\nIMPRESSION: Stable hypothyroidism on levothyroxine 75 mcg OD, asymptomatic.\nARRANGEMENTS: Continue current dose, remind to take on empty stomach, repeat TSH in 6 months. Return if palpitations, excessive sweating, or fever >39°C."
+    },
+    {
+      "memory_id": "X0449-m10",
+      "date": "2026-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 5.8 mIU/L (Reference 0.4-4.0). Free T4 1.0 ng/dL (Reference 0.9-1.7)."
+    },
+    {
+      "memory_id": "X0449-m11",
+      "date": "2026-05-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Return of mild fatigue, weight gain 2 kg.\nEXAMINATION: BP 124/80, weight 70.2 kg, BMI 24.3 (overweight). No thyroid enlargement.\nIMPRESSION: Suboptimal thyroid control, TSH rising, free T4 low-normal. Increase levothyroxine.\nARRANGEMENTS: Increase levothyroxine to 100 mcg OD, counsel adherence and timing, repeat TSH in 6 weeks. Return if chest pain, palpitations, or fever >39°C."
+    },
+    {
+      "memory_id": "X0449-m12",
+      "date": "2026-05-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 100 mcg OD, 30 tablets, repeat after 3 months."
+    }
+  ]
+}

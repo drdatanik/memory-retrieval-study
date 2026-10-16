@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0079",
+  "name": "Sachin Kadam",
+  "age": 38,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0079-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Depression.\nPatient reports low mood, anhedonia, fatigue, and poor sleep for 3 months. Appears tearful, psychomotor retardation mild. PHQ-9 to be sent. No suicidal ideation. Initiate sertraline 50 mg OD."
+    },
+    {
+      "memory_id": "X0079-m02",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "sertraline 50 mg OD"
+    },
+    {
+      "memory_id": "X0079-m03",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 18 (0-27). TSH: 4.2 µIU/mL (0.4-4.0). Vitamin B12: 210 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0079-m04",
+      "date": "2025-04-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling down all the time, can’t enjoy work at the jewellery shop, and I’m sleeping poorly."
+    },
+    {
+      "memory_id": "X0079-m05",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Depression, partial response.\nMood improved somewhat, still reports low energy and occasional insomnia. Sertraline tolerated but mild nausea. Consider switching to escitalopram."
+    },
+    {
+      "memory_id": "X0079-m06",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "escitalopram 10 mg OD\nsertraline taper off over 7 days"
+    },
+    {
+      "memory_id": "X0079-m07",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 12. TSH: 3.8 µIU/mL. Vitamin B12: 225 pg/mL."
+    },
+    {
+      "memory_id": "X0079-m08",
+      "date": "2025-07-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-10-10 at 10:00 with Dr Menon."
+    },
+    {
+      "memory_id": "X0079-m09",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Depression, improving.\nPatient reports better mood and sleep on escitalopram, but early morning awakening persists. Add mirtazapine 15 mg at night for sleep aid."
+    },
+    {
+      "memory_id": "X0079-m10",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "escitalopram 10 mg OD\nmirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0079-m11",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 8. TSH: 3.5 µIU/mL. Vitamin B12: 240 pg/mL."
+    },
+    {
+      "memory_id": "X0079-m12",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Depression, stable.\nMood good, reports mild daytime drowsiness from mirtazapine. Reduce mirtazapine to 7.5 mg HS to lessen sedation."
+    },
+    {
+      "memory_id": "X0079-m13",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "escitalopram 10 mg OD\nmirtazapine 7.5 mg HS"
+    },
+    {
+      "memory_id": "X0079-m14",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 6. TSH: 3.2 µIU/mL. Vitamin B12: 250 pg/mL."
+    },
+    {
+      "memory_id": "X0079-m15",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Depression, well controlled.\nPatient euthymic, energetic, sleeping well. No side effects. Continue current regimen."
+    },
+    {
+      "memory_id": "X0079-m16",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "escitalopram 10 mg OD\nmirtazapine 7.5 mg HS"
+    },
+    {
+      "memory_id": "X0079-m17",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 5. TSH: 3.0 µIU/mL. Vitamin B12: 260 pg/mL."
+    }
+  ]
+}

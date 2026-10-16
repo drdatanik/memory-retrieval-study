@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0211",
+  "name": "Annie Fernandes",
+  "age": 33,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0211-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency. Presents with fatigue and occasional muscle aches; BMI 22, vitals normal, chest clear. No smoking history. Plans: start cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU daily; check serum 25‑OH‑D, calcium, phosphate in 8 weeks; review in 3 months."
+    },
+    {
+      "memory_id": "X0211-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 60000 IU oral once weekly for 8 weeks."
+    },
+    {
+      "memory_id": "X0211-m03",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-05 at 10:00 AM."
+    },
+    {
+      "memory_id": "X0211-m04",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, improving. Reports better energy, no aches. Exam unchanged. Spirometry not indicated. Asthma Control Test not applicable. Technique not relevant. Smoking status never. Labs show 25‑OH‑D 22 ng/mL (target >30), calcium 9.1 mg/L, phosphate 0.9 mmol/L. Continue replacement, aim for maintenance."
+    },
+    {
+      "memory_id": "X0211-m05",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 22 ng/mL (ref 30‑100). Serum calcium 9.1 mg/L (ref 8.8‑10.4). Serum phosphate 0.9 mmol/L (ref 0.8‑1.4)."
+    },
+    {
+      "memory_id": "X0211-m06",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 1000 IU oral once daily."
+    },
+    {
+      "memory_id": "X0211-m07",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, stable. No new symptoms. Exam normal. Labs: 25‑OH‑D 28 ng/mL, calcium 9.2 mg/L, phosphate 0.92 mmol/L. Continue current dose; plan repeat in 3 months."
+    },
+    {
+      "memory_id": "X0211-m08",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 28 ng/mL (ref 30‑100). Serum calcium 9.2 mg/L (ref 8.8‑10.4). Serum phosphate 0.92 mmol/L (ref 0.8‑1.4)."
+    },
+    {
+      "memory_id": "X0211-m09",
+      "date": "2026-01-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, mild fatigue returning. Exam unchanged. Labs: 25‑OH‑D 24 ng/mL, calcium 9.0 mg/L, phosphate 0.88 mmol/L. Increase cholecalciferol to 2000 IU daily to replete stores."
+    },
+    {
+      "memory_id": "X0211-m10",
+      "date": "2026-01-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 24 ng/mL (ref 30‑100). Serum calcium 9.0 mg/L (ref 8.8‑10.4). Serum phosphate 0.88 mmol/L (ref 0.8‑1.4)."
+    },
+    {
+      "memory_id": "X0211-m11",
+      "date": "2026-01-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 2000 IU oral once daily."
+    },
+    {
+      "memory_id": "X0211-m12",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, improved. Feels well, no fatigue. Exam normal. Labs: 25‑OH‑D 32 ng/mL, calcium 9.3 mg/L, phosphate 0.94 mmol/L. Reduce to 1500 IU daily for maintenance."
+    },
+    {
+      "memory_id": "X0211-m13",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 32 ng/mL (ref 30‑100). Serum calcium 9.3 mg/L (ref 8.8‑10.4). Serum phosphate 0.94 mmol/L (ref 0.8‑1.4)."
+    },
+    {
+      "memory_id": "X0211-m14",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 1500 IU oral once daily."
+    },
+    {
+      "memory_id": "X0211-m15",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, stable on maintenance. No symptoms. Exam normal. Labs: 25‑OH‑D 30 ng/mL, calcium 9.2 mg/L, phosphate 0.91 mmol/L. Continue current dose; review in 3 months."
+    },
+    {
+      "memory_id": "X0211-m16",
+      "date": "2026-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 30 ng/mL (ref 30‑100). Serum calcium 9.2 mg/L (ref 8.8‑10.4). Serum phosphate 0.91 mmol/L (ref 0.8‑1.4)."
+    },
+    {
+      "memory_id": "X0211-m17",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, maintained. Patient asymptomatic, pharmacy assistant work unaffected. Exam normal. Final labs: 25‑OH‑D 31 ng/mL, calcium 9.2 mg/L, phosphate 0.93 mmol/L. Advise to continue cholecalciferol 1500 IU daily and re‑check in 6 months if clinically indicated."
+    }
+  ]
+}

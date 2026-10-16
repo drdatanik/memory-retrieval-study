@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0486",
+  "name": "Stephen Mathew",
+  "age": 30,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Chronic urticaria",
+    "Epilepsy",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0486-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Chronic urticaria: asymptomatic on levocetirizine 5 mg OD; continue. Epilepsy: seizure-free on levetiracetam 500 mg BD and lamotrigine 50 mg BD; continue. Allergic rhinitis: mild nasal congestion; continue cetirizine 10 mg HS, fluticasone nasal spray 1 spray each nostril OD, montelukast 10 mg HS. Plan: weight 78 kg, waist 92 cm (male cut-off 90 cm) – advise reduced carbohydrate diet, increase walking. Order CBC with eosinophils, thyroid function test, EEG, serum sodium, creatinine, skin prick test, total IgE, lipid profile. Due HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0486-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levocetirizine 5 mg OD after breakfast\nLevetiracetam 500 mg BD after meals\nLamotrigine 50 mg BD after meals\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0486-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.8 g/dl (13-17), WBC 6.2 x10^9/l (4-10), eosinophils 0.4 x10^9/l (0.0-0.5).\nThyroid: TSH 2.1 mIU/l (0.4-4.0), FT4 13.2 pmol/l (9-19)."
+    },
+    {
+      "memory_id": "X0486-m04",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: background rhythm normal, no epileptiform discharges. No spikes or sharp waves. Interpretation: consistent with well-controlled epilepsy."
+    },
+    {
+      "memory_id": "X0486-m05",
+      "date": "2025-04-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel better; hives have reduced to occasional mild itching after breakfast. No seizures since last visit. Nasal congestion improved with spray."
+    },
+    {
+      "memory_id": "X0486-m06",
+      "date": "2025-04-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 at 10:00 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0486-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Chronic urticaria: patient reports occasional mild itching, no wheals; continue levocetirizine 5 mg OD, consider adding cetirizine HS if needed. Epilepsy: seizure-free, medication adherence good; continue levetiracetam 500 mg BD, lamotrigine 50 mg BD. Allergic rhinitis: nasal congestion mild; continue cetirizine HS, fluticasone spray OD, montelukast HS. Weight 77 kg, waist 90 cm (at cut‑off); advise maintain current diet, add 30‑min brisk walk 5 days/week. Order lipid profile and repeat CBC to monitor eosinophils. Due HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0486-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levocetirizine 5 mg OD after breakfast\nLevetiracetam 500 mg BD after meals\nLamotrigine 50 mg BD after meals\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0486-m09",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile: Total cholesterol 185 mg/dl (<200), LDL 110 mg/dl (<130), HDL 42 mg/dl (>40), triglycerides 140 mg/dl (<150).\nCBC: Hb 13.6 g/dl, WBC 5.9 x10^9/l, eosinophils 0.3 x10^9/l."
+    },
+    {
+      "memory_id": "X0486-m10",
+      "date": "2025-10-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Chronic urticaria: breakthrough wheals on arms and trunk twice weekly despite levocetirizine OD; plan to increase antihistamine coverage. Epilepsy: seizure‑free, meds unchanged. Allergic rhinitis: symptoms controlled. Weight 78 kg, waist 92 cm (above cut‑off); advise reduce refined sugars, increase vegetable intake, aim for 150 min walk/week. Plan: change levocetirizine to BD, add cetirizine HS for night‑time itching. Order repeat CBC with eosinophils and thyroid function to rule out contribution."
+    },
+    {
+      "memory_id": "X0486-m11",
+      "date": "2025-10-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levocetirizine 5 mg BD after breakfast and dinner\nLevetiracetam 500 mg BD after meals\nLamotrigine 50 mg BD after meals\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0486-m12",
+      "date": "2025-10-03",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Allergy: Ibuprofen – developed generalized urticaria and pruritus within 30 min of taking 400 mg for headache on 2025-09-28. Reaction resolved with cetirizine 10 mg and topical calamine. Advise strict avoidance of ibuprofen and other NSAIDs; use paracetamol for analgesia."
+    },
+    {
+      "memory_id": "X0486-m13",
+      "date": "2025-10-05",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dermatology, Bangalore Medical Centre for evaluation of chronic urticaria refractory to antihistamines. Requested assessment for possible autoimmune urticaria and consideration of omalizumab. Please send report back to Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0486-m14",
+      "date": "2026-02-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Dermatology review: patient shows chronic inducible urticaria with negative autologous serum skin test. Recommend continuing high‑dose second‑generation antihistamines (levocetirizine BD + cetirizine HS) and trial of omalizumab if symptoms persist >3 months. No immediate need for immunosuppressants. Follow‑up in 8 weeks."
+    }
+  ]
+}

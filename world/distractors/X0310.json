@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0310",
+  "name": "Senthil Iyer",
+  "age": 56,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Heart failure with reduced ejection fraction"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0310-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "HFmrEF\n- Status: symptomatic on mild exertion, NYHA II, weight 78 kg, waist 94 cm (>90 cm cutoff).\n- Plan: Continue sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD, furosemide 40 mg OD, dapagliflozin 10 mg OD. Monitor weight daily, low‑salt diet, fluid restriction 1.5 L/day. Due: HbA1c 2025-07-05, electrolytes & creatinine 2025-04-12, echocardiogram 2025-07-05."
+    },
+    {
+      "memory_id": "X0310-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum potassium 4.8 mmol/L (3.5-5.0). Serum creatinine 1.2 mg/dL (0.6-1.2). NT‑proBNP 850 pg/mL (<300)."
+    },
+    {
+      "memory_id": "X0310-m03",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Transthoracic echocardiogram: LVEF 35%, mild mitral regurgitation, LVEDD 6.2 mm, NYHA class II."
+    },
+    {
+      "memory_id": "X0310-m04",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg OD\nFurosemide 40 mg OD\nDapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0310-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "HFmrEF\n- Status: weight stable 78 kg, mild ankle edema, dyspnea on walking 200 m. Labs: K 5.2, Cr 1.3, NT‑proBNP 780.\n- Plan: Reduce spironolactone to 12.5 mg OD, continue other meds. Repeat K & Cr in 4 weeks, weight review. Due: HbA1c 2025-10-10, electrolytes 2025-08-07, echo 2025-10-10."
+    },
+    {
+      "memory_id": "X0310-m06",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Spironolactone 12.5 mg OD (all other medicines unchanged)"
+    },
+    {
+      "memory_id": "X0310-m07",
+      "date": "2025-07-13",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum potassium 4.9 mmol/L. Serum creatinine 1.25 mg/dL. NT‑proBNP 800 pg/mL."
+    },
+    {
+      "memory_id": "X0310-m08",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "HFmrEF\n- Status: increased dyspnea on walking 100 m, weight up 2 kg to 80 kg, mild pulmonary edema on exam. Labs: K 4.7, Cr 1.28, NT‑proBNP 950.\n- Investigation: Echocardiogram shows LVEF 30%, NYHA III.\n- Plan: Increase furosemide to 60 mg OD, consider uptitrating bisoprolol if BP permits, continue sacubitril/valsartan, spironolactone 12.5 mg OD, dapagliflozin 10 mg OD. Refer to cardiology for device evaluation. Due: HbA1c 2026-01-20, electrolytes 2025-11-17, repeat echo 2026-01-20."
+    },
+    {
+      "memory_id": "X0310-m09",
+      "date": "2025-10-22",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Cardiology, Sri Jayadeva Institute of Cardiovascular Sciences, Bengaluru. Reason: worsening HFrEF, LVEF 30%, NYHA III, consider CRT‑D or ICD. Please review uptitration of beta‑blocker and MRA, assess for advanced therapies."
+    },
+    {
+      "memory_id": "X0310-m10",
+      "date": "2025-10-25",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-01-15 at 10:00 with Dr Hegde (D04) for HF review and pre‑op clearance."
+    },
+    {
+      "memory_id": "X0310-m11",
+      "date": "2025-12-05",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Cardiology reply: Patient reviewed, LVEF 30% confirmed. Recommended CRT‑D implantation. Advised to continue GDMT, aim for bisoprolol 5 mg OD if tolerated, hold spironolactone if K >5.0. Pre‑op clearance labs requested."
+    },
+    {
+      "memory_id": "X0310-m12",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "HFmrEF\n- Status: weight 79.5 kg, waist 92 cm, no orthopnea, mild fatigue. Labs: K 4.6, Cr 1.22, NT‑proBNP 620.\n- Plan: Uptitrate bisoprolol to 3.75 mg OD (half tablet 2.5 mg + 1.25 mg), continue sacubitril/valsartan, hold spironolactone (K borderline), furosemide 40 mg OD, dapagliflozin 10 mg OD. Pre‑op clearance pending. Due: HbA1c 2026-04-15, electrolytes 2026-02-12, echo 2026-04-15."
+    },
+    {
+      "memory_id": "X0310-m13",
+      "date": "2026-02-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum potassium 4.5 mmol/L. Serum creatinine 1.20 mg/dL. NT‑proBNP 590 pg/mL."
+    },
+    {
+      "memory_id": "X0310-m14",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "HFmrEF\n- Status: weight 78 kg, waist 90 cm (at cutoff), NYHA II, tolerating bisoprolol 3.75 mg OD. Labs: K 4.4, Cr 1.18, NT‑proBNP 540.\n- Investigation: Echocardiogram LVEF 38%, mild improvement.\n- Plan: Continue bisoprolol 3.75 mg OD, aim for 5 mg OD in 4 weeks if BP >100 systolic. Continue sacubitril/valsartan, furosemide 40 mg OD, dapagliflozin 10 mg OD. Restart spironolactone 12.5 mg OD if K stays <5.0. Due: HbA1c 2026-07-15, electrolytes 2026-07-15, echo 2027-04-15 (annual)."
+    },
+    {
+      "memory_id": "X0310-m15",
+      "date": "2026-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum potassium 4.6 mmol/L. Serum creatinine 1.19 mg/dL. NT‑proBNP 520 pg/mL. HbA1c 5.8% (3.9-5.6) – slight elevation, repeat in 3 months."
+    },
+    {
+      "memory_id": "X0310-m16",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "HFmrEF\n- Status: weight 77.5 kg, waist 89 cm, asymptomatic on ordinary activity, NYHA I. Labs: K 4.5, Cr 1.17, NT‑proBNP 480.\n- Plan: Continue current GDMT: sacubitril/valsartan 24/26 mg BD, bisoprolol 3.75 mg OD, spironolactone 12.5 mg OD, furosemide 40 mg OD, dapagliflozin 10 mg OD. Lifestyle: low‑salt diet, daily weight. Due: HbA1c 2027-01-10, electrolytes 2027-01-10, echo 2028-04-10."
+    }
+  ]
+}

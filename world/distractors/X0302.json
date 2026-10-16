@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0302",
+  "name": "Sanjeev Agarwal",
+  "age": 72,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Glaucoma",
+    "Heart failure with reduced ejection fraction"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0302-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Heart failure with reduced ejection fraction\n  - Status: Stable, NYHA class II, weight 78 kg, waist 92 cm (above male cut-off 90 cm).\n  - Plan: Continue sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD, furosemide 40 mg OD, dapagliflozin 10 mg OD. Monitor weight weekly, reduce salt.\n- Glaucoma\n  - Status: IOP 22 mmHg OD, 21 mmHg OS, visual field full, optic disc cupping 0.4.\n  - Plan: Continue timolol 0.5% eye drops BD, latanoprost 0.005% eye drops HS. Repeat IOP in 3 months.\nDiet advice: Breakfast – low‑salt Indian breakfast with whole wheat roti and boiled egg; Lunch – vegetable dal with brown rice, limited oil; Dinner – light khichdi with curd.\nDue: None"
+    },
+    {
+      "memory_id": "X0302-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sacubitril/valsartan 24/26 mg, 1-0-1, after food\nBisoprolol 2.5 mg, 1-0-0, after food\nSpironolactone 25 mg, 1-0-0, after food\nFurosemide 40 mg, 1-0-0, after food\nDapagliflozin 10 mg, 1-0-0, after food\nTimolol 0.5% eye drops, 1-0-1, before food\nLatanoprost 0.005% eye drops, 0-0-1, at bedtime"
+    },
+    {
+      "memory_id": "X0302-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: OD 22 mmHg (ref 10-21), OS 21 mmHg (ref 10-21)\nSerum potassium: 4.6 mmol/L (ref 3.5-5.0)\nSerum creatinine: 1.1 mg/dL (ref 0.6-1.2)\nNT‑proBNP: 312 pg/mL (ref <125)\nHbA1c: 5.8% (ref 4-5.6)"
+    },
+    {
+      "memory_id": "X0302-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Echocardiogram: LVEF 38%, mild mitral regurgitation, NYHA class II. No significant wall motion abnormality."
+    },
+    {
+      "memory_id": "X0302-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel a bit short of breath when climbing stairs to the hotel lobby, but otherwise manage my duties. Eye drops cause occasional mild burning."
+    },
+    {
+      "memory_id": "X0302-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Heart failure with reduced ejection fraction\n  - Status: Weight 80 kg, waist 94 cm, mild peripheral edema, NT‑proBNP 298 pg/mL.\n  - Plan: Increase furosemide to 60 mg OD, continue other HF meds. Review weight and edema in 2 weeks.\n- Glaucoma\n  - Status: IOP 20 mmHg OD, 19 mmHg OS, unchanged.\n  - Plan: Continue current glaucoma drops. Repeat IOP in 3 months.\nDiet advice: Breakfast – oats with skim milk and fruit; Lunch – mixed vegetable curry with chapati, minimal ghee; Dinner – steamed fish with salad.\nDue: None"
+    },
+    {
+      "memory_id": "X0302-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Furosemide 60 mg, 1-0-0, after food\n(All other medicines unchanged)"
+    },
+    {
+      "memory_id": "X0302-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum potassium: 4.4 mmol/L (ref 3.5-5.0)\nSerum creatinine: 1.2 mg/dL (ref 0.6-1.2)\nNT‑proBNP: 298 pg/mL (ref <125)\nIntraocular pressure: OD 20 mmHg, OS 19 mmHg"
+    },
+    {
+      "memory_id": "X0302-m09",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Heart failure with reduced ejection fraction\n  - Status: Weight 79 kg, waist 93 cm, no edema, NT‑proBNP 285 pg/mL.\n  - Plan: Reduce furosemide back to 40 mg OD, continue other HF meds. Check electrolytes in 4 weeks.\n- Glaucoma\n  - Status: IOP 18 mmHg OD, 17 mmHg OS, visual field stable.\n  - Plan: Continue timolol BD, latanoprost HS. Schedule visual field test today.\nDiet advice: Breakfast – idli with sambar, no coconut chutney; Lunch – vegetable pulao with raita; Dinner – grilled chicken with steamed vegetables.\nDue: None"
+    },
+    {
+      "memory_id": "X0302-m10",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Visual field test: Full field OD and OS, no defects. Reliable fixation."
+    },
+    {
+      "memory_id": "X0302-m11",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: OD 18 mmHg (ref 10-21), OS 17 mmHg (ref 10-21)\nLipid profile: Total cholesterol 180 mg/dL (<200), HDL 45 mg/dL (>40), LDL 95 mg/dL (<100), Triglycerides 120 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0302-m12",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Heart failure with reduced ejection fraction\n  - Status: Weight 78 kg, waist 91 cm, NT‑proBNP 260 pg/mL, serum K+ 4.5.\n  - Plan: Increase bisoprolol to 5 mg OD (titrate), continue other HF meds. Review in 6 weeks.\n- Glaucoma\n  - Status: IOP 19 mmHg OD, 18 mmHg OS, unchanged.\n  - Plan: Continue glaucoma drops. No change needed.\nDiet advice: Breakfast – wheat toast with boiled egg white; Lunch – lentil soup with brown rice; Dinner – paneer tikka with salad, minimal oil.\nDue: None"
+    },
+    {
+      "memory_id": "X0302-m13",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Bisoprolol 5 mg, 1-0-0, after food\n(All other medicines unchanged)"
+    },
+    {
+      "memory_id": "X0302-m14",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum potassium: 4.5 mmol/L (ref 3.5-5.0)\nSerum creatinine: 1.1 mg/dL (ref 0.6-1.2)\nNT‑proBNP: 260 pg/mL (ref <125)"
+    },
+    {
+      "memory_id": "X0302-m15",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-22 10:00 to 2026-04-22 14:00 with Dr Karthik Hegde (D04) for follow‑up."
+    }
+  ]
+}

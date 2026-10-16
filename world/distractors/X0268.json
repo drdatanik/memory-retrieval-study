@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0268",
+  "name": "Bhavna Solanki",
+  "age": 62,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Vitamin D deficiency",
+    "Allergic rhinitis",
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0268-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports independent driving, manages deliveries, no difficulty with ADLs. cognition: Mini-Cog 4/5 (recall 3, clock draw normal), negative screen. falls: 0 falls in last 12 months, gait steady, TUG 9 seconds, fall risk low. medicines: 0 regular, will start therapy. mood: denies anxiety, reports occasional worry about work, GAD-7 to be done. carers: lives alone, no formal carer. goals: \"I want to stay healthy and keep working without medication side‑effects.\""
+    },
+    {
+      "memory_id": "X0268-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cholecalciferol 60000 IU once weekly for 8 weeks\ncetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS\nescitalopram 5 mg OD\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0268-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 18 ng/mL (ref 30‑100)\nSerum calcium 9.2 mg/dL (8.5‑10.5)\nSerum phosphate 3.0 mg/dL (2.5‑4.5)\nTotal serum IgE 120 IU/mL (ref <100)\nTSH 2.1 µIU/mL (0.4‑4.0)\nHaemoglobin 13.2 g/dL (12‑16)"
+    },
+    {
+      "memory_id": "X0268-m04",
+      "date": "2025-04-10",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Allergy to house dust mites: allergic rhinitis with sneezing, nasal congestion, clear rhinorrhea on exposure."
+    },
+    {
+      "memory_id": "X0268-m05",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cholecalciferol 2000 IU OD (after 8‑week loading)\ncetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS\nescitalopram 5 mg OD\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0268-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues driving, reports mild fatigue after long shifts. cognition: Mini-Cog 4/5, stable. falls: 0 falls, gait slightly slower on uneven ground, TUG 11 seconds, still <12, low risk. medicines: 6 regular (vit D, cetirizine, fluticasone, montelukast, escitalopram, buspirone) – polypharmacy, review against Beers advised. mood: GAD‑7 8 (mild anxiety), reports occasional tension. carers: lives alone, daughter calls weekly. goals: \"I want to feel less tired and keep my job without drowsiness.\""
+    },
+    {
+      "memory_id": "X0268-m07",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 32 ng/mL (ref 30‑100)\nSerum calcium 9.4 mg/dL (8.5‑10.5)\nSerum phosphate 3.2 mg/dL (2.5‑4.5)\nTotal serum IgE 115 IU/mL (ref <100)\nGAD‑7 score 8 (same as clinic)\nTSH 2.0 µIU/mL (0.4‑4.0)\nHaemoglobin 13.0 g/dL (12‑16)"
+    },
+    {
+      "memory_id": "X0268-m08",
+      "date": "2025-09-01",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to ENT for persistent allergic rhinitis despite intranasal steroid and antihistamine; consider allergen immunotherapy evaluation."
+    },
+    {
+      "memory_id": "X0268-m09",
+      "date": "2025-09-15",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "ENT reviewed: allergic rhinitis confirmed, skin prick test positive to dust mites. Recommended continue cetirizine, fluticasone, montelukast; offered subcutaneous immunotherapy, patient declined due to travel. No further action needed."
+    },
+    {
+      "memory_id": "X0268-m10",
+      "date": "2025-11-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via app: Feeling more anxious lately, heart racing during night shifts, trouble sleeping despite buspirone. Request review of anxiety meds."
+    },
+    {
+      "memory_id": "X0268-m11",
+      "date": "2025-11-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "escitalopram increased to 10 mg OD\nbuspirone continued 5 mg BD\ncetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS\ncholecalciferol 2000 IU OD"
+    },
+    {
+      "memory_id": "X0268-m12",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: driving without issue, reports occasional joint stiffness after long hours. cognition: Mini-Cog 3/5 (recall 2, clock draw abnormal) – positive screen, plan for full MoCA. falls: 1 fall in past year (slipped on wet floor, no injury), gait cautious, TUG 13 seconds (≥12) – raised fall risk, advise strength training and non‑slip footwear. medicines: 6 regular – polypharmacy, Beers review scheduled. mood: GAD‑7 10 (moderate anxiety), reports improved sleep after escitalopram increase. carers: daughter assists with grocery shopping. goals: \"I want to stay steady on my feet and avoid another fall.\""
+    },
+    {
+      "memory_id": "X0268-m13",
+      "date": "2026-02-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 28 ng/mL (ref 30‑100) – borderline low\nSerum calcium 9.3 mg/dL (8.5‑10.5)\nSerum phosphate 3.1 mg/dL (2.5‑4.5)\nTotal serum IgE 118 IU/mL (ref <100)\nTSH 2.2 µIU/mL (0.4‑4.0)\nHaemoglobin 12.8 g/dL (12‑16)"
+    },
+    {
+      "memory_id": "X0268-m14",
+      "date": "2026-08-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-11-15 at 10:30 am with Dr Kulkarni (D06) for medication review and fall‑risk reassessment."
+    }
+  ]
+}

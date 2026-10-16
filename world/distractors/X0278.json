@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0278",
+  "name": "Navjot Sandhu",
+  "age": 81,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Vitamin D deficiency",
+    "Asthma",
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0278-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin D deficiency\n  Status: Initiating loading dose cholecalciferol 60000 IU weekly for 8 weeks.\n  Plan: Check serum 25‑OH‑D after 4 weeks, calcium, phosphate; advise sunlight exposure 15 min daily.\n- Asthma\n  Status: Controlled on budesonide‑formoterol 200/6 inhaler BD, montelukast 10 mg HS, salbutamol MDI SOS.\n  Plan: Continue current regimen, ensure inhaler technique, review ACT score next visit.\n- Benign positional vertigo\n  Status: Experiencing brief positional dizziness, Dix‑Hallpike pending.\n  Plan: Start betahistine 16 mg BD, meclizine 25 mg SOS for acute episodes; arrange Dix‑Hallpike test.\nWeight 62 kg, waist circumference 78 cm (female cut‑off 80 cm)."
+    },
+    {
+      "memory_id": "X0278-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "cholecalciferol 60000 IU once weekly for 8 weeks\nbudesonide-formoterol 200/6 inhaler 2 puffs BD\nmontelukast 10 mg HS\nsalbutamol metered-dose inhaler 2 puffs SOS\nbetahistine 16 mg BD\nmeclizine 25 mg SOS"
+    },
+    {
+      "memory_id": "X0278-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 18 ng/mL (ref 30‑100)\nSerum calcium: 9.2 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 3.4 mg/dL (ref 2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0278-m04",
+      "date": "2025-06-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin D deficiency\n  Status: Level rose to 18 ng/mL after 4 weeks loading; still insufficient.\n  Plan: Switch to maintenance cholecalciferol 1000 IU OD, re‑check in 8 weeks.\n- Asthma\n  Status: No exacerbations, ACT score 22 (last visit).\n  Plan: Continue budesonide‑formoterol BD, montelukast HS, salbutamol SOS; reinforce spacer use.\n- Benign positional vertigo\n  Status: Dix‑Hallpike positive for right posterior canal; symptoms improved with betahistine.\n  Plan: Continue betahistine 16 mg BD, taper meclizine to SOS only; consider vestibular rehab if persists.\nWeight 61.5 kg, waist 77 cm."
+    },
+    {
+      "memory_id": "X0278-m05",
+      "date": "2025-06-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "cholecalciferol 1000 IU OD\nbudesonide-formoterol 200/6 inhaler 2 puffs BD\nmontelukast 10 mg HS\nsalbutamol metered-dose inhaler 2 puffs SOS\nbetahistine 16 mg BD\nmeclizine 25 mg SOS"
+    },
+    {
+      "memory_id": "X0278-m06",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 32 ng/mL (ref 30‑100)\nSerum calcium: 9.4 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 3.6 mg/dL (ref 2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0278-m07",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin D deficiency\n  Status: Now sufficient at 32 ng/mL.\n  Plan: Continue cholecalciferol 1000 IU OD, repeat in 3 months.\n- Asthma\n  Status: Well controlled, no night symptoms, ACT 24.\n  Plan: Maintain current inhaler regimen, ensure annual influenza vaccine.\n- Benign positional vertigo\n  Status: Episodes reduced to <1 per week, mild.\n  Plan: Continue betahistine 16 mg BD, consider tapering to OD after another month.\nWeight 61 kg, waist 76 cm."
+    },
+    {
+      "memory_id": "X0278-m08",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "cholecalciferol 1000 IU OD\nbudesonide-formoterol 200/6 inhaler 2 puffs BD\nmontelukast 10 mg HS\nsalbutamol metered-dose inhaler 2 puffs SOS\nbetahistine 16 mg OD\nmeclizine 25 mg SOS"
+    },
+    {
+      "memory_id": "X0278-m09",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Spirometry: FEV1 2.45 L (78% predicted), FVC 3.10 L (82% predicted), FEV1/FVC 0.79. Post‑bronchodilator FEV1 increase 12% and 200 mL, indicating reversible airflow obstruction consistent with asthma."
+    },
+    {
+      "memory_id": "X0278-m10",
+      "date": "2025-09-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Asthma Control Test score today: 25 (out of 25). No rescue inhaler use in past week, sleep unaffected."
+    },
+    {
+      "memory_id": "X0278-m11",
+      "date": "2025-10-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-11-05 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0278-m12",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin D deficiency\n  Status: Stable on maintenance; last level 32 ng/mL (Jul).\n  Plan: Continue cholecalciferol 1000 IU OD, repeat in Jan 2026.\n- Asthma\n  Status: Mild increase in wheeze during recent cold; ACT 22.\n  Plan: Reinforce budesonide‑formoterol BD, ensure spacer, give short course oral prednisolone 20 mg OD for 5 days if symptoms worsen.\n- Benign positional vertigo\n  Status: Occasional brief vertigo on turning head left; betahistine OD helping.\n  Plan: Continue betahistine 16 mg OD, meclizine SOS only, consider Brandt‑Daroff exercises.\nWeight 60.8 kg, waist 75 cm."
+    },
+    {
+      "memory_id": "X0278-m13",
+      "date": "2025-12-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 30 ng/mL (ref 30‑100)\nSerum calcium: 9.3 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 3.5 mg/dL (ref 2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0278-m14",
+      "date": "2026-02-14",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin D deficiency\n  Status: Level 30 ng/mL, adequate.\n  Plan: Continue cholecalciferol 1000 IU OD, next check Apr 2026.\n- Asthma\n  Status: Recent exacerbation treated with prednisolone; now symptom‑free, ACT 24.\n  Plan: Continue budesonide‑formoterol BD, montelukast HS, salbutamol SOS; ensure annual flu vaccine.\n- Benign positional vertigo\n  Status: Rare episodes (<1/mo) with rapid resolution.\n  Plan: Continue betahistine 16 mg OD, meclizine SOS; discontinue if symptom‑free for 2 months.\nWeight 60.5 kg, waist 74 cm."
+    },
+    {
+      "memory_id": "X0278-m15",
+      "date": "2026-04-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 31 ng/mL (ref 30‑100)\nSerum calcium: 9.2 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 3.5 mg/dL (ref 2.5‑4.5)"
+    }
+  ]
+}

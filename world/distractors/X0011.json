@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0011",
+  "name": "Vikas Pandey",
+  "age": 63,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0011-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity.\nPatient presents for weight management. He is a 63‑year‑old school bus driver from Indiranagar, reports gradual weight gain over 5 years, no joint pain or shortness of breath. On examination BMI 34.2 kg/m², waist circumference 112 cm, blood pressure 138/86 mm Hg, lungs clear. Smoking status: never smoked. Plan: start orlistat 120 mg with each main meal, advise low‑calorie diet and increased activity, order fasting lipid profile, glucose, HbA1c, LFT and waist circumference."
+    },
+    {
+      "memory_id": "X0011-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg PO TID with each main meal."
+    },
+    {
+      "memory_id": "X0011-m03",
+      "date": "2025-04-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 210 mg/dL (≤200), LDL 130 mg/dL (<100), HDL 38 mg/dL (>40), Triglycerides 180 mg/dL (<150). Fasting glucose 102 mg/dL (70‑99). HbA1c 5.9 % (4‑5.6). ALT 28 U/L (≤40), AST 24 U/L (≤40), ALP 78 U/L (30‑120), GGT 32 U/L (≤50). Waist circumference 112 cm."
+    },
+    {
+      "memory_id": "X0011-m04",
+      "date": "2025-04-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-02."
+    },
+    {
+      "memory_id": "X0011-m05",
+      "date": "2025-07-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity with dyslipidaemia and pre‑diabetes.\nPatient reports mild loose stools after meals, tolerable. Weight 98 kg (down 2 kg), waist 109 cm, BMI 32.8. BP 136/84 mm Hg. Smoking status: never smoked. Labs show LDL 118 mg/dL, HDL 40 mg/dL, triglycerides 150 mg/dL, fasting glucose 99 mg/dL, HbA1c 5.7 %. Plan: continue orlistat, add atorvastatin 10 mg at night, reinforce diet."
+    },
+    {
+      "memory_id": "X0011-m06",
+      "date": "2025-07-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg PO TID with meals.\nAtorvastatin 10 mg PO HS."
+    },
+    {
+      "memory_id": "X0011-m07",
+      "date": "2025-07-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dL (≤200), LDL 118 mg/dL (<100), HDL 40 mg/dL (>40), Triglycerides 150 mg/dL (<150). Fasting glucose 99 mg/dL (70‑99). HbA1c 5.7 % (4‑5.6). ALT 26 U/L, AST 22 U/L, ALP 75 U/L, GGT 30 U/L. Waist circumference 109 cm."
+    },
+    {
+      "memory_id": "X0011-m08",
+      "date": "2025-07-03",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Next review scheduled for 2025-10-03."
+    },
+    {
+      "memory_id": "X0011-m09",
+      "date": "2025-10-04",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity, dyslipidaemia, impaired fasting glucose.\nPatient notes occasional abdominal cramping with orlistat, otherwise adherent. Weight 95 kg, waist 106 cm, BMI 31.8. BP 132/80 mm Hg. Smoking status: never smoked. Labs: LDL 106 mg/dL, HDL 42 mg/dL, triglycerides 138 mg/dL, fasting glucose 96 mg/dL, HbA1c 5.5 %. Plan: continue orlistat, continue atorvastatin, add metformin 500 mg BD with meals."
+    },
+    {
+      "memory_id": "X0011-m10",
+      "date": "2025-10-04",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg PO TID with meals.\nAtorvastatin 10 mg PO HS.\nMetformin 500 mg PO BD with meals."
+    },
+    {
+      "memory_id": "X0011-m11",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 182 mg/dL (≤200), LDL 106 mg/dL (<100), HDL 42 mg/dL (>40), Triglycerides 138 mg/dL (<150). Fasting glucose 96 mg/dL (70‑99). HbA1c 5.5 % (4‑5.6). ALT 24 U/L, AST 20 U/L, ALP 73 U/L, GGT 28 U/L. Waist circumference 106 cm."
+    },
+    {
+      "memory_id": "X0011-m12",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity, improved metabolic parameters.\nPatient reports persistent oily stools with orlistat, affecting adherence. Weight 90 kg, waist 100 cm, BMI 30.0. BP 128/78 mm Hg. Smoking status: never smoked. Labs: LDL 94 mg/dL, HDL 44 mg/dL, triglycerides 120 mg/dL, fasting glucose 92 mg/dL, HbA1c 5.3 %. Plan: discontinue orlistat due to GI intolerance, continue atorvastatin and metformin, reinforce lifestyle."
+    }
+  ]
+}

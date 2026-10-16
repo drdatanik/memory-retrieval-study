@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0311",
+  "name": "Srinivas Vemula",
+  "age": 66,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic kidney disease",
+    "Allergic rhinitis",
+    "Osteoporosis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0311-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Allergic rhinitis with mild intermittent symptoms.\nPatient reports sneezing, clear nasal discharge and itchy eyes on waking, worse on dry days; examination shows pale boggy turbinates, clear nasal secretions, no polyps. Spirometry: FEV1 2.85 L (92% predicted), FVC 3.30 L, FEV1/FVC 0.86; change from prior (none) +0.00 L. Technique checked: correct for nasal spray. Smoking status: never. Assessment: symptoms consistent with allergic rhinitis, lung function normal."
+    },
+    {
+      "memory_id": "X0311-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n cetirizine 10 mg HS\n fluticasone nasal spray one spray each nostril OD\n montelukast 10 HS\n calcium 500 mg BD with vitamin D3 800 IU"
+    },
+    {
+      "memory_id": "X0311-m03",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Allergy to grass pollen: seasonal allergic rhinitis with sneezing, nasal congestion, itchy eyes; confirmed by skin prick test."
+    },
+    {
+      "memory_id": "X0311-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.38 mg/dL (0.60-1.35)\neGFR 48 mL/min/1.73m2 (>60)\nUrine albumin-creatinine ratio 42 mg/g (<30)\nHaemoglobin 12.4 g/dL (13.0-17.0)"
+    },
+    {
+      "memory_id": "X0311-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable chronic kidney disease, allergic rhinitis controlled.\nPatient reports reduced nasal symptoms, occasional mild dyspnoea on exertion; examination shows BP 138/84, lungs clear, no edema. Spirometry: FEV1 2.80 L (90% pred), FVC 3.25 L, FEV1/FVC 0.86; ΔFEV1 –0.05 L from last. Technique checked: correct. Smoking status: never. Assessment: CKD stage G3aA2, allergic rhinitis well controlled; continue current meds."
+    },
+    {
+      "memory_id": "X0311-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD (increased from 20 mg)\n sodium bicarbonate 500 mg BD\n cetirizine 10 mg HS\n fluticasone nasal spray OD\n montelukast 10 HS\n calcium 500 mg BD with vitamin D3 800 IU"
+    },
+    {
+      "memory_id": "X0311-m07",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "DEXA scan lumbar spine: T-score –2.1 (osteoporosis). Femoral neck T-score –1.8 (osteopenia). No vertebral fracture seen."
+    },
+    {
+      "memory_id": "X0311-m08",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.32 mg/dL\neGFR 51 mL/min/1.73m2\nUrine albumin-creatinine ratio 38 mg/g\nHaemoglobin 12.8 g/dL"
+    },
+    {
+      "memory_id": "X0311-m09",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Mild worsening of CKD, allergic rhinitis stable.\nPatient notes occasional ankle swelling, fatigue; exam shows mild pitting edema to ankles, lungs clear. Spirometry: FEV1 2.78 L (89% pred), FVC 3.22 L, FEV1/FVC 0.86; ΔFEV1 –0.02 L. Technique checked: correct. Smoking status: never. Assessment: CKD progression; consider renal protective adjustment."
+    },
+    {
+      "memory_id": "X0311-m10",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD\n sodium bicarbonate 500 mg BD\n cetirizine 10 mg HS\n fluticasone nasal spray OD\n montelukast 10 HS\n alendronate 70 mg once weekly\n calcium 500 mg BD with vitamin D3 800 IU"
+    },
+    {
+      "memory_id": "X0311-m11",
+      "date": "2025-12-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'My nose feels much better since using the fluticasone spray daily, and I haven't needed antihistamines as often. My legs still swell a bit after long days of tailoring.'"
+    },
+    {
+      "memory_id": "X0311-m12",
+      "date": "2026-01-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-02-10 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0311-m13",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable CKD, allergic rhinitis controlled, osteoporosis initiated.\nPatient reports less nasal irritation, occasional leg swelling; exam shows trace ankle edema, lungs clear. Spirometry: FEV1 2.80 L (90% pred), FVC 3.26 L, FEV1/FVC 0.86; ΔFEV1 +0.02 L. Technique checked: correct. Smoking status: never. Assessment: CKD stage G3aA2 stable; allergic rhinitis well controlled; osteoporosis on alendronate."
+    },
+    {
+      "memory_id": "X0311-m14",
+      "date": "2026-02-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD\n sodium bicarbonate 500 mg BD\n cetirizine 10 mg HS\n fluticasone nasal spray OD\n montelukast 10 HS\n alendronate 70 mg once weekly\n calcium 500 mg BD with vitamin D3 800 IU"
+    },
+    {
+      "memory_id": "X0311-m15",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium 9.2 mg/dL (8.5-10.5)\nSerum 25-OH vitamin D 22 ng/mL (30-100) – low\nTotal serum IgE 112 IU/mL (<100) – slightly elevated"
+    },
+    {
+      "memory_id": "X0311-m16",
+      "date": "2026-06-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry: FEV1 2.82 L (91% pred), FVC 3.28 L, FEV1/FVC 0.86; ΔFEV1 +0.04 L from 2025-10-10. No bronchodilator response."
+    },
+    {
+      "memory_id": "X0311-m17",
+      "date": "2026-08-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Mild vitamin D deficiency, allergic rhinitis stable.\nPatient reports occasional nasal itch, no exacerbation; exam shows lungs clear, no edema. Spirometry: FEV1 2.80 L (90% pred), FVC 3.25 L, FEV1/FVC 0.86; ΔFEV1 –0.02 L. Technique checked: correct. Smoking status: never. Assessment: Vitamin D deficient; allergic rhinitis well controlled; CKD stable."
+    },
+    {
+      "memory_id": "X0311-m18",
+      "date": "2026-10-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD\n sodium bicarbonate stopped\n cetirizine 10 mg HS\n fluticasone nasal spray OD\n montelukast 10 HS\n alendronate 70 mg once weekly\n calcium 500 mg BD with vitamin D3 800 IU"
+    }
+  ]
+}

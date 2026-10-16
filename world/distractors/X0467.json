@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0467",
+  "name": "Hetal Shah",
+  "age": 47,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0467-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy diagnosed based on two witnessed tonic-clonic seizures and normal neurological exam.\nSymptoms: episodic loss of consciousness with limb jerking, no post‑ictal confusion. Examination: alert, oriented, cranial nerves normal, motor strength 5/5 bilaterally, no focal deficits.\nSmoking status: never.\nInhaler technique: not applicable (no inhaler prescribed).\nSpirometry: FEV1 2.85 L (92% predicted), FVC 3.40 L, FEV1/FVC 0.84; change since prior test N/A.\nAsthma Control Test score: 22 (well controlled).\nPlan: start levetiracetam 500 mg BD and lamotrigine 50 mg BD; arrange EEG; check serum sodium and creatinine; review in 8 weeks."
+    },
+    {
+      "memory_id": "X0467-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levetiracetam 500 mg oral tablet twice daily\nLamotrigine 50 mg oral tablet twice daily"
+    },
+    {
+      "memory_id": "X0467-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 138 mmol/L (135-145)\nSerum Creatinine: 0.9 mg/dL (0.6-1.1)"
+    },
+    {
+      "memory_id": "X0467-m04",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "EEG (awake and sleep): background normal rhythm; occasional left temporal sharp waves noted, no epileptiform discharges during hyperventilation or photic stimulation. Suggestive of mild cortical irritability, consistent with epilepsy."
+    },
+    {
+      "memory_id": "X0467-m05",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy stable on current regimen; no seizures reported since medication start.\nSymptoms: occasional mild headache, no aura. Examination: vitals normal, neuro exam unchanged.\nSmoking status: never.\nInhaler technique: Technique checked: correct (using salbutamol metered-dose inhaler for occasional wheeze).\nSpirometry: FEV1 2.90 L (94% predicted), FVC 3.42 L, FEV1/FVC 0.85; change in FEV1 since last test +0.05 L.\nAsthma Control Test score: 22 (well controlled).\nPlan: continue levetiracetam 500 mg BD, lamotrigine 50 mg BD; repeat labs in 3 months; review in 2 months."
+    },
+    {
+      "memory_id": "X0467-m06",
+      "date": "2025-08-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levetiracetam 750 mg oral tablet twice daily\nLamotrigine 50 mg oral tablet twice daily"
+    },
+    {
+      "memory_id": "X0467-m07",
+      "date": "2025-09-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve felt a bit light‑headed and nauseous since increasing the levetiracetam dose two weeks ago. The seizures haven’t returned, but I’m worried about the side effects."
+    },
+    {
+      "memory_id": "X0467-m08",
+      "date": "2025-09-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Possible levetiracetam‑related dizziness noted; seizure freedom maintained.\nSymptoms: mild dizziness in mornings, no nausea on exam. Examination: alert, gait steady, no nystagmus.\nSmoking status: never.\nInhaler technique: Technique checked: correct (salbutamol MDI).\nSpirometry: FEV1 2.88 L (93% predicted), FVC 3.38 L, FEV1/FVC 0.85; change in FEV1 since last test –0.02 L.\nAsthma Control Test score: 20 (well controlled).\nPlan: reduce levetiracetam to 600 mg BD; monitor symptoms; check serum sodium and creatinine in 4 weeks; review in 6 weeks."
+    },
+    {
+      "memory_id": "X0467-m09",
+      "date": "2025-10-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 136 mmol/L (135-145)\nSerum Creatinine: 1.0 mg/dL (0.6-1.1)"
+    },
+    {
+      "memory_id": "X0467-m10",
+      "date": "2025-11-10",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Neurology for optimisation of epilepsy management and consideration of possible medication taper.\nReason: patient on stable regimen with occasional drug‑related side effects; seeking specialist input on long‑term control."
+    },
+    {
+      "memory_id": "X0467-m11",
+      "date": "2025-11-15",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Neurology review: patient seizure‑free on levetiracetam 600 mg BD and lamotrigine 50 mg BD. Recommend maintaining current doses, monitor levetiracetam level if available, consider gradual lamotrigine taper after 6 months seizure‑free. Return to pulmonology for routine follow‑up."
+    },
+    {
+      "memory_id": "X0467-m12",
+      "date": "2026-03-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up pulmonology appointment booked for 2026-03-15 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0467-m13",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy well controlled; no seizures in past year; mild dizziness resolved after dose adjustment.\nSymptoms: none. Examination: normal vitals, neuro exam intact.\nSmoking status: never.\nInhaler technique: Technique checked: correct (salbutamol MDI).\nSpirometry: FEV1 2.92 L (95% predicted), FVC 3.45 L, FEV1/FVC 0.85; change in FEV1 since last test +0.04 L.\nAsthma Control Test score: 23 (well controlled).\nPlan: continue levetiracetam 600 mg BD, lamotrigine 50 mg BD; annual labs; review in 6 months."
+    }
+  ]
+}

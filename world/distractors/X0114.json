@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0114",
+  "name": "Hitesh Vyas",
+  "age": 28,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Psoriasis",
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0114-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Psoriasis\n  - Status: New diagnosis, mild plaques on elbows and knees, no joint symptoms.\n  - Plan: Start clobetasol 0.05% cream BD topically to affected areas; calcipotriol ointment OD topically; methotrexate 7.5 mg once weekly with folic acid 5 mg OD.\n- Dyslipidaemia\n  - Status: Newly identified, LDL 160 mg/dL, HDL 38 mg/dL, triglycerides 210 mg/dL.\n  - Plan: Initiate atorvastatin 10 mg at bedtime; lifestyle modification.\n- Weight 78 kg, waist circumference 92 cm (above male cut‑off 90 cm).\n- Diet advice:\n  - Breakfast: Whole grain toast, egg white, no added sugar.\n  - Lunch: Vegetable salad with grilled chicken, limited oil.\n  - Dinner: Lentil soup, steamed vegetables, small portion rice.\n- Due: 2025-07-05 (next HbA1c)."
+    },
+    {
+      "memory_id": "X0114-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "clobetasol 0.05% cream BD topically\ncalcipotriol ointment OD topically\nmethotrexate 7.5 mg once weekly\nfolic acid 5 mg OD\natorvastatin 10 mg HS"
+    },
+    {
+      "memory_id": "X0114-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 28 U/L (7-35), AST 24 U/L (8-33), ALKP 78 U/L (40-129), GGT 32 U/L (9-48), Bilirubin 0.9 mg/dL (0.2-1.2).\nCBC: Hb 14.2 g/dL (13-17), WBC 6.8 x10^9/L (4-10), Platelets 210 x10^9/L (150-400).\nSerum creatinine: 0.9 mg/dL (0.6-1.2).\nLipid profile: LDL 160 mg/dL (<100), HDL 38 mg/dL (>40), Triglycerides 210 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0114-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Psoriasis\n  - Status: Plaques improved, mild residual scaling; no new lesions.\n  - Plan: Continue clobetasol BD, calcipotriol OD; methotrexate 7.5 mg weekly unchanged.\n- Dyslipidaemia\n  - Status: LDL decreased to 130 mg/dL on atorvastatin; triglycerides 180 mg/dL.\n  - Plan: Add rosuvastatin 10 mg OD for further LDL reduction; monitor CK.\n- Weight 77 kg, waist 90 cm (at cut‑off).\n- Diet advice:\n  - Breakfast: Oats with skim milk, nuts.\n  - Lunch: Mixed vegetable chapati, lean curd.\n  - Dinner: Grilled fish, sautéed greens, small rice.\n- Due: 2025-10-10 (next HbA1c)."
+    },
+    {
+      "memory_id": "X0114-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "clobetasol 0.05% cream BD topically\ncalcipotriol ointment OD topically\nmethotrexate 7.5 mg once weekly\nfolic acid 5 mg OD\natorvastatin 10 mg HS\nrosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0114-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 30 U/L, AST 26 U/L, ALKP 80 U/L, GGT 35 U/L, Bilirubin 0.8 mg/dL.\nCBC: Hb 14.0 g/dL, WBC 6.5 x10^9/L, Platelets 205 x10^9/L.\nSerum creatinine: 0.9 mg/dL.\nLipid profile: LDL 130 mg/dL, HDL 40 mg/dL, Triglycerides 180 mg/dL.\nCK: 150 U/L (30-200)."
+    },
+    {
+      "memory_id": "X0114-m07",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up appointment with Dr Karthik Hegde (D04) for 2025-10-05 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0114-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Psoriasis\n  - Status: Clear skin on elbows, faint pink patches on knees; patient reports no itch.\n  - Plan: Taper clobetasol to twice weekly; continue calcipotriol OD; methotrexate unchanged.\n- Dyslipidaemia\n  - Status: LDL 110 mg/dL, HDL 42 mg/dL, triglycerides 150 mg/dL on dual statin.\n  - Plan: Continue atorvastatin 10 mg HS and rosuvastatin 10 mg OD; re‑check lipids in 3 months.\n- Weight 76 kg, waist 88 cm (below cut‑off).\n- Diet advice:\n  - Breakfast: Multigrain toast, avocado slice, tea.\n  - Lunch: Quinoa salad with chickpeas, lemon dressing.\n  - Dinner: Stir‑fried tofu with broccoli, small portion brown rice.\n- Due: 2026-01-05 (next HbA1c)."
+    },
+    {
+      "memory_id": "X0114-m09",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "clobetasol 0.05% cream twice weekly\ncalcipotriol ointment OD topically\nmethotrexate 7.5 mg once weekly\nfolic acid 5 mg OD\natorvastatin 10 mg HS\nrosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0114-m10",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 27 U/L, AST 23 U/L, ALKP 76 U/L, GGT 30 U/L, Bilirubin 0.7 mg/dL.\nCBC: Hb 13.8 g/dL, WBC 6.2 x10^9/L, Platelets 200 x10^9/L.\nSerum creatinine: 0.9 mg/dL.\nLipid profile: LDL 110 mg/dL, HDL 42 mg/dL, Triglycerides 150 mg/dL."
+    },
+    {
+      "memory_id": "X0114-m11",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Psoriasis\n  - Status: Flare – new erythematous plaques on scalp and lower back, mild itching.\n  - Plan: Increase clobetasol to once daily for 2 weeks, then BD; add calcipotriol BD; consider short course oral methotrexate 10 mg weekly.\n- Dyslipidaemia\n  - Status: Stable LDL 112 mg/dL, HDL 41 mg/dL, triglycerides 148 mg/dL.\n  - Plan: Continue current statins; advise dietary fat moderation.\n- Weight 79 kg, waist 91 cm (above cut‑off).\n- Diet advice:\n  - Breakfast: Skip sugary cereal; have boiled eggs and whole grain toast.\n  - Lunch: Reduce rice, increase vegetable curry.\n  - Dinner: Avoid fried snacks; opt for steamed fish and salad.\n- Due: 2026-05-20 (next HbA1c)."
+    },
+    {
+      "memory_id": "X0114-m12",
+      "date": "2026-02-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "clobetasol 0.05% cream OD (increase to BD after 2 weeks)\ncalcipotriol ointment BD topically\nmethotrexate 10 mg once weekly\nfolic acid 5 mg OD\natorvastatin 10 mg HS\nrosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0114-m13",
+      "date": "2026-08-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Psoriasis\n  - Status: Lesions cleared after intensified topical regimen; mild residual pigmentation.\n  - Plan: Reduce clobetasol to twice weekly; maintain calcipotriol OD; methotrexate reduced to 7.5 mg weekly.\n- Dyslipidaemia\n  - Status: LDL 105 mg/dL, HDL 44 mg/dL, triglycerides 130 mg/dL.\n  - Plan: Continue atorvastatin 10 mg HS and rosuvastatin 10 mg OD; annual lipid check due.\n- Weight 78 kg, waist 89 cm (just below cut‑off).\n- Diet advice:\n  - Breakfast: Porridge with skim milk, almonds.\n  - Lunch: Mixed vegetable dal, chapati.\n  - Dinner: Grilled chicken, steamed vegetables, small rice.\n- Due: 2026-11-15 (next HbA1c)."
+    }
+  ]
+}

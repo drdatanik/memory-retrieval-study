@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0390",
+  "name": "Farzana Khan",
+  "age": 47,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Psoriasis",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0390-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure-free for 3 months on current regimen; no adverse effects reported.\n  - Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD; check serum sodium and creatinine; routine EEG in 6 months.\n- Psoriasis\n  - Status: Plaques on elbows and knees, mild scaling; PASI ~6.\n  - Plan: Initiate clobetasol 0.05% cream BD topically to affected areas; calcipotriol ointment OD; methotrexate 7.5 mg PO weekly with folic acid 5 mg OD; monitor LFT, CBC, creatinine.\nDue: HbA1c not indicated; next review in 3 months."
+    },
+    {
+      "memory_id": "X0390-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg BD after meals\nLamotrigine 50 mg BD after meals\nMethotrexate 7.5 mg PO once weekly (same day each week) with folic acid 5 mg OD after meals\nClobetasol 0.05% cream BD topically to lesions\nCalcipotriol ointment OD topically to lesions"
+    },
+    {
+      "memory_id": "X0390-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.6% (ref 4.0-5.6)\nFasting glucose 92 mg/dL (70-99)\nALT 22 U/L (≤35)\nAST 20 U/L (≤34)\nALKP 78 U/L (30-120)\nGGT 18 U/L (≤51)\nTotal bilirubin 0.8 mg/dL (0.2-1.2)\nCBC: Hb 12.8 g/dL (12-16), WBC 6.2x10^3/µL (4-10), Plt 210x10^3/µL (150-400)\nSerum creatinine 0.84 mg/dL (0.57-1.00)\nSerum sodium 138 mmol/L (135-145)\nSerum potassium 4.2 mmol/L (3.5-5.1)"
+    },
+    {
+      "memory_id": "X0390-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: Awake and sleep recording shows no epileptiform discharges; background rhythms normal for age. No focal slowing. Impression: Normal study; consistent with well-controlled epilepsy."
+    },
+    {
+      "memory_id": "X0390-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure-free; mild morning drowsiness reported.\n  - Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD; check serum sodium and creatinine; consider dose adjustment if somnolence persists.\n- Psoriasis\n  - Status: Plaques reduced, mild residual erythema; PASI ~3.\n  - Plan: Increase methotrexate to 10 mg PO weekly; maintain folic acid 5 mg OD; continue topical steroids and calcipotriol; repeat LFT, CBC, creatinine in 4 weeks.\nDue: Next review in 3 months."
+    },
+    {
+      "memory_id": "X0390-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg BD after meals\nLamotrigine 50 mg BD after meals\nMethotrexate 10 mg PO once weekly (same day each week) with folic acid 5 mg OD after meals\nClobetasol 0.05% cream BD topically to lesions\nCalcipotriol ointment OD topically to lesions"
+    },
+    {
+      "memory_id": "X0390-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 28 U/L (≤35)\nAST 24 U/L (≤34)\nALKP 80 U/L (30-120)\nGGT 20 U/L (≤51)\nTotal bilirubin 0.9 mg/dL (0.2-1.2)\nCBC: Hb 12.6 g/dL (12-16), WBC 5.9x10^3/µL (4-10), Plt 205x10^3/µL (150-400)\nSerum creatinine 0.86 mg/dL (0.57-1.00)\nSerum sodium 137 mmol/L (135-145)\nSerum potassium 4.1 mmol/L (3.5-5.1)"
+    },
+    {
+      "memory_id": "X0390-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure-free; no drowsiness; medication well tolerated.\n  - Plan: Continue current levetiracetam and lamotrigine doses; repeat serum sodium and creatinine annually.\n- Psoriasis\n  - Status: Further improvement; plaques faint, PASI ~1.5.\n  - Plan: Maintain methotrexate 10 mg weekly; continue folic acid 5 mg OD; taper clobetasol to twice weekly on plaques; continue calcipotriol OD; monitor LFT, CBC, creatinine.\nDue: Next review in 3 months."
+    },
+    {
+      "memory_id": "X0390-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg BD after meals\nLamotrigine 50 mg BD after meals\nMethotrexate 10 mg PO once weekly (same day each week) with folic acid 5 mg OD after meals\nClobetasol 0.05% cream twice weekly topically to lesions\nCalcipotriol ointment OD topically to lesions"
+    },
+    {
+      "memory_id": "X0390-m10",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 26 U/L (≤35)\nAST 22 U/L (≤34)\nALKP 79 U/L (30-120)\nGGT 19 U/L (≤51)\nTotal bilirubin 0.8 mg/dL (0.2-1.2)\nCBC: Hb 12.7 g/dL (12-16), WBC 6.0x10^3/µL (4-10), Plt 208x10^3/µL (150-400)\nSerum creatinine 0.85 mg/dL (0.57-1.00)\nSerum sodium 138 mmol/L (135-145)\nSerum potassium 4.2 mmol/L (3.5-5.1)\nHbA1c 5.5% (ref 4.0-5.6)"
+    },
+    {
+      "memory_id": "X0390-m11",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed my skin lesions are almost flat now, just occasional pink patches. No new seizures, and I feel energetic. I’m worried about the methotrexate pill causing nausea, but I haven’t vomited. Please advise if I can take it with food."
+    },
+    {
+      "memory_id": "X0390-m12",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-04-20 at 10:30 am with Dr Karthik Hegde (D04). Please arrive 10 minutes early."
+    },
+    {
+      "memory_id": "X0390-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure-free for >6 months; no side effects.\n  - Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD; annual serum sodium and creatinine due.\n- Psoriasis\n  - Status: Lesions minimal, only faint pink macules; PASI <1.\n  - Plan: Methotrexate 10 mg weekly continued; folic acid 5 mg OD; discontinue topical steroids, maintain calcipotriol OD twice weekly; monitor LFT, CBC, creatinine.\nDue: Next review in 3 months; lipid profile due annually (next due 2027-04)."
+    },
+    {
+      "memory_id": "X0390-m14",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 24 U/L (≤35)\nAST 20 U/L (≤34)\nALKP 77 U/L (30-120)\nGGT 17 U/L (≤51)\nTotal bilirubin 0.7 mg/dL (0.2-1.2)\nCBC: Hb 12.9 g/dL (12-16), WBC 6.1x10^3/µL (4-10), Plt 212x10^3/µL (150-400)\nSerum creatinine 0.83 mg/dL (0.57-1.00)\nSerum sodium 138 mmol/L (135-145)\nSerum potassium 4.2 mmol/L (3.5-5.1)\nLipid profile: Cholesterol 180 mg/dL (<200), Triglycerides 110 mg/dL (<150), HDL 48 mg/dL (>40), LDL 100 mg/dL (<130)"
+    }
+  ]
+}

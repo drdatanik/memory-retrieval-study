@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0498",
+  "name": "Ratna Chatterjee",
+  "age": 54,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Chronic urticaria",
+    "Atrial fibrillation",
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0498-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria: Patient reports daily hives, mild angioedema, worse in evenings. Currently on levocetirizine 5 mg OD and cetirizine 10 mg HS with partial relief. Status: active. Plan: Continue antihistamines, add fexofenadine 120 mg BD if needed, monitor eosinophils.\n- Atrial fibrillation: Asymptomatic, on apixaban 5 mg BD and bisoprolol 2.5 mg OD. Rate controlled. Status: active. Plan: Continue anticoagulation, check INR if warfarin considered, ECG today.\n- Insomnia: Difficulty falling asleep, uses melatonin 3 mg HS with limited benefit. Status: active. Plan: Add trazodone 50 mg HS, review sleep hygiene.\nDue: HbA1c not indicated; next review in 3 months."
+    },
+    {
+      "memory_id": "X0498-m02",
+      "date": "2025-04-03",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levocetirizine 5 mg 1-0-0 after food\nCetirizine 10 mg 0-0-1 after food\nApixaban 5 mg 1-0-1 after food\nBisoprolol 2.5 mg 1-0-0 after food\nMelatonin 3 mg 0-0-1 after food\nTrazodone 50 mg 0-0-1 after food"
+    },
+    {
+      "memory_id": "X0498-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.2 x10^9/L (4-10), Neutrophils 4.0, Lymphocytes 1.8, Eosinophils 0.4 x10^9/L (0.0-0.5). Hb 12.8 g/dL (12-16). Platelets 210 x10^9/L (150-400).\nTSH: 2.1 mIU/L (0.4-4.0). Free T4: 1.2 ng/dL (0.8-1.8).\nSerum creatinine: 0.9 mg/dL (0.6-1.2). eGFR >90 mL/min/1.73m2."
+    },
+    {
+      "memory_id": "X0498-m04",
+      "date": "2025-04-09",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG: Rhythm irregularly irregular with absent P waves, ventricular rate 78 bpm. No ST-T changes. Consistent with atrial fibrillation, controlled ventricular response."
+    },
+    {
+      "memory_id": "X0498-m05",
+      "date": "2025-04-12",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dr S. Rao, Cardiology, Vikram Hospital, for opinion on long-term anticoagulation strategy in atrial fibrillation and assessment of thromboembolic risk. Please advise on suitability of warfarin vs continued apixaban, and need for echocardiogram."
+    },
+    {
+      "memory_id": "X0498-m06",
+      "date": "2025-05-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: \"Doctor, my hives have been worse the past week, especially at night, and I'm still struggling to sleep despite melatonin. I feel tired during the day.\""
+    },
+    {
+      "memory_id": "X0498-m07",
+      "date": "2025-05-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for follow-up with Dr Karthik Hegde (D04) on 2025-07-10 at 10:30 AM. Reason: review of urticaria, atrial fibrillation medications, and insomnia treatment."
+    },
+    {
+      "memory_id": "X0498-m08",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria: Patient reports reduced hive frequency, still occasional nocturnal wheals. Eosinophils normal. Status: improving. Plan: Continue levocetirizine 5 mg OD, add cetirizine 10 mg HS only if breakthrough, consider short course of prednisolone 10 mg OD for 3 days if severe flare.\n- Atrial fibrillation: Patient reports no palpitations. On apixaban 5 mg BD, bisoprolol 2.5 mg OD. Discussed warfarin option; patient prefers to stay on apixaban. Status: stable. Plan: Continue apixaban, check renal function annually.\n- Insomnia: Sleep onset improved with trazodone 50 mg HS, reports 6 hours sleep. Status: improved. Plan: Continue trazodone, melatonin as needed, advise sleep hygiene.\nDue: Next review in 3 months (Oct 2025)."
+    },
+    {
+      "memory_id": "X0498-m09",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levocetirizine 5 mg 1-0-0 after food\nCetirizine 10 mg 0-0-1 after food (as needed)\nApixaban 5 mg 1-0-1 after food\nBisoprolol 2.5 mg 1-0-0 after food\nMelatonin 3 mg 0-0-1 after food\nTrazodone 50 mg 0-0-1 after food"
+    },
+    {
+      "memory_id": "X0498-m10",
+      "date": "2025-07-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR: 1.1 (target 2-3 if on warfarin). Not applicable.\nLipid profile: Total cholesterol 185 mg/dL (<200), LDL 110 mg/dL (<130), HDL 48 mg/dL (>40), Triglycerides 140 mg/dL (<150).\nCBC: WBC 6.0, Neutrophils 3.9, Lymphocytes 1.7, Eosinophils 0.3 x10^9/L.\nSerum creatinine: 0.9 mg/dL."
+    },
+    {
+      "memory_id": "X0498-m11",
+      "date": "2025-08-02",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Cardiology opinion: Patient's atrial fibrillation is paroxysmal, well-controlled on apixaban and bisoprolol. Echocardiogram shows normal left ventricular size, mild left atrial enlargement, EF 60%. No valvular disease. Recommend continuation of apixaban 5 mg BD, maintain bisoprolol 2.5 mg OD. No need to switch to warfarin unless bleeding or adherence issues. Annual echocardiogram advised."
+    },
+    {
+      "memory_id": "X0498-m12",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria: Patient reports occasional mild wheals, mostly controlled with levocetirizine; no rescue cetirizine needed in past month. Status: well-controlled. Plan: Continue levocetirizine 5 mg OD, consider trial off cetirizine.\n- Atrial fibrillation: No symptoms, apixaban 5 mg BD, bisoprolol 2.5 mg OD. Rate controlled. Status: stable. Plan: Continue same, repeat INR not needed, annual lipid profile done.\n- Insomnia: Sleep quality good, trazodone 50 mg HS nightly, melatonin prn. Status: controlled. Plan: Continue current regimen, review in 6 months.\nDue: Next review in 6 months (Apr 2027) – outside current window; advise patient to return if symptoms change."
+    }
+  ]
+}

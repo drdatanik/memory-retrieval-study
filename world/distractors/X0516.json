@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0516",
+  "name": "Venkateswarlu Naidu",
+  "age": 63,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Glaucoma",
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0516-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks 2 km daily, drives school bus without difficulty.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal). No reported memory complaints.\nfalls: No falls in past 12 months; gait steady; timed up-and-go 9 seconds (normal).\nmedicines: 7 regular (timolol 0.5% eye drops BD, latanoprost 0.005% eye drops HS, telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD, aspirin 75 mg OD for primary prevention). Polypharmacy noted; review against Beers criteria planned.\nmood: Reports good mood, denies depression or anxiety; PHQ-2 score 0.\ncarers: Wife, Priya Kulkarni, provides occasional assistance with grocery shopping.\ngoals: \"I want to keep driving my bus and stay healthy for my grandchildren.\""
+    },
+    {
+      "memory_id": "X0516-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "timolol 0.5% eye drops – 1 drop each eye BD – 30 days; latanoprost 0.005% eye drops – 1 drop each eye HS – 30 days; telmisartan 40 mg – 1 tablet OD – 30 days; dapagliflozin 10 mg – 1 tablet OD – 30 days; furosemide 20 mg – 1 tablet OD – 30 days; sodium bicarbonate 500 mg – 1 tablet BD – 30 days; aspirin 75 mg – 1 tablet OD – 30 days."
+    },
+    {
+      "memory_id": "X0516-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "IOP: Right 18 mmHg, Left 19 mmHg (ref 10-21). Serum creatinine 1.4 mg/dL (0.6-1.2). eGFR 48 mL/min/1.73m2 (>60). Urine ACR 45 mg/g (<30). Haemoglobin 13.2 g/dL (13-17). Visual field: full. Optic disc: normal cupping."
+    },
+    {
+      "memory_id": "X0516-m04",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Noticed occasional blurring of vision in the mornings, improves after blinking. No pain or redness."
+    },
+    {
+      "memory_id": "X0516-m05",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still drives bus, reports mild fatigue after long routes.\ncognition: Mini-Cog 4/5, stable.\nfalls: No falls; timed up-and-go 10 seconds (borderline). Advised calf‑strength exercises and supportive footwear.\nmedicines: 7 regular; telmisartan increased to 80 mg OD, furosemide to 40 mg OD due to rising BP and mild ankle edema; others unchanged. Polypharmacy; Beers review pending.\nmood: Reports occasional low mood, PHQ-2 1; counselled on sleep hygiene.\ncarers: Wife, Priya Kulkarni, helps with medication box.\ngoals: \"I want to keep working without feeling wiped out.\""
+    },
+    {
+      "memory_id": "X0516-m06",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 80 mg – 1 tablet OD – 30 days; furosemide 40 mg – 1 tablet OD – 30 days; all other medicines unchanged."
+    },
+    {
+      "memory_id": "X0516-m07",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "IOP: Right 17 mmHg, Left 18 mmHg. Serum creatinine 1.5 mg/dL. eGFR 44 mL/min/1.73m2. Urine ACR 52 mg/g. Haemoglobin 13.0 g/dL. Serum potassium 4.8 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0516-m08",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages bus route, notes occasional shortness of breath on uphill stretches.\ncognition: Mini-Cog 3/5 (recall 2 items, clock draw abnormal) – positive screen; plan for full MoCA assessment.\nfalls: One minor slip at home without injury in past 6 months; gait slightly unsteady; timed up-and-go 13 seconds (raised fall risk). Prescribed balance training and non‑slip socks.\nmedicines: 8 regular; sodium bicarbonate stopped due to metabolic alkalosis (bicarbonate 30 mmol/L); added calcium carbonate 500 mg BD for bone health. Polypharmacy; Beers review ordered.\nmood: Reports feeling down most days, PHQ-2 2; initiated low‑dose sertraline 25 mg OD after discussing risks.\ncarers: Wife, Priya Kulkarni, reminds him to take meds.\ngoals: \"I want to stay steady on my feet and keep my independence.\""
+    },
+    {
+      "memory_id": "X0516-m09",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sodium bicarbonate stopped; calcium carbonate 500 mg – 1 tablet BD – 30 days; sertraline 25 mg – 1 tablet OD – 30 days; all other medicines as previously adjusted."
+    },
+    {
+      "memory_id": "X0516-m10",
+      "date": "2025-10-20",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Visual field testing: stable compared to baseline, no new defects. Optic disc photography shows unchanged cup‑to‑disc ratio 0.3 intra‑ocular pressure 17‑18 mmHg both eyes."
+    },
+    {
+      "memory_id": "X0516-m11",
+      "date": "2026-02-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up geriatric appointment booked for 2026-04-12 at 09:30 with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0516-m12",
+      "date": "2026-04-12",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports improved energy after sertraline titration to 50 mg OD; drives bus with fewer breaks.\ncognition: MoCA score 26/30 (normal); previous Mini‑Cog positive screen resolved.\nfalls: No falls in last 6 months; timed up‑and‑go 11 seconds (acceptable); continues balance exercises.\nmedicines: 9 regular; telmisartan 80 mg OD, dapagliflozin 10 mg OD, furosemide 40 mg OD, timolol BD, latanoprost HS, aspirin 75 mg OD, calcium carbonate BD, sertraline 50 mg OD, vitamin D3 1000 IU OD. Polypharmacy; Beers review completed, no potentially inappropriate meds.\nmood: Denies depressive symptoms, PHQ-2 0.\ncarers: Wife, Priya Kulkarni, assists with appointment scheduling.\ngoals: \"I feel confident to keep working and enjoy time with my grandchildren.\""
+    },
+    {
+      "memory_id": "X0516-m13",
+      "date": "2026-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "IOP: Right 16 mmHg, Left 17 mmHg. Serum creatinine 1.4 mg/dL. eGFR 50 mL/min/1.73m2. Urine ACR 38 mg/g. Haemoglobin 13.5 g/dL. Serum bicarbonate 24 mmol/L. Sodium 138 mmol/L. Potassium 4.5 mmol/L."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0445",
+  "name": "Radha Bollineni",
+  "age": 49,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0445-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Patient presents with fatigue, weight gain and cold intolerance.\nPRESENTING COMPLAINT: She reports feeling tired for 2 months, needing extra layers at work, and mild weight gain.\nEXAMINATION: BP 128/78 mmHg, weight 68 kg, height 1.58 m, BMI 27.2 (obese). Skin dry, no goitre.\nIMPRESSION: Overt hypothyroidism likely; need levothyroxine replacement and baseline thyroid labs. Annual fasting lipid profile and fasting blood sugar ordered as per protocol for adults over 40.\nARRANGEMENTS: Start levothyroxine 50 mcg OD. Order TSH and free T4 today. Advise balanced diet, regular walks 30 min daily. Return if worsening fatigue, palpitations, fever >39°C, or severe headache."
+    },
+    {
+      "memory_id": "X0445-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 50 mcg OD"
+    },
+    {
+      "memory_id": "X0445-m03",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 8.4 mIU/L (0.4-4.0); Free T4 9.8 pmol/L (9.0-19.0). Fasting lipid profile: Total cholesterol 5.2 mmol/L (<5.2), HDL 1.2 mmol/L (>1.0), LDL 3.0 mmol/L (<2.6), Triglycerides 1.8 mmol/L (<1.7). Fasting blood sugar 5.6 mmol/L (3.9-5.5)."
+    },
+    {
+      "memory_id": "X0445-m04",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of abnormal thyroid labs.\nPRESENTING COMPLAINT: Patient says fatigue persists, no new symptoms.\nEXAMINATION: BP 130/80 mmHg, weight 67.5 kg, BMI 27.0 (obese). No thyroid enlargement.\nIMPRESSION: TSH elevated confirming inadequate levothyroxine dose. Increase to 75 mcg OD. Lipids borderline; advise lifestyle.\nARRANGEMENTS: Increase levothyroxine to 75 mcg OD. Repeat TSH and free T4 in 6 weeks. Continue diet and activity advice. Return if palpitations, tremor, fever >39°C, or worsening fatigue."
+    },
+    {
+      "memory_id": "X0445-m05",
+      "date": "2025-07-22",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0445-m06",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for influenza vaccination on 2025-10-10 at 10:00 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0445-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Influenza vaccination visit.\nPRESENTING COMPLAINT: Patient here for annual flu vaccine; feels better on current dose.\nEXAMINATION: BP 126/78 mmHg, weight 67 kg, BMI 26.8 (overweight). No acute distress.\nIMPRESSION: Hypothyroidism stable on levothyroxine 75 mcg OD. Influenza vaccine indicated due to chronic illness.\nARRANGEMENTS: Administered inactivated influenza vaccine (0.5 mL IM) today. Advise continue levothyroxine, maintain weight reduction through diet and brisk walking. Return if high fever, severe sore throat, breathing difficulty, or vomiting."
+    },
+    {
+      "memory_id": "X0445-m08",
+      "date": "2026-01-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'I have more energy now, no side effects from the medicine. Still trying to walk after my shift.'"
+    },
+    {
+      "memory_id": "X0445-m09",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual review visit.\nPRESENTING COMPLAINT: Patient reports good energy, no cold intolerance.\nEXAMINATION: BP 124/76 mmHg, weight 66.5 kg, BMI 26.6 (overweight).\nIMPRESSION: Well‑controlled hypothyroidism. Order annual TSH, free T4, fasting lipid profile and fasting blood sugar as per protocol.\nARRANGEMENTS: Continue levothyroxine 75 mcg OD. Labs drawn today. Advise maintain healthy diet and regular activity. Return if new palpitations, weight loss, fever >39°C, or mood changes."
+    },
+    {
+      "memory_id": "X0445-m10",
+      "date": "2026-04-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0); Free T4 13.5 pmol/L (9.0-19.0). Fasting lipid profile: Total cholesterol 4.9 mmol/L (<5.2), HDL 1.3 mmol/L (>1.0), LDL 2.8 mmol/L (<2.6), Triglycerides 1.6 mmol/L (<1.7). Fasting blood sugar 5.4 mmol/L (3.9-5.5)."
+    },
+    {
+      "memory_id": "X0445-m11",
+      "date": "2026-04-22",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of normal labs.\nPRESENTING COMPLAINT: Patient feels well, no symptoms.\nEXAMINATION: BP 122/74 mmHg, weight 66 kg, BMI 26.4 (overweight).\nIMPRESSION: Thyroid function euthyroid on current dose. Consider modest increase to 100 mcg OD to aim for lower‑normal TSH given persistent mild weight gain.\nARRANGEMENTS: Increase levothyroxine to 100 mcg OD. Repeat TSH in 6 weeks. Continue diet and activity advice. Return if palpitations, tremor, fever >39°C, or excessive sweating."
+    },
+    {
+      "memory_id": "X0445-m12",
+      "date": "2026-04-25",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 100 mcg OD"
+    },
+    {
+      "memory_id": "X0445-m13",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original slot 2026-10-02 09:00 moved to 2026-10-05 14:30 with Dr Priya Natarajan (D03) for influenza vaccination."
+    },
+    {
+      "memory_id": "X0445-m14",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Influenza vaccination visit.\nPRESENTING COMPLAINT: Patient here for yearly flu vaccine; feels stable on levothyroxine.\nEXAMINATION: BP 123/75 mmHg, weight 65.8 kg, BMI 26.3 (overweight).\nIMPRESSION: Hypothyroidism well controlled on levothyroxine 100 mcg OD. Vaccine due.\nARRANGEMENTS: Administered inactivated influenza vaccine (0.5 mL IM) today. Remind to take levothyroxine on empty stomach, continue regular exercise and balanced diet. Return if high fever, severe sore throat, breathing difficulty, or vomiting."
+    }
+  ]
+}

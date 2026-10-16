@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0488",
+  "name": "Milind Bhosale",
+  "age": 58,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Vitamin B12 deficiency",
+    "Depression",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0488-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent with ADLs, walks 30 min daily, reports mild fatigue.\ncognition: Mini-Cog score 4/5 (recall 3, clock draw normal), negative screen.\nfalls: no falls in last 12 months, gait steady, timed up-and-go 9 seconds (normal).\nmedicines: 6 regular (methylcobalamin, sertraline, mebeverine, ispaghula husk, loperamide PRN, vitamin D). polypharmacy flag – review against Beers criteria.\nmood: PHQ-2 0/2, denies low mood or anhedonia.\ncarers: wife Priya, spouse.\ngoal: \"I want to stay active and keep my digestion settled.\""
+    },
+    {
+      "memory_id": "X0488-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methylcobalamin 1500 mcg OD\nsertraline 50 mg OD\nmebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\nvitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0488-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 180 pg/mL (ref 200-900)\nMCV: 98 fL (ref 80-100)\nHaemoglobin: 13.2 g/dL (ref 13.0-17.0)\nTSH: 2.1 mIU/L (ref 0.4-4.0)\nPHQ-9: 4 (ref 0-4 normal)\nComplete blood count: WBC 6.2 x10^9/L, Plt 210 x10^9/L"
+    },
+    {
+      "memory_id": "X0488-m04",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Penicillin – rash and pruritus within 30 min of oral dose, resolved with antihistamine."
+    },
+    {
+      "memory_id": "X0488-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports occasional knee discomfort after prolonged standing, otherwise ADL independent.\ncognition: Mini-Cog 3/5 (recall 2, clock draw mild abnormality), negative screen.\nfalls: no falls, gait slightly antalgic left knee, timed up-and-go 10 seconds (borderline).\nmedicines: 6 regular (same as before). polypharmacy – meds review scheduled.\nmood: PHQ-2 1/2, occasional low mood, denies hopelessness.\ncarers: wife Priya, spouse.\ngoal: \"I’d like to reduce the bloating and feel steadier on my feet.\""
+    },
+    {
+      "memory_id": "X0488-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methylcobalamin 1500 mcg OD\nsertraline 75 mg OD (increased from 50)\nmebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\nvitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0488-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 260 pg/mL (ref 200-900)\nMCV: 95 fL (ref 80-100)\nHaemoglobin: 13.5 g/dL (ref 13.0-17.0)\nTSH: 1.9 mIU/L (ref 0.4-4.0)\nPHQ-9: 6 (ref 0-4 mild elevation)\nComplete blood count: WBC 5.9 x10^9/L, Plt 205 x10^9/L"
+    },
+    {
+      "memory_id": "X0488-m08",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past month I’ve had more bloating after meals, loose stools twice a week, and I feel tired even after resting. My appetite is okay but I avoid dairy because it worsens the bloating."
+    },
+    {
+      "memory_id": "X0488-m09",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Abdominal ultrasound: liver normal size, no focal lesions; gallbladder wall thickness 2 mm (normal); no biliary dilatation; kidneys unremarkable. No evidence of ascites or bowel wall thickening."
+    },
+    {
+      "memory_id": "X0488-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independent, walks 20 min daily, reports mild dyspnea on exertion.\ncognition: Mini-Cog 4/5 (recall 3, clock draw normal), negative screen.\nfalls: one fall at home 3 months ago (slipped on wet floor), no injury; gait cautious, timed up-and-go 12 seconds (raised fall risk) – advise exercise and sturdy footwear.\nmedicines: 7 regular (added escitalopram). polypharmacy – medication review undertaken, stopped mirtazapine.\nmood: PHQ-2 2/2, reports low mood and anhedonia for past 4 weeks.\ncarers: wife Priya, spouse.\ngoal: \"I want to feel less down and keep my gut settled.\""
+    },
+    {
+      "memory_id": "X0488-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methylcobalamin 1500 mcg OD\nsertraline 75 mg OD\nescitalopram 10 mg OD\nmebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\nvitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0488-m12",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 340 pg/mL (ref 200-900)\nMCV: 92 fL (ref 80-100)\nHaemoglobin: 13.8 g/dL (ref 13.0-17.0)\nTSH: 2.0 mIU/L (ref 0.4-4.0)\nPHQ-9: 10 (ref 0-4 moderate depression)\nComplete blood count: WBC 6.0 x10^9/L, Plt 210 x10^9/L"
+    },
+    {
+      "memory_id": "X0488-m13",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-07-05 at 10:30 AM with Dr Nandini Kulkarni (D06) for follow-up review."
+    },
+    {
+      "memory_id": "X0488-m14",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independent, walks 25 min daily, reports improved energy.\ncognition: Mini-Cog 5/5 (recall 3, clock draw normal), negative screen.\nfalls: no further falls, gait steady, timed up-and-go 10 seconds (improved).\nmedicines: 6 regular (methylcobalamin, sertraline, escitalopram, mebeverine, ispaghula husk, loperamide PRN). polypharmacy – meds within Beers limits.\nmood: PHQ-2 0/2, denies depressive symptoms.\ncarers: wife Priya, spouse.\ngoal: \"I feel back to my usual self and want to stay healthy.\""
+    }
+  ]
+}

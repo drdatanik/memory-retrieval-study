@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+runs/emb_cache/
+runs/hf_cache/
+runs/logs/
+drafts/
+TOMORROW.md

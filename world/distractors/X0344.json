@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0344",
+  "name": "Imtiaz Syed",
+  "age": 71,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Insomnia",
+    "Osteoarthritis of the knee",
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0344-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent with ADLs, uses a walking stick for knee pain, manages household chores with occasional rest.\ncognition: Mini-Cog 4/5 (recall 2, clock draw normal) – negative screen.\nfalls: No falls in past 12 months; gait steady with aid; timed up-and-go 11 seconds – normal.\nmedicines: 9 regular – melatonin 3 mg HS, trazodone 50 mg HS, paracetamol 650 mg SOS, topical diclofenac gel BD, calcium‑vit D3 OD, telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD. Polypharmacy – request Beers criteria review.\nmood: Reports occasional low mood, denies hopelessness.\ncarers: Sunita, wife.\ngoal: \"I want to stay active and sleep better without feeling drowsy.\""
+    },
+    {
+      "memory_id": "X0344-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 µIU/mL (0.4‑4.0). Haemoglobin 13.2 g/dL (13.0‑17.0). Serum creatinine 1.4 mg/dL (0.6‑1.2). eGFR 48 mL/min/1.73m2 (>60). Urine albumin‑creatinine ratio 45 mg/g (<30). Serum 25‑OH vitamin D 22 ng/mL (30‑100). Insomnia Severity Index score 14 (0‑28)."
+    },
+    {
+      "memory_id": "X0344-m03",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "melatonin 3 mg HS\n trazodone 50 mg HS\n paracetamol 650 mg SOS\n topical diclofenac gel BD\n calcium‑vit D3 OD\n telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD"
+    },
+    {
+      "memory_id": "X0344-m04",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent; knee pain worse on stairs, uses stick outdoors.\ncognition: Not due for annual Mini‑Cog yet.\nfalls: One fall at home 3 months ago (tripped on rug), no injury; gait cautious; timed up‑and‑go 13 seconds – raised fall risk. Advised home safety audit, sturdy shoes, balance exercises.\nmedicines: 9 regular – same as before. Polypharmacy – medication review pending.\nmood: Improved sleep, reports less daytime fatigue.\ncarers: Sunita, wife.\ngoal: \"I wish to walk without fear of falling.\""
+    },
+    {
+      "memory_id": "X0344-m05",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.35 mg/dL (0.6‑1.2). eGFR 50 mL/min/1.73m2. Haemoglobin 13.0 g/dL. Serum 25‑OH vitamin D 24 ng/mL."
+    },
+    {
+      "memory_id": "X0344-m06",
+      "date": "2025-09-30",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Weight‑bearing X‑ray both knees: Joint space narrowing medial compartment, osteophytes, subchondral sclerosis – consistent with moderate osteoarthritis. No effusion or fracture."
+    },
+    {
+      "memory_id": "X0344-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent; knee pain limits prolonged standing, uses stick for longer walks.\ncognition: Not due.\nfalls: No new falls; gait slow; timed up‑and‑go 12 seconds – borderline risk. Reinforced footwear advice, prescribed calf‑strengthening.\nmedicines: 9 regular – added topical NSAID increased to TDS, continued others. Polypharmacy – review scheduled.\nmood: Stable.\ncarers: Sunita, wife.\ngoal: \"I want to manage knee pain without strong opioids.\""
+    },
+    {
+      "memory_id": "X0344-m08",
+      "date": "2025-11-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "paracetamol 650 mg SOS\n topical diclofenac gel TDS\n calcium‑vit D3 OD\n telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n melatonin 3 mg HS\n trazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0344-m09",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent; occasional knee swelling after household work, manages with rest and ice.\ncognition: Annual Mini‑Cog due; score 3/5 (recall 1, clock draw abnormal) – negative.\nfalls: No falls in past year; gait steady with aid; timed up‑and‑go 11 seconds – normal.\nmedicines: 9 regular – unchanged. Polypharmacy – medication review completed, no Beers‑flagged drugs.\nmood: Reports good sleep, no daytime somnolence.\ncarers: Sunita, wife.\ngoal: \"I want to keep my kidneys stable and stay mobile.\""
+    },
+    {
+      "memory_id": "X0344-m10",
+      "date": "2026-02-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.30 mg/dL (0.6‑1.2). eGFR 52 mL/min/1.73m2. Haemoglobin 12.8 g/dL. Serum 25‑OH vitamin D 26 ng/mL. TSH 2.0 µIU/mL."
+    },
+    {
+      "memory_id": "X0344-m11",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent; knee pain mild, walks 20‑30 min with stick.\ncognition: Mini‑Cog 4/5 – negative.\nfalls: No falls; gait normal; timed up‑and‑go 10 seconds – normal.\nmedicines: 9 regular – melatonin reduced to 2 mg HS due to morning grogginess; all others unchanged. Polypharmacy – meds appropriate.\nmood: Improved mood, enjoys gardening.\ncarers: Sunita, wife.\ngoal: \"I wish to sleep through the night and feel refreshed.\""
+    },
+    {
+      "memory_id": "X0344-m12",
+      "date": "2026-05-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Messaged via clinic app: ‘Doctor, I’ve been waking up at 3 am feeling anxious; melatonin 2 mg isn’t helping as much. Could we try something else for sleep?’"
+    },
+    {
+      "memory_id": "X0344-m13",
+      "date": "2026-09-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-10-05 at 10:30 am with Dr Nandini Kulkarni (D06) for routine geriatric review."
+    }
+  ]
+}

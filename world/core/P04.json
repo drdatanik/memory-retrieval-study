@@ -1,0 +1,118 @@
+{
+  "patient_id": "P04",
+  "name": "Vikram Desai",
+  "age": 66,
+  "sex": "M",
+  "primary_doctor": "D01",
+  "conditions": [
+    "Hypertension",
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "P04-m01",
+      "date": "2025-05-13",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake note: Former smoker, stopped in 2008 after about 20 years of smoking. Says he feels well and walks in the park most mornings. Requests a refill of his blood pressure and cholesterol tablets."
+    },
+    {
+      "memory_id": "P04-m02",
+      "date": "2025-05-13",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o HTN on amlodipine (Norvasc) 5 mg OD x 4 yrs. Dyslipidaemia on atorvastatin (Atorva) 10 mg OD. Ex-smoker, quit 2008. No chest pain, no breathlessness on routine activity. Walks daily.\nO: BP 136/86 mmHg, pulse 72/min, wt 78 kg, ht 170 cm. CVS: S1 S2 normal, no murmur. Chest clear.\nA: 1. HTN, above target (below 130/80). 2. Dyslipidaemia, on low-dose statin.\nP: 1. Continue amlodipine 5 mg OD. 2. Continue atorvastatin 10 mg OD. 3. Home BP log. 4. Salt restriction.\nAdv: Reduce salt; brisk walk 30 min, 5 days a week; do not restart smoking. R/V in 6 months."
+    },
+    {
+      "memory_id": "P04-m03",
+      "date": "2025-11-04",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: c/o chest tightness on climbing stairs x 3 weeks. Settles within 5 min of stopping and resting. No chest pain at rest, no sweating, no breathlessness at rest.\nO: BP 146/90 mmHg, pulse 80/min, regular. CVS: S1 S2 normal, no murmur. Chest clear. ECG and LDL done today, see reports.\nA: 1. Exertional chest tightness x 3 weeks, ECG normal, needs cardiology evaluation. 2. HTN, above target. 3. Dyslipidaemia, LDL raised.\nP: 1. Refer to cardiology, Dr Rohan Iyer (D02). 2. Avoid hurrying on stairs until reviewed. 3. Continue amlodipine 5 mg OD and atorvastatin 10 mg OD. 4. Home BP log.\nAdv: Walk on flat ground only until cardiology review; no smoking; salt restriction. R/V in 4 months."
+    },
+    {
+      "memory_id": "P04-m04",
+      "date": "2025-11-04",
+      "type": "investigation",
+      "author": "D01",
+      "text": "Resting 12-lead ECG, recorded at Sunrise Family Clinic on the day of the visit: sinus rhythm at 80 per minute. Normal ECG, with no acute ST or T wave changes. Reported by Dr Anjali Mehta (D01)."
+    },
+    {
+      "memory_id": "P04-m05",
+      "date": "2025-11-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: LDL cholesterol 142 mg/dL (reference below 100 mg/dL). Sample: fasting venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P04-m06",
+      "date": "2025-11-04",
+      "type": "referral",
+      "author": "D01",
+      "text": "Referral to cardiology: Dr Rohan Iyer (D02), visiting consultant at Sunrise Family Clinic. Reason: 3 weeks of exertional chest tightness on climbing stairs. Resting ECG normal. BP 146/90 mmHg, LDL 142 mg/dL. Patient informed and agreeable."
+    },
+    {
+      "memory_id": "P04-m07",
+      "date": "2026-01-09",
+      "type": "investigation",
+      "author": "D02",
+      "text": "Exercise treadmill test, performed at the cardiology consultation. The test is positive for inducible ischaemia, with ST segment changes during exercise. Exercise capacity reached seven metabolic equivalents. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P04-m08",
+      "date": "2026-01-09",
+      "type": "referral_outcome",
+      "author": "D02",
+      "text": "The patient, Vikram Desai, was seen in the cardiology clinic after referral from his primary physician for three weeks of chest tightness on climbing stairs. The exercise treadmill test is positive for inducible ischaemia at seven metabolic equivalents, which needs anatomical assessment. I have started aspirin 75 milligrams once daily and metoprolol succinate 25 milligrams once daily, and I have increased his atorvastatin from 10 milligrams once daily to 40 milligrams once daily. I have advised coronary angiography. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P04-m09",
+      "date": "2026-01-09",
+      "type": "prescription",
+      "author": "D02",
+      "text": "Prescription: aspirin 75 milligrams once daily, new start. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P04-m10",
+      "date": "2026-01-09",
+      "type": "prescription",
+      "author": "D02",
+      "text": "Prescription: metoprolol succinate 25 milligrams once daily, new start. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P04-m11",
+      "date": "2026-01-09",
+      "type": "prescription",
+      "author": "D02",
+      "text": "Prescription: atorvastatin increased from 10 milligrams once daily to 40 milligrams once daily. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P04-m12",
+      "date": "2026-01-09",
+      "type": "referral",
+      "author": "D02",
+      "text": "Referral: Narayana Health catheterisation laboratory, for coronary angiography as advised at this consultation. The referral is to assess the inducible ischaemia found on the treadmill test. Referral letter given to the patient. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P04-m13",
+      "date": "2026-03-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: LDL cholesterol 88 mg/dL (reference below 100 mg/dL). Sample: fasting venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P04-m14",
+      "date": "2026-03-10",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Feels better. No chest tightness on routine walking. Taking aspirin, metoprolol succinate and atorvastatin as advised by cardiology. No bleeding or black stools on aspirin.\nO: BP 130/82 mmHg, pulse 66/min, regular. Wt 77 kg. LDL 88 mg/dL, down from 142 mg/dL.\nA: 1. Exertional chest symptoms, quiet on routine activity on current medicines. 2. HTN, near target. 3. Dyslipidaemia, LDL improved on atorvastatin 40 mg OD.\nP: 1. Continue aspirin 75 mg OD, metoprolol succinate 25 mg OD and atorvastatin 40 mg OD. 2. Continue amlodipine 5 mg OD. 3. Home BP log.\nAdv: Walk daily at own pace; no smoking; reduce salt. R/V in 6 months."
+    },
+    {
+      "memory_id": "P04-m15",
+      "date": "2026-09-08",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: No chest pain at rest. Walks daily. No breathlessness at rest. Tolerating aspirin, metoprolol succinate and atorvastatin well.\nO: BP 128/78 mmHg, pulse 68/min, regular. Wt 76 kg. CVS: S1 S2 normal. Chest clear.\nA: 1. Stable, no chest pain at rest. 2. HTN, controlled on amlodipine 5 mg OD. 3. Dyslipidaemia, on atorvastatin 40 mg OD.\nP: 1. Continue amlodipine 5 mg OD, aspirin 75 mg OD, metoprolol succinate 25 mg OD and atorvastatin 40 mg OD. 2. No change today.\nAdv: Continue daily walk, salt restriction, no smoking. R/V in 6 months."
+    }
+  ]
+}

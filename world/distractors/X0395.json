@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0395",
+  "name": "Dilip Phadke",
+  "age": 28,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Obesity",
+    "Hypothyroidism",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0395-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity-related exertional dyspnea.\nPatient reports mild shortness of breath on climbing two flights of stairs, no wheeze or chest pain. Exam: BMI 32 kg/m2, waist circumference 102 cm, blood pressure 128/82 mmHg, lungs clear to auscultation, no cardiac murmurs.\nSpirometry: FEV1 3.20 L (92% predicted), FVC 3.80 L (95% predicted), FEV1/FVC 0.84; change from baseline not applicable.\nTechnique checked: no inhaler prescribed.\nSmoking status: never smoked (0 pack-years).\nAssessment: Dyspnea proportional to obesity; continue lifestyle advice and consider weight‑loss medication."
+    },
+    {
+      "memory_id": "X0395-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg with each main meal\nLevothyroxine 50 mcg OD\nMetformin 500 mg BD"
+    },
+    {
+      "memory_id": "X0395-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dL (ref <200), LDL 110 mg/dL (ref <100), HDL 45 mg/dL (ref >40), Triglycerides 150 mg/dL (ref <150).\nFasting glucose: 98 mg/dL (ref 70‑100).\nHbA1c: 5.9% (ref 4.0‑5.6).\nTSH: 4.2 mIU/L (ref 0.4‑4.0).\nFree T4: 11.2 pmol/L (ref 9.0‑17.0).\nALT: 28 U/L (ref <40), AST: 24 U/L (ref <40)."
+    },
+    {
+      "memory_id": "X0395-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity-related exertional dyspnea.\nReports reduced breathlessness after walking short distances; still notes fatigue. Exam: BMI 31.2, waist 98 cm, lungs clear.\nSpirometry: FEV1 3.28 L (94% predicted), FVC 3.88 L (96% predicted), FEV1/FVC 0.85; ΔFEV1 +0.08 L since last visit.\nTechnique checked: no inhaler prescribed.\nSmoking status: never smoked.\nAssessment: Mild improvement; continue orlistat, consider uptitrating levothyroxine as TSH slightly elevated."
+    },
+    {
+      "memory_id": "X0395-m05",
+      "date": "2025-07-11",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 75 mcg OD\nOrlistat 120 mg with each main meal\nMetformin 500 mg BD"
+    },
+    {
+      "memory_id": "X0395-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.8 mIU/L (ref 0.4‑4.0).\nFree T4: 12.5 pmol/L (ref 9.0‑17.0).\nHbA1c: 5.7% (ref 4.0‑5.6).\nFasting glucose: 92 mg/dL (ref 70‑100).\nLipids: Total cholesterol 185 mg/dL, LDL 105 mg/dL, HDL 46 mg/dL, Triglycerides 140 mg/dL."
+    },
+    {
+      "memory_id": "X0395-m07",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity-related exertional dyspnea.\nDenies dyspnea on routine activities; occasional mild breathlessness on brisk walk. Exam: BMI 30.5, waist 95 cm, lungs clear.\nSpirometry: FEV1 3.35 L (96% predicted), FVC 3.95 L (98% predicted), FEV1/FVC 0.85; ΔFEV1 +0.07 L since last visit.\nTechnique checked: no inhaler prescribed.\nSmoking status: never smoked.\nAssessment: Stable; consider adding low‑dose glimepiride for glycemic control and increase levothyroxine."
+    },
+    {
+      "memory_id": "X0395-m08",
+      "date": "2025-10-16",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 100 mcg OD\nOrlistat 120 mg with each main meal\nMetformin 500 mg BD\nGlimepiride 1 mg OD before breakfast"
+    },
+    {
+      "memory_id": "X0395-m09",
+      "date": "2025-10-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Waist circumference: 95 cm.\nALT: 30 U/L, AST: 26 U/L.\nUrine albumin‑creatinine ratio: 12 mg/g (ref <30).\nDilated fundus exam: No diabetic retinopathy."
+    },
+    {
+      "memory_id": "X0395-m10",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity-related exertional dyspnea.\nReports no breathlessness on daily activities; feels more energetic. Exam: BMI 29.8, waist 92 cm.\nSpirometry: FEV1 3.42 L (98% predicted), FVC 4.02 L (99% predicted), FEV1/FVC 0.85; ΔFEV1 +0.07 L since last visit.\nTechnique checked: no inhaler prescribed.\nSmoking status: never smoked.\nAssessment: Good response; consider adding empagliflozin for cardio‑renal benefit."
+    },
+    {
+      "memory_id": "X0395-m11",
+      "date": "2026-01-21",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Empagliflozin 10 mg OD\nLevothyroxine 100 mcg OD\nOrlistat 120 mg with each main meal\nMetformin 500 mg BD\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD"
+    },
+    {
+      "memory_id": "X0395-m12",
+      "date": "2026-01-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 5.4% (ref 4.0‑5.6).\nFasting plasma glucose: 88 mg/dL (ref 70‑100).\nLipid profile: Total cholesterol 178 mg/dL, LDL 98 mg/dL, HDL 48 mg/dL, Triglycerides 130 mg/dL."
+    },
+    {
+      "memory_id": "X0395-m13",
+      "date": "2026-04-30",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been taking all my medicines as prescribed and have lost about 4 kg. I still feel a bit tired after long shifts at the jewellery shop, but my breathing is fine."
+    },
+    {
+      "memory_id": "X0395-m14",
+      "date": "2026-06-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up pulmonology review booked for 2026-09-10 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0395-m15",
+      "date": "2026-09-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity-related exertional dyspnea.\nPatient denies dyspnea; reports improved stamina. Exam: BMI 28.9, waist 88 cm, lungs clear.\nSpirometry: FEV1 3.50 L (100% predicted), FVC 4.10 L (101% predicted), FEV1/FVC 0.85; ΔFEV1 +0.08 L since last visit.\nTechnique checked: no inhaler prescribed.\nSmoking status: never smoked.\nAssessment: Stable; continue current regimen, advise maintenance of weight loss."
+    }
+  ]
+}

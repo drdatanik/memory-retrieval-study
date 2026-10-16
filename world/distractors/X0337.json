@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0337",
+  "name": "Shobha Naik",
+  "age": 82,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Insomnia",
+    "Psoriasis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0337-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of insomnia and psoriasis.\nPRESENTING COMPLAINT: Patient reports difficulty falling asleep, waking twice nightly, and mild scalp psoriasis flaring over past month.\nEXAMINATION: BP 138/84 mmHg, weight 58 kg, height 1.55 m, BMI 24.1 (overweight). Skin shows mild erythematous plaques on elbows and scalp, no active infection.\nIMPRESSION: Insomnia moderate, psoriasis mild. Liver enzymes normal, CBC within limits, TSH 2.1 mIU/L, Hb 12.8 g/dL.\nARRANGEMENTS: Advised weight management and daily walk. Continue melatonin 3 mg HS, trazodone 50 mg HS, clobetasol 0.05% cream BD, calcipotriol ointment OD, methotrexate 7.5 mg weekly with folic acid 5 mg OD. Offered influenza vaccine; patient to receive in autumn. Return if new joint pain, worsening rash, fever >39°C, chest pain, or bleeding."
+    },
+    {
+      "memory_id": "X0337-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nClobetasol 0.05% cream BD topically\nCalcipotriol ointment OD topically\nMethotrexate 7.5 mg once weekly\nFolic acid 5 mg OD"
+    },
+    {
+      "memory_id": "X0337-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.5)\nHaemoglobin 12.8 g/dL (12-16)\nInsomnia Severity Index score 14 (0-28)\nALT 22 U/L (≤35)\nAST 20 U/L (≤40)\nALKP 78 U/L (30-120)\nGGT 18 U/L (≤51)\nSerum creatinine 0.9 mg/dL (0.5-1.1)\nCBC: WBC 6.2×10⁹/L, Hb 12.8 g/dL, Plt 210×10⁹/L"
+    },
+    {
+      "memory_id": "X0337-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow-up on insomnia and psoriasis.\nPRESENTING COMPLAINT: Patient reports improved sleep onset but still wakes once nightly; scalp psoriasis less itchy, mild flare on elbows.\nEXAMINATION: BP 136/82 mmHg, weight 57.5 kg, BMI 23.9 (overweight). Skin shows faint scaling on elbows, clear scalp.\nIMPRESSION: Insomnia mild‑moderate, psoriasis stable. Labs show Hb 13.0 g/dL, TSH 2.0, LFT unchanged.\nARRANGEMENTS: Continue current meds; advise light evening stretching. Influenza vaccine not due yet. Return if worsening rash, new joint swelling, fever >39°C, or severe daytime fatigue."
+    },
+    {
+      "memory_id": "X0337-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nClobetasol 0.05% cream BD topically\nCalcipotriol ointment OD topically\nMethotrexate 7.5 mg once weekly\nFolic acid 5 mg OD"
+    },
+    {
+      "memory_id": "X0337-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4-4.5)\nHaemoglobin 13.0 g/dL (12-16)\nInsomnia Severity Index score 11 (0-28)\nALT 23 U/L\nAST 21 U/L\nALKP 80 U/L\nGGT 19 U/L\nSerum creatinine 0.9 mg/dL\nCBC: WBC 6.0×10⁹/L, Hb 13.0 g/dL, Plt 208×10⁹/L"
+    },
+    {
+      "memory_id": "X0337-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: autumn review and influenza vaccination.\nPRESENTING COMPLAINT: Patient reports good sleep, rare awakenings; psoriasis quiet, only occasional dry patches.\nEXAMINATION: BP 134/80 mmHg, weight 57 kg, BMI 23.7 (overweight). Skin clear, no active lesions.\nIMPRESSION: Insomnia well controlled, psoriasis in remission. Hb 13.2 g/dL, TSH 2.1, lipid profile: total cholesterol 180 mg/dL, HDL 48, LDL 102, triglycerides 130.\nARRANGEMENTS: Continue meds. Administered influenza vaccine today (02‑Oct‑2025). Advised maintain activity and balanced diet. Return if new rash, joint pain, fever >39°C, or breathing difficulty."
+    },
+    {
+      "memory_id": "X0337-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nClobetasol 0.05% cream BD topically\nCalcipotriol ointment OD topically\nMethotrexate 7.5 mg once weekly\nFolic acid 5 mg OD"
+    },
+    {
+      "memory_id": "X0337-m09",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Total cholesterol 180 mg/dL (<200)\nHDL cholesterol 48 mg/dL (>40)\nLDL cholesterol 102 mg/dL (<130)\nTriglycerides 130 mg/dL (<150)\nFasting blood sugar 92 mg/dL (70-100)\nTSH 2.1 mIU/L\nHb 13.2 g/dL"
+    },
+    {
+      "memory_id": "X0337-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: winter check‑up, mild psoriasis flare noted.\nPRESENTING COMPLAINT: Patient reports increased scalp itching over past two weeks, sleep unchanged.\nEXAMINATION: BP 135/83 mmHg, weight 56.8 kg, BMI 23.6 (overweight). Scalp shows mild erythema with fine scaling; elbows clear.\nIMPRESSION: Psoriasis mild flare, insomnia stable. LFT shows ALT 34 U/L (still normal), Hb 13.1 g/dL.\nARRANGEMENTS: Continue current regimen; add topical calcipotriol BD to scalp for two weeks. Advise moisturiser. Return if rash spreads, joint pain, fever >39°C, or severe sleep disruption."
+    },
+    {
+      "memory_id": "X0337-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nClobetasol 0.05% cream BD topically\nCalcipotriol ointment OD topically (scalp BD for 2 weeks)\nMethotrexate 7.5 mg once weekly\nFolic acid 5 mg OD"
+    },
+    {
+      "memory_id": "X0337-m12",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 34 U/L (≤35)\nAST 22 U/L\nALKP 82 U/L\nGGT 20 U/L\nSerum creatinine 0.9 mg/dL\nHb 13.1 g/dL\nWBC 5.9×10⁹/L\nPlatelets 205×10⁹/L"
+    },
+    {
+      "memory_id": "X0337-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review, medication tolerance.\nPRESENTING COMPLAINT: Patient reports good sleep, no waking; psoriasis quiet after scalp treatment.\nEXAMINATION: BP 132/78 mmHg, weight 56.5 kg, BMI 23.5 (overweight). Skin clear, no active plaques.\nIMPRESSION: Insomnia controlled, psoriasis in remission. Labs: Hb 13.3 g/dL, TSH 2.0, lipid profile: total cholesterol 175, HDL 50, LDL 98, triglycerides 125; LFT normal.\nARRANGEMENTS: Continue meds. Discuss osteoporosis prevention – calcium‑vit D supplement. Influenza vaccine to be given in autumn. Return if new joint swelling, skin rash, fever >39°C, or chest pain."
+    },
+    {
+      "memory_id": "X0337-m14",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nClobetasol 0.05% cream BD topically\nCalcipotriol ointment OD topically\nMethotrexate 7.5 mg once weekly\nFolic acid 5 mg OD\nCalcium 500 mg + Vitamin D3 400 IU OD"
+    },
+    {
+      "memory_id": "X0337-m15",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Total cholesterol 175 mg/dL\nHDL cholesterol 50 mg/dL\nLDL cholesterol 98 mg/dL\nTriglycerides 125 mg/dL\nFasting blood sugar 90 mg/dL\nTSH 2.0 mIU/L\nHaemoglobin 13.3 g/dL\nALT 21 U/L\nAST 19 U/L\nALKP 76 U/L\nGGT 17 U/L\nSerum creatinine 0.9 mg/dL"
+    },
+    {
+      "memory_id": "X0337-m16",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 07‑Oct‑2026 at 10:30 AM with Dr Priya Natarajan (D03) for follow‑up and influenza vaccination."
+    }
+  ]
+}

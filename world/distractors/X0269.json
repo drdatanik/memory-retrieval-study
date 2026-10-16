@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0269",
+  "name": "Pooja Saxena",
+  "age": 79,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Insomnia",
+    "Generalised anxiety disorder",
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0269-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Review of insomnia, anxiety and NAFLD management.\nPRESENTING COMPLAINT: Patient reports difficulty falling asleep, waking 2-3 times nightly, daytime fatigue, and occasional worry about work. Denies chest pain or palpitations.\nEXAMINATION: BP 132/84 mmHg, pulse 78/min, weight 58 kg, height 1.55 m, BMI 24.1 (overweight). Abdomen soft, no hepatomegaly. No focal neurological deficits.\nIMPRESSION: Insomnia moderate, GAD stable, NAFLD suspected. Advise weight reduction, sleep hygiene. Order fasting lipid profile, fasting glucose, TSH, Hb, LFT.\nARRANGEMENTS: Start melatonin 3 mg HS, trazodone 50 mg HS, escitalopram 5 mg OD, buspirone 5 mg BD, silymarin 140 mg TDS, rosuvastatin 5 mg OD. Return if new chest pain, breathlessness, fever >39°C, or bleeding per rectum."
+    },
+    {
+      "memory_id": "X0269-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nEscitalopram 5 mg OD\nBuspirone 5 mg BD\nSilymarin 140 mg TDS\nRosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0269-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.5)\nHaemoglobin 12.8 g/dL (12-16)\nALT 38 U/L (<35) slightly elevated\nAST 34 U/L (<40)\nAlbumin 4.2 g/dL (3.5-5.0)\nTotal bilirubin 0.9 mg/dL (0.2-1.2)\nFasting glucose 98 mg/dL (70-100)\nTotal cholesterol 210 mg/dL (<200) borderline\nLDL 130 mg/dL (<100) high\nHDL 48 mg/dL (>40) ok\nTriglycerides 165 mg/dL (<150) high\nPlatelet count 210 x10^9/L (150-400)"
+    },
+    {
+      "memory_id": "X0269-m04",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been taking the melatonin at night but still wake up around 2‑3 am and feel tired in the morning. My worry about traffic makes it hard to relax."
+    },
+    {
+      "memory_id": "X0269-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Follow‑up on sleep, anxiety and liver labs.\nPRESENTING COMPLAINT: Sleep slightly better, still wakes once; anxiety less intense but reports muscle tension. No new pain.\nEXAMINATION: BP 128/80, weight 57.5 kg, BMI 23.9 (overweight). Abdomen soft, liver edge not palpable.\nIMPRESSION: Insomnia improving, GAD mild, LFT shows mild ALT rise. Continue current meds, recheck labs in 3 months.\nARRANGEMENTS: Keep melatonin 3 mg HS, trazodone 50 mg HS, escitalopram 5 mg OD, buspirone 5 mg BD, silymarin 140 mg TDS, rosuvastatin 5 mg OD. Return if worsening insomnia, panic attacks, jaundice, or abdominal swelling."
+    },
+    {
+      "memory_id": "X0269-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram increased to 10 mg OD\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0269-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4-4.5)\nHaemoglobin 13.0 g/dL (12-16)\nALT 42 U/L (<35) mildly high\nAST 36 U/L (<40)\nAlbumin 4.1 g/dL (3.5-5.0)\nTotal bilirubin 0.8 mg/dL (0.2-1.2)"
+    },
+    {
+      "memory_id": "X0269-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Autumn review; assess NAFLD and vaccine.\nPRESENTING COMPLAINT: Reports improved sleep, only occasional early awakening. Anxiety low, occasional worry about finances. No chest pain.\nEXAMINATION: BP 130/82, weight 57 kg, BMI 23.7 (overweight). Abdomen soft, liver edge just palpable.\nIMPRESSION: Insomnia mild, GAD well‑controlled, NAFLD likely. Need abdominal ultrasound to assess steatosis. Offer influenza vaccine.\nARRANGEMENTS: Continue current meds. Order abdominal ultrasound. Give influenza vaccine today (02‑Oct‑2025). Return if fever >39°C, dyspnoea, worsening jaundice, or melena."
+    },
+    {
+      "memory_id": "X0269-m09",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Abdominal ultrasound: Liver shows diffuse increased echogenicity consistent with steatosis. Spleen normal, no focal lesion, portal vein patent. No ascites."
+    },
+    {
+      "memory_id": "X0269-m10",
+      "date": "2025-10-02",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Dr. S. Rao, Gastroenterology, for further evaluation of NAFLD and possible fibrosis scoring."
+    },
+    {
+      "memory_id": "X0269-m11",
+      "date": "2025-11-15",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Gastroenterology review: Ultrasound confirms steatosis. Fibroscan shows CAP 260 dB/m, E‑fibrosis 6.2 kPa (F1). Recommend lifestyle modification, continue rosuvastatin, repeat LFT in 6 months. No hepatotoxic drugs advised."
+    },
+    {
+      "memory_id": "X0269-m12",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Post‑holiday check; review trazodone side‑effects.\nPRESENTING COMPLAINT: Patient notes daytime grogginess after trazodone, feels ‘hangover’. Sleep onset improved, still wakes once. Anxiety stable.\nEXAMINATION: BP 129/81, weight 56.8 kg, BMI 23.6 (overweight). No neurological deficits.\nIMPRESSION: Trazodone causing morning sedation; consider taper. Insomnia mild, GAD controlled, NAFLD stable.\nARRANGEMENTS: Taper trazodone to 25 mg HS for two weeks then stop. Continue melatonin 3 mg HS, escitalopram 10 mg OD, buspirone 5 mg BD, silymarin 140 mg TDS, rosuvastatin 5 mg OD. Return if worsening insomnia, anxiety spikes, or abdominal pain."
+    },
+    {
+      "memory_id": "X0269-m13",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Trazodone 25 mg HS (taper for 2 weeks, then discontinue)\nMelatonin 3 mg HS\nEscitalopram 10 mg OD\nBuspirone 5 mg BD\nSilymarin 140 mg TDS\nRosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0269-m14",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Routine follow‑up; assess lipid and liver.\nPRESENTING COMPLAINT: Reports good sleep, no daytime sedation. Anxiety low, occasional worry. No abdominal discomfort.\nEXAMINATION: BP 128/80, weight 56.5 kg, BMI 23.5 (overweight). Abdomen soft, liver edge not palpable.\nIMPRESSION: Insomnia resolved, GAD in remission, LDL improved on statin, LFT stable. Continue preventive meds.\nARRANGEMENTS: Continue melatonin 3 mg HS, escitalopram 10 mg OD, buspirone 5 mg BD, silymarin 140 mg TDS, rosuvastatin 5 mg OD. Order fasting lipid profile, LFT, TSH, Hb. Return if new chest pain, dyspnoea, jaundice, or melena."
+    },
+    {
+      "memory_id": "X0269-m15",
+      "date": "2026-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4-4.5)\nHaemoglobin 13.2 g/dL (12-16)\nALT 36 U/L (<35)\nAST 33 U/L (<40)\nAlbumin 4.2 g/dL (3.5-5.0)\nTotal bilirubin 0.7 mg/dL (0.2-1.2)\nTotal cholesterol 185 mg/dL (<200)\nLDL 95 mg/dL (<100)\nHDL 50 mg/dL (>40)\nTriglycerides 130 mg/dL (<150)\nPlatelet count 205 x10^9/L (150-400)"
+    },
+    {
+      "memory_id": "X0269-m16",
+      "date": "2026-07-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 15‑Jul‑2026 at 10:30 am with Dr Priya Natarajan (D03) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0269-m17",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Annual review; influenza vaccine and chronic disease check.\nPRESENTING COMPLAINT: Reports sleeping well, feels rested. Anxiety absent, occasional mild worry about grandchildren. No abdominal pain.\nEXAMINATION: BP 127/78, weight 56 kg, BMI 23.3 (overweight). Abdomen soft.\nIMPRESSION: Insomnia in remission, GAD well‑controlled, NAFLD stable, lipids at goal. Vaccinated against influenza.\nARRANGEMENTS: Continue melatonin 3 mg HS, escitalopram 10 mg OD, buspirone 5 mg BD, silymarin 140 mg TDS, rosuvastatin 5 mg OD. Influenza vaccine given today (05‑Oct‑2026). Return if fever >39°C, dyspnoea, jaundice, or melena."
+    }
+  ]
+}

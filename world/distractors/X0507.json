@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0507",
+  "name": "Manoj Chauhan",
+  "age": 36,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Generalised anxiety disorder",
+    "Psoriasis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0507-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder and psoriasis. Patient reports excessive worry, restlessness, mild insomnia; plaques on elbows and knees with silvery scales. PHQ-9 5, GAD-7 12. Examination: anxious affect, no tachycardia, skin lesions as described. Started escitalopram 5 mg OD, buspirone 5 mg BD, clobetasol 0.05% cream BD topically, calcipotriol ointment OD topically, methotrexate 7.5 mg once weekly with folic acid 5 mg OD."
+    },
+    {
+      "memory_id": "X0507-m02",
+      "date": "2025-04-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 5 mg tablet OD\nBuspirone 5 mg tablet BD\nClobetasol 0.05% cream 30 g BD topically\nCalcipotriol ointment 30 g OD topically\nMethotrexate 2.5 mg tablet (3 tablets) once weekly\nFolic acid 5 mg tablet OD"
+    },
+    {
+      "memory_id": "X0507-m03",
+      "date": "2025-06-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0)\nHaemoglobin 13.8 g/dL (13.0-17.0)\nALT 32 U/L (≤40)\nAST 28 U/L (≤40)\nALKP 78 U/L (30-120)\nGGT 22 U/L (≤50)\nTotal bilirubin 0.9 mg/dL (0.2-1.2)\nCreatinine 0.9 mg/dL (0.6-1.2)\nWBC 6.2 x10^9/L (4.0-10.0)\nHb 13.8 g/dL\nPlatelets 210 x10^9/L (150-400)"
+    },
+    {
+      "memory_id": "X0507-m04",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Review of labs: LFT normal, Hb stable. Psoriasis plaques reduced ~40%, itching less. Anxiety improved, GAD-7 now 8. Continue current meds. Methotrexate well tolerated, no dose change. Advise sunscreen, moisturiser."
+    },
+    {
+      "memory_id": "X0507-m05",
+      "date": "2025-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-08-05 at 10:30 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0507-m06",
+      "date": "2025-08-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient reports good control of anxiety, GAD-7 6. Psoriasis: plaques mild, some residual scaling on knees. No side effects. Continue escitalopram 5 mg OD, buspirone 5 mg BD, topical steroids as needed, methotrexate 7.5 mg weekly, folic acid 5 mg OD."
+    },
+    {
+      "memory_id": "X0507-m07",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling more worried about work deadlines, trouble falling asleep, waking early. Skin okay."
+    },
+    {
+      "memory_id": "X0507-m08",
+      "date": "2025-09-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram increased to 10 mg OD\nBuspirone increased to 10 mg BD\nClobetasol 0.05% cream BD topically continued\nCalcipotriol ointment OD topically continued\nMethotrexate 7.5 mg once weekly unchanged\nFolic acid 5 mg OD unchanged"
+    },
+    {
+      "memory_id": "X0507-m09",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4-4.0)\nHaemoglobin 13.9 g/dL (13.0-17.0)\nALT 30 U/L\nAST 26 U/L\nALKP 80 U/L\nGGT 20 U/L\nTotal bilirubin 0.8 mg/dL\nCreatinine 0.9 mg/dL\nWBC 6.0 x10^9/L\nHb 13.9 g/dL\nPlatelets 205 x10^9/L"
+    },
+    {
+      "memory_id": "X0507-m10",
+      "date": "2025-11-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Anxiety improved further, GAD-7 4, reports better sleep. Psoriasis: minimal plaques, mild erythema only. No new side effects. Continue current regimen. Plan to taper topical steroid if clearance maintained."
+    },
+    {
+      "memory_id": "X0507-m11",
+      "date": "2026-02-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray PA: lungs clear, no infiltrate, cardiac silhouette normal. No pleural effusion. (Baseline study performed due to occupational exposure concerns.)"
+    },
+    {
+      "memory_id": "X0507-m12",
+      "date": "2026-05-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Review after chest X-ray. Anxiety stable GAD-7 5. Psoriasis: clear skin, occasional mild dryness. No methotrexate toxicity. Continue escitalopram 10 mg OD, buspirone 10 mg BD, methotrexate 7.5 mg weekly, folic acid 5 mg OD. Advise continue moisturiser, use topical steroid only for flare."
+    }
+  ]
+}

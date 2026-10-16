@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0517",
+  "name": "Falguni Raval",
+  "age": 31,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Sciatica",
+    "Rheumatoid arthritis",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0517-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: worsening low back pain radiating to right leg and joint stiffness.\nPRESENTING COMPLAINT: Patient reports 2‑month history of low back pain with right leg numbness, worse on sitting and morning stiffness in hands and feet lasting >1 hour. She also notes fatigue.\nEXAMINATION: BP 118/76 mmHg, weight 62 kg, height 158 cm, BMI 24.8 (overweight). Straight leg raise positive at 45° right leg. Tenderness over lumbar paraspinals. MCP and PIP joints mildly swollen, no deformity.\nIMPRESSION: 1) Sciatica, likely lumbar disc irritation. 2) Early rheumatoid arthritis seronegative pending labs. 3) Vitamin D deficiency likely given indoor work and BMI.\nARRANGEMENTS: Advise weight reduction, core strengthening, avoid prolonged sitting. Start pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD. Start methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Order baseline labs: vitamin D, calcium, phosphate, ESR, CRP, RF, anti-CCP, LFT. Order straight leg raise test and MRI lumbar spine. Return if: new weakness, bowel/bladder incontinence, fever >39°C, worsening joint swelling, or severe abdominal pain."
+    },
+    {
+      "memory_id": "X0517-m02",
+      "date": "2025-04-03",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pregabalin 75 mg twice daily\nDiclofenac sodium 50 mg twice daily after food\nMethylcobalamin 1500 mcg once daily\nMethotrexate 10 mg once weekly\nFolic acid 5 mg once weekly\nHydroxychloroquine 200 mg once daily\nPrednisolone 5 mg once daily"
+    },
+    {
+      "memory_id": "X0517-m03",
+      "date": "2025-04-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 12 ng/mL (ref 20‑50) – deficient\nSerum calcium: 9.1 mg/dL (ref 8.6‑10.3)\nSerum phosphate: 3.4 mg/dL (ref 2.5‑4.5)\nESR: 28 mm/hr (ref 0‑20)\nCRP: 6 mg/L (ref <5)\nRheumatoid factor: 14 IU/mL (ref <14) – borderline\nAnti‑CCP: 18 U/mL (ref <7) – positive\nLiver function test: ALT 22 U/L, AST 20 U/L, ALP 78 U/L, bilirubin 0.9 mg/dL – normal"
+    },
+    {
+      "memory_id": "X0517-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Straight leg raise test: Right leg pain at 45°, left leg negative. Suggests L5‑S1 nerve root irritation."
+    },
+    {
+      "memory_id": "X0517-m05",
+      "date": "2025-04-06",
+      "type": "investigation",
+      "author": "D03",
+      "text": "MRI lumbar spine: L4‑L5 disc protrusion causing right lateral recess narrowing, no cord compression. Mild degenerative changes at L3‑L4."
+    },
+    {
+      "memory_id": "X0517-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up on sciatica and RA symptoms.\nPRESENTING COMPLAINT: Reports reduced leg numbness but persistent low back ache after long drives. Hand stiffness improved; morning stiffness now ~30 min. No new joint swelling.\nEXAMINATION: BP 120/78 mmHg, weight 61.5 kg, BMI 24.6 (overweight). Lumbar paraspinal tenderness mild. Straight leg raise now negative. MCP/PIP joints soft, no effusion.\nIMPRESSION: Sciatica improving with medication. RA showing partial response; inflammatory markers down but still elevated. Vitamin D still low.\nARRANGEMENTS: Continue current meds. Increase pregabalin to 150 mg BD for neuropathic pain. Add vitamin D3 cholecalciferol 60,000 IU once weekly for 8 weeks, then 1000 IU OD. Advise daily walk 30 min, avoid heavy lifting. Repeat vitamin D, ESR, CRP in 3 months. Return if: worsening leg weakness, fever >38.5°C, new joint pain, or abdominal pain."
+    },
+    {
+      "memory_id": "X0517-m07",
+      "date": "2025-07-11",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pregabalin 150 mg twice daily\nDiclofenac sodium 50 mg twice daily after food\nMethylcobalamin 1500 mcg once daily\nMethotrexate 10 mg once weekly\nFolic acid 5 mg once weekly\nHydroxychloroquine 200 mg once daily\nPrednisolone 5 mg once daily\nCholecalciferol 60,000 IU once weekly for 8 weeks"
+    },
+    {
+      "memory_id": "X0517-m08",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 18 ng/mL (ref 20‑50) – still insufficient\nSerum calcium: 9.2 mg/dL\nSerum phosphate: 3.5 mg/dL\nESR: 22 mm/hr\nCRP: 4 mg/L\nLiver function test: ALT 24 U/L, AST 21 U/L, ALP 80 U/L, bilirubin 0.8 mg/dL – normal"
+    },
+    {
+      "memory_id": "X0517-m09",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: worsening joint pain and fatigue.\nPRESENTING COMPLAINT: Reports increased pain and swelling in wrists and knees over past 6 weeks, morning stiffness >2 h. Low back pain unchanged. Fatigue interfering with work.\nEXAMINATION: BP 122/80 mmHg, weight 62 kg, BMI 24.8 (overweight). Synovitis noted in both wrists (2+ tenderness, mild effusion) and left knee (1+ tenderness). Lumbar spine non‑tender, straight leg raise negative.\nIMPRESSION: Active rheumatoid arthritis despite current DMARDs. Sciatica stable. Vitamin D still suboptimal.\nARRANGEMENTS: Continue methotrexate, hydroxychloroquine, prednisolone. Add sulfasalazine 500 mg BD (to be started after LFT review). Increase folic acid to 10 mg weekly. Order repeat LFT, ESR, CRP, vitamin D. Refer to rheumatologist for consideration of biologic therapy. Return if: new joint deformity, fever >38.5°C, shortness of breath, or abdominal pain."
+    },
+    {
+      "memory_id": "X0517-m10",
+      "date": "2025-10-16",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr. S. Ramanathan, Rheumatology, Vikram Hospital, Bengaluru. Reason: active rheumatoid arthritis inadequately controlled on methotrexate, hydroxychloroquine, low‑dose prednisolone. Request assessment for biologic DMARD therapy and joint ultrasound. Enclose recent labs (ESR 22, CRP 4, anti‑CCP positive) and medication list."
+    },
+    {
+      "memory_id": "X0517-m11",
+      "date": "2025-11-20",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Rheumatology review: Patient has seropositive RA (anti‑CCP positive) with moderate disease activity (DAS28 3.8). Recommended to continue methotrexate, add sulfasalazine 500 mg BD, and consider low‑dose etanercept if no improvement in 3 months. Advise vitamin D repletion and calcium supplementation. Return to primary care for routine monitoring."
+    },
+    {
+      "memory_id": "X0517-m12",
+      "date": "2026-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: ‘My back pain is better but my wrists still ache when I type. I’ve started the sulfasalazine as prescribed and feel a bit nauseous after meals. Should I take it with food?’"
+    },
+    {
+      "memory_id": "X0517-m13",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-10-07 at 10:30 am with Dr Priya Natarajan (D03) for routine follow‑up of rheumatoid arthritis and sciatica. Patient confirmed via SMS."
+    }
+  ]
+}

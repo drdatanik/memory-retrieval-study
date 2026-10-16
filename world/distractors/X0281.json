@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0281",
+  "name": "Narasimha Jonnalagadda",
+  "age": 36,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Benign positional vertigo",
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0281-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 36-year-old male driver reports intermittent abdominal bloating and diarrhoea, occasional spinning sensation on lying down, and persistent worry and restlessness.\nEXAMINATION: BP 128/78, weight 78 kg, height 1.70 m, BMI 27.0 (obese). Abdomen soft, non-tender. Neurological: Dix-Hallpike elicits vertigo with torsional nystagmus right side. No focal deficits.\nIMPRESSION: 1) Irritable bowel syndrome, diarrhoea-predominant. 2) Benign positional vertigo, right posterior canal. 3) Generalised anxiety disorder, moderate. Plan to screen for coeliac disease and baseline labs.\nARRANGEMENTS: Prescribe mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; betahistine 16 mg BD, meclizine 25 mg SOS; escitalopram 5 mg OD, buspirone 5 mg BD. Order CBC, stool routine, tTG-IgA, Dix-Hallpike, audiometry, GAD-7, TSH, Hb. Advise regular meals, hydration, vestibular rehab exercises, and daily walk. Return if: worsening abdominal pain with blood, vomiting, severe vertigo with falls, panic attacks, or fever >39°C."
+    },
+    {
+      "memory_id": "X0281-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg tablet BD\nispaghula husk 5 g powder OD\nloperamide 2 mg capsule SOS\nbetahistine 16 mg tablet BD\nmeclizine 25 mg tablet SOS\nescitalopram 5 mg tablet OD\nbuspirone 5 mg tablet BD"
+    },
+    {
+      "memory_id": "X0281-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.2x10^9/L, Hb 14.8 g/dL, Plt 240x10^9/L.\nStool routine: no ova, cysts, or occult blood.\ntTG-IgA: <4 U/mL (negative).\nDix-Hallpike: positive for right posterior canal BPPV.\nAudiometry: bilateral thresholds <25 dB HL, normal.\nGAD-7 score: 12 (moderate anxiety).\nTSH: 2.1 mIU/L (ref 0.4-4.0).\nHb: 14.8 g/dL (ref 13.0-17.0)."
+    },
+    {
+      "memory_id": "X0281-m04",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports fewer loose stools, only occasional urgency after meals; vertigo episodes reduced to once per week, lasting <30 seconds; anxiety feels better but still experiences tension.\nEXAMINATION: BP 130/80, weight 77.5 kg, BMI 26.8 (overweight). Abdomen non-tender. Dix-Hallpike now negative.\nIMPRESSION: IBS improving; BPPV resolved; GAD moderate. Continue current therapy, increase escitalopram for residual anxiety.\nARRANGEMENTS: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; betahistine 16 mg BD, meclizine 25 mg SOS; increase escitalopram to 10 mg OD, buspirone 5 mg BD unchanged. Advise high‑fibre diet, regular aerobic activity, and continue vestibular exercises. Repeat CBC, TSH, GAD-7 in 3 months. Return if: rectal bleeding, severe abdominal pain, new vertigo with falls, worsening panic, or fever >39°C."
+    },
+    {
+      "memory_id": "X0281-m05",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg tablet BD\nispaghula husk 5 g powder OD\nloperamide 2 mg capsule SOS\nbetahistine 16 mg tablet BD\nmeclizine 25 mg tablet SOS\nescitalopram 10 mg tablet OD\nbuspirone 5 mg tablet BD"
+    },
+    {
+      "memory_id": "X0281-m06",
+      "date": "2025-07-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 5.9x10^9/L, Hb 14.6 g/dL, Plt 235x10^9/L.\nTSH: 2.0 mIU/L.\nGAD-7 score: 10 (moderate).\nHb: 14.6 g/dL."
+    },
+    {
+      "memory_id": "X0281-m07",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: After a long‑haul trip, patient reports increased bloating, 3‑4 loose stools daily, two episodes of vertigo lasting a minute each, and heightened worry with difficulty sleeping.\nEXAMINATION: BP 132/82, weight 79 kg, BMI 27.3 (obese). Abdomen mildly tender in left lower quadrant. Dix-Hallpike elicits mild vertigo.\nIMPRESSION: IBS flare; recurrent BPPV; anxiety worsened. Adjust medications and reinforce lifestyle.\nARRANGEMENTS: Increase mebeverine to 135 mg QID, ispaghula husk to 5 g BID, keep loperamide 2 mg SOS; raise betahistine to 24 mg BD, add meclizine 25 mg BD for prophylaxis; increase escitalopram to 15 mg OD, buspirone to 10 mg BD. Order CBC, stool routine, tTG-IgA, Dix-Hallpike, audiometry, GAD-7, TSH. Advise low‑FODMAP meals during travel, hydration, and continue vestibular rehab. Return if: bloody stools, severe abdominal pain, vertigo with falls, panic attack, or fever >39°C."
+    },
+    {
+      "memory_id": "X0281-m08",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg tablet QID\nispaghula husk 5 g powder BID\nloperamide 2 mg capsule SOS\nbetahistine 24 mg tablet BD\nmeclizine 25 mg tablet BD\nescitalopram 15 mg tablet OD\nbuspirone 10 mg tablet BD"
+    },
+    {
+      "memory_id": "X0281-m09",
+      "date": "2025-10-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.1x10^9/L, Hb 14.7 g/dL, Plt 238x10^9/L.\nStool routine: normal.\ntTG-IgA: <4 U/mL (negative).\nDix-Hallpike: negative.\nAudiometry: normal.\nGAD-7 score: 9 (mild).\nTSH: 2.2 mIU/L."
+    },
+    {
+      "memory_id": "X0281-m10",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports stable bowel pattern (2‑3 formed stools/day), no vertigo episodes in past 6 weeks, and anxiety feels much better with occasional mild worry.\nEXAMINATION: BP 128/80, weight 78 kg, BMI 27.0 (obese). Abdomen soft, non‑tender.\nIMPRESSION: IBS in remission; BPPV resolved; GAD mild. Consider tapering medications if symptoms remain stable.\nARRANGEMENTS: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; betahistine 16 mg BD, meclizine 25 mg SOS; escitalopram 15 mg OD, buspirone 10 mg BD. Advise maintain high‑fibre diet, regular exercise, and stress‑reduction techniques. Repeat CBC, TSH, GAD-7 in 3 months. Return if: rectal bleeding, severe abdominal pain, new vertigo, worsening anxiety, or fever >39°C."
+    },
+    {
+      "memory_id": "X0281-m11",
+      "date": "2026-02-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg tablet BD\nispaghula husk 5 g powder OD\nloperamide 2 mg capsule SOS\nbetahistine 16 mg tablet BD\nmeclizine 25 mg tablet SOS\nescitalopram 15 mg tablet OD\nbuspirone 10 mg tablet BD"
+    },
+    {
+      "memory_id": "X0281-m12",
+      "date": "2026-02-13",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.0x10^9/L, Hb 14.5 g/dL, Plt 236x10^9/L.\nTSH: 2.1 mIU/L.\nGAD-7 score: 7 (mild).\nHb: 14.5 g/dL."
+    },
+    {
+      "memory_id": "X0281-m13",
+      "date": "2026-06-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up visit booked for 2026-09-15 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0281-m14",
+      "date": "2026-09-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient states occasional bloating after heavy meals, no vertigo, anxiety well‑controlled, sleeping well.\nEXAMINATION: BP 130/78, weight 77.5 kg, BMI 26.9 (overweight). Abdomen non‑tender.\nIMPRESSION: IBS mild; BPPV absent; GAD minimal. Current regimen effective.\nARRANGEMENTS: Reduce mebeverine to 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; betahistine 16 mg BD, meclizine 25 mg SOS; escitalopram 10 mg OD, buspirone 5 mg BD. Advise maintain diet, activity, and continue brief mindfulness practice. Repeat CBC, TSH, GAD-7 in 6 months. Return if: rectal bleeding, severe abdominal pain, vertigo with falls, panic attack, or fever >39°C."
+    },
+    {
+      "memory_id": "X0281-m15",
+      "date": "2026-09-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg tablet BD\nispaghula husk 5 g powder OD\nloperamide 2 mg capsule SOS\nbetahistine 16 mg tablet BD\nmeclizine 25 mg tablet SOS\nescitalopram 10 mg tablet OD\nbuspirone 5 mg tablet BD"
+    },
+    {
+      "memory_id": "X0281-m16",
+      "date": "2026-09-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 5.8x10^9/L, Hb 14.4 g/dL, Plt 233x10^9/L.\nTSH: 2.0 mIU/L.\nGAD-7 score: 5 (minimal).\nHb: 14.4 g/dL."
+    }
+  ]
+}

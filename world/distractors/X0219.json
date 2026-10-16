@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0219",
+  "name": "Amit Saxena",
+  "age": 51,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "COPD",
+    "Osteoporosis",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0219-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient presents with COPD, osteoporosis, and depressive symptoms.\nHe reports mild exertional dyspnea, occasional wheeze, back discomfort, and low mood over past month. On exam: respiratory rate 18, SpO2 94% room air, diffuse wheeze bilaterally, no cyanosis; thoracic spine tender, no deformity; affect slightly blunt. Spirometry: FEV1 1.38 L (55% predicted), FVC 2.45 L, FEV1/FVC 0.56; baseline. Asthma Control Test score 15 (not well controlled). Technique checked: correct for tiotropium Dry Powder inhaler. Smoking status: former, 22 pack-years, stopped 2010."
+    },
+    {
+      "memory_id": "X0219-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Tiotropium 18 mcg inhaler OD via Dry Powder device.\nSalbutamol 100 mcg metered-dose inhaler SOS.\nBudesonide-formoterol 200/6 mcg inhaler BD.\nAlendronate 70 mg PO once weekly.\nCalcium carbonate 500 mg PO BD with cholecalciferol 400 IU.\nSertraline 50 mg PO OD."
+    },
+    {
+      "memory_id": "X0219-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium 9.2 mg/dL (8.5-10.5).\nSerum 25-OH vitamin D 22 ng/mL (30-100) – insufficient.\nTSH 2.8 mIU/L (0.4-4.5).\nVitamin B12 340 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0219-m04",
+      "date": "2025-05-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-05-22 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0219-m05",
+      "date": "2025-05-22",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient reports improved dyspnea on mild exertion, occasional nocturnal wheeze, back pain unchanged, mood slightly better.\nExam: SpO2 95%, mild wheeze at lung bases, no use of accessory muscles; lumbar tenderness persists.\nSpirometry: FEV1 1.45 L (58% pred), FVC 2.50 L, FEV1/FVC 0.58; ΔFEV1 +0.07 L since last visit.\nACT score 18 (approaching well controlled). Technique checked: correct for budesonide-formoterol MDI. Smoking status unchanged."
+    },
+    {
+      "memory_id": "X0219-m06",
+      "date": "2025-05-23",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Budesonide-formoterol increased to 400/12 mcg inhaler BD.\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0219-m07",
+      "date": "2025-06-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray PA: lungs show hyperinflated fields, flattened diaphragms, no focal consolidation, pleural effusion, or pneumothorax. Cardiac silhouette within normal limits. No acute rib fracture visualized."
+    },
+    {
+      "memory_id": "X0219-m08",
+      "date": "2025-06-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "DEXA lumbar spine T-score -2.1 (osteoporotic range).\nSerum calcium 9.4 mg/dL (8.5-10.5).\nSerum 25-OH vitamin D 28 ng/mL (30-100) – still borderline low.\nTSH 2.6 mIU/L (0.4-4.5)."
+    },
+    {
+      "memory_id": "X0219-m09",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more tired lately and my shortness of breath feels worse when I climb stairs. Also my mood has dipped again; I’ve been having trouble sleeping."
+    },
+    {
+      "memory_id": "X0219-m10",
+      "date": "2025-07-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient notes increased exertional dyspnea, low mood, and poor sleep.\nExam: SpO2 93%, scattered wheezes, mild pursed-lip breathing; affect depressed, psychomotor retardation mild.\nSpirometry: FEV1 1.32 L (53% pred), FVC 2.38 L, FEV1/FVC 0.55; ΔFEV1 –0.13 L since last visit.\nACT score 14 (not well controlled). Technique checked: incorrect – patient not coordinating MDI puff; re‑taught slow inhalation and breath‑hold. Smoking status unchanged."
+    },
+    {
+      "memory_id": "X0219-m11",
+      "date": "2025-07-13",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Sertraline discontinued.\nEscitalopram 10 mg PO OD started.\nMirtazapine 15 mg PO HS added for sleep.\nInhaler regimen: tiotropium OD, salbutamol SOS, budesonide-formoterol 400/12 mcg BD unchanged."
+    },
+    {
+      "memory_id": "X0219-m12",
+      "date": "2025-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 score 12 (moderate depression).\nTSH 2.9 mIU/L (0.4-4.5).\nVitamin B12 310 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0219-m13",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment rescheduled from 2025-09-03 to 2025-09-03 at 14:00 due to clinic scheduling change."
+    },
+    {
+      "memory_id": "X0219-m14",
+      "date": "2025-09-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient reports easier breathing on exertion, better sleep, mood improved.\nExam: SpO2 96%, mild wheeze only at lung bases, no pursed‑lip breathing; affect normal.\nSpirometry: FEV1 1.48 L (59% pred), FVC 2.52 L, FEV1/FVC 0.59; ΔFEV1 +0.16 L since 07‑12 visit.\nACT score 22 (well controlled). Technique checked: correct for both inhalers. Smoking status unchanged."
+    },
+    {
+      "memory_id": "X0219-m15",
+      "date": "2025-09-04",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Budesonide-formoterol reduced to 200/6 mcg inhaler BD.\nTi​otropium OD and salbutamol SOS unchanged.\nEscitalopram 10 mg OD continued.\nMirtazapine 15 mg HS continued.\nAlendronate, calcium/vitamin D unchanged."
+    },
+    {
+      "memory_id": "X0219-m16",
+      "date": "2026-02-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Pulse oximetry at rest: SpO2 96% on room air. No desaturation on 6‑minute walk test (minimum 94%)."
+    },
+    {
+      "memory_id": "X0219-m17",
+      "date": "2026-06-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Repeat spirometry: FEV1 1.50 L (60% pred), FVC 2.55 L, FEV1/FVC 0.59; ΔFEV1 +0.02 L since 09‑03 visit.\nDEXA hip T-score -1.8 (osteopenia).\nSerum calcium 9.5 mg/dL (8.5-10.5).\nSerum 25-OH vitamin D 32 ng/mL (30-100) – sufficient."
+    },
+    {
+      "memory_id": "X0219-m18",
+      "date": "2026-10-09",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient stable: reports mild occasional dyspnea only on heavy exertion, good sleep, mood steady.\nExam: SpO2 97%, clear lungs, no wheeze; cardiovascular normal; no vertebral tenderness.\nSpirometry: FEV1 1.52 L (61% pred), FVC 2.58 L, FEV1/FVC 0.59; ΔFEV1 +0.02 L since last spirometry.\nACT score 24 (well controlled). Technique checked: correct. Smoking status: former, 22 pack-years, stopped 2010.\nPlan: continue current regimen, repeat DEXA in 1 year."
+    }
+  ]
+}

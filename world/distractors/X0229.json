@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0229",
+  "name": "Selvi Subramanian",
+  "age": 46,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Sciatica",
+    "Irritable bowel syndrome",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0229-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Low back pain radiating to left leg, associated numbness; crampy abdominal pain with bloating; seasonal sneezing and nasal congestion.\nEXAMINATION: BP 128/82 mmHg, weight 68 kg, height 1.60 m, BMI 26.6 (obese). Straight leg raise positive at 45° left. Abdomen soft, no tenderness. Nasal mucosa pale, turbinates swollen.\nIMPRESSION: 1) Sciatica likely lumbar disc irritation. 2) Irritable bowel syndrome, diarrhoea-predominant. 3) Allergic rhinitis, moderate. Lipids and fasting glucose ordered; baseline CBC, stool, tTG-IgA, IgE.\nARRANGEMENTS: Advise weight reduction, low‑impact exercise, high‑fibre diet, avoid NSAIDs on empty stomach. Start pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD; mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; cetirizine 10 mg HS, fluticasone nasal spray 1 spray each nostril OD, montelukast 10 mg HS. Order straight leg raise test, MRI lumbar spine, X‑ray lumbar spine, skin prick test, total serum IgE. Return if: new weakness, bowel/bladder change, fever >39°C, rectal bleeding, severe abdominal pain."
+    },
+    {
+      "memory_id": "X0229-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pregabalin 75 mg twice daily\nDiclofenac sodium 50 mg twice daily after food\nMethylcobalamin 1500 mcg once daily\nMebeverine hydrochloride 135 mg twice daily\nIspaghula husk 5 g once daily\nLoperamide 2 mg as needed for diarrhoea\nCetirizine 10 mg at bedtime\nFluticasone nasal spray 1 spray each nostril once daily\nMontelukast 10 mg at bedtime"
+    },
+    {
+      "memory_id": "X0229-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.2 g/dl (12-16); WBC 6.8 ×10⁹/L (4-10); Platelets 240 ×10⁹/L (150-400).\nStool: ova and parasites nil; culture no pathogens; faecal fat negative.\ntTG‑IgA < 4 U/ml (negative <7).\nTotal serum IgE 152 IU/ml (reference <100).\nFasting lipid profile: Total cholesterol 210 mg/dl (<200 desirable), LDL‑C 130 mg/dl (<100 optimal), HDL‑C 45 mg/dl (>40 male, >50 female), Triglycerides 180 mg/dl (<150).\nFasting blood glucose 98 mg/dl (70-100)."
+    },
+    {
+      "memory_id": "X0229-m04",
+      "date": "2025-04-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Straight leg raise test: left leg pain at 40°, right leg negative. No overt motor weakness. Suggestive of L5 radiculopathy."
+    },
+    {
+      "memory_id": "X0229-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Back pain improved, occasional leg tingling after long walks; IBS bloating worse after dairy; allergic rhinitis controlled with occasional nocturnal cough.\nEXAMINATION: BP 130/84, weight 66 kg, BMI 25.8 (obese). Lumbar paraspinal tenderness mild. Abdomen non‑tender. Nasal mucosa less swollen.\nIMPRESSION: Sciatica partially responding; IBS symptoms exacerbated by lactose; allergic rhinitis well‑controlled. Lipids still elevated.\nARRANGEMENTS: Continue current meds, add atorvastatin 10 mg nightly for LDL. Advise lactose reduction, regular walking, weight target 60 kg. Order repeat lipid profile in 4 weeks. Return if: worsening leg pain, new numbness, chest pain, dyspnoea, severe abdominal pain."
+    },
+    {
+      "memory_id": "X0229-m06",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pregabalin increased to 150 mg twice daily\nDiclofenac sodium 50 mg twice daily after food\nMethylcobalamin 1500 mcg once daily\nAtorvastatin calcium 10 mg once nightly\nMebeverine hydrochloride 135 mg twice daily\nIspaghula husk 5 g once daily\nLoperamide 2 mg as needed\nCetirizine 10 mg at bedtime\nFluticasone nasal spray 1 spray each nostril once daily\nMontelukast 10 mg at bedtime"
+    },
+    {
+      "memory_id": "X0229-m07",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Repeat lipid profile: Total cholesterol 195 mg/dl, LDL‑C 115 mg/dl, HDL‑C 48 mg/dl, Triglycerides 160 mg/dl.\nFasting glucose 96 mg/dl.\nOther panels unchanged."
+    },
+    {
+      "memory_id": "X0229-m08",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "MRI lumbar spine: L4‑L5 disc bulge causing mild thecal sac compression, no cord signal change. No significant stenosis."
+    },
+    {
+      "memory_id": "X0229-m09",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Recurrent epigastric burning after NSAID use; leg pain unchanged; allergic rhinitis mild.\nEXAMINATION: BP 128/80, weight 65 kg, BMI 25.3 (overweight). Epigastric tenderness mild. No peritoneal signs.\nIMPRESSION: NSAID‑induced gastritis likely contributing to discomfort; sciatica stable; allergic rhinitis intermittent.\nARRANGEMENTS: Stop diclofenac; start celecoxib 100 mg BD after food with pantoprazole 40 mg OD for gastric protection. Continue pregabalin, methylcobalamin, atorvastatin. IBS meds as before. Allergic rhinitis: continue cetirizine HS, fluticasone OD, montelukast HS. Return if: vomiting, melena, worsening leg pain, fever."
+    },
+    {
+      "memory_id": "X0229-m10",
+      "date": "2025-11-07",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Celecoxib 100 mg twice daily after food\nPantoprazole 40 mg once daily before breakfast\nPregabalin 150 mg twice daily\nMethylcobalamin 1500 mcg once daily\nAtorvastatin 10 mg nightly\nMebeverine 135 mg twice daily\nIspaghula husk 5 g once daily\nLoperamide 2 mg as needed\nCetirizine 10 mg at bedtime\nFluticasone nasal spray 1 spray each nostril once daily\nMontelukast 10 mg at bedtime"
+    },
+    {
+      "memory_id": "X0229-m11",
+      "date": "2025-12-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-02-20 at 09:30 with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0229-m12",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Leg pain worsened after lifting heavy boxes at work; IBS diarrhoea episodes increased; allergic rhinitis worse with dry season.\nEXAMINATION: BP 132/86, weight 67 kg, BMI 26.2 (obese). Straight leg raise positive at 38° left. Abdomen soft, mild tenderness left lower quadrant. Nasal mucosa pale.\nIMPRESSION: Aggravated sciatica possibly due to mechanical strain; IBS flare‑up; allergic rhinitis seasonal.\nARRANGEMENTS: Add topical diclofenac gel 1% BD to affected area; continue oral celecoxib with pantoprazole. Increase pregabalin to 300 mg BD for neuropathic pain. Continue atorvastatin. Advise lumbar support brace, avoid heavy lifting, physiotherapy referral. Return if: new weakness, bowel/bladder disturbance, severe abdominal pain, fever."
+    },
+    {
+      "memory_id": "X0229-m13",
+      "date": "2026-02-22",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pregabalin 300 mg twice daily\nCelecoxib 100 mg twice daily after food\nPantoprazole 40 mg once daily\nMethylcobalamin 1500 mcg once daily\nAtorvastatin 10 mg nightly\nMebeverine 135 mg twice daily\nIspaghula husk 5 g once daily\nLoperamide 2 mg as needed\nCetirizine 10 mg at bedtime\nFluticasone nasal spray 1 spray each nostril once daily\nMontelukast 10 mg at bedtime\nTopical diclofenac gel 1% apply to lumbar region twice daily"
+    },
+    {
+      "memory_id": "X0229-m14",
+      "date": "2026-10-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile: Total cholesterol 182 mg/dl, LDL‑C 108 mg/dl, HDL‑C 52 mg/dl, Triglycerides 140 mg/dl.\nFasting glucose 99 mg/dl.\nTotal serum IgE 78 IU/ml (within normal).\nCBC: Hb 13.5 g/dl, WBC 7.0 ×10⁹/L, Plt 235 ×10⁹/L.\nStool routine: normal."
+    }
+  ]
+}

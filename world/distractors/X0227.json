@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0227",
+  "name": "Unnikrishnan Karunakaran",
+  "age": 66,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Type 2 diabetes",
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0227-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus with hyperglycemia; insomnia.\nPatient reports polyuria, nocturia, fatigue, and difficulty initiating and maintaining sleep for 3 months. Random capillary glucose 210 mg/dL. BMI 28 kg/m2, blood pressure 138/86 mmHg, cardiovascular and respiratory exams normal. No retinopathy signs on brief fundoscopic glance. Smoking status: never smoker. Inhaler technique: not applicable (no inhaler prescribed)."
+    },
+    {
+      "memory_id": "X0227-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg BD\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nMelatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0227-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 8.2% (4.0-5.6)\nFasting plasma glucose 162 mg/dL (70-99)\nUrine albumin‑creatinine ratio 45 mg/g (<30 normal)\nTSH 2.1 µIU/mL (0.4-4.0)\nHemoglobin 13.8 g/dL (13.0-17.0)"
+    },
+    {
+      "memory_id": "X0227-m04",
+      "date": "2025-04-08",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Insomnia Severity Index score 18 (moderate insomnia). Feeling tired during the day, especially after morning market work."
+    },
+    {
+      "memory_id": "X0227-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus; insomnia.\nHbA1c improved from 8.2% to 7.4%; fasting glucose 130 mg/dL. Patient reports better sleep onset but still wakes early. Weight stable 68 kg. Blood pressure 134/82 mmHg. Lungs clear. No edema. Smoking status: never smoker. Inhaler technique: not applicable."
+    },
+    {
+      "memory_id": "X0227-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg BD\nGlimepiride 2 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nMelatonin 3 mg HS\nTrazodone 100 mg HS"
+    },
+    {
+      "memory_id": "X0227-m07",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.4% (4.0-5.6)\nFasting plasma glucose 130 mg/dL (70-99)\nUrine albumin‑creatinine ratio 38 mg/g (<30 normal)\nTSH 2.0 µIU/mL (0.4-4.0)\nHemoglobin 13.9 g/dL (13.0-17.0)"
+    },
+    {
+      "memory_id": "X0227-m08",
+      "date": "2025-10-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-11-05 at 09:30 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0227-m09",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus; insomnia.\nHbA1c 7.6%; fasting glucose 138 mg/dL. Patient reports worsening insomnia due to increased work stress, ISI 22. Weight 69 kg. Blood pressure 136/84 mmHg. Lungs clear. Smoking status: never smoker. Inhaler technique: not applicable."
+    },
+    {
+      "memory_id": "X0227-m10",
+      "date": "2025-11-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg BD\nGlimepiride 2 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nMelatonin 3 mg HS\nTrazodone 150 mg HS"
+    },
+    {
+      "memory_id": "X0227-m11",
+      "date": "2025-11-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.6% (4.0-5.6)\nFasting plasma glucose 138 mg/dL (70-99)\nUrine albumin‑creatinine ratio 42 mg/g (<30 normal)\nTSH 2.2 µIU/mL (0.4-4.0)\nHemoglobin 13.7 g/dL (13.0-17.0)"
+    },
+    {
+      "memory_id": "X0227-m12",
+      "date": "2026-02-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Insomnia Severity Index score 22 (severe). Difficulty falling asleep, frequent awakenings, daytime fatigue affecting stall opening time."
+    },
+    {
+      "memory_id": "X0227-m13",
+      "date": "2026-02-20",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dilated fundus exam: mild non‑proliferative diabetic retinopathy, scattered microaneurysms, no macular edema, visual acuity 20/20 both eyes."
+    },
+    {
+      "memory_id": "X0227-m14",
+      "date": "2026-05-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus; insomnia.\nHbA1c 8.0%; fasting glucose 152 mg/dL. Patient reports persistent insomnia despite trazodone 150 mg HS. Considering basal insulin. Weight 70 kg. Blood pressure 138/86 mmHg. Lungs clear. Smoking status: never smoker. Inhaler technique: not applicable."
+    },
+    {
+      "memory_id": "X0227-m15",
+      "date": "2026-05-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg BD\nGlimepiride 2 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nMelatonin 3 mg HS\nTrazodone 150 mg HS\nInsulin glargine 10 U QHS"
+    }
+  ]
+}

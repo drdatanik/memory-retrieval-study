@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0113",
+  "name": "Chandrashekar Shastry",
+  "age": 49,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Benign prostatic hyperplasia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0113-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Visit for evaluation of lower urinary tract symptoms suggestive of benign prostatic hyperplasia.\nPRESENTING COMPLAINT: The patient reports increased frequency of urination, nocturia twice nightly, and a weak stream for the past 3 months. No dysuria or hematuria.\nEXAMINATION: Blood pressure 128/78 mmHg, weight 78 kg, height 1.70 m, BMI 27.0 (obese). Abdomen soft, no masses. Prostate examination not performed today.\nIMPRESSION: Benign prostatic hyperplasia, symptomatic. Overweight/obese per Asian cut‑offs. No signs of infection or malignancy.\nARRANGEMENTS: Start tamsulosin 0.4 mg at bedtime and finasteride 5 mg daily. Order fasting lipid profile, fasting blood sugar, PSA, urine routine, and ultrasound KUB with post‑void residual. Advise reduced calorie intake, increased physical activity, and limit fluids after 6 pm. Return if you develop fever >39 °C, worsening pain, hematuria, or acute urinary retention."
+    },
+    {
+      "memory_id": "X0113-m02",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tamsulosin 0.4 mg HS\nFinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0113-m03",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar 92 mg/dL (70‑99)\nFasting lipid profile: Total cholesterol 185 mg/dL (<200), LDL 110 mg/dL (<130), HDL 42 mg/dL (>40), Triglycerides 138 mg/dL (<150)\nPSA 1.2 ng/mL (0‑4)\nUrine routine: Nil abnormal, no pus cells, no RBC"
+    },
+    {
+      "memory_id": "X0113-m04",
+      "date": "2025-08-01",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Ultrasound KUB with post‑void residual: Prostate volume 28 mL, mild bilateral hydronephrosis, post‑void residual 45 mL. No calculi."
+    },
+    {
+      "memory_id": "X0113-m05",
+      "date": "2025-09-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up for BPH symptoms after starting medication.\nPRESENTING COMPLAINT: Patient reports nocturia reduced to once per night, stream slightly improved, frequency unchanged. No new complaints.\nEXAMINATION: BP 130/80 mmHg, weight 77 kg, BMI 26.5 (overweight). Abdomen soft.\nIMPRESSION: Symptomatic improvement on current regimen. Still overweight; reinforce lifestyle.\nARRANGEMENTS: Continue tamsulosin 0.4 mg HS and finasteride 5 mg OD. Advise maintain weight loss goal 5 kg, walk 30 min daily. Return if worsening nocturia, new pain, hematuria, or inability to pass urine."
+    },
+    {
+      "memory_id": "X0113-m06",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine review of BPH and cardiovascular risk.\nPRESENTING COMPLAINT: Patient feels well, no urinary worsening. Notes occasional fatigue.\nEXAMINATION: BP 128/76 mmHg, weight 75 kg, BMI 25.9 (overweight).\nIMPRESSION: Stable BPH symptoms. Overweight per Asian cut‑offs; advise diet and activity.\nARRANGEMENTS: Continue current meds. Order fasting lipid profile and fasting blood sugar as annual review. Advise reduced saturated fat, increase fruits/vegetables, aim for 150 min/week aerobic activity. Return if chest pain, dyspnea, fever >39 °C, or urinary retention."
+    },
+    {
+      "memory_id": "X0113-m07",
+      "date": "2026-02-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tamsulosin 0.4 mg HS\nFinasteride 5 mg OD\nVitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0113-m08",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar 88 mg/dL (70‑99)\nFasting lipid profile: Total cholesterol 178 mg/dL (<200), LDL 106 mg/dL (<130), HDL 44 mg/dL (>40), Triglycerides 130 mg/dL (<150)\nPSA 1.4 ng/mL (0‑4)\nUrine routine: Normal"
+    },
+    {
+      "memory_id": "X0113-m09",
+      "date": "2026-05-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of annual labs and urinary symptoms.\nPRESENTING COMPLAINT: Patient reports nocturia now twice nightly, stream weaker again over past month.\nEXAMINATION: BP 132/82 mmHg, weight 76 kg, BMI 26.2 (overweight).\nIMPRESSION: Recurrence of BPH‑related lower urinary tract symptoms despite meds. PSA mildly elevated but still within normal range.\nARRANGEMENTS: Continue tamsulosin and finasteride. Add lifestyle reinforcement: limit evening fluids, double‑void before bed. Order repeat PSA in 3 months and consider urology referral if symptoms persist. Return if acute retention, hematuria, or fever >39 °C."
+    },
+    {
+      "memory_id": "X0113-m10",
+      "date": "2026-06-01",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Urology, Sri Jayadeva Institute of Cardiovascular Sciences and Research, for evaluation of persistent lower urinary tract symptoms suggestive of BPH with possible progression. Please assess prostate size, symptom score, and need for surgical intervention. Include recent PSA and ultrasound results."
+    },
+    {
+      "memory_id": "X0113-m11",
+      "date": "2026-07-10",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Urology review completed. Prostate volume 30 mL, moderate symptoms on IPSS. Recommend continued medical therapy, repeat PSA in 3 months, and consider minimally invasive surgery if symptoms worsen or retention occurs. No immediate surgery advised."
+    },
+    {
+      "memory_id": "X0113-m12",
+      "date": "2026-08-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up urology appointment scheduled for 2026-09-15 at 10:00 AM."
+    },
+    {
+      "memory_id": "X0113-m13",
+      "date": "2026-09-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Post‑urology review visit.\nPRESENTING COMPLAINT: Patient reports nocturia once nightly, stream slightly better after urology advice.\nEXAMINATION: BP 130/78 mmHg, weight 75 kg, BMI 25.9 (overweight).\nIMPRESSION: Symptomatic benefit from lifestyle modifications and continued meds. No acute concerns.\nARRANGEMENTS: Continue tamsulosin 0.4 mg HS and finasteride 5 mg OD. Reinforce fluid timing and pelvic floor exercises. Schedule repeat PSA and lipid panel in 3 months. Return if worsening pain, hematuria, fever >39 °C, or inability to urinate."
+    },
+    {
+      "memory_id": "X0113-m14",
+      "date": "2026-10-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar 90 mg/dL (70‑99)\nFasting lipid profile: Total cholesterol 180 mg/dL (<200), LDL 108 mg/dL (<130), HDL 43 mg/dL (>40), Triglycerides 135 mg/dL (<150)\nPSA 1.3 ng/mL (0‑4)\nUrine routine: Normal"
+    },
+    {
+      "memory_id": "X0113-m15",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Final review within observation window.\nPRESENTING COMPLAINT: Patient states urinary symptoms stable, nocturia once per night, no bother.\nEXAMINATION: BP 128/76 mmHg, weight 74 kg, BMI 25.6 (overweight).\nIMPRESSION: Benign prostatic hyperplasia well‑controlled on medical therapy and lifestyle. Overweight per Asian cut‑offs; continue weight management.\nARRANGEMENTS: Continue tamsulosin 0.4 mg HS and finasteride 5 mg OD. Advise maintain activity, balanced diet, annual PSA and lipid review. Return if acute urinary retention, hematuria, fever >39 °C, or new chest pain."
+    }
+  ]
+}

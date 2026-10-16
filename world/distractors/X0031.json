@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0031",
+  "name": "Farooq Mulla",
+  "age": 70,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Allergic rhinitis",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0031-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome, allergic rhinitis, hypothyroidism. Patient reports intermittent abdominal pain, bloating, diarrhoea, nasal congestion, sneezing, fatigue, weight gain. Abdomen soft, mild tenderness in left lower quadrant, no masses. Nasal mucosa pale, turbinates swollen. Vital signs stable."
+    },
+    {
+      "memory_id": "X0031-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\ncetirizine 10 mg HS\nfluticasone nasal spray one spray each nostril OD\nmontelukast 10 mg HS\nlevothyroxine 50 mcg OD"
+    },
+    {
+      "memory_id": "X0031-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.8 g/L (13-17), WBC 6.2 x10^9/L (4-10), Plt 210 x10^9/L (150-400). Stool routine: no ova, cysts, pus cells. tTG-IgA: negative (<4 U/mL). TSH: 4.8 mIU/L (0.4-4.0). Free T4: 12.0 pmol/L (9-21). Total IgE: 210 IU/mL (<100)."
+    },
+    {
+      "memory_id": "X0031-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Skin prick test: positive wheal to house dust mite (3 mm), mixed grasses (2 mm), negative to histamine control and saline. Consistent with allergic rhinitis."
+    },
+    {
+      "memory_id": "X0031-m05",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Allergic rhinitis: seasonal exacerbation with sneezing, clear nasal discharge, nasal congestion; triggered by dust exposure at work. No asthma symptoms."
+    },
+    {
+      "memory_id": "X0031-m06",
+      "date": "2025-04-07",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking the mebeverine twice daily and the levothyroxine each morning. My belly feels less crampy but I still get loose stools after spicy food. My nose is still stuffy in the evenings, especially after cleaning the shop."
+    },
+    {
+      "memory_id": "X0031-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Follow-up: IBS symptoms improved but occasional diarrhoea persists. Allergic rhinitis better with nasal spray, occasional breakthrough sneezing. Hypothyroidism: TSH still slightly high, fatigue unchanged. Abdomen soft, no tenderness. Nasal mucosa less pale."
+    },
+    {
+      "memory_id": "X0031-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\ncetirizine 10 mg HS\nfluticasone nasal spray one spray each nostril OD\nmontelukast 10 mg HS\nlevothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0031-m09",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 3.2 mIU/L (0.4-4.0). Free T4: 13.5 pmol/L (9-21). CBC: Hb 14.0 g/L, WBC 5.8 x10^9/L, Plt 205 x10^9/L. Stool routine: normal. Total IgE: 180 IU/mL."
+    },
+    {
+      "memory_id": "X0031-m10",
+      "date": "2025-10-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking: Review appointment with Dr Suresh Menon (D05) on 2026-01-15 at 10:30 AM for chronic disease follow‑up."
+    },
+    {
+      "memory_id": "X0031-m11",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Review: IBS stable, no alarm symptoms. Allergic rhinitis well controlled on current regimen. Hypothyroidism: TSH within target, patient reports improved energy. No medication side effects noted."
+    },
+    {
+      "memory_id": "X0031-m12",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\ncetirizine 10 mg HS\nfluticasone nasal spray one spray each nostril OD\nmontelukast 10 mg HS\nlevothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0031-m13",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.9 mIU/L (0.4-4.0). Free T4: 13.8 pmol/L (9-21). Total IgE: 165 IU/mL. CBC: Hb 14.2 g/L, WBC 6.0 x10^9/L, Plt 210 x10^9/L."
+    },
+    {
+      "memory_id": "X0031-m14",
+      "date": "2026-02-20",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry: FEV1 2.85 L (92% pred), FVC 3.40 L (95% pred), FEV1/FVC 0.84 (84%). No significant bronchodilator response. Baseline lung function normal."
+    },
+    {
+      "memory_id": "X0031-m15",
+      "date": "2026-02-20",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Dr Gita Rao, Gastroenterology, for evaluation of persistent IBS‑type symptoms despite first‑line therapy; consider further investigation for bile acid malabsorption or small bowel bacterial overgrowth."
+    },
+    {
+      "memory_id": "X0031-m16",
+      "date": "2026-05-05",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Gastroenterology review completed. Breath test negative for SIBO. SeHCAT test normal. Advised to continue mebeverine and ispaghula, consider low‑FODMAP diet trial. No further intervention needed."
+    }
+  ]
+}

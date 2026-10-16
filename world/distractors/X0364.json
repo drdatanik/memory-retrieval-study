@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0364",
+  "name": "Gurdeep Chadha",
+  "age": 37,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Obesity",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0364-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports difficulty climbing stairs due to joint pain and mild dyspnoea on exertion; manages cab driving with frequent breaks. cognition: Mini-Cog 4/5 (negative). falls: 0 falls in last 12 months, gait steady, TUG 10 seconds (normal). medicines: 5 regular (orlistat, methotrexate, folic acid, hydroxychloroquine, prednisolone). mood: denies low mood or anxiety. carers: spouse (husband). goals: \"I want to drive longer shifts without knee pain.\""
+    },
+    {
+      "memory_id": "X0364-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "orlistat 120 mg PO tds with meals\nmethotrexate 10 mg PO weekly\nfolic acid 5 mg PO weekly\nhydroxychloroquine 200 mg PO daily\nprednisolone 5 mg PO daily"
+    },
+    {
+      "memory_id": "X0364-m03",
+      "date": "2025-04-06",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Penicillin: rash and pruritus within 30 minutes of ingestion; mild, self‑limited."
+    },
+    {
+      "memory_id": "X0364-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: cholesterol 5.8 mmol/L (<5.2), triglycerides 2.1 (<1.7), HDL 1.0 (>1.0), LDL 3.9 (<3.0).\nFasting glucose 102 mg/dL (70‑99).\nHbA1c 5.9% (<5.7).\nALT 38 U/L (≤40), AST 34 U/L (≤40), ALP 84 U/L (≤120), GGT 32 U/L (≤50).\nESR 28 mm/hr (0‑20).\nCRP 6 mg/L (0‑5).\nRheumatoid factor 22 IU/ml (<14).\nAnti‑CCP 45 U/ml (<20).\nWaist circumference 102 cm (female <80)."
+    },
+    {
+      "memory_id": "X0364-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: knee pain improved, able to drive 6‑hour shifts; reports occasional hand stiffness morning. cognition: Mini-Cog 4/5. falls: 0 falls, gait normal, TUG 9 seconds. medicines: 5 regular. mood: stable. carers: husband. goals: \"I would like to reduce hand stiffness to feel safer while driving.\""
+    },
+    {
+      "memory_id": "X0364-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 15 mg PO weekly (increased from 10 mg)\nfolic acid 5 mg PO weekly\nhydroxychloroquine 200 mg PO daily\nprednisolone 5 mg PO daily\norlistat 120 mg PO tds with meals"
+    },
+    {
+      "memory_id": "X0364-m07",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-09-15 at 10:30 am with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0364-m08",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: hand stiffness less severe, able to grip steering wheel without pain; reports occasional fatigue after long drives. cognition: Mini-Cog 4/5. falls: 0 falls, gait steady, TUG 9 seconds. medicines: 5 regular. mood: reports feeling more energetic. carers: husband. goals: \"I want to keep my joints flexible so I can work night shifts if needed.\""
+    },
+    {
+      "memory_id": "X0364-m09",
+      "date": "2025-09-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "prednisolone 2.5 mg PO daily (tapered from 5 mg)\nmethotrexate 15 mg PO weekly\nfolic acid 5 mg PO weekly\nhydroxychloroquine 200 mg PO daily\norlistat 120 mg PO tds with meals"
+    },
+    {
+      "memory_id": "X0364-m10",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: cholesterol 5.4 mmol/L, triglycerides 1.8, HDL 1.1, LDL 3.6.\nFasting glucose 96 mg/dL.\nHbA1c 5.6%.\nALT 32 U/L, AST 30 U/L, ALP 80 U/L, GGT 28 U/L.\nESR 18 mm/hr.\nCRP 3 mg/L.\nRheumatoid factor 16 IU/ml (borderline).\nAnti‑CCP 22 U/ml (near normal).\nWaist circumference 98 cm."
+    },
+    {
+      "memory_id": "X0364-m11",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports no joint pain during driving, able to manage 8‑hour shifts; occasional mild swelling in knees after prolonged standing. cognition: Mini-Cog 4/5. falls: 0 falls, gait normal, TUG 8 seconds. medicines: 5 regular. mood: good. carers: husband. goals: \"I would like to maintain my current weight and keep driving without medication side effects.\""
+    },
+    {
+      "memory_id": "X0364-m12",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "orlistat 120 mg PO tds with meals\nmethotrexate 15 mg PO weekly\nfolic acid 5 mg PO weekly\nhydroxychloroquine 200 mg PO daily\nprednisolone 2.5 mg PO daily"
+    }
+  ]
+}

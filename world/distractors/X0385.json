@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0385",
+  "name": "Subhash Chatterjee",
+  "age": 22,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0385-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: headache and elevated blood pressure readings at home.\nPRESENTING COMPLAINT: The patient reports intermittent frontal headaches over the past two weeks and notes home BP readings averaging 148/92 mmHg. He denies chest pain, palpitations, or visual disturbances.\nEXAMINATION: BP 150/94 mmHg, pulse 78/min, regular. Weight 70 kg, height 1.75 m, BMI 22.9 (normal). Cardiovascular exam reveals normal S1S2, no murmurs. Lungs clear.\nIMPRESSION: Stage 1 hypertension, asymptomatic. No evidence of end‑organ damage.\nARRANGEMENTS: Start amlodipine 5 mg OD and telmisartan 40 mg OD. Order fasting serum creatinine, eGFR, serum potassium, and ECG. Advise low‑salt diet, weight control, and return if headache worsens, chest pain, breathlessness, or fever >39°C."
+    },
+    {
+      "memory_id": "X0385-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD"
+    },
+    {
+      "memory_id": "X0385-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.9 mg/dL (eGFR 95 mL/min/1.73m2). Serum potassium 4.2 mmol/L. ECG: normal sinus rhythm, no ST‑T changes."
+    },
+    {
+      "memory_id": "X0385-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine hypertension follow‑up.\nPRESENTING COMPLAINT: Patient reports occasional mild headaches, otherwise well. Home BP averages 146/90 mmHg.\nEXAMINATION: BP 148/92 mmHg, pulse 80/min. Weight 71 kg, BMI 23.2 (overweight). Cardiovascular and respiratory exams unchanged.\nIMPRESSION: Hypertension not yet at target; consider adding third agent.\nARRANGEMENTS: Add losartan 50 mg OD. Reinforce low‑salt diet, increase fruits/vegetables, aim for 150 min/week brisk walking. Return if headache becomes severe, chest pain, breathlessness, or fever >39°C."
+    },
+    {
+      "memory_id": "X0385-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD"
+    },
+    {
+      "memory_id": "X0385-m06",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.88 mg/dL (eGFR 98 mL/min/1.73m2). Serum potassium 4.1 mmol/L."
+    },
+    {
+      "memory_id": "X0385-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine check‑up and lab review.\nPRESENTING COMPLAINT: Patient feels well, no headaches. Home BP averages 132/84 mmHg.\nEXAMINATION: BP 130/82 mmHg, pulse 76/min. Weight 72 kg, BMI 23.5 (overweight). Cardiovascular exam normal.\nIMPRESSION: Blood pressure now at target; renal function and electrolytes stable.\nARRANGEMENTS: Continue current regimen. Advise maintaining DASH diet, regular aerobic activity, and weight goal <70 kg. Return if BP rises above 140/90, chest pain, breathlessness, or fever >39°C."
+    },
+    {
+      "memory_id": "X0385-m08",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: intermittent fever and raised home BP.\nPRESENTING COMPLAINT: Patient reports 3‑day low‑grade fever (max 38.5°C) and sore throat, plus home BP up to 158/96 mmHg.\nEXAMINATION: BP 156/98 mmHg, pulse 84/min, temperature 38.2°C. Weight 73 kg, BMI 23.8 (overweight). Throat mildly erythematous, lungs clear.\nIMPRESSION: Viral upper respiratory infection with transient hypertension exacerbation.\nARRANGEMENTS: Add hydrochlorothiazide 12.5 mg OD. Continue amlodipine, telmisartan, losartan. Advise hydration, antipyretics as needed, and return if fever >39°C, chest pain, breathlessness, or worsening headache."
+    },
+    {
+      "memory_id": "X0385-m09",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0385-m10",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.90 mg/dL (eGFR 96 mL/min/1.73m2). Serum potassium 3.8 mmol/L (low‑normal)."
+    },
+    {
+      "memory_id": "X0385-m11",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of electrolytes after starting thiazide.\nPRESENTING COMPLAINT: Patient asymptomatic, no fever. Home BP averages 138/88 mmHg.\nEXAMINATION: BP 136/86 mmHg, pulse 78/min. Weight 73 kg, BMI 23.8 (overweight). No edema.\nIMPRESSION: Mild hypokalemia likely due to hydrochlorothiazide; renal function stable.\nARRANGEMENTS: Continue current drugs. Encourage potassium‑rich diet (bananas, oranges, coconut water). Return if muscle weakness, cramps, chest pain, breathlessness, or fever >39°C."
+    },
+    {
+      "memory_id": "X0385-m12",
+      "date": "2026-05-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-05-20 to 2026-05-10 per patient request."
+    },
+    {
+      "memory_id": "X0385-m13",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review and influenza vaccination.\nPRESENTING COMPLAINT: Patient well, no symptoms. Home BP averages 130/82 mmHg.\nEXAMINATION: BP 128/80 mmHg, pulse 76/min. Weight 73.5 kg, BMI 24.0 (overweight).\nIMPRESSION: Hypertension controlled on four‑drug regimen. No adverse effects.\nARRANGEMENTS: Continue amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD. Offer influenza vaccine; patient consents and receives vaccine today (2026-09-30). Advise maintain low‑salt diet, regular exercise, and weight target <73 kg. Return if chest pain, breathlessness, fever >39°C, or BP >140/90."
+    },
+    {
+      "memory_id": "X0385-m14",
+      "date": "2026-10-11",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: post‑vaccination check and medication review.\nPRESENTING COMPLAINT: Patient reports mild arm soreness at injection site, otherwise well. Home BP 128/80 mmHg.\nEXAMINATION: BP 126/78 mmHg, pulse 74/min. Weight 73.5 kg, BMI 24.0 (overweight). No local reaction beyond mild tenderness.\nIMPRESSION: Influenza vaccine tolerated. Hypertension remains well controlled.\nARRANGEMENTS: Continue current regimen. No change advised. Return if chest pain, breathlessness, fever >39°C, or BP >140/90."
+    }
+  ]
+}

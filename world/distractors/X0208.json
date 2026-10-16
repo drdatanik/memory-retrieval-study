@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0208",
+  "name": "Shabana Qureshi",
+  "age": 67,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Psoriasis",
+    "Gastro-oesophageal reflux",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0208-m01",
+      "date": "2025-04-02",
+      "type": "allergy",
+      "author": "D06",
+      "text": "allergy: penicillin; reaction: rash and angioedema after amoxicillin course 2023."
+    },
+    {
+      "memory_id": "X0208-m02",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent with ADLs, walks 20 mins daily, uses stick occasionally. cognition: Mini-Cog 4/5 (recall 3, clock draw normal). falls: 0 falls last 12 months, gait steady, TUG 10 sec (normal). medicines: 8 regular (clobetasol, calcipotriol, methotrexate, folic acid, pantoprazole, antacid gel SOS, domperidone, cetirizine, fluticasone, montelukast) – polypharmacy, review Beers criteria. mood: reports occasional frustration with skin lesions, denies depression. carers: daughter Priya, lives nearby. goals: \"I want to keep my garden and teach my grandchildren.\""
+    },
+    {
+      "memory_id": "X0208-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "clobetasol 0.05% cream BD topical to plaques; calcipotriol ointment OD topical; methotrexate 7.5 mg PO once weekly; folic acid 5 mg OD; pantoprazole 40 mg OD before breakfast; antacid gel SOS after meals; domperidone 10 mg BD before meals; cetirizine 10 mg HS; fluticasone nasal spray 1 spray each nostril OD; montelukast 10 mg HS."
+    },
+    {
+      "memory_id": "X0208-m04",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 32 U/L (7-56), AST 28 U/L (10-40), ALP 78 U/L (40-130), GGT 32 U/L (0-51). CBC: Hb 12.8 g/L (12-16), WBC 6.2 x10^9/L (4-10), Plt 210 x10^9/L (150-400). Creatinine 0.9 mg/dL (0.6-1.1). H. pylori stool antigen: negative. Total serum IgE: 120 IU/mL (<100 borderline)."
+    },
+    {
+      "memory_id": "X0208-m05",
+      "date": "2025-05-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Skin prick test: positive reaction to house dust mite (3+ wheal), grass pollen (2+), negative to cat dander. Interpretation: allergic rhinitis likely dust mite driven."
+    },
+    {
+      "memory_id": "X0208-m06",
+      "date": "2025-05-15",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Dermatology, St. John's Hospital for refractory psoriasis despite topicals and low-dose methotrexate. Request assessment for biologic therapy and phototherapy."
+    },
+    {
+      "memory_id": "X0208-m07",
+      "date": "2025-06-01",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Dermatology letter: Psoriasis PASI 12. Recommend continuing methotrexate, consider adding acitretin 25 mg OD. Phototherapy available. Review in 6 weeks."
+    },
+    {
+      "memory_id": "X0208-m08",
+      "date": "2025-06-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via app: Nasal congestion improved after starting fluticasone, still occasional sneezing on waking. No new skin lesions."
+    },
+    {
+      "memory_id": "X0208-m09",
+      "date": "2025-07-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up geriatrics appointment booked for 2025-07-05 at 10:30 AM with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0208-m10",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, garden work tolerated, mild knee pain after walking. cognition: not screened this visit (annual due Apr 2026). falls: 0 falls, gait slightly antalgic left, TUG 11 sec (borderline). medicines: 8 regular, polypharmacy – discuss Beers review. mood: reports improved skin, less itching. carers: daughter Priya. goals: \"I want to walk pain‑free to the market.\""
+    },
+    {
+      "memory_id": "X0208-m11",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate reduced to 5 mg PO once weekly; folic acid 5 mg OD unchanged; all other meds as before."
+    },
+    {
+      "memory_id": "X0208-m12",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 28, AST 24, ALP 70, GGT 30. CBC: Hb 13.0, WBC 5.9, Plt 205. Creatinine 0.88."
+    },
+    {
+      "memory_id": "X0208-m13",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Resting ECG: sinus rhythm 78 bpm, no ST‑T changes, normal intervals. No ischemia."
+    },
+    {
+      "memory_id": "X0208-m14",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: walks 30 mins with stick, reports occasional back stiffness. cognition: not due. falls: 0 falls, gait steady, TUG 10.5 sec (normal). medicines: 7 regular (methotrexate 5 mg weekly), polypharmacy threshold met – review Beers. mood: stable. carers: daughter Priya. goals: \"I want to travel to Mysore for the festival.\""
+    },
+    {
+      "memory_id": "X0208-m15",
+      "date": "2025-11-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Add topical calcipotriol‑betamethasone combo BD to plaques; continue clobetasol only on thick patches. All other meds unchanged."
+    },
+    {
+      "memory_id": "X0208-m16",
+      "date": "2026-02-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 22, AST 20, ALP 68, GGT 28. CBC: Hb 13.2, WBC 6.1, Plt 210. Creatinine 0.86. Serum uric acid 5.8 mg/dL (normal)."
+    },
+    {
+      "memory_id": "X0208-m17",
+      "date": "2026-04-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, gardening daily, no joint pain. cognition: Mini-Cog 3/5 (recall 2, clock draw mild abnormality) – negative screen (<=2 would be positive). falls: 0 falls, gait normal, TUG 9.8 sec. medicines: 7 regular, polypharmacy – discuss Beers review. mood: reports good sleep, no low mood. carers: daughter Priya. goals: \"I want to see my great‑grandchild’s first steps.\""
+    }
+  ]
+}

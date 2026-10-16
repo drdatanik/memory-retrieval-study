@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0244",
+  "name": "Sukanya Dasgupta",
+  "age": 47,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0244-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all ADLs; walks to nearby market; no difficulty climbing stairs.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal); no concerns.\nfalls: No falls in last 12 months; gait normal; TUG 9 seconds (low fall risk).\nmedicines: 3 regular (pantoprazole 40 mg OD, domperidone 10 mg BD, calcium 500 mg OD); no polypharmacy.\nmood: Reports good spirits; denies anxiety or depression.\ncarers: Husband Rajesh, spouse.\ngoals: \"I want to stay active and enjoy my work without heartburn.\""
+    },
+    {
+      "memory_id": "X0244-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0244-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: negative (Reference: negative)"
+    },
+    {
+      "memory_id": "X0244-m04",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; occasional mild retrosternal burning after large meals, relieved by antacid.\ncognition: Mini-Cog score 4/5; stable.\nfalls: No falls in last 12 months; gait normal; TUG 9 seconds (low fall risk).\nmedicines: 3 regular (pantoprazole 40 mg OD, domperidone 10 mg BD, calcium 500 mg OD); no polypharmacy.\nmood: Generally content; notes work stress mild.\ncarers: Husband Rajesh, spouse.\ngoals: \"I wish to reduce heartburn episodes and keep enjoying my favorite foods.\""
+    },
+    {
+      "memory_id": "X0244-m05",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0244-m06",
+      "date": "2025-06-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Heartburn has improved; only occasional discomfort after spicy food, relieved quickly with antacid gel. No night symptoms."
+    },
+    {
+      "memory_id": "X0244-m07",
+      "date": "2025-08-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; walks 30 minutes daily; no limitation.\ncognition: Mini-Cog score 4/5; unchanged.\nfalls: No falls in last 12 months; gait normal; TUG 9 seconds (low fall risk).\nmedicines: 3 regular (pantoprazole 40 mg OD, domperidone 10 mg BD, calcium 500 mg OD); no polypharmacy.\nmood: Stable; denies low mood or anxiety.\ncarers: Husband Rajesh, spouse.\ngoals: \"I want to maintain my current health and continue working without medication side effects.\""
+    },
+    {
+      "memory_id": "X0244-m08",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: negative (Reference: negative)"
+    },
+    {
+      "memory_id": "X0244-m09",
+      "date": "2025-08-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0244-m10",
+      "date": "2025-10-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-11-20 at 10:30 AM with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0244-m11",
+      "date": "2025-10-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Occasional nighttime burning noticed twice in past week; relieved by sitting up and antacid. Otherwise day symptoms mild."
+    },
+    {
+      "memory_id": "X0244-m12",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; able to perform household chores; no fatigue.\ncognition: Mini-Cog score 4/5; stable.\nfalls: No falls in last 12 months; gait normal; TUG 9 seconds (low fall risk).\nmedicines: 3 regular (pantoprazole 40 mg OD, domperidone 10 mg BD, calcium 500 mg OD); no polypharmacy.\nmood: Reports feeling well; denies anxiety.\ncarers: Husband Rajesh, spouse.\ngoals: \"I aim to keep heartburn under control and avoid medication dependence.\""
+    },
+    {
+      "memory_id": "X0244-m13",
+      "date": "2025-12-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0244-m14",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; reports mild dysphagia to solids for past 3 weeks, worse with bread.\ncognition: Mini-Cog score 4/5; stable.\nfalls: No falls in last 12 months; gait normal; TUG 9 seconds (low fall risk).\nmedicines: 3 regular (pantoprazole 40 mg OD, domperidone 10 mg BD, calcium 500 mg OD); no polypharmacy.\nmood: Slight worry about swallowing; denies depression.\ncarers: Husband Rajesh, spouse.\ngoals: \"I want to find out why swallowing feels uncomfortable and get back to normal eating.\""
+    },
+    {
+      "memory_id": "X0244-m15",
+      "date": "2026-02-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Upper GI endoscopy: Mild erosive esophagitis (Los Angeles Grade A) in distal esophagus; no Barrett’s epithelium; stomach mucosa normal; duodenum normal."
+    },
+    {
+      "memory_id": "X0244-m16",
+      "date": "2026-03-01",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Endoscopy report received: Mild erosive esophagitis, Grade A. No malignancy. Recommend continued PPI therapy, lifestyle modification, and repeat endoscopy in 1 year if symptoms persist."
+    },
+    {
+      "memory_id": "X0244-m17",
+      "date": "2026-05-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; dysphagia resolved; able to eat regular diet without discomfort.\ncognition: Mini-Cog score 4/5; stable.\nfalls: No falls in last 12 months; gait normal; TUG 9 seconds (low fall risk).\nmedicines: 3 regular (pantoprazole 40 mg OD, domperidone 10 mg BD, calcium 500 mg OD); no polypharmacy.\nmood: Reports improved well-being; denies anxiety.\ncarers: Husband Rajesh, spouse.\ngoals: \"I am grateful my symptoms are under control and I can enjoy meals again.\""
+    }
+  ]
+}

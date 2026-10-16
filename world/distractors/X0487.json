@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0487",
+  "name": "Amudha Raman",
+  "age": 82,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0487-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nEvidence: daily pruritic wheals persisting >6 weeks, no identifiable trigger, no angioedema.\nSymptoms and examination: patient reports intense itching on arms, trunk and back, wheals appearing and resolving within hours; afebrile, no mucosal swelling. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0487-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levocetirizine 5 mg oral tablet once daily\ncetirizine 10 mg oral tablet at bedtime as needed for breakthrough itch"
+    },
+    {
+      "memory_id": "X0487-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.2 x10^9/L (4-10), Neutrophils 4.1, Lymphocytes 1.5, Monocytes 0.4, Eosinophils 0.2 x10^9/L (0.02-0.5), Hb 13.2 g/dL (12-16), Platelets 210 x10^9/L (150-400).\nThyroid function: TSH 2.1 mIU/L (0.4-4.0), Free T4 1.2 ng/dL (0.8-1.8)."
+    },
+    {
+      "memory_id": "X0487-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nEvidence: reduced frequency of hives, occasional breakthrough lesions mainly in evenings.\nSymptoms and examination: patient notes milder itching, wheals now 2-3 times weekly, resolves with antihistamine; no angioedema. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0487-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 5.9 x10^9/L, Neutrophils 3.8, Lymphocytes 1.4, Monocytes 0.3, Eosinophils 0.18 x10^9/L, Hb 13.0 g/dL, Platelets 205 x10^9/L.\nThyroid function: TSH 2.0 mIU/L, Free T4 1.18 ng/dL."
+    },
+    {
+      "memory_id": "X0487-m06",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nEvidence: further improvement, only occasional isolated wheals.\nSymptoms and examination: patient reports mild itching <2 times per month, wheals small and self‑limited; no systemic symptoms. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0487-m07",
+      "date": "2025-10-17",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levocetirizine 5 mg oral tablet once daily\ncetirizine discontinued"
+    },
+    {
+      "memory_id": "X0487-m08",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nEvidence: stable control on levocetirizine monotherapy, no breakthrough for 6 weeks.\nSymptoms and examination: patient denies itching or visible wheals; skin clear. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0487-m09",
+      "date": "2026-01-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.0 x10^9/L, Neutrophils 3.9, Lymphocytes 1.5, Monocytes 0.3, Eosinophils 0.19 x10^9/L, Hb 13.1 g/dL, Platelets 208 x10^9/L.\nThyroid function: TSH 2.2 mIU/L, Free T4 1.20 ng/dL."
+    },
+    {
+      "memory_id": "X0487-m10",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nEvidence: asymptomatic on levocetirizine, patient queries need for continued therapy.\nSymptoms and examination: no wheals, no itching; skin normal. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0487-m11",
+      "date": "2026-04-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levocetirizine 5 mg oral tablet once daily\ncetirizine 10 mg oral tablet at bedtime as needed for breakthrough itch (restarted PRN)"
+    },
+    {
+      "memory_id": "X0487-m12",
+      "date": "2026-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Suresh Menon (D05) on 2026-10-05 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0487-m13",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nEvidence: well controlled on levocetirizine with occasional cetirizine PRN, no exacerbations.\nSymptoms and examination: patient reports occasional mild itching (<1 episode/month) relieved by cetirizine; skin clear. Smoking status: never smoker, pack-years 0."
+    }
+  ]
+}

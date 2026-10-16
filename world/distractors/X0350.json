@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0350",
+  "name": "Anoop Panicker",
+  "age": 52,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Sciatica",
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0350-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Sciatica\n  - Status: pain 3/10, intermittent, straight leg raise negative.\n  - Plan: continue pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD; arrange physiotherapy.\n- Gout\n  - Status: no acute flare, serum uric acid pending.\n  - Plan: start allopurinol 100 mg OD; monitor uric acid.\n- Weight: 80 kg, waist circumference 94 cm (above male cutoff 90 cm).\n- Diet advice:\n  - Breakfast: whole grain toast with egg white, no added sugar.\n  - Lunch: vegetable dal, brown rice, limited oil.\n  - Dinner: grilled fish, steamed vegetables, small portion roti.\n- Due: HbA1c repeat on 2025-07-05."
+    },
+    {
+      "memory_id": "X0350-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg, 1-0-1, after food\n diclofenac 50 mg, 1-0-1, after food\n methylcobalamin 1500 mcg, 1-0-0, after food\n allopurinol 100 mg, 1-0-0, after food"
+    },
+    {
+      "memory_id": "X0350-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 7.2 mg/dL (ref 3.5-7.2)\n Serum creatinine: 0.9 mg/dL (ref 0.6-1.2)\n HbA1c: 6.8% (ref 4.0-5.6)\n Lipid profile:\n   Total cholesterol: 210 mg/dL (<200)\n   LDL: 130 mg/dL (<100)\n   HDL: 38 mg/dL (>40)\n   Triglycerides: 180 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0350-m04",
+      "date": "2025-05-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "MRI lumbar spine: L4-L5 disc bulge causing mild thecal sac compression, no cord signal change.\n Straight leg raise test: negative bilaterally.\n X-ray lumbar spine: mild lumbar scoliosis, no fracture."
+    },
+    {
+      "memory_id": "X0350-m05",
+      "date": "2025-06-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Sciatica\n  - Status: pain 2/10, improved with physiotherapy.\n  - Plan: continue pregabalin 75 mg BD, diclofenac 50 mg BD after food; taper diclofenac if pain <2.\n- Gout\n  - Status: no flare, uric acid 7.2 mg/dL (target <6).\n  - Plan: increase allopurinol to 200 mg OD; recheck uric acid in 6 weeks.\n- Weight: 78 kg, waist circumference 92 cm (above cutoff 90 cm).\n- Diet advice:\n  - Breakfast: oats with skim milk, nuts.\n  - Lunch: mixed vegetable curry, quinoa, side salad.\n  - Dinner: chicken stew, sautéed greens, small chapati.\n- Due: HbA1c repeat on 2025-09-05."
+    },
+    {
+      "memory_id": "X0350-m06",
+      "date": "2025-06-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg, 1-0-1, after food\n diclofenac 50 mg, 1-0-1, after food\n methylcobalamin 1500 mcg, 1-0-0, after food\n allopurinol 200 mg, 1-0-0, after food"
+    },
+    {
+      "memory_id": "X0350-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 6.4 mg/dL (ref 3.5-7.2)\n Serum creatinine: 0.9 mg/dL (ref 0.6-1.2)\n HbA1c: 6.6% (ref 4.0-5.6)"
+    },
+    {
+      "memory_id": "X0350-m08",
+      "date": "2025-08-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking: follow-up visit with Dr Karthik Hegde (D04) on 2025-09-05 at 10:30 AM. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0350-m09",
+      "date": "2025-09-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Sciatica\n  - Status: pain 1/10, occasional discomfort after prolonged sitting.\n  - Plan: continue pregabalin 75 mg BD; stop diclofenac; continue methylcobalamin.\n- Gout\n  - Status: no flare, uric acid 6.4 mg/dL (near target).\n  - Plan: maintain allopurinol 200 mg OD; lifestyle advice.\n- Weight: 76 kg, waist circumference 90 cm (at cutoff).\n- Diet advice:\n  - Breakfast: multigrain toast, avocado, egg white.\n  - Lunch: lentil soup, brown rice, steamed veg.\n  - Dinner: paneer tikka, salad, small roti.\n- Due: HbA1c repeat on 2025-12-05."
+    },
+    {
+      "memory_id": "X0350-m10",
+      "date": "2025-09-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg, 1-0-1, after food\n methylcobalamin 1500 mcg, 1-0-0, after food\n allopurinol 200 mg, 1-0-0, after food"
+    },
+    {
+      "memory_id": "X0350-m11",
+      "date": "2026-03-05",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dr Suman Reddy, Rheumatology, Vydehi Hospital for refractory gout management. Reason: persistent hyperuricemia despite allopurinol 200 mg OD, consider febuxostat."
+    },
+    {
+      "memory_id": "X0350-m12",
+      "date": "2026-04-05",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Rheumatology review: patient tolerating allopurinol, uric acid 5.8 mg/dL. Advised to continue current dose, add colchicine 0.5 mg BD during flares only. No febuxostat needed at present."
+    }
+  ]
+}

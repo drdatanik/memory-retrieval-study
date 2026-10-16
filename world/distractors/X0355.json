@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0355",
+  "name": "Sukhdev Chadha",
+  "age": 58,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0355-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin B12 deficiency.\nPatient presents with fatigue, mild tingling in extremities, and slight glossitis. Examination shows mild pallor and a smooth, red tongue. Smoking: former, quit 2010, 20 pack-years. Plan: start methylcobalamin 1500 mcg OD, check serum B12, MCV, and haemoglobin in 6 weeks."
+    },
+    {
+      "memory_id": "X0355-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methylcobalamin 1500 mcg OD, 30 days."
+    },
+    {
+      "memory_id": "X0355-m03",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0355-m04",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12 150 pg/mL (reference 200-900). MCV 102 fL (reference 80-100). Haemoglobin 11.2 g/dL (reference 13.0-17.0)."
+    },
+    {
+      "memory_id": "X0355-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin B12 deficiency, persistent.\nFatigue improved, mild tingling persists; glossitis resolving. Smoking: former, quit 2010, 20 pack-years. Labs: B12 260 pg/mL, MCV 98 fL, Hb 12.8 g/dL. Plan: increase methylcobalamin to 1500 mcg BD, recheck labs in 8 weeks."
+    },
+    {
+      "memory_id": "X0355-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methylcobalamin 1500 mcg BD, 60 days."
+    },
+    {
+      "memory_id": "X0355-m07",
+      "date": "2025-07-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12 340 pg/mL (reference 200-900). MCV 94 fL (reference 80-100). Haemoglobin 13.5 g/dL (reference 13.0-17.0)."
+    },
+    {
+      "memory_id": "X0355-m08",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Patient reports occasional numbness in feet after long work hours, otherwise feeling well. No new symptoms."
+    },
+    {
+      "memory_id": "X0355-m09",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin B12 deficiency, adequately treated.\nPatient asymptomatic, examination normal. Smoking: former, quit 2010, 20 pack-years. Labs: B12 420 pg/mL, MCV 90 fL, Hb 14.2 g/dL. Plan: continue methylcobalamin 1500 mcg OD, review in 4 months."
+    },
+    {
+      "memory_id": "X0355-m10",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methylcobalamin 1500 mcg OD, 90 days."
+    },
+    {
+      "memory_id": "X0355-m11",
+      "date": "2025-10-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12 460 pg/mL (reference 200-900). MCV 90 fL (reference 80-100). Haemoglobin 14.5 g/dL (reference 13.0-17.0)."
+    },
+    {
+      "memory_id": "X0355-m12",
+      "date": "2026-03-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-20 to 2026-03-25 at 09:30 AM with Dr Suresh Menon (D05)."
+    }
+  ]
+}

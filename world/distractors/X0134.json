@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0134",
+  "name": "Jacob Pinto",
+  "age": 61,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Iron-deficiency anaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0134-m01",
+      "date": "2025-04-02",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Allergy: No known drug allergies."
+    },
+    {
+      "memory_id": "X0134-m02",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anaemia\n  - Status: New diagnosis, symptomatic fatigue.\n  - Plan: Start ferrous sulfate 200 mg OD after food; check weight and waist; advise iron-rich diet; review in 3 months.\n- Weight: 78 kg\n- Waist circumference: 92 cm (above male cutoff 90 cm).\n- Diet advice: Breakfast – include fortified cereal and orange juice; Lunch – dal with leafy greens and meat; Dinner – light, avoid tea with meals."
+    },
+    {
+      "memory_id": "X0134-m03",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Ferrous sulfate 200 mg OD after food"
+    },
+    {
+      "memory_id": "X0134-m04",
+      "date": "2025-04-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 9.2 g/dL (Ref: 13.0-17.0)\nSerum ferritin: 12 ng/mL (Ref: 30-400)\nMCV: 78 fL (Ref: 80-100)"
+    },
+    {
+      "memory_id": "X0134-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling tired through the day, especially after lunch. Taking the tablets as prescribed, no side effects noticed."
+    },
+    {
+      "memory_id": "X0134-m06",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anaemia\n  - Status: Improved, Hb rising.\n  - Plan: Change to ferrous sulfate 200 mg on alternate days after food; continue diet advice; recheck labs in 3 months.\n- Weight: 77.5 kg\n- Waist circumference: 91 cm (still slightly above cutoff).\n- Diet advice: Breakfast – add boiled egg; Lunch – increase beetroot; Dinner – avoid calcium supplements with meals."
+    },
+    {
+      "memory_id": "X0134-m07",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Ferrous sulfate 200 mg on alternate days after food"
+    },
+    {
+      "memory_id": "X0134-m08",
+      "date": "2025-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 11.0 g/dL (Ref: 13.0-17.0)\nSerum ferritin: 45 ng/mL (Ref: 30-400)\nMCV: 82 fL (Ref: 80-100)"
+    },
+    {
+      "memory_id": "X0134-m09",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking: Visit with Dr Karthik Hegde (D04) on 2025-10-15 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0134-m10",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anaemia\n  - Status: Near target, Hb approaching normal.\n  - Plan: Continue ferrous sulfate 200 mg on alternate days; recheck labs in 3 months; consider stopping if Hb >13 and ferritin >100.\n- Weight: 77 kg\n- Waist circumference: 90 cm (at cutoff).\n- Diet advice: Breakfast – include poha with peanuts; Lunch – rajma with rice; Dinner – early, low‑fat."
+    },
+    {
+      "memory_id": "X0134-m11",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 12.8 g/dL (Ref: 13.0-17.0)\nSerum ferritin: 92 ng/mL (Ref: 30-400)\nMCV: 85 fL (Ref: 80-100)"
+    },
+    {
+      "memory_id": "X0134-m12",
+      "date": "2026-01-20",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dr Sumanth Rao, Gastroenterology, for evaluation of possible occult GI blood loss contributing to iron deficiency. Please perform upper GI endoscopy and colonoscopy."
+    },
+    {
+      "memory_id": "X0134-m13",
+      "date": "2026-02-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Referral outcome: Gastroscopy showed a small gastric ulcer, treated with PPI; colonoscopy normal. Advised to continue iron supplementation and PPI for 8 weeks."
+    },
+    {
+      "memory_id": "X0134-m14",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anaemia\n  - Status: Hb normal, ferritin adequate.\n  - Plan: Stop ferrous sulfate; monitor for recurrence; advise maintenance diet.\n- Weight: 76.8 kg\n- Waist circumference: 89 cm (below cutoff).\n- Diet advice: Breakfast – fruit and yogurt; Lunch – balanced meal with pulses; Dinner – light, avoid late-night snacking."
+    },
+    {
+      "memory_id": "X0134-m15",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Stop ferrous sulfate"
+    },
+    {
+      "memory_id": "X0134-m16",
+      "date": "2026-07-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG: Normal sinus rhythm, no ST‑T changes, rate 78 bpm."
+    },
+    {
+      "memory_id": "X0134-m17",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anaemia\n  - Status: In remission, Hb stable.\n  - Plan: No medication needed; repeat Hb in 6 months; continue diet advice.\n- Weight: 76.5 kg\n- Waist circumference: 88 cm.\n- Diet advice: Breakfast – whole‑grain toast with avocado; Lunch – mixed vegetable curry with brown rice; Dinner – soup and salad."
+    }
+  ]
+}

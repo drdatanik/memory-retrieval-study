@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0081",
+  "name": "Ranjit Sethi",
+  "age": 31,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Psoriasis",
+    "Vitamin B12 deficiency",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0081-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: psoriasis flare and hypertension review.\nPRESENTING COMPLAINT: The patient reports increased erythema and scaling on elbows and knees over the past 3 weeks, associated mild itching. He also notes occasional headaches and fatigue. He denies chest pain or palpitations.\nEXAMINATION: BP 138/86 mmHg, pulse 78/min, weight 78 kg, height 1.70 m, BMI 27.0 (obese). Skin shows well-demarcated red plaques with silvery scale on extensor surfaces, approx 5% body surface area. No joint swelling. Cardiovascular and respiratory exams normal.\nIMPRESSION: 1) Chronic plaque psoriasis, moderate flare. 2) Stage 1 hypertension. 3) Vitamin B12 deficiency suspected from fatigue. 4) Obesity (BMI >25).\nARRANGEMENTS: Continue clobetasol 0.05% cream BD topically to affected areas; start calcipotriol ointment OD; methotrexate 7.5 mg PO once weekly with folic acid 5 mg OD; methylcobalamin 1500 mcg OD; amlodipine 5 mg OD; telmisartan 40 mg OD; losartan 50 mg OD; hydrochlorothiazide 12.5 mg OD. Advise low‑salt diet, weight reduction aiming for 5‑10% loss, and regular aerobic activity. Return if: worsening skin lesions, joint pain, swelling, fever >39°C, chest pain, breathlessness, or dark urine."
+    },
+    {
+      "memory_id": "X0081-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "clobetasol 0.05% cream – apply BD to psoriasis plaques\ncalcipotriol ointment – apply OD to psoriasis plaques\nmethotrexate – 7.5 mg PO once weekly\nfolic acid – 5 mg PO daily\nmethylcobalamin – 1500 mcg PO daily\namlodipine – 5 mg PO daily\ntelmisartan – 40 mg PO daily\nlosartan – 50 mg PO daily\nhydrochlorothiazide – 12.5 mg PO daily"
+    },
+    {
+      "memory_id": "X0081-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum ALT 28 U/L (7‑35), AST 24 U/L (8‑33), ALKP 78 U/L (40‑129), GGT 32 U/L (0‑51). Total bilirubin 0.9 mg/dL (0.2‑1.2). Hemoglobin 13.2 g/dL (13‑17), WBC 6.8 x10^9/L (4‑10), platelets 210 x10^9/L (150‑400). Serum creatinine 0.9 mg/dL (0.6‑1.2), eGFR 88 mL/min/1.73m2 (>60). Serum vitamin B12 180 pg/mL (200‑900) – low. MCV 92 fL (80‑100)."
+    },
+    {
+      "memory_id": "X0081-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of psoriasis, hypertension and B12 deficiency.\nPRESENTING COMPLAINT: Patient reports less itching and thinner plaques; no new lesions. Denies joint pain. Notes improved energy after B12 shots. Blood pressure feels okay.\nEXAMINATION: BP 132/80 mmHg, weight 77 kg, BMI 26.6 (obese). Psoriasis plaques now faint pink with minimal scale, estimated 2% BSA. No synovitis. Lungs clear, heart regular.\nIMPRESSION: Psoriasis improving on current regimen. Hypertension at goal. Vitamin B12 deficiency correcting with supplementation. Obesity persists.\nARRANGEMENTS: Increase methotrexate to 10 mg PO once weekly (monitor LFT). Continue folic acid 5 mg OD, methylcobalamin 1500 mcg OD. Keep amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD. Reinforce diet and activity advice. Return if: skin worsening, joint swelling, mouth ulcers, unexplained bruising, fever >38.5°C, or BP >160/100."
+    },
+    {
+      "memory_id": "X0081-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "clobetasol 0.05% cream – BD topical\ncalcipotriol ointment – OD topical\nmethotrexate – 10 mg PO once weekly\nfolic acid – 5 mg PO daily\nmethylcobalamin – 1500 mcg PO daily\namlodipine – 5 mg PO daily\ntelmisartan – 40 mg PO daily\nlosartan – 50 mg PO daily\nhydrochlorothiazide – 12.5 mg PO daily"
+    },
+    {
+      "memory_id": "X0081-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 30 U/L, AST 26 U/L, ALKP 80 U/L, GGT 35 U/L. Creatinine 0.9 mg/dL, eGFR 86 mL/min/1.73m2. Vitamin B12 340 pg/mL (normal). Hemoglobin 13.8 g/dL, WBC 7.0 x10^9/L, platelets 215 x10^9/L."
+    },
+    {
+      "memory_id": "X0081-m07",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of psoriasis control, hypertension and medication tolerance.\nPRESENTING COMPLAINT: Patient states plaques are almost clear, only occasional mild itching. No joint complaints. Reports occasional mild ankle swelling after long standing.\nEXAMINATION: BP 128/78 mmHg, weight 76 kg, BMI 26.3 (obese). Skin: faint residual pink patches, <1% BSA, no active scaling. Mild pitting edema noted bilaterally around ankles, non‑tender.\nIMPRESSION: Psoriasis essentially cleared. Hypertension well‑controlled. Mild dependent edema likely venous; consider compression. Obesity ongoing.\nARRANGEMENTS: Stop telmisartan due to possible contribution to edema; keep amlodipine 5 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD. Continue methotrexate 10 mg weekly, folic acid 5 mg OD, methylcobalamin 1500 mcg OD. Continue clobetasol BD and calcipotriol OD as needed for any flare. Advise leg elevation, compression stockings, and maintain weight‑loss plan. Return if: increasing edema, dyspnea, chest pain, skin flare, joint pain, or BP >150/95."
+    },
+    {
+      "memory_id": "X0081-m08",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "clobetasol 0.05% cream – BD topical\ncalcipotriol ointment – OD topical\nmethotrexate – 10 mg PO once weekly\nfolic acid – 5 mg PO daily\nmethylcobalamin – 1500 mcg PO daily\namlodipine – 5 mg PO daily\nlosartan – 50 mg PO daily\nhydrochlorothiazide – 12.5 mg PO daily"
+    },
+    {
+      "memory_id": "X0081-m09",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 32 U/L, AST 27 U/L, ALKP 82 U/L, GGT 38 U/L. Creatinine 0.9 mg/dL, eGFR 84 mL/min/1.73m2. Vitamin B12 420 pg/mL. Lipids: total cholesterol 185 mg/dL (<200), LDL 110 mg/dL (<130), HDL 45 mg/dL (>40), triglycerides 130 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0081-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: mild joint discomfort and review of methotrexate tolerance.\nPRESENTING COMPLAINT: Patient reports intermittent aching in wrists and knees over past 2 weeks, worse in mornings, lasting <30 min. No swelling or redness. Psoriasis remains mild. Fatigue unchanged.\nEXAMINATION: BP 130/80 mmHg, weight 75 kg, BMI 25.9 (obese). No joint effusion or warmth. Skin shows faint residual patches, <1% BSA.\nIMPRESSION: Possible mild methotrexate‑related arthralgia; psoriasis controlled; hypertension stable.\nARRANGEMENTS: Reduce methotrexate to 7.5 mg PO once weekly. Continue folic acid 5 mg OD, methylcobalamin 1500 mcg OD. Keep amlodipine 5 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD. Continue topical steroids as needed. Advise joint protection, gentle stretching, and monitor for liver toxicity. Return if: joint swelling, fever, rash, mouth ulcers, unexplained bruising, or BP >150/95."
+    },
+    {
+      "memory_id": "X0081-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "clobetasol 0.05% cream – BD topical\ncalcipotriol ointment – OD topical\nmethotrexate – 7.5 mg PO once weekly\nfolic acid – 5 mg PO daily\nmethylcobalamin – 1500 mcg PO daily\namlodipine – 5 mg PO daily\nlosartan – 50 mg PO daily\nhydrochlorothiazide – 12.5 mg PO daily"
+    },
+    {
+      "memory_id": "X0081-m12",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 38 U/L (slight rise), AST 34 U/L, ALKP 85 U/L, GGT 40 U/L. Creatinine 0.9 mg/dL, eGFR 82 mL/min/1.73m2. Vitamin B12 460 pg/mL. Hemoglobin 13.6 g/dL, WBC 6.9 x10^9/L, platelets 212 x10^9/L."
+    },
+    {
+      "memory_id": "X0081-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: psoriasis flare after stressful period and weight check.\nPRESENTING COMPLAINT: Patient reports new red plaques on scalp and upper back, itchy, present for 10 days. Denies joint pain. Notes increased work stress as tailor.\nEXAMINATION: BP 134/82 mmHg, weight 74 kg, BMI 24.9 (overweight). Skin: erythematous plaques with silvery scale on scalp (approx 3% BSA) and upper back (2% BSA). No joint swelling.\nIMPRESSION: Psoriasis mild‑moderate flare likely stress‑related. Hypertension at target. Overweight per Asian cut‑off.\nARRANGEMENTS: Increase clobetasol to BD on scalp and back; increase calcipotriol to BD on same areas. Continue methotrexate 7.5 mg weekly, folic acid 5 mg OD, methylcobalamin 1500 mcg OD. Keep amlodipine 5 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD. Advise stress‑reduction techniques, continue weight‑loss goal, and use moisturizers. Return if: rapid spread, joint pain, fever >38.5°C, signs of infection, or BP >160/100."
+    },
+    {
+      "memory_id": "X0081-m14",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "clobetasol 0.05% cream – BD topical\ncalcipotriol ointment – BD topical\nmethotrexate – 7.5 mg PO once weekly\nfolic acid – 5 mg PO daily\nmethylcobalamin – 1500 mcg PO daily\namlodipine – 5 mg PO daily\nlosartan – 50 mg PO daily\nhydrochlorothiazide – 12.5 mg PO daily"
+    },
+    {
+      "memory_id": "X0081-m15",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 36 U/L, AST 33 U/L, ALKP 84 U/L, GGT 39 U/L. Creatinine 0.9 mg/dL, eGFR 83 mL/min/1.73m2. Vitamin B12 480 pg/mL. Hemoglobin 13.5 g/dL, WBC 7.0 x10^9/L, platelets 210 x10^9/L."
+    },
+    {
+      "memory_id": "X0081-m16",
+      "date": "2026-07-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling stiff in my fingers when I wake up, especially after cutting fabric for long hours. It eases after I move around a bit. I’m worried the methotrexate might be causing this. My skin looks okay, just the usual patches. I’d like to know if we can check my liver again and maybe adjust the dose if needed."
+    },
+    {
+      "memory_id": "X0081-m17",
+      "date": "2026-07-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "ECG: sinus rhythm, rate 72 bpm. Normal axis. No ST‑segment changes, no Q waves. Voltage criteria for left ventricular hypertrophy not met. Overall a normal resting ECG."
+    },
+    {
+      "memory_id": "X0081-m18",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment moved from 2026-07-12 10:00 to 2026-07-08 09:30 per patient request via clinic app. Reason: earlier slot preferred for work schedule. Confirmation sent."
+    }
+  ]
+}

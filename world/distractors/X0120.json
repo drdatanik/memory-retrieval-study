@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0120",
+  "name": "Varsha Bhosale",
+  "age": 76,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0120-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all activities of daily living; manages vegetable stall with occasional shortness of breath on climbing stairs.\ncognition: Mini-Cog score 4/5 (negative).\nfalls: No falls in the past 12 months; gait steady; timed up-and-go 10 seconds (normal).\nmedicines: 0 regular.\nmood: Reports feeling well, denies sadness or anxiety.\ncarers: Main carer Priya, daughter.\ngoals: \"I want to stay healthy enough to continue selling vegetables at the market.\""
+    },
+    {
+      "memory_id": "X0120-m02",
+      "date": "2025-04-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.1 mg/dL (eGFR 62 mL/min/1.73m2). Reference: creatinine 0.6-1.1, eGFR >60.\nSerum potassium 4.3 mmol/L (ref 3.5-5.0)."
+    },
+    {
+      "memory_id": "X0120-m03",
+      "date": "2025-04-17",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0120-m04",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages stall independently; occasional dyspnea on exertion improved after meds.\ncognition: Mini-Cog score 3/5 (negative).\nfalls: No falls in last 12 months; gait slightly slow; timed up-and-go 11 seconds (borderline).\nmedicines: 4 regular.\nmood: Mood stable, denies depressive symptoms.\ncarers: Main carer Priya, daughter.\ngoals: \"I want to keep my blood pressure under control so I can work without getting tired.\""
+    },
+    {
+      "memory_id": "X0120-m05",
+      "date": "2025-08-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.0 mg/dL (eGFR 66 mL/min/1.73m2).\nSerum potassium 4.2 mmol/L."
+    },
+    {
+      "memory_id": "X0120-m06",
+      "date": "2025-08-03",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD\n(continue same regimen)"
+    },
+    {
+      "memory_id": "X0120-m07",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Able to stand for 2‑3 hours at stall; reports mild knee discomfort.\ncognition: Mini-Cog score 4/5 (negative).\nfalls: One fall at home 3 months ago (tripped over rug); no injury; gait cautious; timed up-and-go 13 seconds (raised fall risk) – advise strength exercises and supportive footwear.\nmedicines: 4 regular.\nmood: Reports occasional worry about falling; otherwise good.\ncarers: Main carer Priya, daughter.\ngoals: \"I want to avoid another fall and stay steady on my feet.\""
+    },
+    {
+      "memory_id": "X0120-m08",
+      "date": "2025-12-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.2 mg/dL (eGFR 58 mL/min/1.73m2).\nSerum potassium 4.4 mmol/L."
+    },
+    {
+      "memory_id": "X0120-m09",
+      "date": "2025-12-03",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD\n(continue; monitor renal function)"
+    },
+    {
+      "memory_id": "X0120-m10",
+      "date": "2026-04-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; stall work tolerated well; no new symptoms.\ncognition: Mini-Cog score 2/5 (positive) – plan for detailed cognitive assessment.\nfalls: No falls in last 12 months; gait normal; timed up-and-go 10 seconds (normal).\nmedicines: 4 regular.\nmood: Reports low mood occasionally; denies anhedonia.\ncarers: Main carer Priya, daughter.\ngoals: \"I wish to remain mentally sharp to help my family with the business.\""
+    },
+    {
+      "memory_id": "X0120-m11",
+      "date": "2026-04-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.1 mg/dL (eGFR 62 mL/min/1.73m2).\nSerum potassium 4.3 mmol/L."
+    },
+    {
+      "memory_id": "X0120-m12",
+      "date": "2026-04-03",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD\n(continue)"
+    },
+    {
+      "memory_id": "X0120-m13",
+      "date": "2026-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-07-10 at 10:00 am with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0120-m14",
+      "date": "2026-07-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages vegetable stall; occasional calf cramping after long standing.\ncognition: Mini-Cog score 3/5 (negative).\nfalls: No falls in last 12 months; gait steady; timed up-and-go 10 seconds (normal).\nmedicines: 4 regular.\nmood: Mood stable, reports good sleep.\ncarers: Main carer Priya, daughter.\ngoals: \"I want to keep working without leg pain.\""
+    },
+    {
+      "memory_id": "X0120-m15",
+      "date": "2026-07-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.0 mg/dL (eGFR 66 mL/min/1.73m2).\nSerum potassium 4.2 mmol/L."
+    },
+    {
+      "memory_id": "X0120-m16",
+      "date": "2026-07-03",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD\n(continue)"
+    },
+    {
+      "memory_id": "X0120-m17",
+      "date": "2026-09-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; reports occasional dizziness on standing, improved with hydration.\ncognition: Mini-Cog score 4/5 (negative).\nfalls: No falls in last 12 months; gait normal; timed up-and-go 9 seconds (normal).\nmedicines: 4 regular.\nmood: Reports feeling cheerful.\ncarers: Main carer Priya, daughter.\ngoals: \"I want to stay fit enough to travel to my daughter’s wedding next year.\""
+    },
+    {
+      "memory_id": "X0120-m18",
+      "date": "2026-09-02",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Resting ECG: sinus rhythm, rate 78 bpm. No ST‑T changes, left ventricular voltage within normal limits. No evidence of ischemia or arrhythmia."
+    }
+  ]
+}

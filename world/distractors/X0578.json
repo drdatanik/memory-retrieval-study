@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0578",
+  "name": "Usha Kapoor",
+  "age": 26,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Generalised anxiety disorder",
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0578-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  - Status: New diagnosis, GAD-7 score 12 (moderate), reports nervousness, sleep disturbance.\n  - Plan: Start escitalopram 5 mg OD, buspirone 5 mg BD; advise sleep hygiene, limit caffeine; GAD-7 review in 4 weeks.\n- Dyslipidaemia\n  - Status: LDL 160 mg/dL, HDL 38 mg/dL, TG 210 mg/dL; overweight.\n  - Plan: Atorvastatin 10 mg HS, rosuvastatin 10 mg OD, fenofibrate 145 mg OD; lifestyle modification; repeat lipid panel in 3 months.\n- General\n  - Weight 68 kg, waist 84 cm (female cutoff 80 cm, slightly increased).\n  - Due: HbA1c 2025-07-02 (routine)."
+    },
+    {
+      "memory_id": "X0578-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "escitalopram 5 mg OD\nbuspirone 5 mg BD\natorvastatin 10 mg HS\nrosuvastatin 10 mg OD\nfenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0578-m03",
+      "date": "2025-04-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 160 mg/dL (ref <100), HDL 38 mg/dL (ref >40), TG 210 mg/dL (ref <150).\nLiver function: ALT 22 U/L (ref 7-35), AST 20 U/L (ref 10-40), ALKP 68 U/L (ref 30-120), GGT 18 U/L (ref 0-51).\nCreatine kinase: 95 U/L (ref 30-200).\nTSH: 2.1 mIU/L (ref 0.4-4.0).\nHemoglobin: 12.8 g/dL (ref 12-16).\nGAD-7 score: 12 (0-4 minimal, 5-9 mild, 10-14 moderate, 15-21 severe)."
+    },
+    {
+      "memory_id": "X0578-m04",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  - Status: Improved, GAD-7 8 (mild), occasional worry, sleep better.\n  - Plan: Increase escitalopram to 10 mg OD, continue buspirone 5 mg BD; reinforce relaxation techniques; repeat GAD-7 in 6 weeks.\n- Dyslipidaemia\n  - Status: LDL 130 mg/dL, HDL 42 mg/dL, TG 170 mg/dL; modest improvement.\n  - Plan: Continue current statins; add omega-3 supplement; repeat lipid panel in 3 months.\n- General\n  - Weight 66 kg, waist 82 cm (still above cutoff).\n  - Due: HbA1c 2025-10-05."
+    },
+    {
+      "memory_id": "X0578-m05",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "escitalopram 10 mg OD\nbuspirone 5 mg BD\natorvastatin 10 mg HS\nrosuvastatin 10 mg OD\nfenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0578-m06",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 130 mg/dL (ref <100), HDL 42 mg/dL (ref >40), TG 170 mg/dL (ref <150).\nTSH: 1.9 mIU/L (ref 0.4-4.0).\nHemoglobin: 13.0 g/dL (ref 12-16).\nGAD-7 score: 8."
+    },
+    {
+      "memory_id": "X0578-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  - Status: Stable, GAD-7 6 (mild), reports occasional anxiety, good adherence.\n  - Plan: Maintain escitalopram 10 mg OD, trial buspirone taper to 2.5 mg BD; monitor for withdrawal.\n- Dyslipidaemia\n  - Status: LDL 115 mg/dL, HDL 45 mg/dL, TG 150 mg/dL; approaching goal.\n  - Plan: Discontinue fenofibrate (TG near target), continue rosuvastatin 10 mg OD, stop atorvastatin (duplicate therapy); repeat lipid panel in 3 months.\n- General\n  - Weight 65 kg, waist 80 cm (at cutoff).\n  - Due: HbA1c 2026-01-10."
+    },
+    {
+      "memory_id": "X0578-m08",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "escitalopram 10 mg OD\nbuspirone 2.5 mg BD\nrosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0578-m09",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function: ALT 24 U/L (ref 7-35), AST 21 U/L (ref 10-40), ALKP 70 U/L (ref 30-120), GGT 20 U/L (ref 0-51).\nCreatine kinase: 88 U/L (ref 30-200)."
+    },
+    {
+      "memory_id": "X0578-m10",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-20 at 10:30 AM with Dr Karthik Hegde (D04) for routine follow-up."
+    },
+    {
+      "memory_id": "X0578-m11",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  - Status: Well controlled, GAD-7 4 (minimal), buspirone discontinued today, reports calm.\n  - Plan: Continue escitalopram 10 mg OD; consider taper after 3 months if stable; GAD-7 in 8 weeks.\n- Dyslipidaemia\n  - Status: LDL 100 mg/dL, HDL 48 mg/dL, TG 130 mg/dL; goals met.\n  - Plan: Continue rosuvastatin 10 mg OD; repeat lipid panel and LFT in 4 months.\n- General\n  - Weight 64 kg, waist 78 cm (below cutoff).\n  - Due: HbA1c 2026-04-20."
+    },
+    {
+      "memory_id": "X0578-m12",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "escitalopram 10 mg OD\nrosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0578-m13",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 100 mg/dL (ref <100), HDL 48 mg/dL (ref >40), TG 130 mg/dL (ref <150).\nLiver function: ALT 23 U/L (ref 7-35), AST 20 U/L (ref 10-40)."
+    },
+    {
+      "memory_id": "X0578-m14",
+      "date": "2026-04-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  - Status: Stable, GAD-7 5 (mild), escitalopram well tolerated, no side effects.\n  - Plan: Continue escitalopram 10 mg OD; plan to taper to 5 mg OD after 3 months if remains mild; GAD-7 in 8 weeks.\n- Dyslipidaemia\n  - Status: LDL 98 mg/dL, HDL 50 mg/dL, TG 125 mg/dL; excellent.\n  - Plan: Continue rosuvastatin 10 mg OD; repeat lipid panel in 6 months; LFT annual.\n- General\n  - Weight 63 kg, waist 76 cm.\n  - Due: HbA1c 2026-07-30."
+    },
+    {
+      "memory_id": "X0578-m15",
+      "date": "2026-04-30",
+      "type": "prescription",
+      "author": "D04",
+      "text": "escitalopram 10 mg OD\nrosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0578-m16",
+      "date": "2026-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 95 mg/dL (ref <100), HDL 52 mg/dL (ref >40), TG 120 mg/dL (ref <150).\nTSH: 2.0 mIU/L (ref 0.4-4.0).\nHemoglobin: 13.2 g/dL (ref 12-16)."
+    }
+  ]
+}

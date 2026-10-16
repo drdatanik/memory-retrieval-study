@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0382",
+  "name": "Deepak Bhatia",
+  "age": 70,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0382-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia\n  - Status: New diagnosis, LDL 160 mg/dL, HDL 38 mg/dL, triglycerides 210 mg/dL (awaiting lab). Weight 68 kg, waist 92 cm (>90 cm cut‑off for men).\n  - Plan: Initiate atorvastatin 10 mg at bedtime; advise reduced saturated fat, increase fiber; diet advice – Breakfast: whole‑grain toast with egg white; Lunch: mixed vegetable salad with lean chapati; Dinner: grilled fish with steamed vegetables; Snack: fruit or nuts.\nDue: HbA1c 2025-07-05"
+    },
+    {
+      "memory_id": "X0382-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 160 mg/dL (optimal <100), HDL 38 mg/dL (>40 low), triglycerides 210 mg/dL (<150 normal). Liver function: ALT 22 U/L (7‑56), AST 20 U/L (10‑40), ALKP 68 U/L (30‑120). Creatine kinase 78 U/L (30‑200)."
+    },
+    {
+      "memory_id": "X0382-m03",
+      "date": "2025-04-08",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Atorvastatin 10 mg HS"
+    },
+    {
+      "memory_id": "X0382-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia\n  - Status: On atorvastatin 10 mg HS for 3 months. Weight 69 kg, waist 91 cm. Lipids improved: LDL 110 mg/dL, HDL 42 mg/dL, triglycerides 190 mg/dL (still high). No muscle symptoms.\n  - Plan: Add fenofibrate 145 mg OD to target triglycerides; reinforce diet – Breakfast: oats with skim milk; Lunch: dal, vegetable curry, brown rice; Dinner: chicken stir‑fried with broccoli; Snack: yogurt.\nDue: HbA1c 2025-10-10"
+    },
+    {
+      "memory_id": "X0382-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 110 mg/dL, HDL 42 mg/dL, triglycerides 190 mg/dL. Liver function: ALT 24 U/L, AST 21 U/L, ALKP 70 U/L. Creatine kinase 82 U/L."
+    },
+    {
+      "memory_id": "X0382-m06",
+      "date": "2025-07-13",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Atorvastatin 10 mg HS\nFenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0382-m07",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-15 09:00 with Dr Karthik Hegde."
+    },
+    {
+      "memory_id": "X0382-m08",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia\n  - Status: On atorvastatin 10 mg HS + fenofibrate 145 mg OD. Weight 70 kg, waist 93 cm (>90). Lipids: LDL 95 mg/dL, HDL 45 mg/dL, triglycerides 175 mg/dL. ALT slightly up to 38 U/L; CK normal.\n  - Plan: Switch atorvastatin to rosuvastatin 10 mg OD for better LDL control; continue fenofibrate; diet – Breakfast: idli with sambar; Lunch: vegetable khichdi; Dinner: paneer tikka with salad; Snack: buttermilk.\nDue: HbA1c 2026-01-15"
+    },
+    {
+      "memory_id": "X0382-m09",
+      "date": "2025-10-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 95 mg/dL, HDL 45 mg/dL, triglycerides 175 mg/dL. Liver function: ALT 38 U/L (7‑56), AST 22 U/L, ALKP 72 U/L. Creatine kinase 80 U/L."
+    },
+    {
+      "memory_id": "X0382-m10",
+      "date": "2025-10-18",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0382-m11",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia\n  - Status: On rosuvastatin 10 mg OD + fenofibrate 145 mg OD. Weight 70 kg, waist 92 cm. Lipids: LDL 88 mg/dL, HDL 48 mg/dL, triglycerides 150 mg/dL. Liver normal, CK normal.\n  - Plan: Continue current regimen; reinforce low‑salt, low‑sugar diet – Breakfast: wheat dosa with chutney; Lunch: mixed veg pulao with raita; Dinner: grilled salmon with asparagus; Snack: apple.\nDue: HbA1c 2026-04-20"
+    },
+    {
+      "memory_id": "X0382-m12",
+      "date": "2026-01-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 88 mg/dL, HDL 48 mg/dL, triglycerides 150 mg/dL. Liver function: ALT 20 U/L, AST 19 U/L, ALKP 65 U/L. Creatine kinase 76 U/L."
+    },
+    {
+      "memory_id": "X0382-m13",
+      "date": "2026-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been noticing mild aches in my thighs and calves since starting fenofibrate a few months ago. It worsens after walking. Could this be a side effect?"
+    },
+    {
+      "memory_id": "X0382-m14",
+      "date": "2026-04-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia\n  - Status: On rosuvastatin 10 mg OD + fenofibrate 145 mg OD. Patient reports thigh/calf aches, CK 210 U/L (elevated). Weight 70 kg, waist 92 cm.\n  - Plan: Stop fenofibrate due to possible myopathy; continue rosuvastatin; monitor CK in 4 weeks; advise hydration and gentle stretching.\nDue: HbA1c 2026-07-12"
+    },
+    {
+      "memory_id": "X0382-m15",
+      "date": "2026-04-14",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate stopped"
+    }
+  ]
+}

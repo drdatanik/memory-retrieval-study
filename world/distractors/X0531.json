@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0531",
+  "name": "Shaheen Baig",
+  "age": 28,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Generalised anxiety disorder",
+    "Allergic rhinitis",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0531-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder with allergic rhinitis and stage 1 hypertension.\nShe reports persistent worry, restlessness, mild dyspnea on exertion, nasal congestion and itchy eyes. BP 138/86, pulse 78, BMI 24. Spirometry: FEV1 2.85 L (92% pred), FVC 3.40 L, FEV1/FVC 0.84; unchanged from baseline. ACT score 18 (not well controlled). Technique checked: correct (no inhaler prescribed)."
+    },
+    {
+      "memory_id": "X0531-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 5 mg OD\nBuspirone 5 mg BD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nAmlodipine 5 mg OD\nTelmisartan 40 mg OD"
+    },
+    {
+      "memory_id": "X0531-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "GAD-7 score: 12\nTSH: 2.1 mIU/L (0.4-4.0)\nHaemoglobin: 12.8 g/dL (12.0-15.5)\nSkin prick test: positive to dust mite and grass pollen\nTotal serum IgE: 210 IU/ml (0-100)\nSerum creatinine: 0.78 mg/dL (0.57-1.00)\neGFR: 96 mL/min/1.73m2 (>60)\nSerum potassium: 4.2 mmol/L (3.5-5.0)\nECG: sinus rhythm, rate 72, no ST-T changes"
+    },
+    {
+      "memory_id": "X0531-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Resting 12-lead ECG: Normal sinus rhythm, axis +30°, QRS duration 86 ms, QT 380 ms corrected 410 ms. No evidence of left ventricular hypertrophy or ischemia. Blood pressure during recording 138/86 mmHg."
+    },
+    {
+      "memory_id": "X0531-m05",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Allergy to penicillin: rash and pruritus within 30 minutes of oral amoxicillin course two years ago."
+    },
+    {
+      "memory_id": "X0531-m06",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling on edge most days, worrying about work and health. My nose is constantly blocked and I sneeze in the mornings. I’m taking the medicines as prescribed but still feel tense."
+    },
+    {
+      "memory_id": "X0531-m07",
+      "date": "2025-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up pulmonology appointment booked for 2025-07-15 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0531-m08",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder partially controlled; allergic rhinitis symptomatic; hypertension stage 1.\nShe notes improved sleep but still daytime worry, nasal congestion worse on pollen days, occasional headaches. BP 132/84, pulse 76. Spirometry: FEV1 2.88 L (93% pred), FVC 3.42 L, FEV1/FVC 0.84; ΔFEV1 +0.03 L. ACT score 20 (well controlled). Technique checked: correct."
+    },
+    {
+      "memory_id": "X0531-m09",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 10 mg OD\nBuspirone 5 mg BD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nAmlodipine 5 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0531-m10",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "GAD-7 score: 9\nTSH: 2.0 mIU/L\nHaemoglobin: 13.0 g/dL\nSkin prick test: unchanged\nTotal serum IgE: 190 IU/ml\nSerum creatinine: 0.80 mg/dL\neGFR: 94 mL/min/1.73m2\nSerum potassium: 4.3 mmol/L"
+    },
+    {
+      "memory_id": "X0531-m11",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Office spirometry performed: FEV1 2.88 L, FVC 3.42 L, FEV1/FVC ratio 0.84. No bronchodilator response (<12% change)."
+    },
+    {
+      "memory_id": "X0531-m12",
+      "date": "2025-10-01",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Psychiatry for optimisation of anxiety management; consider CBT and possible medication review. Include recent GAD-7 scores and current treatment."
+    },
+    {
+      "memory_id": "X0531-m13",
+      "date": "2025-12-01",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Psychiatry review completed: Patient engaged in CBT, escitalopram increased to 15 mg OD effective 2025-12-02, buspirone continued. Advised to continue current allergy and hypertension meds. Follow‑up in 8 weeks."
+    },
+    {
+      "memory_id": "X0531-m14",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder well controlled; allergic rhinitis mild; hypertension at target.\nShe reports minimal worry, good sleep, occasional nasal itch. BP 124/78, pulse 72. Spirometry: FEV1 2.90 L (94% pred), FVC 3.44 L, FEV1/FVC 0.85; ΔFEV1 +0.02 L since last visit. ACT score 22 (well controlled). Technique checked: correct."
+    },
+    {
+      "memory_id": "X0531-m15",
+      "date": "2026-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Routine pulmonology review booked for 2026-10-10 at 09:00 AM with Dr Suresh Menon (D05)."
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0367",
+  "name": "Harjit Bains",
+  "age": 33,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Dyslipidaemia",
+    "Hypothyroidism",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0367-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Dyslipidaemia, hypothyroidism, allergic rhinitis. Patient reports fatigue, mild weight gain, and occasional nasal congestion. On examination, BMI 27 kg/m2, thyroid not enlarged, nasal mucosa pale and edematous. Smoking status: never. Lipid profile and thyroid function pending."
+    },
+    {
+      "memory_id": "X0367-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "atorvastatin 10 mg HS\nlevothyroxine 50 mcg OD\ncetirizine 10 mg HS\nfluticasone nasal spray, one spray each nostril OD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0367-m03",
+      "date": "2025-04-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 162 mg/dL (opt <100), HDL 38 mg/dL (>40), triglycerides 210 mg/dL (<150). Liver function: ALT 28 U/L (7-56), AST 24 U/L (10-40), ALKP 78 U/L (40-129), GGT 32 U/L (9-64). Creatine kinase 112 U/L (30-200). TSH 5.8 mIU/L (0.4-4.0). Free T4 11.2 pmol/L (12-22)."
+    },
+    {
+      "memory_id": "X0367-m04",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Allergy to house dust mite: perennial sneezing, nasal itching, watery eyes on exposure; confirmed by skin prick test wheal 8 mm."
+    },
+    {
+      "memory_id": "X0367-m05",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable dyslipidaemia on statin, subclinical hypothyroidism, allergic rhinitis controlled. Patient notes improved energy, occasional daytime sleepiness, nasal congestion worse in mornings. Exam: BMI 26.8, thyroid non-tender, nasal mucosa mildly erythematous. Smoking status: never."
+    },
+    {
+      "memory_id": "X0367-m06",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "rosuvastatin 10 mg OD\nlevothyroxine 75 mcg OD\ncetirizine 10 mg HS\nfluticasone nasal spray, one spray each nostril OD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0367-m07",
+      "date": "2025-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 118 mg/dL, HDL 40 mg/dL, triglycerides 165 mg/dL. Liver function: ALT 22, AST 20, ALKP 75, GGT 30. TSH 3.9 mIU/L, Free T4 13.5 pmol/L."
+    },
+    {
+      "memory_id": "X0367-m08",
+      "date": "2025-09-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "ECG: sinus rhythm 78 bpm, no ST‑T changes, no Q waves. Normal study."
+    },
+    {
+      "memory_id": "X0367-m09",
+      "date": "2025-10-10",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to cardiology for further lipid‑lowering strategy and cardiovascular risk assessment."
+    },
+    {
+      "memory_id": "X0367-m10",
+      "date": "2025-11-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Cardiology review: LDL remains elevated, recommend adding fenofibrate. No cardiac ischemia detected. Advise lifestyle optimisation."
+    },
+    {
+      "memory_id": "X0367-m11",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Persistent hypertriglyceridaemia, euthyroid on levothyroxine, allergic rhinitis well controlled. Patient reports mild myalgia after statin, good nasal symptom control. Exam: BMI 26.5, no muscle tenderness, nasal mucosa pink. Smoking status: never."
+    },
+    {
+      "memory_id": "X0367-m12",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "rosuvastatin 10 mg OD\nfenofibrate 145 mg OD\nlevothyroxine 100 mcg OD\ncetirizine 10 mg HS\nfluticasone nasal spray, one spray each nostril OD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0367-m13",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 95 mg/dL, HDL 42 mg/dL, triglycerides 138 mg/dL. Liver function: ALT 24, AST 22, ALKP 78, GGT 31. Creatine kinase 158 U/L. TSH 2.1 mIU/L, Free T4 14.8 pmol/L."
+    },
+    {
+      "memory_id": "X0367-m14",
+      "date": "2026-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via app: ‘My nose feels blocked again in the evenings and I sneeze when I clean the house. Should I increase the nasal spray?’"
+    },
+    {
+      "memory_id": "X0367-m15",
+      "date": "2026-04-06",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-07-20 09:30 with Dr Suresh Menon for routine review."
+    },
+    {
+      "memory_id": "X0367-m16",
+      "date": "2026-07-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Allergic rhinitis mild intermittent, lipid profile at target, thyroid euthyroid. Patient denies nasal symptoms, uses fluticasone PRN. Exam: BMI 26.2, nasal mucosa normal. Smoking status: never."
+    },
+    {
+      "memory_id": "X0367-m17",
+      "date": "2026-07-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "rosuvastatin 10 mg OD\nfenofibrate 145 mg OD\nlevothyroxine 100 mcg OD\ncetirizine 10 mg HS PRN\nfluticasone nasal spray, one spray each nostril OD PRN\nmontelukast 10 mg HS"
+    }
+  ]
+}

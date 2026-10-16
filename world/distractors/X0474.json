@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0474",
+  "name": "Sumathi Gowda",
+  "age": 56,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0474-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: First presentation, painful right first MTP joint swelling 2 days, serum uric acid pending.\n  - Plan: Order serum uric acid and creatinine, start allopurinol 100 mg OD after food, advise low‑purine diet, weight 68 kg, waist 88 cm (female cut‑off 80 cm).\n- Weight\n  - Status: 68 kg, waist 88 cm (>80 cm).\n  - Plan: Diet advice – Breakfast: idli with sambar, avoid sugary tea; Lunch: mixed vegetable roti with dal, limit red meat; Dinner: grilled fish with steamed vegetables, avoid fried snacks."
+    },
+    {
+      "memory_id": "X0474-m02",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 8.2 mg/dL (Reference 2.4‑6.0).\nSerum creatinine: 0.9 mg/dL (Reference 0.6‑1.1)."
+    },
+    {
+      "memory_id": "X0474-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Allopurinol 100 mg, 1-0-0, after food."
+    },
+    {
+      "memory_id": "X0474-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: No flare since starting allopurinol, uric acid down to 5.8 mg/dL, creatinine stable.\n  - Plan: Continue allopurinol 100 mg OD, recheck labs in 3 months, reinforce low‑purine diet, weight 67 kg, waist 86 cm (>80 cm).\n- Weight\n  - Status: 67 kg, waist 86 cm (>80 cm).\n  - Plan: Diet advice – Breakfast: oats with milk, no added sugar; Lunch: quinoa salad with chickpeas, limit shellfish; Dinner: chicken stir‑fry with broccoli, avoid organ meats."
+    },
+    {
+      "memory_id": "X0474-m05",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 5.8 mg/dL (Reference 2.4‑6.0).\nSerum creatinine: 0.9 mg/dL (Reference 0.6‑1.1)."
+    },
+    {
+      "memory_id": "X0474-m06",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Allopurinol 200 mg, 1-0-0, after food."
+    },
+    {
+      "memory_id": "X0474-m07",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have had mild pain in my left big toe for the past two days, worse after walking. I think it might be a gout flare. Can I get something for the pain?"
+    },
+    {
+      "memory_id": "X0474-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: Acute flare of left first MTP joint, erythema and swelling, serum uric acid 6.2 mg/dL (still within target).\n  - Plan: Add colchicine 0.5 mg BD for 5 days, continue allopurinol 200 mg OD, advise rest and ice, weight 66.5 kg, waist 85 cm (>80 cm).\n- Weight\n  - Status: 66.5 kg, waist 85 cm (>80 cm).\n  - Plan: Diet advice – Breakfast: vegetable upma, avoid sugary juice; Lunch: brown rice with lentils, limit anchovies; Dinner: paneer bhurji with capsicum, avoid gravy rich in purines."
+    },
+    {
+      "memory_id": "X0474-m09",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Colchicine 0.5 mg, 1-0-1, after food, for 5 days."
+    },
+    {
+      "memory_id": "X0474-m10",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-02-20 at 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0474-m11",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 5.4 mg/dL (Reference 2.4‑6.0).\nSerum creatinine: 0.9 mg/dL (Reference 0.6‑1.1)."
+    },
+    {
+      "memory_id": "X0474-m12",
+      "date": "2026-04-22",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: No flares in past 6 months, uric acid 5.4 mg/dL within target, creatinine stable.\n  - Plan: Continue allopurinol 200 mg OD, repeat labs in 3 months, maintain low‑purine diet, weight 66 kg, waist 84 cm (>80 cm).\n- Weight\n  - Status: 66 kg, waist 84 cm (>80 cm).\n  - Plan: Diet advice – Breakfast: millet porridge with nuts, avoid sweetened yogurt; Lunch: mixed vegetable khichdi, limit sardines; Dinner: grilled chicken with salad, avoid broth‑based soups."
+    }
+  ]
+}

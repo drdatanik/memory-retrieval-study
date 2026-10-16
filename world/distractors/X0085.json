@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0085",
+  "name": "Jaspreet Bajwa",
+  "age": 23,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0085-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Migraine prophylaxis review.\nPRESENTING COMPLAINT: 23‑year‑old female reports 4‑5 migraine days per month, throbbing frontal pain lasting 6‑8 hours, associated nausea, relieved partially by sumatriptan.\nEXAMINATION: BP 118/76 mmHg, weight 55 kg, height 1.58 m, BMI 22.0. Neurologic exam normal, no focal deficits.\nIMPRESSION: Episodic migraine, currently on acute sumatriptan only; prophylaxis indicated.\nARRANGEMENTS: Start propranolol 40 mg OD, continue sumatriptan 50 mg SOS, add topiramate 25 mg HS for prophylaxis, naproxen 500 mg SOS for breakthrough. Advise regular sleep, hydration, limit caffeine. Return if: new neurological symptoms, headache worsening despite medication, vomiting uncontrolled, or fever >39°C."
+    },
+    {
+      "memory_id": "X0085-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 40 mg tablet OD\nSumatriptan 50 mg tablet SOS\nTopiramate 25 mg tablet HS\nNaproxen 500 mg tablet SOS"
+    },
+    {
+      "memory_id": "X0085-m03",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve had more migraines lately, about 8 days this month. The topiramate makes me feel tingling in my fingers and I’m a bit sleepy in the morning. Propranolol seems okay but I still need sumatriptan often."
+    },
+    {
+      "memory_id": "X0085-m04",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Migraine follow‑up after side effects.\nPRESENTING COMPLAINT: Increased migraine frequency to 8 days/month, reports tingling and daytime sedation from topiramat.\nEXAMINATION: BP 120/78 mmHg, weight 57 kg, BMI 22.8. Neurologic exam unchanged.\nIMPRESSION: Topiramate intolerance; maintain propranolol, consider dose increase.\nARRANGEMENTS: Stop topiramate. Increase propranolol to 60 mg OD. Continue sumatriptan 50 mg SOS and naproxen 500 mg SOS. Advise migraine diary, regular aerobic activity. Return if: worsening headache, visual aura changes, chest pain, or fainting."
+    },
+    {
+      "memory_id": "X0085-m05",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 60 mg tablet OD\nSumatriptan 50 mg tablet SOS\nNaproxen 500 mg tablet SOS"
+    },
+    {
+      "memory_id": "X0085-m06",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "CT head performed to rule out structural cause. No acute hemorrhage, infarct, or mass lesion. Ventricular size and sulci normal. Report: Normal study."
+    },
+    {
+      "memory_id": "X0085-m07",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D 25‑OH: 18 ng/mL (reference 30‑100). Calcium 9.2 mg/dL (8.5‑10.5). Phosphate 3.4 mg/dL (2.5‑4.5). PTH 68 pg/mL (15‑65)."
+    },
+    {
+      "memory_id": "X0085-m08",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of vitamin D deficiency.\nPRESENTING COMPLAINT: Patient asymptomatic but lab shows low vitamin D.\nEXAMINATION: BP 119/77 mmHg, weight 59 kg, height 1.58 m, BMI 23.6 (overweight).\nIMPRESSION: Vitamin D insufficiency likely contributing to fatigue; migraine stable on propranolol 60 mg OD.\nARRANGEMENTS: Start cholecalciferol 1000 IU OD. Advise weight‑bearing exercise, balanced diet, sunlight exposure. Return if: bone pain, persistent fatigue, or new neurological symptoms."
+    },
+    {
+      "memory_id": "X0085-m09",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 1000 IU capsule OD"
+    },
+    {
+      "memory_id": "X0085-m10",
+      "date": "2025-11-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 15‑Nov‑2025 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0085-m11",
+      "date": "2025-11-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine migraine review.\nPRESENTING COMPLAINT: Patient reports 3‑4 migraine days/month, mild, responsive to sumatriptan.\nEXAMINATION: BP 118/75 mmHg, weight 60 kg, BMI 24.0 (overweight).\nIMPRESSION: Good prophylaxis response; continue current regimen.\nARRANGEMENTS: Continue propranolol 60 mg OD, sumatriptan 50 mg SOS, naproxen 500 mg SOS. Advise maintain healthy weight, regular exercise, limit processed foods. Return if: headache frequency >8 days/month, new neurologic signs, chest pain, or severe vomiting."
+    },
+    {
+      "memory_id": "X0085-m12",
+      "date": "2025-11-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 60 mg tablet OD\nSumatriptan 50 mg tablet SOS\nNaproxen 500 mg tablet SOS"
+    },
+    {
+      "memory_id": "X0085-m13",
+      "date": "2026-02-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "My migraines seem worse around my period, lasting longer and needing more sumatriptan. I’m also feeling a bit more tired lately."
+    },
+    {
+      "memory_id": "X0085-m14",
+      "date": "2026-03-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Menstrual‑related migraine exacerbation.\nPRESENTING COMPLAINT: Increased migraine severity premenstrually, 6‑8 days/month, associated fatigue.\nEXAMINATION: BP 122/78 mmHg, weight 62 kg, BMI 24.8 (overweight).\nIMPRESSION: Menstrual migraine component; prophylaxis adequate, consider lifestyle.\nARRANGEMENTS: Continue propranolol 60 mg OD, sumatriptan 50 mg SOS, naproxen 500 mg SOS. Advise regular aerobic activity, adequate hydration, consider magnesium supplement. Return if: worsening headache despite treatment, visual loss, speech difficulty, or fever >39°C."
+    },
+    {
+      "memory_id": "X0085-m15",
+      "date": "2026-03-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 60 mg tablet OD\nSumatriptan 50 mg tablet SOS\nNaproxen 500 mg tablet SOS\nMagnesium oxide 400 mg tablet OD"
+    },
+    {
+      "memory_id": "X0085-m16",
+      "date": "2026-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 88 mg/dL (70‑99). HbA1c 5.4% (4.0‑5.6). Total cholesterol 168 mg/dL (<200). HDL 52 mg/dL (>40). LDL 98 mg/dL (<130). Triglycerides 90 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0085-m17",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual migraine review.\nPRESENTING COMPLAINT: Stable migraine frequency 3‑4 days/month, well‑controlled.\nEXAMINATION: BP 120/76 mmHg, weight 63 kg, height 1.58 m, BMI 25.2 (obese).\nIMPRESSION: Migraine controlled on propranolol 60 mg OD; obesity noted.\nARRANGEMENTS: Continue propranolol 60 mg OD, sumatriptan 50 mg SOS, naproxen 500 mg SOS. Advise calorie‑controlled diet, increase physical activity to 150 min/week, weight reduction target 5‑7 kg. Return if: sudden severe headache, neurologic deficits, chest pain, shortness of breath, or vomiting uncontrolled."
+    }
+  ]
+}

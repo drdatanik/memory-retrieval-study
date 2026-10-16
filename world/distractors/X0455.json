@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0455",
+  "name": "Jaspreet Bajwa",
+  "age": 72,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Iron-deficiency anaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0455-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia.\nEvidence: fatigue, pallor, low hemoglobin 9.2 g/dL, ferritin 12 ng/mL, MCV 68 fL. Symptoms and examination: she reports tiredness on exertion, mild dyspnea walking short distances, appears pale conjunctiva, no lymphadenopathy, lungs clear. Smoking status: former smoker, 20 pack-years, quit 2005."
+    },
+    {
+      "memory_id": "X0455-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg tablet, oral, once daily for 12 weeks."
+    },
+    {
+      "memory_id": "X0455-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 10.1 g/dL (13.0-17.0). Serum ferritin 18 ng/mL (15-150). MCV 70 fL (80-100)."
+    },
+    {
+      "memory_id": "X0455-m04",
+      "date": "2025-06-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia improving.\nEvidence: haemoglobin 10.1 g/dL, ferritin 18 ng/mL, MCV 70 fL. Symptoms and examination: less fatigue, able to walk longer without dyspnoea, conjunctiva less pale. Smoking status: former smoker, 20 pack-years, quit 2005. Technique checked: not applicable."
+    },
+    {
+      "memory_id": "X0455-m05",
+      "date": "2025-06-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg tablet, oral, on alternate days for 12 weeks."
+    },
+    {
+      "memory_id": "X0455-m06",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.4 g/dL (13.0-17.0). Serum ferritin 28 ng/mL (15-150). MCV 73 fL (80-100)."
+    },
+    {
+      "memory_id": "X0455-m07",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia near correction.\nEvidence: haemoglobin 11.4 g/dL, ferritin 28 ng/mL, MCV 73 fL. Symptoms and examination: minimal fatigue, normal activity tolerance, conjunctiva pink. Smoking status: former smoker, 20 pack-years, quit 2005."
+    },
+    {
+      "memory_id": "X0455-m08",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate discontinued."
+    },
+    {
+      "memory_id": "X0455-m09",
+      "date": "2025-11-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.6 g/dL (13.0-17.0). Serum ferritin 11 ng/mL (15-150). MCV 67 fL (80-100)."
+    },
+    {
+      "memory_id": "X0455-m10",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia recurrent.\nEvidence: haemoglobin 9.6 g/dL, ferritin 11 ng/mL, MCV 67 fL. Symptoms and examination: renewed tiredness on exertion, mild dyspnoea climbing stairs, conjunctiva pale. Smoking status: former smoker, 20 pack-years, quit 2005."
+    },
+    {
+      "memory_id": "X0455-m11",
+      "date": "2025-12-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg tablet, oral, once daily for 12 weeks."
+    },
+    {
+      "memory_id": "X0455-m12",
+      "date": "2026-02-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.0 g/dL (13.0-17.0). Serum ferritin 22 ng/mL (15-150). MCV 71 fL (80-100)."
+    },
+    {
+      "memory_id": "X0455-m13",
+      "date": "2026-04-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia stable.\nEvidence: haemoglobin 11.0 g/dL, ferritin 22 ng/mL, MCV 71 fL. Symptoms and examination: mild fatigue only on heavy work, otherwise well, conjunctiva slightly pale. Smoking status: former smoker, 20 pack-years, quit 2005."
+    },
+    {
+      "memory_id": "X0455-m14",
+      "date": "2026-04-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg tablet, oral, once daily continued."
+    },
+    {
+      "memory_id": "X0455-m15",
+      "date": "2026-06-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.8 g/dL (13.0-17.0). Serum ferritin 35 ng/mL (15-150). MCV 78 fL (80-100)."
+    },
+    {
+      "memory_id": "X0455-m16",
+      "date": "2026-08-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia corrected.\nEvidence: haemoglobin 12.8 g/dL, ferritin 35 ng/mL, MCV 78 fL. Symptoms and examination: no fatigue, normal exercise tolerance, conjunctiva normal. Smoking status: former smoker, 20 pack-years, quit 2005. Technique checked: not applicable."
+    },
+    {
+      "memory_id": "X0455-m17",
+      "date": "2026-08-30",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg tablet, oral, on alternate days for 12 weeks."
+    },
+    {
+      "memory_id": "X0455-m18",
+      "date": "2026-09-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-10-15 at 09:00 with Dr Suresh Menon (D05)."
+    }
+  ]
+}

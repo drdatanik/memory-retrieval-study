@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0252",
+  "name": "Sudha Kotha",
+  "age": 31,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Psoriasis",
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0252-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild abdominal discomfort after meals, occasional loose stools; able to drive long distances without pain. cognition: Mini-Cog 5/5 (recall 3, clock draw normal). falls: no falls in last 12 months; gait steady; timed up-and-go 9 seconds (normal). medicines: 6 regular (mebeverine, ispaghula husk, loperamide SOS, clobetasol, calcipotriol, methotrexate with folic acid); polypharmacy – review against Beers criteria. mood: denies low mood or anxiety; reports occasional frustration with skin flares. carers: spouse (husband) – primary support. goals: \"I want to stay symptom‑free so I can keep working and care for my family.\""
+    },
+    {
+      "memory_id": "X0252-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "mebeverine 135 mg tablet BD\nispaghula husk 5 g sachet OD\nloperamide 2 mg tablet SOS\nclobetasol 0.05% cream apply BD to psoriasis plaques\ncalcipotriol ointment apply OD to psoriasis plaques\nmethotrexate 7.5 mg tablet once weekly\nfolic acid 5 mg tablet OD"
+    },
+    {
+      "memory_id": "X0252-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.2 g/dl (12-16), WBC 6.8 x10^9/l (4-10), Plt 210 x10^9/l (150-400).\nStool routine: ova & parasites nil, culture negative.\ntTG-IgA: <2 U/ml (<7 negative).\nLFT: ALT 22 U/ml (<35), AST 20 U/ml (<34), ALP 78 U/ml (30-120), GGT 30 U/ml (<51), Bilirubin 0.8 mg/dl (0.2-1.2).\nSerum creatinine: 0.78 mg/dl (0.5-0.9)."
+    },
+    {
+      "memory_id": "X0252-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: abdominal pain improved, occasional bloating; skin plaques less erythematous; mild low‑back ache after driving. cognition: Mini-Cog 5/5. falls: no falls; gait steady; timed up-and-go 9 seconds. medicines: 6 regular (same as before); polypharmacy – discuss methotrexate monitoring. mood: reports mild irritability linked to skin flares. carers: husband. goals: \"I’d like fewer bowel upsets and clearer skin to feel more confident at work.\""
+    },
+    {
+      "memory_id": "X0252-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "mebeverine 135 mg tablet BD\nispaghula husk 5 g sachet OD\nloperamide 2 mg tablet SOS\nclobetasol 0.05% cream apply BD\ncalcipotriol ointment apply OD\nmethotrexate 7.5 mg tablet once weekly\nfolic acid 5 mg tablet OD\npregabalin 75 mg capsule BD\n diclofenac 50 mg tablet BD after food\nmethylcobalamin 1500 mcg tablet OD"
+    },
+    {
+      "memory_id": "X0252-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.0 g/dl, WBC 6.5 x10^9/l, Plt 205 x10^9/l.\nLFT: ALT 28 U/ml, AST 22 U/ml, ALP 80 U/ml, GGT 32 U/ml, Bilirubin 0.9 mg/dl.\nSerum creatinine: 0.80 mg/dl."
+    },
+    {
+      "memory_id": "X0252-m07",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D06",
+      "text": "MRI lumbar spine: L4‑L5 disc bulge causing mild indentation of the thecal sac; no significant nerve root compression. Mild degenerative changes at L3‑L4. No cord signal abnormality."
+    },
+    {
+      "memory_id": "X0252-m08",
+      "date": "2025-10-02",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Orthopaedic Spine Clinic, Narayana Health, for evaluation of lumbar disc bulge and sciatica symptoms. Request clinical correlation, consider physiotherapy and possible epidural steroid injection if conservative measures fail."
+    },
+    {
+      "memory_id": "X0252-m09",
+      "date": "2025-12-15",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Orthopaedic spine review: patient examined, neurologic exam normal. MRI findings discussed; advised trial of structured physiotherapy core strengthening, NSAID as needed, and lifestyle modification. No surgical intervention indicated at present. Follow‑up in 3 months if symptoms persist."
+    },
+    {
+      "memory_id": "X0252-m10",
+      "date": "2026-03-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: \"Over the past week I’ve had more frequent loose stools after meals, with urgency. My skin psoriasis has flared on elbows and scalp, itching worse. Back pain is unchanged.\""
+    },
+    {
+      "memory_id": "X0252-m11",
+      "date": "2026-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-08-05 at 10:30 am with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0252-m12",
+      "date": "2026-08-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: bowel movements now 2‑3 formed stools per day, no urgency; skin plaques mild, scaling only; back pain occasional after long drives, relieved with stretching. cognition: Mini-Cog 5/5. falls: no falls; gait steady; timed up-and-go 9 seconds. medicines: 6 regular (mebeverine, ispaghula husk, loperamide SOS, clobetasol, calcipotriol, methotrexate+folic acid, pregabalin, diclofenac, methylcobalamin) – total 9; polypharmacy – discuss deprescribing loperamide PRN. mood: stable, denies depression. carers: husband. goals: \"I want to keep my gut calm and skin clear so I can keep driving without worry.\""
+    }
+  ]
+}

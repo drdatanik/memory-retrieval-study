@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0359",
+  "name": "Hitesh Bhatt",
+  "age": 44,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic kidney disease",
+    "Glaucoma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0359-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3, glaucoma.\nPatient is a 44‑year‑old male lab technician from Hennur, Bengaluru. He reports fatigue and occasional mild ankle swelling; eye discomfort noted. On exam: BP 138/86, mild peripheral edema, no jugular venous distension. Fundoscopy shows mild cupping optic discs. Spirometry not indicated. Asthma Control Test not applicable. Smoking status: never. Plan: start telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD for CKD; timolol 0.5% eye drops BD, latanoprost 0.005% eye drops HS for glaucoma. Order baseline labs and eye assessment."
+    },
+    {
+      "memory_id": "X0359-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n timolol 0.5% eye drops BD\n latanoprost 0.005% eye drops HS"
+    },
+    {
+      "memory_id": "X0359-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.4 mg/dL (ref 0.6‑1.2)\neGFR 55 mL/min/1.73m2 (ref >60)\nUrine albumin‑creatinine ratio 120 mg/g (ref <30)\nHaemoglobin 13.2 g/dL (ref 13.0‑17.0)\nIntraocular pressure Right 22 mmHg, Left 21 mmHg (ref 10‑21)\nVisual field: full\nOptic disc: mild cupping"
+    },
+    {
+      "memory_id": "X0359-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed my ankles swell a bit after long shifts at the lab, and my vision sometimes feels a little blurry in the evenings. I’m taking the medicines as prescribed but wonder if the eye drops are causing the blurriness."
+    },
+    {
+      "memory_id": "X0359-m05",
+      "date": "2025-06-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3, glaucoma.\nPatient reports increased ankle swelling and occasional blurry vision. Exam: BP 142/90, 2+ pitting edema to mid‑calf, JVP normal. Eye exam: IOP Right 24 mmHg, Left 23 mmHg; mild conjunctival redness. Spirometry not performed. Asthma Control Test not applicable. Smoking: never. Plan: increase furosemide to 40 mg OD, add latanoprost HS if not already (already prescribed), counsel on compliance, recheck labs in 6 weeks."
+    },
+    {
+      "memory_id": "X0359-m06",
+      "date": "2025-06-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD\n sodium bicarbonate 500 mg BD\n timolol 0.5% eye drops BD\n latanoprost 0.005% eye drops HS"
+    },
+    {
+      "memory_id": "X0359-m07",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.5 mg/dL (up 0.1)\neGFR 50 mL/min/1.73m2 (down 5)\nUrine albumin‑creatinine ratio 115 mg/g (stable)\nHaemoglobin 12.8 g/dL (slightly low)\nIntraocular pressure Right 20 mmHg, Left 19 mmHg (improved)\nVisual field: full\nOptic disc: unchanged"
+    },
+    {
+      "memory_id": "X0359-m08",
+      "date": "2025-08-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Eye exam (glaucoma work‑up): Visual field testing shows early paracentral scotoma in the right eye; left eye full. Optic disc photography reveals cup‑to‑disc ratio 0.6 right, 0.5 left. No retinal hemorrhages. Intraocular pressure on medication: Right 20 mmHg, Left 19 mmHg."
+    },
+    {
+      "memory_id": "X0359-m09",
+      "date": "2025-08-05",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Dr. Kiran Rao, Glaucoma Specialist, Narayana Nethralaya, for progressive optic disc cupping despite maximal medical therapy. Request urgent visual field repeat and consideration of laser trabeculoplasty."
+    },
+    {
+      "memory_id": "X0359-m10",
+      "date": "2025-09-10",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Ophthalmology review: IOP controlled on current drops; visual field stable. Recommend continuing medical therapy, schedule laser trabeculoplasty in 3 months if progression. No surgical intervention needed now."
+    },
+    {
+      "memory_id": "X0359-m11",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3, glaucoma.\nPatient reports stable ankle swelling, no new visual symptoms. Exam: BP 138/88, trace edema. Eye IOP Right 20 mmHg, Left 19 mmHg. Labs reviewed: creatinine 1.5, eGFR 50, Hb 12.8. Smoking: never. Plan: maintain current CKD and glaucoma meds, repeat labs in 3 months, reinforce low‑salt diet."
+    },
+    {
+      "memory_id": "X0359-m12",
+      "date": "2025-11-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD\n sodium bicarbonate 500 mg BD\n timolol 0.5% eye drops BD\n latanoprost 0.005% eye drops HS"
+    },
+    {
+      "memory_id": "X0359-m13",
+      "date": "2025-12-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.5 mg/dL (stable)\neGFR 48 mL/min/1.73m2 (down 2)\nUrine albumin‑creatinine ratio 138 mg/g (mild rise)\nHaemoglobin 12.9 g/dL (stable)\nIntraocular pressure Right 20 mmHg, Left 19 mmHg\nVisual field: full\nOptic disc: unchanged"
+    },
+    {
+      "memory_id": "X0359-m14",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve had a mild cough for the past week, no fever or shortness of breath. I’m wondering if I should get the flu vaccine and if any of my medicines could be causing the cough."
+    },
+    {
+      "memory_id": "X0359-m15",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3, glaucoma.\nPatient reports mild non‑productive cough, no dyspnea. Exam: BP 140/90, lungs clear, no edema. Eye IOP stable. Labs: creatinine 1.5, eGFR 48, Hb 12.9. Smoking: never. Asthma Control Test not applicable. Plan: hold NSAIDs, give inactivated flu vaccine today, monitor cough; consider low‑dose spironolactone if edema worsens."
+    },
+    {
+      "memory_id": "X0359-m16",
+      "date": "2026-03-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-10 09:30 with Dr Suresh Menon (Pulmonology) for routine CKD and glaucoma review. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0359-m17",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3, glaucoma.\nPatient reports cough resolved after vaccine, no new symptoms. Exam: BP 136/84, lungs clear, no edema. Eye IOP Right 20 mmHg, Left 19 mmHg. Labs from 2025-12-10 reviewed; stable. Plan: add spironolactone 12.5 mg OD, reduce furosemide to 20 mg OD to limit electrolyte loss, continue telmisartan, dapagliflozin, sodium bicarbonate, glaucoma drops. Repeat labs and eye review in 4 months."
+    }
+  ]
+}

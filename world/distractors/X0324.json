@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0324",
+  "name": "Jaspreet Bains",
+  "age": 89,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Depression",
+    "Psoriasis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0324-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild fatigue but manages coffee estate supervision with assistance; walks short distances with a cane. cognition: Mini-Cog 3/5 (recall 1, clock draw normal) – negative screen. falls: no falls in last 12 months; gait slow but steady; timed up-and-go 13 seconds – raised fall risk, plan: supervised leg strengthening exercises and supportive footwear. medicines: 9 regular (sertraline 50 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS, clobetasol 0.05% cream BD topically, calcipotriol ointment OD topically, methotrexate 7.5 mg once weekly, folic acid 5 mg OD, vitamin D 1000 IU OD, calcium 500 mg BD) – polypharmacy, request review against Beers criteria. mood: PHQ-9 8 (mild depression). carers: daughter Priya, primary caregiver. goals: \"I want to stay active in my garden and supervise the estate without needing help.\""
+    },
+    {
+      "memory_id": "X0324-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 50 mg tablet OD\nescitalopram 10 mg tablet OD\nmirtazapine 15 mg tablet HS\nclobetasol 0.05% cream apply BD to affected areas\ncalcipotriol ointment apply OD to plaques\nmethotrexate 7.5 mg tablet once weekly on Monday\nfolic acid 5 mg tablet OD\nvitamin D3 1000 IU tablet OD\ncalcium carbonate 500 mg tablet BD"
+    },
+    {
+      "memory_id": "X0324-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0)\nFree T4 12.5 pmol/L (9.0-19.0)\nVitamin B12 320 pg/mL (200-900)\nPHQ-9 8\nALT 28 U/L (≤35)\nAST 24 U/L (≤40)\nALKP 78 U/L (30-120)\nGGT 22 U/L (≤50)\nTotal bilirubin 0.9 mg/dL (0.2-1.2)\nHemoglobin 12.4 g/dL (12.0-15.5)\nWBC 6.2 x10^9/L (4.0-10.0)\nPlatelets 210 x10^9/L (150-400)\nSerum creatinine 0.9 mg/dL (0.5-1.1)\neGFR 62 mL/min/1.73m2 (>60)"
+    },
+    {
+      "memory_id": "X0324-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: improved energy, able to walk to garden without cane for short bouts; reports occasional knee pain. cognition: Mini-Cog 4/5 (recall 2, clock draw normal) – negative screen. falls: one fall at home while reaching for a shelf, no injury; gait mildly unsteady; timed up-and-go 14 seconds – raised fall risk, plan: physiotherapy balance training and non-slip shoes. medicines: 9 regular (sertraline 75 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS, clobetasol cream BD, calcipotriol ointment OD, methotrexate 7.5 mg weekly, folic acid 5 mg OD, vitamin D 1000 IU OD, calcium 500 mg BD) – polypharmacy, request Beers review. mood: PHQ-9 5 (minimal depression). carers: daughter Priya. goals: \"I want to keep walking without fear of falling.\""
+    },
+    {
+      "memory_id": "X0324-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 75 mg tablet OD\nescitalopram 10 mg tablet OD\nmirtazapine 15 mg tablet HS\nclobetasol 0.05% cream BD to lesions\ncalcipotriol ointment OD to plaques\nmethotrexate 7.5 mg tablet weekly\nfolic acid 5 mg OD\nvitamin D3 1000 IU OD\ncalcium carbonate 500 mg BD"
+    },
+    {
+      "memory_id": "X0324-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.8 mIU/L (0.4-4.0)\nFree T4 13.0 pmol/L (9.0-19.0)\nVitamin B12 340 pg/mL (200-900)\nPHQ-9 5\nALT 30 U/L (≤35)\nAST 26 U/L (≤40)\nALKP 80 U/L (30-120)\nGGT 24 U/L (≤50)\nTotal bilirubin 0.8 mg/dL (0.2-1.2)\nHemoglobin 12.6 g/dL (12.0-15.5)\nWBC 5.9 x10^9/L (4.0-10.0)\nPlatelets 205 x10^9/L (150-400)\nSerum creatinine 0.9 mg/dL (0.5-1.1)\neGFR 61 mL/min/1.73m2 (>60)"
+    },
+    {
+      "memory_id": "X0324-m07",
+      "date": "2025-09-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow-up geriatric review with Dr Nandini Kulkarni (D06) on 2025-10-05 at 10:30 AM. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0324-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports occasional dizziness on standing; manages estate supervision with aide; uses walking stick for longer walks. cognition: Mini-Cog 3/5 (recall 1, clock draw normal) – negative screen. falls: no new falls in past 3 months; gait cautious; timed up-and-go 13 seconds – raised fall risk, plan: continue balance exercises, review orthostatic hypotension. medicines: 9 regular (sertraline 75 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS, clobetasol cream BD, calcipotriol ointment OD, methotrexate 7.5 mg weekly, folic acid 5 mg OD, vitamin D 1000 IU OD, calcium 500 mg BD) – polypharmacy, request Beers review. mood: PHQ-9 6 (mild). carers: daughter Priya. goals: \"I wish to stay independent and continue supervising the coffee estate.\""
+    },
+    {
+      "memory_id": "X0324-m09",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 75 mg tablet OD\nescitalopram 10 mg tablet OD\nmirtazapine 15 mg tablet HS\nclobetasol 0.05% cream BD to psoriasis plaques\ncalcipotriol ointment OD to lesions\nmethotrexate 7.5 mg tablet weekly\nfolic acid 5 mg OD\nvitamin D3 1000 IU OD\ncalcium carbonate 500 mg BD\nmidodrine 2.5 mg TID for orthostatic hypotension"
+    },
+    {
+      "memory_id": "X0324-m10",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4-4.0)\nFree T4 12.8 pmol/L (9.0-19.0)\nVitamin B12 330 pg/mL (200-900)\nPHQ-9 6\nALT 38 U/L (≤35) – mild elevation\nAST 34 U/L (≤40)\nALKP 85 U/L (30-120)\nGGT 28 U/L (≤50)\nTotal bilirubin 0.9 mg/dL (0.2-1.2)\nHemoglobin 12.3 g/dL (12.0-15.5)\nWBC 5.5 x10^9/L (4.0-10.0)\nPlatelets 190 x10^9/L (150-400)\nSerum creatinine 1.0 mg/dL (0.5-1.1)\neGFR 55 mL/min/1.73m2 (60-89 mild reduction)"
+    },
+    {
+      "memory_id": "X0324-m11",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: manages light estate duties; reports fatigue after prolonged standing; uses wheelchair for longer distances. cognition: Mini-Cog 2/5 (recall 0, clock draw abnormal) – positive screen, plan: refer for detailed neuropsych assessment. falls: two falls in last 6 months (bathroom, bedroom), no fractures; gait slow with assistive device; timed up-and-go 16 seconds – raised fall risk, plan: home safety assessment, hip protector, continue PT. medicines: 8 regular (sertraline 75 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS, clobetasol cream BD, calcipotriol ointment OD, folic acid 5 mg OD, vitamin D 1000 IU OD, calcium 500 mg BD) – methotrexate stopped due to LFT rise; polypharmacy (8) still requests Beers review. mood: PHQ-9 9 (moderate depression). carers: daughter Priya. goals: \"I want to feel less sad and enjoy time with my grandchildren.\""
+    },
+    {
+      "memory_id": "X0324-m12",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 75 mg tablet OD\nescitalopram 10 mg tablet OD\nmirtazapine 15 mg tablet HS\nclobetasol 0.05% cream BD to lesions\ncalcipotriol ointment OD to plaques\nfolic acid 5 mg OD\nvitamin D3 1000 IU OD\ncalcium carbonate 500 mg BD\nmidodrine 2.5 mg TID"
+    },
+    {
+      "memory_id": "X0324-m13",
+      "date": "2026-08-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more tearful lately and find it hard to get motivated to go out. The midodrine helps with dizziness but I still get light-headed when I stand up quickly. My skin is clearer with the creams, but I worry about the tablets affecting my liver."
+    }
+  ]
+}

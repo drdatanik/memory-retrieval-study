@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0325",
+  "name": "Yasmeen Mulla",
+  "age": 63,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Glaucoma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0325-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: She reports mild morning blurring and occasional halos around lights, denies eye pain or redness.\nEXAMINATION: BP 138/86 mmHg, weight 68 kg, height 1.55 m, BMI 28.3 (obese). Intraocular pressure 22 mmHg OD, 21 mmHg OS. Anterior chambers deep, no conjunctival injection. Optic discs show mild cupping OD 0.4, OS 0.35. Visual fields full to confrontation.\nIMPRESSION: Stable primary open‑angle glaucoma, IOP slightly above target. Obesity noted; advise low‑salt diet, 30 min brisk walk daily.\nARRANGEMENTS: Continue timolol 0.5% eye drops BD and latanoprost 0.005% eye drops HS. Offer influenza vaccine (patient declined). Return if: sudden eye pain, rapid vision loss, coloured halos, headache with nausea, or any new ocular discharge."
+    },
+    {
+      "memory_id": "X0325-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Timolol 0.5% eye drops, one drop in each eye twice daily. Latanoprost 0.005% eye drops, one drop in each eye at bedtime."
+    },
+    {
+      "memory_id": "X0325-m03",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed my vision gets a bit foggy in the mornings and I see rings around streetlights when driving at night. No pain or redness, just annoying."
+    },
+    {
+      "memory_id": "X0325-m04",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure (Goldmann tonometry): OD 22 mmHg (reference 10‑21), OS 21 mmHg (reference 10‑21)."
+    },
+    {
+      "memory_id": "X0325-m05",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Visual field testing (Humphrey 24‑2): full field OD and OS, no defects. Optic disc photography: mild cupping OD 0.4, OS 0.35, healthy rim."
+    },
+    {
+      "memory_id": "X0325-m06",
+      "date": "2025-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment scheduled for 2025-07-15 at 10:30 am with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0325-m07",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient says morning blur less frequent, halos unchanged, no ocular discomfort.\nEXAMINATION: BP 140/88 mmHg, weight 67.5 kg, height 1.55 m, BMI 28.2 (obese). IOP 20 mmHg OD, 19 mmHg OS. Cornea clear, anterior chambers deep. Optic discs stable OD 0.4, OS 0.35.\nIMPRESSION: IOP improved toward target; glaucoma stable. Obesity persists; reinforce diet and activity advice.\nARRANGEMENTS: Continue timolol BD and latanoprost HS. Influenza vaccine not due (outside season). Return if: eye pain, sudden vision loss, coloured halos, headache with nausea, or new redness."
+    },
+    {
+      "memory_id": "X0325-m08",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Timolol 0.5% eye drops, one drop each eye twice daily. Latanoprost 0.005% eye drops, one drop each eye at bedtime."
+    },
+    {
+      "memory_id": "X0325-m09",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: OD 20 mmHg, OS 19 mmHg (reference 10‑21)."
+    },
+    {
+      "memory_id": "X0325-m10",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Reports occasional glare while driving, no pain, denies redness or sudden vision change.\nEXAMINATION: BP 142/90 mmHg, weight 68 kg, height 1.55 m, BMI 28.3 (obese). IOP 23 mmHg OD, 22 mmHg OS. Anterior chambers quiet. Optic discs OD 0.42, OS 0.38 (slight cupping increase).\nIMPRESSION: IOP creeping above target; consider adjunct therapy. Obesity addressed; advise reduced calorie intake and walking.\nARRANGEMENTS: Add brimonidine 0.2% eye drops OD/OS BD. Continue timolol BD and latanoprost HS. Offer influenza vaccine (given today 2025-10-20). Return if: eye pain, rapid vision loss, coloured halos, headache with nausea, or new discharge."
+    },
+    {
+      "memory_id": "X0325-m11",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Timolol 0.5% eye drops, one drop each eye twice daily. Latanoprost 0.005% eye drops, one drop each eye at bedtime. Brimonidine 0.2% eye drops, one drop each eye twice daily."
+    },
+    {
+      "memory_id": "X0325-m12",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: OD 23 mmHg, OS 22 mmHg (reference 10‑21). Visual field 24‑2: mild paracentral scotoma OD, stable OS."
+    },
+    {
+      "memory_id": "X0325-m13",
+      "date": "2026-01-25",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient notes mild eyelid irritation and dryness since starting brimonidine, occasional burning.\nEXAMINATION: BP 138/84 mmHg, weight 67 kg, height 1.55 m, BMI 27.9 (overweight). IOP 21 mmHg OD, 20 mmHg OS. Conjunctiva mild injection OD, no corneal staining. Optic discs OD 0.41, OS 0.37.\nIMPRESSION: IOP within target; brimonidine likely causing ocular surface irritation. Consider stopping.\nARRANGEMENTS: Stop brimonidine effective today. Continue timolol BD and latanoprost HS. Advise lubricating preservative‑free drops for dryness. Influenza vaccine not needed (off season). Return if: eye pain, sudden vision loss, coloured halos, headache with nausea, or worsening redness."
+    },
+    {
+      "memory_id": "X0325-m14",
+      "date": "2026-01-25",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Timolol 0.5% eye drops, one drop each eye twice daily. Latanoprost 0.005% eye drops, one drop each eye at bedtime. (Brimonidine discontinued)."
+    },
+    {
+      "memory_id": "X0325-m15",
+      "date": "2026-04-30",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Reports eyes feel comfortable, no glare, no pain.\nEXAMINATION: BP 136/82 mmHg, weight 66.5 kg, height 1.55 m, BMI 27.7 (overweight). IOP 20 mmHg OD, 19 mmHg OS. Anterior chambers quiet, no conjunctival redness. Optic discs OD 0.40, OS 0.36.\nIMPRESSION: IOP well controlled; glaucoma stable. Obesity trend improving; encourage continued activity.\nARRANGEMENTS: Continue timolol BD and latanoprost HS. No influenza vaccine due (off season). Return if: eye pain, sudden vision loss, coloured halos, headache with nausea, or new ocular discharge."
+    },
+    {
+      "memory_id": "X0325-m16",
+      "date": "2026-04-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: OD 20 mmHg, OS 19 mmHg (reference 10‑21)."
+    },
+    {
+      "memory_id": "X0325-m17",
+      "date": "2026-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Annual glaucoma review appointment booked for 2026-10-10 at 09:00 am with Dr Priya Natarajan."
+    }
+  ]
+}

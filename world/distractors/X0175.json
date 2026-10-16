@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0175",
+  "name": "Selvam Krishnaswamy",
+  "age": 24,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0175-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma.\nSymptoms: intermittent wheeze and exertional dyspnea over 3 months, nocturnal cough twice weekly. Examination: mild expiratory wheeze bilaterally, normal speech, no use of accessory muscles.\nSpirometry: FEV1 2.2 L (65% predicted), FVC 2.8 L, FEV1/FVC 0.79. No prior test for change.\nAsthma Control Test score 16 (not well controlled).\nTechnique checked: correct salbutamol metered-dose inhaler; budesonide-formoterol dry powder inhaler technique correct, inspiratory flow adequate.\nSmoking status: never, pack-years 0.\nPlan: start salbutamol MDI SOS, budesonide-formoterol 200/6 dry powder inhaler BD, montelukast 10 mg HS. Review in 3 months."
+    },
+    {
+      "memory_id": "X0175-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol 100 mcg metered-dose inhaler, 2 puffs SOS.\nBudesonide-formoterol 200/6 mcg dry powder inhaler, 2 puffs BD.\nMontelukast sodium 10 mg tablet, 1 tablet HS."
+    },
+    {
+      "memory_id": "X0175-m03",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry with reversibility.\nPre-bronchodilator: FEV1 2.2 L (65% pred), FVC 2.8 L, FEV1/FVC 0.79.\nPost-bronchodilator (salbutamol 400 mcg): FEV1 2.5 L (73% pred), FVC 2.9 L, FEV1/FVC 0.86.\nReversibility: increase in FEV1 0.3 L (13%)."
+    },
+    {
+      "memory_id": "X0175-m04",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Allergic rhinitis to house dust mites: sneezing, nasal congestion, itchy eyes on exposure; confirmed by skin prick test."
+    },
+    {
+      "memory_id": "X0175-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma.\nSymptoms: reduced wheeze, nocturnal cough once weekly, able to climb two flights of stairs without dyspnea.\nExamination: clear lungs, no wheeze.\nSpirometry: FEV1 2.5 L (72% pred), FVC 3.0 L, FEV1/FVC 0.83; change in FEV1 since last test +0.3 L.\nAsthma Control Test score 22 (well controlled).\nTechnique checked: correct for both inhalers; dry powder inspiratory flow >60 L/min.\nSmoking status: never, pack-years 0.\nPlan: continue current regimen; review in 3 months."
+    },
+    {
+      "memory_id": "X0175-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol 100 mcg metered-dose inhaler, 2 puffs SOS.\nBudesonide-formoterol 200/6 mcg dry powder inhaler, 2 puffs BD.\nMontelukast sodium 10 mg tablet, 1 tablet HS."
+    },
+    {
+      "memory_id": "X0175-m07",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry.\nFEV1 2.5 L (72% predicted), FVC 3.0 L, FEV1/FVC 0.83.\nChange in FEV1 since previous test (+0.3 L)."
+    },
+    {
+      "memory_id": "X0175-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma exacerbation.\nSymptoms: increased wheeze and nocturnal cough three nights/week, needed salbutamol 4 puffs daily for 5 days.\nExamination: mild bilateral expiratory wheeze, normal speech.\nSpirometry: FEV1 2.3 L (66% pred), FVC 2.9 L, FEV1/FVC 0.79; change in FEV1 since last test -0.2 L.\nAsthma Control Test score 14 (not well controlled).\nTechnique checked: corrected salbutamol MDI technique (slow inhalation); budesonide-formoterol technique unchanged.\nSmoking status: never, pack-years 0.\nPlan: short course prednisolone 40 mg OD for 5 days, continue budesonide-formoterol BD, consider increasing to 400/12 if symptoms persist; review in 2 weeks."
+    },
+    {
+      "memory_id": "X0175-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Prednisolone 10 mg tablet, 4 tablets OD for 5 days.\nSalbutamol 100 mcg metered-dose inhaler, 2 puffs SOS.\nBudesonide-formoterol 200/6 mcg dry powder inhaler, 2 puffs BD.\nMontelukast sodium 10 mg tablet, 1 tablet HS."
+    },
+    {
+      "memory_id": "X0175-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma.\nSymptoms: asymptomatic, no nocturnal cough, able to jog 2 km without dyspnea.\nExamination: clear lungs.\nSpirometry: FEV1 2.4 L (69% pred), FVC 3.0 L, FEV1/FVC 0.80; change in FEV1 since last test +0.1 L.\nAsthma Control Test score 24 (well controlled).\nTechnique checked: correct for both inhalers; dry powder inspiratory flow adequate.\nSmoking status: never, pack-years 0.\nPlan: discontinue montelukast; continue salbutamol SOS and budesonide-formoterol BD; review in 3 months."
+    },
+    {
+      "memory_id": "X0175-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol 100 mcg metered-dose inhaler, 2 puffs SOS.\nBudesonide-formoterol 200/6 mcg dry powder inhaler, 2 puffs BD.\n(Montelukast discontinued)"
+    },
+    {
+      "memory_id": "X0175-m12",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-07-10 at 10:00 AM with Dr Suresh Menon (D05) for asthma review."
+    },
+    {
+      "memory_id": "X0175-m13",
+      "date": "2026-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma.\nSymptoms: well controlled, no daytime symptoms, nocturnal cough zero.\nExamination: clear lungs.\nSpirometry: FEV1 2.5 L (72% pred), FVC 3.1 L, FEV1/FVC 0.81; change in FEV1 since last test +0.1 L.\nAsthma Control Test score 25 (well controlled).\nTechnique checked: correct; dry powder inspiratory flow >60 L/min.\nSmoking status: never, pack-years 0.\nPlan: continue current regimen; review in 6 months."
+    }
+  ]
+}

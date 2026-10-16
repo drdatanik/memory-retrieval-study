@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0329",
+  "name": "Vaishali Jadhav",
+  "age": 35,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Gastro-oesophageal reflux",
+    "Depression",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0329-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up for gastro‑oesophageal reflux, depression and hypertension. Reports occasional heartburn after meals, low mood, and headaches. EXAMINATION: BP 138/86 mmHg, weight 68 kg, BMI 24.2 (overweight). Advised diet and activity. No pallor, abdomen soft, no tenderness. IMPRESSION: 1. GERD controlled on pantoprazole. 2. Depression stable on sertraline. 3. Stage 1 hypertension, lifestyle measures needed. ARRANGEMENTS: Continue current meds. Order H. pylori stool antigen, TSH, vitamin B12, serum creatinine/eGFR and potassium. Return if: worsening heartburn, vomiting, suicidal thoughts, BP >160/100, fever >39°C."
+    },
+    {
+      "memory_id": "X0329-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nAntacid gel SOS\nDomperidone 10 mg BD before meals\nSertraline 50 mg OD\nAmlodipine 5 mg OD\nTelmisartan 40 mg OD"
+    },
+    {
+      "memory_id": "X0329-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative\nTSH: 2.1 mIU/L (0.5‑5.0)\nVitamin B12: 340 pg/mL (200‑900)\nSerum creatinine: 0.8 mg/dL (0.6‑1.2)\neGFR: 92 mL/min/1.73m2 (>60)\nSerum potassium: 4.3 mmol/L (3.5‑5.0)"
+    },
+    {
+      "memory_id": "X0329-m04",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been taking the pantoprazole each morning and the antacid when I feel burn. Mood has been okay but I still feel tired some days. My blood pressure cuff at home reads around 135/85. I’m walking 30 minutes most days."
+    },
+    {
+      "memory_id": "X0329-m05",
+      "date": "2025-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 10 July 2025 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0329-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review. Reports occasional heartburn after spicy food, mood stable, no new headaches. EXAMINATION: BP 142/88 mmHg, weight 69 kg, BMI 24.5 (overweight). Advised diet and activity. Lungs clear, abdomen soft. IMPRESSION: GERD mild breakthrough. Depression stable on sertraline. Hypertension persistently elevated. ARRANGEMENTS: Add losartan 50 mg OD, continue other meds. Repeat TSH, vitamin B12, H. pylori, creatinine/eGFR, potassium. Order ECG for hypertension assessment. Return if: chest pain, breathlessness, fainting, worsening reflux, suicidal ideas, BP >180/110."
+    },
+    {
+      "memory_id": "X0329-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nAntacid gel SOS\nDomperidone 10 mg BD before meals\nSertraline 50 mg OD\nAmlodipine 5 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD"
+    },
+    {
+      "memory_id": "X0329-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative\nTSH: 2.0 mIU/L (0.5‑5.0)\nVitamin B12: 350 pg/mL (200‑900)\nSerum creatinine: 0.8 mg/dL (0.6‑1.2)\neGFR: 90 mL/min/1.73m2\nSerum potassium: 4.2 mmol/L (3.5‑5.0)"
+    },
+    {
+      "memory_id": "X0329-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "ECG: Sinus rhythm 78 bpm. No ST‑T changes, no left ventricular hypertrophy. Normal ECG."
+    },
+    {
+      "memory_id": "X0329-m10",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "The losartan makes me feel a bit dizzy when I stand up quickly, but it passes. Heartburn is better after I avoided late‑night pizza. Mood is fine, I’m sleeping well."
+    },
+    {
+      "memory_id": "X0329-m11",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Worsening low mood and fatigue, occasional heartburn despite meds. EXAMINATION: BP 148/92 mmHg, weight 70 kg, BMI 24.9 (overweight). Advised diet and activity. No mucosal lesions. IMPRESSION: Depression worsening, GERD with possible breakthrough, hypertension uncontrolled. ARRANGEMENTS: Switch sertraline to escitalopram 10 mg OD, add mirtazapine 15 mg HS for sleep. Increase pantoprazole to BD? Keep current dose. Add hydrochlorothiazide 12.5 mg OD. Repeat lipid profile, fasting glucose, TSH, vitamin B12, creatinine/eGFR, potassium. Return if: suicidal thoughts, severe chest pain, vomiting, BP >190/110."
+    },
+    {
+      "memory_id": "X0329-m12",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nAntacid gel SOS\nDomperidone 10 mg BD before meals\nEscitalopram 10 mg OD\nMirtazapine 15 mg HS\nAmlodipine 5 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0329-m13",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dL (<200), LDL 110 mg/dL (<130), HDL 48 mg/dL (>40), triglycerides 150 mg/dL (<150)\nFasting blood sugar: 92 mg/dL (70‑100)\nTSH: 2.2 mIU/L (0.5‑5.0)\nVitamin B12: 340 pg/mL (200‑900)\nSerum creatinine: 0.8 mg/dL (0.6‑1.2)\neGFR: 89 mL/min/1.73m2\nSerum potassium: 4.1 mmol/L (3.5‑5.0)"
+    },
+    {
+      "memory_id": "X0329-m14",
+      "date": "2025-10-05",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr S. Rao, Gastroenterology, Vikram Hospital, for upper GI endoscopy due to alarm symptoms of refractory heartburn and possible anaemia. Clinical suspicion: erosive esophagitis or Barrett’s epithelium. Please perform endoscopy with biopsies and H. pylori testing. Send report to Dr Priya Natarajan (D03) at Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "X0329-m15",
+      "date": "2026-02-20",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Endoscopy report: Mild erythema in antrum, no erosions or Barrett’s changes. Biopsies negative for H. pylori, no dysplasia. Recommend continue PPI lifestyle, consider low‑dose NSAID avoidance. No further action needed. Communicated to patient; she reports symptom improvement on current regimen."
+    }
+  ]
+}

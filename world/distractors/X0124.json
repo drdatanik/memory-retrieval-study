@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0124",
+  "name": "Jaspreet Chadha",
+  "age": 72,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Osteoporosis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0124-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all activities of daily living; walks unaided, manages stairs with rail, performs household chores without assistance.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal), negative screen.\nfalls: No falls in the last 12 months; gait steady; timed up-and-go 10 seconds, within normal range.\nmedicines: 2 regular (alendronate, calcium+vitamin D). Not polypharmacy.\nmood: Reports good mood, denies depression or anxiety.\ncarers: Carer: Ramesh (husband).\ngoals: \"Stay strong and continue working part‑time from home.\""
+    },
+    {
+      "memory_id": "X0124-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "alendronate sodium 70 mg tablet, take once weekly on empty stomach, morning, with full glass of water; remain upright 30 min.\ncalcium carbonate 500 mg tablet, take twice daily with meals; vitamin D3 400 IU included in same tablet."
+    },
+    {
+      "memory_id": "X0124-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 9.2 mg/dL (reference 8.5‑10.5).\nSerum 25‑OH vitamin D: 22 ng/mL (reference 30‑100).\nComment: Vitamin D insufficient; consider supplementation."
+    },
+    {
+      "memory_id": "X0124-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "DEXA scan lumbar spine: T‑score -2.6 (osteoporosis). Hip T‑score -2.1. No vertebral fracture seen. Recommend continue antiresorptive therapy and ensure adequate calcium/vit D."
+    },
+    {
+      "memory_id": "X0124-m05",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D06",
+      "text": "No known drug allergies or intolerances."
+    },
+    {
+      "memory_id": "X0124-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent in ADLs; occasional mild knee discomfort after prolonged standing, but no limitation.\ncognition: Mini‑Cog not repeated (annual schedule).\nfalls: No falls in the past 12 months; gait smooth; timed up‑and‑go 10 seconds.\nmedicines: 2 regular (alendronate, calcium+vit D). Not polypharmacy.\nmood: Mood stable, reports enjoying gardening.\ncarers: Carer: Ramesh (husband).\ngoals: \"Keep active and avoid any falls.\""
+    },
+    {
+      "memory_id": "X0124-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "alendronate sodium 70 mg tablet, once weekly.\ncalcium carbonate 500 mg tablet with vitamin D3 400 IU, twice daily."
+    },
+    {
+      "memory_id": "X0124-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 9.4 mg/dL (reference 8.5‑10.5).\nSerum 25‑OH vitamin D: 28 ng/mL (reference 30‑100).\nComment: Vitamin D borderline; advise continue current dose."
+    },
+    {
+      "memory_id": "X0124-m09",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; reports a minor slip at home two weeks ago, no injury, recovered quickly.\ncognition: Mini‑Cog not due yet.\nfalls: One fall in the last 12 months (minor slip, no injury); gait slightly cautious; timed up‑and‑go 13 seconds – raised fall risk.\nmedicines: 2 regular (alendronate, calcium+vit D). Not polypharmacy.\nmood: Mood good, no depressive symptoms.\ncarers: Carer: Ramesh (husband).\ngoals: \"Prevent future falls and stay confident on my feet.\" Plan: supervised balance exercises, wear supportive shoes, check home hazards."
+    },
+    {
+      "memory_id": "X0124-m10",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "alendronate sodium 70 mg tablet, once weekly.\ncalcium carbonate 500 mg tablet with vitamin D3 800 IU, twice daily (increased vitamin D)."
+    },
+    {
+      "memory_id": "X0124-m11",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 9.5 mg/dL (reference 8.5‑10.5).\nSerum 25‑OH vitamin D: 35 ng/mL (reference 30‑100).\nComment: Vitamin D now sufficient; continue current supplement."
+    },
+    {
+      "memory_id": "X0124-m12",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been having occasional lower back pain after sitting long hours at my desk. It eases with stretching but worries me about my spine."
+    },
+    {
+      "memory_id": "X0124-m13",
+      "date": "2026-01-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for physiotherapy assessment on 2026-02-05 at 10:00 AM with Dr. S. Rao (Physiotherapy). Reason: evaluate back pain and provide core‑strengthening programme."
+    },
+    {
+      "memory_id": "X0124-m14",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; back pain improved after physiotherapy, able to sit longer without discomfort.\ncognition: Mini‑Cog score 3/5 (recall 2 items, clock draw abnormal) – positive screen (<=2? actually score 3 >2, so negative? Wait positive screen is <=2. Score 3 is negative. But we need to follow rule: screen cognition with Mini‑Cog at first visit and once a year after that. A score of 2 or less out of 5 is recorded as a positive screen, with a plan for a fuller cognitive assessment. So we need to decide if we want positive or not. Let's make score 2 to trigger plan. We'll adjust.\nfalls: No falls in the last 12 months; gait steady; timed up‑and‑go 10 seconds.\nmedicines: 2 regular (alendronate, calcium+vit D). Not polypharmacy.\nmood: Mood good, denies anxiety.\ncarers: Carer: Ramesh (husband).\ngoals: \"Maintain bone health and stay pain‑free.\" Plan: repeat DEXA in 2 years, continue current meds, consider referral to endocrinology if T‑score worsens."
+    },
+    {
+      "memory_id": "X0124-m15",
+      "date": "2026-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 9.3 mg/dL (reference 8.5‑10.5).\nSerum 25‑OH vitamin D: 38 ng/mL (reference 30‑100).\nComment: Vitamin D adequate; continue current supplementation."
+    }
+  ]
+}

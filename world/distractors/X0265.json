@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0265",
+  "name": "Sanjeev Verma",
+  "age": 31,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Rheumatoid arthritis",
+    "Psoriasis",
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0265-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 31‑year‑old vegetable vendor reports painful swollen joints in hands and feet for 2 months, associated morning stiffness >1 hour, and scaly plaques on elbows and knees.\nEXAMINATION: BP 128/82, weight 92 kg, height 1.68 m, BMI 32.6 (obese). Tender swollen MCP and PIP joints bilaterally, mild synovitis of knees. Psoriatic plaques erythematous with silvery scale on extensor surfaces.\nIMPRESSION: Active rheumatoid arthritis (likely seropositive) with comorbid plaque psoriasis and obesity.\nARRANGEMENTS: Start methotrexate 10 mg PO weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Topical clobetasol 0.05% cream BD to plaques, calcipotriol ointment OD. Advise weight reduction, low‑purine diet, regular exercise. Return if worsening joint pain, fever >38.5°C, new rash, or abdominal pain."
+    },
+    {
+      "memory_id": "X0265-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methotrexate 10 mg tablet once weekly\nFolic acid 5 mg tablet once weekly\nHydroxychloroquine 200 mg tablet once daily\nPrednisolone 5 mg tablet once daily\nClobetasol 0.05% cream apply BD to affected skin\nCalcipotriol ointment apply OD to plaques\nOrlistat 120 mg capsule with each main meal"
+    },
+    {
+      "memory_id": "X0265-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 38 mm/hr (0‑20)\nCRP 12 mg/L (<5)\nRheumatoid factor pending\nAnti‑CCP pending\nLFT: ALT 32 U/L (7‑56), AST 28 U/L (10‑40), ALP 84 U/L (30‑120), GGT 45 U/L (0‑51), Bilirubin 0.9 mg/dL (0.2‑1.2)\nCBC: Hb 13.8 g/dL, WBC 6.2×10⁹/L, Platelets 210×10⁹/L\nSerum creatinine 0.9 mg/dL (0.6‑1.2)\nFasting glucose 94 mg/dL (70‑99) borderline\nHbA1c 5.8% (4‑5.6) prediabetes\nLipid profile: Total cholesterol 210 mg/dL (<200), LDL 130 mg/dL (<100), HDL 38 mg/dL (>40 low), Triglycerides 165 mg/dL (<150)\nWaist circumference 102 cm (male <90)"
+    },
+    {
+      "memory_id": "X0265-m04",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D03",
+      "text": "Allergy: Ibuprofen – developed urticaria and angio‑edema within 30 min of taking a 200 mg tablet for headache. Avoid NSAIDs; use paracetamol for analgesia."
+    },
+    {
+      "memory_id": "X0265-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports reduced joint swelling and morning stiffness now ~30 min; psoriasis plaques slightly less scaly. Complains of mild nausea after methotrexate.\nEXAMINATION: BP 126/80, weight 89 kg, BMI 31.5 (obese). Joints less tender, no effusions. Psoriasis plaques pink‑white, scaling decreased.\nIMPRESSION: Partial response to DMARDs; mild methotrexate nausea.\nARRANGEMENTS: Continue methotrexate 10 mg weekly, folic acid 5 mg weekly; add folic acid 5 mg OD on day after methotrexate to reduce nausea. Maintain hydroxychloroquine 200 mg OD, taper prednisolone to 2.5 mg OD. Continue topical agents. Reinforce diet and activity. Return if joint pain worsens, nausea persists, or liver enzymes rise."
+    },
+    {
+      "memory_id": "X0265-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methotrexate 10 mg tablet once weekly\nFolic acid 5 mg tablet once weekly\nFolic acid 5 mg tablet daily (post‑MTX)\nHydroxychloroquine 200 mg tablet once daily\nPrednisolone 2.5 mg tablet once daily\nClobetasol 0.05% cream BD\nCalcipotriol ointment OD\nOrlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0265-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 24 mm/hr (0‑20)\nCRP 6 mg/L (<5)\nLFT: ALT 30 U/L, AST 26 U/L, ALP 80 U/L, GGT 42 U/L, Bilirubin 0.8 mg/dL\nCBC: Hb 13.6 g/dL, WBC 5.9×10⁹/L, Platelets 205×10⁹/L\nSerum creatinine 0.9 mg/dL\nFasting glucose 92 mg/dL\nHbA1c 5.7%\nLipids: Total cholesterol 202 mg/dL, LDL 124 mg/dL, HDL 40 mg/dL, Triglycerides 158 mg/dL"
+    },
+    {
+      "memory_id": "X0265-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient notes increased fatigue and mild joint discomfort in wrists; psoriasis stable.\nEXAMINATION: BP 130/84, weight 88 kg, BMI 31.2 (obese). Mild synovitis of wrists, no nodules. Skin lesions unchanged.\nIMPRESSION: Inadequate disease control; consider escalating DMARD therapy.\nARRANGEMENTS: Increase methotrexate to 15 mg weekly, keep folic acid 5 mg weekly plus post‑MTX folic acid 5 mg OD. Continue hydroxychloroquine 200 mg OD, prednisolone 2.5 mg OD. Add monthly liver function monitoring. Advise weight loss goal 5 kg in 3 months. Return if worsening pain, new rash, or abdominal discomfort."
+    },
+    {
+      "memory_id": "X0265-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methotrexate 15 mg tablet once weekly\nFolic acid 5 mg tablet once weekly\nFolic acid 5 mg tablet daily (post‑MTX)\nHydroxychloroquine 200 mg tablet once daily\nPrednisolone 2.5 mg tablet once daily\nClobetasol 0.05% cream BD\nCalcipotriol ointment OD\nOrlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0265-m10",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Rheumatoid factor 48 IU/ml (<14 positive)\nAnti‑CCP 68 U/ml (<20 positive)\nESR 30 mm/hr\nCRP 9 mg/L\nLFT: ALT 35 U/L, AST 30 U/L, ALP 85 U/L, GGT 48 U/L, Bilirubin 0.9 mg/dL\nCBC: Hb 13.5 g/dL, WBC 6.0×10⁹/L, Platelets 200×10⁹/L\nSerum creatinine 0.9 mg/dL\nFasting glucose 95 mg/dL\nHbA1c 5.9%\nLipids: Total cholesterol 208 mg/dL, LDL 128 mg/dL, HDL 39 mg/dL, Triglycerides 162 mg/dL"
+    },
+    {
+      "memory_id": "X0265-m11",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: ‘Doctor, my hands feel stiff again in the mornings and I’ve noticed a new dry patch on my scalp. I’m also feeling more tired after work.’"
+    },
+    {
+      "memory_id": "X0265-m12",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-20 at 10:30 am with Dr Priya Natarajan (D03) for follow‑up of rheumatoid arthritis, psoriasis and weight management."
+    },
+    {
+      "memory_id": "X0265-m13",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports worsening morning stiffness lasting 45 min, mild scalp scaling, and fatigue.\nEXAMINATION: BP 128/82, weight 86 kg, BMI 30.4 (obese). Tenderness in MCP joints, mild scalp erythema with scaling.\nIMPRESSION: Active rheumatoid arthritis with worsening psoriasis; obesity persists.\nARRANGEMENTS: Stop prednisolone due to lack of benefit and risk of side‑effects. Increase methotrexate to 20 mg weekly, continue folic acid 5 mg weekly plus post‑MTX folic acid 5 mg OD. Continue hydroxychloroquine 200 mg OD. Add topical betamethasone dipropionate 0.05% cream BD to scalp plaques. Reinforce diet, aim for 7 kg loss. Return if joint swelling increases, fever, or liver enzymes rise."
+    },
+    {
+      "memory_id": "X0265-m14",
+      "date": "2026-02-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methotrexate 20 mg tablet once weekly\nFolic acid 5 mg tablet once weekly\nFolic acid 5 mg tablet daily (post‑MTX)\nHydroxychloroquine 200 mg tablet once daily\nClobetasol 0.05% cream BD to skin\nBetamethasone dipropionate 0.05% cream BD to scalp\nOrlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0265-m15",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.4 g/dL, WBC 5.8×10⁹/L, Platelets 195×10⁹/L\nSerum creatinine 0.9 mg/dL\nLFT: ALT 38 U/L, AST 33 U/L, ALP 88 U/L, GGT 50 U/L, Bilirubin 0.9 mg/dL\nESR 28 mm/hr\nCRP 8 mg/L\nFasting glucose 96 mg/dL\nHbA1c 6.0%\nLipids: Total cholesterol 210 mg/dL, LDL 130 mg/dL, HDL 38 mg/dL, Triglycerides 168 mg/dl\nWaist circumference 99 cm"
+    },
+    {
+      "memory_id": "X0265-m16",
+      "date": "2026-05-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "X‑ray of both hands (PA view): Juxta‑articular osteopenia, mild narrowing of MCP joint spaces, no erosions noted. Soft tissue swelling present. No bony destruction. Impression: Early rheumatoid arthritis changes, no significant joint damage yet."
+    },
+    {
+      "memory_id": "X0265-m17",
+      "date": "2026-08-05",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Referral outcome from Rheumatology: Patient reviewed, advised to continue methotrexate 20 mg weekly with folic acid, hydroxychloroquine 200 mg OD. Consider adding low‑dose prednisolone 5 mg alternate days if flare persists. Psoriasis managed with topical steroids; consider phototherapy if no improvement. LFTs monitored monthly. Return to primary care for routine follow‑up."
+    }
+  ]
+}

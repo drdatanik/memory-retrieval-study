@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0500",
+  "name": "Navjot Brar",
+  "age": 23,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Benign positional vertigo",
+    "Type 2 diabetes",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0500-m01",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been having sudden spinning sensations when I lie down or turn my head, lasting less than a minute. I also feel thirsty and need to urinate often. My asthma is usually okay with my inhaler."
+    },
+    {
+      "memory_id": "X0500-m02",
+      "date": "2025-04-10",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Allergy: house dust mite – sneezing, nasal congestion, itchy eyes on exposure. No asthma exacerbation noted."
+    },
+    {
+      "memory_id": "X0500-m03",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, reports occasional vertigo episodes, able to perform household chores.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls in last 12 months, gait normal, timed up-and-go 9 sec (normal).\nmedicines: 7 regular (betahistine, metformin, glimepiride, sitagliptin, empagliflozin, budesonide-formoterol, montelukast) – polypharmacy, review against Beers criteria advised.\nmood: reports low mood related to vertigo, denies hopelessness.\ncarers: mother, Mrs. Lakshmi Kulkarni.\ngoals: \"I want to control my vertigo and diabetes so I can manage my home and study.\""
+    },
+    {
+      "memory_id": "X0500-m04",
+      "date": "2025-04-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg BD; meclizine 25 mg SOS; metformin 500 mg BD; glimepiride 1 mg OD; sitagliptin 100 mg OD; empagliflozin 10 mg OD; salbutamol MDI SOS; budesonide-formoterol 200/6 inhaler BD; montelukast 10 mg HS."
+    },
+    {
+      "memory_id": "X0500-m05",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8%; FPG 152 mg/dL; urine ACR 22 mg/g (mildly increased). Reference: HbA1c <5.7%; FPG 70-99; ACR <30."
+    },
+    {
+      "memory_id": "X0500-m06",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: vertigo frequency reduced after betahistine, able to climb stairs without dyspnea.\ncognition: Mini-Cog 4/5 (stable).\nfalls: 0 falls, gait steady, TUG 9 sec.\nmedicines: 7 regular – polypharmacy, continue review.\nmood: improved, occasional frustration.\ncarers: mother, Mrs. Lakshmi Kulkarni.\ngoals: \"I’d like fewer dizzy spells and steadier sugar levels.\""
+    },
+    {
+      "memory_id": "X0500-m07",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin increased to 850 mg BD; glimepiride unchanged; sitagliptin unchanged; empagliflozin unchanged; betahistine unchanged; budesonide-formoterol unchanged; montelukast unchanged; salbutamol SOS; meclizine SOS."
+    },
+    {
+      "memory_id": "X0500-m08",
+      "date": "2025-10-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Spirometry: FEV1 2.8 L (85% predicted), FVC 3.2 L (88%), FEV1/FVC 0.88. Post‑bronchodilator FEV1 ↑12% – reversible obstruction consistent with asthma. Asthma Control Test score 19/25 (well‑controlled)."
+    },
+    {
+      "memory_id": "X0500-m09",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports no vertigo for 4 weeks, able to do light exercise.\ncognition: Mini-Cog 4/5.\nfalls: 0 falls, gait normal, TUG 9 sec.\nmedicines: 7 regular – polypharmacy, medication review pending.\nmood: good, energetic.\ncarers: mother, Mrs. Lakshmi Kulkarni.\ngoals: \"I want to stay vertigo‑free and keep my diabetes under control.\""
+    },
+    {
+      "memory_id": "X0500-m10",
+      "date": "2026-01-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-01 09:30 with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0500-m11",
+      "date": "2026-04-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2%; FPG 130 mg/dL; urine ACR 18 mg/g (normal). Reference: HbA1c <5.7%; FPG 70-99; ACR <30."
+    },
+    {
+      "memory_id": "X0500-m12",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, no vertigo episodes in past 6 months, tolerates walks.\ncognition: Mini-Cog 4/5 (annual screen negative).\nfalls: 0 falls, gait normal, TUG 9 sec.\nmedicines: 7 regular – polypharmacy, discuss deprescribing of glimepiride if HbA1c stays <7%.\nmood: stable, satisfied.\ncarers: mother, Mrs. Lakshmi Kulkarni.\ngoals: \"I aim to maintain good health and avoid medications I don’t need.\""
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0580",
+  "name": "Manpreet Brar",
+  "age": 31,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypothyroidism",
+    "Dyslipidaemia",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0580-m01",
+      "date": "2025-04-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for initial consultation with Dr Nandini Kulkarni (Geriatric Medicine) on 2025-04-15 at 10:00 am. Reason: review of hypothyroidism, dyslipidaemia and allergic rhinitis. Patient to bring recent labs if available."
+    },
+    {
+      "memory_id": "X0580-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 50 mcg OD\natorvastatin 10 mg HS\ncetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0580-m03",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more tired than usual and my nose is constantly blocked, especially in the mornings. I also notice mild weight gain despite my usual diet. My sleep is okay but I wake up feeling unrefreshed."
+    },
+    {
+      "memory_id": "X0580-m04",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild fatigue, no difficulty with ADLs; continues full-time work as electrician.\ncognition: Mini-Cog score 4/5 (negative), no need for further assessment.\nfalls: zero falls in last 12 months; gait normal; timed up-and-go 9 seconds (within normal).\nmedicines: 3 regular (levothyroxine 50 mcg OD, atorvastatin 10 mg HS, cetirizine 10 mg HS); polypharmacy not applicable.\nmood: denies depression or anxiety; reports occasional irritability.\ncarers: wife (Spouse) supportive.\ngoals: \"I want to have more energy to keep up with my work and feel less congested.\""
+    },
+    {
+      "memory_id": "X0580-m05",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 6.8 mIU/L (0.4-4.5)\nFree T4 10.2 pmol/L (12-22)\nLDL 138 mg/dL (<100)\nHDL 42 mg/dL (>40)\nTriglycerides 162 mg/dL (<150)\nALT 28 U/L (<40)\nAST 26 U/L (<40)\nCK 185 U/L (<220)"
+    },
+    {
+      "memory_id": "X0580-m06",
+      "date": "2025-05-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 75 mcg OD\natorvastatin 10 mg HS\ncetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD"
+    },
+    {
+      "memory_id": "X0580-m07",
+      "date": "2025-05-20",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Skin prick test: positive reaction to house dust mite (3+ wheal), grass pollen (2+), negative to cat dander. Consistent with allergic rhinitis."
+    },
+    {
+      "memory_id": "X0580-m08",
+      "date": "2025-06-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 75 mcg OD\natorvastatin 10 mg HS\ncetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0580-m09",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: energy improved slightly; still notes occasional tiredness after work.\ncognition: Mini-Cog not repeated (annual screen due).\nfalls: zero falls; gait steady; timed up-and-go 9 seconds.\nmedicines: 5 regular (levothyroxine 75 mcg, atorvastatin 10 mg HS, cetirizine 10 mg HS, fluticasone nasal spray, montelukast 10 mg HS); polypharmacy present – request medication review per Beers criteria.\nmood: reports better mood, less irritability.\ncarers: wife (Spouse).\ngoals: \"I’d like to feel less congested and have steady energy through the day.\""
+    },
+    {
+      "memory_id": "X0580-m10",
+      "date": "2025-06-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (0.4-4.5)\nFree T4 13.5 pmol/L (12-22)\nLDL 112 mg/dL (<100)\nHDL 45 mg/dL (>40)\nTriglycerides 138 mg/dL (<150)\nALT 30 U/L\nAST 28 U/L\nCK 190 U/L"
+    },
+    {
+      "memory_id": "X0580-m11",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 100 mcg OD\nrosuvastatin 10 mg OD\ncetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0580-m12",
+      "date": "2025-08-15",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to ENT specialist (Dr S. Rao) for persistent allergic rhinitis despite intranasal steroid and antihistamine. Request skin prick testing and consideration of immunotherapy."
+    },
+    {
+      "memory_id": "X0580-m13",
+      "date": "2025-09-01",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "ENT reply: Skin prick test confirms dust mite allergy. Recommends continuation of current pharmacotherapy and offers sublingual immunotherapy (SLIT) after 3 months. No surgical intervention needed."
+    },
+    {
+      "memory_id": "X0580-m14",
+      "date": "2025-09-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "My nasal congestion has improved a lot since starting the nasal spray and montelukast. I still get occasional itchy eyes but overall I feel better. Energy levels are decent; I can manage my work shifts without needing naps."
+    },
+    {
+      "memory_id": "X0580-m15",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports good stamina; able to complete full workday without fatigue.\ncognition: Mini-Cog score 3/5 (negative) – annual screen passed.\nfalls: zero falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 5 regular (levothyroxine 100 mcg OD, rosuvastatin 10 mg OD, cetirizine 10 mg HS, fluticasone nasal spray, montelukast 10 mg HS); polypharmacy present – medication review per Beers criteria scheduled.\nmood: denies depression; reports occasional stress related to work.\ncarers: wife (Spouse).\ngoals: \"I want to maintain this level of energy and keep my allergies under control.\""
+    },
+    {
+      "memory_id": "X0580-m16",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.8 mIU/L (0.4-4.5)\nFree T4 14.2 pmol/L (12-22)\nLDL 92 mg/dL (<100)\nHDL 48 mg/dL (>40)\nTriglycerides 110 mg/dL (<150)\nALT 27 U/L\nAST 25 U/L\nCK 180 U/L"
+    },
+    {
+      "memory_id": "X0580-m17",
+      "date": "2026-02-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 100 mcg OD\nrosuvastatin 10 mg OD\nfenofibrate 145 mg OD\ncetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0580-m18",
+      "date": "2026-08-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original visit scheduled for 2026-08-15 moved to 2026-08-20 at 14:30 due to patient’s work conflict. Reason: routine follow‑up of hypothyroidism, dyslipidaemia and allergic rhinitis."
+    }
+  ]
+}

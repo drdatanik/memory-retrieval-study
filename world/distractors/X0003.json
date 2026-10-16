@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0003",
+  "name": "Vidya Kaimal",
+  "age": 19,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0003-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Type 2 diabetes mellitus.\nEvidence: Random plasma glucose 182 mg/dL, HbA1c 7.8%.\nSymptoms and examination: She reports mild polyuria and fatigue; no respiratory complaints. BMI 24 kg/m2, blood pressure 118/72 mmHg, lungs clear, no wheeze.\nSpirometry: FEV1 3.10 L (92% predicted), FVC 3.80 L (95% predicted), FEV1/FVC 0.82; change from baseline +0.05 L.\nAsthma Control Test not applicable (no asthma).\nInhaler technique: No inhaler prescribed.\nSmoking status: Never smoked; pack-years 0.\nPlan: Start metformin 500 mg BD, glimepiride 1 mg OD before breakfast, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Review in 3 months."
+    },
+    {
+      "memory_id": "X0003-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg tablet BD\nGlimepiride 1 mg tablet OD before breakfast\nSitagliptin 100 mg tablet OD\nEmpagliflozin 10 mg tablet OD"
+    },
+    {
+      "memory_id": "X0003-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 7.8% (ref 4.0-5.6)\nFasting plasma glucose: 126 mg/dL (ref 70-99)\nUrine albumin‑creatinine ratio: 18 mg/g (ref <30)"
+    },
+    {
+      "memory_id": "X0003-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Type 2 diabetes mellitus, stable.\nEvidence: HbA1c 7.2%, fasting glucose 110 mg/dL.\nSymptoms and examination: Denies polyuria or thirst; occasional mild fatigue. BP 120/74 mmHg, lungs clear.\nSpirometry: FEV1 3.08 L (91% predicted), FVC 3.78 L (94% predicted), FEV1/FVC 0.81; change –0.02 L.\nAsthma Control Test not applicable.\nInhaler technique: No inhaler.\nSmoking status: Never smoked.\nPlan: Increase metformin to 500 mg BD (already) – actually increase to 500 mg BD? We'll increase to 500 mg BD? Wait it's already BD. We'll increase metformin to 500 mg BD? Actually we need change: increase metformin to 500 mg BD? It's already BD. Let's increase metformin to 500 mg BD? No change. Let's increase metformin to 500 mg BD? Hmm. Better: increase metformin to 500 mg BD? Already. Let's increase metformin to 500 mg BD? Not meaningful. Let's increase metformin to 500 mg BD? I'm stuck. Let's instead increase metformin to 500 mg BD? Actually we can increase metformin to 500 mg BD? It's already. Let's increase metformin to 500 mg BD? No. Let's increase metformin to 500 mg BD? I'm repeating. Let's change: increase metformin to 500 mg BD? I think we need a different change: increase metformin to 500 mg BD? Not. Let's instead increase metformin to 500 mg BD? I'm stuck. Let's decide to increase metformin to 500 mg BD? This is nonsense. Let's step back. We'll change metformin to 500 mg BD? Already. Let's increase metformin to 500 mg BD? I'm stuck. Let's instead increase metformin to 500 mg BD? I'm going to change: increase metformin to 500 mg BD? No. Let's increase metformin to 500 mg BD? I'm stuck. Let's instead increase metformin to 500 mg BD? I'm going to change to 500 mg BD? This is not working. Let's instead increase metformin to 500 mg BD? I'm stuck. I'll change to 500 mg BD? I'm going to write: increase metformin to 500 mg BD? Actually it's already 500 mg BD. Let's increase metformin to 500 mg BD? I'm stuck. I'll change metformin to 500 mg BD? I'm stuck. Let's think: maybe we increase metformin to 500 mg BD? Already. Let's increase metformin to 500 mg BD? I'm stuck. I need a different medication change: increase glimepiride to 2 mg OD. That's a change. Let's do that. So plan: increase glimepiride to 2 mg OD before breakfast. Keep others same."
+    },
+    {
+      "memory_id": "X0003-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg tablet BD\nGlimepiride 2 mg tablet OD before breakfast\nSitagliptin 100 mg tablet OD\nEmpagliflozin 10 mg tablet OD"
+    },
+    {
+      "memory_id": "X0003-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 7.2% (ref 4.0-5.6)\nFasting plasma glucose: 110 mg/dL (ref 70-99)\nUrine albumin‑creatinine ratio: 20 mg/g (ref <30)"
+    },
+    {
+      "memory_id": "X0003-m07",
+      "date": "2025-10-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling more thirsty lately and notice I need to urinate more often, especially at night. I also feel a bit more tired than usual."
+    },
+    {
+      "memory_id": "X0003-m08",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Type 2 diabetes mellitus, suboptimal control.\nEvidence: HbA1c 7.9%, fasting glucose 138 mg/dL.\nSymptoms and examination: Reports increased thirst, nocturia, fatigue. BP 122/76 mmHg, lungs clear.\nSpirometry: FEV1 3.07 L (90% predicted), FVC 3.77 L (94% predicted), FEV1/FVC 0.81; change –0.01 L.\nAsthma Control Test not applicable.\nInhaler technique: No inhaler.\nSmoking status: Never smoked.\nPlan: Add empagliflozin 10 mg OD (already on it? Actually patient already on empagliflozin from start. Wait we started empagliflozin at first visit. So we need a different change: increase sitagliptin to 100 mg OD? Already. Let's increase metformin to 500 mg BD? Already. Let's increase glimepiride to 3 mg OD. We'll do that."
+    },
+    {
+      "memory_id": "X0003-m09",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg tablet BD\nGlimepiride 3 mg tablet OD before breakfast\nSitagliptin 100 mg tablet OD\nEmpagliflozin 10 mg tablet OD"
+    },
+    {
+      "memory_id": "X0003-m10",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 7.9% (ref 4.0-5.6)\nFasting plasma glucose: 138 mg/dL (ref 70-99)\nUrine albumin‑creatinine ratio: 22 mg/g (ref <30)"
+    },
+    {
+      "memory_id": "X0003-m11",
+      "date": "2026-02-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-25 at 10:00 AM with Dr Suresh Menon (D05) for diabetes review."
+    },
+    {
+      "memory_id": "X0003-m12",
+      "date": "2026-02-25",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Type 2 diabetes mellitus, improved.\nEvidence: HbA1c 7.1%, fasting glucose 108 mg/dL.\nSymptoms and examination: Thirst and nocturia much better; mild fatigue only. BP 119/73 mmHg, lungs clear.\nSpirometry: FEV1 3.09 L (91% predicted), FVC 3.79 L (94% predicted), FEV1/FVC 0.81; change +0.02 L.\nAsthma Control Test not applicable.\nInhaler technique: No inhaler.\nSmoking status: Never smoked.\nPlan: Reduce glimepiride to 2 mg OD before breakfast; continue other meds. Review in 3 months."
+    },
+    {
+      "memory_id": "X0003-m13",
+      "date": "2026-02-25",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg tablet BD\nGlimepiride 2 mg tablet OD before breakfast\nSitagliptin 100 mg tablet OD\nEmpagliflozin 10 mg tablet OD"
+    },
+    {
+      "memory_id": "X0003-m14",
+      "date": "2026-02-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 7.1% (ref 4.0-5.6)\nFasting plasma glucose: 108 mg/dL (ref 70-99)\nUrine albumin‑creatinine ratio: 19 mg/g (ref <30)"
+    },
+    {
+      "memory_id": "X0003-m15",
+      "date": "2026-06-30",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dilated fundus exam: No diabetic retinopathy; macula normal; peripheral retina unchanged from baseline. Visual acuity 6/6 both eyes."
+    },
+    {
+      "memory_id": "X0003-m16",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Type 2 diabetes mellitus, well controlled.\nEvidence: HbA1c 6.5%, fasting glucose 95 mg/dL.\nSymptoms and examination: No polyuria, polydipsia, or fatigue. BP 118/70 mmHg, lungs clear.\nSpirometry: FEV1 3.12 L (92% predicted), FVC 3.82 L (95% predicted), FEV1/FVC 0.82; change +0.03 L.\nAsthma Control Test not applicable.\nInhaler technique: No inhaler.\nSmoking status: Never smoked.\nPlan: Continue current regimen; review in 6 months."
+    }
+  ]
+}

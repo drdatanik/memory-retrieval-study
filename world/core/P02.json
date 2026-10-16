@@ -1,0 +1,96 @@
+{
+  "patient_id": "P02",
+  "name": "Arjun Nair",
+  "age": 45,
+  "sex": "M",
+  "primary_doctor": "D01",
+  "conditions": [
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "P02-m01",
+      "date": "2025-06-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake note: 45-year-old bank branch manager. Mostly desk-bound, little exercise. Says he was told he has 'sugar' at a health camp. Asks whether he can still eat rice, as it is served at every meal at home."
+    },
+    {
+      "memory_id": "P02-m02",
+      "date": "2025-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 9.4 % (reference below 5.7 %). Fasting plasma glucose 186 mg/dL (reference 70 to 99 mg/dL). Serum creatinine 0.9 mg/dL (reference 0.7 to 1.3 mg/dL)."
+    },
+    {
+      "memory_id": "P02-m03",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: New diagnosis of T2DM on screening. Sedentary, desk job. Calls it 'sugar'. No polyuria or weight loss reported. Asked whether he can keep eating rice.\nO: BP 128/82 mmHg, pulse 80/min, ht 172 cm, wt 88 kg, BMI 29.7. HbA1c 9.4 %, fasting glucose 186 mg/dL. Creatinine 0.9 mg/dL.\nA: 1. T2DM, newly diagnosed, HbA1c 9.4 %. 2. Overweight, BMI 29.7.\nP: 1. Start metformin (Glycomet) 500 mg BD with meals. 2. Cut white rice to 1 cup per meal; switch to brown rice or millets (ragi, jowar). 3. Walk 30 min, 5 days a week. 4. Aim to lose 5 kg. 5. Repeat HbA1c in 3 months. 6. Diabetes education given.\nAdv: Brown rice or millets instead of white rice, max 1 cup per meal; walk 30 min, 5 days a week; lose 5 kg. R/V in 3 months."
+    },
+    {
+      "memory_id": "P02-m04",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx: metformin 500 mg BD with breakfast and dinner. New start."
+    },
+    {
+      "memory_id": "P02-m05",
+      "date": "2025-09-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 7.2 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P02-m06",
+      "date": "2025-09-16",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Feels better, more energy. Taking metformin regularly, no GI side effects. Rice cut to about one cup at dinner, still has white rice at lunch. Walking twice a week only.\nO: BP 124/80 mmHg, pulse 76/min, wt 85 kg. HbA1c 7.2 %, down from 9.4 %.\nA: 1. T2DM, improving, near target. 2. Overweight, weight falling.\nP: 1. Continue metformin 500 mg BD. 2. Continue rice and walking plan. 3. Brown rice or millets at lunch as well.\nAdv: Switch fully to brown rice or ragi; walk 30 min, 5 days a week; lose 5 kg. R/V in 4 months."
+    },
+    {
+      "memory_id": "P02-m07",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 6.8 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P02-m08",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Compliant with metformin. Still has white rice at weekend dinners. Walking 2 to 3 times a week. No hypoglycaemia. Asks whether the plan is working.\nO: BP 126/80 mmHg, pulse 74/min, wt 84 kg. HbA1c 6.8 %, down from 7.2 %.\nA: 1. T2DM, well controlled on metformin alone. 2. Overweight, improving.\nP: 1. Continue metformin 500 mg BD, unchanged. 2. Repeat advice: cut white rice to 1 cup per meal; switch to brown rice or millets (ragi, jowar). 3. Walk 30 min, 5 days a week. 4. Lose 5 kg.\nAdv: As above. Avoid sugared tea and cold drinks. R/V in 6 months."
+    },
+    {
+      "memory_id": "P02-m09",
+      "date": "2026-02-12",
+      "type": "investigation",
+      "author": "D01",
+      "text": "Dilated fundus examination of both eyes, done as part of the annual diabetes review. Findings: normal, with no diabetic retinopathy seen in either eye. Macula and optic discs appear normal on examination. Next annual dilated examination due in 2027."
+    },
+    {
+      "memory_id": "P02-m10",
+      "date": "2026-07-21",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 6.6 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P02-m11",
+      "date": "2026-07-21",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Feels well. Metformin taken regularly, no GI upset. Brown rice most days, white rice only occasionally at weekends. Walking about 3 times a week.\nO: BP 122/78 mmHg, pulse 72/min, wt 82 kg (88 kg in June 2025), BMI 27.7. HbA1c 6.6 %.\nA: 1. T2DM, well controlled on metformin. 2. Overweight, weight down 6 kg; 5 kg target reached.\nP: 1. Continue metformin 500 mg BD. 2. Continue the same plan: 1 cup rice per meal, brown rice or millets. 3. Repeat HbA1c in 6 months.\nAdv: Keep walking 30 min, 5 days a week; maintain current weight. R/V in 6 months."
+    },
+    {
+      "memory_id": "P02-m12",
+      "date": "2026-07-21",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up with Dr Anjali Mehta (D01) booked for 2027-01-19 at 09:00, for review and repeat HbA1c. Fasting is not required for the HbA1c test. Please bring your metformin strip and any home sugar readings."
+    }
+  ]
+}

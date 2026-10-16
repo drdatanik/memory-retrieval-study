@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0425",
+  "name": "Sukanya Mitra",
+  "age": 86,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Polycystic ovary syndrome",
+    "Coronary artery disease",
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0425-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of polycystic ovary syndrome, coronary artery disease and insomnia.\nPRESENTING COMPLAINT: She reports stable exertional dyspnoea on walking 200 m, occasional palpitations, and difficulty falling asleep despite melatonin.\nEXAMINATION: BP 138/82 mmHg, pulse 78/min regular, weight 55 kg, height 150 cm, BMI 24.4 (overweight). No peripheral edema, lungs clear, cardiac rhythm regular sinus, no murmurs.\nIMPRESSION: 1. PCOS – on metformin and OC pill, HbA1c 5.8% (pre‑diabetic range), testosterone mildly elevated. 2. CAD – on aspirin, atorvastatin, metoprolol, isosorbide mononitrate, GTN SOS; lipid profile shows LDL 110 mg/dL. 3. Insomnia – melatonin 3 mg HS, reports nocturnal awakenings.\nARRANGEMENTS: Continue current medicines. Advise diet low in refined carbs, increase walking to 30 min daily. Return if chest pain, breathlessness > usual, fever >39°C, or bloody stools. Influenza vaccine not due today (outside autumn)."
+    },
+    {
+      "memory_id": "X0425-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg BD\nCombined oral contraceptive pill (ethinylestradiol 0.03 mg + levonorgestrel 0.15 mg) OD\nAtorvastatin 40 mg HS\nAspirin 75 mg OD\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN 0.4 mg SOS\nMelatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0425-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 185 mg/dL (ref <200), LDL‑C 110 mg/dL (ref <100), HDL‑C 48 mg/dL (ref >40), Triglycerides 130 mg/dL (ref <150).\nFasting blood sugar: 98 mg/dL (ref 70‑100).\nHbA1c: 5.8% (ref 4‑5.6).\nSerum testosterone: 48 ng/dL (female ref 15‑70).\nLH: 6.2 IU/L, FSH: 5.8 IU/L, LH:FSH ratio 1.07.\nTSH: 2.1 mIU/L (ref 0.4‑4.0).\nHaemoglobin: 12.4 g/dL (female ref 12‑16)."
+    },
+    {
+      "memory_id": "X0425-m04",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "ECG: Sinus rhythm, rate 76/min. No ST‑segment depression or elevation. QRS duration 92 ms. Left ventricular voltage within normal limits. No pathologic Q waves. Impression: Normal ECG for age."
+    },
+    {
+      "memory_id": "X0425-m05",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been waking up around 3 am most nights and find it hard to get back to sleep. I feel a bit more tired during the day and noticed my heart racing when I climb the auto‑rickshaw seat."
+    },
+    {
+      "memory_id": "X0425-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of insomnia symptoms and lipid results.\nPRESENTING COMPLAINT: Patient reports worsening sleep onset latency, frequent nocturnal awakenings, and occasional daytime palpitations.\nEXAMINATION: BP 142/86 mmHg, pulse 80/min, weight 55 kg, BMI 24.4 (overweight). No new cardiac murmurs, lungs clear.\nIMPRESSION: 1. Insomnia – persistent despite melatonin; consider adding low‑dose trazodone. 2. CAD – LDL remains above target; consider intensifying statin. 3. PCOS – HbA1c stable.\nARRANGEMENTS: Increase atorvastatin to 40 mg HS (already) – actually continue; add trazodone 50 mg HS for sleep. Advise weight‑neutral diet, limit caffeine after 4 pm, regular bedtime routine. Return if chest pain, palpitations with dizziness, breathlessness at rest, or fever >39°C. Influenza vaccine not due."
+    },
+    {
+      "memory_id": "X0425-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg BD\nCombined oral contraceptive pill OD\nAtorvastatin 40 mg HS\nAspirin 75 mg OD\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS\nMelatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0425-m08",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for influenza vaccination on 2025-10-15 at 10:00 am with Dr Priya Natarajan (D03). Patient to bring vaccine consent form."
+    },
+    {
+      "memory_id": "X0425-m09",
+      "date": "2025-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 178 mg/dL, LDL‑C 102 mg/dL (just above target), HDL‑C 50 mg/dL, Triglycerides 120 mg/dL.\nFasting blood sugar: 95 mg/dL.\nHbA1c: 5.7%.\nTSH: 2.0 mIU/L.\nHaemoglobin: 12.5 g/dL."
+    },
+    {
+      "memory_id": "X0425-m10",
+      "date": "2025-10-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Transthoracic echocardiogram: Left ventricular ejection fraction 58% (normal). Mild left atrial enlargement. No significant valvular stenosis or regurgitation. No regional wall motion abnormality. Impression: Normal systolic function, no evidence of ischemic cardiomyopathy."
+    },
+    {
+      "memory_id": "X0425-m11",
+      "date": "2026-04-08",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review and influenza vaccination.\nPRESENTING COMPLAINT: Patient reports improved sleep on trazodone, occasional mild palpitations on exertion, otherwise well.\nEXAMINATION: BP 140/84 mmHg, pulse 78/min, weight 55 kg, BMI 24.4 (overweight). Lungs clear, cardiac rhythm regular.\nIMPRESSION: 1. PCOS – stable on metformin and OC pill, HbA1c 5.7%. 2. CAD – LDL 102 mg/dL, continue atorvastatin, aspirin, metoprolol, isosorbide mononitrate. 3. Insomnia – trazodone 50 mg HS effective, melatonin continued.\nARRANGEMENTS: Influenza vaccine administered today (2026-04-08). Advise continue low‑salt diet, maintain walking 30 min daily, limit alcohol. Return if chest pain, breathlessness at rest, fever >39°C, or sudden swelling of legs. Next review in 6 months."
+    },
+    {
+      "memory_id": "X0425-m12",
+      "date": "2026-04-08",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg BD\nCombined oral contraceptive pill OD\nAtorvastatin 40 mg HS\nAspirin 75 mg OD\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS\nMelatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0425-m13",
+      "date": "2026-05-20",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Cardiology outpatient review (Dr S. Rao) – ECG normal, echocardiogram shows LVEF 58%, no ischemic changes. Recommend continuing current CAD meds, repeat lipid profile in 6 months, consider exercise stress test if symptoms worsen. No intervention required at this time."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0440",
+  "name": "Vijayalakshmi Gowda",
+  "age": 81,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Chronic kidney disease",
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0440-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks unaided, reports mild fatigue.\ncognition: Mini-Cog score 4/5 (recall 3, clock draw normal).\nfalls: No falls in past 12 months; gait steady; TUG 10 seconds.\nmedicines: 6 regular\nPolypharmacy – review against Beers criteria advised.\nmood: Denies low mood, reports occasional anxiety.\ncarers: Main carer Priya, daughter.\ngoals: \"I want to stay active and manage my kidney health.\""
+    },
+    {
+      "memory_id": "X0440-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD; dapagliflozin 10 mg OD; furosemide 20 mg OD; sodium bicarbonate 500 mg BD; melatonin 3 mg HS; trazodone 50 mg HS."
+    },
+    {
+      "memory_id": "X0440-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.3 mg/dL (0.6-1.2); eGFR 48 mL/min/1.73m2 (>60); urine albumin-creatinine ratio 85 mg/g (<30); haemoglobin 11.8 g/dL (12-16); TSH 2.1 µIU/mL (0.4-4.0); Insomnia Severity Index score 10 (0-28)."
+    },
+    {
+      "memory_id": "X0440-m04",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independence maintained, occasional shortness of breath on exertion.\ncognition: Mini-Cog not repeated (annual due next visit).\nfalls: One fall at home 3 months ago, no injury; gait slightly unsteady; TUG 13 seconds (raised fall risk) – advise exercise and supportive footwear.\nmedicines: 7 regular\nPolypharmacy – review against Beers criteria advised.\nmood: Reports low mood two days/week, denies hopelessness.\ncarers: Main carer Priya, daughter.\ngoals: \"I wish to stay mobile and avoid further falls.\""
+    },
+    {
+      "memory_id": "X0440-m05",
+      "date": "2025-08-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD; dapagliflozin 10 mg OD; furosemide increased to 40 mg OD; sodium bicarbonate 500 mg BD; melatonin 3 mg HS; trazodone 50 mg HS."
+    },
+    {
+      "memory_id": "X0440-m06",
+      "date": "2025-08-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.5 mg/dL (0.6-1.2); eGFR 42 mL/min/1.73m2 (>60); urine albumin-creatinine ratio 110 mg/g (<30); haemoglobin 11.2 g/dL (12-16); TSH 2.3 µIU/mL (0.4-4.0); Insomnia Severity Index score 12 (0-28)."
+    },
+    {
+      "memory_id": "X0440-m07",
+      "date": "2026-01-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-15 10:30 with Dr Nandini Kulkarni (D06) for geriatric review."
+    },
+    {
+      "memory_id": "X0440-m08",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independence with mild fatigue, walks with cane outdoors.\ncognition: Mini-Cog score 3/5 (recall 2, clock draw mild abnormality) – positive screen, schedule full cognitive assessment.\nfalls: No new falls; gait cautious; TUG 11 seconds (borderline) – continue exercise, review footwear.\nmedicines: 6 regular\nPolypharmacy – review against Beers criteria advised.\nmood: Improved mood, reports better sleep.\ncarers: Main carer Priya, daughter.\ngoals: \"I want to keep my mind sharp and stay independent.\""
+    },
+    {
+      "memory_id": "X0440-m09",
+      "date": "2026-02-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan reduced to 20 mg OD; dapagliflozin 10 mg OD; furosemide 20 mg OD; sodium bicarbonate 500 mg BD; melatonin 3 mg HS; trazodone discontinued."
+    },
+    {
+      "memory_id": "X0440-m10",
+      "date": "2026-02-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.4 mg/dL (0.6-1.2); eGFR 44 mL/min/1.73m2 (>60); urine albumin-creatinine ratio 95 mg/g (<30); haemoglobin 11.9 g/dL (12-16); TSH 2.0 µIU/mL (0.4-4.0); Insomnia Severity Index score 8 (0-28)."
+    },
+    {
+      "memory_id": "X0440-m11",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independence maintained, walks unaided, reports good energy.\ncognition: Mini-Cog not due (annual done Feb).\nfalls: No falls in past year; gait steady; TUG 9 seconds.\nmedicines: 5 regular\nPolypharmacy – review against Beers criteria advised.\nmood: Denies depression or anxiety.\ncarers: Main carer Priya, daughter.\ngoals: \"I wish to remain healthy and enjoy time with my family.\""
+    },
+    {
+      "memory_id": "X0440-m12",
+      "date": "2026-09-30",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 20 mg OD; dapagliflozin 10 mg OD; furosemide 20 mg OD; sodium bicarbonate 500 mg BD; melatonin 3 mg HS."
+    },
+    {
+      "memory_id": "X0440-m13",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.3 mg/dL (0.6-1.2); eGFR 48 mL/min/1.73m2 (>60); urine albumin-creatinine ratio 80 mg/g (<30); haemoglobin 12.4 g/dL (12-16); TSH 1.9 µIU/mL (0.4-4.0); Insomnia Severity Index score 6 (0-28)."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0375",
+  "name": "Mohammed Siddiqui",
+  "age": 55,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Gastro-oesophageal reflux",
+    "Chronic urticaria",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0375-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "GERD with heartburn and regurgitation. Chronic urticaria with daily wheals. Hypothyroidism on levothyroxine 50 mcg. Symptoms: retrosternal burning after meals, pruritic wheals especially evenings, fatigue, weight gain. Exam: BMI 28, mild epigastric tenderness, no lymphadenopathy, skin shows scattered erythematous wheals. Plan: start pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, antacid gel SOS, levothyroxine 50 mcg OD, levocetirizine 5 mg OD. Order H. pylori stool antigen, CBC with eosinophils, TSH, free T4."
+    },
+    {
+      "memory_id": "X0375-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg OD before breakfast\n domperidone 10 mg BD before meals\n antacid gel SOS\n levothyroxine 50 mcg OD\n levocetirizine 5 mg OD"
+    },
+    {
+      "memory_id": "X0375-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: negative\n CBC: WBC 6.2 x10^9/L, Hb 13.8 g/dL, platelets 210 x10^9/L, eosinophils 0.4 x10^9/L (5%)\n TSH: 6.8 mIU/L (ref 0.4-4.5)\n Free T4: 9.2 pmol/L (ref 10-22)"
+    },
+    {
+      "memory_id": "X0375-m04",
+      "date": "2025-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 at 10:00 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0375-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "GERD: heartburn reduced to twice weekly. Urticaria: wheals persist despite levocetirizine, worse at night. Hypothyroidism: fatigue improved slightly. Exam: no abdominal tenderness, skin shows scattered wheals, no thyroid enlargement. Spirometry: FEV1 2.85 L (92% pred), FVC 3.40 L (88%), FEV1/FVC 0.84 (no change). Asthma Control Test not applicable. Plan: increase levothyroxine to 75 mcg OD, add cetirizine 10 mg HS, continue pantoprazole and domperidone, levocetirizine OD."
+    },
+    {
+      "memory_id": "X0375-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg OD before breakfast\n domperidone 10 mg BD before meals\n antacid gel SOS\n levothyroxine 75 mcg OD\n levocetirizine 5 mg OD\n cetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0375-m07",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 3.2 mIU/L (ref 0.4-4.5)\n Free T4: 13.5 pmol/L (ref 10-22)\n CBC: eosinophils 0.3 x10^9/L (4%)"
+    },
+    {
+      "memory_id": "X0375-m08",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'Doctor, my hives have flared again over the past week, especially after eating out. I missed my evening cetirizine a couple of times. Also feeling some throat burn after spicy meals.'"
+    },
+    {
+      "memory_id": "X0375-m09",
+      "date": "2025-09-03",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray (PA): lungs clear, no infiltrate or pleural effusion. Cardiac silhouette normal. No evidence of pneumonia or malignancy. Mild hiatal shadow suggestive of hiatus hernia."
+    },
+    {
+      "memory_id": "X0375-m10",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "GERD: symptoms controlled on current regimen, occasional heartburn after heavy meals. Urticaria: daily wheals, some angio‑edema of lips, poorly controlled despite dual antihistamines. Hypothyroidism: euthyroid on levothyroxine 75 mcg. Exam: BMI 27.5, no thyroid nodule, skin shows widespread wheals with occasional lip swelling. Plan: refer to dermatology for chronic urticaria evaluation, continue current meds, consider step‑down pantoprazole if GERD stays stable."
+    },
+    {
+      "memory_id": "X0375-m11",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg OD before breakfast\n domperidone 10 mg BD before meals\n antacid gel SOS\n levothyroxine 75 mcg OD\n levocetirizine 5 mg OD\n cetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0375-m12",
+      "date": "2025-10-08",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Dermatology, Bangalore Medical Centre for evaluation of chronic urticaria inadequately responding to high‑dose second‑generation antihistamines. Request assessment for possible autoimmune urticaria and consideration of omalizumab."
+    },
+    {
+      "memory_id": "X0375-m13",
+      "date": "2025-11-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Dermatology review: chronic spontaneous urticaria, autologous serum skin test positive. Recommend continuing levocetirizine 10 mg OD and cetirizine 10 mg HS, add low‑dose prednisolone 5 mg alternate days for 2 weeks, consider omalizumab if refractory. No immediate need for adrenal suppression."
+    },
+    {
+      "memory_id": "X0375-m14",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "GERD: heartburn absent for 4 weeks, no regurgitation. Tolerating reduced pantoprazole. Urticaria: wheal frequency down to 3‑4 days/week after dermatology advice, no angio‑edema. Hypothyroidism: stable on levothyroxine 75 mcg. Exam: BMI 26.8, skin shows faint scattered wheals, no thyroid enlargement. Spirometry: FEV1 2.90 L (94% pred), FVC 3.45 L (90%), FEV1/FVC 0.84 (+0.05 L vs last). Plan: step down pantoprazole to 20 mg OD, continue domperidone PRS, levothyroxine 75 mcg, antihistamines as prescribed."
+    },
+    {
+      "memory_id": "X0375-m15",
+      "date": "2026-02-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 20 mg OD before breakfast\n domperidone 10 mg BD before meals (as needed)\n antacid gel SOS\n levothyroxine 75 mcg OD\n levocetirizine 5 mg OD\n cetirizine 10 mg HS"
+    }
+  ]
+}

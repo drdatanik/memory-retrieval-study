@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0291",
+  "name": "Nagaraj Nayak",
+  "age": 55,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Glaucoma",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0291-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Mild intermittent asthma, glaucoma, hypothyroidism.\nSymptoms: occasional wheeze after exertion, no night symptoms. Eye: no visual change, using timolol and latanoprost as prescribed. Energy normal, no weight change.\nExamination: respiratory rate 16, breath sounds bilaterally clear, no wheeze. Eyes: pupils equal, reactive, no conjunctival injection.\nSpirometry: FEV1 2.85 L (92% pred), FVC 3.40 L (88% pred), FEV1/FVC 0.84; change from baseline +0.02 L.\nAsthma Control Test score 22 (well controlled).\nTechnique checked: correct.\nSmoking status: never.\nPlan: Continue salbutamol metered-dose inhaler as needed. Continue timolol 0.5% eye drops BD and latanoprost 0.005% eye drops HS. Levothyroxine 50 mcg OD. Review in 3 months."
+    },
+    {
+      "memory_id": "X0291-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "salbutamol metered-dose inhaler 100 mcg, 2 puffs PRN wheeze\nlevothyroxine sodium 50 mcg, take 1 tablet daily\ntimolol maleate 0.5% eye drops, instill 1 drop in each eye twice daily\nlatanoprost 0.005% eye drops, instill 1 drop in each eye at bedtime"
+    },
+    {
+      "memory_id": "X0291-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.8 mIU/L (ref 0.4-4.0)\nFree T4 11.2 pmol/L (ref 9.0-19.0)"
+    },
+    {
+      "memory_id": "X0291-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma stable, hypothyroidism suboptimal, asthma well controlled.\nSymptoms: no wheeze, using salbutamol <2x/week. Eye: no blur, drops tolerated. Energy better, no weight change.\nExamination: lungs clear, no wheeze. Eyes: pupils reactive, no redness.\nSpirometry: FEV1 2.88 L (93% pred), FVC 3.42 L (89% pred), FEV1/FVC 0.84; change +0.03 L.\nAsthma Control Test score 21 (well controlled).\nTechnique checked: correct.\nSmoking: never.\nPlan: Increase levothyroxine to 75 mcg OD. Continue glaucoma drops and salbutamol PRN. Recheck TSH in 6 weeks."
+    },
+    {
+      "memory_id": "X0291-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levothyroxine sodium 75 mcg, take 1 tablet daily"
+    },
+    {
+      "memory_id": "X0291-m06",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Visual field test ( Humphrey 24-2 ): Mean deviation -0.2 dB (within normal limits). Pattern standard deviation normal. No glaucomatous defect."
+    },
+    {
+      "memory_id": "X0291-m07",
+      "date": "2025-10-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve had mild itching in both eyes for the past three days, worse in the mornings. No discharge or vision change. I continue my eye drops as prescribed."
+    },
+    {
+      "memory_id": "X0291-m08",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "All conditions stable.\nSymptoms: no wheeze, using salbutamol once/week. Eyes: itching resolved after lubricant drops. Energy good.\nExamination: lungs clear. Eyes: no injection, pupils equal.\nSpirometry: FEV1 2.90 L (94% pred), FVC 3.44 L (90% pred), FEV1/FVC 0.84; change +0.02 L.\nAsthma Control Test score 20 (well controlled).\nTechnique checked: correct.\nSmoking: never.\nPlan: Continue levothyroxine 75 mcg OD, glaucoma drops, salbutamol PRN. Reassess in 3 months."
+    },
+    {
+      "memory_id": "X0291-m09",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 5.6 mIU/L (ref 0.4-4.0)\nFree T4 10.8 pmol/L (ref 9.0-19.0)"
+    },
+    {
+      "memory_id": "X0291-m10",
+      "date": "2026-02-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levothyroxine sodium 100 mcg, take 1 tablet daily"
+    },
+    {
+      "memory_id": "X0291-m11",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma, hypothyroidism, asthma all controlled.\nSymptoms: no wheeze, salbutamol <1x/week. Eyes: no irritation, vision stable. Energy normal.\nExamination: lungs clear, no wheeze. Eyes: quiet anterior chamber.\nSpirometry: FEV1 2.92 L (95% pred), FVC 3.46 L (90% pred), FEV1/FVC 0.84; change +0.02 L.\nAsthma Control Test score 23 (well controlled).\nTechnique checked: correct.\nSmoking: never.\nPlan: Continue current glaucoma drops, levothyroxine 100 mcg OD, salbutamol PRN. Review in 3 months."
+    },
+    {
+      "memory_id": "X0291-m12",
+      "date": "2026-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-07-10 at 09:30 with Dr Suresh Menon (D05) for routine review."
+    },
+    {
+      "memory_id": "X0291-m13",
+      "date": "2026-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "All stable.\nSymptoms: no wheeze, salbutamol nil. Eyes: comfortable, vision 6/6 each. Energy good.\nExamination: lungs clear. Eyes: IOP measured 16 mmHg OD, 15 mmHg OS (within target).\nSpirometry: FEV1 2.93 L (95% pred), FVC 3.47 L (90% pred), FEV1/FVC 0.84; change +0.01 L.\nAsthma Control Test score 22 (well controlled).\nTechnique checked: correct.\nSmoking: never.\nPlan: Continue levothyroxine 100 mcg OD, glaucoma drops, salbutamol PRN as needed. Next review in 4 months."
+    }
+  ]
+}

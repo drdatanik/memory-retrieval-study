@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0366",
+  "name": "Kannan Iyer",
+  "age": 76,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Epilepsy",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0366-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: On levetiracetam 500 mg BD and lamotrigine 50 mg BD, seizure-free for past 6 months.\n  - Plan: Continue current regimen; check serum sodium and creatinine today.\n- Hypertension\n  - Status: On amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD; BP today 138/86 mmHg.\n  - Plan: Add low‑salt diet advice; recheck BP in 4 weeks.\n- Weight 78 kg, waist circumference 92 cm (male cut‑off 90 cm) – slightly elevated.\n- Diet advice: Breakfast – whole grain toast with egg white; Lunch – vegetable‑rich khichdi with limited oil; Dinner – grilled fish with steamed vegetables.\n- Due: HbA1c repeat on 2025-07-05 (3 months)."
+    },
+    {
+      "memory_id": "X0366-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg BD after food\nLamotrigine 50 mg BD after food\nAmlodipine 5 mg OD morning after food\nTelmisartan 40 mg OD morning after food\nLosartan 50 mg OD evening after food\nHydrochlorothiazide 12.5 mg OD morning after food"
+    },
+    {
+      "memory_id": "X0366-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (4.0‑5.6)\nSerum sodium 138 mmol/L (135‑145)\nSerum creatinine 1.1 mg/dL (0.6‑1.2)\neGFR 62 mL/min/1.73m2 (>60)\nSerum potassium 4.4 mmol/L (3.5‑5.0)\nTotal cholesterol 210 mg/dL (<200)\nHDL cholesterol 38 mg/dL (>40)\nLDL cholesterol 124 mg/dL (<100)\nTriglycerides 165 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0366-m04",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D04",
+      "text": "12‑lead ECG: Sinus rhythm, rate 78 bpm. No ST‑segment changes. Left ventricular voltage within normal limits. No arrhythmia detected."
+    },
+    {
+      "memory_id": "X0366-m05",
+      "date": "2025-05-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have felt occasional light‑headedness when I stand up quickly, especially after mornings. No loss of consciousness. My seizures remain under control."
+    },
+    {
+      "memory_id": "X0366-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Still seizure‑free on levetiracetam 500 mg BD and lamotrigine 50 mg BD; no side effects reported.\n  - Plan: Continue same drugs; repeat serum sodium in 3 months.\n- Hypertension\n  - Status: BP today 142/90 mmHg on current regimen; mild rise from last visit.\n  - Plan: Increase amlodipine to 5 mg BD; reinforce low‑salt diet; review in 4 weeks.\n- Weight 80 kg, waist circumference 94 cm (male cut‑off 90 cm) – above target.\n- Diet advice: Breakfast – oats with skim milk and nuts; Lunch – mixed vegetable sambar with brown rice, minimal oil; Dinner – chapati with dal and sautéed greens.\n- Due: HbA1c repeat on 2025-10-10 (3 months)."
+    },
+    {
+      "memory_id": "X0366-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg BD after food\nLamotrigine 50 mg BD after food\nAmlodipine 5 mg BD morning and evening after food\nTelmisartan 40 mg OD morning after food\nLosartan 50 mg OD evening after food\nHydrochlorothiazide 12.5 mg OD morning after food"
+    },
+    {
+      "memory_id": "X0366-m08",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium 137 mmol/L (135‑145)\nSerum creatinine 1.0 mg/dL (0.6‑1.2)\neGFR 66 mL/min/1.73m2 (>60)\nSerum potassium 4.6 mmol/L (3.5‑5.0)\nHbA1c 7.5% (4.0‑5.6)"
+    },
+    {
+      "memory_id": "X0366-m09",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: Awake and sleep records show no epileptiform discharges. Background activity normal for age. No focal slowing. Study supports continued seizure control on current medication."
+    },
+    {
+      "memory_id": "X0366-m10",
+      "date": "2025-09-01",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Cardiovascular Medicine, Narayana Health, Bengaluru. Reason: Persistent hypertension despite four‑drug regimen; need specialist review for possible secondary causes and device‑based therapy."
+    },
+    {
+      "memory_id": "X0366-m11",
+      "date": "2025-10-10",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Cardiology review completed. Secondary work‑up negative. Advised to add spironolactone 25 mg OD and consider renal denervation if BP remains >140/90 after 3 months. Continue current agents; monitor potassium."
+    },
+    {
+      "memory_id": "X0366-m12",
+      "date": "2025-10-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Karthik Hegde (D04) for 2026-01-20 at 10:30 AM. Patient to bring recent BP log and medication list."
+    },
+    {
+      "memory_id": "X0366-m13",
+      "date": "2026-09-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure‑free on levetiracetam 500 mg BD and lamotrigine 50 mg BD; no adverse effects.\n  - Plan: Continue same; annual EEG if clinically indicated.\n- Hypertension\n  - Status: On amlodipine 5 mg BD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD, plus spironolactone 25 mg OD (added per cardiology). BP today 128/78 mmHg, within target.\n  - Plan: Maintain regimen; repeat lipid profile annually.\n- Weight 78 kg, waist circumference 88 cm (male cut‑off 90 cm) – now within limit.\n- Diet advice: Breakfast – multigrain toast with avocado; Lunch – quinoa salad with chickpeas and veggies; Dinner – grilled chicken with sautéed broccoli.\n- Due: HbA1c repeat on 2026-12-20 (3 months)."
+    }
+  ]
+}

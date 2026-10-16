@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0051",
+  "name": "Imtiaz Hussain",
+  "age": 36,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0051-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency.\nPatient reports fatigue and occasional muscle aches; examination shows mild proximal muscle tenderness, no bony deformities. Smoking status: never (0 pack-years). Serum 25‑hydroxyvitamin D pending; calcium and phosphate within normal limits."
+    },
+    {
+      "memory_id": "X0051-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 60000 IU once weekly for 8 weeks, then cholecalciferol 1000 IU once daily."
+    },
+    {
+      "memory_id": "X0051-m03",
+      "date": "2025-05-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 12 ng/mL (ref 30‑100).\nSerum calcium: 9.2 mg/dL (ref 8.5‑10.5).\nSerum phosphate: 3.4 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0051-m04",
+      "date": "2025-06-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, ongoing.\nPatient adheres to weekly high‑dose cholecalciferol; reports reduced fatigue, no new symptoms. Exam: mild proximal tenderness improved. Smoking status: never (0 pack-years)."
+    },
+    {
+      "memory_id": "X0051-m05",
+      "date": "2025-06-22",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 60000 IU once weekly for 8 weeks, then cholecalciferol 1000 IU once daily."
+    },
+    {
+      "memory_id": "X0051-m06",
+      "date": "2025-07-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 22 ng/mL (ref 30‑100).\nSerum calcium: 9.3 mg/dL (ref 8.5‑10.5).\nSerum phosphate: 3.5 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0051-m07",
+      "date": "2025-07-27",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 1000 IU once daily."
+    },
+    {
+      "memory_id": "X0051-m08",
+      "date": "2025-09-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, improving.\nPatient feels well, no musculoskeletal pain; takes cholecalciferol 1000 IU daily. Exam: normal muscle tone, no tenderness. Smoking status: never (0 pack-years)."
+    },
+    {
+      "memory_id": "X0051-m09",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 38 ng/mL (ref 30‑100).\nSerum calcium: 9.4 mg/dL (ref 8.5‑10.5).\nSerum phosphate: 3.6 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0051-m10",
+      "date": "2026-03-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling a bit more tired lately and notice occasional lower back ache after long hours at the desk. Wondering if my vitamin D levels have dropped again."
+    },
+    {
+      "memory_id": "X0051-m11",
+      "date": "2026-03-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-04-05 at 10:30 am with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0051-m12",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, stable.\nPatient reports mild fatigue and occasional back ache; exam shows no tenderness, normal strength. Smoking status: never (0 pack-years). Decision to repeat vitamin D level."
+    }
+  ]
+}

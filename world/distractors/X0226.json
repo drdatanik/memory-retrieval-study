@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0226",
+  "name": "Sudhir Ghorpade",
+  "age": 51,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0226-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 142/88 mmHg, symptomatic mild headache.\n  - Plan: Start amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD; lifestyle advice.\n- Weight: 78 kg\n- Waist: 92 cm (above male cut-off 90 cm).\n- Diet advice: Breakfast – whole grain toast with egg white and tea; Lunch – mixed vegetable salad with chapati; Dinner – lentil soup and steamed fish.\n- Due: Next HbA1c due 2025-07-05."
+    },
+    {
+      "memory_id": "X0226-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg 1-0-0 after food\ntelmisartan 40 mg 1-0-0 after food\nlosartan 50 mg 1-0-0 after food\nhydrochlorothiazide 12.5 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0226-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Creatinine: 0.9 mg/dL (0.6-1.2)\neGFR: 88 mL/min/1.73m2 (>60)\nSerum Potassium: 4.3 mmol/L (3.5-5.0)"
+    },
+    {
+      "memory_id": "X0226-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG: Sinus rhythm, rate 78 bpm. No ST-T changes. No evidence of ischemia or left ventricular hypertrophy."
+    },
+    {
+      "memory_id": "X0226-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling occasional dull headache in the mornings and notice my feet swell a bit after long hours at the flower shop. No chest pain or breathlessness."
+    },
+    {
+      "memory_id": "X0226-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 130/82 mmHg, no headache, mild ankle swelling persists.\n  - Plan: Continue current regimen; add low-dose spironolactone 12.5 mg OD if edema worsens; advise leg elevation.\n- Weight: 77.5 kg\n- Waist: 90 cm (at cut-off).\n- Diet advice: Breakfast – oatmeal with skim milk and fruit; Lunch – brown rice with dal and steamed vegetables; Dinner – grilled chicken with salad.\n- Due: Next HbA1c due 2025-10-10."
+    },
+    {
+      "memory_id": "X0226-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg 1-0-0 after food\ntelmisartan 40 mg 1-0-0 after food\nlosartan 50 mg 1-0-0 after food\nhydrochlorothiazide 12.5 mg 1-0-0 after food\nspironolactone 12.5 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0226-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Creatinine: 0.92 mg/dL (0.6-1.2)\neGFR: 85 mL/min/1.73m2 (>60)\nSerum Potassium: 4.6 mmol/L (3.5-5.0)"
+    },
+    {
+      "memory_id": "X0226-m09",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "The swelling in my ankles has reduced a bit after I started putting my feet up during breaks. Headache is gone. I feel more energetic."
+    },
+    {
+      "memory_id": "X0226-m10",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-10-15 at 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0226-m11",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 124/78 mmHg, no edema, asymptomatic.\n  - Plan: Continue current medicines; consider tapering hydrochlorothiazide to 6.25 mg OD if BP remains <130/80.\n- Weight: 76.8 kg\n- Waist: 88 cm (below male cut-off).\n- Diet advice: Breakfast – idli with sambar and green tea; Lunch – quinoa paneer stir-fry; Dinner – fish curry with brown rice.\n- Due: Next HbA1c due 2026-01-15."
+    },
+    {
+      "memory_id": "X0226-m12",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg 1-0-0 after food\ntelmisartan 40 mg 1-0-0 after food\nlosartan 50 mg 1-0-0 after food\nhydrochlorothiazide 6.25 mg 1-0-0 after food\nspironolactone 12.5 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0226-m13",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Creatinine: 0.90 mg/dL (0.6-1.2)\neGFR: 87 mL/min/1.73m2 (>60)\nSerum Potassium: 4.4 mmol/L (3.5-5.0)"
+    },
+    {
+      "memory_id": "X0226-m14",
+      "date": "2025-10-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Eye exam: Visual acuity 6/6 both eyes. No retinopathy. Intraocular pressure normal."
+    },
+    {
+      "memory_id": "X0226-m15",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 128/80 mmHg, no symptoms.\n  - Plan: Maintain current doses; reinforce low-salt diet; review in 3 months.\n- Weight: 76.2 kg\n- Waist: 86 cm (below cut-off).\n- Diet advice: Breakfast – wheat toast with avocado and egg; Lunch – millet biryani with raita; Dinner – vegetable stew with chapati.\n- Due: Next HbA1c due 2026-05-20."
+    },
+    {
+      "memory_id": "X0226-m16",
+      "date": "2026-02-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg 1-0-0 after food\ntelmisartan 40 mg 1-0-0 after food\nlosartan 50 mg 1-0-0 after food\nhydrochlorothiazide 6.25 mg 1-0-0 after food\nspironolactone 12.5 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0226-m17",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Creatinine: 0.91 mg/dL (0.6-1.2)\neGFR: 86 mL/min/1.73m2 (>60)\nSerum Potassium: 4.5 mmol/L (3.5-5.0)"
+    }
+  ]
+}

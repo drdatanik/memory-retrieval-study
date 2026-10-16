@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0049",
+  "name": "Balasubramanian Sundaram",
+  "age": 27,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Allergic rhinitis",
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0049-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 27‑year‑old male shop owner reports recurrent sneezing, nasal congestion, itchy eyes and daily hives for 8 months.\nEXAMINATION: BP 118/76 mmHg, weight 68 kg, height 1.70 m, BMI 23.5 (overweight). Nasal mucosa pale, turbinates mildly swollen. Skin shows scattered wheals on arms and trunk.\nIMPRESSION: Allergic rhinitis and chronic urticaria.\nARRANGEMENTS: Start cetirizine 10 mg HS, fluticasone nasal spray 1 spray each nostril OD, montelukast 10 mg HS, levocetirizine 5 mg OD. Advise weight control, daily aerobic activity. Return if wheezing, facial swelling, fever >39°C, or severe dyspnea."
+    },
+    {
+      "memory_id": "X0049-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cetirizine 10 mg tablet – take 1 tablet at night.\nFluticasone nasal spray 50 mcg – 1 spray each nostril once daily.\nMontelukast 10 mg tablet – take 1 tablet at night.\nLevocetirizine 5 mg tablet – take 1 tablet each morning."
+    },
+    {
+      "memory_id": "X0049-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Total Serum IgE: 420 IU/mL (Reference: <100 IU/mL) – Elevated."
+    },
+    {
+      "memory_id": "X0049-m04",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Skin prick test – positive reaction to house dust mite (3+ wheal) and grass pollen (2+ wheal). Negative to common foods."
+    },
+    {
+      "memory_id": "X0049-m05",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘I’ve been taking the medicines as prescribed. The nasal congestion is better but I still get hives most evenings, especially after eating out.’"
+    },
+    {
+      "memory_id": "X0049-m06",
+      "date": "2025-07-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Return visit – reports improved nasal symptoms but persistent nocturnal hives and occasional facial swelling after meals.\nEXAMINATION: BP 120/78 mmHg, weight 67.5 kg, BMI 23.3 (overweight). No nasal polyps. Skin: occasional wheals on trunk, no angioedema.\nIMPRESSION: Allergic rhinitis well controlled; chronic urticaria partially responsive.\nARRANGEMENTS: Continue cetirizine HS and fluticasone OD. Stop montelukast (no added benefit). Increase levocetirizine to 10 mg HS. Add short course of prednisolone 10 mg OD for 5 days if hives worsen. Advise food diary, avoid known triggers. Return if swelling of lips/tongue, difficulty breathing, or fever."
+    },
+    {
+      "memory_id": "X0049-m07",
+      "date": "2025-07-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cetirizine 10 mg tablet – take 1 tablet at night.\nFluticasone nasal spray 50 mcg – 1 spray each nostril once daily.\nLevocetirizine 10 mg tablet – take 1 tablet at night.\nPrednisolone 5 mg tablet – take 2 tablets daily after food for 5 days (as needed)."
+    },
+    {
+      "memory_id": "X0049-m08",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Complete Blood Count: WBC 6.2 x10^9/L, Hemoglobin 13.8 g/dL, Platelets 240 x10^9/L, Eosinophils 0.5 x10^9/L (5%). Reference eosinophils <0.4 x10^9/L – Mild eosinophilia."
+    },
+    {
+      "memory_id": "X0049-m09",
+      "date": "2025-10-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up – reports hives reduced to 2‑3 times weekly, nasal symptoms minimal.\nEXAMINATION: BP 119/77 mmHg, weight 66.8 kg, BMI 23.1 (overweight). No nasal congestion. Skin: few scattered wheals, no angioedema.\nIMPRESSION: Both allergic rhinitis and chronic urticaria improving on current regimen.\nARRANGEMENTS: Continue cetirizine HS, fluticasone OD, levocetirizine HS. Tapering prednisolone stopped. Review weight and activity. Return if worsening hives, facial swelling, or respiratory symptoms."
+    },
+    {
+      "memory_id": "X0049-m10",
+      "date": "2025-10-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cetirizine 10 mg tablet – take 1 tablet at night.\nFluticasone nasal spray 50 mcg – 1 spray each nostril once daily.\nLevocetirizine 10 mg tablet – take 1 tablet at night."
+    },
+    {
+      "memory_id": "X0049-m11",
+      "date": "2025-10-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Total Serum IgE: 310 IU/mL (Reference: <100 IU/mL) – Still elevated but down from 420."
+    },
+    {
+      "memory_id": "X0049-m12",
+      "date": "2026-04-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: Original visit scheduled for 2026-04-20 moved to 2026-04-22 at 10:30 am with Dr Priya Natarajan (D03). Patient confirmed via SMS."
+    },
+    {
+      "memory_id": "X0049-m13",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Annual review – patient reports occasional mild nasal itch during pollen season, hives rare (<1/month).\nEXAMINATION: BP 122/80 mmHg, weight 66.2 kg, BMI 22.9 (normal range). No nasal mucosal swelling. Skin clear.\nIMPRESSION: Allergic rhinitis and chronic urticaria well controlled; BMI now normal.\nARRANGEMENTS: Continue cetirizine HS and fluticasone OD. Consider stopping levocetirizine if symptom‑free for another 3 months. Offer influenza vaccine (patient declined). Return if new wheezing, angioedema, fever >39°C, or unexplained weight loss."
+    }
+  ]
+}

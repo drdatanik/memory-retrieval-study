@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0024",
+  "name": "Srinivas Naidu",
+  "age": 63,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0024-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild low back pain radiating to right leg, able to walk 500 m with occasional support, performs ADLs independently.\ncognition: Mini-Cog score 4/5 (negative screen).\nfalls: no falls in past 12 months; gait steady; timed up-and-go 10 seconds (normal).\nmedicines: 3 regular; pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD.\nmood: denies low mood or anxiety, reports occasional frustration with pain.\ncarers: wife, Priya, provides occasional assistance with grocery shopping.\ngoals: \"I want to walk without leg pain and continue working part-time.\"."
+    },
+    {
+      "memory_id": "X0024-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pregabalin 75 mg twice daily\n diclofenac 50 mg twice daily after food\n methylcobalamin 1500 mcg once daily"
+    },
+    {
+      "memory_id": "X0024-m03",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: back pain improved, walks 800 m without support, occasional right leg tingling after prolonged sitting.\ncognition: not due for Mini-Cog this visit (last screened Apr 2025).\nfalls: no falls in past 12 months; gait steady; timed up-and-go 9 seconds (normal).\nmedicines: 3 regular; same as before.\nmood: reports mild irritability when pain flares.\ncarers: wife, Priya, unchanged.\ngoals: \"I would like to reduce leg tingling and increase walking tolerance.\"."
+    },
+    {
+      "memory_id": "X0024-m04",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin B12: 420 pg/mL (reference 200-900)\nSerum creatinine: 0.9 mg/dL (0.6-1.2)\neGFR: 78 mL/min/1.73m2 (>60)\nLiver enzymes: ALT 22 U/L, AST 20 U/L (within normal)\nCRP: 3 mg/L (<5)"
+    },
+    {
+      "memory_id": "X0024-m05",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports increased right leg numbness after walking 300 m, needs to sit frequently; ADLs mostly independent with occasional help for shoe tying.\ncognition: not due for Mini-Cog.\nfalls: one fall in past 12 months (tripped over rug, no injury); gait slightly antalgic; timed up-and-go 13 seconds (raised fall risk) – advise balance exercises and supportive footwear.\nmedicines: 3 regular; pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD.\nmood: expresses worry about falling.\ncarers: wife, Priya, assists with home safety checks.\ngoals: \"I want to feel safe walking outside and avoid another fall.\"."
+    },
+    {
+      "memory_id": "X0024-m06",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D06",
+      "text": "MRI lumbar spine: L4-L5 disc bulge causing mild right-sided neural foraminal narrowing; no cord compression. Degenerative changes at L3-L4. Correlation with clinical radiculopathy suggested."
+    },
+    {
+      "memory_id": "X0024-m07",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: leg numbness worsened, now experiences burning pain in right foot at night; walks 200 m before needing rest; ADLs require occasional help with dressing.\ncognition: Mini-Cog repeated (annual) – score 3/5 (negative).\nfalls: no new falls; gait slow with cautious steps; timed up-and-go 14 seconds (raised fall risk) – reinforce home exercise program and consider walking aid.\nmedicines: 3 regular; pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD.\nmood: reports low mood due to persistent pain and sleep disturbance.\ncarers: wife, Priya, provides nighttime assistance with medication and mobility.\ngoals: \"I wish to sleep without foot pain and regain independence in daily activities.\"."
+    },
+    {
+      "memory_id": "X0024-m08",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pregabalin increased to 150 mg twice daily\n diclofenac continued 50 mg twice daily after food\n methylcobalamin continued 1500 mcg once daily\n amitriptyline 10 mg at night added for neuropathic pain and sleep"
+    },
+    {
+      "memory_id": "X0024-m09",
+      "date": "2026-04-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed a new tingling sensation in my left hand when I type for long periods, and my right foot feels worse in the mornings. I’m worried this might be something else besides my back."
+    },
+    {
+      "memory_id": "X0024-m10",
+      "date": "2026-04-20",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Physiotherapy Department, Sri Jayadeva Institute of Cardiovascular Sciences and Research, for assessment of lumbar radiculopathy and peripheral neuropathy, with request for graded exercise program, nerve gliding techniques, and ergonomic workstation advice."
+    },
+    {
+      "memory_id": "X0024-m11",
+      "date": "2026-07-08",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked with Dr Nandini Kulkarni (Geriatrics) for 2026-10-01 at 10:30 AM. Reason: review of sciatica management, medication tolerance, and fall risk."
+    },
+    {
+      "memory_id": "X0024-m12",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports reduced leg burning, able to walk 400 m with occasional support; right foot numbness improved; left hand tingling mild and intermittent.\ncognition: Mini-Cog score 4/5 (negative).\nfalls: no falls in past 6 months; gait steadier; timed up-and-go 11 seconds (borderline) – continue balance exercises, consider cane for outdoor walks.\nmedicines: 4 regular; pregabalin 150 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD, amitriptyline 10 mg nocte.\nmood: mood improved, reports better sleep and less irritability.\ncarers: wife, Priya, assists with medication reminders and occasional walking support.\ngoals: \"I want to keep walking without pain and continue working from home part-time.\""
+    }
+  ]
+}

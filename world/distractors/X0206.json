@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0206",
+  "name": "Sukanya Dutta",
+  "age": 22,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Allergic rhinitis",
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0206-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Allergic rhinitis: symptomatic with sneezing, nasal discharge; plans to start cetirizine 10 mg HS, fluticasone nasal spray 1 spray each nostril OD, montelukast 10 mg HS. Dyslipidaemia: newly detected on screening; plan atorvastatin 10 mg HS, lifestyle advice. Order skin prick test, total serum IgE, fasting lipid profile, LFT, CK. Weight 58 kg, waist 78 cm (female cut‑off 80 cm). Due lipid panel in 3 months."
+    },
+    {
+      "memory_id": "X0206-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nAtorvastatin 10 mg HS"
+    },
+    {
+      "memory_id": "X0206-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Skin prick test: positive to house dust mite and pollen. Total serum IgE: 210 IU/mL (ref <100)."
+    },
+    {
+      "memory_id": "X0206-m04",
+      "date": "2025-04-19",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 160 mg/dL (ref <100), HDL 45 mg/dL (ref >40), triglycerides 210 mg/dL (ref <150). LFT: ALT 22 U/L (ref 7‑35), AST 20 U/L (ref 10‑40). CK: 85 U/L (ref 30‑200)."
+    },
+    {
+      "memory_id": "X0206-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Allergic rhinitis: much improved on current regimen, occasional mild nasal congestion. Dyslipidaemia: LDL still elevated despite atorvastatin; consider switching to rosuvastatin. Weight 57 kg, waist 77 cm. Continue antihistamine and nasal spray. Plan: stop atorvastatin, start rosuvastatin 10 mg OD. Repeat lipid panel in 6 weeks."
+    },
+    {
+      "memory_id": "X0206-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nRosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0206-m07",
+      "date": "2025-08-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 130 mg/dL, HDL 48 mg/dL, triglycerides 190 mg/dL. CK 78 U/L."
+    },
+    {
+      "memory_id": "X0206-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Allergic rhinitis: well controlled, no breakthrough symptoms. Dyslipidaemia: triglycerides remain high; mild muscle discomfort reported, CK checked. Plan: add fenofibrate 145 mg OD to address triglycerides, keep rosuvastatin. Monitor LFT and CK in 4 weeks."
+    },
+    {
+      "memory_id": "X0206-m09",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate 145 mg OD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0206-m10",
+      "date": "2025-11-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: triglycerides 130 mg/dL, LDL 115 mg/dL, HDL 50 mg/dL. LFT: ALT 38 U/L (mild rise), AST 22 U/L. CK 80 U/L."
+    },
+    {
+      "memory_id": "X0206-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Allergic rhinitis: asymptomatic. Dyslipidaemia: triglycerides improved, ALT mildly elevated; hold fenofibrate to assess liver. Weight 56 kg, waist 76 cm. Plan: stop fenofibrate, continue rosuvastatin, repeat LFT and lipid panel in 6 weeks."
+    },
+    {
+      "memory_id": "X0206-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Rosuvastatin 10 mg OD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0206-m13",
+      "date": "2026-03-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 24 U/L, AST 20 U/L (normal). Fasting lipid profile: LDL 118 mg/dL, HDL 49 mg/dL, triglycerides 140 mg/dL."
+    },
+    {
+      "memory_id": "X0206-m14",
+      "date": "2026-04-02",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Resting ECG: normal sinus rhythm, rate 78 bpm, no ST‑T changes, no evidence of ischemia or hypertrophy."
+    },
+    {
+      "memory_id": "X0206-m15",
+      "date": "2026-06-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-09-15 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0206-m16",
+      "date": "2026-09-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Allergic rhinitis: remains well controlled on cetirizine, fluticasone, montelukast. Dyslipidaemia: lipids stable on rosuvastatin 10 mg OD, no muscle symptoms, LFT normal. Weight 55 kg, waist 75 cm. Continue current regimen. Due lipid panel in 12 months."
+    }
+  ]
+}

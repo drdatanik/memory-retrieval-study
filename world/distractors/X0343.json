@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0343",
+  "name": "Paresh Raval",
+  "age": 89,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0343-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Major depressive disorder, moderate severity.\nPatient reports persistent low mood, loss of interest in usual activities, fatigue, early‑morning insomnia, and decreased appetite over the past 8 weeks. He denies suicidal thoughts. Appearance is tidy, psychomotor activity normal, affect congruent and restricted. PHQ‑9 score from today’s labs is 14. Smoking status: never smoked; pack‑years 0."
+    },
+    {
+      "memory_id": "X0343-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Sertraline 50 mg oral tablet once daily. Start today, review in 4 weeks."
+    },
+    {
+      "memory_id": "X0343-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ‑9: 14 (0‑27).\nTSH: 2.1 mIU/L (0.4‑4.5).\nVitamin B12: 210 pg/mL (200‑900)."
+    },
+    {
+      "memory_id": "X0343-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Major depressive disorder, partial response.\nSymptoms: mood improved, energy better, but still reports mild anhedonia and occasional early waking. Sleep improved to 5‑6 hours, appetite near normal. No psychomotor agitation. PHQ‑9 now 9. Smoking status: never smoked; pack‑years 0."
+    },
+    {
+      "memory_id": "X0343-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 10 mg oral tablet once daily. Add to current sertraline 50 mg OD. Review in 6 weeks."
+    },
+    {
+      "memory_id": "X0343-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ‑9: 9 (0‑27).\nTSH: 2.0 mIU/L (0.4‑4.5).\nVitamin B12: 205 pg/mL (200‑900)."
+    },
+    {
+      "memory_id": "X0343-m07",
+      "date": "2025-10-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling better overall, sleeping through the night most days, but I notice a bit of dry mouth and occasional dizziness when I stand up quickly. The medication seems to help my mood, though I still have some low‑energy afternoons."
+    },
+    {
+      "memory_id": "X0343-m08",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Major depressive disorder, improving with emerging side‑effects.\nPatient describes better mood and sleep, but reports dry mouth and occasional orthostatic dizziness. Examination: vitals BP 128/72 sitting, 118/68 standing; no postural hypotension >20 mmHg. Dry mucosa noted. PHQ‑9 6. Smoking status: never smoked; pack‑years 0."
+    },
+    {
+      "memory_id": "X0343-m09",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Stop sertraline 50 mg OD.\nStart mirtazapine 15 mg oral tablet at bedtime.\nContinue escitalopram 10 mg OD."
+    },
+    {
+      "memory_id": "X0343-m10",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ‑9: 5 (0‑27).\nTSH: 1.8 mIU/L (0.4‑4.5).\nVitamin B12: 180 pg/mL (200‑900) – low."
+    },
+    {
+      "memory_id": "X0343-m11",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Major depressive disorder, well controlled.\nPatient reports mood stable, good sleep, energy adequate. No side‑effects now. Examination: calm, affect appropriate. PHQ‑9 5 indicates mild residual symptoms. Vitamin B12 low on labs. Smoking status: never smoked; pack‑years 0."
+    },
+    {
+      "memory_id": "X0343-m12",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cyanocobalamin (vitamin B12) 500 mcg oral tablet once daily. Continue escitalopram 10 mg OD and mirtazapine 15 mg HS."
+    },
+    {
+      "memory_id": "X0343-m13",
+      "date": "2026-06-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up pulmonology review for 2026-09-01 at 10:30 AM. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0343-m14",
+      "date": "2026-09-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Major depressive disorder, stable on current regimen.\nPatient denies new depressive symptoms, reports good energy and sleep. No medication adverse effects noted. Examination: relaxed, affect full. PHQ‑9 4. Smoking status: never smoked; pack‑years 0. Plan: consider tapering mirtazapine after 3 months if mood remains stable."
+    }
+  ]
+}

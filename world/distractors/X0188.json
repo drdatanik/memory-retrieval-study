@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0188",
+  "name": "Rajan Warrier",
+  "age": 39,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0188-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, works full‑time as pharmacy assistant, walks to bus stop.\ncognition: Mini‑Cog 4/5 (normal).\nfalls: 0 falls in last 12 months; gait normal; timed up‑and‑go 8 seconds (normal).\nmedicines: 4 regular.\nmood: Reports feeling well, denies low mood or anxiety.\ncarers: Priya, spouse.\ngoals: \"I want to keep my sugars under control and continue working without complications.\""
+    },
+    {
+      "memory_id": "X0188-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD\n glimepiride 1 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0188-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (4.0‑5.6)\nFasting plasma glucose 158 mg/dL (70‑99)\nUrine albumin‑creatinine ratio 22 mg/g (<30)"
+    },
+    {
+      "memory_id": "X0188-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Dilated fundus exam: Mild microaneurysms scattered, no macular edema, peripheral retina normal. Recommend annual repeat."
+    },
+    {
+      "memory_id": "X0188-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent, occasional fatigue after long shifts.\ncognition: Mini‑Cog 4/5 (stable).\nfalls: 0 falls; gait normal; timed up‑and‑go 9 seconds.\nmedicines: 4 regular.\nmood: Mild irritability noted, denies depression.\ncarers: Priya, spouse.\ngoals: \"I’d like to feel more energetic at work.\""
+    },
+    {
+      "memory_id": "X0188-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.4% (4.0‑5.6)\nFasting plasma glucose 142 mg/dL (70‑99)\nUrine albumin‑creatinine ratio 18 mg/g (<30)"
+    },
+    {
+      "memory_id": "X0188-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD (unchanged)\n glimepiride 1 mg OD (unchanged)\n sitagliptin 100 mg OD (unchanged)\n empagliflozin 10 mg OD (unchanged)\nAdded vitamin D3 1000 IU OD for fatigue"
+    },
+    {
+      "memory_id": "X0188-m08",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling thirsty lately and noticing more frequent urination, especially at night. Worried my sugar might be up again."
+    },
+    {
+      "memory_id": "X0188-m09",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs intact, works full‑time; notes increased thirst and nocturia.\ncognition: Mini‑Cog 4/5 (stable).\nfalls: 0 falls; gait normal; timed up‑and‑go 9 seconds.\nmedicines: 5 regular (now includes vitamin D3).\nmood: Reports mild anxiety about symptoms, denies depression.\ncarers: Priya, spouse.\ngoals: \"I want my thirst to settle and avoid night‑time trips to the bathroom.\""
+    },
+    {
+      "memory_id": "X0188-m10",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD\n glimepiride 1 mg OD\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n vitamin D3 1000 IU OD\nAdded glimepiride increase to 2 mg OD before breakfast"
+    },
+    {
+      "memory_id": "X0188-m11",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-20 10:30 with Dr Kulkarni (D06) for diabetes review."
+    },
+    {
+      "memory_id": "X0188-m12",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent, reports reduced thirst after medication tweak.\ncognition: Mini‑Cog 4/5 (stable).\nfalls: 0 falls; gait normal; timed up‑and‑go 8 seconds.\nmedicines: 5 regular.\nmood: Improved, denies anxiety.\ncarers: Priya, spouse.\ngoals: \"I’m happy my thirst is better; want to keep it stable.\""
+    },
+    {
+      "memory_id": "X0188-m13",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.0% (4.0‑5.6)\nFasting plasma glucose 128 mg/dL (70‑99)\nUrine albumin‑creatinine ratio 15 mg/g (<30)"
+    },
+    {
+      "memory_id": "X0188-m14",
+      "date": "2026-01-20",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Resting ECG: Normal sinus rhythm, rate 78 bpm, no ST‑T changes, no evidence of ischemia."
+    },
+    {
+      "memory_id": "X0188-m15",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Fully independent, works night shifts occasionally, no functional decline.\ncognition: Mini‑Cog 4/5 (annual screen, stable).\nfalls: 0 falls; gait normal; timed up‑and‑go 8 seconds.\nmedicines: 5 regular.\nmood: Stable, reports good energy.\ncarers: Priya, spouse.\ngoals: \"I want to stay healthy enough to keep supporting my family.\""
+    },
+    {
+      "memory_id": "X0188-m16",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD\n glimepiride 2 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n vitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0188-m17",
+      "date": "2026-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8% (4.0‑5.6)\nFasting plasma glucose 122 mg/dL (70‑99)\nUrine albumin‑creatinine ratio 12 mg/g (<30)"
+    }
+  ]
+}

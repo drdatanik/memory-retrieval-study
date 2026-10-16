@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0294",
+  "name": "Ajith Chandran",
+  "age": 49,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Obesity",
+    "Psoriasis",
+    "Glaucoma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0294-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 92 kg, waist 102 cm (>90 cm cut-off for men).\n  - Plan: Continue orlistat 120 mg with each main meal (1-1-1 pattern, after food). Diet: breakfast – high‑protein, low‑glycemic; lunch – mixed vegetables with lean protein; dinner – light soup and salad. Reinforce daily 30‑min walk.\n- Psoriasis\n  - Status: Plaques 3‑4 % BSA, mild scaling, no new lesions.\n  - Plan: Continue clobetasol 0.05% cream BD (0-1-0, after food) on affected areas; calcipotriol ointment OD (1-0-0, after food); methotrexate 7.5 mg once weekly (0-0-1, after food) with folic acid 5 mg OD (1-0-0, after food). Monitor LFT, CBC, creatinine in 4 weeks.\n- Glaucoma\n  - Status: IOP right eye 18 mmHg, left eye 19 mmHg; visual field full; optic disc cup‑disc ratio 0.3.\n  - Plan: Continue timolol 0.5% eye drops BD (0-1-0, after food); latanoprost 0.005% eye drops HS (0-0-1, after food). Repeat IOP and visual field in 3 months.\nDue: HbA1c due 2025-07-05."
+    },
+    {
+      "memory_id": "X0294-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "orlistat 120 mg – 1-1-1 – after food\nclobetasol 0.05% cream – 0-1-0 – after food\ncalcipotriol ointment – 1-0-0 – after food\nmethotrexate 7.5 mg – 0-0-1 – after food\nfolic acid 5 mg – 1-0-0 – after food\ntimolol 0.5% eye drops – 0-1-0 – after food\nlatanoprost 0.005% eye drops – 0-0-1 – after food"
+    },
+    {
+      "memory_id": "X0294-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 98 mg/dL (70‑100)\nHbA1c 5.9% (4‑5.6)\nTotal cholesterol 190 mg/dL (<200)\nTriglycerides 150 mg/dL (<150)\nHDL 38 mg/dL (>40 low)\nLDL 112 mg/dL (<100 borderline)\nALT 28 U/L (7‑56)\nAST 26 U/L (10‑40)\nALP 78 U/L (40‑129)\nGGT 32 U/L (9‑64)\nTotal bilirubin 0.9 mg/dL (0.2‑1.2)\nCBC: Hb 14.8 g/dL (13‑17), WBC 6.2 ×10⁹/L (4‑10), Platelets 240 ×10⁹/L (150‑400)\nSerum creatinine 0.9 mg/dL (0.6‑1.2)\n eGFR 88 mL/min/1.73m² (>60)"
+    },
+    {
+      "memory_id": "X0294-m04",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Intraocular pressure: RE 18 mmHg, LE 19 mmHg (10‑21).\nVisual field: Full field, no defects.\nOptic disc assessment: Cup‑disc ratio 0.3 RE, 0.32 LE, healthy rim.\nNo signs of progression."
+    },
+    {
+      "memory_id": "X0294-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 89 kg, waist 98 cm (>90).\n  - Plan: Continue orlistat 120 mg TID with meals (1-1-1, after food). Diet: breakfast – egg whites + oats; lunch – grilled fish + quinoa + veg; dinner – lentil soup + salad. Encourage 45‑min brisk walk 5×/week.\n- Psoriasis\n  - Status: Plaques 5‑6 % BSA, increased scaling, mild pruritus.\n  - Plan: Increase methotrexate to 10 mg once weekly (0-0-1, after food) with folic acid 5 mg OD (1-0-0, after food). Continue clobetasol BD and calcipotriol OD. Review LFT, CBC, creatinine in 4 weeks.\n- Glaucoma\n  - Status: IOP RE 17 mmHg, LE 18 mmHg; visual field stable; cup‑disc ratio unchanged.\n  - Plan: Continue timolol BD and latanoprost HS. Repeat IOP in 3 months.\nDue: HbA1c due 2025-10-10."
+    },
+    {
+      "memory_id": "X0294-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methotrexate 10 mg – 0-0-1 – after food\nfolic acid 5 mg – 1-0-0 – after food\n(all other meds unchanged)"
+    },
+    {
+      "memory_id": "X0294-m07",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 95 mg/dL (70‑100)\nHbA1c 5.7% (4‑5.6)\nTotal cholesterol 185 mg/dL (<200)\nTriglycerides 140 mg/dL (<150)\nHDL 40 mg/dL (>40)\nLDL 108 mg/dL (<100 borderline)\nALT 24 U/L (7‑56)\nAST 22 U/L (10‑40)\nALP 75 U/L (40‑129)\nGGT 30 U/L (9‑64)\nTotal bilirubin 0.8 mg/dL (0.2‑1.2)\nCBC: Hb 15.0 g/dL, WBC 5.9 ×10⁹/L, Platelets 235 ×10⁹/L\nSerum creatinine 0.9 mg/dL (0.6‑1.2)\neGFR 90 mL/min/1.73m²"
+    },
+    {
+      "memory_id": "X0294-m08",
+      "date": "2025-07-13",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Intraocular pressure: RE 17 mmHg, LE 18 mmHg.\nVisual field: No change from baseline.\nOptic disc: Cup‑disc ratio 0.3 RE, 0.31 LE, healthy rim.\nStable glaucoma."
+    },
+    {
+      "memory_id": "X0294-m09",
+      "date": "2025-10-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed more itching on my elbows and knees over the past two weeks. Also feeling some stiffness in my fingers in the mornings, which eases after a shower."
+    },
+    {
+      "memory_id": "X0294-m10",
+      "date": "2025-10-03",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 88 kg, waist 96 cm (>90).\n  - Plan: Continue orlistat 120 mg TID with meals (1-1-1, after food). Diet: breakfast – sprouts + milk; lunch – chicken salad + brown rice; dinner – vegetable stew + roti. Aim for 5 k steps daily.\n- Psoriasis\n  - Status: Plaques 7‑8 % BSA, increased erythema, patient reports morning joint stiffness suggestive of early psoriatic arthritis.\n  - Plan: Continue methotrexate 10 mg weekly with folic acid. Add topical clobetasol BD and calcipotriol OD. Refer to rheumatology for joint evaluation. Monitor LFT, CBC, creatinine in 4 weeks.\n- Glaucoma\n  - Status: IOP RE 16 mmHg, LE 17 mmHg; visual field stable; cup‑disc ratio unchanged.\n  - Plan: Continue timolol BD and latanoprost HS. Repeat IOP in 3 months.\nDue: HbA1c due 2026-01-03."
+    },
+    {
+      "memory_id": "X0294-m11",
+      "date": "2025-10-04",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Rheumatology, Bangalore General Hospital.\nReason: Evaluation for possible psoriatic arthritis – patient reports morning joint stiffness, elevated psoriasis activity.\nPlease assess joints, consider DMARD optimization, and advise on NSAID use if needed.\nSend reports back to Dr Karthik Hegde, Endocrinology, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "X0294-m12",
+      "date": "2025-11-15",
+      "type": "referral_outcome",
+      "author": "lab",
+      "text": "Rheumatology review:\n- Mild synovitis of MCP joints 2‑3 bilaterally, no erosions on X‑ray.\n- Diagnosis: Early psoriatic arthritis.\n- Recommendation: Continue methotrexate 10 mg weekly; add folic acid as prescribed.\n- Add ibuprofen 400 mg PO TID after food for pain as needed.\n- Monitor LFT and CBC every 3 months.\n- Follow‑up in 8 weeks.\nReports attached."
+    },
+    {
+      "memory_id": "X0294-m13",
+      "date": "2026-02-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: Original follow‑up scheduled for 2026-03-05 moved to 2026-02-20 at 10:30 am with Dr Karthik Hegde (D04) for routine chronic disease review. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0294-m14",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 85 kg, waist 90 cm (at male cut‑off).\n  - Plan: Continue orlistat 120 mg TID with meals (1-1-1, after food). Diet: breakfast – dalia + milk; lunch – mixed veg + paneer + roti; dinner – soup + salad. Maintain 6 k steps daily.\n- Psoriasis\n  - Status: Plaques 4‑5 % BSA, minimal scaling, joint symptoms controlled on methotrexate + ibuprofen prn.\n  - Plan: Continue methotrexate 10 mg weekly with folic acid. Continue clobetasol BD and calcipotriol OD. LFT, CBC, creatinine stable; repeat in 6 months.\n- Glaucoma\n  - Status: IOP RE 15 mmHg, LE 16 mmHg; visual field stable; cup‑disc ratio 0.28 RE, 0.30 LE.\n  - Plan: Continue timolol BD and latanoprost HS. Repeat IOP and visual field in 6 months.\nDue: HbA1c due 2027-01-05 (outside window, but noted)."
+    }
+  ]
+}

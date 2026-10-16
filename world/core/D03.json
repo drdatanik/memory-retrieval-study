@@ -1,0 +1,42 @@
+{
+  "doctor_id": "D03",
+  "name": "Dr Priya Natarajan",
+  "specialty": "Family Medicine",
+  "memories": [
+    {
+      "memory_id": "D03-m01",
+      "date": "2025-04-01",
+      "type": "doctor_preference",
+      "author": "D03",
+      "text": "Dr Natarajan's notes open with a one-line summary of the reason for the visit. The body then uses capitalised headings in this order: PRESENTING COMPLAINT, EXAMINATION, IMPRESSION, ARRANGEMENTS. Each section is a short paragraph of plain sentences, not a bullet list."
+    },
+    {
+      "memory_id": "D03-m02",
+      "date": "2025-04-02",
+      "type": "doctor_preference",
+      "author": "D03",
+      "text": "Dr Natarajan records blood pressure, weight and BMI at every visit. BMI is classed with the Asian cut-offs, so 23 to 24.9 is written as overweight and 25 or above as obese. Any BMI of 23 or above is followed by an advice line on diet and activity."
+    },
+    {
+      "memory_id": "D03-m03",
+      "date": "2025-04-02",
+      "type": "doctor_preference",
+      "author": "D03",
+      "text": "Dr Natarajan orders a fasting lipid profile and a fasting blood sugar once a year for every adult aged 40 and over. The results are summarised in the IMPRESSION under the relevant problem."
+    },
+    {
+      "memory_id": "D03-m04",
+      "date": "2025-04-03",
+      "type": "doctor_preference",
+      "author": "D03",
+      "text": "Every note by Dr Natarajan ends with a 'Return if' line under ARRANGEMENTS, listing the red-flag symptoms for that problem, such as chest pain, breathlessness, fever above 39 degrees Celsius, or blood in the stools. She asks the patient to repeat the list back before leaving."
+    },
+    {
+      "memory_id": "D03-m05",
+      "date": "2025-04-04",
+      "type": "doctor_preference",
+      "author": "D03",
+      "text": "Dr Natarajan offers the influenza vaccine every year to adults over 60 and to any adult with a chronic illness. The vaccine status and the date given are recorded under ARRANGEMENTS at each visit in the autumn."
+    }
+  ]
+}

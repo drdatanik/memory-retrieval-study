@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0164",
+  "name": "Razia Ahmed",
+  "age": 75,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Osteoarthritis of the knee"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0164-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks to market unaided, reports mild knee pain on stairs.\ncognition: Mini-Cog score 4/5, no impairment.\nfalls: No falls in past 12 months, gait steady, timed up-and-go 11 seconds (normal).\nmedicines: 2 regular (topical diclofenac gel BD, calcium‑vitamin D3 OD); paracetamol 650 mg SOS for pain.\nmood: Reports occasional worry about income, denies depression.\ncarers: Lakshmi, daughter.\ngoals: \"I want to keep working at the vegetable stall without knee pain limiting me.\""
+    },
+    {
+      "memory_id": "X0164-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "paracetamol 650 mg SOS\n topical diclofenac gel 1% apply BD\n calcium 500 mg with vitamin D3 400 IU OD"
+    },
+    {
+      "memory_id": "X0164-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH Vitamin D: 22 ng/mL (Reference 30‑100)"
+    },
+    {
+      "memory_id": "X0164-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Weight‑bearing X‑ray both knees: mild joint space narrowing, marginal osteophytes, consistent with early osteoarthritis. No fracture."
+    },
+    {
+      "memory_id": "X0164-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Walks with occasional support of a cane, knee pain limits prolonged standing.\ncognition: Mini‑Cog not due yet (next April 2026).\nfalls: One slip at market in past 3 months, no injury; gait mildly antalgic; timed up‑and‑go 13 seconds (raised fall risk) – advise strength exercises and supportive footwear.\nmedicines: 3 regular (paracetamol 650 mg QID, topical diclofenac gel BD, calcium‑vitamin D3 OD); paracetamol SOS for breakthrough pain.\nmood: Reports frustration about reduced stall hours, denies depressive symptoms.\ncarers: Lakshmi, daughter.\ngoals: \"I want to stand longer at my stall without needing to rest every few minutes.\""
+    },
+    {
+      "memory_id": "X0164-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "paracetamol 650 mg QID\n topical diclofenac gel 1% BD\n calcium 500 mg with vitamin D3 400 IU OD"
+    },
+    {
+      "memory_id": "X0164-m07",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH Vitamin D: 28 ng/mL (Reference 30‑100)\nSerum Calcium: 9.2 mg/dL (Reference 8.5‑10.5)"
+    },
+    {
+      "memory_id": "X0164-m08",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Knee pain worse when climbing stairs to my stall; I’ve been using the paracetamol more often, about 4 times a day."
+    },
+    {
+      "memory_id": "X0164-m09",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Uses cane regularly, reports pain 5/10 on walking, manages stall with frequent breaks.\ncognition: Mini‑Cog score 3/5 (borderline) – plan for fuller cognitive assessment.\nfalls: No new falls; gait slow, timed up‑and‑go 15 seconds (raised risk) – continue physio, check footwear.\nmedicines: 4 regular (paracetamol 650 mg QID, topical diclofenac gel BD, calcium‑vitamin D3 OD, started gabapentin 100 mg HS for neuropathic component); paracetamol SOS.\nmood: Feels low when unable to work full days, denies hopelessness.\ncarers: Lakshmi, daughter.\ngoals: \"I want to reduce pain enough to work a full day at the market.\""
+    },
+    {
+      "memory_id": "X0164-m10",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "paracetamol 650 mg QID\n topical diclofenac gel 1% BD\n calcium 500 mg with vitamin D3 400 IU OD\n gabapentin 100 mg HS"
+    },
+    {
+      "memory_id": "X0164-m11",
+      "date": "2026-05-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: moved from 2026-06-01 10:00 to 2026-07-15 14:00 for follow‑up geriatric review."
+    },
+    {
+      "memory_id": "X0164-m12",
+      "date": "2026-08-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Walks without cane most days, knee pain 3/10, manages stall independently.\ncognition: Full MoCA performed, score 24/30 – mild cognitive impairment, continue monitoring.\nfalls: No falls in past year; gait normal, timed up‑and‑go 11 seconds (normal).\nmedicines: 3 regular (paracetamol 650 mg QID, topical diclofenac gel BD, calcium‑vitamin D3 OD); gabapentin tapered off.\nmood: Reports improved mood, enjoys work.\ncarers: Lakshmi, daughter.\ngoals: \"I want to stay active and pain‑free so I can keep supporting my family.\""
+    }
+  ]
+}

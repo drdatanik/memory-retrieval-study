@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0052",
+  "name": "Basavaraj Achar",
+  "age": 20,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0052-m01",
+      "date": "2025-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for initial hypertension review with Dr Nandini Kulkarni (D06) on 2025-04-15 at 10:00 am."
+    },
+    {
+      "memory_id": "X0052-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; works as a lab technician; walks to bus stop without assistance.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal); no cognitive concerns.\nfalls: No falls in past 12 months; gait steady; timed up-and-go 9 seconds; fall risk normal.\nmedicines: 4 regular: amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD.\nmood: Reports good mood; denies anxiety or depressive symptoms.\ncarers: Mother, Mrs. Lakshmi Kulkarni, provides occasional support.\ngoals: \"I want to stay healthy and continue my job without medication side effects.\""
+    },
+    {
+      "memory_id": "X0052-m03",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0052-m04",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.9 mg/dL (0.6-1.2)\neGFR 92 mL/min/1.73m² (>60)\nSerum potassium 4.3 mmol/L (3.5-5.0)\nECG: Sinus rhythm, rate 78, normal axis, no ST-T changes."
+    },
+    {
+      "memory_id": "X0052-m05",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Continues full-time work; occasional mild fatigue after night shift.\ncognition: Mini-Cog 4/5; stable.\nfalls: No falls; gait normal; timed up-and-go 8 seconds; fall risk low.\nmedicines: 4 regular: amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD.\nmood: Mood good; denies depression.\ncarers: Mother, Mrs. Lakshmi Kulkarni, occasional help.\ngoals: \"I want to keep my blood pressure under control and feel energetic at work.\""
+    },
+    {
+      "memory_id": "X0052-m06",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0052-m07",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.95 mg/dL (0.6-1.2)\neGFR 88 mL/min/1.73m²\nSerum potassium 4.1 mmol/L (3.5-5.0)"
+    },
+    {
+      "memory_id": "X0052-m08",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Works night shifts; reports occasional light-headedness on standing.\ncognition: Mini-Cog 4/5; unchanged.\nfalls: No falls; gait slightly unsteady on toes; timed up-and-go 10 seconds; fall risk borderline.\nmedicines: 4 regular: amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD.\nmood: Mild anxiety about work stress; denies depression.\ncarers: Mother, Mrs. Lakshmi Kulkarni, supportive.\ngoals: \"I want to avoid dizziness and stay safe during night shifts.\""
+    },
+    {
+      "memory_id": "X0052-m09",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide stopped"
+    },
+    {
+      "memory_id": "X0052-m10",
+      "date": "2026-01-12",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; no dizziness after stopping HCTZ; works full shift.\ncognition: Mini-Cog 4/5; annual screen negative.\nfalls: No falls; gait normal; timed up-and-go 9 seconds; fall risk normal.\nmedicines: 3 regular: amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD.\nmood: Mood stable; reports good sleep.\ncarers: Mother, Mrs. Lakshmi Kulkarni, occasional assistance.\ngoals: \"I want to maintain normal blood pressure without medication side effects.\""
+    },
+    {
+      "memory_id": "X0052-m11",
+      "date": "2026-01-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.92 mg/dL (0.6-1.2)\neGFR 90 mL/min/1.73m²\nSerum potassium 4.4 mmol/L (3.5-5.0)\nECG: Sinus rhythm, rate 80, left ventricular voltage criteria for mild LVH, no ischemia."
+    },
+    {
+      "memory_id": "X0052-m12",
+      "date": "2026-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-10 to 2026-04-17 at 14:30 for follow‑up hypertension review with Dr Nandini Kulkarni (D06)."
+    }
+  ]
+}

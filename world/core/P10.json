@@ -1,0 +1,98 @@
+{
+  "patient_id": "P10",
+  "name": "Harish Gowda",
+  "age": 60,
+  "sex": "M",
+  "primary_doctor": "D02",
+  "conditions": [
+    "Hypertension",
+    "Asthma",
+    "Knee osteoarthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "P10-m01",
+      "date": "2025-06-17",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "The patient is a sixty-year-old man with hypertension and asthma. His asthma has been stable on his current inhalers over the past year, with no night-time waking and no emergency attendance. His blood pressure today was 138 over 88 millimetres of mercury, and he reports no chest pain, palpitations or breathlessness on climbing one flight of stairs. He continues amlodipine 10 milligrams once daily, montelukast 10 milligrams at bedtime and a budesonide inhaler twice daily. I have recorded his intolerance to non-steroidal anti-inflammatory medicines in his file today, and he has been asked to avoid them, including tablets bought without a prescription. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P10-m02",
+      "date": "2025-06-17",
+      "type": "allergy",
+      "author": "D02",
+      "text": "Allergy / intolerance: NSAIDs. Severe bronchospasm after ibuprofen in 2018 needing an emergency visit (aspirin-exacerbated respiratory disease). Recorded 2025-06-17. Patient advised to check the label of any cold, fever or pain tablet bought over the counter."
+    },
+    {
+      "memory_id": "P10-m03",
+      "date": "2025-08-04",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2025-08-04: 'Doctor, my cough has been bad at night for three days with the rain. My budesonide inhaler is almost finished. Will the chemist need a new prescription from you, or can I get it refilled?'"
+    },
+    {
+      "memory_id": "P10-m04",
+      "date": "2025-09-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: Serum creatinine 0.9 mg/dL (reference 0.7-1.3 mg/dL). Serum potassium 4.1 mmol/L (reference 3.5-5.1). Serum sodium 139 mmol/L (reference 135-145). Haemoglobin 14.2 g/dL (reference 13.0-17.0 g/dL). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P10-m05",
+      "date": "2025-12-15",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "The patient attended for a routine review of his blood pressure and asthma. His blood pressure today was 134 over 86 millimetres of mercury. He reports that his asthma has remained well controlled on his usual regimen, with only a few days of mild wheeze in the cold weather in November, which settled without any change to his inhalers. He is taking amlodipine 10 milligrams once daily, montelukast 10 milligrams at bedtime and a budesonide inhaler twice daily. His chest was clear on examination. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P10-m06",
+      "date": "2026-03-17",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "The patient returned for review of his blood pressure and asthma. His blood pressure was 130 over 84 millimetres of mercury, and he reports no breathlessness, no night cough and no wheezing since December. He takes amlodipine 10 milligrams once daily, montelukast 10 milligrams at bedtime and a budesonide inhaler twice daily, and says he takes all three exactly as prescribed. Routine blood tests were taken today. His asthma remains stable and his blood pressure is near target. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P10-m07",
+      "date": "2026-03-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: Serum creatinine 0.9 mg/dL (reference 0.7-1.3 mg/dL). Serum potassium 4.2 mmol/L (reference 3.5-5.1). Serum sodium 140 mmol/L (reference 135-145). Haemoglobin 14.5 g/dL (reference 13.0-17.0 g/dL). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P10-m08",
+      "date": "2026-06-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2026-06-20: 'Doctor, my right knee has been painful for about three months. It is worse on stairs and first thing in the morning, and sometimes it feels like it gives way. I walk slowly in the park. Is there anything other than tablets that can help?'"
+    },
+    {
+      "memory_id": "P10-m09",
+      "date": "2026-07-14",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o HTN, asthma. c/o R>L knee pain x 3 mths, worse on stairs, morning stiffness under 30 min. No knee swelling, no locking. No fever. No wheeze.\nO: BP 132/82 mmHg, pulse 76/min, wt 84 kg. O/E: crepitus both knees, pain at end-range flexion, quadriceps mildly weak. CVS and RS NAD.\nA: 1. Knee osteoarthritis. 2. HTN, controlled on amlodipine. 3. Asthma, stable.\nP: 1. Advise paracetamol (Crocin) 650 mg SOS for knee pain, max 3 doses in 24 h. 2. Quadriceps strengthening exercises: 10 reps x 3 sets, daily. 3. Weight reduction advised. 4. Cont amlodipine 10 mg OD, montelukast 10 mg HS, budesonide inhaler BD.\nAdv: Walk on flat ground 20 to 30 min, cycle or swim if possible, avoid squatting and long flights of stairs. R/V in 3 months."
+    },
+    {
+      "memory_id": "P10-m10",
+      "date": "2026-07-14",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: START paracetamol (Crocin) 650 mg tablet, 1 tablet SOS for knee pain. Not more than 3 tablets in 24 hours. Effective 2026-07-14. No change to other medicines."
+    },
+    {
+      "memory_id": "P10-m11",
+      "date": "2026-07-16",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2026-07-16: 'Doctor, I took the paracetamol twice yesterday and my knee was much better for the evening walk. How many tablets can I take in one day? I have started the thigh exercises, but they are tiring.'"
+    },
+    {
+      "memory_id": "P10-m12",
+      "date": "2026-09-14",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "The patient attended for review of his blood pressure, asthma and knee. His blood pressure today was 128 over 80 millimetres of mercury. He reports that his knee is better since he started the thigh exercises, and he uses the paracetamol tablet about twice a week when needed. His asthma remains well controlled with no night symptoms, and he continues his usual inhalers. He takes amlodipine 10 milligrams once daily and montelukast 10 milligrams at bedtime. Plan discussed with the patient and family."
+    }
+  ]
+}

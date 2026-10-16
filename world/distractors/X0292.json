@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0292",
+  "name": "Padma Kamath",
+  "age": 49,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypertension",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0292-m01",
+      "date": "2025-04-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, walks 2 km daily.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls in last 12 months, gait normal, TUG 9 sec (low risk).\nmedicines: 8 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, HCTZ 12.5 mg OD, methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD) – polypharmacy, review Beers criteria.\nmood: reports occasional low mood, denies depression.\ncarers: spouse Rajesh, husband.\ngoal: \"I want to stay active and keep working without pain.\""
+    },
+    {
+      "memory_id": "X0292-m02",
+      "date": "2025-04-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD\nmethotrexate 10 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0292-m03",
+      "date": "2025-05-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.9 mg/dL (0.6-1.2), eGFR 78 mL/min/1.73m2 (>60).\nSerum potassium 4.2 mmol/L (3.5-5.0).\nECG: sinus rhythm, no ischemia.\nESR 18 mm/hr (0-20).\nCRP 5 mg/L (<5 borderline).\nRheumatoid factor 12 IU/mL (<14).\nAnti-CCP 5 U/mL (<7).\nALT 22 U/L (7-56), AST 20 U/L (8-48), ALKP 78 U/L (40-129), bilirubin 0.8 mg/dL (0.2-1.2)."
+    },
+    {
+      "memory_id": "X0292-m04",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: mild knee stiffness after work, still manages ADLs.\ncognition: not screened this visit.\nfalls: 0 falls, gait slightly antalgic left, TUG 10 sec (low risk).\nmedicines: 8 regular – polypharmacy, review Beers.\nmood: reports frustration with joint pain, denies hopelessness.\ncarers: spouse Rajesh.\ngoal: \"I want less pain to walk longer.\""
+    },
+    {
+      "memory_id": "X0292-m05",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 6.25 mg OD (reduced)\nmethotrexate 10 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0292-m06",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: sinus rhythm, rate 78, no ST-T changes, left ventricular voltage within normal limits."
+    },
+    {
+      "memory_id": "X0292-m07",
+      "date": "2025-10-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: \"My wrists and knees are swollen and painful in the mornings, lasting over an hour. I feel tired.\""
+    },
+    {
+      "memory_id": "X0292-m08",
+      "date": "2025-11-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: morning stiffness >1 hr, difficulty gripping objects.\ncognition: not screened.\nfalls: 0 falls, gait cautious, TUG 11 sec (low risk).\nmedicines: 8 regular – polypharmacy, review Beers.\nmood: low mood linked to pain, denies suicidal thoughts.\ncarers: spouse Rajesh.\ngoal: \"I want to reduce swelling and regain hand strength.\""
+    },
+    {
+      "memory_id": "X0292-m09",
+      "date": "2025-11-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 6.25 mg OD\nmethotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0292-m10",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.0 mg/dL (0.6-1.2), eGFR 72 mL/min/1.73m2.\nSerum potassium 4.3 mmol/L.\nECG: unchanged.\nESR 12 mm/hr.\nCRP 3 mg/L.\nRF 10 IU/mL.\nAnti-CCP 4 U/mL.\nALT 24 U/L, AST 22 U/L, ALKP 80 U/L, bilirubin 0.9 mg/dL."
+    },
+    {
+      "memory_id": "X0292-m11",
+      "date": "2026-03-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Eye exam (hydroxychloroquine screening): visual fields full, OCT normal, no retinopathy."
+    },
+    {
+      "memory_id": "X0292-m12",
+      "date": "2026-04-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: improved grip, morning stiffness 30 min.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls, gait normal, TUG 9 sec (low risk).\nmedicines: 8 regular – polypharmacy, review Beers.\nmood: reports better mood, enjoys gardening.\ncarers: spouse Rajesh.\ngoal: \"I want to keep working pain-free and travel.\""
+    },
+    {
+      "memory_id": "X0292-m13",
+      "date": "2026-04-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 6.25 mg OD\nmethotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 2.5 mg OD"
+    },
+    {
+      "memory_id": "X0292-m14",
+      "date": "2026-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-08-20 10:30 with Dr Kulkarni (D06) for routine follow-up."
+    },
+    {
+      "memory_id": "X0292-m15",
+      "date": "2026-08-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: stable, walks 3 km, no joint swelling.\ncognition: not screened.\nfalls: 0 falls, gait normal, TUG 9 sec (low risk).\nmedicines: 8 regular – polypharmacy, review Beers.\nmood: good, enjoys time with grandchildren.\ncarers: spouse Rajesh.\ngoal: \"I want to stay healthy and independent.\""
+    }
+  ]
+}

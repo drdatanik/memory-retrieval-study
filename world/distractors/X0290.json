@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0290",
+  "name": "Ravichandran Raman",
+  "age": 63,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Epilepsy",
+    "Vitamin D deficiency",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0290-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Epilepsy\n- Status: Seizure-free on levetiracetam 500 mg BD and lamotrigine 50 mg BD.\n- Plan: Continue current AEDs; advise seizure diary.\nVitamin D deficiency\n- Status: Initiated loading cholecalciferol 60000 IU weekly.\n- Plan: Check levels after 8 weeks.\nDepression\n- Status: Low mood, PHQ-9 10; on sertraline 50 mg OD.\n- Plan: Continue sertraline; add mirtazapine 15 mg HS if no improvement in 4 weeks.\nDue: HbA1c not applicable (no glucose-lowering therapy)."
+    },
+    {
+      "memory_id": "X0290-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH vitamin D: 14 ng/mL (ref 30‑100).\nSerum calcium: 9.1 mg/dL (ref 8.6‑10.3).\nSerum phosphate: 2.8 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0290-m03",
+      "date": "2025-04-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cholecalciferol 60000 IU once weekly for 8 weeks (loading).\nAfter loading: cholecalciferol 1000 IU OD ongoing.\nLevetiracetam 500 mg BD.\nLamotrigine 50 mg BD.\nSertraline 50 mg OD.\nMirtazapine 15 mg HS."
+    },
+    {
+      "memory_id": "X0290-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Epilepsy\n- Status: No seizures; medication adherence good.\n- Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD.\nVitamin D deficiency\n- Status: 25‑OH vitamin D 28 ng/mL after loading; still insufficient.\n- Plan: Switch to cholecalciferol 2000 IU OD and re‑check in 3 months.\nDepression\n- Status: Mood improved, PHQ-9 6; on sertraline 50 mg OD, mirtazapine 15 mg HS.\n- Plan: Maintain current antidepressants; monitor for sedation.\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0290-m05",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 138 mmol/L (ref 135‑145).\nSerum creatinine: 1.0 mg/dL (ref 0.7‑1.3).\nTSH: 2.1 µIU/mL (ref 0.4‑4.5).\nVitamin B12: 320 pg/mL (ref 200‑900)."
+    },
+    {
+      "memory_id": "X0290-m06",
+      "date": "2025-08-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sertraline increased to 100 mg OD.\nMirtazapine 15 mg HS unchanged.\nLevetiracetam 500 mg BD.\nLamotrigine 50 mg BD.\nCholecalciferol 2000 IU OD."
+    },
+    {
+      "memory_id": "X0290-m07",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve felt a bit dizzy in the mornings after starting the higher sertraline dose. It improves after breakfast. No new seizures. Mood feels steadier."
+    },
+    {
+      "memory_id": "X0290-m08",
+      "date": "2025-09-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: Background activity normal; no epileptiform discharges. No changes from prior study."
+    },
+    {
+      "memory_id": "X0290-m09",
+      "date": "2025-10-01",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Neurology, Dr S. Rao (Consultant) for review of epilepsy management and consideration of medication taper given prolonged seizure freedom."
+    },
+    {
+      "memory_id": "X0290-m10",
+      "date": "2025-11-15",
+      "type": "referral_outcome",
+      "author": "lab",
+      "text": "Neurology review: Patient seizure-free for 12 months. Recommend continuing current AEDs; no taper needed at present. Return to routine follow‑up in 6 months."
+    },
+    {
+      "memory_id": "X0290-m11",
+      "date": "2026-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-12 10:00 to 2026-04-12 14:30 for follow‑up with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0290-m12",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Epilepsy\n- Status: Seizure‑free; medication unchanged.\n- Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD.\nVitamin D deficiency\n- Status: 25‑OH vitamin D 32 ng/mL on cholecalciferol 2000 IU OD.\n- Plan: Continue maintenance dose; re‑check in 6 months.\nDepression\n- Status: Mood stable, PHQ-9 4; on sertraline 100 mg OD, mirtazapine 15 mg HS.\n- Plan: Continue antidepressants; consider sertraline taper if remission persists.\nDue: HbA1c not applicable."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0341",
+  "name": "Sharmila Dasgupta",
+  "age": 60,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Chronic kidney disease",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0341-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "60-year-old female school bus driver presents for routine review of chronic kidney disease and migraine.\n\nPRESENTING COMPLAINT: She reports occasional mild flank discomfort, mild fatigue, and migraine headaches about twice a month, usually relieved by sumatriptan.\n\nEXAMINATION: Blood pressure 138/86 mmHg, weight 68 kg, BMI 28.3 (obese). Abdomen soft, no edema. Neurological examination normal.\n\nIMPRESSION: Chronic kidney disease stage 3a (estimated eGFR ~55 mL/min/1.73m2), stable. Migraine episodic, currently on prophylaxis. Advise reduced sodium intake, increase physical activity. Order fasting lipid profile and fasting blood sugar as per annual screening for adults over 40.\n\nARRANGEMENTS: Continue telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD. Continue propranolol 40 mg OD, topiramate 25 mg HS, sumatriptan 50 mg SOS, naproxen 500 mg SOS. Arrange labs today. Influenza vaccine offered (patient to consider). Return if: new chest pain, worsening flank pain, fever >39°C, sudden severe headache, visual changes, or blood in urine."
+    },
+    {
+      "memory_id": "X0341-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Telmisartan 40 mg once daily; Dapagliflozin 10 mg once daily; Furosemide 20 mg once daily; Sodium bicarbonate 500 mg twice daily; Propranolol 40 mg once daily; Topiramate 25 mg at bedtime; Sumatriptan 50 mg as needed for migraine; Naproxen 500 mg as needed for migraine."
+    },
+    {
+      "memory_id": "X0341-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.2 mg/dL (reference 0.5-1.1); eGFR 55 mL/min/1.73m2 (reference >60); Urine albumin‑creatinine ratio 45 mg/g (reference <30); Haemoglobin 12.8 g/dL (reference 12-16); Fasting lipid profile: Total cholesterol 190 mg/dL (<200), LDL 115 mg/dL (<100), HDL 48 mg/dL (>40), Triglycerides 150 mg/dL (<150); Fasting blood sugar 92 mg/dL (70-99)."
+    },
+    {
+      "memory_id": "X0341-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "60-year-old female returns for follow‑up of chronic kidney disease and migraine.\n\nPRESENTING COMPLAINT: She notes increased fatigue over the past month and occasional mild ankle swelling; migraine frequency unchanged.\n\nEXAMINATION: Blood pressure 142/88 mmHg, weight 66 kg, BMI 27.5 (obese). Mild pitting edema ankles bilaterally. Lungs clear.\n\nIMPRESSION: CKD stable with slight rise in creatinine; mild fluid retention likely contributing to edema. Migraine well controlled on current regimen. Continue lifestyle advice; consider increasing diuretic if edema progresses.\n\nARRANGEMENTS: Increase furosemide to 40 mg OD; keep telmisartan 40 mg OD, dapagliflozin 10 mg OD, sodium bicarbonate 500 mg BD. Continue propranolol 40 mg OD, topiramate 25 mg HS, sumatriptan 50 mg SOS, naproxen 500 mg SOS. Repeat renal labs in 6 weeks. Influenza vaccine not yet given; discuss at next visit. Return if: sudden weight gain, worsening edema, shortness of breath, chest pain, fever >39°C, or severe headache."
+    },
+    {
+      "memory_id": "X0341-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Telmisartan 40 mg once daily; Dapagliflozin 10 mg once daily; Furosemide 40 mg once daily; Sodium bicarbonate 500 mg twice daily; Propranolol 40 mg once daily; Topiramate 25 mg at bedtime; Sumatriptan 50 mg as needed for migraine; Naproxen 500 mg as needed for migraine."
+    },
+    {
+      "memory_id": "X0341-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.25 mg/dL (reference 0.5-1.1); eGFR 52 mL/min/1.73m2; Urine albumin‑creatinine ratio 48 mg/g; Haemoglobin 12.6 g/dL."
+    },
+    {
+      "memory_id": "X0341-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "60-year-old female presents for routine review; reports persistent mild fatigue and occasional nocturnal leg cramps; migraine headaches twice monthly, well controlled.\n\nPRESENTING COMPLAINT: Fatigue and leg cramps; no new cardiac or neurologic symptoms.\n\nEXAMINATION: Blood pressure 140/86 mmHg, weight 65 kg, BMI 27.0 (obese). No edema. Neurologic exam normal.\n\nIMPRESSION: CKD stable; consider evaluating for electrolyte imbalance contributing to cramps. Migraine prophylaxis adequate. Order fasting lipid and glucose if not done this year (last done April).\n\nARRANGEMENTS: Check serum potassium and bicarbonate; continue telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 40 mg OD, sodium bicarbonate 500 mg BD. Continue propranolol 40 mg OD, topiramate 25 mg HS, sumatriptan 50 mg SOS, naproxen 500 mg SOS. Administer influenza vaccine today (patient consents). Return if: new chest pain, palpitations, severe headache, vision changes, fever >39°C, or blood in urine."
+    },
+    {
+      "memory_id": "X0341-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Telmisartan 40 mg once daily; Dapagliflozin 10 mg once daily; Furosemide 40 mg once daily; Sodium bicarbonate 500 mg twice daily; Propranolol 40 mg once daily; Topiramate 25 mg at bedtime; Sumatriptan 50 mg as needed for migraine; Naproxen 500 mg as needed for migraine."
+    },
+    {
+      "memory_id": "X0341-m09",
+      "date": "2025-10-04",
+      "type": "investigation",
+      "author": "D03",
+      "text": "CT head performed to rule out structural cause for migraines. No acute hemorrhage, infarct, or mass lesion. ventricles normal size. No abnormal enhancement. Interpretation: Normal study."
+    },
+    {
+      "memory_id": "X0341-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "60-year-old female returns for annual review of chronic kidney disease and migraine.\n\nPRESENTING COMPLAINT: She reports stable energy, occasional mild fatigue, no new swelling; migraine frequency unchanged.\n\nEXAMINATION: Blood pressure 138/84 mmHg, weight 64 kg, BMI 26.5 (obese). No edema. Lungs clear.\n\nIMPRESSION: CKD stable; eGFR around 50‑55 mL/min/1.73m2. Migraine well controlled. Annual fasting lipid and glucose ordered.\n\nARRANGEMENTS: Continue telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 40 mg OD, sodium bicarbonate 500 mg BD. Continue propranolol 40 mg OD, topiramate 25 mg HS, sumatriptan 50 mg SOS, naproxen 500 mg SOS. Arrange fasting lipid profile and fasting blood sugar today. Influenza vaccine already given October 2025. Return if: chest pain, worsening edema, fever >39°C, sudden severe headache, visual changes, or blood in urine."
+    },
+    {
+      "memory_id": "X0341-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Telmisartan 40 mg once daily; Dapagliflozin 10 mg once daily; Furosemide 40 mg once daily; Sodium bicarbonate 500 mg twice daily; Propranolol 40 mg once daily; Topiramate 25 mg at bedtime; Sumatriptan 50 mg as needed for migraine; Naproxen 500 mg as needed for migraine."
+    },
+    {
+      "memory_id": "X0341-m12",
+      "date": "2026-01-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.28 mg/dL (reference 0.5-1.1); eGFR 50 mL/min/1.73m2; Urine albumin‑creatinine ratio 50 mg/g; Haemoglobin 12.5 g/dL; Fasting lipid profile: Total cholesterol 185 mg/dL (<200), LDL 110 mg/dL (<100), HDL 50 mg/dL (>40), Triglycerides 140 mg/dL (<150); Fasting blood sugar 88 mg/dL (70-99)."
+    },
+    {
+      "memory_id": "X0341-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "60-year-old female presents for follow‑up; reports increased shortness of breath on exertion and mild bilateral ankle swelling over past 3 weeks; migraine unchanged.\n\nPRESENTING COMPLAINT: Exertional dyspnea and ankle swelling.\n\nEXAMINATION: Blood pressure 142/90 mmHg, weight 63 kg, BMI 26.2 (obese). Mild pitting edema ankles bilaterally. Lung bases clear.\n\nIMPRESSION: Possible fluid overload contributing to dyspnea and edema; consider increasing diuretic. CKD stable; migraine prophylaxis adequate.\n\nARRANGEMENTS: Increase furosemide to 60 mg OD; keep telmisartan 40 mg OD, dapagliflozin 10 mg OD, sodium bicarbonate 500 mg BD. Continue propranolol 40 mg OD, topiramate 25 mg HS, sumatriptan 50 mg SOS, naproxen 500 mg SOS. Repeat renal labs and electrolytes in 4 weeks. Influenza vaccine up to date. Return if: worsening dyspnea, orthopnea, chest pain, fever >39°C, sudden severe headache, or blood in urine."
+    },
+    {
+      "memory_id": "X0341-m14",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Telmisartan 40 mg once daily; Dapagliflozin 10 mg once daily; Furosemide 60 mg once daily; Sodium bicarbonate 500 mg twice daily; Propranolol 40 mg once daily; Topiramate 25 mg at bedtime; Sumatriptan 50 mg as needed for migraine; Naproxen 500 mg as needed for migraine."
+    },
+    {
+      "memory_id": "X0341-m15",
+      "date": "2026-04-22",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-07-20 at 10:30 am with Dr Priya Natarajan (D03)."
+    }
+  ]
+}

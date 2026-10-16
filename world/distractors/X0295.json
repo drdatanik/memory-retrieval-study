@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0295",
+  "name": "Shabbir Syed",
+  "age": 84,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Osteoarthritis of the knee",
+    "Non-alcoholic fatty liver disease",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0295-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees, non-alcoholic fatty liver disease, and rheumatoid arthritis are present.\nPatient reports aching knee pain worsening with stairs, mild morning stiffness in hands lasting <30 min, and occasional fatigue. Examination shows tenderness and mild effusion of both knees, no joint warmth, liver not enlarged, hands show mild synovitis without deformity. Spirometry not indicated. Smoking status: never. Weight 68 kg, BMI 22.1."
+    },
+    {
+      "memory_id": "X0295-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "paracetamol 650 mg SOS\n topical diclofenac gel BD\n calcium 500 mg with vitamin D3 400 IU OD\n silymarin 140 mg TDS\n rosuvastatin 5 mg OD\n methotrexate 10 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n prednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0295-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 38 U/L (7‑35) slightly ↑\n AST 32 U/L (8‑40) normal\n ALP 84 U/L (40‑129) normal\n GGT 45 U/L (9‑64) normal\n Total bilirubin 0.9 mg/dL (0.2‑1.2) normal\n Serum vitamin D 22 ng/mL (30‑100) ↓\n ESR 18 mm/hr (0‑22) normal\n CRP 3 mg/L (<5) normal\n RF 12 IU/mL (<14) normal\n anti‑CCP 5 U/mL (<7) normal\n Platelet count 225 ×10⁹/L (150‑400) normal\n Lipids: Cholesterol 190 mg/dL (<200) normal\n Triglycerides 138 mg/dL (<150) normal\n HDL 48 mg/dL (>40) normal\n LDL 112 mg/dL (<130) normal"
+    },
+    {
+      "memory_id": "X0295-m04",
+      "date": "2025-04-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past two weeks my knees have felt more sore after walking to the market, and I notice stiffness in my fingers when I wake up. I’ve been taking the paracetamol as needed but it only helps a little. My appetite is fine and I haven’t noticed any new abdominal discomfort."
+    },
+    {
+      "memory_id": "X0295-m05",
+      "date": "2025-05-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Suresh Menon (D05) for 2025‑07‑10 at 10:30 am."
+    },
+    {
+      "memory_id": "X0295-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees, NAFLD, and rheumatoid arthritis remain stable.\nPatient reports knee pain now only on prolonged walking, morning hand stiffness improved to <15 min, fatigue less noticeable. Examination: mild tenderness of knees, no effusion, hands show minimal synovitis. Liver edge not palpable. Spirometry not indicated. Smoking status: never. Weight stable 68 kg."
+    },
+    {
+      "memory_id": "X0295-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "paracetamol 650 mg SOS\n topical diclofenac gel BD\n calcium 500 mg with vitamin D3 400 IU OD\n silymarin 140 mg TDS\n rosuvastatin 5 mg OD\n methotrexate 10 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n prednisolone reduced to 2.5 mg OD"
+    },
+    {
+      "memory_id": "X0295-m08",
+      "date": "2025-07-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 34 U/L (7‑35) normal\n AST 30 U/L (8‑40) normal\n ALP 80 U/L (40‑129) normal\n GGT 42 U/L (9‑64) normal\n Total bilirubin 0.8 mg/dL (0.2‑1.2) normal\n Serum vitamin D 28 ng/mL (30‑100) borderline low\n ESR 16 mm/hr (0‑22) normal\n CRP 2 mg/L (<5) normal\n RF 10 IU/mL (<14) normal\n anti‑CCP 4 U/mL (<7) normal\n Platelet count 228 ×10⁹/L (150‑400) normal\n Lipids: Cholesterol 185 mg/dL (<200) normal\n Triglycerides 130 mg/dL (<150) normal\n HDL 50 mg/dL (>40) normal\n LDL 108 mg/dL (<130) normal"
+    },
+    {
+      "memory_id": "X0295-m09",
+      "date": "2025-08-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Weight‑bearing X‑ray of both knees: joint space narrowing medial compartment bilaterally, modest osteophyte formation, no subchondral cyst or fracture. Impression: moderate osteoarthritis changes."
+    },
+    {
+      "memory_id": "X0295-m10",
+      "date": "2025-10-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Lately I’ve felt a dull ache in my right knee even at rest, and I’ve noticed a bit of swelling around the joint. My fingers still feel stiff in the mornings but it’s not worse. I haven’t had any new abdominal pain or jaundice."
+    },
+    {
+      "memory_id": "X0295-m11",
+      "date": "2025-11-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: follow‑up with Dr Suresh Menon (D05) moved from 2025‑12‑05 to 2026‑02‑05 at 09:15 am per patient request."
+    },
+    {
+      "memory_id": "X0295-m12",
+      "date": "2026-02-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees progressed mildly; NAFLD unchanged; rheumatoid arthritis well controlled.\nPatient reports increased right knee discomfort at rest with occasional swelling, morning hand stiffness ~10 min, fatigue minimal. Examination: mild effusion and warmth of right knee, left knee tender without effusion, hands show minimal synovitis. Liver not enlarged. Spirometry not indicated. Smoking status: never. Weight 69 kg."
+    },
+    {
+      "memory_id": "X0295-m13",
+      "date": "2026-02-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "paracetamol 650 mg SOS\n topical diclofenac gel BD\n calcium 500 mg with vitamin D3 400 IU OD\n silymarin 140 mg TDS\n rosuvastatin 5 mg OD\n methotrexate 10 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n prednisolone discontinued"
+    },
+    {
+      "memory_id": "X0295-m14",
+      "date": "2026-02-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 36 U/L (7‑35) normal\n AST 31 U/L (8‑40) normal\n ALP 82 U/L (40‑129) normal\n GGT 44 U/L (9‑64) normal\n Total bilirubin 0.9 mg/dL (0.2‑1.2) normal\n Serum vitamin D 31 ng/mL (30‑100) normal\n ESR 14 mm/hr (0‑22) normal\n CRP 1.5 mg/L (<5) normal\n RF 9 IU/mL (<14) normal\n anti‑CCP 3 U/mL (<7) normal\n Platelet count 230 ×10⁹/L (150‑400) normal\n Lipids: Cholesterol 188 mg/dL (<200) normal\n Triglycerides 128 mg/dL (<150) normal\n HDL 52 mg/dL (>40) normal\n LDL 106 mg/dL (<130) normal"
+    },
+    {
+      "memory_id": "X0295-m15",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees stable with symptomatic management; NAFLD unchanged; rheumatoid arthritis in remission.\nPatient reports right knee ache only after prolonged standing, no swelling, morning hand stiffness <5 min, no fatigue. Examination: mild tenderness of knees, no effusion or warmth, hands normal. Liver not palpable. Spirometry not indicated. Smoking status: never. Weight 68 kg."
+    }
+  ]
+}

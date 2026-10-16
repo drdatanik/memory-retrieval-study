@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0137",
+  "name": "Unnikrishnan Unnithan",
+  "age": 88,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Generalised anxiety disorder",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0137-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 88‑year‑old man reports persistent worry, muscle tension and fatigue over past months; denies chest pain or palpitations.\nEXAMINATION: BP 138/84 mmHg, weight 68 kg, height 1.62 m, BMI 25.9 (obese). Regular rhythm, no murmurs. Lung fields clear. Abdomen soft, non‑tender.\nIMPRESSION: Generalised anxiety disorder, hypothyroidism (on levothyroxine 50 mcg OD). Elevated BMI warrants lifestyle advice.\nARRANGEMENTS: Start escitalopram 5 mg OD and buspirone 5 mg BD for anxiety. Continue levothyroxine 50 mcg OD. Advise reduced‑calorie diet, walking 30 min daily. Return if worsening anxiety, palpitations, fever >39°C, or black stools."
+    },
+    {
+      "memory_id": "X0137-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 5 mg tablets – take one tablet orally once daily.\nBuspirone 5 mg tablets – take one tablet orally twice daily.\nLevothyroxine 50 mcg tablets – take one tablet orally once daily, on empty stomach."
+    },
+    {
+      "memory_id": "X0137-m03",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (ref 0.4‑4.0). Free T4 11.2 pmol/L (ref 9.0‑19.0). Haemoglobin 13.8 g/dL (ref 13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0137-m04",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient feels less anxious but notes mild cold intolerance and weight stable.\nEXAMINATION: BP 136/82 mmHg, weight 68.5 kg, BMI 26.1 (obese). No thyroid enlargement.\nIMPRESSION: Anxiety improving on current regimen. TSH slightly elevated, indicating need for higher levothyroxine dose.\nARRANGEMENTS: Increase levothyroxine to 75 mcg OD. Continue escitalopram 5 mg OD and buspirone 5 mg BD. Reinforce low‑salt diet, daily walk. Return if worsening fatigue, heat intolerance, chest pain, or dyspnoea."
+    },
+    {
+      "memory_id": "X0137-m05",
+      "date": "2025-08-03",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 75 mcg tablets – take one tablet orally once daily, on empty stomach."
+    },
+    {
+      "memory_id": "X0137-m06",
+      "date": "2025-11-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow‑up; patient reports good sleep, occasional worry.\nEXAMINATION: BP 134/80 mmHg, weight 69 kg, BMI 26.3 (obese). No edema.\nIMPRESSION: Anxiety stable. Thyroid function improved; lipid and glucose screening due.\nARRANGEMENTS: Order fasting lipid profile and fasting blood sugar. Give influenza vaccine today (02‑Nov‑2025). Advise maintain weight, continue meds. Return if new chest pain, breathlessness, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0137-m07",
+      "date": "2025-11-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting cholesterol 5.2 mmol/L (ref <5.0). HDL 1.2 mmol/L (ref >1.0). LDL 3.0 mmol/L (ref <3.0). Triglycerides 1.8 mmol/L (ref <1.7). Fasting glucose 6.1 mmol/L (ref 3.9‑5.5)."
+    },
+    {
+      "memory_id": "X0137-m08",
+      "date": "2026-02-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past month I’ve felt more on edge, waking early with racing thoughts. My appetite is unchanged but I feel tired in the afternoons."
+    },
+    {
+      "memory_id": "X0137-m09",
+      "date": "2026-02-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports increased anxiety, early morning awakening, daytime fatigue.\nEXAMINATION: BP 136/84 mmHg, weight 69.2 kg, BMI 26.4 (obese). No focal neurologic signs.\nIMPRESSION: Worsening generalised anxiety disorder; thyroid stable on current dose.\nARRANGEMENTS: Increase escitalopram to 10 mg OD. Continue buspirone 5 mg BD and levothyroxine 75 mcg OD. Counsel on sleep hygiene, limit caffeine. Return if suicidal thoughts, chest pain, fever >39°C, or bleeding."
+    },
+    {
+      "memory_id": "X0137-m10",
+      "date": "2026-02-14",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg tablets – take one tablet orally once daily.\nBuspirone 5 mg tablets – take one tablet orally twice daily.\nLevothyroxine 75 mcg tablets – take one tablet orally once daily, on empty stomach."
+    },
+    {
+      "memory_id": "X0137-m11",
+      "date": "2026-06-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 15‑Sep‑2026 at 10:30 AM with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0137-m12",
+      "date": "2026-09-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review; patient reports anxiety well controlled, good energy.\nEXAMINATION: BP 132/78 mmHg, weight 68.8 kg, BMI 26.2 (obese). No thyroid enlargement.\nIMPRESSION: Anxiety stable on escitalopram 10 mg OD and buspirone 5 mg BD. TSH trending upward; consider increasing levothyroxine.\nARRANGEMENTS: Order fasting lipid profile, fasting blood sugar, TSH and free T4. Give influenza vaccine today (15‑Sep‑2026). Advise continue diet, activity, meds. Return if chest pain, breathlessness, fever >39°C, or melena."
+    }
+  ]
+}

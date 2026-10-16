@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0255",
+  "name": "Annie Pereira",
+  "age": 42,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Polycystic ovary syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0255-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Polycystic ovary syndrome.\nPatient reports irregular menses, mild hirsutism, and weight gain. BMI 28 kg/m2, blood pressure 118/72, pulse 78. Abdomen soft, no palpable masses. Smoking status: never. Spirometry: FEV1 2.85 L (92% predicted), FVC 3.30 L, FEV1/FVC 0.86; change from baseline +0.02 L. Inhaler technique: not applicable. Asthma Control Test not applicable (no asthma). Assessment: PCOS likely, metabolic profile normal. Plan: start metformin 500 mg BD and combined oral contraceptive pill OD; order baseline labs; review in 3 months."
+    },
+    {
+      "memory_id": "X0255-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg tablets, take one tablet twice daily.\nCombined oral contraceptive pill (ethinylestradiol 30 µg + levonorgestrel 150 µg), take one tablet daily."
+    },
+    {
+      "memory_id": "X0255-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum testosterone: 48 ng/dL (reference 15‑70).\nLH:FSH ratio: 1.9 (reference <2).\nHbA1c: 5.5% (reference 4.0‑5.6)."
+    },
+    {
+      "memory_id": "X0255-m04",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been noticing my periods are coming every 45‑60 days and I have some unwanted hair on my chin. I’ve also gained about 4 kg over the past year despite my usual diet. I’m worried about my fertility and would like to start treatment soon."
+    },
+    {
+      "memory_id": "X0255-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Polycystic ovary syndrome.\nPatient reports more regular menses (approx every 32 days) and reduced facial hair. Weight stable at 68 kg. BP 120/74, pulse 80. No acne flare. Smoking status: never. Spirometry: FEV1 2.88 L (93% predicted), FVC 3.32 L, FEV1/FVC 0.87; change +0.03 L since last visit. Inhaler technique: not applicable. Asthma Control Test: not applicable. Assessment: good response to metformin and OCP; metabolic parameters improved. Plan: continue current meds; repeat labs in 3 months; lifestyle advice reinforced."
+    },
+    {
+      "memory_id": "X0255-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg tablets, take one tablet twice daily.\nCombined oral contraceptive pill (ethinylestradiol 30 µg + levonorgestrel 150 µg), take one tablet daily."
+    },
+    {
+      "memory_id": "X0255-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum testosterone: 42 ng/dL (reference 15‑70).\nLH:FSH ratio: 1.6 (reference <2).\nHbA1c: 5.4% (reference 4.0‑5.6)."
+    },
+    {
+      "memory_id": "X0255-m08",
+      "date": "2025-10-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-15 at 10:00 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0255-m09",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Polycystic ovary syndrome.\nPatient reports breakthrough spotting mid‑cycle and mild nausea since starting OCP. Weight unchanged. BP 119/72, pulse 78. Smoking status: never. Spirometry: FEV1 2.90 L (94% predicted), FVC 3.35 L, FEV1/FVC 0.87; change +0.02 L since last visit. Inhaler technique: not applicable. Asthma Control Test: not applicable. Assessment: likely OCP‑related side effects. Plan: switch to low‑dose OCP (ethinylestradiol 20 µg + levonorgestrel 100 µg) OD; continue metformin; repeat labs in 3 months."
+    },
+    {
+      "memory_id": "X0255-m10",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg tablets, take one tablet twice daily.\nCombined oral contraceptive pill (ethinylestradiol 20 µg + levonorgestrel 100 µg), take one tablet daily."
+    },
+    {
+      "memory_id": "X0255-m11",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Polycystic ovary syndrome.\nPatient reports no spotting, regular cycles every 28‑30 days, and mild improvement in hirsutism. Weight 67 kg. BP 120/70, pulse 76. Smoking status: never. Spirometry: FEV1 2.92 L (95% predicted), FVC 3.38 L, FEV1/FVC 0.86; change +0.02 L since last visit. Inhaler technique: not applicable. Asthma Control Test: not applicable. Assessment: stable on current regimen; ovarian volume unchanged on prior ultrasound. Plan: continue metformin and low‑dose OCP; schedule pelvic ultrasound to assess ovarian morphology."
+    },
+    {
+      "memory_id": "X0255-m12",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Pelvic ultrasound: Bilateral ovaries show multiple small follicles (2‑9 mm); volume 6.8 mL each (reference <10 mL). No dominant cyst. Endometrial thickness 5.5 mm (proliferative pattern)."
+    }
+  ]
+}

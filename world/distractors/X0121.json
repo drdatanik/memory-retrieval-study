@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0121",
+  "name": "Kiran Verma",
+  "age": 25,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0121-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Obesity assessment and initiation of therapy.\nPRESENTING COMPLAINT: The patient presents for weight management, reporting gradual weight gain over the past year and concerns about health risks.\nEXAMINATION: BP 128/82 mmHg, weight 92 kg, height 160 cm, BMI 35.9 (obese per Asian cut‑offs). Abdomen soft, no tenderness.\nIMPRESSION: Obesity, BMI 35.9. No hypertension or dyslipidaemia noted clinically.\nARRANGEMENTS: Start orlistat 120 mg with each main meal. Advise reduced‑calorie diet, increase physical activity to 150 min/week. Return if severe abdominal pain, oily stools with bleeding, fever >39°C, or sudden shortness of breath."
+    },
+    {
+      "memory_id": "X0121-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Orlistat 120 mg PO TID with breakfast, lunch, and dinner. Continue for 3 months, then review."
+    },
+    {
+      "memory_id": "X0121-m03",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 4.8 mmol/L (ref <5.2), LDL 2.9 mmol/L (<2.6), HDL 1.2 mmol/L (>1.0), triglycerides 1.6 mmol/L (<1.7). Fasting glucose 5.6 mmol/L (3.9‑5.5) slightly elevated. HbA1c 5.8% (4.0‑5.6) mildly raised. Liver function: ALT 28 U/L (<40), AST 24 U/L (<38), ALP 78 U/L (40‑129), GGT 32 U/L (<51)."
+    },
+    {
+      "memory_id": "X0121-m04",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up on obesity therapy after 3 months.\nPRESENTING COMPLAINT: Patient reports modest weight loss, improved energy, no GI side‑effects.\nEXAMINATION: BP 130/84 mmHg, weight 90 kg, BMI 35.2 (obese). Abdomen benign.\nIMPRESSION: Obesity, BMI 35.2, modest response to orlistat. Lipids and glucose improved but still above target.\nARRANGEMENTS: Continue orlistat 120 mg TID. Reinforce diet (500 kcal deficit) and brisk walking 30 min daily. Return if persistent oily stools, abdominal cramping, vomiting, fever >39°C, or chest pain."
+    },
+    {
+      "memory_id": "X0121-m05",
+      "date": "2025-07-22",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Orlistat 120 mg PO TID with meals. Continue for another 3 months."
+    },
+    {
+      "memory_id": "X0121-m06",
+      "date": "2025-07-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 4.5 mmol/L (<5.2), LDL 2.6 mmol/L (≤2.6), HDL 1.3 mmol/L (>1.0), triglycerides 1.4 mmol/L (<1.7). Fasting glucose 5.4 mmol/L (3.9‑5.5). HbA1c 5.6% (4.0‑5.6) at upper limit. LFT: ALT 22, AST 20, ALP 75, GGT 30 (all within normal)."
+    },
+    {
+      "memory_id": "X0121-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Six‑month obesity review.\nPRESENTING COMPLAINT: Patient notes weight plateau, occasional dietary lapses.\nEXAMINATION: BP 128/80 mmHg, weight 89 kg, BMI 34.8 (obese). No abdominal tenderness.\nIMPRESSION: Obesity, BMI 34.8, stable on orlistat. Metabolic parameters within normal range except borderline HbA1c.\nARRANGEMENTS: Continue orlistat 120 mg TID. Counsel on mindful eating, increase aerobic activity to 180 min/week. Return if severe diarrhoea, rectal bleeding, unexplained weight loss, fever >39°C, or palpitations."
+    },
+    {
+      "memory_id": "X0121-m08",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 4.6 mmol/L (<5.2), LDL 2.7 mmol/L (≤2.6) slightly high, HDL 1.2 mmol/L (>1.0), triglycerides 1.5 mmol/L (<1.7). Fasting glucose 5.5 mmol/L (3.9‑5.5). HbA1c 5.7% (4.0‑5.6) mildly elevated. LFT: ALT 24, AST 22, ALP 80, GGT 34 (normal)."
+    },
+    {
+      "memory_id": "X0121-m09",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Weight management check‑in after holiday period.\nPRESENTING COMPLAINT: Patient reports slight weight regain, festive eating.\nEXAMINATION: BP 130/82 mmHg, weight 90 kg, BMI 35.2 (obese). Abdomen soft.\nIMPRESSION: Obesity, BMI 35.2, modest weight fluctuation. Labs remain acceptable.\nARRANGEMENTS: Reinforce orlistat adherence, set SMART goals for diet (≤1500 kcal/day) and activity. Return if worsening GI symptoms, fever >39°C, dyspnoea on exertion, or chest discomfort."
+    },
+    {
+      "memory_id": "X0121-m10",
+      "date": "2026-01-18",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Orlistat 120 mg PO TID with main meals. Continue for 3 months, then reassess."
+    },
+    {
+      "memory_id": "X0121-m11",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Obesity follow‑up; medication tolerance reviewed.\nPRESENTING COMPLAINT: Patient reports increased oily stools and abdominal discomfort after meals.\nEXAMINATION: BP 132/84 mmHg, weight 91 kg, BMI 35.5 (obese). Mild lower abdominal tenderness, no masses.\nIMPRESSION: Obesity, BMI 35.5, possible orlistat intolerance contributing to GI symptoms.\nARRANGEMENTS: Discuss stopping orlistat due to side‑effects. Advise low‑fat diet (<30% fat) to reduce symptoms, increase fibre, maintain activity. Return if severe diarrhoea, dehydration, fever >39°C, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0121-m12",
+      "date": "2026-04-08",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Orlistat discontinued per patient request. No further supply."
+    },
+    {
+      "memory_id": "X0121-m13",
+      "date": "2026-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been having oily, foul‑smelling stools and mild cramps since starting orlistat. I think I should stop the medication and try diet alone."
+    },
+    {
+      "memory_id": "X0121-m14",
+      "date": "2026-07-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Off‑orlistat obesity review.\nPRESENTING COMPLAINT: Patient reports stopped orlistat 2 months ago, weight stable, GI symptoms resolved.\nEXAMINATION: BP 130/80 mmHg, weight 92 kg, BMI 35.9 (obese). Abdomen soft.\nIMPRESSION: Obesity, BMI 35.9, off pharmacotherapy. Lifestyle measures needed.\nARRANGEMENTS: Initiate structured diet plan (1200‑1500 kcal/day), prescribe aerobic exercise 150 min/week, consider behavioural counselling. Return if rapid weight gain, fever >39°C, chest pain, or shortness of breath."
+    },
+    {
+      "memory_id": "X0121-m15",
+      "date": "2026-07-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.0 mmol/L (<5.2), LDL 3.0 mmol/L (≤2.6) slightly high, HDL 1.1 mmol/L (>1.0), triglycerides 1.8 mmol/L (<1.7) borderline. Fasting glucose 5.8 mmol/L (3.9‑5.5) elevated. HbA1c 6.0% (4.0‑5.6) indicating pre‑diabetes. LFT: ALT 26, AST 23, ALP 82, GGT 35 (normal)."
+    },
+    {
+      "memory_id": "X0121-m16",
+      "date": "2026-09-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-09-20 at 10:00 with Dr Priya Natarajan (D03) for obesity follow‑up."
+    },
+    {
+      "memory_id": "X0121-m17",
+      "date": "2026-09-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up after lifestyle intervention.\nPRESENTING COMPLAINT: Patient reports adherence to reduced‑calorie diet and regular walking, feels more energetic.\nEXAMINATION: BP 128/78 mmHg, weight 91.5 kg, BMI 35.4 (obese). Abdomen benign.\nIMPRESSION: Obesity, BMI 35.4, modest weight loss since July. Glucose and lipids still elevated but trending.\nARRANGEMENTS: Continue current diet and activity plan, re‑check labs in 3 months. Return if fever >39°C, chest pain, severe dyspnoea, or unexplained weight loss."
+    }
+  ]
+}

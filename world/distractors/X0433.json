@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0433",
+  "name": "Falguni Desai",
+  "age": 60,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0433-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: initial assessment of COPD.\nPRESENTING COMPLAINT: Mrs X reports dyspnoea on walking uphill and occasional wheeze for 6 months.\nEXAMINATION: BP 138/84 mmHg, weight 68 kg, BMI 24.2 (overweight). Respiratory rate 20, SpO2 94% on room air, diffuse wheeze bilaterally.\nIMPRESSION: COPD, moderate severity. Advised diet and activity due to BMI ≥23.\nARRANGEMENTS: Start tiotropium inhaler OD, salbutamol inhaler SOS, budesonide-formoterol 200/6 inhaler BD. Order fasting lipid profile, fasting blood sugar, spirometry, chest X-ray. Return if chest pain, breathlessness at rest, fever >39°C, or haemoptysis."
+    },
+    {
+      "memory_id": "X0433-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tiotropium bromide 18 mcg inhalation OD\nSalbutamol 100 mcg inhalation SOS\nBudesonide-formoterol 200/6 mcg inhalation BD"
+    },
+    {
+      "memory_id": "X0433-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 210 mg/dL (<200 desirable), LDL 130 mg/dL (<100), HDL 48 mg/dL (>40), Triglycerides 160 mg/dL (<150).\nFasting blood sugar: 98 mg/dL (70-100 normal)."
+    },
+    {
+      "memory_id": "X0433-m04",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry: FEV1 1.68 L (55% predicted), FVC 2.80 L (85% predicted), FEV1/FVC 0.60 (<0.70). Consistent with moderate obstructive defect.\nChest X-ray: Hyperinflated lungs, flattened diaphragms, no focal consolidation."
+    },
+    {
+      "memory_id": "X0433-m05",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel tired after climbing two flights of stairs and need to use my salbutamol inhaler about twice a week."
+    },
+    {
+      "memory_id": "X0433-m06",
+      "date": "2025-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 at 10:00 am with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0433-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine COPD follow-up.\nPRESENTING COMPLAINT: Patient reports improved exertional tolerance, uses salbutamol SOS once weekly.\nEXAMINATION: BP 136/82 mmHg, weight 67.5 kg, BMI 24.0 (overweight). SpO2 95% room air, mild wheeze at bases.\nIMPRESSION: COPD stable. BMI ≥23, reinforce diet and activity.\nARRANGEMENTS: Continue current inhalers. Add short course prednisolone 10 mg OD for 5 days due to mild exacerbation symptoms. Repeat fasting lipid profile and fasting blood sugar. Return if worsening dyspnoea, fever >38°C, or increased sputum purulence."
+    },
+    {
+      "memory_id": "X0433-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Prednisolone 10 mg OD for 5 days\nTiotropium bromide 18 mcg inhalation OD\nSalbutamol 100 mcg inhalation SOS\nBudesonide-formoterol 200/6 mcg inhalation BD"
+    },
+    {
+      "memory_id": "X0433-m09",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 202 mg/dL, LDL 124 mg/dL, HDL 50 mg/dL, Triglycerides 148 mg/dL.\nFasting blood sugar: 95 mg/dL."
+    },
+    {
+      "memory_id": "X0433-m10",
+      "date": "2025-10-05",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Pulmonology, Dr S. Rao, for consideration of long‑term oxygen therapy assessment and optimisation of inhaler technique.\nClinical details: COPD, FEV1 55% predicted, BMI 24, on tiotropium, salbutamol SOS, budesonide-formoterol BD."
+    },
+    {
+      "memory_id": "X0433-m11",
+      "date": "2025-11-05",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Pulmonary review: Patient demonstrates good inhaler technique, SpO2 92% on room air, no immediate need for LTOT. Continue current regimen, advise pulmonary rehab. Review in 3 months."
+    },
+    {
+      "memory_id": "X0433-m12",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual COPD review and influenza vaccination.\nPRESENTING COMPLAINT: No exacerbations since last visit, occasional wheeze on exertion.\nEXAMINATION: BP 134/80 mmHg, weight 66 kg, BMI 23.9 (overweight). SpO2 96% room air.\nIMPRESSION: COPD stable. BMI ≥23, advise diet and activity. Annual lipid and glucose checked.\nARRANGEMENTS: Influenza vaccine administered today 2026-04-10. Continue tiotropium OD, salbutamol SOS, budesonide-formoterol BD. Return if new chest pain, worsening dyspnoea, fever >39°C, or haemoptysis."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0468",
+  "name": "Madhu Pandey",
+  "age": 59,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Heart failure with reduced ejection fraction",
+    "Asthma",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0468-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, uses a walking stick for outdoor walks; IADLs managed with daughter's help.\ncognition: Mini-Cog 3/5 (recall 2, clock draw normal) – below threshold, plan for detailed cognitive assessment.\nfalls: No falls in past 12 months; gait steady with stick; timed up-and-go 13 seconds – raised fall risk, advise strength exercises and supportive footwear.\nmedicines: 12 regular – polypharmacy, request review against Beers criteria.\nmood: Reports occasional low mood, denies anhedonia or suicidal thoughts.\ncarers: Priya, daughter.\ngoals: \"I want to stay active enough to attend my granddaughter's school events.\""
+    },
+    {
+      "memory_id": "X0468-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sacubitril/valsartan 24/26 mg BD; bisoprolol 2.5 mg OD; spironolactone 25 mg OD; furosemide 40 mg OD; dapagliflozin 10 mg OD; salbutamol MDI SOS; budesonide-formoterol 200/6 inhaler BD; montelukast 10 mg HS; metformin 500 mg BD; glimepiride 1 mg OD before breakfast; sitagliptin 100 mg OD; empagliflozin 10 mg OD."
+    },
+    {
+      "memory_id": "X0468-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Echocardiogram: LVEF 40%, NYHA class II.\nSerum potassium: 4.5 mmol/L (ref 3.5-5.0).\nSerum creatinine: 1.2 mg/dL (ref 0.6-1.2).\nNT‑proBNP: 800 pg/mL (ref <400).\nHbA1c: 7.8% (ref 4.0‑5.6%).\nFasting plasma glucose: 155 mg/dL (ref 70‑100).\nUrine albumin‑creatinine ratio: 35 mg/g (ref <30).\nSpirometry: FEV1 78% predicted; post‑bronchodilator 85% – positive reversibility.\nAsthma Control Test: 18/25.\nDilated fundus exam: mild non‑proliferative diabetic retinopathy."
+    },
+    {
+      "memory_id": "X0468-m04",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent in ADLs; reports mild ankle swelling after long walks, uses stick less often.\ncognition: Mini‑Cog 4/5 (recall 3, clock draw normal) – still below cutoff, neuropsychology referral pending.\nfalls: One fall at home slipping on wet floor 3 months ago, no injury; gait slightly unsteady; timed up‑and‑go 14 seconds – raised fall risk, prescribe physiotherapy and non‑slip socks.\nmedicines: 12 regular – polypharmacy, continue Beers review.\nmood: Describes feeling more energetic after diuretic adjustment, denies depression.\ncarers: Priya, daughter.\ngoals: \"I wish to walk to the market without stopping to rest.\""
+    },
+    {
+      "memory_id": "X0468-m05",
+      "date": "2025-08-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sacubitril/valsartan 24/26 mg BD; bisoprolol 2.5 mg OD; spironolactone 25 mg OD; furosemide 60 mg OD; dapagliflozin 10 mg OD; salbutamol MDI SOS; budesonide-formoterol 200/6 inhaler BD; montelukast 10 mg HS; metformin 500 mg BD; glimepiride 0.5 mg OD before breakfast; sitagliptin 100 mg OD; empagliflozin 10 mg OD."
+    },
+    {
+      "memory_id": "X0468-m06",
+      "date": "2025-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Echocardiogram: LVEF 42%, NYHA class II.\nSerum potassium: 4.8 mmol/L (ref 3.5-5.0).\nSerum creatinine: 1.1 mg/dL (ref 0.6-1.2).\nNT‑proBNP: 620 pg/mL (ref <400).\nHbA1c: 7.4% (ref 4.0‑5.6%).\nFasting plasma glucose: 138 mg/dL (ref 70‑100).\nUrine albumin‑creatinine ratio: 28 mg/g (ref <30).\nSpirometry: FEV1 80% predicted; post‑bronchodilator 88%.\nAsthma Control Test: 20/25.\nDilated fundus exam: stable mild retinopathy."
+    },
+    {
+      "memory_id": "X0468-m07",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages ADLs independently; reports occasional dyspnea on exertion, uses walking stick for longer trips.\ncognition: Mini‑Cog 3/5 (recall 2, clock draw normal) – still positive screen, awaiting formal assessment.\nfalls: No new falls in past 6 months; gait with stick smooth; timed up‑and‑go 12 seconds – borderline fall risk, advise home exercise program.\nmedicines: 12 regular – polypharmacy, medication review scheduled.\nmood: Notes improved sleep, denies low mood.\ncarers: Priya, daughter.\ngoals: \"I want to celebrate my grandson's birthday without getting tired.\""
+    },
+    {
+      "memory_id": "X0468-m08",
+      "date": "2025-12-03",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sacubitril/valsartan 24/26 mg BD; bisoprolol 2.5 mg OD; spironolactone 25 mg OD; furosemide 40 mg OD; dapagliflozin 10 mg OD; salbutamol MDI SOS; budesonide-formoterol 200/6 inhaler BD; montelukast 10 mg HS; metformin 500 mg BD; glimepiride 0.5 mg OD before breakfast; sitagliptin 100 mg OD; empagliflozin 10 mg OD."
+    },
+    {
+      "memory_id": "X0468-m09",
+      "date": "2026-02-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Echocardiogram: LVEF 44%, NYHA class I.\nSerum potassium: 4.6 mmol/L (ref 3.5-5.0).\nSerum creatinine: 1.0 mg/dL (ref 0.6-1.2).\nNT‑proBNP: 480 pg/mL (ref <400).\nHbA1c: 7.0% (ref 4.0‑5.6%).\nFasting plasma glucose: 124 mg/dL (ref 70‑100).\nUrine albumin‑creatinine ratio: 22 mg/g (ref <30).\nSpirometry: FEV1 82% predicted; post‑bronchodilator 90%.\nAsthma Control Test: 22/25.\nDilated fundus exam: no progression of retinopathy."
+    },
+    {
+      "memory_id": "X0468-m10",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all ADLs; walks unaided for short distances, stick used for longer outings.\ncognition: Mini‑Cog 4/5 (recall 3, clock draw normal) – still below threshold, neuropsychology appointment scheduled.\nfalls: No falls in past year; gait normal with stick; timed up‑and‑go 11 seconds – within normal range, continue strengthening exercises.\nmedicines: 12 regular – polypharmacy, Beers review completed, no high‑risk meds identified.\nmood: Reports feeling cheerful, denies anxiety.\ncarers: Priya, daughter.\ngoals: \"I aim to travel to my native village for the festival this year.\""
+    },
+    {
+      "memory_id": "X0468-m11",
+      "date": "2026-04-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sacubitril/valsartan 24/26 mg BD; bisoprolol 5 mg OD (up‑titrated); spironolactone 25 mg OD; furosemide 40 mg OD; dapagliflozin 10 mg OD; salbutamol MDI SOS; budesonide-formoterol 200/6 inhaler BD; montelukast 10 mg HS; metformin 500 mg BD; glimepiride 0.5 mg OD before breakfast; sitagliptin 100 mg OD; empagliflozin 10 mg OD."
+    },
+    {
+      "memory_id": "X0468-m12",
+      "date": "2026-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up visit booked for 2026-07-20 at 10:30 am with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0468-m13",
+      "date": "2026-07-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Maintains independence; occasional mild dyspnea on climbing stairs, manages with rest.\ncognition: Mini‑Cog 4/5 (recall 3, clock draw normal) – still positive screen, formal cognitive assessment pending.\nfalls: No falls in past 12 months; gait steady; timed up‑and‑go 12 seconds – borderline risk, continue balance training.\nmedicines: 12 regular – polypharmacy, meds stable.\nmood: Stable, reports good sleep.\ncarers: Priya, daughter.\ngoals: \"I want to keep up with my great‑grandchildren’s activities.\""
+    },
+    {
+      "memory_id": "X0468-m14",
+      "date": "2026-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Echocardiogram: LVEF 46%, NYHA class I.\nSerum potassium: 4.5 mmol/L (ref 3.5-5.0).\nSerum creatinine: 0.9 mg/dL (ref 0.6-1.2).\nNT‑proBNP: 350 pg/mL (ref <400).\nHbA1c: 6.8% (ref 4.0‑5.6%).\nFasting plasma glucose: 118 mg/dL (ref 70‑100).\nUrine albumin‑creatinine ratio: 18 mg/g (ref <30).\nSpirometry: FEV1 84% predicted; post‑bronchodilator 92%.\nAsthma Control Test: 23/25.\nDilated fundus exam: no diabetic retinopathy changes."
+    }
+  ]
+}

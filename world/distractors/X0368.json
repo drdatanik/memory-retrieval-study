@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0368",
+  "name": "Sukhdev Sethi",
+  "age": 68,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Osteoporosis",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0368-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks unaided, manages software work part‑time.\ncognition: Mini-Cog score 4/5 (recall 3, clock draw normal) – negative screen.\nfalls: No falls in past 12 months; gait steady; TUG 9 seconds – normal fall risk.\nmedicines: 0 regular (none prescribed yet).\nmood: Reports good mood, denies depression or anxiety.\ncarers: Spouse, Priya Kulkarni.\ngoals: \"Stay active and keep working on my projects.\""
+    },
+    {
+      "memory_id": "X0368-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D06",
+      "text": "alendronate 70 mg PO once weekly\ncalcium carbonate 500 mg PO BD\ncolecalciferol (vitamin D3) 1000 IU PO BD\ntiotropium inhaler 18 mcg inhalation OD\nsalbutamol inhaler 100 mcg inhalation SOS\nbudesonide-formoterol 200/6 mcg inhalation BD"
+    },
+    {
+      "memory_id": "X0368-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 9.2 mg/dL (8.5‑10.5)\nSerum 25‑OH vitamin D: 18 ng/mL (30‑100) – low\nDEXA lumbar spine T‑score: –2.6\nDEXA hip T‑score: –2.4\nSpirometry: FEV1 1.68 L (55% predicted), FEV1/FVC 0.58\nChest X‑ray: Hyperinflated lungs, no acute infiltrate"
+    },
+    {
+      "memory_id": "X0368-m04",
+      "date": "2025-05-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Chest X‑ray (PA): Bilateral hyperinflation, flattened diaphragms, no pleural effusion or consolidation. Consistent with COPD."
+    },
+    {
+      "memory_id": "X0368-m05",
+      "date": "2025-06-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent, occasional mild dyspnea on stairs.\ncognition: Mini-Cog not repeated (first visit done).\nfalls: No falls; gait slightly slower; TUG 11 seconds – borderline risk.\nmedicines: 6 regular (alendronate, calcium, vitamin D, tiotropium, salbutamol, budesonide-formoterol). Polypharmacy – review against Beers criteria advised.\nmood: Reports occasional frustration with breathlessness, denies depression.\ncarers: Spouse, Priya Kulkarni.\ngoals: \"Keep walking daily and avoid getting short of breath.\""
+    },
+    {
+      "memory_id": "X0368-m06",
+      "date": "2025-06-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "colecalciferol (vitamin D3) 2000 IU PO BD (increased from 1000 IU BD)"
+    },
+    {
+      "memory_id": "X0368-m07",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 9.4 mg/dL (8.5‑10.5)\nSerum 25‑OH vitamin D: 32 ng/mL (30‑100) – now sufficient"
+    },
+    {
+      "memory_id": "X0368-m08",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages light housework, walks 30 min daily with occasional rest.\ncognition: Mini-Cog score 3/5 (recall 2, clock draw mild abnormality) – negative screen.\nfalls: No falls; gait steady; TUG 10 seconds – normal risk.\nmedicines: 6 regular (same). Polypharmacy – medication review scheduled.\nmood: Mood stable, enjoys gardening.\ncarers: Spouse, Priya Kulkarni.\ngoals: \"Maintain independence and enjoy time with grandchildren.\""
+    },
+    {
+      "memory_id": "X0368-m09",
+      "date": "2025-08-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "budesonide-formoterol 200/6 mcg inhalation BD (continue)\ntiotropium inhaler 18 mcg inhalation OD (continue)\nsalbutamol inhaler 100 mcg inhalation SOS (continue)"
+    },
+    {
+      "memory_id": "X0368-m10",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Spirometry: FEV1 1.55 L (50% predicted), FEV1/FVC 0.56 – slight decline from baseline. No acute change."
+    },
+    {
+      "memory_id": "X0368-m11",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed more wheezing at night and need my salbutamol inhaler about three times a day. Feeling a bit tired."
+    },
+    {
+      "memory_id": "X0368-m12",
+      "date": "2025-10-06",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Dr S. Reddy, Pulmonology, Apollo Hospitals Bengaluru for evaluation of worsening COPD symptoms and possible escalation of therapy."
+    },
+    {
+      "memory_id": "X0368-m13",
+      "date": "2025-11-15",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Pulmonologist reviewed spirometry and symptoms. Recommended adding inhaled corticosteroid‑long acting beta agonist (fluticasone‑salmeterol 250/50 mcg BD) and continuing current bronchodilators. Advised annual influenza vaccine and pneumococcal booster."
+    },
+    {
+      "memory_id": "X0368-m14",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent, able to climb two flights of stairs with mild dyspnea.\ncognition: Mini-Cog score 2/5 (recall 1, clock draw abnormal) – positive screen, plan for full MoCA assessment.\nfalls: One fall in past month while reaching for shelf, no injury; gait cautious; TUG 13 seconds – raised fall risk, advise home exercise program and non‑slip footwear.\nmedicines: 7 regular (alendronate, calcium, vitamin D, tiotropium, salbutamol, budesonide-formoterol, fluticasone-salmeterol). Polypharmacy – medication review urgently needed.\nmood: Reports low mood after fall, denies suicidal thoughts.\ncarers: Spouse, Priya Kulkarni.\ngoals: \"Stay safe at home and keep walking without fear of falling.\""
+    },
+    {
+      "memory_id": "X0368-m15",
+      "date": "2026-02-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "alendronate stopped (GI upset)\nstart calcium carbonate 500 mg PO BD\nstart colecalciferol (vitamin D3) 2000 IU PO BD\ncontinue tiotropium inhaler 18 mcg OD\ncontinue salbutamol inhaler SOS\ncontinue budesonide-formoterol 200/6 BD\nadd fluticasone-salmeterol 250/50 mcg inhalation BD"
+    },
+    {
+      "memory_id": "X0368-m16",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 9.3 mg/dL (8.5‑10.5)\nSerum 25‑OH vitamin D: 35 ng/mL (30‑100)\nDEXA lumbar spine T‑score: –2.5 (improved from –2.6)\nDEXA hip T‑score: –2.3 (improved from –2.4)"
+    },
+    {
+      "memory_id": "X0368-m17",
+      "date": "2026-07-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: Follow‑up geriatric review moved from 2026-07-15 to 2026-07-01 at 10:30 am with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0368-m18",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent, walks 45 min daily, uses walking stick outdoors for stability.\ncognition: MoCA score 24/30 – mild cognitive impairment, stable since last assessment.\nfalls: No falls in past 6 months; gait aided by stick; TUG 11 seconds – borderline risk, continue strength exercises.\nmedicines: 6 regular (calcium, vitamin D, tiotropium, salbutamol, budesonide-formoterol, fluticasone-salmeterol). Polypharmacy – annual review completed, no Beers‑flagged meds.\nmood: Mood good, enjoys family time.\ncarers: Spouse, Priya Kulkarni.\ngoals: \"Remain active and enjoy my garden for as long as possible.\""
+    }
+  ]
+}

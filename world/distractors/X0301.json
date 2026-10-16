@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0301",
+  "name": "Ranjit Brar",
+  "age": 19,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0301-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: abdominal discomfort and altered bowel habits.\nPRESENTING COMPLAINT: 19‑year‑old male driver reports crampy lower abdominal pain for 2 months, worse after meals, associated with loose stools 2‑3 times/day and occasional bloating. Denies weight loss, rectal bleeding or fever.\nEXAMINATION: Vital signs: BP 118/72 mmHg, pulse 78/min, weight 62 kg, height 170 cm, BMI 21.4 (normal). Abdomen soft, mild tenderness in left lower quadrant, no guarding or masses.\nIMPRESSION: Irritable bowel syndrome, likely diarrhea‑predominant. No alarm features.\nARRANGEMENTS: Advise regular meals, adequate hydration, limit caffeine and fatty foods. Start mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS for diarrhoea. Order CBC, stool routine and tTG‑IgA to exclude coeliac disease. Return if: worsening pain, rectal bleeding, fever >38.5°C, unexplained weight loss, or persistent vomiting."
+    },
+    {
+      "memory_id": "X0301-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Mebeverine 135 mg tablet, take one tablet twice daily.\nIspaghula husk 5 g powder, take once daily with water.\nLoperamide 2 mg capsule, take up to two capsules after loose stools, maximum 8 mg per day."
+    },
+    {
+      "memory_id": "X0301-m03",
+      "date": "2025-04-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 14.8 g/dl (13‑17), WBC 6.2×10⁹/l (4‑10), Plt 240×10⁹/l (150‑400).\nStool routine: Ova and cysts nil, pus cells 0‑1/hpf, RBC nil.\ntTG‑IgA: <4 U/ml (negative <7)."
+    },
+    {
+      "memory_id": "X0301-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up of IBS symptoms after starting treatment.\nPRESENTING COMPLAINT: Patient reports abdominal pain reduced to 1‑2 days/week, stool frequency 1‑2 formed motions/day, less bloating. No alarm symptoms.\nEXAMINATION: BP 120/74 mmHg, weight 63 kg, height 170 cm, BMI 21.8 (normal). Abdomen soft, no tenderness.\nIMPRESSION: IBS, symptomatic improvement on current regimen.\nARRANGEMENTS: Continue mebeverine BD, ispaghula husk OD, loperamide SOS as needed. Advise regular physical activity, maintain balanced diet, avoid trigger foods. Return if: pain worsens, diarrhoea >3/day, blood in stool, fever >38.5°C, or unexplained weight loss."
+    },
+    {
+      "memory_id": "X0301-m05",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Mebeverine 135 mg tablet, BD.\nIspaghula husk 5 g powder, OD.\nLoperamide 2 mg capsule, SOS (max 8 mg/day)."
+    },
+    {
+      "memory_id": "X0301-m06",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-20 at 10:30 am with Dr Priya Natarajan for routine follow‑up."
+    },
+    {
+      "memory_id": "X0301-m07",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up; patient reports occasional flare‑ups.\nPRESENTING COMPLAINT: Over past month, 2‑3 days of crampy pain and loose stools after eating outside meals; otherwise well. No weight loss or bleeding.\nEXAMINATION: BP 119/71 mmHg, weight 63.5 kg, height 170 cm, BMI 21.9 (normal). Abdomen soft, non‑tender.\nIMPRESSION: IBS with intermittent symptom breakthrough likely related to dietary indiscretions.\nARRANGEMENTS: Reinforce low‑FODMAP diet advice, continue mebeverine BD, ispaghula husk OD, loperamide SOS. Consider short course of rifaximin if symptoms persist. Return if: severe pain, rectal bleeding, fever >38.5°C, vomiting, or weight loss >2 kg in a month."
+    },
+    {
+      "memory_id": "X0301-m08",
+      "date": "2025-10-22",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Dr S. Rao, Gastroenterology, Vikram Hospital, for opinion on refractory IBS symptoms and to rule out organic disease. Attach recent CBC, stool routine and tTG‑IgA results."
+    },
+    {
+      "memory_id": "X0301-m09",
+      "date": "2025-11-15",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Gastroenterology review: symptoms consistent with IBS‑D, no alarm features. Recommend low‑FODMAP diet, continue mebeverine and fibre supplement, consider probiotic. No endoscopic intervention needed at this time. Advise return to primary care for ongoing management."
+    },
+    {
+      "memory_id": "X0301-m10",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review after implementing low‑FODMAP diet.\nPRESENTING COMPLAINT: Patient reports marked improvement: abdominal pain 1 day/week, stools well‑formed 1‑2/day, bloating reduced. No alarm symptoms.\nEXAMINATION: BP 121/73 mmHg, weight 64 kg, height 170 cm, BMI 22.1 (normal). Abdomen soft, non‑tender.\nIMPRESSION: IBS, well controlled on diet and medication.\nARRANGEMENTS: Continue mebeverine BD, ispaghula husk OD, loperamide SOS. Encourage regular exercise, maintain low‑FODMAP diet, avoid excessive caffeine. Return if: pain worsens, diarrhoea >3/day, rectal bleeding, fever >38.5°C, or unintentional weight loss."
+    },
+    {
+      "memory_id": "X0301-m11",
+      "date": "2026-02-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 15.0 g/dl (13‑17), WBC 5.9×10⁹/l (4‑10), Plt 235×10⁹/l (150‑400).\nStool routine: No ova/cysts, pus cells 0‑1/hpf, RBC nil.\ntTG‑IgA: <3 U/ml (negative <7)."
+    },
+    {
+      "memory_id": "X0301-m12",
+      "date": "2026-08-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: ‘Doc, I had a bit of bright red blood on toilet paper after a hard strain yesterday. No pain, no fever. Should I worry?’"
+    }
+  ]
+}

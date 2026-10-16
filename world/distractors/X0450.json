@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0450",
+  "name": "Usha Verma",
+  "age": 22,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Chronic urticaria",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0450-m01",
+      "date": "2025-04-02",
+      "type": "allergy",
+      "author": "patient",
+      "text": "Allergy: House dust mite – sneezing, itchy eyes, worsening of urticaria on exposure."
+    },
+    {
+      "memory_id": "X0450-m02",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Persistent daily wheals, mild angioedema, score 6/10.\n  - Plan: Continue levocetirizine 5 mg OD, add cetirizine 10 mg HS; advise cool showers, avoid known triggers; weight 52 kg, waist 78 cm (female cut‑off 80 cm). Diet: Breakfast – low‑histamine (oatmeal, banana); Lunch – rice, steamed veg, chicken; Dinner – light soup, avoid fermented foods.\n- Irritable bowel syndrome\n  - Status: Bloating, alternating diarrhea/constipation, abdominal pain 4/10.\n  - Plan: Start mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; weight and waist as above; diet per meal as above, increase soluble fiber, avoid caffeine.\nDue: HbA1c not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0450-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levocetirizine 5 mg OD\ncetirizine 10 mg HS\nmebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0450-m04",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.8 g/dl (12-16), WBC 6.2 x10^9/L (4-10), eosinophils 0.5 x10^9/L (0.04-0.4) slightly high.\nThyroid function: TSH 2.1 mIU/L (0.4-4.0), FT4 1.2 ng/dl (0.8-1.8)."
+    },
+    {
+      "memory_id": "X0450-m05",
+      "date": "2025-06-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via app: Urticaria worse over past week, new wheals on arms after night shift; taking antihistamines as prescribed. IBS: constipation dominant, hard stools twice weekly."
+    },
+    {
+      "memory_id": "X0450-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Wheals reduced to 3-4/day, mild itching, angioedema absent.\n  - Plan: Continue levocetirizine 5 mg OD, cetirizine 10 mg HS; add fexofenadine 120 mg OD if needed; weight 51.5 kg, waist 77 cm. Diet: Breakfast – poha, apple; Lunch – chapati, dal, veg; Dinner – khichdi, curd.\n- Irritable bowel syndrome\n  - Status: Bloating improved, stool frequency 1-2/day, occasional loose stools.\n  - Plan: Continue mebeverine BD, ispaghula husk OD; loperamide PRN; weight/waist as above; diet per meal as above, increase probiotic yogurt.\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0450-m07",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levocetirizine 5 mg OD\ncetirizine 10 mg HS\nfexofenadine 120 mg OD\nmebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0450-m08",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.0 g/dl, WBC 5.9 x10^9/L, eosinophils 0.3 x10^9/L (within normal).\nStool routine: Ova/cyst nil, pus cells 0-1/hpf, normal consistency."
+    },
+    {
+      "memory_id": "X0450-m09",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Thyroid ultrasound: Bilateral lobes normal size, no nodules, normal vascularity."
+    },
+    {
+      "memory_id": "X0450-m10",
+      "date": "2025-09-15",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Dermatology, Bangalore Medical College for evaluation of chronic urticaria refractory to second‑gen antihistamines; consider omalizumab."
+    },
+    {
+      "memory_id": "X0450-m11",
+      "date": "2025-10-01",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Dermatology review: Chronic idiopathic urticaria, symptom score improved with current regimen; advise continue antihistamines, add montelukast 10 mg HS if needed; no biologics indicated at present."
+    },
+    {
+      "memory_id": "X0450-m12",
+      "date": "2025-11-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Minimal wheals (<1/day), no angioedema, well controlled.\n  - Plan: Continue levocetirizine OD, cetirizine HS; consider tapering fexofenadine; weight 51 kg, waist 76 cm. Diet: Breakfast – idli, sambar; Lunch – rice, rasam, veg; Dinner – vegetable pulao, curd.\n- Irritable bowel syndrome\n  - Status: Asymptomatic, regular soft stools, no bloating.\n  - Plan: Continue mebeverine BD, ispaghula husk OD; loperamide PRN; weight/waist as above; diet per meal as above, maintain fiber.\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0450-m13",
+      "date": "2025-11-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "tTG-IgA: Negative (<4 U/ml, negative <7). No evidence of coeliac disease."
+    },
+    {
+      "memory_id": "X0450-m14",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Free of wheals for past 4 weeks.\n  - Plan: Attempt antihistamine taper – stop cetirizine HS, continue levocetirizine OD; monitor; weight 50.8 kg, waist 75 cm. Diet: Breakfast – upma, orange; Lunch – chapati, curd, veg; Dinner – lemon rice, stir‑fried tofu.\n- Irritable bowel syndrome\n  - Status: Symptom‑free.\n  - Plan: Continue mebeverine BD, ispaghula husk OD; loperamide PRN; weight/waist as above; diet per meal as above, maintain hydration.\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0450-m15",
+      "date": "2025-12-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.2 g/dl, WBC 6.0 x10^9/L, eosinophils 0.2 x10^9/L (normal)."
+    },
+    {
+      "memory_id": "X0450-m16",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: No wheals off cetirizine, levocetirizine OD only; occasional mild itching after stress.\n  - Plan: Continue levocetirizine 5 mg OD; consider trial off antihistamine in 4 weeks if stable; weight 50.5 kg, waist 74 cm. Diet: Breakfast – dosa, chutney; Lunch – rice, sambar, veg; Dinner – khichdi, buttermilk.\n- Irritable bowel syndrome\n  - Status: No abdominal pain, regular bowel movements.\n  - Plan: Continue mebeverine BD, ispaghula husk OD; loperamide PRN; weight/waist as above; diet per meal as above, maintain regular meals.\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0450-m17",
+      "date": "2026-02-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for follow‑up endocrinology review on 2026-05-15 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0450-m18",
+      "date": "2026-05-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Off levocetirizine for 2 weeks, no recurrence of wheals.\n  - Plan: Discontinue levocetirizine; advise rescue cetirizine 10 mg HS if needed; weight 50.2 kg, waist 73 cm. Diet: Breakfast – poha, peanuts; Lunch – chapati, dal, veg; Dinner – vegetable biryani, raita.\n- Irritable bowel syndrome\n  - Status: Asymptomatic.\n  - Plan: Continue mebeverine BD, ispaghula husk OD; loperamide PRN; weight/waist as above; diet per meal as above, maintain regular meals.\nDue: HbA1c not applicable."
+    }
+  ]
+}

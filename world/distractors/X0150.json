@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0150",
+  "name": "Arindam Dutta",
+  "age": 20,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Gastro-oesophageal reflux",
+    "Vitamin D deficiency",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0150-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gastro-oesophageal reflux: symptomatic with occasional heartburn after meals; currently on pantoprazole 40 mg OD before breakfast, antacid gel SOS, domperidone 10 mg BD before meals; plan: continue current regimen, review symptoms in 8 weeks.\nVitamin D deficiency: asymptomatic, baseline 25‑OH‑vit D 18 ng/mL (low); plan: start cholecalciferol 60000 IU once weekly for 8 weeks then 1000 IU OD, check calcium and phosphate.\nAsthma: intermittent wheeze, uses salbutamol SOS; on budesonide-formoterol 200/6 inhaler BD and montelukast 10 mg HS; plan: maintain inhalers, ensure spacer use, review control.\nWeight 68 kg, waist 82 cm (male cut‑off 90 cm).\nDue: HbA1c 2025-07-10."
+    },
+    {
+      "memory_id": "X0150-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 40 mg OD before breakfast; Domperidone 10 mg BD before meals; Antacid gel SOS; Cholecalciferol 60000 IU once weekly for 8 weeks then 1000 IU OD; Budesonide-formoterol 200/6 inhaler BD; Montelukast 10 mg HS; Salbutamol inhaler SOS."
+    },
+    {
+      "memory_id": "X0150-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 18 ng/mL (ref 20‑50). Serum calcium: 9.1 mg/dL (ref 8.5‑10.5). Serum phosphate: 3.4 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0150-m04",
+      "date": "2025-06-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Patient reports increased heartburn after spicy meals, using antacid gel about three times this week. Asthma symptoms unchanged; uses salbutamol inhaler twice weekly, no night wheeze. No new gastrointestinal complaints."
+    },
+    {
+      "memory_id": "X0150-m05",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gastro-oesophageal reflux: heartburn reduced to once weekly, antacid gel use down to twice weekly; pantoprazole and domperidone well tolerated; plan: continue same doses, consider step‑down if symptom‑free for 4 weeks.\nVitamin D deficiency: 25‑OH‑vit D now 22 ng/mL (still borderline); plan: continue cholecalciferol 1000 IU OD, re‑check in 3 months.\nAsthma: well controlled, salbutamol use <2 times/week, no exacerbations; plan: maintain budesonide-formoterol BD and montelukast HS, ensure inhaler technique.\nWeight 67 kg, waist 81 cm.\nDue: HbA1c 2025-10-20."
+    },
+    {
+      "memory_id": "X0150-m06",
+      "date": "2025-07-22",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 40 mg OD before breakfast; Domperidone 10 mg BD before meals; Antacid gel SOS; Cholecalciferol 1000 IU OD; Budesonide-formoterol 200/6 inhaler BD; Montelukast 10 mg HS; Salbutamol inhaler SOS."
+    },
+    {
+      "memory_id": "X0150-m07",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Spirometry with reversibility: FEV1 2.8 L (88% predicted), FVC 3.6 L (92% predicted), FEV1/FVC 0.78; post‑bronchodilator FEV1 increase 12% and 0.3 L, indicating reversible airflow obstruction. Asthma Control Test score 22/25 (well controlled)."
+    },
+    {
+      "memory_id": "X0150-m08",
+      "date": "2025-11-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 5.6% (ref 4.0‑5.6). Serum 25‑hydroxyvitamin D: 28 ng/mL (ref 20‑50). Serum calcium: 9.3 mg/dL (ref 8.5‑10.5). Serum phosphate: 3.6 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0150-m09",
+      "date": "2026-02-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-03-15 at 10:30 AM with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0150-m10",
+      "date": "2026-03-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gastro-oesophageal reflux: asymptomatic, no heartburn, antacid gel SOS only; pantoprazole continued, domperidone tapered to OD before breakfast; plan: maintain pantoprazole 40 mg OD, consider trial off domperidone if symptoms stay absent.\nVitamin D deficiency: 25‑OH‑vit D now 32 ng/mL (sufficient); plan: continue cholecalciferol 1000 IU OD, re‑check in 6 months.\nAsthma: asymptomatic, salbutamol nil, inhaler technique good; plan: continue budesonide-formoterol BD and montelukast HS, review in 3 months.\nWeight 66 kg, waist 80 cm (at male cut‑off).\nDue: HbA1c 2026-06-15."
+    },
+    {
+      "memory_id": "X0150-m11",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 40 mg OD before breakfast; Domperidone stopped; Antacid gel SOS; Cholecalciferol 1000 IU OD; Budesonide-formoterol 200/6 inhaler BD; Montelukast 10 mg HS; Salbutamol inhaler SOS."
+    },
+    {
+      "memory_id": "X0150-m12",
+      "date": "2026-08-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 35 ng/mL (ref 20‑50). HbA1c: 5.5% (ref 4.0‑5.6). Serum calcium: 9.2 mg/dL (ref 8.5‑10.5). Serum phosphate: 3.5 mg/dL (ref 2.5‑4.5)."
+    }
+  ]
+}

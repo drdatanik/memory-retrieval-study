@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0504",
+  "name": "Srinivas Kotha",
+  "age": 49,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypothyroidism",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0504-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, works as vegetable vendor, walks to market daily.\ncognition: Mini-Cog 4/5 (negative).\nfalls: No falls in past 12 months, gait normal, timed up-and-go 9 seconds.\nmedicines: 2 regular (levothyroxine 50 mcg OD, amlodipine 5 mg OD).\nmood: Reports good mood, no anxiety.\ncarers: Wife (Spouse).\ngoals: \"Stay healthy to support my family and keep working.\""
+    },
+    {
+      "memory_id": "X0504-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 50 mcg OD\namlodipine 5 mg OD"
+    },
+    {
+      "memory_id": "X0504-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (0.4-4.0) slightly high\nFree T4 11.2 pmol/L (10-22) normal\nSerum creatinine 0.9 mg/dL (0.6-1.2) normal\neGFR 88 mL/min/1.73m2 (>60) normal\nSerum potassium 4.4 mmol/L (3.5-5.0) normal"
+    },
+    {
+      "memory_id": "X0504-m04",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent, occasional fatigue after long hours.\ncognition: Mini-Cog 4/5 (negative).\nfalls: No falls, gait steady, timed up-and-go 9 seconds.\nmedicines: 3 regular (levothyroxine 50 mcg OD, amlodipine 5 mg OD, telmisartan 40 mg OD).\nmood: Mood stable, no depression.\ncarers: Wife (Spouse).\ngoals: \"Keep blood pressure and thyroid under control.\""
+    },
+    {
+      "memory_id": "X0504-m05",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 75 mcg OD\ntelmisartan 40 mg OD\namlodipine 5 mg OD"
+    },
+    {
+      "memory_id": "X0504-m06",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.8 mIU/L (0.4-4.0) normal\nFree T4 13.0 pmol/L (10-22) normal\nSerum creatinine 0.9 mg/dL (0.6-1.2) normal\neGFR 87 mL/min/1.73m2 (>60) normal\nSerum potassium 4.5 mmol/L (3.5-5.0) normal"
+    },
+    {
+      "memory_id": "X0504-m07",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages stall, notes mild leg swelling after standing long.\ncognition: Mini-Cog 4/5 (negative).\nfalls: No falls, gait slightly slower, timed up-and-go 10 seconds.\nmedicines: 4 regular (levothyroxine 75 mcg OD, telmisartan 40 mg OD, amlodipine 5 mg OD, hydrochlorothiazide 12.5 mg OD).\nmood: Reports occasional worry about swelling.\ncarers: Wife (Spouse).\ngoals: \"Reduce leg swelling and maintain energy.\""
+    },
+    {
+      "memory_id": "X0504-m08",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 75 mcg OD\ntelmisartan 40 mg OD\namlodipine 5 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0504-m09",
+      "date": "2026-04-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: Sinus rhythm, rate 78 bpm. No ST-T changes. Left ventricular voltage within normal limits. No arrhythmias."
+    },
+    {
+      "memory_id": "X0504-m10",
+      "date": "2026-04-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed my ankles swell by evening, especially after a hot day at the market. It’s uncomfortable but not painful."
+    },
+    {
+      "memory_id": "X0504-m11",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Swelling reduced, able to stand longer at stall.\ncognition: Mini-Cog 4/5 (negative).\nfalls: No falls, gait normal, timed up-and-go 9 seconds.\nmedicines: 3 regular (levothyroxine 100 mcg OD, telmisartan 40 mg OD, amlodipine 5 mg OD).\nmood: Mood good, no anxiety.\ncarers: Wife (Spouse).\ngoals: \"Feel strong and keep working without swelling.\""
+    },
+    {
+      "memory_id": "X0504-m12",
+      "date": "2026-09-30",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 100 mcg OD\ntelmisartan 40 mg OD\namlodipine 5 mg OD"
+    },
+    {
+      "memory_id": "X0504-m13",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4-4.0) normal\nFree T4 13.5 pmol/L (10-22) normal\nSerum creatinine 0.8 mg/dL (0.6-1.2) normal\neGFR 92 mL/min/1.73m2 (>60) normal\nSerum potassium 4.3 mmol/L (3.5-5.0) normal"
+    },
+    {
+      "memory_id": "X0504-m14",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2027-03-15 at 10:00 AM with Dr Nandini Kulkarni (D06)."
+    }
+  ]
+}

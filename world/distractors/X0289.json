@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0289",
+  "name": "Nasreen Hussain",
+  "age": 42,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Obesity",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0289-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow‑up for obesity and hypothyroidism. EXAMINATION: BP 128/82 mmHg, weight 92 kg, height 1.58 m, BMI 36.8 (obese). Waist circumference 98 cm. Skin dry, no pallor. IMPRESSION: 1) Obesity, class II. 2) Hypothyroidism on levothyroxine 50 mcg OD, TSH pending. ARRANGEMENTS: Order fasting lipid profile, fasting glucose, HbA1c, liver function tests, TSH, free T4. Continue orlistat 120 mg with each main meal. Advise reduced calorie intake and 150 min/week brisk walk. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0289-m02",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 106 mg/dL (70‑99). HbA1c 6.0% (4‑5.6). Lipids: Total cholesterol 210 mg/dL (<200), LDL 130 mg/dL (<100), HDL 38 mg/dL (>40), triglycerides 190 mg/dL (<150). Liver: ALT 38 U/L (<40), AST 34 U/L (<37), ALP 84 U/L (<120), GGT 32 U/L (<51). TSH 6.8 mIU/L (0.4‑4.0). Free T4 11.2 pmol/L (12‑22)."
+    },
+    {
+      "memory_id": "X0289-m03",
+      "date": "2025-04-22",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 75 mcg OD\nOrlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0289-m04",
+      "date": "2025-05-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been taking the levothyroxine in the morning and orlistat with lunch and dinner. I feel a bit less tired but still notice weight creeping up. My appetite is okay, no GI upset."
+    },
+    {
+      "memory_id": "X0289-m05",
+      "date": "2025-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-15 at 10:30 am with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0289-m06",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Weight check and thyroid follow‑up. EXAMINATION: BP 130/84 mmHg, weight 91.5 kg, BMI 36.6 (obese). Waist 97 cm. Skin less dry. No edema. IMPRESSION: Obesity stable. Hypothyroidism: TSH improved but still slightly high on levothyroxine 75 mcg OD. ARRANGEMENTS: Repeat TSH, free T4, lipid panel, fasting glucose, HbA1c, LFT. Continue orlistat. Increase levothyroxine to 100 mcg OD. Reinforce diet and activity. Return if palpitations, excessive sweating, weight loss >2 kg/month, or severe fatigue."
+    },
+    {
+      "memory_id": "X0289-m07",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (0.4‑4.0). Free T4 13.5 pmol/L (12‑22). Lipids: Total cholesterol 198 mg/dL, LDL 118 mg/dL, HDL 40 mg/dL, triglycerides 165 mg/dL. Fasting glucose 99 mg/dL, HbA1c 5.8%. Liver: ALT 30, AST 28, ALP 80, GGT 28 (all within normal)."
+    },
+    {
+      "memory_id": "X0289-m08",
+      "date": "2025-08-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 100 mcg OD\nOrlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0289-m09",
+      "date": "2025-11-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review. EXAMINATION: BP 126/80 mmHg, weight 90.0 kg, BMI 36.0 (obese). Waist 95 cm. No thyroid enlargement. IMPRESSION: Obesity modest improvement. Hypothyroidism euthyroid on levothyroxine 100 mcg OD. ARRANGEMENTS: Check TSH and free T4 in 3 months, lipid profile, fasting glucose, HbA1c, LFT. Continue current meds. Encourage Mediterranean diet and strength training twice weekly. Return if new palpitations, heat intolerance, unexplained weight change, or severe constipation."
+    },
+    {
+      "memory_id": "X0289-m10",
+      "date": "2025-12-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.0). Free T4 14.8 pmol/L (12‑22). Lipids: Total cholesterol 190 mg/dL, LDL 110 mg/dL, HDL 42 mg/dL, triglycerides 150 mg/dL. Fasting glucose 95 mg/dL, HbA1c 5.6%. Liver: ALT 27, AST 25, ALP 78, GGT 26 (normal)."
+    },
+    {
+      "memory_id": "X0289-m11",
+      "date": "2025-12-03",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 100 mcg OD\nOrlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0289-m12",
+      "date": "2026-03-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Weight plateau discussion. EXAMINATION: BP 128/82 mmHg, weight 90.5 kg, BMI 36.2 (obese). Waist 96 cm. Skin normal. IMPRESSION: Obesity stable. Hypothyroidism well‑controlled. ARRANGEMENTS: Repeat fasting lipid profile, glucose, HbA1c, LFT, TSH, free T4 in 2 months. Continue orlistat and levothyroxine 100 mcg OD. Advise portion control and add weekend cycling. Return if dyspnea on exertion, chest discomfort, fever >38.5°C, or melena."
+    },
+    {
+      "memory_id": "X0289-m13",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.4 mIU/L (0.4‑4.0). Free T4 14.2 pmol/L (12‑22). Lipids: Total cholesterol 202 mg/dL, LDL 119 mg/dL, HDL 40 mg/dL, triglycerides 175 mg/dL. Fasting glucose 101 mg/dL, HbA1c 5.9%. Liver: ALT 33, AST 31, ALP 82, GGT 30 (within normal)."
+    },
+    {
+      "memory_id": "X0289-m14",
+      "date": "2026-04-08",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 100 mcg OD\nOrlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0289-m15",
+      "date": "2026-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Slight weight gain and fatigue. EXAMINATION: BP 130/84 mmHg, weight 92.0 kg, BMI 36.8 (obese). Waist 99 cm. Skin mildly dry. IMPRESSION: Obesity worsened. Hypothyroidism: TSH rising suggestive of suboptimal control. ARRANGEMENTS: Check TSH, free T4, lipid panel, fasting glucose, HbA1c, LFT. Continue orlistat. Increase levothyroxine to 100 mcg OD (maintain) and counsel on adherence. Reinforce low‑carb diet and daily walking. Return if palpitations, heat intolerance, severe constipation, or unexplained weight loss."
+    },
+    {
+      "memory_id": "X0289-m16",
+      "date": "2026-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 3.8 mIU/L (0.4‑4.0). Free T4 12.9 pmol/L (12‑22). Lipids: Total cholesterol 210 mg/dL, LDL 124 mg/dL, HDL 38 mg/dL, triglycerides 190 mg/dL. Fasting glucose 105 mg/dL, HbA1c 6.0%. Liver: ALT 36, AST 34, ALP 85, GGT 33 (normal upper limit)."
+    },
+    {
+      "memory_id": "X0289-m17",
+      "date": "2026-08-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 100 mcg OD\nOrlistat 120 mg with each main meal"
+    }
+  ]
+}

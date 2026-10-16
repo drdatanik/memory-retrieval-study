@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0233",
+  "name": "Kaushik Sen",
+  "age": 37,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0233-m01",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling unusually tired for the past month, with a pins-and-needles sensation in both feet and sometimes in my hands. I also notice I get short of breath climbing stairs. No fever or chest pain."
+    },
+    {
+      "memory_id": "X0233-m02",
+      "date": "2025-04-07",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Patient presents with fatigue and peripheral tingling suspected vitamin B12 deficiency.\n\nPRESENTING COMPLAINT: Reports of tiredness for 4 weeks, bilateral foot tingling, occasional hand paresthesia, mild exertional dyspnoea.\n\nEXAMINATION: BP 122/78 mmHg, weight 70 kg, height 1.68 m, BMI 24.8 (overweight). General appearance pale but alert. Cardiovascular and respiratory exams normal. Neurological: reduced vibration sense at distal toes, normal power.\n\nIMPRESSION: Clinical picture consistent with vitamin B12 deficiency. Need to confirm with serum B12, MCV and haemoglobin.\n\nARRANGEMENTS: Order fasting serum vitamin B12, MCV and Hb. Advise balanced diet rich in animal proteins, start methylcobalamin after results. Return if worsening tingling, new chest pain, breathlessness >30 on exertion, or fever >38.5°C."
+    },
+    {
+      "memory_id": "X0233-m03",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 150 pg/mL (reference 200-900). MCV: 102 fL (reference 80-100). Haemoglobin: 13.8 g/dL (reference 13.0-17.0)."
+    },
+    {
+      "memory_id": "X0233-m04",
+      "date": "2025-04-09",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methylcobalamin 1500 mcg orally once daily. Duration: 3 months, then review."
+    },
+    {
+      "memory_id": "X0233-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Patient reports improved energy and reduced tingling after 3 months of supplementation.\n\nPRESENTING COMPLAINT: Mild residual foot tingling only after prolonged standing, otherwise feeling well. No dyspnoea.\n\nEXAMINATION: BP 118/76 mmHg, weight 70 kg, BMI 24.8 (overweight). Pale conjunctiva less noticeable. Neurological: vibration sense improved at toes, normal elsewhere.\n\nIMPRESSION: Biochemical response likely good; need labs to confirm B12 repletion and haemogram stability.\n\nARRANGEMENTS: Order serum B12, MCV, Hb. Continue methylcobalamin 1500 mcg OD. Advise maintain B12-rich diet, regular activity. Return if tingling worsens, new palpitations, fever >38.5°C, or unexplained bruising."
+    },
+    {
+      "memory_id": "X0233-m06",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 420 pg/mL (reference 200-900). MCV: 94 fL (reference 80-100). Haemoglobin: 14.2 g/dL (reference 13.0-17.0)."
+    },
+    {
+      "memory_id": "X0233-m07",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methylcobalamin 1500 mcg orally once daily. Continue for another 3 months, then reassess."
+    },
+    {
+      "memory_id": "X0233-m08",
+      "date": "2025-10-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Priya Natarajan on 2025-11-05 at 10:30 AM. Patient to bring medication list."
+    },
+    {
+      "memory_id": "X0233-m09",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Patient asymptomatic, feels energetic, no tingling.\n\nPRESENTING COMPLAINT: No current complaints.\n\nEXAMINATION: BP 120/78 mmHg, weight 71 kg, BMI 25.2 (obese per Asian cut‑off). Advised on diet and activity. No pallor.\n\nIMPRESSION: Vitamin B12 repletion maintained; weight slightly increased, BMI now obese – reinforce lifestyle.\n\nARRANGEMENTS: Continue methylcobalamin 1500 mcg OD. Offer influenza vaccine (date to be noted in autumn). Return if new numbness, chest pain, breathlessness, or fever >38.5°C."
+    },
+    {
+      "memory_id": "X0233-m10",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 180 pg/mL (reference 200-900). MCV: 100 fL (reference 80-100). Haemoglobin: 13.5 g/dL (reference 13.0-17.0)."
+    },
+    {
+      "memory_id": "X0233-m11",
+      "date": "2026-02-22",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methylcobalamin increased to 2000 mcg orally once daily. Review in 3 months."
+    },
+    {
+      "memory_id": "X0233-m12",
+      "date": "2026-06-30",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Patient admits missing doses intermittently, reports mild fatigue returning.\n\nPRESENTING COMPLAINT: Occasional tiredness, no tingling.\n\nEXAMINATION: BP 119/77 mmHg, weight 70 kg, BMI 24.8 (overweight).\n\nIMPRESSION: Suboptimal B12 due to adherence; need to reinforce dosing and check levels.\n\nARRANGEMENTS: Order serum B12, MCV, Hb. Counsel on daily methylcobalamin 2000 mcg, set phone reminder. Return if fatigue worsens, new neurological symptoms, fever >38.5°C."
+    },
+    {
+      "memory_id": "X0233-m13",
+      "date": "2026-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 350 pg/mL (reference 200-900). MCV: 96 fL (reference 80-100). Haemoglobin: 13.9 g/dL (reference 13.0-17.0)."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0213",
+  "name": "Sukanya Ghosh",
+  "age": 57,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0213-m01",
+      "date": "2025-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking for initial consultation with Dr Priya Natarajan (D03) for chronic kidney disease review. Appointment set for 2025-04-15 at 10:30 AM. Patient advised to bring recent medication list and any lab reports."
+    },
+    {
+      "memory_id": "X0213-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Initial assessment for chronic kidney disease.\nPRESENTING COMPLAINT: Patient reports fatigue and mild ankle swelling over past month.\nEXAMINATION: BP 138/86 mmHg, weight 68 kg, height 1.58 m, BMI 27.2 (obese). JVP not raised, lungs clear, abdomen soft, no edema.\nIMPRESSION: Chronic kidney disease stage 3a, likely hypertensive nephropathy. Fasting lipid profile and fasting blood sugar ordered; results pending. Hb 11.8 g/dL, serum creatinine 1.4 mg/dL, eGFR 52 mL/min/1.73m2, urine ACR 85 mg/g.\nARRANGEMENTS: Start telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD. Advise low‑salt diet, limit protein to 0.8 g/kg/day, regular walking 30 mins daily. Influenza vaccine offered; patient declined today. Return if: chest pain, breathlessness, fever >39°C, blood in stools, sudden decrease in urine output, severe flank pain."
+    },
+    {
+      "memory_id": "X0213-m03",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD"
+    },
+    {
+      "memory_id": "X0213-m04",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.4 mg/dL (0.6‑1.2), eGFR 52 mL/min/1.73m2 (>60 normal), haemoglobin 11.8 g/dL (12‑16), urine albumin‑creatinine ratio 85 mg/g (<30 normal)."
+    },
+    {
+      "memory_id": "X0213-m05",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Messaged via clinic app: Noticed increased swelling in feet after long work shifts, feeling more tired. No new meds. Asked if I should increase furosemide."
+    },
+    {
+      "memory_id": "X0213-m06",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up for chronic kidney disease with worsening edema.\nPRESENTING COMPLAINT: Increased ankle swelling and fatigue over past 4 weeks.\nEXAMINATION: BP 142/90 mmHg, weight 70 kg, BMI 28.0 (obese). Mild pitting edema up to mid‑calf, lungs clear.\nIMPRESSION: Fluid overload likely due to inadequate diuretic control. Labs: creatinine 1.5 mg/dL, eGFR 48, Hb 11.5 g/dL, urine ACR 92 mg/g.\nARRANGEMENTS: Increase furosemide to 40 mg OD. Continue telmisartan, dapagliflozin, sodium bicarbonate. Reinforce fluid restriction 1.5 L/day, elevate legs. Influenza vaccine not due yet. Return if: chest pain, breathlessness, fever >39°C, blood in stools, sudden weight gain >2 kg in 3 days, severe dyspnea."
+    },
+    {
+      "memory_id": "X0213-m07",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD\n sodium bicarbonate 500 mg BD"
+    },
+    {
+      "memory_id": "X0213-m08",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.5 mg/dL, eGFR 48 mL/min/1.73m2, haemoglobin 11.5 g/dL, urine albumin‑creatinine ratio 92 mg/g."
+    },
+    {
+      "memory_id": "X0213-m09",
+      "date": "2025-10-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Renal ultrasound: Both kidneys normal size, mild increased echogenicity suggestive of chronic parenchymal change. No obstruction or stones."
+    },
+    {
+      "memory_id": "X0213-m10",
+      "date": "2025-11-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review after diuretic adjustment and ultrasound.\nPRESENTING COMPLAINT: Swelling improved, occasional mild fatigue.\nEXAMINATION: BP 136/84 mmHg, weight 67 kg, BMI 26.8 (obese). No edema, lungs clear.\nIMPRESSION: Better volume control. CKD stable; creatinine 1.4 mg/dL, eGFR 52, Hb 12.0 g/dL, urine ACR 78 mg/g. Influenza vaccine offered and given today 2025-11-20.\nARRANGEMENTS: Continue current meds. Advise maintain low‑salt diet, regular activity, monitor weight. Return if: chest pain, breathlessness, fever >39°C, blood in stools, sudden decrease in urine output, severe flank pain."
+    },
+    {
+      "memory_id": "X0213-m11",
+      "date": "2025-11-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD"
+    },
+    {
+      "memory_id": "X0213-m12",
+      "date": "2025-11-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.4 mg/dL, eGFR 52 mL/min/1.73m2, haemoglobin 12.0 g/dL, urine albumin‑creatinine ratio 78 mg/g."
+    },
+    {
+      "memory_id": "X0213-m13",
+      "date": "2026-02-10",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Nephrology, St. Johns Hospital Bengaluru for consideration of CKD progression and possible specialist management. Include recent labs, medication list, and ultrasound report."
+    },
+    {
+      "memory_id": "X0213-m14",
+      "date": "2026-03-01",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Nephrology outpatient review completed 2026-02-28. Advised to continue current regimen, monitor eGFR every 3 months, consider SGLT2 inhibitor continuation. No immediate intervention needed. Patient to return to primary care for routine follow‑up."
+    }
+  ]
+}

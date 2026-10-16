@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0582",
+  "name": "Ranjan Roy",
+  "age": 42,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0582-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: Patient reports daytime wheezing twice weekly, nighttime cough twice monthly, uses salbutamol SOS 2-3 puffs/day. No exacerbations in past month.\n  - Plan: Continue salbutamol MDI 2 puffs SOS, budesonide-formoterol 200/6 µg inhaler two puffs BD, montelukast 10 mg HS. Measure weight and waist. Advise diet: breakfast - whole grain toast with egg white; lunch - mixed vegetable sambar with brown rice; dinner - grilled fish with steamed vegetables; snacks - fruit and nuts. Weight 78 kg, waist 92 cm (above male cut‑off 90 cm). Due: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0582-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Salbutamol metered-dose inhaler 100 µg, 2 puffs SOS\nBudesonide-formoterol 200/6 µg inhaler, 2 puffs BD\nMontelukast sodium 10 mg tablet, HS"
+    },
+    {
+      "memory_id": "X0582-m03",
+      "date": "2025-05-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0582-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: Daytime wheezing reduced to once weekly, night cough absent. Salbutamol SOS use down to 1‑2 puffs/day. Patient reports improved exercise tolerance.\n  - Plan: Continue current inhalers. Reinforce spacer use. Review inhaler technique. Weight 77 kg, waist 90 cm (at cut‑off). Diet advice: breakfast - oats with milk and nuts; lunch - quinoa pulao with dal; dinner - chicken curry with millet roti; snacks - yogurt."
+    },
+    {
+      "memory_id": "X0582-m05",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Spirometry with reversibility: FEV1 2.30 L (78% predicted), FVC 2.90 L (82% predicted), FEV1/FVC 0.79. Post‑bronchodilator FEV1 2.55 L (88% predicted), increase 10.9% (>12%? actually 10.9% <12) – borderline reversibility. No significant obstruction."
+    },
+    {
+      "memory_id": "X0582-m06",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Asthma Control Test (ACT) score: 22 (out of 25). Indicates well‑controlled asthma."
+    },
+    {
+      "memory_id": "X0582-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Budesonide-formoterol 200/6 µg inhaler, 2 puffs BD (unchanged)\nSalbutamol MDI SOS\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0582-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: No daytime symptoms, no night cough, salbutamol use 0‑1 puff/week. Patient reports good control.\n  - Plan: Consider stepping down budesonide-formoterol to 1 puff BD if control persists for next 3 months. Continue montelukast HS and salbutamol SOS. Weight 76 kg, waist 88 cm (below cut‑off). Diet advice: breakfast - idli with sambar; lunch - brown rice with vegetable curry; dinner - paneer tikka with salad; snacks - fruit."
+    },
+    {
+      "memory_id": "X0582-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Budesonide-formoterol 200/6 µg inhaler, 1 puff BD\nSalbutamol MDI SOS\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0582-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: Mild intermittent wheezing during colds, otherwise asymptomatic. Salbutamol use 1‑2 puffs/week.\n  - Plan: Maintain current regimen. Ensure flu vaccination. Weight 79 kg, waist 91 cm (slightly above cut‑off). Reinforce portion control. Diet advice: breakfast - multigrain toast with avocado; lunch - millet bisi bele bath; dinner - grilled chicken with steamed broccoli; snacks - roasted chana."
+    },
+    {
+      "memory_id": "X0582-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Budesonide-formoterol 200/6 µg inhaler, 1 puff BD\nSalbutamol MDI SOS\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0582-m12",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: Well controlled, no exacerbations since last visit. Salbutamol SOS rare.\n  - Plan: Continue current meds. Review inhaler technique. Weight 80 kg, waist 92 cm (above cut‑off). Emphasize aerobic activity. Diet advice: breakfast - poha with peanuts; lunch - quinoa salad with chickpeas; dinner - fish curry with brown rice; snacks - sprouts."
+    },
+    {
+      "memory_id": "X0582-m13",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Eosinophil count: 0.32 ×10⁹/L (reference 0.05‑0.5). Total IgE: 85 IU/mL (reference <100). Both within normal limits."
+    },
+    {
+      "memory_id": "X0582-m14",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: Acute exacerbation after exposure to dust at work. Daytime wheezing, night cough, salbutamol use 8‑10 puffs/day. Peak flow dropped to 65% personal best.\n  - Plan: Short course oral prednisolone 40 mg daily for 5 days, then taper. Increase budesonide-formoterol to 2 puffs BD for 2 weeks. Continue montelukast HS. Review in 1 week. Weight 81 kg, waist 93 cm. Diet advice: soft, easy‑to‑digest meals: breakfast - khichdi; lunch - dal rice with cooked veg; dinner - curd rice; snacks - banana."
+    },
+    {
+      "memory_id": "X0582-m15",
+      "date": "2026-09-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: Post‑exacerbation recovery. No wheeze, night cough absent, salbutamol use 1‑2 puffs/week. Peak flow back to 95% personal best.\n  - Plan: Step down budesonide-formoterol to 1 puff BD. Continue montelukast HS and salbutamol SOS. Weight 80 kg, waist 91 cm (slightly above cut‑off). Encourage regular walking. Diet advice: breakfast - upma with vegetables; lunch - brown rice with sambar; dinner - grilled paneer with salad; snacks - nuts."
+    }
+  ]
+}

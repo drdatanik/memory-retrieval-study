@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0090",
+  "name": "Shaheen Baig",
+  "age": 38,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0090-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Rheumatoid arthritis\n- Status: New diagnosis, joint pain and swelling in MCP joints, morning stiffness 45 min, ESR elevated.\n- Plan: Start methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD; weight 68 kg, waist 82 cm; diet advice: breakfast - low glycemic, lunch - balanced with vegetables, dinner - light protein.\nDue: HbA1c - N/A"
+    },
+    {
+      "memory_id": "X0090-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methotrexate 10 mg once weekly\nFolic acid 5 mg once weekly\nHydroxychloroquine 200 mg OD\nPrednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0090-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 28 mm/hr (0-20)\nCRP 12 mg/L (<5)\nRheumatoid factor 45 IU/mL (<14)\nAnti-CCP 68 U/ml (<20)\nALT 22 U/L (7-35)\nAST 20 U/L (8-33)\nALP 78 U/L (40-129)\nTotal bilirubin 0.9 mg/dL (0.2-1.2)"
+    },
+    {
+      "memory_id": "X0090-m04",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Rheumatoid arthritis\n- Status: Persistent morning stiffness 30 min, mild joint tenderness, weight 67 kg, waist 80 cm (at cut-off).\n- Plan: Continue current DMARDs, reduce prednisolone to 2.5 mg OD, add folic acid if missed, advise breakfast - high fibre, lunch - legumes, dinner - fish; repeat labs in 6 weeks.\nDue: HbA1c - N/A"
+    },
+    {
+      "memory_id": "X0090-m05",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methotrexate 10 mg once weekly\nFolic acid 5 mg once weekly\nHydroxychloroquine 200 mg OD\nPrednisolone 2.5 mg OD"
+    },
+    {
+      "memory_id": "X0090-m06",
+      "date": "2025-09-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 22 mm/hr (0-20)\nCRP 8 mg/L (<5)\nALT 24 U/L (7-35)\nAST 21 U/L (8-33)\nALP 80 U/L (40-129)\nTotal bilirubin 0.8 mg/dL (0.2-1.2)"
+    },
+    {
+      "memory_id": "X0090-m07",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Rheumatoid arthritis\n- Status: Flare with increased pain in wrists, morning stiffness 50 min, weight 69 kg, waist 84 cm (>80).\n- Plan: Increase methotrexate to 15 mg weekly, add short course prednisolone 10 mg OD for 5 days then taper, continue hydroxychloroquine, folic acid; diet advice: breakfast - protein rich, lunch - mixed veg, dinner - light carb.\nDue: HbA1c - N/A"
+    },
+    {
+      "memory_id": "X0090-m08",
+      "date": "2025-11-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methotrexate 15 mg once weekly\nFolic acid 5 mg once weekly\nHydroxychloroquine 200 mg OD\nPrednisolone 10 mg OD for 5 days, then 5 mg OD for 5 days, then 2.5 mg OD"
+    },
+    {
+      "memory_id": "X0090-m09",
+      "date": "2026-02-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 18 mm/hr (0-20)\nCRP 6 mg/L (<5)\nRheumatoid factor 38 IU/mL (<14)\nAnti-CCP 55 U/ml (<20)\nALT 20 U/L (7-35)\nAST 19 U/L (8-33)\nALP 76 U/L (40-129)\nTotal bilirubin 0.7 mg/dL (0.2-1.2)"
+    },
+    {
+      "memory_id": "X0090-m10",
+      "date": "2026-04-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Rheumatoid arthritis\n- Status: Improved, morning stiffness 20 min, mild joint tenderness, weight 68 kg, waist 81 cm (slightly above cut-off).\n- Plan: Taper prednisolone to 1.25 mg OD, continue methotrexate 15 mg weekly, hydroxychloroquine, folic acid; advise breakfast - oats, lunch - quinoa salad, dinner - steamed veggies; repeat labs in 3 months.\nDue: HbA1c - N/A"
+    },
+    {
+      "memory_id": "X0090-m11",
+      "date": "2026-04-14",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methotrexate 15 mg once weekly\nFolic acid 5 mg once weekly\nHydroxychloroquine 200 mg OD\nPrednisolone 1.25 mg OD"
+    },
+    {
+      "memory_id": "X0090-m12",
+      "date": "2026-08-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-09-15 at 10:30 AM with Dr Karthik Hegde (D04) in Endocrinology clinic."
+    }
+  ]
+}

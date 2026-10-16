@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0104",
+  "name": "Indu Namboodiri",
+  "age": 82,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Rheumatoid arthritis",
+    "Type 2 diabetes",
+    "Glaucoma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0104-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; walks unaided around home; manages own medications.\ncognition: Mini-Cog 3/5 (negative); no further assessment needed.\nfalls: No falls in last 12 months; gait steady; timed up-and-go 10 seconds (normal).\nmedicines: 10 regular. Polypharmacy noted; review against Beers criteria recommended.\nmood: Reports good mood; denies depression or anxiety.\ncarers: Priya, daughter.\ngoals: \"I want to stay independent and keep gardening.\""
+    },
+    {
+      "memory_id": "X0104-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 22 mm/hr (0-20); CRP 5 mg/L (<5); RF negative; anti-CCP negative.\nLFT: ALT 32 U/L (7-56), AST 28 U/L (10-40), ALP 78 U/L (30-120), bilirubin 0.9 mg/dL (0.2-1.2).\nHbA1c 7.8% (4.0-5.6); fasting glucose 138 mg/dL (70-99).\nUrine albumin‑creatinine ratio 45 mg/g (<30).\nIntraocular pressure: right 18 mmHg, left 19 mmHg (10-21)."
+    },
+    {
+      "memory_id": "X0104-m03",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Mild stiffness in mornings; still cooks and walks to shop.\ncognition: No change; Mini-Cog not repeated yet.\nfalls: One fall at home 3 months ago (tripped on rug); gait slightly antalgic; timed up-and-go 13 seconds (raised risk). Plan: leg strengthening exercises, supportive footwear.\nmedicines: 10 regular. Polypharmacy noted; review against Beers criteria recommended.\nmood: Reports occasional frustration with pain; denies depression.\ncarers: Priya, daughter.\ngoals: \"I want to keep walking without pain.\""
+    },
+    {
+      "memory_id": "X0104-m04",
+      "date": "2025-07-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 18 mm/hr (0-20); CRP 3 mg/L (<5).\nHbA1c 7.5% (4.0-5.6); fasting glucose 124 mg/dL (70-99).\nLFT: ALT 30 U/L, AST 26 U/L.\nUrine albumin‑creatinine ratio 38 mg/g (<30)."
+    },
+    {
+      "memory_id": "X0104-m05",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Able to attend community centre twice weekly; mild joint swelling.\ncognition: No formal screen; stable.\nfalls: No new falls; gait steady; timed up-and-go 11 seconds (borderline). Advised to continue exercises.\nmedicines: 10 regular. Polypharmacy noted; review against Beers criteria recommended.\nmood: Mood stable; enjoys social activities.\ncarers: Priya, daughter.\ngoals: \"I want to keep attending my yoga class.\""
+    },
+    {
+      "memory_id": "X0104-m06",
+      "date": "2025-10-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2% (4.0-5.6); fasting glucose 118 mg/dL (70-99).\nESR 16 mm/hr (0-20); CRP 2 mg/L (<5).\nLFT: ALT 28 U/L, AST 24 U/L.\nOptic disc assessment: cup‑to‑disc ratio 0.4 both eyes (normal).\nVisual field: full bilaterally."
+    },
+    {
+      "memory_id": "X0104-m07",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports increased fatigue; still manages household chores with breaks.\ncognition: Mini‑Cog 3/5 (negative) – routine screen.\nfalls: No falls; gait slightly slower; timed up-and-go 12 seconds (raised risk). Plan: supervised tai‑chi, check footwear.\nmedicines: 10 regular. Polypharmacy noted; review against Beers criteria recommended.\nmood: Mild low mood noted; denies anhedonia.\ncarers: Priya, daughter.\ngoals: \"I want to have more energy for my grandchildren.\""
+    },
+    {
+      "memory_id": "X0104-m08",
+      "date": "2026-01-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.0% (4.0-5.6); fasting glucose 112 mg/dL (70-99).\nESR 14 mm/hr (0-20); CRP 1 mg/L (<5).\nIntraocular pressure: right 17 mmHg, left 18 mmHg (10-21).\nLFT: ALT 26 U/L, AST 22 U/L."
+    },
+    {
+      "memory_id": "X0104-m09",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Maintains independence; uses walking stick for longer walks.\ncognition: Mini‑Cog 2/5 (positive) – plan for full neuropsychological assessment.\nfalls: No falls in past year; gait cautious; timed up-and-go 13 seconds (raised risk). Plan: balance class, home safety review.\nmedicines: 10 regular. Polypharmacy noted; review against Beers criteria recommended.\nmood: Reports feeling occasional sadness; denies hopelessness.\ncarers: Priya, daughter.\ngoals: \"I want to stay mentally sharp and enjoy family time.\""
+    },
+    {
+      "memory_id": "X0104-m10",
+      "date": "2026-04-27",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 12 mm/hr (0-20); CRP 1 mg/L (<5).\nHbA1c 6.8% (4.0-5.6); fasting glucose 108 mg/dL (70-99).\nUrine albumin‑creatinine ratio 32 mg/g (<30).\nLFT: ALT 24 U/L, AST 20 U/L."
+    },
+    {
+      "memory_id": "X0104-m11",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-07-10 09:30 with Dr Nandini Kulkarni (D06) for routine geriatric review."
+    },
+    {
+      "memory_id": "X0104-m12",
+      "date": "2026-08-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Good tolerance of walks; occasional knee stiffness after activity.\ncognition: No further change; awaiting neuropsychology report.\nfalls: No falls; gait stable; timed up-and-go 11 seconds (borderline). Continue exercises.\nmedicines: 10 regular. Polypharmacy noted; review against Beers criteria recommended.\nmood: Mood stable; enjoys time with grandchildren.\ncarers: Priya, daughter.\ngoals: \"I want to keep walking my dog without pain.\""
+    },
+    {
+      "memory_id": "X0104-m13",
+      "date": "2026-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.6% (4.0-5.6); fasting glucose 105 mg/dL (70-99).\nESR 10 mm/hr (0-20); CRP <1 mg/L (<5).\nIntraocular pressure: right 16 mmHg, left 17 mmHg (10-21).\nOptic disc: cup‑to‑disc 0.35 both eyes.\nVisual field: full bilaterally.\nLFT: ALT 22 U/L, AST 18 U/L."
+    }
+  ]
+}

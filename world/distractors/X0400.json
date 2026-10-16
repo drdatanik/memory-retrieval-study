@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0400",
+  "name": "Jayashree Kadam",
+  "age": 34,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Benign positional vertigo",
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0400-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild dizziness on turning head, able to perform ADLs independently.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls in last 12 months; gait steady; timed up-and-go 9 seconds (normal).\nmedicines: 0 regular.\nmood: affect appropriate, denies low mood.\ncarers: none.\ngoal: \"I want to stop the spinning feeling and get back to work.\""
+    },
+    {
+      "memory_id": "X0400-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg twice daily\nmeclizine 25 mg as needed for vertigo\nlevocetirizine 5 mg once daily\ncetirizine 10 mg at bedtime"
+    },
+    {
+      "memory_id": "X0400-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.2 x10^9/L (4-10), Hb 12.8 g/dL (12-16), Plt 210 x10^9/L (150-400), Eosinophils 0.3 x10^9/L (0.0-0.5).\nTSH 2.1 mIU/L (0.4-4.0), FT4 1.2 ng/dL (0.9-1.7)."
+    },
+    {
+      "memory_id": "X0400-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Dix-Hallpike test: positive on right side, transient torsional nystagmus lasting <15 sec. Consistent with benign positional vertigo (right posterior canal)."
+    },
+    {
+      "memory_id": "X0400-m05",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "patient",
+      "text": "No known drug allergies. Reports mild rash to sulfa antibiotics in childhood, resolved."
+    },
+    {
+      "memory_id": "X0400-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: vertigo episodes reduced to once weekly, still avoids sudden head turns.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls; gait slightly cautious; timed up-and-go 10 seconds (normal).\nmedicines: 4 regular (betahistine, meclizine PRN, levocetirizine, cetirizine).\nmood: reports occasional frustration with dizziness.\ncarers: none.\ngoal: \"I’d like to have fewer dizzy spells and feel safe at work.\""
+    },
+    {
+      "memory_id": "X0400-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg twice daily\nmeclizine 25 mg as needed (reduce to once daily if needed)\nlevocetirizine 5 mg once daily\ncetirizine 10 mg at bedtime (continue)"
+    },
+    {
+      "memory_id": "X0400-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.0 x10^9/L, Hb 13.0 g/dL, Plt 205 x10^9/L, Eosinophils 0.4 x10^9/L.\nTSH 2.0 mIU/L, FT4 1.3 ng/dL."
+    },
+    {
+      "memory_id": "X0400-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Audiometry (pure tone): bilateral hearing thresholds within normal limits (0-25 dB HL) across 250-8000 Hz. No conductive or sensorineural loss."
+    },
+    {
+      "memory_id": "X0400-m10",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: vertigo now rare (<1/month), able to climb ladders at pharmacy.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls; gait normal; timed up-and-go 9 seconds.\nmedicines: 4 regular (betahistine, meclizine PRN, levocetirizine, cetirizine).\nmood: stable.\ncarers: none.\ngoal: \"I want to stay symptom‑free and continue my job without worry.\""
+    },
+    {
+      "memory_id": "X0400-m11",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 5.8 x10^9/L, Hb 12.9 g/dL, Plt 212 x10^9/L, Eosinophils 0.5 x10^9/L (slight rise).\nTSH 2.2 mIU/L, FT4 1.2 ng/dL."
+    },
+    {
+      "memory_id": "X0400-m12",
+      "date": "2026-02-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: ‘I’ve been getting hives almost daily, especially after night shifts. Antihistamines help but I still wake up itchy.’"
+    },
+    {
+      "memory_id": "X0400-m13",
+      "date": "2026-02-20",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Dermatology, Sunrise Specialty Centre, for evaluation of chronic urticaria unresponsive to standard antihistamines. Consider allergy workup and possible biologic therapy."
+    },
+    {
+      "memory_id": "X0400-m14",
+      "date": "2026-05-30",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Dermatology review: chronic urticaria likely autoimmune. Recommend continuing levocetirizine 5 mg OD, add omalizumab 150 mg SC every 4 weeks if symptoms persist. Return for review in 8 weeks."
+    },
+    {
+      "memory_id": "X0400-m15",
+      "date": "2026-05-30",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg twice daily\nmeclizine 25 mg as needed\nlevocetirizine 5 mg once daily\ncetirizine 10 mg at bedtime (continue)\nConsider omalizumab pending insurance approval."
+    },
+    {
+      "memory_id": "X0400-m16",
+      "date": "2026-05-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Nandini Kulkarni for 2026-08-15 10:30 AM. Patient to bring symptom diary."
+    },
+    {
+      "memory_id": "X0400-m17",
+      "date": "2026-08-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: vertigo absent for 3 months; works full shifts without restriction.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 4 regular (betahistine, meclizine PRN, levocetirizine, cetirizine).\nmood: reports improved quality of life.\ncarers: none.\ngoal: \"I want to stay free of vertigo and hives, and keep working as a pharmacy assistant.\""
+    }
+  ]
+}

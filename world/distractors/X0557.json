@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0557",
+  "name": "Ravichandran Subramanian",
+  "age": 82,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0557-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "82-year-old male postal worker presents for routine review of allergic rhinitis and general health.\n\nPRESENTING COMPLAINT: He reports mild nasal congestion and sneezing, worse in the mornings, no fever or facial pain.\n\nEXAMINATION: BP 138/82 mmHg, weight 68 kg, height 1.68 m giving BMI 24.1 (overweight). Nasal mucosa pale, turbinates slightly swollen. Lungs clear, cardiovascular regular.\n\nIMPRESSION: Allergic rhinitis, controlled. Overweight (BMI 24.1) – advise reduced carbohydrate intake and daily walking. Lipids and glucose to be checked.\n\nARRANGEMENTS: Start cetirizine 10 mg HS, fluticasone nasal spray one spray each nostril OD. Review in 3 months. Return if: worsening blockage, facial pain, fever >39°C, or blood‑stained nasal discharge."
+    },
+    {
+      "memory_id": "X0557-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cetirizine hydrochloride 10 mg tablet – take one tablet at night.\nFluticasone propionate nasal spray 50 mcg – one spray in each nostril once daily.\nReview in 3 months."
+    },
+    {
+      "memory_id": "X0557-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.2 mmol/L (ref <5.0), LDL 3.2 mmol/L (ref <2.6), HDL 1.1 mmol/L (ref >1.0), Triglycerides 1.8 mmol/L (ref <1.7).\nFasting blood glucose 6.1 mmol/L (ref 3.9-5.6)."
+    },
+    {
+      "memory_id": "X0557-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "82-year-old male returns for allergic rhinitis follow‑up and weight check.\n\nPRESENTING COMPLAINT: Nasal congestion improved but occasional itchy eyes; reports mild fatigue.\n\nEXAMINATION: BP 140/84 mmHg, weight 69 kg, height 1.68 m => BMI 24.4 (overweight). Nasal mucosa less pale, mild turbinate hypertrophy. Lungs clear.\n\nIMPRESSION: Allergic rhinitis partially controlled. Overweight persists – reinforce diet and activity advice. Consider adding montelukast.\n\nARRANGEMENTS: Continue cetirizine HS, fluticasone OD; add montelukast 10 mg HS. Review in 3 months. Return if: worsening symptoms, eye discharge, fever >39°C, or shortness of breath."
+    },
+    {
+      "memory_id": "X0557-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cetirizine hydrochloride 10 mg tablet – take one tablet at night.\nFluticasone propionate nasal spray 50 mcg – one spray in each nostril once daily.\nMontelukast sodium 10 mg tablet – take one tablet at night.\nReview in 3 months."
+    },
+    {
+      "memory_id": "X0557-m06",
+      "date": "2025-07-10",
+      "type": "allergy",
+      "author": "D03",
+      "text": "Skin prick test positive for house dust mite (Dermatophagoides pteronyssinus) with wheal 6 mm; negative for pollen and pet dander. Total serum IgE 210 IU/mL (ref <100). Consistent with allergic rhinitis due to dust mite allergy."
+    },
+    {
+      "memory_id": "X0557-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "82-year-old male presents for routine review; notes persistent mild nasal blockage despite meds.\n\nPRESENTING COMPLAINT: Nasal congestion worse at night, occasional post‑nasal drip; denies fever.\n\nEXAMINATION: BP 142/86 mmHg, weight 68.5 kg, height 1.68 m => BMI 24.3 (overweight). Nasal mucosa slightly swollen, clear turbinates. Lungs clear, heart regular.\n\nIMPRESSION: Allergic rhinitis inadequately controlled. Overweight (BMI 24.3) – advise diet and activity. Order baseline ECG given age and hypertension.\n\nARRANGEMENTS: Continue current meds; add saline nasal rinse BD. Order ECG. Review in 3 months. Influenza vaccine offered today – patient consents, vaccine given 02‑Oct‑2025. Return if: worsening blockage, facial pain, fever >39°C, or blood‑stained discharge."
+    },
+    {
+      "memory_id": "X0557-m08",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Resting ECG: Sinus rhythm 72 bpm. No ST‑segment changes. Left ventricular voltage within normal limits. No arrhythmias. Normal study."
+    },
+    {
+      "memory_id": "X0557-m09",
+      "date": "2025-10-02",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to ENT specialist for evaluation of persistent allergic rhinitis symptoms despite maximal medical therapy. Consider possible nasal polyp or chronic sinusitis. Please assess and advise on further management."
+    },
+    {
+      "memory_id": "X0557-m10",
+      "date": "2025-12-15",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "ENT report: Nasal endoscopy shows mild mucosal edema, no polyps. Sinus CT (limited) shows no sinusitis. Recommend continuing intranasal corticosteroid, consider allergen immunotherapy. No surgical intervention needed at this time."
+    },
+    {
+      "memory_id": "X0557-m11",
+      "date": "2026-01-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘Doctor, my nose feels stuffier again in the mornings and I’m sneezing more. The fluticasone spray seems less helpful. Should I increase the dose?’"
+    },
+    {
+      "memory_id": "X0557-m12",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cetirizine hydrochloride 10 mg tablet – take one tablet at night.\nFluticasone propionate nasal spray 50 mcg – increase to two sprays in each nostril once daily.\nMontelukast sodium 10 mg tablet – take one tablet at night.\nReview in 2 months."
+    },
+    {
+      "memory_id": "X0557-m13",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "82-year-old male returns for annual review of allergic rhinitis and cardiovascular risk.\n\nPRESENTING COMPLAINT: Nasal congestion improved after increasing fluticasone; occasional itchy eyes. Reports good energy.\n\nEXAMINATION: BP 138/80 mmHg, weight 67 kg, height 1.68 m => BMI 23.7 (overweight). Nasal mucosa mildly pale, turbinates normal. Lungs clear.\n\nIMPRESSION: Allergic rhinitis well controlled on current regimen. Overweight (BMI 23.7) – advise continued moderate activity and reduced refined carbs. Annual lipids and glucose checked.\n\nARRANGEMENTS: Continue cetirizine HS, fluticasone two sprays each nostril OD, montelukast HS. Review in 6 months. Influenza vaccine not due (given Oct 2025). Return if: worsening blockage, facial pain, fever >39°C, or blood‑stained discharge."
+    },
+    {
+      "memory_id": "X0557-m14",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 4.8 mmol/L (ref <5.0), LDL 2.9 mmol/L (ref <2.6), HDL 1.2 mmol/L (ref >1.0), Triglycerides 1.6 mmol/L (ref <1.7).\nFasting blood glucose 5.6 mmol/L (ref 3.9-5.6).\nTotal serum IgE 185 IU/mL (ref <100)."
+    },
+    {
+      "memory_id": "X0557-m15",
+      "date": "2026-08-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original review scheduled for 15‑Sep‑2026 moved to 02‑Nov‑2026 at 10:30 am with Dr Priya Natarajan (D03). Patient confirmed via phone."
+    }
+  ]
+}

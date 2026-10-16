@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0383",
+  "name": "Sukhdev Sandhu",
+  "age": 84,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Osteoarthritis of the knee"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0383-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees.\nPatient reports aching pain in knees worsened by stair climbing and prolonged standing; mild crepitus on bilateral knee examination, no effusion, range of motion slightly limited. Spirometry: FEV1 2.10 L (85% predicted), FVC 2.58 L, FEV1/FVC 0.81, change since prior +0.05 L. Asthma Control Test score 22 (well controlled). Technique checked: correct salbutamol metered-dose inhaler use. Smoking status: former, 30 pack-years, stopped 2005."
+    },
+    {
+      "memory_id": "X0383-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg SOS\nDiclofenac gel 1% apply to affected knee BD\nCalcium carbonate 500 mg + Vitamin D3 400 IU OD"
+    },
+    {
+      "memory_id": "X0383-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-OH Vitamin D: 18 ng/mL (Reference 30-100)"
+    },
+    {
+      "memory_id": "X0383-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Weight-bearing X-ray both knees: Joint space narrowing medially, marginal osteophytes, mild subchondral sclerosis; no significant dislocation."
+    },
+    {
+      "memory_id": "X0383-m05",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 at 10:30 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0383-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees.\nPatient notes reduced pain after paracetamol SOS; morning stiffness improved. Examination shows mild tenderness, no swelling. Spirometry: FEV1 2.15 L (87% predicted), FVC 2.60 L, FEV1/FVC 0.83, change +0.05 L from previous. Asthma Control Test score 23 (well controlled). Technique checked: correct salbutamol MDI. Smoking status: former, 30 pack-years, stopped 2005."
+    },
+    {
+      "memory_id": "X0383-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg SOS\nDiclofenac gel 1% apply to affected knee BD\nCalcium carbonate 500 mg + Vitamin D3 800 IU OD"
+    },
+    {
+      "memory_id": "X0383-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-OH Vitamin D: 28 ng/mL (Reference 30-100)"
+    },
+    {
+      "memory_id": "X0383-m09",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"My knees feel less stiff in the mornings, but I still get sore after walking to the market.\""
+    },
+    {
+      "memory_id": "X0383-m10",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees.\nPatient reports occasional flare after long walks; pain 4/10 at worst. Examination: mild warmth, no effusion, crepitus present. Spirometry: FEV1 2.12 L (86% predicted), FVC 2.59 L, FEV1/FVC 0.82, change -0.03 L since last. Asthma Control Test score 21 (well controlled). Technique checked: correct salbutamol MDI. Smoking status: former, 30 pack-years, stopped 2005."
+    },
+    {
+      "memory_id": "X0383-m11",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg SOS\nDiclofenac gel 1% apply to affected knee TDS\nCalcium carbonate 500 mg + Vitamin D3 800 IU OD"
+    },
+    {
+      "memory_id": "X0383-m12",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-OH Vitamin D: 35 ng/mL (Reference 30-100)"
+    },
+    {
+      "memory_id": "X0383-m13",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees.\nPatient states pain well controlled with current regimen; only occasional discomfort after heavy housework. Examination: no erythema, mild tenderness, range of motion preserved. Spirometry: FEV1 2.14 L (87% predicted), FVC 2.61 L, FEV1/FVC 0.82, change +0.02 L. Asthma Control Test score 24 (well controlled). Technique checked: correct salbutamol MDI. Smoking status: former, 30 pack-years, stopped 2005."
+    },
+    {
+      "memory_id": "X0383-m14",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg SOS\nDiclofenac gel 1% apply to affected knee TDS\nCalcium carbonate 500 mg + Vitamin D3 800 IU OD"
+    },
+    {
+      "memory_id": "X0383-m15",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I’m able to walk to the temple without needing to rest as much; the gel helps when I overdo it.\""
+    },
+    {
+      "memory_id": "X0383-m16",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees.\nPatient mentions mild skin irritation under the diclofenac gel application sites; otherwise pain stable. Examination: slight erythema where gel applied, no ulceration. Spirometry: FEV1 2.13 L (86% predicted), FVC 2.60 L, FEV1/FVC 0.82, change -0.01 L. Asthma Control Test score 22 (well controlled). Technique checked: correct salbutamol MDI. Smoking status: former, 30 pack-years, stopped 2005."
+    },
+    {
+      "memory_id": "X0383-m17",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg SOS\nCalcium carbonate 500 mg + Vitamin D3 800 IU OD\n[Topical diclofenac gel discontinued due to skin irritation]"
+    },
+    {
+      "memory_id": "X0383-m18",
+      "date": "2026-07-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original slot 2026-08-15 09:00 moved to 2026-08-15 11:30 with Dr Suresh Menon (D05)."
+    }
+  ]
+}

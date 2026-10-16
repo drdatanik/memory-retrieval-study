@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0135",
+  "name": "Alwyn Varghese",
+  "age": 69,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0135-m01",
+      "date": "2025-04-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have had daily itchy wheals for the past year, worse in the evenings. I work with flowers and notice flare-ups after handling certain plants. No known food triggers. I take occasional antihistamine but symptoms persist."
+    },
+    {
+      "memory_id": "X0135-m02",
+      "date": "2025-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked with Dr Suresh Menon (D05) for 2025-04-05 at 10:30 AM. Reason: evaluation of chronic urticaria."
+    },
+    {
+      "memory_id": "X0135-m03",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nPatient reports daily pruritic wheals, worse evenings, associated with floral work. Examination shows scattered transient wheals across trunk and limbs, no angioedema. Vital signs normal. Smoking status: never. No inhaler use. Plan: start levocetirizine 5 mg OD and cetirizine 10 mg HS; advise non‑sedating antihistamine regimen, avoid known triggers, follow‑up in 8 weeks. Labs: CBC with eosinophils, thyroid function test."
+    },
+    {
+      "memory_id": "X0135-m04",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levocetirizine 5 mg tablet, take one tablet by mouth once daily.\ncetirizine 10 mg tablet, take one tablet by mouth at bedtime."
+    },
+    {
+      "memory_id": "X0135-m05",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.8 g/dl (13.0‑17.0), WBC 6.2 x10^9/l (4.0‑10.0), eosinophils 0.4 x10^9/l (0.0‑0.5). Platelets 210 x10^9/l (150‑400).\nTSH 2.1 µIU/ml (0.4‑4.0), Free T4 1.2 ng/dl (0.8‑1.8)."
+    },
+    {
+      "memory_id": "X0135-m06",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nPatient reports reduced wheal frequency, now 3‑4 days per week, less intense itching. Examination shows occasional faint wheals on arms. Smoking status: never. Plan: continue levocetirizine 5 mg OD, increase cetirizine to 10 mg BID for breakthrough symptoms; reinforce trigger avoidance. Review in 2 months."
+    },
+    {
+      "memory_id": "X0135-m07",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levocetirizine 5 mg tablet, take one tablet by mouth once daily.\ncetirizine 10 mg tablet, take one tablet by mouth twice daily."
+    },
+    {
+      "memory_id": "X0135-m08",
+      "date": "2025-06-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.9 g/dl, WBC 6.0 x10^9/l, eosinophils 0.3 x10^9/l (0.0‑0.5). Platelets 208 x10^9/l.\nTSH 2.0 µIU/ml, Free T4 1.1 ng/dl."
+    },
+    {
+      "memory_id": "X0135-m09",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nPatient states urticaria now occurs only 1‑2 days per week, mild. No angioedema. Examination clear of active wheals. Smoking status: never. Plan: taper cetirizine to 10 mg HS only; continue levocetirizine 5 mg OD. Advise to monitor and return if symptoms worsen. Review in 3 months."
+    },
+    {
+      "memory_id": "X0135-m10",
+      "date": "2025-09-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levocetirizine 5 mg tablet, take one tablet by mouth once daily.\ncetirizine 10 mg tablet, take one tablet by mouth at bedtime."
+    },
+    {
+      "memory_id": "X0135-m11",
+      "date": "2025-09-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: next visit rescheduled from 2025-12-01 to 2025-12-10 at 11:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0135-m12",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nPatient reports occasional mild wheals (<1 day per week), well controlled. Examination shows no active lesions. Smoking status: never. Plan: maintain levocetirizine 5 mg OD, cetirizine 10 mg HS PRN for breakthrough. Review in 3 months."
+    },
+    {
+      "memory_id": "X0135-m13",
+      "date": "2025-12-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levocetirizine 5 mg tablet, take one tablet by mouth once daily.\ncetirizine 10 mg tablet, take one tablet by mouth at bedtime as needed."
+    },
+    {
+      "memory_id": "X0135-m14",
+      "date": "2025-12-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.7 g/dl, WBC 5.8 x10^9/l, eosinophils 0.2 x10^9/l (0.0‑0.5). Platelets 212 x10^9/l.\nTSH 2.2 µIU/ml, Free T4 1.2 ng/dl."
+    },
+    {
+      "memory_id": "X0135-m15",
+      "date": "2026-03-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nPatient asymptomatic for past 6 weeks, no wheals or itching. Examination clear. Smoking status: never. Plan: attempt cetirizine discontinuation; continue levocetirizine 5 mg OD. Review in 3 months."
+    },
+    {
+      "memory_id": "X0135-m16",
+      "date": "2026-03-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levocetirizine 5 mg tablet, take one tablet by mouth once daily."
+    },
+    {
+      "memory_id": "X0135-m17",
+      "date": "2026-06-18",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nPatient remains symptom‑free off cetirizine, on levocetirizine only. No wheals reported. Examination negative for skin lesions. Smoking status: never. Plan: continue levocetirizine 5 mg OD, consider trial off medication in 2 months if remains clear. Review in 3 months."
+    },
+    {
+      "memory_id": "X0135-m18",
+      "date": "2026-09-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nPatient reports no symptoms for 3 months off cetirizine, still on levocetirizine 5 mg OD. Examination clear. Smoking status: never. Plan: levocetirizine 5 mg OD continued, advise to monitor for relapse. Review as needed."
+    }
+  ]
+}

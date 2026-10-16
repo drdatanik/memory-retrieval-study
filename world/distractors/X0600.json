@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0600",
+  "name": "Sheeba Varghese",
+  "age": 79,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Migraine",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0600-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, walks to shop, uses public transport. cognition: Mini-Cog 3/5 (negative). falls: none in last 12 months, gait steady, timed up-and-go 10 seconds. medicines: 7 regular (propranolol, sumatriptan, topiramate, naproxen, mebeverine, ispaghula husk, loperamide) – polypharmacy, review against Beers criteria. mood: reports occasional irritability, denies depression. carers: daughter Priya, lives nearby. goals: \"I want to keep running my shop without pain interruptions.\""
+    },
+    {
+      "memory_id": "X0600-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol 40 mg OD\nsumatriptan 50 mg SOS\ntopiramate 25 mg HS\nnaproxen 500 mg SOS\nmebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0600-m03",
+      "date": "2025-06-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.2 g/dl (12-16)\nWBC 6.8 x10^9/l (4-10)\nPlatelets 210 x10^9/l (150-400)\nStool: ova and parasites negative, culture negative, occult blood negative"
+    },
+    {
+      "memory_id": "X0600-m04",
+      "date": "2025-06-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still managing shop, occasional fatigue after long hours. cognition: Mini-Cog 3/5 (unchanged). falls: none, gait slightly slower, timed up-and-go 11 seconds. medicines: 7 regular – polypharmacy, Beers review advised. mood: stable, denies low mood. carers: daughter Priya. goals: \"I want fewer migraine days to focus on business.\""
+    },
+    {
+      "memory_id": "X0600-m05",
+      "date": "2025-06-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol 40 mg OD (continue)\nsumatriptan 50 mg SOS (continue)\ntopiramate 50 mg HS (increased from 25 mg)\nnaproxen 500 mg SOS (continue)\nmebeverine 135 mg BD (continue)\nispaghula husk 5 g OD (continue)\nloperamide 2 mg SOS (continue)"
+    },
+    {
+      "memory_id": "X0600-m06",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "CT head: no acute hemorrhage, infarct or mass. Normal ventricles and sulci. No chronic ischemic changes."
+    },
+    {
+      "memory_id": "X0600-m07",
+      "date": "2025-09-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, reports mild neck stiffness after long standing. cognition: Mini-Cog 3/5 (negative). falls: none, gait normal, timed up-and-go 10 seconds. medicines: 7 regular – polypharmacy, Beers review recommended. mood: reports occasional anxiety before markets. carers: daughter Priya. goals: \"I want to keep my shop open daily without needing to rest.\""
+    },
+    {
+      "memory_id": "X0600-m08",
+      "date": "2025-09-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol 40 mg OD\nsumatriptan 50 mg SOS\ntopiramate 50 mg HS\nnaproxen 500 mg SOS\nmebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\nvitamin D3 1000 IU OD (added for bone health)"
+    },
+    {
+      "memory_id": "X0600-m09",
+      "date": "2025-12-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been having more frequent throbbing headaches, especially after market days, and my stomach feels upset after eating spicy food."
+    },
+    {
+      "memory_id": "X0600-m10",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still independent, notes needing to rest after busy market mornings. cognition: Mini-Cog 3/5 (negative). falls: none, gait slightly antalgic on right, timed up-and-go 12 seconds – raised fall risk, advise strengthening exercises and supportive footwear. medicines: 8 regular (added vitamin D) – polypharmacy, Beers review. mood: reports frustration with headaches. carers: daughter Priya. goals: \"I want to reduce headache frequency so I can work longer hours.\""
+    },
+    {
+      "memory_id": "X0600-m11",
+      "date": "2025-12-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol 60 mg OD (increased from 40 mg)\nsumatriptan 50 mg SOS\ntopiramate 50 mg HS\nnaproxen 500 mg SOS\nmebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\nvitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0600-m12",
+      "date": "2026-03-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "tTG-IgA <2 U/ml (negative for coeliac)\nHemoglobin 13.0 g/dl\nWBC 7.0 x10^9/l\nPlatelets 205 x10^9/l\nESR 12 mm/hr (0-20)"
+    },
+    {
+      "memory_id": "X0600-m13",
+      "date": "2026-03-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: manages shop with occasional afternoon rest. cognition: Mini-Cog 3/5 (negative, annual screen). falls: none in past year, gait steady, timed up-and-go 11 seconds. medicines: 8 regular – polypharmacy, Beers review advised. mood: reports improved mood after headache control. carers: daughter Priya. goals: \"I want to maintain steady work days without unexpected migraine.\""
+    },
+    {
+      "memory_id": "X0600-m14",
+      "date": "2026-03-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol 60 mg OD\nsumatriptan 50 mg SOS\ntopiramate 50 mg HS\nnaproxen 500 mg SOS\nmebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\nvitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0600-m15",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up geriatric review booked for 2026-08-15 at 10:30 am with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0600-m16",
+      "date": "2026-08-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, reports good stamina, occasional mild headache after stress. cognition: Mini-Cog 3/5 (negative). falls: none, gait normal, timed up-and-go 10 seconds. medicines: 8 regular – polypharmacy, Beers review completed, no inappropriate meds. mood: stable, denies anxiety. carers: daughter Priya. goals: \"I want to continue running my shop and enjoy time with grandchildren.\""
+    }
+  ]
+}

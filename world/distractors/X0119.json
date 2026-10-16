@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0119",
+  "name": "Tapas Chakraborty",
+  "age": 38,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0119-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency.\nPatient reports fatigue and mild bilateral knee aches over past month. Examination shows normal vitals, no joint swelling or deformities. Smoking status: never. Plan: start high-dose cholecalciferol 60000 IU once weekly for 8 weeks then 1000 IU daily, recheck labs in 2 months."
+    },
+    {
+      "memory_id": "X0119-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 60000 IU once weekly for 8 weeks, then cholecalciferol 1000 IU oral daily."
+    },
+    {
+      "memory_id": "X0119-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 12 ng/mL (ref 20-50). Serum calcium: 9.2 mg/dL (ref 8.5-10.5). Serum phosphate: 3.8 mg/dL (ref 2.5-4.5)."
+    },
+    {
+      "memory_id": "X0119-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, responding to therapy.\nFatigue improved, no bone pain. Examination unchanged. Smoking status: never. Inhaler technique not applicable. Spirometry not indicated. Plan: continue cholecalciferol 1000 IU OD, repeat labs today."
+    },
+    {
+      "memory_id": "X0119-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 1000 IU oral daily."
+    },
+    {
+      "memory_id": "X0119-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 28 ng/mL (ref 20-50). Serum calcium: 9.4 mg/dL (ref 8.5-10.5). Serum phosphate: 3.9 mg/dL (ref 2.5-4.5)."
+    },
+    {
+      "memory_id": "X0119-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, maintained on replacement.\nPatient asymptomatic, denies fatigue or pain. Exam normal. Smoking status: never. Plan: continue current dose, labs in 3 months."
+    },
+    {
+      "memory_id": "X0119-m08",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 30 ng/mL (ref 20-50). Serum calcium: 9.3 mg/dL (ref 8.5-10.5). Serum phosphate: 3.8 mg/dL (ref 2.5-4.5)."
+    },
+    {
+      "memory_id": "X0119-m09",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, stable.\nReports good energy, no musculoskeletal complaints. Exam unremarkable. Smoking status: never. Plan: maintain cholecalciferol 1000 IU OD, check labs."
+    },
+    {
+      "memory_id": "X0119-m10",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 31 ng/mL (ref 20-50). Serum calcium: 9.4 mg/dL (ref 8.5-10.5). Serum phosphate: 3.9 mg/dL (ref 2.5-4.5)."
+    },
+    {
+      "memory_id": "X0119-m11",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, well controlled.\nNo symptoms, normal exam. Smoking status: never. Plan: continue same supplementation, labs today."
+    },
+    {
+      "memory_id": "X0119-m12",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 32 ng/mL (ref 20-50). Serum calcium: 9.5 mg/dL (ref 8.5-10.5). Serum phosphate: 4.0 mg/dL (ref 2.5-4.5)."
+    },
+    {
+      "memory_id": "X0119-m13",
+      "date": "2026-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, maintained.\nPatient feels well, no new complaints. Exam normal. Smoking status: never. Plan: continue cholecalciferol 1000 IU OD, labs in 3 months."
+    },
+    {
+      "memory_id": "X0119-m14",
+      "date": "2026-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 31 ng/mL (ref 20-50). Serum calcium: 9.4 mg/dL (ref 8.5-10.5). Serum phosphate: 3.9 mg/dL (ref 2.5-4.5)."
+    },
+    {
+      "memory_id": "X0119-m15",
+      "date": "2026-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-10-10 09:00 with Dr Suresh Menon (D05) for routine vitamin D follow‑up."
+    },
+    {
+      "memory_id": "X0119-m16",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, stable on replacement.\nPatient remains asymptomatic, exam normal. Smoking status: never. Plan: continue cholecalciferol 1000 IU OD, no further labs needed unless symptoms change."
+    },
+    {
+      "memory_id": "X0119-m17",
+      "date": "2026-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 30 ng/mL (ref 20-50). Serum calcium: 9.3 mg/dL (ref 8.5-10.5). Serum phosphate: 3.8 mg/dL (ref 2.5-4.5)."
+    }
+  ]
+}

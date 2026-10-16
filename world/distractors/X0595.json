@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0595",
+  "name": "Neelam Saxena",
+  "age": 46,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Insomnia",
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0595-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia and asymptomatic gout.\nPatient reports trouble falling asleep, waking after 4-5 hours, daytime fatigue, and mild joint discomfort without swelling or redness. Exam: vitals normal, lungs clear, no tophi, joints non‑tender. She denies snoring or apnea. Smoking: former, stopped 2020, 10 pack‑years. No current inhaler use. Insomnia Severity Index score 18 (borderline). TSH 2.1 µIU/mL (ref 0.4‑4.0). Hb 12.8 g/dL (ref 12‑16). Serum uric acid 6.8 mg/dL (ref <7.0). Creatinine 0.9 mg/dL (ref 0.5‑1.1)."
+    },
+    {
+      "memory_id": "X0595-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nAllopurinol 100 mg OD"
+    },
+    {
+      "memory_id": "X0595-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.1 µIU/mL (0.4‑4.0)\nHaemoglobin: 12.8 g/dL (12‑16)\nSerum uric acid: 6.8 mg/dL (<7.0)\nSerum creatinine: 0.9 mg/dL (0.5‑1.1)"
+    },
+    {
+      "memory_id": "X0595-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia improved, gout asymptomatic.\nPatient reports sleep onset within 30 minutes, waking once per night, feeling rested. No joint pain. Exam: vitals stable, lungs clear, no joint swelling or tenderness. Smoking status unchanged. Insomnia Severity Index score 12 (well controlled). TSH 2.0 µIU/mL. Hb 13.0 g/dL. Serum uric acid 5.9 mg/dL. Creatinine 0.9 mg/dL."
+    },
+    {
+      "memory_id": "X0595-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nAllopurinol increased to 200 mg OD\nFebuxostat 40 mg OD added"
+    },
+    {
+      "memory_id": "X0595-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 5.9 mg/dL (<7.0)\nSerum creatinine: 0.9 mg/dL (0.5‑1.1)"
+    },
+    {
+      "memory_id": "X0595-m07",
+      "date": "2025-10-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been having trouble sleeping again – taking >45 min to fall asleep and waking up at 3 am. I feel tired during my driving shifts. My joints feel fine."
+    },
+    {
+      "memory_id": "X0595-m08",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia worsening, gout asymptomatic.\nPatient reports increased sleep latency (>45 min), early morning awakening, daytime fatigue affecting work. No joint pain or swelling. Exam: vitals normal, lungs clear, no tophi, joints non‑tender. Smoking: former, stopped 2020, 10 pack‑years. Insomnia Severity Index score 20 (borderline well controlled). TSH 2.2 µIU/mL. Hb 12.9 g/dL. Serum uric acid 6.2 mg/dL. Creatinine 0.9 mg/dL."
+    },
+    {
+      "memory_id": "X0595-m09",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Trazodone increased to 75 mg HS\nMelatonin 3 mg HS continued\nAllopurinol 200 mg OD\nFebuxostat 40 mg OD continued"
+    },
+    {
+      "memory_id": "X0595-m10",
+      "date": "2026-01-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 25‑Jan‑2026 at 10:00 am with Dr Suresh Menon (D05) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0595-m11",
+      "date": "2026-01-25",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia stable, gout asymptomatic.\nPatient reports sleep latency ~30 min, one nocturnal awakening, feels rested. No joint complaints. Exam: vitals normal, lungs clear, no joint swelling or tenderness. Smoking: former, stopped 2020, 10 pack‑years. Insomnia Severity Index score 14 (well controlled). TSH 2.0 µIU/mL. Hb 13.1 g/dL. Serum uric acid 5.8 mg/dL. Creatinine 0.9 mg/dL."
+    },
+    {
+      "memory_id": "X0595-m12",
+      "date": "2026-01-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.0 µIU/mL (0.4‑4.0)\nHaemoglobin: 13.1 g/dL (12‑16)\nSerum uric acid: 5.8 mg/dL (<7.0)\nSerum creatinine: 0.9 mg/dL (0.5‑1.1)"
+    },
+    {
+      "memory_id": "X0595-m13",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Acute gout flare, insomnia stable.\nPatient reports sudden severe pain and swelling in left first metatarsophalangeal joint, began 2 days ago, worsened with walking. No fever. Exam: left MTP joint swollen, erythematous, tender, limited range of motion. Insomnia: reports sleep latency 30 min, no awakening, feels rested. Smoking: former, stopped 2020, 10 pack‑years. Insomnia Severity Index score 13 (well controlled). TSH 2.1 µIU/mL. Hb 13.0 g/dL. Serum uric acid 7.6 mg/dL (elevated). Creatinine 0.9 mg/dL."
+    },
+    {
+      "memory_id": "X0595-m14",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Colchicine 0.5 mg BD for 5 days\nAllopurinol 200 mg OD continued\nFebuxostat 40 mg OD continued\nMelatonin 3 mg HS\nTrazodone 75 mg HS"
+    }
+  ]
+}

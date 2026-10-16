@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0451",
+  "name": "Chandrashekar Hiremath",
+  "age": 51,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Type 2 diabetes",
+    "Psoriasis",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0451-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus, psoriasis, and allergic asthma.\nPatient reports polyuria, occasional thirst, mild scalp plaques, and intermittent wheeze on exertion. Examination: BMI 28, BP 130/84, lung fields clear with mild expiratory wheeze, psoriasis plaques on elbows and knees, no retinal changes visualized. Spirometry: FEV1 2.45 L (78% pred), FVC 3.10 L (82% pred), FEV1/FVC 0.79; change from prior not applicable. ACT score 16 (not well controlled). Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0451-m02",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (ref 4.0-5.6). Fasting plasma glucose 158 mg/dL (ref 70-99). Urine albumin‑creatinine ratio 22 mg/g (ref <30)."
+    },
+    {
+      "memory_id": "X0451-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "metformin 500 mg BD\n glimepiride 1 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n clobetasol 0.05% cream BD topically\n calcipotriol ointment OD topically\n methotrexate 7.5 mg once weekly with folic acid 5 mg OD\n salbutamol metered‑dose inhaler SOS\n budesonide‑formoterol 200/6 inhaler BD\n montelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0451-m04",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dilated fundus exam: no microaneurysms, no hemorrhages, macula normal. Cup‑disc ratio 0.3 bilaterally."
+    },
+    {
+      "memory_id": "X0451-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus, psoriasis, allergic asthma – stable.\nReports improved polyuria, mild scalp itch, occasional night‑time wheeze. Exam: BP 128/82, lungs clear, mild wheeze at bases, psoriasis plaques unchanged, no pedal edema. Spirometry: FEV1 2.55 L (82% pred) ↑0.10 L, FVC 3.15 L, FEV1/FVC 0.81. ACT score 20 (well controlled). Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0451-m06",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2% (ref 4.0-5.6). Fasting plasma glucose 132 mg/dL (ref 70-99). ALT 28 U/L (ref ≤40). AST 26 U/L (ref ≤40). CBC: Hb 13.8 g/dL, WBC 6.2×10⁹/L, Plt 210×10⁹/L. Serum creatinine 0.92 mg/dL (ref 0.6-1.2)."
+    },
+    {
+      "memory_id": "X0451-m07",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "metformin 500 mg BD (unchanged)\n glimepiride 1 mg OD before breakfast (unchanged)\n sitagliptin 100 mg OD (unchanged)\n empagliflozin 10 mg OD (unchanged)\n clobetasol 0.05% cream BD topically (unchanged)\n calcipotriol ointment OD topically (unchanged)\n methotrexate 7.5 mg once weekly with folic acid 5 mg OD (unchanged)\n salbutamol metered‑dose inhaler SOS (unchanged)\n budesonide‑formoterol 200/6 inhaler BD (unchanged)\n montelukast 10 mg HS (unchanged)"
+    },
+    {
+      "memory_id": "X0451-m08",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus, psoriasis, allergic asthma – review.\nPatient notes occasional daytime dyspnoea, mild increase in scalp scaling. Exam: BP 130/84, lungs with mild expiratory wheeze, psoriasis plaques slightly thicker on knees, no new skin lesions. Spirometry: FEV1 2.48 L (80% pred) ↓0.07 L from last, FVC 3.08 L, FEV1/FVC 0.80. ACT score 18 (not well controlled). Technique corrected: taught slow‑deep inhalation for dry powder device; inspiratory flow adequate. Smoking: never."
+    },
+    {
+      "memory_id": "X0451-m09",
+      "date": "2025-10-16",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry with reversibility: pre‑bronchodilator FEV1 2.48 L (80% pred), FVC 3.08 L, FEV1/FVC 0.80. Post‑salbutamol FEV1 2.71 L (88% pred), ↑0.23 L (9.3%); significant reversibility noted."
+    },
+    {
+      "memory_id": "X0451-m10",
+      "date": "2025-10-17",
+      "type": "prescription",
+      "author": "D05",
+      "text": "metformin 500 mg BD\n glimepiride 1 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n clobetasol 0.05% cream BD topically\n calcipotriol ointment OD topically\n methotrexate 7.5 mg once weekly with folic acid 5 mg OD\n salbutamol metered‑dose inhaler SOS\n budesonide‑formoterol 400/12 inhaler BD (dose increased)\n montelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0451-m11",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus, psoriasis, allergic asthma – stable on current regimen.\nReports good glycaemic control, less scalp itch, no nocturnal wheeze. Exam: BP 126/80, lungs clear, psoriasis plaques mild, no edema. Spirometry: FEV1 2.52 L (81% pred) ↑0.04 L, FVC 3.12 L, FEV1/FVC 0.81. ACT score 22 (well controlled). Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0451-m12",
+      "date": "2026-01-21",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8% (ref 4.0-5.6). Fasting plasma glucose 118 mg/dL (ref 70-99). Urine albumin‑creatinine ratio 18 mg/g (ref <30). ALT 22 U/L, AST 20 U/L. CBC: Hb 14.0 g/dL, WBC 5.9×10⁹/L, Plt 205×10⁹/L. Serum creatinine 0.90 mg/dL."
+    },
+    {
+      "memory_id": "X0451-m13",
+      "date": "2026-01-22",
+      "type": "prescription",
+      "author": "D05",
+      "text": "metformin 500 mg BD\n glimepiride 0.5 mg OD before breakfast (dose reduced)\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n clobetasol 0.05% cream BD topically\n calcipotriol ointment OD topically\n methotrexate 5 mg once weekly with folic acid 5 mg OD (dose reduced)\n salbutamol metered‑dose inhaler SOS\n budesonide‑formoterol 400/12 inhaler BD\n montelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0451-m14",
+      "date": "2026-06-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-07-15 at 10:00 with Dr Suresh Menon (D05) in Pulmonology clinic."
+    },
+    {
+      "memory_id": "X0451-m15",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus, psoriasis, allergic asthma – final review.\nPatient asymptomatic; HbA1c at target, psoriasis mild, asthma well controlled. Exam: BP 124/78, lungs clear, psoriasis plaques minimal, no retinopathy signs. Spirometry: FEV1 2.58 L (83% pred) ↑0.06 L, FVC 3.18 L, FEV1/FVC 0.81. ACT score 24 (well controlled). Technique checked: correct. Smoking: never. Plan: continue current meds, repeat labs in 3 months."
+    }
+  ]
+}

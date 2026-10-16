@@ -1,0 +1,101 @@
+{
+  "patient_id": "P15",
+  "name": "Ritu Banerjee",
+  "age": 47,
+  "sex": "F",
+  "primary_doctor": "D01",
+  "conditions": ["Hypothyroidism", "Hashimoto's thyroiditis"],
+  "memories": [
+    {
+      "memory_id": "P15-m01",
+      "date": "2025-04-29",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake update, patient-reported: HR manager at an IT company in Whitefield. Diagnosed with Hashimoto's thyroiditis in 2023. Reports tiredness through the day, constipation, dry skin and about 4 kg weight gain over the last year. Takes her levothyroxine tablet first thing each morning and is not sure whether timing matters."
+    },
+    {
+      "memory_id": "P15-m02",
+      "date": "2025-04-29",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o hypothyroidism (Hashimoto's) on levothyroxine (Thyronorm) 50 mcg OD. C/o tiredness, constipation, dry skin, wt gain approx 4 kg in 1 yr. No palpitations, no tremor. Menses regular.\nO: O/E pulse 68/min regular. BP 124/78 mmHg. Wt 71 kg. Thyroid gland not enlarged, no nodule. Reflex relaxation mildly slow. No pedal oedema.\nA: 1. Hypothyroidism, under-replaced on 50 mcg. TSH 8.2 today.\nP: 1. Increase levothyroxine to 75 mcg OD from today. 2. Take on an empty stomach. 3. Repeat TSH in 3 months.\nAdv: Walk 30 min daily. High-fibre diet with vegetables and fruit, adequate water. Keep soy and calcium-rich foods away from tablet time. R/V in 3 mths."
+    },
+    {
+      "memory_id": "P15-m03",
+      "date": "2025-04-29",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH (thyroid stimulating hormone), collected 2025-04-29, Sunrise Family Clinic Laboratory. TSH: 8.2 mIU/L. Reference: 0.4-4.0 mIU/L. Interpretation: raised, under-replacement on current dose."
+    },
+    {
+      "memory_id": "P15-m04",
+      "date": "2025-04-29",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx: levothyroxine (Thyronorm) 75 mcg tab, 1 tab OD on an empty stomach, 30-60 min before breakfast, from 2025-04-29. Replaces 50 mcg OD. Review TSH in 3 months."
+    },
+    {
+      "memory_id": "P15-m05",
+      "date": "2025-07-29",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake update at review, patient-reported: takes her levothyroxine with her morning tea, about 10 minutes after getting out of bed, as a habit she has kept for years. Says her energy has been better since the increase in April and her bowels are more regular."
+    },
+    {
+      "memory_id": "P15-m06",
+      "date": "2025-07-29",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH (thyroid stimulating hormone), collected 2025-07-29, Sunrise Family Clinic Laboratory. TSH: 5.1 mIU/L. Reference: 0.4-4.0 mIU/L. Interpretation: raised, still above reference range on 75 mcg."
+    },
+    {
+      "memory_id": "P15-m07",
+      "date": "2025-07-29",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o hypothyroidism (Hashimoto's) on levothyroxine 75 mcg OD since April. Energy better, constipation improved, weight stable. Takes tablet with morning tea (see intake today). No palpitations.\nO: O/E pulse 72/min regular. BP 122/76 mmHg. Wt 70 kg. Thyroid not enlarged.\nA: 1. Hypothyroidism, TSH 5.1, still above range. 2. Reduced absorption likely, as the tablet is taken with tea.\nP: 1. Increase levothyroxine to 88 mcg OD. 2. Counselled to take it on an empty stomach, 30-60 min before tea or breakfast. 3. Repeat TSH in 3 months.\nAdv: Walk 30 min daily. Keep tea and milk at least 30-60 min after the tablet. High-fibre diet. R/V in 3 mths."
+    },
+    {
+      "memory_id": "P15-m08",
+      "date": "2025-07-29",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx: levothyroxine 88 mcg tab, 1 tab OD on an empty stomach, 30-60 min before tea or breakfast, from 2025-07-29. Replaces 75 mcg OD."
+    },
+    {
+      "memory_id": "P15-m09",
+      "date": "2025-09-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message, 2025-09-12 (patient): 'I now take my thyroid tablet 30 minutes before my tea, as Dr Mehta advised. Energy is much better, I am sleeping well, and my weight has settled at 69 kg. Hair fall is less too and my periods are regular.'"
+    },
+    {
+      "memory_id": "P15-m10",
+      "date": "2025-11-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH (thyroid stimulating hormone), collected 2025-11-04, Sunrise Family Clinic Laboratory. TSH: 2.4 mIU/L. Reference: 0.4-4.0 mIU/L. Interpretation: within reference range."
+    },
+    {
+      "memory_id": "P15-m11",
+      "date": "2025-11-04",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o hypothyroidism (Hashimoto's) on levothyroxine 88 mcg OD since July. Now taking tablet on an empty stomach, 30 min before tea. Energy good, sleep better, bowels regular. No palpitations, no tremor. Weight 69 kg.\nO: O/E pulse 70/min regular. BP 120/76 mmHg. Thyroid gland not enlarged.\nA: 1. Hypothyroidism, well replaced, TSH 2.4 in range. 2. Weight stable.\nP: 1. Continue levothyroxine 88 mcg OD. 2. Continue empty-stomach timing. 3. Repeat TSH in 6 months.\nAdv: Walk 30 min daily. Keep milk and curd at least 4 hours away from the tablet. High-fibre diet. R/V in 6 mths."
+    },
+    {
+      "memory_id": "P15-m12",
+      "date": "2026-05-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH (thyroid stimulating hormone), collected 2026-05-05, Sunrise Family Clinic Laboratory. TSH: 3.9 mIU/L. Reference: 0.4-4.0 mIU/L. Interpretation: within reference range."
+    },
+    {
+      "memory_id": "P15-m13",
+      "date": "2026-05-05",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o hypothyroidism (Hashimoto's) on levothyroxine 88 mcg OD. Feels well, energy good, no constipation, weight stable. Takes tablet on an empty stomach, 30 min before breakfast. No palpitations, no tremor, no menstrual change.\nO: O/E pulse 68/min regular. BP 118/74 mmHg. Wt 69 kg. Thyroid gland not enlarged.\nA: 1. Hypothyroidism, euthyroid on current dose. TSH 3.9, within reference range.\nP: 1. Continue levothyroxine 88 mcg OD. 2. Repeat TSH in 6 months.\nAdv: Continue empty-stomach timing. Walk 30 min daily. Keep milk and curd at least 4 hours away from the tablet. R/V in 6 mths."
+    }
+  ]
+}

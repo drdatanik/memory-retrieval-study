@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0554",
+  "name": "Padmavathi Mallela",
+  "age": 90,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Chronic urticaria",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0554-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Persistent daily wheals, mild pruritus, no angioedema. Weight 62 kg, waist 84 cm (female cutoff 80 cm, increased).\n  - Plan: Continue levocetirizine 5 mg OD after food. Add cetirizine 10 mg HS if breakthrough. Review symptom diary.\n- Migraine\n  - Status: 2–3 episodes/month, responsive to sumatriptan. No new neurological signs.\n  - Plan: Start propranolol 40 mg OD after food for prophylaxis. Continue sumatriptan 50 mg SOS after food. Topiramate 25 mg HS after food, naproxen 500 mg SOS after food as needed.\n- General health\n  - Status: Otherwise well, drives locally. No fever.\n  - Plan: Annual lipid profile due. Weight and waist monitored each visit.\nDue: HbA1c in 3 months (routine)."
+    },
+    {
+      "memory_id": "X0554-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levocetirizine 5 mg OD after food\ncetirizine 10 mg HS after food\npropranolol 40 mg OD after food\nsumatriptan 50 mg SOS after food\ntopiramate 25 mg HS after food\nnaproxen 500 mg SOS after food"
+    },
+    {
+      "memory_id": "X0554-m03",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Allergy: Sulfonamide drugs\nReaction: Generalized maculopapular rash with pruritus within 2 hours of ingestion, resolved with antihistamines."
+    },
+    {
+      "memory_id": "X0554-m04",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.8 g/dL (13.0-17.0), WBC 6.2 x10^9/L (4.0-10.0), Neutrophils 4.5, Lymphocytes 1.2, Eosinophils 0.4 x10^9/L (0.0-0.5).\nTSH: 2.1 mIU/L (0.4-4.0).\nFree T4: 12.5 pmol/L (9.0-19.0)."
+    },
+    {
+      "memory_id": "X0554-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Wheals reduced to 3-4 days/week, mild itch. Weight 61.8 kg, waist 83.5 cm.\n  - Plan: Stop cetirizine HS (no breakthrough). Continue levocetirizine 5 mg OD after food. Monitor.\n- Migraine\n  - Status: Episodes down to 1/month on propranolol. No side effects.\n  - Plan: Continue propranolol 40 mg OD after food. Keep sumatriptan SOS. Consider tapering topiramate if weight stable.\n- General health\n  - Status: Stable.\n  - Plan: Lipid profile due next visit.\nDue: HbA1c in 3 months."
+    },
+    {
+      "memory_id": "X0554-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levocetirizine 5 mg OD after food\npropranolol 40 mg OD after food\nsumatriptan 50 mg SOS after food\ntopiramate 25 mg HS after food\nnaproxen 500 mg SOS after food"
+    },
+    {
+      "memory_id": "X0554-m07",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Neurological examination: Normal cranial nerves, no focal deficits, normal gait.\nCT head (plain): No acute hemorrhage, infarct, or mass lesion. Chronic microvascular changes age-appropriate."
+    },
+    {
+      "memory_id": "X0554-m08",
+      "date": "2025-10-02",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dr. S. Rao, Neurology, Vikram Hospital.\nReason: Evaluation of migraine prophylaxis and exclude secondary headache.\nClinical details: 90‑year‑old female driver, migraine 1‑2/month on propranolol, normal neuro exam and CT head. Request opinion on continuing prophylaxis and possible CGRP inhibitor."
+    },
+    {
+      "memory_id": "X0554-m09",
+      "date": "2025-12-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Letter from Dr. S. Rao (Neurology):\nMigraine appears typical, prophylaxis with propranolol adequate. No indication for CGRP inhibitor given age and limited benefit. Continue current regimen, ensure BP monitoring. Return to primary care for routine follow‑up."
+    },
+    {
+      "memory_id": "X0554-m10",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Well‑controlled, occasional wheal after stress. Weight 61.5 kg, waist 83 cm.\n  - Plan: Continue levocetirizine 5 mg OD after food. Cetirizine PRN only.\n- Migraine\n  - Status: 0‑1 episode/month, propranolol well tolerated. BP 138/82 mmHg.\n  - Plan: Continue propranolol 40 mg OD after food. Review need for topiramate; consider taper.\n- General health\n  - Status: Stable.\n  - Plan: Lipid profile drawn today.\nDue: HbA1c in 3 months."
+    },
+    {
+      "memory_id": "X0554-m11",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile: Total cholesterol 4.8 mmol/L (<5.2), LDL 2.9 mmol/L (<2.6 borderline), HDL 1.2 mmol/L (>1.0), Triglycerides 1.5 mmol/L (<1.7).\nCBC: Hb 13.0 g/dL, WBC 6.0, Eosinophils 0.3 x10^9/L.\nTSH: 2.0 mIU/L (unchanged)."
+    },
+    {
+      "memory_id": "X0554-m12",
+      "date": "2026-04-18",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: 'Doctor, I’ve had more hives over the past week, especially after evening shifts. The levocetirizine seems less helpful. Can we change something?'"
+    },
+    {
+      "memory_id": "X0554-m13",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-05-05 10:00 to 2026-04-22 09:30 with Dr Karthik Hegde (D04) for review of urticaria and migraine."
+    },
+    {
+      "memory_id": "X0554-m14",
+      "date": "2026-04-22",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Increased wheals 5‑6 days/week, mild‑moderate pruritus, no angioedema. Weight 61.2 kg, waist 82.5 cm.\n  - Plan: Increase levocetirizine to 10 mg OD after food. Add cetirizine 10 mg HS after food for breakthrough. Advise cool showers, avoid known triggers.\n- Migraine\n  - Status: 1 episode last month, controlled with sumatriptan. Propranolol continued.\n  - Plan: Continue propranolol 40 mg OD after food. Taper topiramate by 12.5 mg HS weekly off over 2 weeks.\n- General health\n  - Plan: Repeat CBC and TSH in 3 months.\nDue: HbA1c in 3 months."
+    },
+    {
+      "memory_id": "X0554-m15",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Well‑controlled, 1‑2 mild wheals/week. Weight 60.9 kg, waist 82 cm (now at female cutoff).\n  - Plan: Continue levocetirizine 10 mg OD after food. Cetirizine HS PRN.\n- Migraine\n  - Status: No headaches in past 6 weeks. Propranolol well tolerated.\n  - Plan: Continue propranolol 40 mg OD after food. Topiramate discontinued.\n- General health\n  - Plan: Lipid profile annual due next year.\nDue: HbA1c in 3 months."
+    },
+    {
+      "memory_id": "X0554-m16",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Stable, occasional wheal after stress. Weight 60.5 kg, waist 81.5 cm.\n  - Plan: Continue levocetirizine 10 mg OD after food. Review need for cetirizine HS.\n- Migraine\n  - Status: Remain headache‑free.\n  - Plan: Continue propranolol 40 mg OD after food.\n- General health\n  - Plan: Annual lipid profile due; schedule for next visit.\nDue: HbA1c in 3 months."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0314",
+  "name": "Vijayalakshmi Gowda",
+  "age": 78,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "COPD",
+    "Coronary artery disease",
+    "Osteoporosis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0314-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- COPD: stable on tiotropium OD, salbutamol SOS, budesonide-formoterol BD. No exacerbation in past month. Plan: continue inhalers, check inhaler technique.\n- CAD: on aspirin 75 mg OD, atorvastatin 40 mg HS, metoprolol 25 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS. No angina. Plan: continue meds, lipid profile due.\n- Osteoporosis: on alendronate 70 mg weekly, calcium 500 mg BD with vitamin D3. Plan: continue, DEXA due.\nWeight 68 kg, waist 88 cm (male cutoff 90 cm). Diet: breakfast - idli with sambar, lunch - rice with dal and veg, dinner - roti with paneer, snack - fruit.\nDue: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0314-m02",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.68 L (55% predicted), FVC 2.90 L (78% predicted), FEV1/FVC 0.58 (58%). Below normal, consistent with moderate obstructive pattern."
+    },
+    {
+      "memory_id": "X0314-m03",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Chest X-ray PA: lungs show hyperinflated fields, flattened diaphragms, no focal consolidation, pleural effusion, or pneumothorax. Cardiac silhouette within normal limits. No acute changes."
+    },
+    {
+      "memory_id": "X0314-m04",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "tiotropium inhaler 18 mcg OD\nsalbutamol inhaler 100 mcg SOS\nbudesonide-formoterol 200/6 mcg BD\naspirin 75 mg OD\natorvastatin 40 mg HS\nmetoprolol succinate 25 mg OD\nisosorbide mononitrate 20 mg OD\nsublingual GTN SOS\nalendronate 70 mg once weekly\ncalcium 500 mg BD with vitamin D3"
+    },
+    {
+      "memory_id": "X0314-m05",
+      "date": "2025-06-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dL (<200), LDL 112 mg/dL (<100 borderline high), HDL 38 mg/dL (>40 low), triglycerides 160 mg/dL (<150 borderline)."
+    },
+    {
+      "memory_id": "X0314-m06",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2% (reference 4.0-5.6%). Indicates suboptimal glycemic control."
+    },
+    {
+      "memory_id": "X0314-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- COPD: stable, inhaler adherence good. Plan: continue current regimen.\n- CAD: LDL 112 mg/dL slightly above target. Plan: increase atorvastatin to 40 mg HS (already) – consider adding ezetimibe if LDL remains >100 after 3 months; continue aspirin, metoprolol, isosorbide.\n- Osteoporosis: no new fracture. Plan: continue alendronate, calcium/vit D.\n- Diabetes: HbA1c 7.2% – advise tighter diet, consider adding metformin 500 mg BD if tolerated.\nWeight 67 kg, waist 86 cm.\nDue: HbA1c 2025-10-10."
+    },
+    {
+      "memory_id": "X0314-m08",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past week I have felt more short of breath on walking to the auto stand, need to use my salbutamol inhaler 3-4 times a day, and have mild wheezing. No fever or sputum change."
+    },
+    {
+      "memory_id": "X0314-m09",
+      "date": "2025-09-03",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- COPD: acute exacerbation likely, increased rescue inhaler use, wheeze on exam. Plan: start oral prednisolone 40 mg OD for 5 days, continue tiotropium, budesonide-formoterol BD, salbutamol SOS as needed.\n- CAD: stable, no chest pain. Plan: continue current meds.\n- Osteoporosis: stable. Plan: continue alendronate, calcium/vit D.\nWeight 66 kg, waist 85 cm.\nDue: HbA1c 2025-10-10; repeat spirometry in 2 weeks."
+    },
+    {
+      "memory_id": "X0314-m10",
+      "date": "2025-09-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "prednisolone 40 mg OD for 5 days"
+    },
+    {
+      "memory_id": "X0314-m11",
+      "date": "2025-09-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry repeat: FEV1 1.85 L (60% predicted), FVC 3.00 L (81% predicted), FEV1/FVC 0.62 (62%). Mild improvement post-steroid course."
+    },
+    {
+      "memory_id": "X0314-m12",
+      "date": "2026-02-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "DEXA scan lumbar spine L1-L4: T-score -2.6; femoral neck T-score -2.1. Diagnosis: osteoporosis. No vertebral fractures visualized."
+    },
+    {
+      "memory_id": "X0314-m13",
+      "date": "2026-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-15 09:00 to 2026-04-10 10:30 with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0314-m14",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- COPD: stable on tiotropium OD, budesonide-formoterol BD, salbutamol SOS as needed. No exacerbation since steroid course.\n- CAD: LDL repeat 108 mg/dL (still borderline). Plan: continue atorvastatin 40 mg HS, consider lifestyle reinforcement.\n- Osteoporosis: T-score -2.6 spine, -2.1 hip. Plan: continue alendronate weekly, calcium 500 mg BD with vitamin D3, ensure adequate vitamin D levels.\n- Diabetes: HbA1c 7.0% (drawn today). Plan: continue diet, consider metformin 500 mg BD if tolerated.\nWeight 65 kg, waist 83 cm (male cutoff 90 cm).\nDue: HbA1c 2026-07-10; lipid profile 2026-04-10 (annual)."
+    },
+    {
+      "memory_id": "X0314-m15",
+      "date": "2026-06-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium 8.9 mg/dL (reference 8.5-10.5). Serum 25‑OH vitamin D 22 ng/mL (reference 30-100). Indicates vitamin D insufficiency."
+    },
+    {
+      "memory_id": "X0314-m16",
+      "date": "2026-10-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8% (reference 4.0-5.6%). Shows improvement toward target."
+    }
+  ]
+}

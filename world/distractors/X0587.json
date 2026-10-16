@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0587",
+  "name": "Remya Kaimal",
+  "age": 24,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Epilepsy",
+    "Asthma",
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0587-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient presents with epilepsy, asthma, and obesity.\nShe reports two generalized tonic‑clonic seizures in the past month, occasional wheeze and exertional dyspnoea, and struggles with weight control. On exam she is alert, BMI 32 kg/m2, blood pressure 118/72, respiratory rate 18, SpO2 98% room air. Chest clear, no wheeze. Neurologically normal. Spirometry shows FEV1 2.30 L (78% predicted), FVC 2.80 L, FEV1/FVC 0.82. Asthma Control Test score 16 (not well controlled). Smoking status: never. Inhaler technique checked: correct."
+    },
+    {
+      "memory_id": "X0587-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levetiracetam 500 mg BD\nlamotrigine 50 mg BD\nsalbutamol metered-dose inhaler SOS\nbudesonide-formoterol 200/6 inhaler BD\nmontelukast 10 mg HS\norlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0587-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium 138 mmol/L (135-145)\nSerum Creatinine 0.88 mg/dL (0.60-1.10)\nFasting Lipid Profile: Total Cholesterol 190 mg/dL (<200), HDL 48 mg/dL (>40), LDL 110 mg/dL (<130), Triglycerides 130 mg/dL (<150)\nFasting Glucose 92 mg/dL (70-99)\nHbA1c 5.4% (4.0-5.6)\nLiver Function Tests: ALT 22 U/L (<35), AST 20 U/L (<40), ALP 78 U/L (40-129), GGT 18 U/L (<51), Bilirubin 0.6 mg/dL (0.2-1.2)"
+    },
+    {
+      "memory_id": "X0587-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "EEG: background activity normal for age. No epileptiform discharges or focal slowing noted. No clinical correlation with recent seizures; study interpreted as normal."
+    },
+    {
+      "memory_id": "X0587-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling tired after my shifts and sometimes my chest feels tight when I climb the bus stairs. I’m worried about gaining more weight."
+    },
+    {
+      "memory_id": "X0587-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient reports no seizures since last visit, mild occasional wheeze after exertion, and weight stable at 88 kg. Asthma symptoms improved; uses salbutamol <2 times/week. Exam: BMI 31.5, BP 122/74, lungs clear. Spirometry: FEV1 2.55 L (87% predicted, +0.25 L from baseline), FVC 2.95 L, FEV1/FVC 0.86. ACT score 22 (well controlled). Smoking status never. Inhaler technique correct."
+    },
+    {
+      "memory_id": "X0587-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levetiracetam 500 mg BD\nlamotrigine 50 mg BD\nsalbutamol metered-dose inhaler SOS\nbudesonide-formoterol 400/12 inhaler BD\nmontelukast 10 mg HS\norlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0587-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium 139 mmol/L (135-145)\nSerum Creatinine 0.90 mg/dL (0.60-1.10)\nFasting Lipid Profile: Total Cholesterol 185 mg/dL, HDL 50 mg/dL, LDL 106 mg/dL, Triglycerides 125 mg/dL\nFasting Glucose 90 mg/dL\nHbA1c 5.3%\nLiver Function Tests: ALT 24 U/L, AST 22 U/L, ALP 80 U/L, GGT 20 U/L, Bilirubin 0.5 mg/dL"
+    },
+    {
+      "memory_id": "X0587-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry with reversibility: Pre‑bronchodilator FEV1 2.55 L (87% predicted), FVC 2.95 L, FEV1/FVC 0.86. Post‑salbutamol FEV1 2.78 L (+0.23 L, 9% increase), FVC 3.10 L. Significant bronchodilator response confirming asthma."
+    },
+    {
+      "memory_id": "X0587-m10",
+      "date": "2025-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-20 at 10:00 for pulmonary review with Dr Suresh Menon."
+    },
+    {
+      "memory_id": "X0587-m11",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient reports seizure‑free for 4 months, asthma well controlled with no night symptoms, and weight down to 84 kg after lifestyle changes. She notes mild abdominal discomfort after meals. Exam: BMI 29.8, BP 118/70, lungs clear. Spirometry: FEV1 2.70 L (92% predicted, +0.15 L from last), FVC 3.20 L, FEV1/FVC 0.84. ACT score 24 (well controlled). Smoking never. Inhaler technique correct."
+    },
+    {
+      "memory_id": "X0587-m12",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levetiracetam 500 mg BD\nlamotrigine 50 mg BD\nsalbutamol metered-dose inhaler SOS\nbudesonide-formoterol 400/12 inhaler BD\nmontelukast 10 mg HS\norlistat stopped"
+    },
+    {
+      "memory_id": "X0587-m13",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium 138 mmol/L\nSerum Creatinine 0.89 mg/dL\nLiver Function Tests: ALT 38 U/L (slightly elevated), AST 34 U/L, ALP 85 U/L, GGT 28 U/L, Bilirubin 0.7 mg/dL\nFasting Glucose 91 mg/dL\nHbA1c 5.2%\nLipid Profile: Total Cholesterol 180 mg/dL, HDL 52 mg/dL, LDL 100 mg/dL, Triglycerides 115 mg/dL"
+    },
+    {
+      "memory_id": "X0587-m14",
+      "date": "2025-10-20",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Gastroenterology for evaluation of mild transaminase elevation, possible NAFLD, given obesity and metabolic risk factors."
+    },
+    {
+      "memory_id": "X0587-m15",
+      "date": "2026-02-15",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Gastroenterology review: ultrasound shows hepatic steatosis, no fibrosis. Advised lifestyle modification, weight control, and repeat LFT in 3 months. No pharmacologic therapy needed at this time."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0279",
+  "name": "Shampa Sen",
+  "age": 68,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Heart failure with reduced ejection fraction",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0279-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Heart failure with reduced ejection fraction.\nThe patient reports exertional dyspnea on walking ~200 m, orthopnea needing two pillows, and occasional paroxysmal nocturnal dyspnea. She denies chest pain. On examination: blood pressure 128/78 mmHg, heart rate 84 bpm regular, jugular venous pressure elevated to 4 cm, bilateral basal crackles, mild pitting edema up to mid‑calf. Smoking status: never smoker. Spirometry not performed as no asthma/COPD."
+    },
+    {
+      "memory_id": "X0279-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Sacubitril/valsartan 24/26 mg tablet BD; Bisoprolol 2.5 mg tablet OD; Spironolactone 25 mg tablet OD; Furosemide 40 mg tablet OD; Dapagliflozin 10 mg tablet OD; Cetirizine 10 mg tablet HS; Fluticasone nasal spray 1 spray each nostril OD; Montelukast 10 mg tablet HS."
+    },
+    {
+      "memory_id": "X0279-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Echocardiogram: LVEF 35% (reference 55‑70%), NYHA class III. Serum potassium 4.2 mmol/L (3.5‑5.0). Serum creatinine 110 µmol/L (60‑110). NT‑proBNP 850 pg/mL (<300). Skin prick test: positive to dust mite and grass pollen. Total serum IgE 120 IU/mL (reference <100)."
+    },
+    {
+      "memory_id": "X0279-m04",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past three weeks I have felt more short‑of‑breath when climbing stairs to my flat and need to sit down after a few steps. My ankles swell by evening and my shoes feel tight. I have been using my inhaler‑like nasal spray as prescribed but still wake up with a blocked nose."
+    },
+    {
+      "memory_id": "X0279-m05",
+      "date": "2025-05-22",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-07-10 09:00 with Dr Suresh Menon for heart failure review."
+    },
+    {
+      "memory_id": "X0279-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Heart failure with reduced ejection fraction, stable.\nThe patient notes decreased dyspnea on exertion – now able to walk ~400 m before resting, orthopnea improved to one pillow, ankle swelling less pronounced. Examination: BP 124/80, HR 78, JVP 2 cm, lungs clear, trace pedal edema. Smoking status: never smoker. Spirometry not performed."
+    },
+    {
+      "memory_id": "X0279-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Sacubitril/valsartan 24/26 mg tablet BD; Bisoprolol 2.5 mg tablet OD; Spironolactone 25 mg tablet OD; Furosemide increased to 60 mg tablet OD; Dapagliflozin 10 mg tablet OD; Cetirizine 10 mg tablet HS; Fluticasone nasal spray 1 spray each nostril OD; Montelukast 10 mg tablet HS."
+    },
+    {
+      "memory_id": "X0279-m08",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Echocardiogram: LVEF 38% (reference 55‑70%), NYHA class II. Serum potassium 4.6 mmol/L (3.5‑5.0). Serum creatinine 105 µmol/L (60‑110). NT‑proBNP 560 pg/mL (<300)."
+    },
+    {
+      "memory_id": "X0279-m09",
+      "date": "2025-08-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Exercise treadmill test: patient walked 6 minutes, achieved 85% of predicted maximal heart rate, no ST‑segment depression, no chest pain or dyspnea beyond expected. Blood pressure response normal. No arrhythmias."
+    },
+    {
+      "memory_id": "X0279-m10",
+      "date": "2025-08-05",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Dr Priya Nair, Cardiologist, Narayana Health, Bengaluru, for evaluation of possible ICD implantation given persistent reduced EF and symptomatic heart failure despite optimal medical therapy. Please review ECG, echo, and labs."
+    },
+    {
+      "memory_id": "X0279-m11",
+      "date": "2025-09-01",
+      "type": "referral_outcome",
+      "author": "lab",
+      "text": "Cardiology opinion: EF 38%, NYHA II, on guideline‑directed medical therapy. No immediate indication for ICD; recommend continuation of current meds, repeat echo in 6 months, and consider CRT if EF remains ≤35% with wide QRS. No further action needed at present."
+    },
+    {
+      "memory_id": "X0279-m12",
+      "date": "2026-03-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original slot 2026-04-01 10:00 moved to 2026-03-20 14:30 with Dr Suresh Menon; patient advised to bring symptom diary. (Note: next routine review scheduled for 2027-01-15.)"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0361",
+  "name": "Latha Warrier",
+  "age": 25,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Generalised anxiety disorder",
+    "Insomnia",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0361-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: initial assessment of anxiety, insomnia and newly diagnosed hypothyroidism.\nPRESENTING COMPLAINT: 25‑year‑old female vegetable vendor reports persistent worry, difficulty falling asleep, fatigue and cold intolerance for 3 months.\nEXAMINATION: BP 118/72 mmHg, weight 58 kg, height 158 cm, BMI 23.2 (overweight). Pulse regular, thyroid not enlarged, no tremor.\nIMPRESSION: Generalised anxiety disorder (GAD‑7 12), insomnia (ISI 14), subclinical hypothyroidism (TSH 6.2 mIU/L, free T4 11.2 pmol/L). Haemoglobin 13.4 g/dL normal.\nARRANGEMENTS: Start escitalopram 5 mg OD, buspirone 5 mg BD, melatonin 3 mg HS, trazodone 50 mg HS, levothyroxine 50 mcg OD. Order fasting TSH, free T4, haemoglobin, GAD‑7, ISI. Return if chest pain, breathlessness, fever >39°C, suicidal thoughts, or worsening insomnia."
+    },
+    {
+      "memory_id": "X0361-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 6.2 mIU/L (0.4‑4.0), free T4 11.2 pmol/L (9.0‑17.0), haemoglobin 13.4 g/dL (12.0‑15.5), GAD‑7 score 12 (0‑21), Insomnia Severity Index score 14 (0‑28)."
+    },
+    {
+      "memory_id": "X0361-m03",
+      "date": "2025-05-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of initial treatment and symptom response.\nPRESENTING COMPLAINT: Patient says anxiety somewhat better, sleep onset improved but still wakes 2‑3 times nightly, fatigue persists.\nEXAMINATION: BP 120/74 mmHg, weight 58.5 kg, BMI 23.4 (overweight). No goiter, skin dry.\nIMPRESSION: Partial response to escitalopram and buspirone; insomnia improving with melatonin/trazodone; levothyroxine 50 mcg OD insufficient as TSH remains elevated.\nARRANGEMENTS: Increase levothyroxine to 75 mcg OD. Continue current psych meds. Repeat TSH and free T4 in 6 weeks. Advise balanced diet, regular walks. Return if palpitations, heat intolerance, worsening anxiety, or new depressive symptoms."
+    },
+    {
+      "memory_id": "X0361-m04",
+      "date": "2025-05-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (0.4‑4.0) borderline high, free T4 12.8 pmol/L (9.0‑17.0), haemoglobin 13.5 g/dL."
+    },
+    {
+      "memory_id": "X0361-m05",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 3‑month follow‑up of anxiety, insomnia and thyroid replacement.\nPRESENTING COMPLAINT: Reports feeling calmer, sleep latency <20 min, occasional early morning awakening; energy improved.\nEXAMINATION: BP 119/71 mmHg, weight 59 kg, BMI 23.6 (overweight). No thyroid enlargement.\nIMPRESSION: Anxiety well controlled (GAD‑7 8), insomnia mild (ISI 9), TSH 3.8 mIU/L now within target, free T4 13.0 pmol/L.\nARRANGEMENTS: Continue escitalopram 5 mg OD, buspirone 5 mg BD, melatonin 3 mg HS, trazodone 50 mg HS, levothyroxine 75 mcg OD. Reinforce diet and activity advice due to BMI ≥23. Return if weight gain >2 kg/month, palpitations, worsening mood, or severe insomnia."
+    },
+    {
+      "memory_id": "X0361-m06",
+      "date": "2025-08-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 3.8 mIU/L (0.4‑4.0), free T4 13.0 pmol/L (9.0‑17.0), haemoglobin 13.6 g/dL."
+    },
+    {
+      "memory_id": "X0361-m07",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: autumn review and influenza vaccination.\nPRESENTING COMPLAINT: Patient notes slight increase in worry over work, sleep still good, no cold intolerance.\nEXAMINATION: BP 122/73 mmHg, weight 60 kg, BMI 24.0 (overweight). No thyroid nodule.\nIMPRESSION: GAD‑7 10 (moderate anxiety), ISI 8 (mild insomnia), euthyroid on levothyroxine 75 mcg OD (TSH 3.2).\nARRANGEMENTS: Increase escitalopram to 10 mg OD for better anxiety control. Continue buspirone 5 mg BD, melatonin 3 mg HS, trazodone 50 mg HS, levothyroxine 75 mcg OD. Give inactivated influenza vaccine today (05‑Nov‑2025). Advise diet, regular aerobic activity. Return if chest pain, dyspnoea, fever >39°C, suicidal ideation, or severe insomnia."
+    },
+    {
+      "memory_id": "X0361-m08",
+      "date": "2025-11-07",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg OD\nBuspirone 5 mg BD\nMelatonin 3 mg HS\nTrazodone 50 mg HS\nLevothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0361-m09",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: winter follow‑up.\nPRESENTING COMPLAINT: Reports stable mood, sleep 6‑7 hours nightly, occasional fatigue after long work hours.\nEXAMINATION: BP 121/72 mmHg, weight 60.5 kg, BMI 24.2 (overweight). No goiter.\nIMPRESSION: Anxiety controlled (GAD‑7 7), insomnia mild (ISI 7), thyroid euthyroid (TSH 2.9, free T4 13.5).\nARRANGEMENTS: Continue current meds. Reinforce balanced diet, modest calorie reduction, and brisk walking 30 min daily. Return if new palpitations, heat intolerance, worsening anxiety/depression, or bleeding."
+    },
+    {
+      "memory_id": "X0361-m10",
+      "date": "2026-02-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.9 mIU/L (0.4‑4.0), free T4 13.5 pmol/L (9.0‑17.0), haemoglobin 13.4 g/dL."
+    },
+    {
+      "memory_id": "X0361-m11",
+      "date": "2026-05-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 10‑May‑2026 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0361-m12",
+      "date": "2026-08-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: mid‑year review.\nPRESENTING COMPLAINT: Patient notes modest weight gain, feels more tired, sleep unchanged.\nEXAMINATION: BP 124/75 mmHg, weight 62 kg, height 158 cm, BMI 24.8 (overweight, approaching obesity). No thyroid enlargement.\nIMPRESSION: GAD‑7 9, ISI 9, TSH 4.5 mIU/L slightly high, free T4 12.0 pmol/L low‑normal.\nARRANGEMENTS: Increase levothyroxine to 100 mcg OD. Continue escitalopram 10 mg OD, buspirone 5 mg BD, melatonin 3 mg HS, trazodone 50 mg HS. Advise dietary review, reduce refined carbs, increase activity. Return if palpitations, heat intolerance, worsening mood, or severe insomnia."
+    },
+    {
+      "memory_id": "X0361-m13",
+      "date": "2026-08-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.5 mIU/L (0.4‑4.0), free T4 12.0 pmol/L (9.0‑17.0), haemoglobin 13.5 g/dL."
+    },
+    {
+      "memory_id": "X0361-m14",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review after thyroid dose change and pre‑winter.\nPRESENTING COMPLAINT: Reports improved energy, sleep 7 hours, anxiety stable.\nEXAMINATION: BP 122/73 mmHg, weight 61.5 kg, BMI 24.6 (overweight). No thyroid enlargement.\nIMPRESSION: Anxiety controlled (GAD‑7 8), insomnia mild (ISI 8), TSH now 2.8 mIU/L, free T4 13.2 pmol/L – euthyroid.\nARRANGEMENTS: Continue escitalopram 10 mg OD, buspirone 5 mg BD, melatonin 3 mg HS, trazodone 50 mg HS, levothyroxine 100 mcg OD. Influenza vaccine due next autumn; remind patient. Return if chest pain, breathlessness, fever >39°C, suicidal thoughts, or severe insomnia."
+    }
+  ]
+}

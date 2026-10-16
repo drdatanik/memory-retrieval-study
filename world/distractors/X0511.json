@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0511",
+  "name": "Ravichandran Pandian",
+  "age": 84,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Obesity",
+    "Epilepsy",
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0511-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity, epilepsy, and gout are stable.\nPatient reports good seizure control on levetiracetam and lamotrigine, no recent gout flares, and attempts at dietary weight management. Examination shows BMI 32 kg/m2, waist circumference 108 cm, blood pressure 138/86 mmHg, lungs clear, no joint tenderness or swelling. Smoking status: former, quit 2010, pack-years 20."
+    },
+    {
+      "memory_id": "X0511-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg with each main meal\nLevetiracetam 500 mg twice daily\nLamotrigine 50 mg twice daily\nAllopurinol 100 mg once daily"
+    },
+    {
+      "memory_id": "X0511-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 98 mg/dL (70-99)\nHbA1c 5.8% (4-5.6)\nTotal cholesterol 210 mg/dL (<200)\nTriglycerides 165 mg/dL (<150)\nHDL 38 mg/dL (>40)\nLDL 124 mg/dL (<100)\nALT 28 U/L (7-56)\nAST 24 U/L (10-40)\nSerum uric acid 7.2 mg/dL (3.5-7.2)\nSerum creatinine 1.0 mg/dL (0.6-1.2)\nSerum sodium 139 mmol/L (135-145)"
+    },
+    {
+      "memory_id": "X0511-m04",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking my medicines as prescribed. My weight is around 92 kg. I have not had any seizures in the past month. My big toe felt a bit sore last week but it resolved without colchicine."
+    },
+    {
+      "memory_id": "X0511-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity uncontrolled, epilepsy well controlled, gout asymptomatic.\nPatient notes increased appetite and mild weight gain; reports no seizures; denies gout pain. Exam: weight 95 kg, BMI 33, waist 112 cm, lungs clear, no joint erythema. Smoking status: former, quit 2010, pack-years 20."
+    },
+    {
+      "memory_id": "X0511-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg with each main meal (continue)\nLevetiracetam 750 mg twice daily (increased from 500 mg)\nLamotrigine 50 mg twice daily\nAllopurinol 100 mg once daily"
+    },
+    {
+      "memory_id": "X0511-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 102 mg/dL (70-99)\nHbA1c 6.0% (4-5.6)\nTotal cholesterol 218 mg/dL\nTriglycerides 172 mg/dL\nHDL 36 mg/dL\nLDL 130 mg/dL\nALT 30 U/L\nAST 26 U/L\nSerum uric acid 6.8 mg/dL\nSerum creatinine 1.1 mg/dL\nSerum sodium 138 mmol/L"
+    },
+    {
+      "memory_id": "X0511-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Acute gout flare in first metatarsophalangeal joint, obesity unchanged, epilepsy stable.\nPatient reports severe pain and swelling in right big toe for 2 days, unable to wear shoe. No new seizures. Exam: erythema, warmth, limited motion of right MTP joint; BMI 33, waist 112 cm. Smoking status: former, quit 2010, pack-years 20."
+    },
+    {
+      "memory_id": "X0511-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Colchicine 0.5 mg twice daily for 3 days\nAllopurinol 100 mg once daily (continue)\nLevetiracetam 750 mg twice daily\nLamotrigine 50 mg twice daily\nOrlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0511-m10",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 8.4 mg/dL (3.5-7.2)\nSerum creatinine 1.1 mg/dL\nFasting glucose 101 mg/dL\nHbA1c 6.0%\nALT 29 U/L\nAST 25 U/L"
+    },
+    {
+      "memory_id": "X0511-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity persisting, epilepsy well controlled, gout resolved after flare.\nPatient reports weight stable at 94 kg, no seizures, no gout symptoms since completing colchicine. Exam: BMI 32.5, waist 110 cm, lungs clear, no joint tenderness. Smoking status: former, quit 2010, pack-years 20."
+    },
+    {
+      "memory_id": "X0511-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat discontinued due to GI intolerance\nFebuxostat 40 mg once daily (started)\nLevetiracetam 750 mg twice daily\nLamotrigine 50 mg twice daily"
+    },
+    {
+      "memory_id": "X0511-m13",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 205 mg/dL, Triglycerides 158 mg/dL, HDL 39 mg/dL, LDL 118 mg/dL\nLiver function: ALT 22 U/L, AST 20 U/L\nFasting glucose 99 mg/dL\nHbA1c 5.9%\nSerum uric acid 6.2 mg/dL\nSerum creatinine 1.0 mg/dL\nSerum sodium 139 mmol/L"
+    },
+    {
+      "memory_id": "X0511-m14",
+      "date": "2026-04-20",
+      "type": "investigation",
+      "author": "D05",
+      "text": "EEG: Background activity normal for age, no epileptiform discharges, no focal slowing. Interpretation: No evidence of epileptogenic activity; stable epilepsy."
+    },
+    {
+      "memory_id": "X0511-m15",
+      "date": "2026-04-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have not had any seizures since my medication change. My feet feel fine, no gout pain. I have been walking more and my weight is about 93 kg."
+    },
+    {
+      "memory_id": "X0511-m16",
+      "date": "2026-08-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up pulmonology appointment booked for 2026-10-10 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0511-m17",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity mild, epilepsy well controlled, gout asymptomatic.\nPatient reports weight 93 kg, BMI 31.8, waist 106 cm, no seizures, no gout flares. Exam: lungs clear, cardiovascular normal, joints non‑tender. Smoking status: former, quit 2010, pack-years 20. Spirometry not performed as no obstructive airway disease."
+    }
+  ]
+}

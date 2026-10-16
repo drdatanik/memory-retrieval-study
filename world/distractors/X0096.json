@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0096",
+  "name": "Pravin Ghorpade",
+  "age": 67,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Type 2 diabetes",
+    "Insomnia",
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0096-m01",
+      "date": "2025-04-02",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Allergy: penicillin – rash and pruritus noted after amoxicillin course for sinusitis two years ago. Avoid all beta-lactam antibiotics."
+    },
+    {
+      "memory_id": "X0096-m02",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks to bus stop, manages own medication.\ncognition: Mini-Cog score 3/5, no impairment noted.\nfalls: No falls in past 12 months; gait steady; timed up-and-go 10 seconds (normal).\nmedicines: 10 regular (metformin 500 mg BD, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD, melatonin 3 mg HS, trazodone 50 mg HS, telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD). Five or more is polypharmacy – request review against Beers criteria.\nmood: Denies low mood or anxiety; PHQ-2 not performed today.\ncarers: Priya Kulkarni, spouse.\ngoal: \"I want to stay active enough to drive my school bus and enjoy time with my grandchildren.\""
+    },
+    {
+      "memory_id": "X0096-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (target <7.0). Fasting plasma glucose 146 mg/dL (70-110). Urine albumin-creatinine ratio 45 mg/g (<30). Serum creatinine 1.3 mg/dL (0.6-1.2). eGFR 52 mL/min/1.73m2 (>60). Haemoglobin 13.8 g/dL (13-17). TSH 2.1 µIU/mL (0.4-4.0)."
+    },
+    {
+      "memory_id": "X0096-m04",
+      "date": "2025-05-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Metformin increased to 500 mg TID (from BD). Glimepiride unchanged. Sitagliptin unchanged. Empagliflozin unchanged."
+    },
+    {
+      "memory_id": "X0096-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent; reports mild fatigue after long bus routes.\ncognition: Mini-Cog not repeated (annual due next April).\nfalls: No falls; gait slightly slower; timed up-and-go 11 seconds (borderline).\nmedicines: 10 regular (metformin 500 mg TID, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD, melatonin 3 mg HS, trazodone 50 mg HS, telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD). Polypharmacy – medication review pending.\nmood: Reports occasional low mood; denies suicidal ideation.\ncarers: Priya Kulkarni, spouse.\ngoal: \"I would like to reduce tiredness so I can finish my routes without needing naps.\""
+    },
+    {
+      "memory_id": "X0096-m06",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.5% (down from 7.8). Fasting plasma glucose 132 mg/dL. Urine albumin-creatinine ratio 38 mg/g (improving). Serum creatinine 1.28 mg/dL. eGFR 55 mL/min/1.73m2. Haemoglobin 13.6 g/dL."
+    },
+    {
+      "memory_id": "X0096-m07",
+      "date": "2025-09-01",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Dr Srinivasan, Ophthalmology, for dilated fundus exam to assess diabetic retinopathy. Patient advised to attend within 4 weeks."
+    },
+    {
+      "memory_id": "X0096-m08",
+      "date": "2025-10-15",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Ophthalmology report: Mild non-proliferative diabetic retinopathy, no macular edema. Recommend annual retinal review. Glycaemic control to be optimised."
+    },
+    {
+      "memory_id": "X0096-m09",
+      "date": "2025-11-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for Dr Nandini Kulkarni on 2026-02-05 at 10:30 AM for routine geriatric review."
+    },
+    {
+      "memory_id": "X0096-m10",
+      "date": "2026-02-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages bus route but notes needing rest after shift; uses walking aid occasionally for knee discomfort.\ncognition: Mini-Cog score 4/5 (annual screen), negative.\nfalls: One fall in kitchen 3 months ago (slipped on water), no injury; gait cautious; timed up-and-go 13 seconds (raised fall risk). Plan: home safety review, strength exercises, supportive footwear.\nmedicines: 10 regular (metformin 500 mg TID, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD, melatonin 3 mg HS, trazodone 50 mg HS, telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD). Polypharmacy – medication review scheduled.\nmood: Reports improved sleep; denies depression.\ncarers: Priya Kulkarni, spouse.\ngoal: \"I want to stay steady on my feet and avoid any more falls.\""
+    },
+    {
+      "memory_id": "X0096-m11",
+      "date": "2026-03-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2% (target <7.0). Fasting plasma glucose 124 mg/dL. Urine albumin-creatinine ratio 32 mg/g. Serum creatinine 1.25 mg/dL. eGFR 57 mL/min/1.73m2. Haemoglobin 13.5 g/dL."
+    },
+    {
+      "memory_id": "X0096-m12",
+      "date": "2026-04-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Glimepiride stopped due to hypoglycemic episodes (two events with symptomatic low glucose). All other medications continued unchanged."
+    },
+    {
+      "memory_id": "X0096-m13",
+      "date": "2026-06-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Bus driving tolerated with occasional shortness of breath on inclines; uses inhaler as needed for mild wheeze.\ncognition: Mini-Cog not due yet.\nfalls: No further falls; gait steady; timed up-and-go 12 seconds (borderline raised risk). Continue exercise and footwear advice.\nmedicines: 9 regular (metformin 500 mg TID, sitagliptin 100 mg OD, empagliflozin 10 mg OD, melatonin 3 mg HS, trazodone 50 mg HS, telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD). Polypharmacy – review pending.\nmood: Reports occasional anxiety about bus schedule; denies depression.\ncarers: Priya Kulkarni, spouse.\ngoal: \"I hope to keep my breath steady so I can finish routes without stopping.\""
+    },
+    {
+      "memory_id": "X0096-m14",
+      "date": "2026-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.0% (at target). Fasting plasma glucose 115 mg/dL. Urine albumin-creatinine ratio 28 mg/g (normal). Serum creatinine 1.22 mg/dL. eGFR 60 mL/min/1.73m2. Haemoglobin 13.7 g/dL."
+    },
+    {
+      "memory_id": "X0096-m15",
+      "date": "2026-08-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Resting ECG: Normal sinus rhythm, rate 78 bpm. No ST-T changes, no Q waves. Left ventricular voltage within normal limits. No arrhythmia detected."
+    },
+    {
+      "memory_id": "X0096-m16",
+      "date": "2026-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I’ve been waking up at 3 am most nights and can’t get back to sleep. The melatonin isn’t helping as much; I feel tired during my morning shift.\""
+    },
+    {
+      "memory_id": "X0096-m17",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports improved energy after adjusting sleep regimen; bus routes completed without rest.\ncognition: Mini-Cog score 3/5 (annual), negative.\nfalls: No falls in past year; gait normal; timed up-and-go 10 seconds (normal).\nmedicines: 9 regular (metformin 500 mg TID, sitagliptin 100 mg OD, empagliflozin 10 mg OD, melatonin 3 mg HS, trazodone 50 mg HS, telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD). Polypharmacy – medication review completed, no Beers‑inappropriate drugs.\nmood: Denies low mood; anxiety improved with sleep hygiene.\ncarers: Priya Kulkarni, spouse.\ngoal: \"I want to keep sleeping well and stay active for my family.\""
+    },
+    {
+      "memory_id": "X0096-m18",
+      "date": "2026-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: moved from 2026-10-05 10:30 AM to 2026-10-12 2:00 PM with Dr Nandini Kulkarni for medication review."
+    }
+  ]
+}

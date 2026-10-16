@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0558",
+  "name": "Indu Kaimal",
+  "age": 22,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Gastro-oesophageal reflux",
+    "Allergic rhinitis",
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0558-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "GORD: heartburn post meals, no alarm symptoms. Status: mild, intermittent. Plan: lifestyle advice, start pantoprazole 40 mg OD before breakfast, antacid gel SOS, domperidone 10 mg BD before meals. Allergic rhinitis: sneezing, nasal congestion worse mornings. Status: moderate. Plan: start cetirizine 10 mg HS, fluticasone nasal spray 1 spray each nostril OD, montelukast 10 mg HS. GAD: worry, restlessness, GAD-7 10. Status: mild‑moderate. Plan: start escitalopram 5 mg OD, buspirone 5 mg BD. Weight 55 kg, waist 78 cm (female cut‑off 80 cm). Diet: small frequent meals, avoid spicy/fatty foods, limit caffeine. Due: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0558-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pantoprazole 40 mg OD before breakfast\\nantacid gel SOS\\ndomperidone 10 mg BD before meals\\ncetirizine 10 mg HS\\nfluticasone nasal spray 1 spray each nostril OD\\nmontelukast 10 mg HS\\nescitalopram 5 mg OD\\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0558-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.6% (4.0-5.6)\\nTSH 4.2 µIU/mL (0.4-4.0)\\nFree T4 12.5 pmol/L (12-22)\\nLipid profile: Cholesterol 165 mg/dL (<200), HDL 55 mg/dL (>45), LDL 95 mg/dL (<130), TG 80 mg/dL (<150)\\nTotal serum IgE 120 IU/mL (<100)\\nH. pylori stool antigen: Negative\\nHaemoglobin 13.2 g/dL (12-16)"
+    },
+    {
+      "memory_id": "X0558-m04",
+      "date": "2025-06-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been taking the pantoprazole each morning and the domperidone before lunch and dinner. Heartburn is better but I still get a sour taste at night. The cetirizine makes me a bit sleepy in the morning, so I’ve shifted it to after dinner. The nasal spray helps with congestion. Escitalopram 5 mg makes me feel a little less anxious, but I still have occasional panic thoughts before work deadlines."
+    },
+    {
+      "memory_id": "X0558-m05",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "GORD: occasional nocturnal heartburn, improved. Status: mild. Plan: continue pantoprazole, consider raising to 40 mg BD if symptoms persist. Allergic rhinitis: nasal congestion better, occasional sneezing. Status: mild‑moderate. Plan: continue cetirizine HS, fluticasone OD, consider adding montelukast if needed. GAD: GAD-7 8, reports occasional worry. Status: improved. Plan: increase escitalopram to 10 mg OD, continue buspirone 5 mg BD. Weight 56 kg, waist 80 cm (at cut‑off). Diet: avoid late‑night meals, increase fibre. Due: HbA1c 2025-10-05, TSH repeat 2025-08-12 (levothyroxine not started yet)."
+    },
+    {
+      "memory_id": "X0558-m06",
+      "date": "2025-07-08",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pantoprazole 40 mg OD before breakfast\\nantacid gel SOS\\ndomperidone 10 mg BD before meals\\ncetirizine 10 mg HS\\nfluticasone nasal spray 1 spray each nostril OD\\nmontelukast 10 mg HS\\nescitalopram 10 mg OD\\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0558-m07",
+      "date": "2025-08-12",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG: sinus rhythm 78 bpm, no ST‑T changes, normal intervals. No evidence of ischemia or arrhythmia. Interpretation: normal study. No cardiac contraindication to continue current psychotropic medications."
+    },
+    {
+      "memory_id": "X0558-m08",
+      "date": "2025-09-01",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referred to Dr. S. Rao, Gastroenterology, Vikram Hospital, for evaluation of refractory GERD symptoms despite PPI trial. Patient reports nocturnal heartburn and occasional regurgitation. Request upper GI endoscopy to rule out erosive esophagitis or Barrett’s epithelium. Also assess for possible hiatal hernia. Please share findings and recommendations."
+    },
+    {
+      "memory_id": "X0558-m09",
+      "date": "2025-09-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Gastroenterology report: Endoscopy shows Los Angeles grade A reflux esophagitis, no Barrett’s metaplasia. Hiatal hernia 2 cm. Advised to continue PPI, consider lifestyle modifications, and repeat endoscopy in 1 year if symptoms persist. No Helicobacter pylori detected. Returned to primary care for ongoing management."
+    },
+    {
+      "memory_id": "X0558-m10",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "GORD: heartburn now 1‑2 times/week, mostly after large meals. Status: mild. Plan: continue pantoprazole 40 mg OD, add domperidone only if bloating persists. Allergic rhinitis: symptoms well controlled, occasional morning sneeze. Status: mild. Plan: continue cetirizine HS, fluticasone OD, montelukast HS. GAD: GAD-7 6, reports feeling calmer. Status: improved. Plan: keep escitalopram 10 mg OD, buspirone 5 mg BD. Weight 57 kg, waist 81 cm (slightly above female cut‑off). Diet: reduce refined carbs, increase protein, avoid late night snacks. Due: HbA1c 2026-01-05, lipid profile 2026-04-05, TSH yearly 2026-09-05."
+    },
+    {
+      "memory_id": "X0558-m11",
+      "date": "2025-10-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pantoprazole 40 mg OD before breakfast\\nantacid gel SOS\\ndomperidone 10 mg BD before meals\\ncetirizine 10 mg HS\\nfluticasone nasal spray 1 spray each nostril OD\\nmontelukast 10 mg HS\\nescitalopram 10 mg OD\\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0558-m12",
+      "date": "2025-11-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original visit scheduled for 2025-12-05 moved to 2025-12-03 at 10:30 AM with Dr. Karthik Hegde (D04) for routine follow‑up. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0558-m13",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "GORD: no heartburn for past 3 weeks, occasional mild dyspepsia after fatty food. Status: well controlled. Plan: continue pantoprazole 40 mg OD, stop domperidone (use antacid gel SOS only). Allergic rhinitis: asymptomatic most days, occasional itchy eyes. Status: well controlled. Plan: continue cetirizine HS, fluticasone OD, consider tapering montelukast if symptom‑free for 1 month. GAD: GAD-7 4, reports occasional stress but manageable. Status: good. Plan: continue escitalopram 10 mg OD, buspirone 5 mg BD. Weight 58 kg, waist 82 cm. Diet: maintain balanced meals, limit fried foods, walk 30 min daily. Due: HbA1c 2026-03-05, lipid profile 2026-06-05, TSH 2026-09-05."
+    },
+    {
+      "memory_id": "X0558-m14",
+      "date": "2025-12-08",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pantoprazole 40 mg OD before breakfast\\nantacid gel SOS\\ncetirizine 10 mg HS\\nfluticasone nasal spray 1 spray each nostril OD\\nmontelukast 10 mg HS\\nescitalopram 10 mg OD\\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0558-m15",
+      "date": "2026-02-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.5% (4.0-5.6)\\nTSH 3.8 µIU/mL (0.4-4.0)\\nFree T4 13.0 pmol/L (12-22)\\nLipid profile: Cholesterol 160 mg/dL (<200), HDL 58 mg/dL (>45), LDL 92 mg/dL (<130), TG 78 mg/dL (<150)\\nTotal serum IgE 110 IU/mL (<100)\\nHaemoglobin 13.0 g/dL (12-16)"
+    },
+    {
+      "memory_id": "X0558-m16",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "GORD: symptom‑free, no reflux episodes. Status: remission. Plan: continue pantoprazole 20 mg OD (step‑down) before breakfast, antacid gel SOS. Allergic rhinitis: no nasal congestion, occasional sneeze on pollen days. Status: well controlled. Plan: continue cetirizine HS, fluticasone OD, stop montelukast (trial off). GAD: GAD-7 3, feels relaxed. Status: stable. Plan: continue escitalopram 10 mg OD, buspirone 5 mg BD. Weight 59 kg, waist 83 cm. Diet: maintain Mediterranean pattern, avoid late meals, regular exercise. Due: HbA1c 2026-07-05, lipid profile 2026-10-05, TSH yearly 2026-09-05."
+    },
+    {
+      "memory_id": "X0558-m17",
+      "date": "2026-10-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pantoprazole 20 mg OD before breakfast\\nantacid gel SOS\\ncetirizine 10 mg HS\\nfluticasone nasal spray 1 spray each nostril OD\\nescitalopram 10 mg OD\\nbuspirone 5 mg BD"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0098",
+  "name": "Geeta Kapoor",
+  "age": 65,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Migraine",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0098-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: Prophylaxis with propranolol 40 mg OD, acute sumatriptan 50 mg SOS, topiramate 25 mg HS, naproxen 500 mg SOS SOS.\n  - Plan: Continue current migraine regimen; counsel on trigger avoidance.\n- Rheumatoid arthritis\n  - Status: On methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. No active joint swelling reported.\n  - Plan: Baseline labs (ESR, CRP, RF, anti-CCP, LFT). Weight 68 kg, waist 88 cm (female cut‑off 80 cm). Diet advice: Breakfast – high‑protein, low‑glycaemic; Lunch – mixed vegetables with lean protein; Dinner – light, early. Review in 8 weeks.\nDue: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0098-m02",
+      "date": "2025-04-07",
+      "type": "allergy",
+      "author": "patient",
+      "text": "Patient reports mild itchy rash after taking penicillin for a dental infection 2 years ago; rash resolved with antihistamine. No anaphylaxis."
+    },
+    {
+      "memory_id": "X0098-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 22 mm/hr (0-20), CRP 6 mg/L (<5), RF positive 45 IU/mL (<14), anti‑CCP 68 U/mL (<20), ALT 38 U/L (7-56), AST 34 U/L (8-48), ALKP 92 U/L (40-129), GGT 31 U/L (<51), total bilirubin 0.9 mg/dL (0.2-1.2). HbA1c 5.8% (4-5.6)."
+    },
+    {
+      "memory_id": "X0098-m04",
+      "date": "2025-05-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methotrexate 7.5 mg once weekly (reduce from 10 mg due to borderline LFT), Folic acid 5 mg once weekly, Hydroxychloroquine 200 mg OD, Prednisolone 5 mg OD, Propranolol 40 mg OD, Sumatriptan 50 mg SOS, Topiramate 25 mg HS, Naproxen 500 mg SOS."
+    },
+    {
+      "memory_id": "X0098-m05",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: Headache frequency down to 2 days/month on current regimen.\n  - Plan: Continue propranolol 40 mg OD; review need for topiramate if drowsiness.\n- Rheumatoid arthritis\n  - Status: Mild morning stiffness <30 min, no new swelling.\n  - Plan: Continue methotrexate 7.5 mg weekly, folic acid, HCQ, prednisolone 5 mg OD. Weight 67.5 kg, waist 86 cm (still >80). Diet advice: Breakfast – oats with nuts; Lunch – dal‑rice with veg; Dinner – soup + salad. Review labs.\nDue: HbA1c 2025-10-01."
+    },
+    {
+      "memory_id": "X0098-m06",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 18 mm/hr (0-20), CRP 4 mg/L (<5), RF 42 IU/mL, anti‑CCP 65 U/mL, ALT 30 U/L, AST 28 U/L, ALKP 88 U/L, GGT 29 U/L, bilirubin 0.8 mg/dL. HbA1c 5.7%."
+    },
+    {
+      "memory_id": "X0098-m07",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Hand X‑ray (both): No overt erosions; mild joint space narrowing at MCP2‑3 bilaterally. Soft tissue swelling absent."
+    },
+    {
+      "memory_id": "X0098-m08",
+      "date": "2025-09-15",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dr. S. Rao, Rheumatology, Victoria Hospital, Bengaluru. Reason: Consideration of biologic therapy if disease activity worsens; current DMARDs tolerated. Attach recent labs and X‑ray."
+    },
+    {
+      "memory_id": "X0098-m09",
+      "date": "2025-10-10",
+      "type": "referral_outcome",
+      "author": "patient",
+      "text": "Rheumatologist advice: Continue methotrexate 7.5 mg weekly, folic acid, HCQ 200 mg OD, prednisolone 5 mg OD. No biologic needed at present. Re‑evaluate ESR/CRP in 3 months. Return to endocrinology for routine follow‑up."
+    },
+    {
+      "memory_id": "X0098-m10",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: Well controlled, 1‑2 mild episodes/month.\n  - Plan: Continue propranolol 40 mg OD; consider tapering topiramate if fatigue.\n- Rheumatoid arthritis\n  - Status: No active synovitis, patient reports good functional ability.\n  - Plan: Continue current DMARDs; weight 66 kg, waist 84 cm (still >80). Diet advice: Breakfast – idli with sambar; Lunch – roti‑subzi; Dinner – khichdi + yogurt. Review in 3 months.\nDue: HbA1c 2026-03-01."
+    },
+    {
+      "memory_id": "X0098-m11",
+      "date": "2025-12-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.6% (4-5.6), LDL 92 mg/dL (<100), HDL 48 mg/dL (>40), TG 110 mg/dL (<150), ESR 16 mm/hr, CRP 3 mg/L, LFT normal."
+    },
+    {
+      "memory_id": "X0098-m12",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: Slight increase to 3 days/month, reports stress.\n  - Plan: Increase propranolol to 60 mg OD; continue sumatriptan SOS; reinforce stress‑management.\n- Rheumatoid arthritis\n  - Status: Mild flare – wrist pain, morning stiffness 45 min.\n  - Plan: Add short course prednisolone 10 mg OD for 5 days, then taper to 5 mg OD. Continue methotrexate 7.5 mg weekly, folic acid, HCQ. Weight 66.5 kg, waist 85 cm. Diet advice: Breakfast – poha with peanuts; Lunch – vegetable pulao; Dinner – grilled fish + salad.\nDue: HbA1c 2026-07-05."
+    },
+    {
+      "memory_id": "X0098-m13",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 60 mg OD (increase from 40 mg), Sumatriptan 50 mg SOS, Topiramate 25 mg HS, Naproxen 500 mg SOS, Methotrexate 7.5 mg weekly, Folic acid 5 mg weekly, Hydroxychloroquine 200 mg OD, Prednisolone 5 mg OD."
+    }
+  ]
+}

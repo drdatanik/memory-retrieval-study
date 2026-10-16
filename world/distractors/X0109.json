@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0109",
+  "name": "Gurdeep Bajwa",
+  "age": 28,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Asthma",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0109-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: asthma symptoms and elevated blood sugar.\nPRESENTING COMPLAINT: The patient reports wheezing on exertion for 2 weeks, occasional nighttime cough, and increased thirst with frequent urination.\nEXAMINATION: BP 122/78 mmHg, weight 62 kg, height 158 cm, BMI 24.8 (overweight). Respiratory exam shows bilateral wheezes. Cardiovascular exam normal. Random glucose 168 mg/dL.\nIMPRESSION: Uncontrolled asthma and newly diagnosed type 2 diabetes mellitus. Need to assess lung function and glycemic control.\nARRANGEMENTS: Start salbutamol MDI SOS, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS. Initiate metformin 500 mg BD, glimepiride 1 mg OD before breakfast, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Order spirometry with reversibility, Asthma Control Test, HbA1c, fasting plasma glucose, urine albumin-creatinine ratio. Advise on diet and activity due to BMI ≥23. Return if: worsening wheeze, night symptoms, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0109-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Salbutamol metered-dose inhaler 2 puffs SOS\nBudesonide-formoterol 200/6 mcg inhaler 2 puffs BD\nMontelukast sodium 10 mg tablet HS\nMetformin hydrochloride 500 mg tablet BD\nGlimepiride 1 mg tablet OD before breakfast\nSitagliptin 100 mg tablet OD\nEmpagliflozin 10 mg tablet OD"
+    },
+    {
+      "memory_id": "X0109-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8%\nFasting plasma glucose 146 mg/dL\nUrine albumin-creatinine ratio 22 mg/g (normal <30)"
+    },
+    {
+      "memory_id": "X0109-m04",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry: FEV1 2.1 L (68% predicted), FVC 2.8 L (82% predicted), FEV1/FVC 0.75. Post-bronchodilator FEV1 2.4 L (78% predicted) showing 14% reversibility. Asthma Control Test score 18 (poor control)."
+    },
+    {
+      "memory_id": "X0109-m05",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow-up of asthma and diabetes.\nPRESENTING COMPLAINT: Patient reports improved daytime wheeze, still uses salbutamol 2-3 times weekly, no nighttime symptoms. Thirst and polyuria reduced.\nEXAMINATION: BP 118/76 mmHg, weight 61 kg, height 158 cm, BMI 24.4 (overweight). Lungs clear to auscultation. No pedal edema.\nIMPRESSION: Asthma partially controlled; diabetes with HbA1c 7.8% and fasting glucose 146 mg/dL. Consider intensifying glycemic therapy.\nARRANGEMENTS: Continue current asthma regimen. Increase metformin to 500 mg TDS, add glimepiride 1 mg OD (already on), consider adding sitagliptin if needed. Reinforce inhaler technique. Order repeat HbA1c, fasting glucose, urine ACR in 2 months. Advise diet and activity due to BMI ≥23. Return if: worsening wheeze, night symptoms, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0109-m06",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Salbutamol metered-dose inhaler 2 puffs SOS\nBudesonide-formoterol 200/6 mcg inhaler 2 puffs BD\nMontelukast sodium 10 mg tablet HS\nMetformin hydrochloride 500 mg tablet TDS\nGlimepiride 1 mg tablet OD before breakfast\nSitagliptin 100 mg tablet OD\nEmpagliflozin 10 mg tablet OD"
+    },
+    {
+      "memory_id": "X0109-m07",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2%\nFasting plasma glucose 128 mg/dL\nUrine albumin-creatinine ratio 18 mg/g"
+    },
+    {
+      "memory_id": "X0109-m08",
+      "date": "2025-10-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Dilated fundus exam: No microaneurysms, hemorrhages, or exudates. Macula normal. No signs of diabetic retinopathy."
+    },
+    {
+      "memory_id": "X0109-m09",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of asthma and diabetes control.\nPRESENTING COMPLAINT: Patient reports occasional wheeze after housework, uses salbutamol 1-2 times weekly, no nocturnal symptoms. Reports feeling well, no polyuria.\nEXAMINATION: BP 119/77 mmHg, weight 60.5 kg, height 158 cm, BMI 24.2 (overweight). Lungs clear. No edema.\nIMPRESSION: Asthma well-controlled; diabetes improved with HbA1c 7.2% and fasting glucose 128 mg/dL. Consider tapering glimepiride to avoid hypoglycemia.\nARRANGEMENTS: Continue salbutamol SOS, budesonide-formoterol BD, montelukast HS. Reduce glimepiride to 0.5 mg OD before breakfast. Keep metformin 500 mg TDS, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Order repeat HbA1c and fasting glucose in 3 months. Advise diet and activity due to BMI ≥23. Return if: worsening wheeze, night symptoms, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0109-m10",
+      "date": "2025-11-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Salbutamol metered-dose inhaler 2 puffs SOS\nBudesonide-formoterol 200/6 mcg inhaler 2 puffs BD\nMontelukast sodium 10 mg tablet HS\nMetformin hydrochloride 500 mg tablet TDS\nGlimepiride 0.5 mg tablet OD before breakfast\nSitagliptin 100 mg tablet OD\nEmpagliflozin 10 mg tablet OD"
+    },
+    {
+      "memory_id": "X0109-m11",
+      "date": "2026-03-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: increased asthma symptoms.\nPRESENTING COMPLAINT: Patient reports nighttime wheeze three times per week, increased salbutamol use (4-5 puffs daily), occasional cough.\nEXAMINATION: BP 121/79 mmHg, weight 61 kg, height 158 cm, BMI 24.4 (overweight). Expiratory wheezes bilaterally.\nIMPRESSION: Asthma exacerbation likely due to poor inhaler adherence and seasonal triggers. Diabetes stable.\nARRANGEMENTS: Reinforce budesonide-formoterol BD technique, ensure spacer use. Continue salbutamol SOS, montelukast HS. Consider short course oral steroids if symptoms worsen. Order repeat Asthma Control Test. Advise diet and activity due to BMI ≥23. Return if: worsening wheeze, night symptoms, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0109-m12",
+      "date": "2026-05-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.9%\nFasting plasma glucose 115 mg/dL"
+    },
+    {
+      "memory_id": "X0109-m13",
+      "date": "2026-07-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-07-15 09:00 to 2026-07-01 10:30 with Dr Priya Natarajan (D03) for routine follow-up."
+    }
+  ]
+}

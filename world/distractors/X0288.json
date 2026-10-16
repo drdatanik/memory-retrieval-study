@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0288",
+  "name": "Kamala Annamalai",
+  "age": 40,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0288-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports managing tailoring work, stands for 6‑8 hours daily, no difficulty with ADLs.\ncognition: Mini‑Cog score 4/5 (recall 3 items, clock draw normal) – negative screen.\nfalls: denies falls in past 12 months; gait steady; timed up‑and‑go 9 seconds – normal fall risk.\nmedicines: 3 regular (sertraline 50 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS); polypharmacy not present.\nmood: PHQ‑9 to be sent today; reports low mood, anhedonia, guilt.\ncarers: husband Rajesh, spouse.\ngoal: \"I want to feel energetic enough to enjoy my work and time with my family.\""
+    },
+    {
+      "memory_id": "X0288-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ‑9: 14 (moderately severe depression).\nTSH: 2.1 mIU/L (ref 0.4‑4.0).\nVitamin B12: 210 pg/mL (ref 200‑900)."
+    },
+    {
+      "memory_id": "X0288-m03",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 75 mg OD\ncontinue escitalopram 10 mg OD\ncontinue mirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0288-m04",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: able to sew for 7 hours, occasional neck stiffness after long sessions.\ncognition: Mini‑Cog not repeated (scheduled yearly).\nfalls: no new falls; gait unchanged; timed up‑and‑go 9 seconds.\nmedicines: 3 regular (sertraline 75 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS); polypharmacy not present.\nmood: PHQ‑9 10 (moderate); reports improved sleep, still low energy.\ncarers: husband Rajesh, spouse.\ngoal: \"I hope to regain the stamina to work a full day without fatigue.\""
+    },
+    {
+      "memory_id": "X0288-m05",
+      "date": "2025-06-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.0 mIU/L (ref 0.4‑4.0).\nVitamin B12: 205 pg/mL (ref 200‑900)."
+    },
+    {
+      "memory_id": "X0288-m06",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up visit with Dr Nandini Kulkarni for 2025-08-15 at 10:30 am."
+    },
+    {
+      "memory_id": "X0288-m07",
+      "date": "2025-08-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: tailoring work tolerated 8 hours, mild wrist discomfort after prolonged sewing.\ncognition: Mini‑Cog not due yet.\nfalls: no falls; gait normal; timed up‑and‑go 9 seconds.\nmedicines: 3 regular (sertraline 75 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS); polypharmacy not present.\nmood: PHQ‑9 8 (mild); reports better concentration, occasional irritability.\ncarers: husband Rajesh, spouse.\ngoal: \"I would like to stop feeling tired after work and enjoy weekend outings.\""
+    },
+    {
+      "memory_id": "X0288-m08",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "stop mirtazapine 15 mg HS\ncontinue sertraline 75 mg OD\ncontinue escitalopram 10 mg OD"
+    },
+    {
+      "memory_id": "X0288-m09",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin B12: 180 pg/mL (ref 200‑900) – low.\nTSH: 2.2 mIU/L (ref 0.4‑4.0).\nPHQ‑9: 9 (mild)."
+    },
+    {
+      "memory_id": "X0288-m10",
+      "date": "2025-11-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: \"I’ve been feeling more down again, struggling to focus on intricate patterns, and I’m worried about the B12 result. Can we talk about adjusting my treatment?\""
+    },
+    {
+      "memory_id": "X0288-m11",
+      "date": "2026-02-05",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referred to MindWell Psychology Services for cognitive‑behavioural therapy for depression. Patient prefers female therapist, available evenings. Sent summary of PHQ‑9 trends, medication list, and request for 8‑week CBT course."
+    },
+    {
+      "memory_id": "X0288-m12",
+      "date": "2026-03-10",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Psychologist reports patient attended 6 sessions, engaged well, learned activity scheduling and thought‑record techniques. PHQ‑9 dropped from 9 to 5. Recommended continuation of CBT and mindfulness practice."
+    },
+    {
+      "memory_id": "X0288-m13",
+      "date": "2026-04-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: tailoring work full day manageable, occasional lower‑back ache after standing.\ncognition: Mini‑Cog score 3/5 (recall 2 items, clock draw mild abnormality) – negative screen (cut‑off ≤2).\nfalls: no falls in past year; gait steady; timed up‑and‑go 9 seconds.\nmedicines: 2 regular (sertraline 75 mg OD, escitalopram 10 mg OD); polypharmacy not present.\nmood: PHQ‑9 5 (mild); reports improved mood, better sleep.\ncarers: husband Rajesh, spouse.\ngoal: \"I want to keep feeling steady and be able to take on more complex tailoring projects.\""
+    },
+    {
+      "memory_id": "X0288-m14",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ‑9: 5 (mild).\nTSH: 2.1 mIU/L (ref 0.4‑4.0).\nVitamin B12: 190 pg/mL (ref 200‑900) – still low; advise oral B12 500 µg OD."
+    },
+    {
+      "memory_id": "X0288-m15",
+      "date": "2026-06-20",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Eye exam (Snellen): visual acuity 6/6 both eyes; intra‑ocular pressure 14 mmHg; fundus normal. No retinopathy or cataract changes."
+    },
+    {
+      "memory_id": "X0288-m16",
+      "date": "2026-08-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Changed appointment from 2026-09-01 to 2026-08-25 at 14:00 h per patient request."
+    },
+    {
+      "memory_id": "X0288-m17",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: manages tailoring shop, reports occasional hand fatigue after intricate embroidery.\ncognition: Mini‑Cog not due (next scheduled 2027-04).\nfalls: no falls; gait normal; timed up‑and‑go 9 seconds.\nmedicines: 2 regular (sertraline 75 mg OD, escitalopram 10 mg OD); polypharmacy not present.\nmood: PHQ‑9 4 (minimal); reports feeling well, enjoys work and family time.\ncarers: husband Rajesh, spouse.\ngoal: \"I want to stay healthy and continue doing the work I love without feeling tired.\""
+    }
+  ]
+}

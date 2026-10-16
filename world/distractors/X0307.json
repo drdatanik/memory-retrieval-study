@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0307",
+  "name": "Ila Parikh",
+  "age": 74,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0307-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign positional vertigo.\nPositive Dix-Hallpike on the right side with transient torsional nystagmus lasting <1 minute. Patient reports recurrent brief spinning sensations on turning in bed, associated with nausea but no hearing loss or tinnitus. General examination normal; ENT exam shows no ear canal abnormality. Smoking status: never."
+    },
+    {
+      "memory_id": "X0307-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "betahistine 16 mg twice daily\nmeclizine 25 mg as needed for vertigo"
+    },
+    {
+      "memory_id": "X0307-m03",
+      "date": "2025-04-06",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dix-Hallpike test (right side): positive, with up‑beating torsional nystagmus lasting 45 seconds, consistent with canalithiasis of the right posterior semicircular canal."
+    },
+    {
+      "memory_id": "X0307-m04",
+      "date": "2025-04-07",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Pure‑tone audiometry: thresholds within normal limits (0‑25 dB HL) across 250‑8000 Hz bilaterally; no air‑bone gap. Speech discrimination scores 98% right, 96% left."
+    },
+    {
+      "memory_id": "X0307-m05",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.2 g/dl (13‑17), WBC 6.8×10⁹/l (4‑10), Platelets 225×10⁹/l (150‑400), Sodium 138 mmol/l (135‑145), Potassium 4.2 mmol/l (3.5‑5.0), Creatinine 0.9 mg/dl (0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0307-m06",
+      "date": "2025-04-09",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I still get dizzy when I lie down quickly, but the spinning lasts only a few seconds and settles. I’ve been taking the betahistine regularly and use meclizine only when the dizziness feels strong."
+    },
+    {
+      "memory_id": "X0307-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "betahistine 24 mg twice daily (increased from 16 mg BD)\nmeclizine 25 mg as needed"
+    },
+    {
+      "memory_id": "X0307-m08",
+      "date": "2025-07-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign positional vertigo.\nDix‑Hallpike now shows mild residual nystagmus (right side, 10‑second duration) indicating partial canalith repositioning. Patient reports fewer episodes, only when looking up quickly, mild nausea, no vomiting. Smoking status: never."
+    },
+    {
+      "memory_id": "X0307-m09",
+      "date": "2025-07-13",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dix‑Hallpike test (right side): positive but diminished, up‑beating torsional nystagmus lasting 12 seconds."
+    },
+    {
+      "memory_id": "X0307-m10",
+      "date": "2025-07-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Sodium 139 mmol/l (135‑145), Potassium 4.1 mmol/l (3.5‑5.0), Urea 5.2 mmol/l (2.5‑7.5), Creatinine 0.88 mg/dl (0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0307-m11",
+      "date": "2025-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-15 at 10:30 am with Dr Suresh Menon for vertigo review. Please arrive 10 minutes early."
+    },
+    {
+      "memory_id": "X0307-m12",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign positional vertigo.\nDix‑Hallpike now negative on both sides; patient reports only occasional light‑headedness, no true vertigo spells in past 6 weeks. Smoking status: never."
+    },
+    {
+      "memory_id": "X0307-m13",
+      "date": "2026-01-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "betahistine 16 mg twice daily (reduced from 24 mg BD)\nmeclizine 25 mg as needed"
+    },
+    {
+      "memory_id": "X0307-m14",
+      "date": "2026-01-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Pure‑tone audiometry: thresholds unchanged from baseline, 0‑22 dB HL across frequencies; speech discrimination 99% right, 97% left."
+    },
+    {
+      "memory_id": "X0307-m15",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D 28 ng/ml (30‑100) – mild insufficiency; Calcium 9.4 mg/dl (8.5‑10.5); Phosphate 3.4 mg/dl (2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0307-m16",
+      "date": "2026-07-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel much better now; the dizzy spells have stopped completely. I only take the betahistine occasionally when I feel a little light‑headed, and I haven’t needed meclizine in months."
+    },
+    {
+      "memory_id": "X0307-m17",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign positional vertigo.\nDix‑Hallpike negative bilaterally; patient asymptomatic, reports no vertigo or nausea for >3 months. Smoking status: never."
+    }
+  ]
+}

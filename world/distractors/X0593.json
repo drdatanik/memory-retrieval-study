@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0593",
+  "name": "Rohini Ghorpade",
+  "age": 79,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Obesity",
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0593-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review of obesity and chronic kidney disease in a 79‑year‑old postal worker. EXAMINATION: BP 148/86 mmHg, weight 78 kg, height 1.55 m, BMI 32.5 (obese). Abdomen soft, no edema. IMPRESSION: 1. Obesity, BMI >25. 2. CKD stage G3a, eGFR ~48 mL/min/1.73m2. ARRANGEMENTS: Start orlistat 120 mg with each main meal, telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD. Order fasting lipid profile, fasting glucose, HbA1c, LFT, serum creatinine, eGFR, urine ACR, Hb. Return if chest pain, breathlessness, fever >39°C, or bloody stools."
+    },
+    {
+      "memory_id": "X0593-m02",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Orlistat 120 mg TID with meals\nTelmisartan 40 mg OD\nDapagliflozin 10 mg OD\nFurosemide 20 mg OD\nSodium bicarbonate 500 mg BD"
+    },
+    {
+      "memory_id": "X0593-m03",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 112 mg/dL (70-99)\nHbA1c 6.4% (4-5.6)\nTotal cholesterol 210 mg/dL (<200)\nTriglycerides 165 mg/dL (<150)\nHDL 38 mg/dL (>40)\nLDL 130 mg/dL (<100)\nALT 28 U/L (7-56)\nAST 24 U/L (10-40)\nSerum creatinine 1.6 mg/dL (0.6-1.2)\neGFR 48 mL/min/1.73m2 (>60)\nUrine ACR 45 mg/g (<30)\nHaemoglobin 12.8 g/dL (12-16)"
+    },
+    {
+      "memory_id": "X0593-m04",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 108 mg/dL\nHbA1c 6.2%\nTotal cholesterol 202 mg/dL\nTriglycerides 158 mg/dL\nHDL 40 mg/dL\nLDL 124 mg/dL\nSerum creatinine 1.55 mg/dL\neGFR 50 mL/min/1.73m2\nUrine ACR 42 mg/g\nHaemoglobin 13.0 g/dL"
+    },
+    {
+      "memory_id": "X0593-m05",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up for obesity and CKD; reports mild ankle swelling. EXAMINATION: BP 142/80 mmHg, weight 77.5 kg, BMI 32.2 (obese). Mild pitting edema ankles. IMPRESSION: 1. Obesity stable. 2. CKD G3a, slight fluid retention. ARRANGEMENTS: Increase telmisartan to 80 mg OD. Continue other meds. Advise low‑salt diet, elevate legs. Return if worsening edema, shortness of breath, or sudden weight gain."
+    },
+    {
+      "memory_id": "X0593-m06",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Telmisartan increased to 80 mg OD\nAll other medications unchanged"
+    },
+    {
+      "memory_id": "X0593-m07",
+      "date": "2025-08-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed my shoes feel tighter by the evening and my ankles look a bit puffy. No pain, just discomfort."
+    },
+    {
+      "memory_id": "X0593-m08",
+      "date": "2025-11-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 105 mg/dL\nHbA1c 6.0%\nTotal cholesterol 195 mg/dL\nTriglycerides 150 mg/dL\nHDL 42 mg/dL\nLDL 118 mg/dL\nSerum creatinine 1.50 mg/dL\neGFR 52 mL/min/1.73m2\nUrine ACR 38 mg/g\nHaemoglobin 13.2 g/dL"
+    },
+    {
+      "memory_id": "X0593-m09",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review; patient reports reduced swelling after telmisartan increase. EXAMINATION: BP 138/78 mmHg, weight 77 kg, BMI 32.0 (obese). No edema. IMPRESSION: 1. Obesity, BMI still >25. 2. CKD G3a, improved fluid status. ARRANGEMENTS: Continue orlistat, telmisartan 80 mg OD, dapagliflozin, furosemide, sodium bicarbonate. Order fasting lipid profile, glucose, HbA1c, LFT, renal panel. Return if chest pain, dyspnoea, fever >39°C, or gastrointestinal bleeding."
+    },
+    {
+      "memory_id": "X0593-m10",
+      "date": "2025-12-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Orlistat 120 mg TID with meals continued\nTelmisartan 80 mg OD continued\nDapagliflozin 10 mg OD continued\nFurosemide 20 mg OD continued\nSodium bicarbonate 500 mg BD continued"
+    },
+    {
+      "memory_id": "X0593-m11",
+      "date": "2026-04-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 6‑month review; patient mentions occasional heartburn after meals. EXAMINATION: BP 140/82 mmHg, weight 76.5 kg, BMI 31.9 (obese). Abdomen soft, no tenderness. IMPRESSION: 1. Obesity, persistent. 2. CKD G3a, stable. 3. Possible mild gastritis. ARRANGEMENTS: Stop sodium bicarbonate due to risk of metabolic alkalosis; continue other meds. Advise smaller meals, avoid lying down after eating. Order renal function labs. Return if vomiting, melena, or severe epigastric pain."
+    },
+    {
+      "memory_id": "X0593-m12",
+      "date": "2026-04-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Sodium bicarbonate stopped\nAll other medications unchanged"
+    },
+    {
+      "memory_id": "X0593-m13",
+      "date": "2026-04-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.48 mg/dL\neGFR 53 mL/min/1.73m2\nUrine ACR 35 mg/g\nHaemoglobin 13.4 g/dL"
+    },
+    {
+      "memory_id": "X0593-m14",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-09-15 10:30 with Dr Priya Natarajan for review of obesity and CKD."
+    },
+    {
+      "memory_id": "X0593-m15",
+      "date": "2026-09-15",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Nephrology, Bangalore General Hospital. Reason: CKD stage G3a with persistent proteinuria (ACR 35 mg/g) despite maximal tolerated ACEi/ARB and SGLT2i; need specialist opinion on further management and possible investigation for underlying glomerulopathy."
+    },
+    {
+      "memory_id": "X0593-m16",
+      "date": "2026-10-10",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Nephrology review: CKD likely hypertensive etiology; proteinuria moderate. Continue telmisartan and dapagliflozin, add low‑dose spironolactone 12.5 mg OD if potassium permits. Repeat labs in 3 months. No urgent intervention required."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0317",
+  "name": "Mohammed Mirza",
+  "age": 34,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0317-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Recurrent itchy wheals for three months.\nPRESENTING COMPLAINT: The patient reports daily episodes of raised, erythematous wheals with intense itching, lasting less than 24 hours, no identifiable trigger.\nEXAMINATION: Vital signs: BP 122/78 mmHg, pulse 78/min. Weight 68 kg, height 1.70 m, BMI 23.5 (overweight). Skin shows scattered wheals on trunk and limbs, no angioedema. No mucosal lesions.\nIMPRESSION: Chronic idiopathic urticaria. No signs of systemic disease.\nARRANGEMENTS: Start levocetirizine 5 mg orally once daily. Advise non‑sedating antihistamine as needed, keep a symptom diary, avoid known allergens, wear loose clothing. Since BMI ≥23, counsel balanced diet and regular aerobic activity 150 min/week. Offered influenza vaccine; patient declined. Return if wheals become painful, develop angioedema, difficulty swallowing, fever >39°C, or widespread rash."
+    },
+    {
+      "memory_id": "X0317-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levocetirizine 5 mg OD"
+    },
+    {
+      "memory_id": "X0317-m03",
+      "date": "2025-04-10",
+      "type": "allergy",
+      "author": "D03",
+      "text": "Allergy to dust mites: sneezing, nasal congestion, itchy eyes on exposure."
+    },
+    {
+      "memory_id": "X0317-m04",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Persistent urticaria despite antihistamine.\nPRESENTING COMPLAINT: Patient reports continued daily wheals, slightly less intense, still requiring antihistamine most days.\nEXAMINATION: BP 118/76 mmHg, weight 66 kg, height 1.70 m, BMI 22.8. Skin shows fewer wheals, mild excoriations from scratching.\nIMPRESSION: Chronic urticaria with mild eosinophilia on CBC; TSH normal. Symptom control partial.\nARRANGEMENTS: Stop levocetirizine; start cetirizine 10 mg at bedtime. Continue symptom diary, avoid triggers, maintain regular activity. Offered influenza vaccine; patient accepted, vaccine administered today. Return if wheals increase, angioedema, fever >39°C, or signs of infection."
+    },
+    {
+      "memory_id": "X0317-m05",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.2 x10^9/L (4-10), Neutrophils 4.0, Lymphocytes 1.5, Eosinophils 0.6 (0.0-0.5) slightly elevated. Hemoglobin 13.8 g/dL (13-17). Platelets 250 x10^9/L (150-400).\nTSH: 2.1 mIU/L (0.4-4.0). Free T4: 12.5 pmol/L (9-19)."
+    },
+    {
+      "memory_id": "X0317-m06",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0317-m07",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Urticaria flare after work stress.\nPRESENTING COMPLAINT: Patient reports increased wheals over past two weeks, linked to stressful periods at the flower shop, with mild facial swelling.\nEXAMINATION: BP 120/78 mmHg, weight 67 kg, height 1.70 m, BMI 23.2 (overweight). Skin shows scattered wheals on arms and neck, no angioedema.\nIMPRESSION: Chronic urticaria exacerbated by psychological stress; labs previously normal.\nARRANGEMENTS: Continue cetirizine 10 mg HS, add levocetirizine 5 mg OD for breakthrough symptoms. Advise stress‑reduction techniques, regular exercise, and maintain BMI‑appropriate diet. Offered influenza vaccine; patient already vaccinated. Return if wheals become painful, angioedema, difficulty breathing, fever >39°C, or widespread rash."
+    },
+    {
+      "memory_id": "X0317-m08",
+      "date": "2025-10-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more stressed at work lately, and the hives have gotten worse, especially on my forearms after a busy day."
+    },
+    {
+      "memory_id": "X0317-m09",
+      "date": "2025-10-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-02-05 at 10:00 AM with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0317-m10",
+      "date": "2026-02-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Urticaria improved on combined antihistamines.\nPRESENTING COMPLAINT: Patient reports fewer wheals, only occasional mild itching, no angioedema in the past month.\nEXAMINATION: BP 119/76 mmHg, weight 66 kg, height 1.70 m, BMI 22.8. Skin shows faint scattered wheals, no active lesions.\nIMPRESSION: Chronic urticaria, well controlled on cetirizine HS and levocetirizine OD. No laboratory abnormalities noted previously.\nARRANGEMENTS: Continue cetirizine 10 mg HS and levocetirizine 5 mg OD. Advise to continue stress‑management, regular activity, and maintain weight. Offered influenza vaccine for next season; patient to receive in autumn. Return if wheals increase, angioedema, fever >39°C, or signs of infection."
+    },
+    {
+      "memory_id": "X0317-m11",
+      "date": "2026-02-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Skin prick test performed with common aeroallergens (dust mite, pollen, mold). Results: mild reactivity to dust mite (2+ wheal), negative for pollen and mold."
+    },
+    {
+      "memory_id": "X0317-m12",
+      "date": "2026-02-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levocetirizine 5 mg OD\nCetirizine 10 mg HS PRN"
+    }
+  ]
+}

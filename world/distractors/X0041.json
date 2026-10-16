@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0041",
+  "name": "Subhash Mitra",
+  "age": 61,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Allergic rhinitis",
+    "Benign prostatic hyperplasia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0041-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: evaluation of allergic rhinitis and benign prostatic hyperplasia.\nPRESENTING COMPLAINT: The patient reports year‑round nasal congestion, clear rhinorrhea, sneezing, and mild ocular itching. He also notes increased nocturia (2‑3 times/night) and a weak urinary stream over the past 6 months.\nEXAMINATION: Vital signs: BP 138/86 mmHg, pulse 78/min. Weight 78 kg, height 1.68 m, BMI 27.6 (obese). Nasal mucosa pale and boggy. Prostate not enlarged on digital rectal exam; no palpable nodules.\nIMPRESSION: 1. Allergic rhinitis, likely perennial. 2. Benign prostatic hyperplasia, symptomatic. 3. Obesity.\nARRANGEMENTS: Start cetirizine 10 mg HS, fluticasone nasal spray one spray each nostril OD, montelukast 10 mg HS for AR. Start tamsulosin 0.4 mg HS and finasteride 5 mg OD for BPH. Advise low‑calorie diet, 150 min/week brisk walking, and weight monitoring. Return if: worsening nasal obstruction with purulent discharge, fever >39°C, hematuria, acute urinary retention, or chest pain."
+    },
+    {
+      "memory_id": "X0041-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "cetirizine 10 mg HS\nfluticasone nasal spray, one spray each nostril OD\nmontelukast 10 mg HS\ntamsulosin 0.4 mg HS\nfinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0041-m03",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D03",
+      "text": "Allergy to house dust mites – allergic rhinitis with sneezing, clear rhinorrhea, nasal congestion on exposure; positive skin prick test."
+    },
+    {
+      "memory_id": "X0041-m04",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 210 mg/dL (<200 desirable), HDL 38 mg/dL (>40 desirable), LDL 130 mg/dL (<100 optimal), triglycerides 165 mg/dL (<150 normal).\nFasting blood sugar: 92 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0041-m05",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Total serum IgE: 210 IU/mL (0‑100 normal).\nSkin prick test: Wheal 5 mm to house dust mite allergen (positive)."
+    },
+    {
+      "memory_id": "X0041-m06",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Ultrasound KUB: Prostate volume 28 mL (normal <20). Post‑void residual 25 mL (<50 normal). No hydronephrosis. Both kidneys normal size, no calculi."
+    },
+    {
+      "memory_id": "X0041-m07",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been sneezing a lot in the mornings and my nose feels blocked. At night I wake up to pass urine two or three times, which is troubling me."
+    },
+    {
+      "memory_id": "X0041-m08",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:30 am with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0041-m09",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of allergic rhinitis and BPH.\nPRESENTING COMPLAINT: Patient says nasal symptoms are much better; occasional sneezing only on dusty days. Nocturia reduced to once per night; stream feels stronger.\nEXAMINATION: BP 132/80 mmHg. Weight 77 kg, height 1.68 m, BMI 27.3 (obese). Nasal mucosa mildly erythematous, no polyps. Prostate still not markedly enlarged on exam.\nIMPRESSION: Allergic rhinitis well controlled. BPH symptomatic improvement. Obesity persists.\nARRANGEMENTS: Continue current AR meds. Reduce tamsulosin to 0.2 mg HS (considering symptom relief). Keep finasteride 5 mg OD. Reinforce diet and activity; aim for 5 kg weight loss over 3 months. Return if: nasal discharge becomes purulent, fever >39°C, worsening urinary retention, hematuria, or chest pain."
+    },
+    {
+      "memory_id": "X0041-m10",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "cetirizine 10 mg HS\nfluticasone nasal spray, one spray each nostril OD\nmontelukast 10 mg HS\ntamsulosin 0.2 mg HS\nfinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0041-m11",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA: 1.4 ng/mL (0‑4 normal).\nUrine routine: pH 6.0, negative for leukocyte esterase, nitrites, blood; no casts."
+    },
+    {
+      "memory_id": "X0041-m12",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Repeat ultrasound KUB: Prostate volume 26 mL (slight decrease). Post‑void residual 20 mL. No significant change."
+    },
+    {
+      "memory_id": "X0041-m13",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "My nose feels fine except when I clean the house; I sneeze a bit then. Nighttime trips to the bathroom are down to once, which is a relief."
+    },
+    {
+      "memory_id": "X0041-m14",
+      "date": "2025-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Next review scheduled for 2025-10-02 at 09:00 am with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0041-m15",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review and preventive care.\nPRESENTING COMPLAINT: Patient reports stable allergic rhinitis symptoms; occasional mild nasal itching. No urinary bother; nocturia absent.\nEXAMINATION: BP 128/78 mmHg. Weight 75 kg, height 1.68 m, BMI 26.6 (overweight). Nasal mucosa normal. Prostate benign on exam.\nIMPRESSION: Allergic rhinitis controlled. BPH symptoms resolved. Overweight per Asian cut‑offs; advise diet and exercise. Annual lipid and glucose checked.\nARRANGEMENTS: Continue cetirizine, fluticasone, montelukast, tamsulosin, finasteride. Offer influenza vaccine (patient >60 with chronic AR) – administered today 02‑Oct‑2025. Reinforce weight goal of 70 kg. Return if: fever >39°C, shortness of breath, chest pain, hematuria, or sudden worsening of nasal blockage."
+    },
+    {
+      "memory_id": "X0041-m16",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "cetirizine 10 mg HS\nfluticasone nasal spray, one spray each nostril OD\nmontelukast 10 mg HS\ntamsulosin 0.2 mg HS\nfinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0041-m17",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dL (<200 desirable), HDL 42 mg/dL (>40 desirable), LDL 108 mg/dL (<100 optimal), triglycerides 140 mg/dL (<150 normal).\nFasting blood sugar: 88 mg/dL (70‑99 normal)."
+    }
+  ]
+}

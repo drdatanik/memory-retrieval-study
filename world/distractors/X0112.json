@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0112",
+  "name": "Padmavathi Settipalli",
+  "age": 35,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Epilepsy",
+    "Allergic rhinitis",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0112-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, teaches college classes, uses public transport.\ncognition: Mini-Cog 4/5 (recall 3, clock draw normal).\nfalls: no falls in past 12 months, gait normal, TUG 9 seconds.\nmedicines: 6 regular (levetiracetam 500 mg BD, lamotrigine 50 mg BD, cetirizine 10 mg HS, fluticasone nasal spray OD, montelukast 10 mg HS, propranolol 40 mg OD). Polypharmacy – review against Beers criteria.\nmood: reports occasional low mood, denies depression.\ncarers: spouse (Ravi), supportive.\ngoal: \"I want to stay seizure‑free and keep teaching without migraine days.\""
+    },
+    {
+      "memory_id": "X0112-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 500 mg BD\nlamotrigine 50 mg BD\ncetirizine 10 mg HS\nfluticasone nasal spray, one spray each nostril OD\nmontelukast 10 mg HS\npropranolol 40 mg OD\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS\ntopiramate 25 mg HS"
+    },
+    {
+      "memory_id": "X0112-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 138 mmol/L (135-145)\nSerum creatinine: 0.8 mg/dL (0.5-1.1)\nTotal serum IgE: 120 IU/mL (<100) – mildly elevated"
+    },
+    {
+      "memory_id": "X0112-m04",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "EEG: background activity normal, no epileptiform discharges. No seizure activity captured."
+    },
+    {
+      "memory_id": "X0112-m05",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues full teaching load, reports occasional mild right‑hand tremor post‑seizure.\ncognition: Mini-Cog 4/5 (recall 3, clock draw normal).\nfalls: no falls, gait steady, TUG 9 seconds.\nmedicines: 6 regular (same as before). Polypharmacy – review against Beers criteria.\nmood: notes stress from exam grading, denies anxiety.\ncarers: spouse (Ravi).\ngoal: \"I aim to reduce migraine frequency and keep seizures under control.\""
+    },
+    {
+      "memory_id": "X0112-m06",
+      "date": "2025-08-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 750 mg BD\nlamotrigine 50 mg BD\ncetirizine 10 mg HS\nfluticasone nasal spray OD\nmontelukast 10 mg HS\npropranolol 40 mg OD\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS\ntopiramate 25 mg HS"
+    },
+    {
+      "memory_id": "X0112-m07",
+      "date": "2025-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 137 mmol/L (135-145)\nSerum creatinine: 0.8 mg/dL (0.5-1.1)\nTotal serum IgE: 115 IU/mL (<100) – mildly elevated"
+    },
+    {
+      "memory_id": "X0112-m08",
+      "date": "2025-11-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports two brief focal aware seizures in past month, otherwise independent.\ncognition: Mini-Cog 4/5 (recall 3, clock draw normal).\nfalls: one fall at home while rushing to class (no injury), gait slightly unsteady, TUG 11 seconds – borderline risk.\nmedicines: 6 regular (levetiracetam 750 mg BD, lamotrigine 50 mg BD, cetirizine 10 mg HS, fluticasone OD, montelukast HS, propranolol 40 mg OD). Polypharmacy – review Beers.\nmood: frustrated about breakthrough seizures, denies depression.\ncarers: spouse (Ravi).\ngoal: \"I want no more seizures and fewer migraine days.\""
+    },
+    {
+      "memory_id": "X0112-m09",
+      "date": "2025-11-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 750 mg BD\nlamotrigine 100 mg BD\ncetirizine 10 mg HS\nfluticasone nasal spray OD\nmontelukast 10 mg HS\npropranolol 40 mg OD\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS\ntopiramate 25 mg HS"
+    },
+    {
+      "memory_id": "X0112-m10",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 138 mmol/L (135-145)\nSerum creatinine: 0.8 mg/dL (0.5-1.1)\nTotal serum IgE: 110 IU/mL (<100) – mildly elevated"
+    },
+    {
+      "memory_id": "X0112-m11",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: seizure‑free for 8 weeks, teaches without interruption.\ncognition: Mini-Cog 3/5 (recall 2, clock draw mildly abnormal) – positive screen, plan full assessment.\nfalls: no falls in past year, gait normal, TUG 9 seconds.\nmedicines: 6 regular (levetiracetam 750 mg BD, lamotrigine 100 mg BD, cetirizine 10 mg HS, fluticasone OD, montelukast HS, propranolol 40 mg OD). Polypharmacy – review Beers.\nmood: reports improved mood, less stress.\ncarers: spouse (Ravi).\ngoal: \"I want to stay seizure‑free and keep migraine days under 2 per month.\""
+    },
+    {
+      "memory_id": "X0112-m12",
+      "date": "2026-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Skin prick test: positive to house dust mite (3+), grass pollen (2+), negative to common foods. Indicates allergic rhinitis triggers."
+    },
+    {
+      "memory_id": "X0112-m13",
+      "date": "2026-04-06",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 750 mg BD\nlamotrigine 100 mg BD\ncetirizine 10 mg HS\nfluticasone nasal spray OD\nmontelukast 10 mg HS\npropranolol 40 mg OD\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS\n(topiramate stopped)"
+    },
+    {
+      "memory_id": "X0112-m14",
+      "date": "2026-06-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 138 mmol/L (135-145)\nSerum creatinine: 0.8 mg/dL (0.5-1.1)\nTotal serum IgE: 105 IU/mL (<100) – borderline"
+    },
+    {
+      "memory_id": "X0112-m15",
+      "date": "2026-08-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: remains seizure‑free, occasional migraine (1‑2/month) managed with sumatriptan.\ncognition: Full MoCA 26/30 (normal).\nfalls: no falls, gait normal, TUG 9 seconds.\nmedicines: 5 regular (levetiracetam 750 mg BD, lamotrigine 100 mg BD, cetirizine 10 mg HS, fluticasone OD, montelukast HS). Not polypharmacy.\nmood: stable, enjoys teaching.\ncarers: spouse (Ravi).\ngoal: \"I aim to keep migraine under control and maintain seizure freedom.\""
+    },
+    {
+      "memory_id": "X0112-m16",
+      "date": "2026-08-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 750 mg BD\nlamotrigine 150 mg BD\ncetirizine 10 mg HS\nfluticasone nasal spray OD\nmontelukast 10 mg HS\npropranolol 40 mg OD\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0112-m17",
+      "date": "2026-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-10-15 09:30 with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0112-m18",
+      "date": "2026-10-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: ‘I’ve had a mild frontal headache yesterday, responded to naproxen. No new seizures.’"
+    }
+  ]
+}

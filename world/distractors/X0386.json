@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0386",
+  "name": "Ila Trivedi",
+  "age": 61,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0386-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Irritable bowel syndrome:\n- Status: chronic abdominal pain, bloating, diarrhea-predominant symptoms for 2 years; weight 68 kg, waist 88 cm (female cut‑off 80 cm, elevated).\n- Plan: start mebeverine 135 mg BD before food; ispaghula husk 5 g OD with water after dinner; loperamide 2 mg SOS after loose stools; advise low‑fat, small frequent meals; avoid spicy, caffeinated foods; review in 8 weeks; due HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0386-m02",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.8 g/dl (12‑16), WBC 6.2 ×10⁹/L (4‑10), platelets 210 ×10⁹/L (150‑400). Stool routine: no ova, cysts, pus cells; pH 6.0. tTG‑IgA: <1.2 U/ml (negative <7)."
+    },
+    {
+      "memory_id": "X0386-m03",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking the medicines as advised. The abdominal pain is milder now, only occasional cramping after lunch. Bloating has reduced; I pass formed stools twice a day. No need for loperamide in the past week."
+    },
+    {
+      "memory_id": "X0386-m04",
+      "date": "2025-06-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 200 mg BD before food\nispaghula husk 10 g OD with warm water after dinner\nloperamide 2 mg SOS after loose stools (max 8 mg/day)"
+    },
+    {
+      "memory_id": "X0386-m05",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Irritable bowel syndrome:\n- Status: improved pain frequency (2‑3 days/week), waist 86 cm, weight 67.5 kg; reports occasional bloating after heavy meals.\n- Plan: continue current mebeverine dose; reduce ispaghula husk to 5 g OD; add probiotic sachet OD; diet: three small meals, avoid fried foods, limit dairy to 1 serving/day; review in 8 weeks; due HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0386-m06",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.0 g/dl (12‑16), WBC 5.9 ×10⁹/L (4‑10), platelets 205 ×10⁹/L (150‑400)."
+    },
+    {
+      "memory_id": "X0386-m07",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: liver normal size, no focal lesion; gallbladder wall thin, no stones; pancreas unremarkable; no abnormal lymph nodes; bowel loops not distended."
+    },
+    {
+      "memory_id": "X0386-m08",
+      "date": "2025-09-15",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Dr. S. Rao, Gastroenterology, Vikram Hospital, for opinion on persistent IBS‑type symptoms despite first‑line therapy; consider further evaluation for microscopic colitis or bile acid malabsorption."
+    },
+    {
+      "memory_id": "X0386-m09",
+      "date": "2025-10-10",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Gastroenterology opinion: symptoms consistent with IBS‑D; alarm features negative; recommends low‑FODMAP diet trial for 6 weeks, lactose breath test if symptoms persist; continue symptomatic therapy; follow‑up in 8 weeks."
+    },
+    {
+      "memory_id": "X0386-m10",
+      "date": "2025-11-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Karthik Hegde (D04) on 2025-12-01 at 10:30 am."
+    },
+    {
+      "memory_id": "X0386-m11",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Irritable bowel syndrome:\n- Status: after low‑FODMAP diet, pain reduced to 1 day/week, bloating occasional, waist 84 cm, weight 67 kg; no loose stools, loperamide not used.\n- Plan: maintain low‑FODMAP diet, re‑introduce one high‑FODMAP food weekly to assess tolerance; continue mebeverine 135 mg BD; stop ispaghula husk; review in 3 months; due HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0386-m12",
+      "date": "2025-12-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg BD before food\n(Discontinue loperamide SOS; discontinue ispaghula husk)"
+    },
+    {
+      "memory_id": "X0386-m13",
+      "date": "2026-02-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "tTG‑IgA: <0.8 U/ml (negative <7)."
+    },
+    {
+      "memory_id": "X0386-m14",
+      "date": "2026-04-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I occasionally feel bloated after eating rajma or cauliflower; otherwise my bowel movements are regular and I have not needed any rescue medicine in the last month."
+    },
+    {
+      "memory_id": "X0386-m15",
+      "date": "2026-06-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Irritable bowel syndrome:\n- Status: stable, waist 82 cm (just above female cut‑off), weight 66.8 kg; reports mild bloating after certain legumes, otherwise asymptomatic.\n- Plan: continue low‑FODMAP diet with cautious re‑introduction; keep mebeverine 135 mg BD PRN for pain; advise regular physical activity; review in 4 months; due HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0386-m16",
+      "date": "2026-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: previous visit on 2026-07-01 cancelled; new appointment with Dr Karthik Hegde (D04) scheduled for 2026-10-01 at 09:00 am."
+    }
+  ]
+}

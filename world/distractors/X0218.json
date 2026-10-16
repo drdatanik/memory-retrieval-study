@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0218",
+  "name": "Remya Nair",
+  "age": 76,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Depression",
+    "Coronary artery disease",
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0218-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression: ongoing, PHQ-9 12, on sertraline 50 mg OD. Plan: continue sertraline, add psychotherapy referral.\n- Coronary artery disease: stable, on aspirin 75 mg OD, atorvastatin 40 mg HS, metoprolol 25 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS. Plan: continue, treadmill test scheduled.\n- Gastro-oesophageal reflux: mild heartburn, on pantoprazole 40 mg OD before breakfast, antacid gel SOS, domperidone 10 mg BD before meals. Plan: continue.\n- Weight 68 kg, waist 84 cm (female cut-off 80 cm, elevated). Advised reduced carbohydrate intake, small frequent meals.\n- Due: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0218-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sertraline 50 mg OD after breakfast\nAspirin 75 mg OD after breakfast\nAtorvastatin 40 mg HS after dinner\nMetoprolol succinate 25 mg OD after breakfast\nIsosorbide mononitrate 20 mg OD after breakfast\nPantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals"
+    },
+    {
+      "memory_id": "X0218-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (ref 4-5.6)\nTSH 2.1 mIU/L (ref 0.4-4.0)\nVitamin B12 210 pg/mL (ref 200-900)\nLipid profile: LDL 110 mg/dL (ref <100), HDL 45 mg/dL, Triglycerides 150 mg/dL"
+    },
+    {
+      "memory_id": "X0218-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG: sinus rhythm 78 bpm, no ST-T changes, no Q waves. Normal study."
+    },
+    {
+      "memory_id": "X0218-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel tired most days and sometimes have palpitations after climbing stairs. My reflux bothers me after spicy food."
+    },
+    {
+      "memory_id": "X0218-m06",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Allergy: Rash to amoxicillin (maculopapular), resolved with antihistamine. Avoid penicillins."
+    },
+    {
+      "memory_id": "X0218-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression: PHQ-9 9, improved but still mild symptoms. Plan: increase sertraline to 75 mg OD.\n- Coronary artery disease: no angina, treadmill test completed (see investigation). Plan: continue meds, consider dose adjustment if needed.\n- Gastro-oesophageal reflux: heartburn reduced, pantoprazole effective. Plan: continue.\n- Weight 67.5 kg, waist 83 cm (still >80). Diet advice: breakfast - oats with nuts, lunch - dal rice with veg, dinner - light soup and salad.\n- Due: HbA1c 2025-10-10."
+    },
+    {
+      "memory_id": "X0218-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sertraline 75 mg OD after breakfast\nAspirin 75 mg OD after breakfast\nAtorvastatin 40 mg HS after dinner\nMetoprolol succinate 25 mg OD after breakfast\nIsosorbide mononitrate 20 mg OD after breakfast\nPantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals"
+    },
+    {
+      "memory_id": "X0218-m09",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.5% (ref 4-5.6)\nTSH 2.0 mIU/L (ref 0.4-4.0)\nLipid profile: LDL 102 mg/dL (ref <100), HDL 46 mg/dL, Triglycerides 140 mg/dL"
+    },
+    {
+      "memory_id": "X0218-m10",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Treadmill test: Bruce protocol, stopped at stage 3 due to fatigue, achieved 85% of predicted HR, no ECG ischemic changes, blood pressure response normal. Interpretation: no inducible ischemia."
+    },
+    {
+      "memory_id": "X0218-m11",
+      "date": "2025-07-10",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dr Suresh Kumar, Cardiology, for evaluation of borderline lipid profile and exercise intolerance. Please assess need for intensifying statin therapy."
+    },
+    {
+      "memory_id": "X0218-m12",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression: PHQ-9 6, much improved. Plan: maintain sertraline 75 mg OD, consider tapering if stable.\n- Coronary artery disease: asymptomatic, lipids improved but LDL still slightly high. Plan: increase atorvastatin to 40 mg HS (already) – consider adding ezetimibe if LDL >100 next visit.\n- Gastro-oesophageal reflux: occasional heartburn after heavy meals, pantoprazole effective. Plan: continue.\n- Weight 66.8 kg, waist 82 cm (still >80). Diet advice: breakfast - multigrain toast with avocado, lunch - vegetable khichdi, dinner - grilled fish with steamed veg.\n- Due: HbA1c 2026-01-02."
+    },
+    {
+      "memory_id": "X0218-m13",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sertraline 75 mg OD after breakfast\nAspirin 75 mg OD after breakfast\nAtorvastatin 40 mg HS after dinner\nMetoprolol succinate 25 mg OD after breakfast\nIsosorbide mononitrate 20 mg OD after breakfast\nPantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals"
+    },
+    {
+      "memory_id": "X0218-m14",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin B12 225 pg/mL (ref 200-900)\nLipid profile: LDL 98 mg/dL (ref <100), HDL 48 mg/dL, Triglycerides 130 mg/dL\nHbA1c 7.2% (ref 4-5.6)"
+    },
+    {
+      "memory_id": "X0218-m15",
+      "date": "2026-02-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked with Cardiology Dr Suresh Kumar on 2026-03-01 at 10:30 AM. Reason: lipid management review."
+    },
+    {
+      "memory_id": "X0218-m16",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression: PHQ-9 4, minimal symptoms. Plan: continue sertraline 75 mg OD.\n- Coronary artery disease: patient reports no chest pain, cardiology review (see referral outcome) advised LDL goal <70, started rosuvastatin 10 mg HS.\n- Gastro-oesophageal reflux: well controlled on pantoprazole, occasional antacid gel SOS. Plan: continue.\n- Weight 66 kg, waist 81 cm (just above cutoff). Diet advice: breakfast - paneer bhurji with multigrain roti, lunch - mixed veg sambar with brown rice, dinner - chicken stew with salad.\n- Due: HbA1c 2026-07-20."
+    }
+  ]
+}

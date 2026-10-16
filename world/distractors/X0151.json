@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0151",
+  "name": "Rupinder Ahluwalia",
+  "age": 37,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Depression",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0151-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Major depressive disorder, moderate episode; and Type 2 diabetes mellitus, newly diagnosed.\nEvidence: PHQ-9 score 14, random plasma glucose 186 mg/dL, HbA1c 7.8% (to be confirmed). Patient reports low mood, anhedonia, fatigue for 8 weeks, plus polyuria, nocturia, and mild weight gain. Examination: BMI 27.4 kg/m2, BP 128/82 mmHg, lungs clear, no focal neurology.\nInhaler technique: not applicable (no inhaler prescribed). Smoking status: never smoker; pack-years 0. Spirometry: FEV1 2.8 L (92% predicted), FVC 3.2 L, FEV1/FVC 0.88."
+    },
+    {
+      "memory_id": "X0151-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Sertraline 50 mg OD\nMetformin 500 mg BD\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0151-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.6% (4.0-5.6)\nFasting plasma glucose 132 mg/dL (70-99)\nPHQ-9 12\nTSH 2.1 µIU/mL (0.4-4.0)\nVitamin B12 340 pg/mL (200-900)\nUrine albumin‑creatinine ratio 22 mg/g (<30)"
+    },
+    {
+      "memory_id": "X0151-m04",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dilated fundus exam: No microaneurysms, no hemorrhages, macula intact. Mild peripheral retinal vascular tortuosity. No signs of diabetic retinopathy."
+    },
+    {
+      "memory_id": "X0151-m05",
+      "date": "2025-07-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling a bit better mood‑wise, but metformin is causing loose stools and mild nausea most mornings. Otherwise energy is up and thirst less."
+    },
+    {
+      "memory_id": "X0151-m06",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Major depressive disorder, improving; Type 2 diabetes mellitus, suboptimal control.\nEvidence: PHQ-9 now 9, HbA1c 7.6%, fasting glucose 132 mg/dL, metformin GI intolerance.\nPatient reports improved mood but persistent loose stools with metformin; weight stable; BP 126/80.\nInhaler technique: not applicable. Smoking status: never smoker; pack-years 0. Spirometry: FEV1 2.9 L (95% predicted), FVC 3.3 L, FEV1/FVC 0.88; change in FEV1 +0.1 L since last test."
+    },
+    {
+      "memory_id": "X0151-m07",
+      "date": "2025-07-16",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Sertraline 75 mg OD\nMetformin 500 mg BD (continue, advise take with food)\nGlimepiride 2 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0151-m08",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2%\nFasting plasma glucose 118 mg/dL\nPHQ-9 8\nTSH 1.9 µIU/mL\nVitamin B12 355 pg/mL\nUrine albumin‑creatinine ratio 18 mg/g"
+    },
+    {
+      "memory_id": "X0151-m09",
+      "date": "2025-09-15",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Psychiatry for ongoing depressive symptoms despite antidepressant trial; request CBT and medication review."
+    },
+    {
+      "memory_id": "X0151-m10",
+      "date": "2025-10-01",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Psychiatry review: Patient engaged, PHQ-9 8, sertraline increased to 100 mg OD, added mirtazapine 15 mg HS for sleep. Continue current diabetes regimen."
+    },
+    {
+      "memory_id": "X0151-m11",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Major depressive disorder, in remission; Type 2 diabetes mellitus, well controlled.\nEvidence: PHQ-9 5, HbA1c 6.8%, fasting glucose 106 mg/dL, no GI complaints.\nPatient reports stable mood, improved energy, weight unchanged.\nInhaler technique: not applicable. Smoking status: never smoker; pack-years 0. Spirometry: FEV1 2.9 L (96% predicted), FVC 3.3 L, FEV1/FVC 0.88; change in FEV1 0.0 L since prior."
+    },
+    {
+      "memory_id": "X0151-m12",
+      "date": "2025-11-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Sertraline 100 mg OD\nMirtazapine 15 mg HS\nMetformin 500 mg BD\nGlimepiride 2 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0151-m13",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.6%\nFasting plasma glucose 101 mg/dL\nPHQ-9 4\nTSH 2.0 µIU/mL\nVitamin B12 360 pg/mL\nUrine albumin‑creatinine ratio 15 mg/g"
+    },
+    {
+      "memory_id": "X0151-m14",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-05-05 10:00 to 2026-05-05 14:30 per patient request."
+    },
+    {
+      "memory_id": "X0151-m15",
+      "date": "2026-07-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Major depressive disorder, remission; Type 2 diabetes mellitus, controlled.\nEvidence: PHQ-9 3, HbA1c 6.5%, fasting glucose 98 mg/dL.\nPatient asymptomatic, adherent to meds, no side effects.\nInhaler technique: not applicable. Smoking status: never smoker; pack-years 0. Spirometry: FEV1 3.0 L (98% predicted), FVC 3.4 L, FEV1/FVC 0.88; change in FEV1 +0.1 L since last test."
+    },
+    {
+      "memory_id": "X0151-m16",
+      "date": "2026-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.4%\nFasting plasma glucose 95 mg/dL\nPHQ-9 2\nTSH 2.2 µIU/mL\nVitamin B12 365 pg/mL\nUrine albumin‑creatinine ratio 12 mg/g"
+    }
+  ]
+}

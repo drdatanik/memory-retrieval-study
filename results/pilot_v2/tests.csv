@@ -1,0 +1,7 @@
+level,comparison,n,mean_d,mean_d_ci_low,mean_d_ci_high,wilcoxon_stat,p_raw,p_holm,significant_holm_0.05
+L1,EMB_vs_CTX,12,0.0,0.0,0.0,,1.0,1.0,False
+L1,MD_vs_CTX,12,0.08333333333333333,0.0,0.25,33.0,1.0,1.0,False
+L3,EMB_vs_CTX,12,0.0,0.0,0.0,,1.0,1.0,False
+L3,MD_vs_CTX,12,0.08333333333333333,0.0,0.25,33.0,1.0,1.0,False
+L5,EMB_vs_CTX,12,0.08333333333333333,0.0,0.25,33.0,1.0,1.0,False
+L5,MD_vs_CTX,12,-0.08333333333333333,-0.3333333333333333,0.16666666666666666,33.5,1.0,1.0,False

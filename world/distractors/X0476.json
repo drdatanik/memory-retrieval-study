@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0476",
+  "name": "Prasad Kotha",
+  "age": 68,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0476-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild fatigue but manages auto-rickshaw shifts; cognition: Mini-Cog 4/5 (negative); falls: none in last year, gait steady, TUG 10 sec; medicines: 2 regular (ferrous sulfate 200 mg OD, propranolol 40 mg OD); mood: denies low mood; carers: wife, Sunita; goal: 'I want to keep working without feeling dizzy'."
+    },
+    {
+      "memory_id": "X0476-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Ferrous sulfate 200 mg OD\nPropranolol 40 mg OD\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS\nTopiramate 25 mg HS"
+    },
+    {
+      "memory_id": "X0476-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.8 g/dL (13-17)\nSerum ferritin 12 ng/mL (30-400)\nMCV 78 fL (80-100)"
+    },
+    {
+      "memory_id": "X0476-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Neurological examination: no focal deficits, normal coordination, mild bilateral temporal tenderness. No signs of stroke."
+    },
+    {
+      "memory_id": "X0476-m05",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Penicillin allergy – rash and pruritus after amoxicillin course 2 years ago."
+    },
+    {
+      "memory_id": "X0476-m06",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling tired after long drives, occasional headache after meals, worried about anemia affecting work."
+    },
+    {
+      "memory_id": "X0476-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: energy improved, fewer dizzy spells; cognition: Mini-Cog 4/5; falls: none, gait normal, TUG 9 sec; medicines: 3 regular (ferrous sulfate alternate days, propranolol, topiramate); mood: stable; carers: wife, Sunita; goal: 'Stay sharp for my grandchildren'."
+    },
+    {
+      "memory_id": "X0476-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Ferrous sulfate 200 mg on alternate days\nPropranolol 40 mg OD\nTopiramate 25 mg HS\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0476-m09",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.4 g/dL (13-17)\nSerum ferritin 45 ng/mL (30-400)\nMCV 84 fL (80-100)"
+    },
+    {
+      "memory_id": "X0476-m10",
+      "date": "2025-10-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-20 10:30 with Dr Nandini Kulkarni (D06) for geriatric review."
+    },
+    {
+      "memory_id": "X0476-m11",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports occasional migraine aura, still works; cognition: Mini-Cog 4/5; falls: none, TUG 9 sec; medicines: 4 regular (ferrous sulfate alternate days, propranolol, topiramate, newly started); mood: reports stress; carers: wife, Sunita; goal: 'Reduce migraine days to enjoy driving'."
+    },
+    {
+      "memory_id": "X0476-m12",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Propranolol 40 mg OD (continued)\nTopiramate 25 mg HS\nFerrous sulfate 200 mg alternate days\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0476-m13",
+      "date": "2026-02-15",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Neurology, Vikram Hospital, for prophylactic migraine optimisation and EEG consideration. Include migraine diary and current meds."
+    },
+    {
+      "memory_id": "X0476-m14",
+      "date": "2026-05-30",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Neurologist advice: continue propranolol, consider topiramate uptitration to 50 mg HS if tolerated; EEG normal. Return for review in 3 months."
+    },
+    {
+      "memory_id": "X0476-m15",
+      "date": "2026-08-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: fewer migraine days, able to drive longer shifts; cognition: Mini-Cog 4/5; falls: none, TUG 9 sec; medicines: 4 regular (ferrous sulfate alternate days, propranolol, topiramate 25 mg HS, planning to increase); mood: good; carers: wife, Sunita; goal: 'Maintain current health and keep working'."
+    },
+    {
+      "memory_id": "X0476-m16",
+      "date": "2026-08-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Topiramate increased to 50 mg HS\nFerrous sulfate 200 mg alternate days\nPropranolol 40 mg OD\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0476-m17",
+      "date": "2026-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.2 g/dL (13-17)\nSerum ferritin 78 ng/mL (30-400)\nMCV 88 fL (80-100)"
+    }
+  ]
+}

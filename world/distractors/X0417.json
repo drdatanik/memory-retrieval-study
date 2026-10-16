@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0417",
+  "name": "Balasubramanian Kannan",
+  "age": 66,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Glaucoma",
+    "Hypertension",
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0417-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of glaucoma, hypertension and GERD. PRESENTING COMPLAINT: asymptomatic, reports good adherence to drops and tablets. EXAMINATION: BP 138/84 mmHg, weight 78 kg, BMI 22.9 (normal). Pulse regular, fundoscopy unchanged. IMPRESSION: Stable glaucoma on timolol and latanoprost; hypertension controlled on amlodipine, telmisartan, losartan, HCTZ; GERD symptoms controlled on pantoprazole and domperidone. ARRANGEMENTS: Continue current meds; advise low‑salt diet, regular walk; return if chest pain, breathlessness, fever >39°C, or bloody stools. Influenza vaccine offered, patient declined."
+    },
+    {
+      "memory_id": "X0417-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Timolol 0.5% eye drops 1 drop BD each eye; Latanoprost 0.005% eye drops 1 drop HS each eye; Amlodipine 5 mg OD; Telmisartan 40 mg OD; Losartan 50 mg OD; Hydrochlorothiazide 12.5 mg OD; Pantoprazole 40 mg OD before breakfast; Domperidone 10 mg BD before meals; Antacid gel SOS."
+    },
+    {
+      "memory_id": "X0417-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 92 mg/dL (70‑100); Total cholesterol 188 mg/dL (<200); HDL 48 mg/dL (>40); LDL 110 mg/dL (<130); Triglycerides 138 mg/dL (<150); Serum creatinine 0.9 mg/dL (0.6‑1.2); eGFR 78 mL/min/1.73m2 (>60); Serum potassium 4.3 mmol/L (3.5‑5.0)."
+    },
+    {
+      "memory_id": "X0417-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Intraocular pressure: right eye 18 mmHg, left eye 19 mmHg (target <21). Visual field: full, no defects. Optic disc: cup‑disc ratio 0.3 both eyes, no rim thinning."
+    },
+    {
+      "memory_id": "X0417-m05",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:30 am with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0417-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine check‑up. PRESENTING COMPLAINT: occasional mild headache, otherwise well. EXAMINATION: BP 142/88 mmHg, weight 79 kg, BMI 23.1 (overweight – advise diet & activity). Pulse regular. IMPRESSION: Glaucoma stable; hypertension borderline elevated; GERD asymptomatic. ARRANGEMENTS: Increase amlodipine to 5 mg BD; continue other meds; reinforce low‑salt diet, aim 150 min walk/week; lipid panel and fasting glucose due; return if chest pain, breathlessness, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0417-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 5 mg BD; Telmisartan 40 mg OD; Losartan 50 mg OD; Hydrochlorothiazide 12.5 mg OD; Timolol 0.5% eye drops BD; Latanoprost 0.005% eye drops HS; Pantoprazole 40 mg OD; Domperidone 10 mg BD; Antacid gel SOS."
+    },
+    {
+      "memory_id": "X0417-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 95 mg/dL; Total cholesterol 191 mg/dL; HDL 46 mg/dL; LDL 115 mg/dL; Triglycerides 142 mg/dL; Serum creatinine 0.92 mg/dL; eGFR 75 mL/min/1.73m2; Potassium 4.4 mmol/L."
+    },
+    {
+      "memory_id": "X0417-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "12‑lead ECG: sinus rhythm 78 bpm, no ST‑T changes, left ventricular voltage within normal limits, no pathologic Q waves."
+    },
+    {
+      "memory_id": "X0417-m10",
+      "date": "2025-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Next review scheduled for 2025-11-05 at 09:00 am with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0417-m11",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up and new mild heartburn after meals. PRESENTING COMPLAINT: burning retrosternal discomfort 2‑3 times/week, relieved by antacid. EXAMINATION: BP 146/90 mmHg, weight 80 kg, BMI 23.4 (overweight – reiterate diet & activity). Abdomen soft, no tenderness. IMPRESSION: Glaucoma stable; hypertension stage 1; GERD symptomatic. ARRANGEMENTS: Add pantoprazole 40 mg BD; continue domperidone; reinforce lifestyle; schedule H. pylori stool antigen; return if vomiting, weight loss, melena, or chest pain."
+    },
+    {
+      "memory_id": "X0417-m12",
+      "date": "2025-11-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg BD before breakfast and dinner; Domperidone 10 mg BD before meals; Timolol 0.5% eye drops BD; Latanoprost 0.005% eye drops HS; Amlodipine 5 mg BD; Telmisartan 40 mg OD; Losartan 50 mg OD; Hydrochlorothiazide 12.5 mg OD; Antacid gel SOS."
+    },
+    {
+      "memory_id": "X0417-m13",
+      "date": "2025-11-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: negative."
+    },
+    {
+      "memory_id": "X0417-m14",
+      "date": "2025-11-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Intraocular pressure: right eye 17 mmHg, left eye 18 mmHg. Visual field: full, no defects. Optic disc: cup‑disc ratio 0.3 both eyes, stable."
+    },
+    {
+      "memory_id": "X0417-m15",
+      "date": "2025-11-05",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Dr S. Rao, Gastroenterology, St. Martha’s Hospital, for upper GI endoscopy due to persistent GERD symptoms despite PPI trial."
+    },
+    {
+      "memory_id": "X0417-m16",
+      "date": "2025-11-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-02-10 at 11:00 am with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0417-m17",
+      "date": "2026-02-10",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Gastroenterology report: Upper GI endoscopy shows mild erosive esophagitis (Los Angeles grade A), Barrett’s epithelium absent. H. pylori negative on biopsy. Recommend continuation of PPI BD, lifestyle modification, repeat endoscopy in 1 year if symptoms persist."
+    },
+    {
+      "memory_id": "X0417-m18",
+      "date": "2026-06-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review after gastroenterology outcome. PRESENTING COMPLAINT: heartburn improved, occasional mild discomfort after spicy food. EXAMINATION: BP 140/86 mmHg, weight 79 kg, BMI 22.9 (normal). Lungs clear. IMPRESSION: Glaucoma stable; hypertension controlled; GERD improved on PPI BD. ARRANGEMENTS: Continue current glaucoma drops; maintain amlodipine 5 mg BD, telmisartan 40 mg OD, losartan 50 mg OD, HCTZ 12.5 mg OD; pantoprazole 40 mg BD; domperidone 10 mg BD; advise avoid late meals, raise head of bed; influenza vaccine administered today (06/15/2026); return if chest pain, breathlessness, fever >39°C, or melena."
+    }
+  ]
+}

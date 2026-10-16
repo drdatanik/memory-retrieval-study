@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0241",
+  "name": "Kaushik Bose",
+  "age": 42,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0241-m01",
+      "date": "2025-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for new patient review of COPD symptoms. Visit scheduled for 2025-04-15 at 10:00 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0241-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Initial assessment of COPD.\nPRESENTING COMPLAINT: The patient reports occasional breathlessness on exertion and morning cough with clear sputum. He uses salbutamol inhaler as needed.\nEXAMINATION: BP 128/78 mmHg, weight 78 kg, height 1.70 m, BMI 27.0 (obese). SpO2 94% on room air. Respiratory rate 18/min, mild wheeze bilaterally.\nIMPRESSION: COPD, GOLD stage II. Overweight, needs lifestyle advice.\nARRANGEMENTS: Start tiotropium inhaler 18 mcg OD, salbutamol inhaler 100 mcg SOS, budesonide-formoterol 200/6 mcg inhaler BD. Order fasting lipid profile, fasting blood sugar, spirometry, chest X-ray. Advise weight reduction, smoking cessation (non-smoker), annual influenza vaccine. Return if: worsening breathlessness, chest pain, fever >39°C, or increased sputum purulence."
+    },
+    {
+      "memory_id": "X0241-m03",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tiotropium inhaler 18 mcg OD\nSalbutamol inhaler 100 mcg SOS\nBudesonide-formoterol 200/6 mcg inhaler BD"
+    },
+    {
+      "memory_id": "X0241-m04",
+      "date": "2025-04-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar: 92 mg/dL (70-99)\nLDL cholesterol: 118 mg/dL (<100 borderline)\nHDL cholesterol: 42 mg/dL (>40)\nTriglycerides: 162 mg/dL (<150 borderline)\nTotal cholesterol: 190 mg/dL (<200)"
+    },
+    {
+      "memory_id": "X0241-m05",
+      "date": "2025-04-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry: FEV1 1.68 L (58% predicted), FVC 2.80 L (85% predicted), FEV1/FVC 0.60 (60%). Consistent with moderate obstructive defect."
+    },
+    {
+      "memory_id": "X0241-m06",
+      "date": "2025-04-22",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Chest X-ray: Hyperinflated lungs, flattened diaphragms, no focal consolidation. No acute pathology."
+    },
+    {
+      "memory_id": "X0241-m07",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Three-month COPD review.\nPRESENTING COMPLAINT: Patient reports improved exercise tolerance, uses salbutamol <2 times/week. No night symptoms.\nEXAMINATION: BP 126/80, weight 76 kg, BMI 26.3 (overweight). SpO2 95%.\nIMPRESSION: COPD stable. Overweight persists; lipids show borderline LDL.\nARRANGEMENTS: Continue tiotropium OD, salbutamol SOS, increase budesonide-formoterol to 200/6 mcg BD (already). Reinforce diet, activity, weight target <75 kg. Annual influenza vaccine due in October. Return if: worsening dyspnea, wheeze, fever >39°C, or sputum change."
+    },
+    {
+      "memory_id": "X0241-m08",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tiotropium inhaler 18 mcg OD\nSalbutamol inhaler 100 mcg SOS\nBudesonide-formoterol 200/6 mcg inhaler BD"
+    },
+    {
+      "memory_id": "X0241-m09",
+      "date": "2025-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar: 88 mg/dL (70-99)\nLDL cholesterol: 115 mg/dL (<100 borderline)\nHDL: 44 mg/dL\nTriglycerides: 158 mg/dL\nTotal cholesterol: 188 mg/dL"
+    },
+    {
+      "memory_id": "X0241-m10",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Six-month COPD follow-up.\nPRESENTING COMPLAINT: Patient reports occasional mild breathlessness on climbing stairs, uses salbutamol 2-3 times/week.\nEXAMINATION: BP 130/82, weight 75 kg, BMI 25.9 (overweight). SpO2 94%.\nIMPRESSION: COPD stable, slight symptomatic burden. Overweight continues.\nARRANGEMENTS: Maintain current inhaler regimen. Advise low‑salt diet, increase aerobic activity to 150 min/week. Offer influenza vaccine today (date 2025-12-01). Return if: increased breathlessness at rest, chest pain, fever >39°C, or sputum purulence."
+    },
+    {
+      "memory_id": "X0241-m11",
+      "date": "2025-12-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tiotropium inhaler 18 mcg OD\nSalbutamol inhaler 100 mcg SOS\nBudesonide-formoterol 200/6 mcg inhaler BD"
+    },
+    {
+      "memory_id": "X0241-m12",
+      "date": "2025-12-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Repeat spirometry: FEV1 1.72 L (60% predicted), FVC 2.85 L (87% predicted), FEV1/FVC 0.60 (60%). No significant change from baseline."
+    },
+    {
+      "memory_id": "X0241-m13",
+      "date": "2026-04-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual COPD review.\nPRESENTING COMPLAINT: Patient states breathlessness unchanged, uses salbutamol SOS 1-2 times/week, no exacerbations since last visit.\nEXAMINATION: BP 128/80, weight 73 kg, BMI 25.2 (overweight). SpO2 95%.\nIMPRESSION: COPD stable. Lipids improved; fasting glucose normal.\nARRANGEMENTS: Order fasting lipid profile and fasting blood sugar (annual). Continue current inhalers. Reinforce weight reduction to <70 kg. Influenza vaccine given 2025-12-01, next due autumn 2026. Return if: worsening dyspnea, chest pain, fever >39°C, or hemoptysis."
+    },
+    {
+      "memory_id": "X0241-m14",
+      "date": "2026-04-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar: 90 mg/dL (70-99)\nLDL cholesterol: 102 mg/dL (<100 target)\nHDL cholesterol: 46 mg/dL (>40)\nTriglycerides: 140 mg/dL (<150)\nTotal cholesterol: 182 mg/dL (<200)"
+    },
+    {
+      "memory_id": "X0241-m15",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original slot 2026-08-05 09:00 moved to 2026-08-01 10:30 with Dr Priya Natarajan (D03) for COPD review."
+    }
+  ]
+}

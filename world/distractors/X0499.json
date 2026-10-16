@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0499",
+  "name": "Pooja Mishra",
+  "age": 55,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Generalised anxiety disorder",
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0499-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Generalised anxiety disorder and chronic urticaria.\nPatient reports persistent worry, restlessness, fatigue, and daily itchy wheals lasting >6 weeks. Examination shows tense affect, mild tachycardia, and scattered erythematous wheals on arms and trunk. Smoking status: never; pack-years 0. Plan: start escitalopram 5 mg OD, buspirone 5 mg BD, levocetirizine 5 mg OD, cetirizine 10 mg HS. Order GAD-7, TSH, Hb, CBC with eosinophils, thyroid function tests."
+    },
+    {
+      "memory_id": "X0499-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 5 mg tablet, take one tablet daily.\nBuspirone 5 mg tablet, take one tablet twice daily.\nLevocetirizine 5 mg tablet, take one tablet daily.\nCetirizine 10 mg tablet, take one tablet at bedtime."
+    },
+    {
+      "memory_id": "X0499-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "GAD-7 score: 14 (moderate anxiety).\nTSH: 2.1 mIU/L (ref 0.4-4.0).\nHaemoglobin: 12.8 g/dL (ref 12.0-15.5).\nCBC: WBC 6.2 x10^9/L, neutrophils 4.1, lymphocytes 1.8, eosinophils 0.3 x10^9/L (ref 0.0-0.5).\nThyroid panel: Free T4 1.2 ng/dL (ref 0.9-1.7), normal."
+    },
+    {
+      "memory_id": "X0499-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Generalised anxiety disorder and chronic urticaria, partially controlled.\nPatient reports anxiety improved but still experiences worry on most days; urticaria now 2-3 episodes/week, less severe. Examination: calm affect, no wheals today. Smoking status: never; pack-years 0. Spirometry not indicated. Plan: increase escitalopram to 10 mg OD; continue buspirone, levocetirizine, cetirizine. Reinforce allergen avoidance."
+    },
+    {
+      "memory_id": "X0499-m05",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 10 mg tablet, take one tablet daily.\nBuspirone 5 mg tablet, take one tablet twice daily.\nLevocetirizine 5 mg tablet, take one tablet daily.\nCetirizine 10 mg tablet, take one tablet at bedtime."
+    },
+    {
+      "memory_id": "X0499-m06",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "GAD-7 score: 11 (mild anxiety).\nTSH: 2.0 mIU/L (ref 0.4-4.0).\nHaemoglobin: 13.0 g/dL (ref 12.0-15.5).\nCBC: eosinophils 0.4 x10^9/L (ref 0.0-0.5).\nThyroid function: Free T4 1.1 ng/dL (ref 0.9-1.7), normal."
+    },
+    {
+      "memory_id": "X0499-m07",
+      "date": "2025-10-08",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past two weeks I’ve felt more tense again, waking up at night with racing thoughts. The hives have returned, especially in the evenings, and are quite itchy. I’m taking my medicines as prescribed but wonder if something else is triggering them."
+    },
+    {
+      "memory_id": "X0499-m08",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Generalised anxiety disorder and chronic urticaria, worsening.\nPatient describes increased anxiety, difficulty concentrating, and nightly urticaria interfering with sleep. Examination: mild tension, a few scattered wheals on forearms. Smoking status: never; pack-years 0. Plan: increase buspirone to 10 mg BD; continue escitalopram 10 mg OD, levocetirizine 5 mg OD, cetirizine 10 mg HS. Advise symptom diary and review in 3 months."
+    },
+    {
+      "memory_id": "X0499-m09",
+      "date": "2026-01-18",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 10 mg tablet, take one tablet daily.\nBuspirone 10 mg tablet, take one tablet twice daily.\nLevocetirizine 5 mg tablet, take one tablet daily.\nCetirizine 10 mg tablet, take one tablet at bedtime."
+    },
+    {
+      "memory_id": "X0499-m10",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "GAD-7 score: 7 (normal anxiety).\nTSH: 1.9 mIU/L (ref 0.4-4.0).\nHaemoglobin: 13.2 g/dL (ref 12.0-15.5).\nCBC: eosinophils 0.2 x10^9/L (ref 0.0-0.5).\nThyroid function: Free T4 1.2 ng/dL (ref 0.9-1.7), normal."
+    },
+    {
+      "memory_id": "X0499-m11",
+      "date": "2026-04-22",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up visit booked for 2026-07-10 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0499-m12",
+      "date": "2026-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Generalised anxiety disorder and chronic urticaria, well controlled.\nPatient reports minimal worry, good sleep, and only occasional mild hives. Examination: relaxed, no wheals. Smoking status: never; pack-years 0. Spirometry not indicated. Asthma Control Test not applicable. Plan: maintain current meds, reinforce trigger avoidance, review in 3 months."
+    },
+    {
+      "memory_id": "X0499-m13",
+      "date": "2026-10-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "GAD-7 score: 5 (normal).\nTSH: 2.0 mIU/L (ref 0.4-4.0).\nHaemoglobin: 13.1 g/dL (ref 12.0-15.5).\nCBC: eosinophils 0.1 x10^9/L (ref 0.0-0.5).\nThyroid function: Free T4 1.1 ng/dL (ref 0.9-1.7), normal."
+    }
+  ]
+}

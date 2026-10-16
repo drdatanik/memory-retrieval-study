@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0410",
+  "name": "Sreekumar Kaimal",
+  "age": 54,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0410-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Benign positional vertigo:\n- Status: New onset episodic spinning sensation lasting <1 minute, triggered by head movements, associated nausea. Dix-Hallpike pending.\n- Plan: Start betahistine 16 mg twice daily; meclizine 25 mg SOS for acute vertigo. Arrange Dix-Hallpike test and audiometry. Advise avoidance of sudden head turns, sit‑up slowly.\nDue: HbA1c repeat 2025-07-10."
+    },
+    {
+      "memory_id": "X0410-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 16 mg BD after food\nmeclizine 25 mg SOS after food"
+    },
+    {
+      "memory_id": "X0410-m03",
+      "date": "2025-04-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have felt dizzy three times since yesterday when I turn to look at the shelves. Each episode lasts about 20‑30 seconds and I feel nauseous. No hearing loss or ringing."
+    },
+    {
+      "memory_id": "X0410-m04",
+      "date": "2025-04-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dix‑Hallpike test: Positive on right side – torsional up‑beating nystagmus with latency 2 seconds, lasting <1 minute. Consistent with right posterior canal BPPV."
+    },
+    {
+      "memory_id": "X0410-m05",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Audiometry (pure tone): Right ear 250‑8000 Hz thresholds within normal limits (0‑20 dB HL). Left ear normal. No sensorineural hearing loss."
+    },
+    {
+      "memory_id": "X0410-m06",
+      "date": "2025-07-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Benign positional vertigo:\n- Status: Improved – only two brief episodes in past month, both resolved with meclizine. No nausea.\n- Plan: Continue betahistine 16 mg BD; consider taper if symptom‑free for 6 weeks. Reinforce vestibular exercises.\nDue: HbA1c repeat 2025-10-12."
+    },
+    {
+      "memory_id": "X0410-m07",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 16 mg BD after food\nmeclizine 25 mg SOS after food"
+    },
+    {
+      "memory_id": "X0410-m08",
+      "date": "2025-07-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "The dizziness has been much better. I only felt a slight sway once when I reached for a high shelf, took meclizine and it settled in a minute."
+    },
+    {
+      "memory_id": "X0410-m09",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-11-03 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0410-m10",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Benign positional vertigo:\n- Status: Symptom‑free for 8 weeks, no vertigo episodes.\n- Plan: Attempt betahistine taper – reduce to 8 mg BD for 2 weeks, then stop. Keep meclizine SOS. Return if symptoms recur.\nDue: HbA1c repeat 2026-01-15."
+    },
+    {
+      "memory_id": "X0410-m11",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 8 mg BD after food\nmeclizine 25 mg SOS after food"
+    },
+    {
+      "memory_id": "X0410-m12",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.8% (ref 4.0‑5.6%). Slightly elevated. Lipid profile: Total cholesterol 190 mg/dL (<200), HDL 45 mg/dL (>40), LDL 110 mg/dL (<130), Triglycerides 140 mg/dL (<150). TSH 2.1 µIU/mL (0.4‑4.0)."
+    },
+    {
+      "memory_id": "X0410-m13",
+      "date": "2025-11-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Two days ago I felt a sudden spin while bending to tie my shoe. It lasted about 15 seconds, I felt nauseous but no vomiting. Took meclizine and it settled."
+    },
+    {
+      "memory_id": "X0410-m14",
+      "date": "2025-11-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dix‑Hallpike test: Positive on left side – up‑beating nystagmus with latency 3 seconds, duration <1 minute. Suggests left posterior canal BPPV now."
+    },
+    {
+      "memory_id": "X0410-m15",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Benign positional vertigo:\n- Status: Recurrent episodes, now left‑sided. Two episodes in past week.\n- Plan: Restart betahistine 16 mg BD. Add Brandt‑Daroff exercises twice daily. Meclizine SOS for acute attacks.\nDue: HbA1c repeat 2026-03-10."
+    },
+    {
+      "memory_id": "X0410-m16",
+      "date": "2025-12-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 16 mg BD after food\nmeclizine 25 mg SOS after food"
+    },
+    {
+      "memory_id": "X0410-m17",
+      "date": "2026-06-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Benign positional vertigo:\n- Status: Well controlled – no vertigo spells for 3 months on betahistine 16 mg BD.\n- Plan: Continue current dose. Reinforce vestibular rehab. Annual lipid check due.\nDue: HbA1c repeat 2026-09-15."
+    },
+    {
+      "memory_id": "X0410-m18",
+      "date": "2026-06-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.6% (ref 4.0‑5.6%). Lipid profile: Total cholesterol 185 mg/dL, HDL 48 mg/dL, LDL 105 mg/dL, Triglycerides 130 mg/dL. TSH 1.9 µIU/mL."
+    }
+  ]
+}

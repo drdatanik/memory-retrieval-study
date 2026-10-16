@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0398",
+  "name": "Remya Panicker",
+  "age": 20,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Generalised anxiety disorder",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0398-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder: Patient reports persistent worry, restlessness, difficulty concentrating. GAD-7 score 12 (moderate). Status: ongoing. Plan: Continue escitalopram 5 mg OD, buspirone 5 mg BD. Monitor symptoms.\n- Rheumatoid arthritis: Morning stiffness 45 mins, joint pain in MCP joints. Status: active. Plan: Continue methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Check weight 58 kg, waist 70 cm (female <80 cm).\n- Due: HbA1c not indicated; next review in 3 months."
+    },
+    {
+      "memory_id": "X0398-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Escitalopram 5 mg OD after breakfast\nBuspirone 5 mg BD after meals\nMethotrexate 10 mg PO once weekly on Friday\nFolic acid 5 mg PO once weekly on Friday\nHydroxychloroquine 200 mg OD after breakfast\nPrednisolone 5 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0398-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.2 g/dl (12-16)\nTSH 2.1 µIU/ml (0.4-4.0)\nESR 30 mm/hr (0-20)\nCRP 12 mg/l (<5)\nRheumatoid factor 45 IU/ml (<14) positive\nAnti‑CCP 68 U/ml (<20) positive\nALT 22 U/ml (7-56)\nAST 20 U/ml (10-40)\nALP 78 U/ml (30-120)\nGGT 18 U/ml (0-51)"
+    },
+    {
+      "memory_id": "X0398-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past week I’ve felt more anxious, heart racing at night, and I’m struggling to focus at work. My sleep is worse and I’m worried about upcoming presentations."
+    },
+    {
+      "memory_id": "X0398-m05",
+      "date": "2025-05-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder: Patient reports increased anxiety, palpitations, insomnia. GAD-7 score now 16 (moderately severe). Status: worsened. Plan: Increase escitalopram to 10 mg OD, continue buspirone 5 mg BD. Add brief relaxation advice.\n- Rheumatoid arthritis: No new joint swelling, morning stiffness 30 mins. Status: stable. Plan: Continue current DMARDs.\n- Weight 58.5 kg, waist 71 cm.\n- Due: Repeat labs in 3 months; next HbA1c not needed."
+    },
+    {
+      "memory_id": "X0398-m06",
+      "date": "2025-05-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Escitalopram 10 mg OD after breakfast\nBuspirone 5 mg BD after meals\nMethotrexate 10 mg PO once weekly on Friday\nFolic acid 5 mg PO once weekly on Friday\nHydroxychloroquine 200 mg OD after breakfast\nPrednisolone 5 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0398-m07",
+      "date": "2025-06-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0398-m08",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder: Patient reports improved sleep, less racing thoughts. GAD-7 score 9 (mild). Status: improved. Plan: Keep escitalopram 10 mg OD, buspirone 5 mg BD.\n- Rheumatoid arthritis: Mild tenderness in wrists, no swelling. Status: stable. Plan: Continue methotrexate 10 mg weekly; consider tapering prednisolone if tolerated.\n- Weight 57.8 kg, waist 70 cm.\n- Due: Repeat labs today; next review in 3 months."
+    },
+    {
+      "memory_id": "X0398-m09",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Escitalopram 10 mg OD after breakfast\nBuspirone 5 mg BD after meals\nMethotrexate 10 mg PO once weekly on Friday\nFolic acid 5 mg PO once weekly on Friday\nHydroxychloroquine 200 mg OD after breakfast\nPrednisolone 5 mg OD after breakfast (consider taper in 4 weeks)"
+    },
+    {
+      "memory_id": "X0398-m10",
+      "date": "2025-07-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.0 g/dl (12-16)\nTSH 1.9 µIU/ml (0.4-4.0)\nESR 22 mm/hr (0-20)\nCRP 6 mg/l (<5)\nRheumatoid factor 42 IU/ml (<14) positive\nAnti‑CCP 65 U/ml (<20) positive\nALT 24 U/ml (7-56)\nAST 21 U/ml (10-40)\nALP 80 U/ml (30-120)\nGGT 19 U/ml (0-51)"
+    },
+    {
+      "memory_id": "X0398-m11",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Hand X‑ray (PA): Soft tissue swelling noted; no erosions seen. Joint spaces preserved. Impression: Early inflammatory change, consistent with rheumatoid arthritis; no bony damage yet."
+    },
+    {
+      "memory_id": "X0398-m12",
+      "date": "2025-09-05",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Rheumatology, Bangalore Baptist Hospital. Reason: Establish baseline disease activity, consider adding steroid‑sparing agent. Attach recent labs and X‑ray."
+    },
+    {
+      "memory_id": "X0398-m13",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Rheumatology review: Patient has active RA with seropositivity. Recommend continuing methotrexate 10 mg weekly, adding sulfasalazine 500 mg BD, tapering prednisolone to 2.5 mg OD over 4 weeks. Repeat ESR/CRP in 6 weeks."
+    },
+    {
+      "memory_id": "X0398-m14",
+      "date": "2026-03-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder: Patient reports good control, occasional mild worry. GAD-7 score 6 (mild). Status: stable. Plan: Continue escitalopram 10 mg OD, buspirone 5 mg BD.\n- Rheumatoid arthritis: On methotrexate + sulfasalazine, prednisolone tapered to 2.5 mg OD. No joint swelling, morning stiffness 15 mins. Status: improved. Plan: Continue current regimen, monitor LFT.\n- Weight 57.5 kg, waist 69 cm.\n- Due: Next review in 3 months; repeat labs then."
+    },
+    {
+      "memory_id": "X0398-m15",
+      "date": "2026-03-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Escitalopram 10 mg OD after breakfast\nBuspirone 5 mg BD after meals\nMethotrexate 10 mg PO once weekly on Friday\nFolic acid 5 mg PO once weekly on Friday\nHydroxychloroquine 200 mg OD after breakfast\nPrednisolone 2.5 mg OD after breakfast\nSulfasalazine 500 mg BD after meals"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0004",
+  "name": "Ravindra Mallela",
+  "age": 40,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0004-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild low back pain radiating to left thigh, able to walk 2 km, performs ADLs independently.\ncognition: Mini-Cog 4/5 (recall 3 items, clock draw normal).\nfalls: no falls in past 12 months; gait steady; timed up-and-go 9 seconds (normal).\nmedicines: 3 regular (pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD).\nmood: denies low mood or anxiety; PHQ-2 0.\ncarers: wife Priya, spouse.\ngoals: \"I want to walk without pain and continue working at the jewellery shop.\""
+    },
+    {
+      "memory_id": "X0004-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pregabalin 75 mg twice daily\n diclofenac 50 mg twice daily after food\n methylcobalamin 1500 mcg once daily"
+    },
+    {
+      "memory_id": "X0004-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 14.2 g/L (13-17)\n WBC 6.8 x10^9/L (4-10)\n Platelets 210 x10^9/L (150-400)\n Serum creatinine 0.9 mg/dL (0.6-1.2)\n ALT 22 U/L (<40)\n Vitamin D 18 ng/mL (30-100) – low"
+    },
+    {
+      "memory_id": "X0004-m04",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "MRI lumbar spine: L4-L5 disc bulge causing mild left foraminal narrowing; no cord compression. Impression: mild lumbar radiculopathy consistent with left-sided sciatica."
+    },
+    {
+      "memory_id": "X0004-m05",
+      "date": "2025-04-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 at 10:00 with Dr Nandini Kulkarni."
+    },
+    {
+      "memory_id": "X0004-m06",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Pain in left leg has increased over past two weeks, especially after standing for >30 minutes at work. Took extra diclofenac twice, helped briefly."
+    },
+    {
+      "memory_id": "X0004-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: pain now 6/10 on VAS, limits standing to 20 minutes; still manages shop duties with occasional rest.\ncognition: Mini-Cog 4/5 (stable).\nfalls: no falls; gait antalgic left side; timed up-and-go 11 seconds (borderline).\nmedicines: 3 regular (pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD).\nmood: reports frustration, PHQ-2 1.\ncarers: wife Priya, spouse.\ngoals: \"I need relief to work full days without pain.\""
+    },
+    {
+      "memory_id": "X0004-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pregabalin increased to 150 mg twice daily\n diclofenac 50 mg twice daily after food\n methylcobalamin 1500 mcg once daily"
+    },
+    {
+      "memory_id": "X0004-m09",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D 22 ng/mL (30-100) – still low\n Calcium 9.2 mg/dL (8.5-10.5)\n PTH 45 pg/mL (15-65)"
+    },
+    {
+      "memory_id": "X0004-m10",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "X-ray lumbar spine (AP and lateral): L4-L5 disc space narrowing, osteophyte formation at margins. No fracture or significant vertebral body abnormality."
+    },
+    {
+      "memory_id": "X0004-m11",
+      "date": "2025-09-01",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referred to Physiotherapy Department, Bangalore General Hospital, for core strengthening and lumbar traction. Requested 6 sessions over 8 weeks."
+    },
+    {
+      "memory_id": "X0004-m12",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Physiotherapy report: patient attended 5 sessions, improved lumbar flexion, pain reduced to 4/10. Advised home exercise program and proper footwear."
+    },
+    {
+      "memory_id": "X0004-m13",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: pain 3/10, able to stand 45 minutes, walks 3 km with occasional discomfort.\ncognition: Mini-Cog 4/5 (annual screen).\nfalls: no falls; gait normal; timed up-and-go 9 seconds (normal).\nmedicines: 4 regular (pregabalin 150 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD, cholecalciferol 1000 IU OD).\nmood: improved, PHQ-2 0.\ncarers: wife Priya, spouse.\ngoals: \"I want to be pain‑free and continue my work without limitations.\""
+    },
+    {
+      "memory_id": "X0004-m14",
+      "date": "2025-11-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pregabalin 150 mg twice daily\n diclofenac 50 mg twice daily after food\n methylcobalamin 1500 mcg once daily\n cholecalciferol (vitamin D3) 1000 IU once daily"
+    },
+    {
+      "memory_id": "X0004-m15",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D 34 ng/mL (30-100) – now sufficient\n Calcium 9.4 mg/dL (8.5-10.5)\n Creatinine 0.9 mg/dL (0.6-1.2)\n CBC: Hb 14.0, WBC 7.0, Platelets 210"
+    },
+    {
+      "memory_id": "X0004-m16",
+      "date": "2026-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-15 to 2026-04-01 at 09:30 for review with Dr Nandini Kulkarni."
+    }
+  ]
+}

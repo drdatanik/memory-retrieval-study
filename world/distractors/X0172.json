@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0172",
+  "name": "Nasir Pasha",
+  "age": 27,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0172-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, works full-time as hotel manager, reports occasional vertigo triggered by rapid head movements, no difficulty with daily chores.\ncognition: Mini-Cog score 4/5 (negative screen).\nfalls: 0 falls in past 12 months, gait normal, timed up-and-go 9 seconds (normal fall risk).\nmedicines: 0 regular.\nmood: Reports mild anxiety about vertigo episodes, denies depression or hopelessness.\ncarers: Mother, Lakshmi.\ngoals: \"I want to control vertigo so I can work without fear of dizziness.\""
+    },
+    {
+      "memory_id": "X0172-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg twice daily for 3 months; meclizine 25 mg as needed for vertigo, max 3 doses per day, for 3 months."
+    },
+    {
+      "memory_id": "X0172-m03",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports fewer vertigo episodes, able to work full shifts, ADLs independent.\ncognition: (Mini-Cog not repeated this visit; previous score 4/5 remains negative).\nfalls: 0 falls in last 12 months, gait steady, timed up-and-go 8 seconds (normal risk).\nmedicines: 1 regular (betahistine 16 mg BD).\nmood: Anxiety reduced, denies depressive symptoms.\ncarers: Mother, Lakshmi.\ngoals: \"I want to stay vertigo-free to manage my hotel duties without interruption.\""
+    },
+    {
+      "memory_id": "X0172-m04",
+      "date": "2025-06-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Pure-tone audiometry: Right ear thresholds 250 Hz 10 dB, 500 Hz 10 dB, 1000 Hz 10 dB, 2000 Hz 15 dB, 4000 Hz 20 dB, 8000 Hz 25 dB; Left ear thresholds 250 Hz 5 dB, 500 Hz 5 dB, 1000 Hz 5 dB, 2000 Hz 10 dB, 4000 Hz 15 dB, 8000 Hz 20 dB. All within normal limits (<25 dB)."
+    },
+    {
+      "memory_id": "X0172-m05",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-09-10 at 10:30 AM with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0172-m06",
+      "date": "2025-09-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: No vertigo attacks in past month, works full schedule, ADLs independent.\ncognition: (Mini-Cog not repeated; prior negative).\nfalls: 0 falls in last 12 months, gait normal, timed up-and-go 8 seconds (normal risk).\nmedicines: 1 regular (betahistine 16 mg BD).\nmood: Denies anxiety or low mood.\ncarers: Mother, Lakshmi.\ngoals: \"I aim to remain symptom‑free and continue career growth.\""
+    },
+    {
+      "memory_id": "X0172-m07",
+      "date": "2025-09-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine increased to 24 mg twice daily for 3 months; meclizine continued as needed."
+    },
+    {
+      "memory_id": "X0172-m08",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Stable, no vertigo, works full‑time, ADLs independent.\ncognition: Mini‑Cog score 3/5 (negative screen).\nfalls: 0 falls in past 12 months, gait normal, timed up‑and‑go 9 seconds (normal risk).\nmedicines: 1 regular (betahistine 24 mg BD).\nmood: Reports good spirits, denies depression.\ncarers: Mother, Lakshmi.\ngoals: \"I want to keep my vertigo under control so I can focus on hotel management.\""
+    },
+    {
+      "memory_id": "X0172-m09",
+      "date": "2025-12-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Pure‑tone audiometry: Right ear 250 Hz 10 dB, 500 Hz 10 dB, 1000 Hz 10 dB, 2000 Hz 15 dB, 4000 Hz 20 dB, 8000 Hz 25 dB; Left ear 250 Hz 5 dB, 500 Hz 5 dB, 1000 Hz 5 dB, 2000 Hz 10 dB, 4000 Hz 15 dB, 8000 Hz 20 dB. No change from prior; within normal limits."
+    },
+    {
+      "memory_id": "X0172-m10",
+      "date": "2026-02-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-03-15 to 2026-03-15 at 02:00 PM (rescheduled due to clinic closure)."
+    },
+    {
+      "memory_id": "X0172-m11",
+      "date": "2026-03-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Mild occasional vertigo on rapid head turn, otherwise independent.\ncognition: (Mini‑Cog not repeated; prior negative).\nfalls: 0 falls in last 12 months, gait normal, timed up‑and‑go 9 seconds (normal risk).\nmedicines: 1 regular (betahistine 24 mg BD).\nmood: Reports slight frustration with breakthrough symptoms.\ncarers: Mother, Lakshmi.\ngoals: \"I would like fewer breakthrough episodes to maintain work performance.\""
+    },
+    {
+      "memory_id": "X0172-m12",
+      "date": "2026-03-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 24 mg twice daily continued; meclizine stopped due to dry mouth side effect."
+    },
+    {
+      "memory_id": "X0172-m13",
+      "date": "2026-05-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Dix‑Hallpike test: Positive posterior canal BPPV on the right; torsional up‑beating nystagmus lasting <1 minute. No neurological deficits."
+    },
+    {
+      "memory_id": "X0172-m14",
+      "date": "2026-07-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: After repositioning maneuver, vertigo markedly improved; works full shifts.\ncognition: (Mini‑Cog not repeated; prior negative).\nfalls: 0 falls in last 12 months, gait normal, timed up‑and‑go 8 seconds (normal risk).\nmedicines: 1 regular (betahistine 24 mg BD).\nmood: Reports relief and optimism.\ncarers: Mother, Lakshmi.\ngoals: \"I want to stay vertigo‑free and continue my career without interruption.\""
+    },
+    {
+      "memory_id": "X0172-m15",
+      "date": "2026-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Pure‑tone audiometry: Right ear 250 Hz 10 dB, 500 Hz 10 dB, 1000 Hz 10 dB, 2000 Hz 15 dB, 4000 Hz 20 dB, 8000 Hz 25 dB; Left ear 250 Hz 5 dB, 500 Hz 5 dB, 1000 Hz 5 dB, 2000 Hz 10 dB, 4000 Hz 15 dB, 8000 Hz 20 dB. Stable, within normal limits."
+    },
+    {
+      "memory_id": "X0172-m16",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: No vertigo episodes in past 2 months, works full‑time, ADLs independent.\ncognition: Mini‑Cog score 4/5 (negative screen).\nfalls: 0 falls in past 12 months, gait normal, timed up‑and‑go 8 seconds (normal risk).\nmedicines: 1 regular (betahistine 24 mg BD).\nmood: Denies anxiety or depression.\ncarers: Mother, Lakshmi.\ngoals: \"I aim to remain symptom‑free and enjoy my work and life.\""
+    }
+  ]
+}

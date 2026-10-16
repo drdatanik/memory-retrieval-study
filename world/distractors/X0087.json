@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0087",
+  "name": "Shabana Sheikh",
+  "age": 41,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Epilepsy",
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0087-m01",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling unusually tired for the past two months, with heavy menstrual bleeding. My seizures are well controlled on levetiracetam and lamotrigine, but I had a brief breakthrough episode last month. I also get daily hives that worsen in the evenings, especially after stress. I would like my anemia, epilepsy and urticaria reviewed."
+    },
+    {
+      "memory_id": "X0087-m02",
+      "date": "2025-04-07",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: iron-deficiency anemia, epilepsy, chronic urticaria.\nShe reports fatigue, heavy menstrual bleeding, occasional breakthrough seizures, and daily hives worsening in evening. On examination, pallor of conjunctivae, no lymphadenopathy, lungs clear, skin shows scattered wheals. Spirometry: FEV1 2.85 L (92% predicted), FVC 3.10 L (95%), FEV1/FVC 0.92; change from prior not applicable. Smoking status: never. Asthma Control Test not applicable. Technique: no inhaler prescribed."
+    },
+    {
+      "memory_id": "X0087-m03",
+      "date": "2025-04-08",
+      "type": "prescription",
+      "author": "D05",
+      "text": "ferrous sulfate 200 mg PO OD for 3 months; levetiracetam 500 mg PO BD for 6 months; lamotrigine 50 mg PO BD for 6 months; levocetirizine 5 mg PO OD for 1 month; cetirizine 10 mg PO HS PRN for 1 month."
+    },
+    {
+      "memory_id": "X0087-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 9.8 g/dL (ref 12-16); Serum ferritin 12 ng/mL (ref 15-150); MCV 78 fL (ref 80-100). Serum sodium 138 mmol/L (ref 135-145); Serum creatinine 0.8 mg/dL (ref 0.6-1.1). WBC 6.2 x10^9/L, eosinophils 0.4 x10^9/L (ref <0.5). TSH 2.1 mIU/L (ref 0.4-4.5); Free T4 1.2 ng/dL (ref 0.9-1.7)."
+    },
+    {
+      "memory_id": "X0087-m05",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: iron-deficiency anemia improving, epilepsy stable, chronic urticaria persistent.\nShe feels less fatigued, menses lighter, no breakthrough seizures. Hives persist daily, worse after stress. Exam: conjunctival pallor mild, lungs clear, skin shows scattered wheals. Spirometry: FEV1 2.90 L (94% pred), FVC 3.12 L (96%), FEV1/FVC 0.93; ΔFEV1 +0.05 L. Smoking status: never. Asthma Control Test not applicable. Technique: no inhaler."
+    },
+    {
+      "memory_id": "X0087-m06",
+      "date": "2025-06-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "ferrous sulfate 200 mg PO OD for 3 months (continue); levetiracetam 500 mg PO BD for 6 months; lamotrigine 50 mg PO BD for 6 months; levocetirizine 5 mg PO OD stop; cetirizine 10 mg PO HS nightly for 2 months."
+    },
+    {
+      "memory_id": "X0087-m07",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "EEG: background activity normal, no epileptiform discharges. No focal slowing. Interpretation: consistent with well-controlled epilepsy on current regimen."
+    },
+    {
+      "memory_id": "X0087-m08",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 11.4 g/dL (ref 12-16); Serum ferritin 28 ng/mL (ref 15-150); MCV 81 fL (ref 80-100). Serum sodium 137 mmol/L; Serum creatinine 0.8 mg/dL. WBC 5.9 x10^9/L, eosinophils 0.3 x10^9/L. TSH 2.0 mIU/L; Free T4 1.2 ng/dL."
+    },
+    {
+      "memory_id": "X0087-m09",
+      "date": "2025-09-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: iron-deficiency anemia near correction, epilepsy stable, chronic urticaria partially controlled.\nShe reports energy better, menses normal, no seizures. Hives reduced to 3-4 days/week, less intense. Exam: mild pallor, lungs clear, skin shows occasional wheals. Spirometry: FEV1 2.92 L (95% pred), FVC 3.13 L (96%), FEV1/FVC 0.93; ΔFEV1 +0.02 L. Smoking status: never. Asthma Control Test not applicable. Technique: no inhaler."
+    },
+    {
+      "memory_id": "X0087-m10",
+      "date": "2025-09-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "ferrous sulfate 200 mg PO on alternate days for 2 months; levetiracetam 500 mg PO BD for 6 months; lamotrigine 50 mg PO BD for 6 months; levocetirizine 5 mg PO OD restart; cetirizine 10 mg PO HS stop."
+    },
+    {
+      "memory_id": "X0087-m11",
+      "date": "2026-02-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up pulmonology appointment booked for 2026-02-12 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0087-m12",
+      "date": "2026-02-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: iron-deficiency anemia resolved, epilepsy stable, chronic urticaria controlled.\nShe denies fatigue, menses normal, no seizures, hives only occasional after stress. Exam: no pallor, lungs clear, skin clear. Spirometry: FEV1 2.95 L (96% pred), FVC 3.15 L (97%), FEV1/FVC 0.94; ΔFEV1 +0.03 L. Smoking status: never. Asthma Control Test not applicable. Technique: no inhaler."
+    },
+    {
+      "memory_id": "X0087-m13",
+      "date": "2026-02-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.2 g/dL (ref 12-16); Serum ferritin 45 ng/mL (ref 15-150); MCV 88 fL (ref 80-100). Serum sodium 138 mmol/L; Serum creatinine 0.8 mg/dL. WBC 6.0 x10^9/L, eosinophils 0.2 x10^9/L. TSH 2.2 mIU/L; Free T4 1.2 ng/dL."
+    },
+    {
+      "memory_id": "X0087-m14",
+      "date": "2026-07-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have noticed mild dizziness when standing quickly lately, but otherwise feel well. My seizures remain absent, and hives are rare. I am concerned the dizziness might be from the iron supplement; should I reduce the dose?"
+    },
+    {
+      "memory_id": "X0087-m15",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: iron-deficiency anemia resolved, epilepsy stable, chronic urticaria well controlled, mild orthostatic dizziness likely related to recent iron dose.\nShe reports occasional light-headedness on standing, otherwise no fatigue, no seizures, hives rare. Exam: vitals normal, lungs clear, skin clear. Spirometry: FEV1 2.96 L (97% pred), FVC 3.16 L (98%), FEV1/FVC 0.94; ΔFEV1 +0.01 L. Smoking status: never. Asthma Control Test not applicable. Technique: no inhaler. Advised to reduce ferrous sulfate to 200 mg twice weekly and recheck labs in 8 weeks."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0523",
+  "name": "Thangam Annamalai",
+  "age": 38,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Hypothyroidism",
+    "Benign positional vertigo",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0523-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Hypothyroidism, benign positional vertigo, vitamin B12 deficiency. Patient reports fatigue, weight gain, occasional dizziness on turning head, and mild tingling in extremities. On exam: mild dry skin, normal vitals, positional nystagmus positive on Dix-Hallpike right side, thyroid not enlarged. Spirometry: FEV1 2.85 L (92% pred), FVC 3.60 L (95% pred), FEV1/FVC 0.79; unchanged from baseline. Smoking: never. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0523-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 50 mcg OD\nBetahistine 16 mg BD\nMethylcobalamin 1500 mcg OD\nMeclizine 25 mg SOS"
+    },
+    {
+      "memory_id": "X0523-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 6.2 mIU/L (0.4-4.0)\nFree T4 11.5 pmol/L (12-22)\nVitamin B12 180 pg/mL (200-900)\nMCV 98 fL (80-100)\nHaemoglobin 12.8 g/dL (12-16)"
+    },
+    {
+      "memory_id": "X0523-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Hypothyroidism, benign positional vertigo, vitamin B12 deficiency. Patient notes improved energy, less frequent dizzy spells, occasional mild nausea. Exam: no goiter, Dix-Hallpike negative bilaterally, mild peripheral neuropathy unchanged. Spirometry: FEV1 2.88 L (93% pred), FVC 3.62 L (96% pred), FEV1/FVC 0.80; ΔFEV1 +0.03 L. Smoking: never. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0523-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 75 mcg OD\nBetahistine 16 mg BD\nMethylcobalamin 1500 mcg OD\nMeclizine 25 mg SOS"
+    },
+    {
+      "memory_id": "X0523-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.8 mIU/L (0.4-4.0)\nFree T4 13.0 pmol/L (12-22)\nVitamin B12 210 pg/mL (200-900)\nMCV 96 fL (80-100)\nHaemoglobin 13.0 g/dL (12-16)"
+    },
+    {
+      "memory_id": "X0523-m07",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-10-15 at 10:30 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0523-m08",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Hypothyroidism, benign positional vertigo, vitamin B12 deficiency. Patient feels well, reports no vertigo episodes, mild occasional fatigue. Exam: normal vitals, thyroid non-tender, no nystagmus. Spirometry: FEV1 2.90 L (94% pred), FVC 3.65 L (97% pred), FEV1/FVC 0.79; ΔFEV1 +0.02 L. Smoking: never. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0523-m09",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 100 mcg OD\nBetahistine 16 mg BD\nMethylcobalamin 1500 mcg OD\nMeclizine 25 mg SOS"
+    },
+    {
+      "memory_id": "X0523-m10",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.5 mIU/L (0.4-4.0)\nFree T4 14.5 pmol/L (12-22)\nVitamin B12 260 pg/mL (200-900)\nMCV 92 fL (80-100)\nHaemoglobin 13.5 g/dL (12-16)"
+    },
+    {
+      "memory_id": "X0523-m11",
+      "date": "2026-04-08",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Hypothyroidism, benign positional vertigo, vitamin B12 deficiency. Patient asymptomatic, reports good stamina, no dizziness. Exam: normal vitals, thyroid non-enlarged, no positional nystagmus. Spirometry: FEV1 2.92 L (95% pred), FVC 3.68 L (98% pred), FEV1/FVC 0.79; ΔFEV1 +0.02 L. Smoking: never. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0523-m12",
+      "date": "2026-04-08",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 100 mcg OD\nBetahistine 16 mg BD\nMethylcobalamin 1500 mcg OD\nMeclizine 25 mg SOS"
+    },
+    {
+      "memory_id": "X0523-m13",
+      "date": "2026-10-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4-4.0)\nFree T4 15.2 pmol/L (12-22)\nVitamin B12 320 pg/mL (200-900)\nMCV 90 fL (80-100)\nHaemoglobin 14.0 g/dL (12-16)"
+    }
+  ]
+}

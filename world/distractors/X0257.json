@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0257",
+  "name": "Mary Rodrigues",
+  "age": 62,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Psoriasis",
+    "Heart failure with reduced ejection fraction"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0257-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow‑up of IBS, psoriasis and HFrEF. EXAMINATION: BP 138/86 mmHg, weight 78 kg, BMI 24.3 (overweight). Pulse regular, lungs clear, S1S2 normal, no edema. Skin shows mild plaque psoriasis on elbows. Abdomen soft, non‑tender. IMPRESSION: 1. IBS stable. 2. Psoriasis mild‑moderate. 3. HFrEF NYHA II, EF 40% on prior echo. 4. Overweight (BMI 24.3). ARRANGEMENTS: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Continue clobetasol 0.05% cream BD, calcipotriol ointment OD, methotrexate 7.5 mg weekly with folic acid 5 mg OD. Continue sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD, furosemide 40 mg OD, dapagliflozin 10 mg OD. Order fasting lipid profile, fasting blood sugar, CBC, stool routine, tTG‑IgA, LFT, serum creatinine, potassium, NT‑proBNP. Advise reduced‑salt diet, 150 min/week brisk walk. Return if: chest pain, breathlessness > usual, fever >39°C, bloody stools, sudden weight gain >2 kg."
+    },
+    {
+      "memory_id": "X0257-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.2 g/dl (12‑16), WBC 6.8×10⁹/L (4‑10), Platelets 210×10⁹/L (150‑400). Stool routine: Ova/cysts nil, pus cells 0‑2/hpf. tTG‑IgA: <4 U/ml (negative <7). LFT: ALT 22 U/L (≤35), AST 20 U/L (≤40), ALP 78 U/L (≤120), GGT 30 U/L (≤50), Bilirubin 0.9 mg/dl (≤1.2). Serum creatinine: 0.92 mg/dl (0.6‑1.1). Serum potassium: 4.4 mmol/L (3.5‑5.0). NT‑proBNP: 312 pg/ml (<400)."
+    },
+    {
+      "memory_id": "X0257-m03",
+      "date": "2025-05-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tab Mebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS\nClobetasol 0.05% cream BD topical\nCalcipotriol ointment OD topical\nMethotrexate 7.5 mg PO weekly\nFolic acid 5 mg OD\nSacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg OD\nFurosemide 40 mg OD\nDapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0257-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Review of symptoms, mild increase in bowel frequency. EXAMINATION: BP 142/88 mmHg, weight 79.5 kg, BMI 24.9 (overweight). JVP not elevated, lungs clear, S1S2 normal, trace pedal edema. Psoriasis plaques slightly thicker on knees. Abdomen soft, mild tenderness left lower quadrant. IMPRESSION: 1. IBS – occasional loose stools, consider anti‑diarrheal PRN. 2. Psoriasis – mild progression. 3. HFrEF – stable NYHA II. 4. Overweight. ARRANGEMENTS: Continue current meds. Add loperamide 2 mg PRN up to 8 mg/day for diarrhea. Reinforce low‑FODMAP diet, increase soluble fiber. Advise weight‑target <23 kg/m²; diet and activity counseling. Influenza vaccine offered (patient declined). Return if: worsening dyspnea, orthopnea, chest pain, fever >39°C, melena."
+    },
+    {
+      "memory_id": "X0257-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 190 mg/dl (<200), Triglycerides 138 mg/dl (<150), HDL 48 mg/dl (>40), LDL 112 mg/dl (<130). Fasting blood sugar: 92 mg/dl (70‑99). Serum creatinine: 0.94 mg/dl. Serum potassium: 4.5 mmol/L. NT‑proBNP: 298 pg/ml. LFT: ALT 24, AST 21, ALP 80, GGT 32. CBC: Hb 13.0, WBC 6.5, Platelets 205."
+    },
+    {
+      "memory_id": "X0257-m06",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-10 at 10:30 with Dr Priya Natarajan (D03) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0257-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up, reports occasional heartburn, stable bowel habit. EXAMINATION: BP 140/86 mmHg, weight 80.2 kg, BMI 25.1 (obese). JVP not raised, lungs clear, S1S2 normal, mild bilateral ankle edema. Psoriasis plaques unchanged. Abdomen soft, non‑tender. IMPRESSION: 1. IBS – stable. 2. Psoriasis – stable. 3. HFrEF – NYHA II, weight gain 0.7 kg since last visit. 4. Obese (BMI 25.1). ARRANGEMENTS: Continue meds. Add dietary referral for weight management. Reinforce low‑salt (<2g/day). Increase furosemide to 40 mg BD if weight >2 kg rise. Offer influenza vaccine (patient accepts). Return if: acute dyspnea, chest pain, syncope, fever >39°C, hematemesis."
+    },
+    {
+      "memory_id": "X0257-m08",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tab Mebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS\nClobetasol 0.05% cream BD topical\nCalcipotriol ointment OD topical\nMethotrexate 7.5 mg PO weekly\nFolic acid 5 mg OD\nSacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg OD\nFurosemide 40 mg BD\nDapagliflozin 10 mg OD\nInfluenza vaccine 0.5 ml IM given today"
+    },
+    {
+      "memory_id": "X0257-m09",
+      "date": "2026-02-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Echocardiogram: Left ventricular ejection fraction 38% (down from 40%). Left atrial diameter 3.8 cm. Mild mitral regurgitation. No pericardial effusion. Estimated pulmonary artery pressure 28 mmHg. Conclusion: HFrEF, mild systolic dysfunction, NYHA II."
+    },
+    {
+      "memory_id": "X0257-m10",
+      "date": "2026-02-20",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Cardiology, Narayana Health, Bengaluru. Reason: Recent decline in LVEF to 38% on echo, optimize HF therapy, consider device evaluation. Attach echo report and latest labs."
+    },
+    {
+      "memory_id": "X0257-m11",
+      "date": "2026-03-10",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Cardiology reply: Patient reviewed, EF 38%, NYHA II. Recommend continuation of sacubitril/valsartan, bisoprolol, spironolactone, dapagliflozin. Add ivabradine 5 mg BD if heart rate >70 bpm. No device indicated at present. Follow‑up in 3 months."
+    },
+    {
+      "memory_id": "X0257-m12",
+      "date": "2026-08-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Annual review, reports good exercise tolerance, occasional mild bloating. EXAMINATION: BP 136/84 mmHg, weight 79.0 kg, BMI 24.5 (overweight). JVP not elevated, lungs clear, S1S2 normal, trace edema. Psoriasis mild. Abdomen soft, non‑tender. IMPRESSION: 1. IBS – stable. 2. Psoriasis – mild. 3. HFrEF – stable NYHA II, EF 38%. 4. Overweight. ARRANGEMENTS: Continue current meds. Order fasting lipid profile, fasting blood sugar, CBC, stool routine, tTG‑IgA, LFT, serum creatinine, potassium, NT‑proBNP. Offer influenza vaccine (patient accepts). Return if: dyspnea at rest, chest pain, fever >39°C, melena, sudden weight gain."
+    },
+    {
+      "memory_id": "X0257-m13",
+      "date": "2026-08-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 185 mg/dl, Triglycerides 130 mg/dl, HDL 50 mg/dl, LDL 110 mg/dl. Fasting blood sugar: 89 mg/dl. Serum creatinine: 0.93 mg/dl. Serum potassium: 4.4 mmol/L. NT‑proBNP: 305 pg/ml. LFT: ALT 23, AST 20, ALP 78, GGT 31. CBC: Hb 13.1, WBC 6.7, Platelets 208. Stool routine: Ova/cysts nil, pus cells 0‑1/hpf. tTG‑IgA: <3 U/ml."
+    }
+  ]
+}

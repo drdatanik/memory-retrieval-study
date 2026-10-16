@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0014",
+  "name": "Amudha Annamalai",
+  "age": 69,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Chronic kidney disease",
+    "Type 2 diabetes",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0014-m01",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-04-07 09:00 with Dr Karthik Hegde (D04) for initial consultation."
+    },
+    {
+      "memory_id": "X0014-m02",
+      "date": "2025-04-07",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  - Status: Stable, eGFR 48 mL/min/1.73m2, serum creatinine 1.6 mg/dL, urine ACR 45 mg/g.\n  - Plan: Continue telmisartan 40 mg 1-0-0 after food, dapagliflozin 10 mg 1-0-0 after food, furosemide 20 mg 1-0-0 after food, sodium bicarbonate 500 mg 0-1-0 after food.\n- Type 2 diabetes mellitus\n  - Status: HbA1c 7.8%, fasting glucose 152 mg/dL.\n  - Plan: Start metformin 500 mg 1-0-1 after food, glimepiride 1 mg 1-0-0 before breakfast, sitagliptin 100 mg 1-0-0 after food, empagliflozin 10 mg 1-0-0 after food.\n- Vitamin D deficiency\n  - Status: Serum 25-OH vitamin D 18 ng/mL (insufficient).\n  - Plan: Cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU 1-0-0 after food.\n- Weight: 68 kg, waist circumference 82 cm (above female cut-off of 80 cm).\n  - Plan: Diet advice: Breakfast – reduce refined carbs, include protein; Lunch – portion-controlled rice with vegetables; Dinner – light soup and salad. Encourage walking 30 mins daily.\nDue: HbA1c repeat on 2025-07-07."
+    },
+    {
+      "memory_id": "X0014-m03",
+      "date": "2025-04-08",
+      "type": "prescription",
+      "author": "D04",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n metformin 500 mg BD\n glimepiride 1 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n cholecalciferol 60000 IU once weekly for 8 weeks"
+    },
+    {
+      "memory_id": "X0014-m04",
+      "date": "2025-04-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 1.6 mg/dL (0.6-1.2)\neGFR: 48 mL/min/1.73m2 (>60)\nUrine ACR: 45 mg/g (<30)\nHaemoglobin: 12.8 g/dL (12-16)\nHbA1c: 7.8% (<5.7)\nFasting plasma glucose: 152 mg/dL (70-99)\nSerum 25-hydroxyvitamin D: 18 ng/mL (30-100)\nSerum calcium: 9.1 mg/dL (8.5-10.5)\nSerum phosphate: 3.4 mg/dL (2.5-4.5)"
+    },
+    {
+      "memory_id": "X0014-m05",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling more tired than usual over the past week, especially after my morning walk. My feet sometimes feel swollen by evening. I am taking all my medicines as prescribed."
+    },
+    {
+      "memory_id": "X0014-m06",
+      "date": "2025-07-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-07-03 10:30 with Dr Karthik Hegde (D04) for follow‑up review."
+    },
+    {
+      "memory_id": "X0014-m07",
+      "date": "2025-07-03",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  - Status: eGFR 46 mL/min/1.73m2, creatinine 1.7 mg/dL, urine ACR 48 mg/g; mild increase.\n  - Plan: Continue current CKD meds; add furosemide 20 mg 1-0-0 after food if edema worsens.\n- Type 2 diabetes mellitus\n  - Status: HbA1c 7.2%, fasting glucose 138 mg/dL.\n  - Plan: Continue metformin, glimepiride, sitagliptin, empagliflozin; consider reducing glimepiride if hypoglycemia.\n- Vitamin D deficiency\n  - Status: 25-OH vitamin D 22 ng/mL after 4 weeks loading.\n  - Plan: Continue cholecalciferol 60000 IU weekly for remaining 4 weeks, then switch to 1000 IU OD.\n- Weight: 67.5 kg, waist circumference 81 cm (above 80 cm cut‑off).\n  - Plan: Diet advice: Breakfast – whole grain toast with egg; Lunch – mixed vegetable curry with small rice portion; Dinner – dal and steamed vegetables. Walk 30 mins daily, monitor edema.\nDue: HbA1c repeat on 2025-10-03."
+    },
+    {
+      "memory_id": "X0014-m08",
+      "date": "2025-07-04",
+      "type": "prescription",
+      "author": "D04",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n metformin 500 mg BD\n glimepiride 0.5 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n cholecalciferol 60000 IU once weekly for 4 more weeks"
+    },
+    {
+      "memory_id": "X0014-m09",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 1.7 mg/dL (0.6-1.2)\neGFR: 46 mL/min/1.73m2 (>60)\nUrine ACR: 48 mg/g (<30)\nHaemoglobin: 12.9 g/dL (12-16)\nHbA1c: 7.2% (<5.7)\nFasting plasma glucose: 138 mg/dL (70-99)\nSerum 25-hydroxyvitamin D: 22 ng/mL (30-100)\nSerum calcium: 9.2 mg/dL (8.5-10.5)\nSerum phosphate: 3.5 mg/dL (2.5-4.5)"
+    },
+    {
+      "memory_id": "X0014-m10",
+      "date": "2025-09-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dilated fundus exam: Mild non‑proliferative diabetic retinopathy, microaneurysms noted in both eyes, no macular edema. Visual acuity 6/6 each eye. Recommend annual repeat."
+    },
+    {
+      "memory_id": "X0014-m11",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-04 14:00 with Dr Karthik Hegde (D04) for routine review."
+    },
+    {
+      "memory_id": "X0014-m12",
+      "date": "2025-10-04",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  - Status: eGFR 45 mL/min/1.73m2, creatinine 1.8 mg/dL, urine ACR 50 mg/g; stable.\n  - Plan: Continue telmisartan, dapagliflozin, furosemide, sodium bicarbonate; monitor for volume depletion.\n- Type 2 diabetes mellitus\n  - Status: HbA1c 6.9%, fasting glucose 128 mg/dL.\n  - Plan: Continue metformin, glimepiride 0.5 mg, sitagliptin, empagliflozin; aim HbA1c <7%.\n- Vitamin D deficiency\n  - Status: 25-OH vitamin D 31 ng/mL after loading + maintenance.\n  - Plan: Switch to cholecalciferol 1000 IU OD indefinitely.\n- Weight: 67 kg, waist circumference 80 cm (at female cut‑off).\n  - Plan: Diet advice: Breakfast – oats with milk and nuts; Lunch – vegetable sambar with 1 cup rice; Dinner – chapati with curry. Continue walking 30 mins daily.\nDue: HbA1c repeat on 2026-01-04."
+    },
+    {
+      "memory_id": "X0014-m13",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n metformin 500 mg BD\n glimepiride 0.5 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n cholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0014-m14",
+      "date": "2025-11-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 1.8 mg/dL (0.6-1.2)\neGFR: 45 mL/min/1.73m2 (>60)\nUrine ACR: 50 mg/g (<30)\nHaemoglobin: 13.0 g/dL (12-16)\nHbA1c: 6.9% (<5.7)\nFasting plasma glucose: 128 mg/dL (70-99)\nSerum 25-hydroxyvitamin D: 31 ng/mL (30-100)\nSerum calcium: 9.3 mg/dL (8.5-10.5)\nSerum phosphate: 3.6 mg/dL (2.5-4.5)"
+    },
+    {
+      "memory_id": "X0014-m15",
+      "date": "2026-04-08",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-10 09:15 with Dr Karthik Hegde (D04) for annual review."
+    },
+    {
+      "memory_id": "X0014-m16",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  - Status: eGFR 44 mL/min/1.73m2, creatinine 1.9 mg/dL, urine ACR 52 mg/g; slowly declining.\n  - Plan: Continue telmisartan, dapagliflozin, furosemide, sodium bicarbonate; consider nephrology referral if eGFR <40.\n- Type 2 diabetes mellitus\n  - Status: HbA1c 6.7%, fasting glucose 122 mg/dL.\n  - Plan: Continue metformin, glimepiride 0.5 mg, sitagliptin, empagliflozin; reinforce lifestyle.\n- Vitamin D deficiency\n  - Status: 25-OH vitamin D 34 ng/mL on maintenance.\n  - Plan: Continue cholecalciferol 1000 IU OD.\n- Weight: 66.5 kg, waist circumference 79 cm (below 80 cm cut‑off).\n  - Plan: Diet advice: Breakfast – idli with sambar and chutney; Lunch – vegetable curry with modest rice; Dinner – roti with leafy greens. Maintain walking 30‑45 mins daily.\nDue: HbA1c repeat on 2026-07-10."
+    }
+  ]
+}

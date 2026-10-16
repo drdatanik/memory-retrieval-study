@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0202",
+  "name": "Balasubramanian Raman",
+  "age": 22,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0202-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression: status: new onset low mood, anhedonia, PHQ-9 15/27, no suicidal ideation. plan: start sertraline 50 mg OD after breakfast, monitor PHQ-9 in 4 weeks, weight 68 kg, waist 78 cm (male cutoff 90 cm OK). diet advice: breakfast - include protein and fibre; lunch - balanced plate with veg; dinner - light, avoid heavy carbs."
+    },
+    {
+      "memory_id": "X0202-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "sertraline 50 mg OD (after breakfast)"
+    },
+    {
+      "memory_id": "X0202-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0). Vitamin B12 340 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0202-m04",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression: status: improved mood, PHQ-9 10/27, reports better sleep, mild daytime fatigue. plan: increase sertraline to 100 mg OD after breakfast, repeat PHQ-9 in 4 weeks, weight 69 kg, waist 80 cm (still OK). diet advice: breakfast - add nuts; lunch - include legumes; dinner - soup + salad."
+    },
+    {
+      "memory_id": "X0202-m05",
+      "date": "2025-07-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "sertraline 100 mg OD (after breakfast)"
+    },
+    {
+      "memory_id": "X0202-m06",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4-4.0). Vitamin B12 355 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0202-m07",
+      "date": "2025-09-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling better most days, occasional trouble falling asleep, no side effects from meds."
+    },
+    {
+      "memory_id": "X0202-m08",
+      "date": "2025-10-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression: status: PHQ-9 8/27, reports improved energy, occasional insomnia. plan: add mirtazapine 15 mg HS for sleep, continue sertraline 100 mg OD, review PHQ-9 in 4 weeks, weight 70 kg, waist 82 cm (still <90). diet advice: breakfast - Greek yogurt + fruit; lunch - grilled chicken salad; dinner - steamed veg + rice."
+    },
+    {
+      "memory_id": "X0202-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "sertraline 100 mg OD (after breakfast); mirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0202-m10",
+      "date": "2026-01-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking follow‑up endocrinology review on 2026-01-15 at 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0202-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression: status: PHQ-9 6/27, reports good mood, mild weight gain. plan: continue sertraline 100 mg OD and mirtazapine 15 mg HS, monitor weight, repeat PHQ-9 in 3 months, weight 71 kg, waist 84 cm (<90). diet advice: breakfast - oats with berries; lunch - dal + roti + veg; dinner - light khichdi."
+    },
+    {
+      "memory_id": "X0202-m12",
+      "date": "2026-01-16",
+      "type": "prescription",
+      "author": "D04",
+      "text": "sertraline 100 mg OD (after breakfast); mirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0202-m13",
+      "date": "2026-04-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4-4.0). Vitamin B12 360 pg/mL (200-900). Lipid profile: total cholesterol 160 mg/dL (<200), HDL 45 mg/dL (>40), LDL 95 mg/dL (<130), triglycerides 110 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0202-m14",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression: status: PHQ-9 5/27, near remission, reports occasional mild anxiety. plan: taper and stop mirtazapine (reduce to 7.5 mg HS for 2 weeks then stop), continue sertraline 100 mg OD, repeat PHQ-9 in 3 months, weight 70.5 kg, waist 83 cm (<90). diet advice: breakfast - idli + sambar; lunch - vegetable pulao + raita; dinner - grilled fish + salad."
+    },
+    {
+      "memory_id": "X0202-m15",
+      "date": "2026-04-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "sertraline 100 mg OD (after breakfast); mirtazapine discontinued"
+    },
+    {
+      "memory_id": "X0202-m16",
+      "date": "2026-08-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Doing well, mood stable, no sleep issues, medication fine."
+    },
+    {
+      "memory_id": "X0202-m17",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression: status: PHQ-9 4/27, in remission, no side effects. plan: continue sertraline 100 mg OD, consider taper after 6 months of stability, repeat PHQ-9 in 3 months, weight 70 kg, waist 82 cm (<90). diet advice: breakfast - poha + peanuts; lunch - chapati + curd + veg; dinner - lentil soup + rice."
+    }
+  ]
+}

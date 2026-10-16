@@ -1,0 +1,321 @@
+{
+  "n_boot": 10000,
+  "bootstrap_seed": 0,
+  "store_tokens": {
+    "L1": 40501.0,
+    "L3": 198497.0,
+    "L5": 798154.0
+  },
+  "store_tokens_source": {
+    "L1": "world/levels.json",
+    "L3": "world/levels.json",
+    "L5": "world/levels.json"
+  },
+  "quality": {
+    "EMB": {
+      "per_level": {
+        "L1": {
+          "mean_d": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n_questions": 12
+        },
+        "L3": {
+          "mean_d": 0.0,
+          "ci_low": 0.0,
+          "ci_high": 0.0,
+          "n_questions": 12
+        },
+        "L5": {
+          "mean_d": 0.08333333333333333,
+          "ci_low": 0.0,
+          "ci_high": 0.25,
+          "n_questions": 12
+        }
+      },
+      "crossover_tokens": null,
+      "reason": "no crossover in tested range",
+      "beyond_crossover_favours": null,
+      "crossover_ci_low": null,
+      "crossover_ci_high": null,
+      "n_resamples_with_crossover": 0,
+      "fraction_resamples_no_crossover": 1.0
+    },
+    "MD": {
+      "per_level": {
+        "L1": {
+          "mean_d": 0.08333333333333333,
+          "ci_low": 0.0,
+          "ci_high": 0.25,
+          "n_questions": 12
+        },
+        "L3": {
+          "mean_d": 0.08333333333333333,
+          "ci_low": 0.0,
+          "ci_high": 0.25,
+          "n_questions": 12
+        },
+        "L5": {
+          "mean_d": -0.08333333333333333,
+          "ci_low": -0.3333333333333333,
+          "ci_high": 0.16666666666666666,
+          "n_questions": 12
+        }
+      },
+      "crossover_tokens": 398034.1374028119,
+      "reason": null,
+      "beyond_crossover_favours": "CTX",
+      "crossover_ci_low": 262192.6402169877,
+      "crossover_ci_high": 501929.18118959834,
+      "n_resamples_with_crossover": 4854,
+      "fraction_resamples_no_crossover": 0.5146
+    }
+  },
+  "cost": {
+    "observed": {
+      "EMB": {
+        "per_level": {
+          "L1": {
+            "arm_mean_cost_usd": 0.0015288872666666669,
+            "ctx_mean_cost_usd": 0.0009396898
+          },
+          "L3": {
+            "arm_mean_cost_usd": 0.0013285962666666669,
+            "ctx_mean_cost_usd": 0.0033778976000000006
+          },
+          "L5": {
+            "arm_mean_cost_usd": 0.0013375889333333334,
+            "ctx_mean_cost_usd": 0.003786179133333333
+          }
+        },
+        "arm_cheaper_at_levels": [
+          "L3",
+          "L5"
+        ],
+        "crossover_tokens": 57758.04878540052,
+        "reason": null,
+        "beyond_crossover_cheaper": "EMB"
+      },
+      "MD": {
+        "per_level": {
+          "L1": {
+            "arm_mean_cost_usd": 0.0007678220666666666,
+            "ctx_mean_cost_usd": 0.0009396898
+          },
+          "L3": {
+            "arm_mean_cost_usd": 0.0008802523333333334,
+            "ctx_mean_cost_usd": 0.0033778976000000006
+          },
+          "L5": {
+            "arm_mean_cost_usd": 0.0011466746666666666,
+            "ctx_mean_cost_usd": 0.003786179133333333
+          }
+        },
+        "arm_cheaper_at_levels": [
+          "L1",
+          "L3",
+          "L5"
+        ],
+        "crossover_tokens": null,
+        "reason": "no crossover in tested range",
+        "beyond_crossover_cheaper": null
+      }
+    },
+    "uncached": {
+      "EMB": {
+        "per_level": {
+          "L1": {
+            "arm_mean_cost_usd": 0.002393661666666667,
+            "ctx_mean_cost_usd": 0.005974791666666667
+          },
+          "L3": {
+            "arm_mean_cost_usd": 0.0025265333333333337,
+            "ctx_mean_cost_usd": 0.02812898666666667
+          },
+          "L5": {
+            "arm_mean_cost_usd": 0.002455856666666667,
+            "ctx_mean_cost_usd": 0.11216689166666667
+          }
+        },
+        "arm_cheaper_at_levels": [
+          "L1",
+          "L3",
+          "L5"
+        ],
+        "crossover_tokens": null,
+        "reason": "no crossover in tested range",
+        "beyond_crossover_cheaper": null
+      },
+      "MD": {
+        "per_level": {
+          "L1": {
+            "arm_mean_cost_usd": 0.001308125,
+            "ctx_mean_cost_usd": 0.005974791666666667
+          },
+          "L3": {
+            "arm_mean_cost_usd": 0.002227388333333334,
+            "ctx_mean_cost_usd": 0.02812898666666667
+          },
+          "L5": {
+            "arm_mean_cost_usd": 0.006231026666666667,
+            "ctx_mean_cost_usd": 0.11216689166666667
+          }
+        },
+        "arm_cheaper_at_levels": [
+          "L1",
+          "L3",
+          "L5"
+        ],
+        "crossover_tokens": null,
+        "reason": "no crossover in tested range",
+        "beyond_crossover_cheaper": null
+      }
+    },
+    "cached_cold": {
+      "EMB": {
+        "per_level": {
+          "L1": {
+            "arm_mean_cost_usd": 0.0014701085,
+            "ctx_mean_cost_usd": 0.005974791666666667
+          },
+          "L3": {
+            "arm_mean_cost_usd": 0.0014668859333333334,
+            "ctx_mean_cost_usd": 0.02812898666666667
+          },
+          "L5": {
+            "arm_mean_cost_usd": 0.0014588130666666668,
+            "ctx_mean_cost_usd": 0.11216689166666667
+          }
+        },
+        "arm_cheaper_at_levels": [
+          "L1",
+          "L3",
+          "L5"
+        ],
+        "crossover_tokens": null,
+        "reason": "no crossover in tested range",
+        "beyond_crossover_cheaper": null
+      },
+      "MD": {
+        "per_level": {
+          "L1": {
+            "arm_mean_cost_usd": 0.0009405030833333335,
+            "ctx_mean_cost_usd": 0.005974791666666667
+          },
+          "L3": {
+            "arm_mean_cost_usd": 0.0014361156833333335,
+            "ctx_mean_cost_usd": 0.02812898666666667
+          },
+          "L5": {
+            "arm_mean_cost_usd": 0.0034584093833333334,
+            "ctx_mean_cost_usd": 0.11216689166666667
+          }
+        },
+        "arm_cheaper_at_levels": [
+          "L1",
+          "L3",
+          "L5"
+        ],
+        "crossover_tokens": null,
+        "reason": "no crossover in tested range",
+        "beyond_crossover_cheaper": null
+      }
+    },
+    "cached_warm": {
+      "EMB": {
+        "per_level": {
+          "L1": {
+            "arm_mean_cost_usd": 0.0013720835333333335,
+            "ctx_mean_cost_usd": 0.0004712476999999999
+          },
+          "L3": {
+            "arm_mean_cost_usd": 0.0013688609666666666,
+            "ctx_mean_cost_usd": 0.0011695859
+          },
+          "L5": {
+            "arm_mean_cost_usd": 0.0013607881000000002,
+            "ctx_mean_cost_usd": 0.0037740702999999993
+          }
+        },
+        "arm_cheaper_at_levels": [
+          "L5"
+        ],
+        "crossover_tokens": 220724.19964994903,
+        "reason": null,
+        "beyond_crossover_cheaper": "EMB"
+      },
+      "MD": {
+        "per_level": {
+          "L1": {
+            "arm_mean_cost_usd": 0.0007164557166666666,
+            "ctx_mean_cost_usd": 0.0004712476999999999
+          },
+          "L3": {
+            "arm_mean_cost_usd": 0.0007400275166666667,
+            "ctx_mean_cost_usd": 0.0011695859
+          },
+          "L5": {
+            "arm_mean_cost_usd": 0.0009440950166666667,
+            "ctx_mean_cost_usd": 0.0037740702999999993
+          }
+        },
+        "arm_cheaper_at_levels": [
+          "L3",
+          "L5"
+        ],
+        "crossover_tokens": 72162.9597502393,
+        "reason": null,
+        "beyond_crossover_cheaper": "MD"
+      }
+    },
+    "actual": {
+      "EMB": {
+        "per_level": {
+          "L1": {
+            "arm_mean_cost_usd": 0.0015288872666666664,
+            "ctx_mean_cost_usd": 0.0009396897999999999
+          },
+          "L3": {
+            "arm_mean_cost_usd": 0.0013285962666666669,
+            "ctx_mean_cost_usd": 0.0033778975999999993
+          },
+          "L5": {
+            "arm_mean_cost_usd": 0.0013375889333333334,
+            "ctx_mean_cost_usd": 0.0037861791333333333
+          }
+        },
+        "arm_cheaper_at_levels": [
+          "L3",
+          "L5"
+        ],
+        "crossover_tokens": 57758.04878540052,
+        "reason": null,
+        "beyond_crossover_cheaper": "EMB"
+      },
+      "MD": {
+        "per_level": {
+          "L1": {
+            "arm_mean_cost_usd": 0.0007678220666666666,
+            "ctx_mean_cost_usd": 0.0009396897999999999
+          },
+          "L3": {
+            "arm_mean_cost_usd": 0.0008802523333333334,
+            "ctx_mean_cost_usd": 0.0033778975999999993
+          },
+          "L5": {
+            "arm_mean_cost_usd": 0.0011466746666666666,
+            "ctx_mean_cost_usd": 0.0037861791333333333
+          }
+        },
+        "arm_cheaper_at_levels": [
+          "L1",
+          "L3",
+          "L5"
+        ],
+        "crossover_tokens": null,
+        "reason": "no crossover in tested range",
+        "beyond_crossover_cheaper": null
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0020",
+  "name": "Annie Fernandes",
+  "age": 90,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Osteoarthritis of the knee",
+    "Dyslipidaemia",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0020-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild knee pain on walking, manages household chores with occasional assistance.\ncognition: Mini-Cog score 3/5 (recall 2 items, clock draw normal), no immediate concern.\nfalls: no falls in past 12 months; gait steady; timed up-and-go 11 seconds, within normal range.\nmedicines: 6 regular (paracetamol SOS, topical diclofenac gel, calcium‑vit D3 OD, atorvastatin 10 mg HS, tiotropium OD, salbutamol SOS); polypharmacy – review against Beers criteria.\nmood: denies low mood or anxiety; enjoys time with grandchildren.\ncarers: Sarita, daughter.\ngoal: \"I want to stay active enough to play with my grandkids.\""
+    },
+    {
+      "memory_id": "X0020-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "paracetamol 650 mg SOS\n topical diclofenac gel apply to knees BD\n calcium 500 mg + vitamin D3 400 IU OD\n atorvastatin 10 mg HS\n tiotropium inhaler 2 puffs OD\n salbutamol inhaler 2 puffs SOS\n budesonide-formoterol 200/6 inhaler 2 puffs BD"
+    },
+    {
+      "memory_id": "X0020-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 138 mg/dL (opt <100), HDL 42 mg/dL (>40), triglycerides 162 mg/dL (<150).\nLiver function: ALT 28 U/L (7-56), AST 24 U/L (8-48), ALP 78 U/L (40-129), GGT 32 U/L (9-64), bilirubin 0.9 mg/dL (0.2-1.2).\nCreatine kinase: 112 U/L (30-200).\nSerum vitamin D: 22 ng/mL (sufficient >30)."
+    },
+    {
+      "memory_id": "X0020-m04",
+      "date": "2025-04-07",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Spirometry: FEV1 1.42 L (55% predicted), FVC 2.30 L (78% predicted), FEV1/FVC 0.62 (below 0.70) – consistent with COPD, moderate obstruction."
+    },
+    {
+      "memory_id": "X0020-m05",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Chest X-ray: hyperinflated lungs, flattened diaphragms, no acute infiltrate or pleural effusion."
+    },
+    {
+      "memory_id": "X0020-m06",
+      "date": "2025-04-09",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Weight-bearing X-ray both knees: mild joint space narrowing medially, osteophyte formation, no severe degeneration."
+    },
+    {
+      "memory_id": "X0020-m07",
+      "date": "2025-07-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past month my right knee hurts more when I climb stairs; I’ve been using extra paracetamol and the gel helps a little. My breathing feels okay, but I notice I get tired faster on walks."
+    },
+    {
+      "memory_id": "X0020-m08",
+      "date": "2025-09-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-10-10 at 10:30 AM with Dr Nandini Kulkarni (Geriatrics)."
+    },
+    {
+      "memory_id": "X0020-m09",
+      "date": "2025-10-09",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Weight-bearing X-ray both knees: progression of medial joint space narrowing, moderate osteophytes; no subchondral cyst."
+    },
+    {
+      "memory_id": "X0020-m10",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: knee pain worse on stairs, uses walking stick occasionally; ADLs independent with minor difficulty.\ncognition: Mini-Cog repeated 3/5, stable.\nfalls: one fall in last 12 months (tripped on rug, no injury); gait slightly antalgic; timed up-and-go 13 seconds – raised fall risk; advise strength exercises and supportive footwear.\nmedicines: 7 regular (added fenofibrate 145 mg OD, switched atorvastatin to rosuvastatin 10 mg OD); polypharmacy – request Beers review.\nmood: reports occasional frustration with limitation, denies depression.\ncarers: Sarita, daughter.\ngoal: \"I want to walk to the market without stopping.\""
+    },
+    {
+      "memory_id": "X0020-m11",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "paracetamol 650 mg SOS\n topical diclofenac gel BD\n calcium 500 mg + vitamin D3 400 IU OD\n rosuvastatin 10 mg OD\n fenofibrate 145 mg OD\n tiotropium inhaler OD\n salbutamol inhaler SOS\n budesonide-formoterol 200/6 inhaler BD"
+    },
+    {
+      "memory_id": "X0020-m12",
+      "date": "2025-10-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 112 mg/dL, HDL 44 mg/dL, triglycerides 138 mg/dL.\nVitamin D: 28 ng/mL (still suboptimal).\nLiver enzymes unchanged.\nCreatine kinase: 158 U/L."
+    },
+    {
+      "memory_id": "X0020-m13",
+      "date": "2025-11-01",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Pulmonology, Dr S. Reddy, for worsening COPD symptoms and to assess need for escalation of inhaled therapy."
+    },
+    {
+      "memory_id": "X0020-m14",
+      "date": "2025-12-15",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Pulmonologist advises continuing current inhalers, adds short course of oral prednisolone 20 mg OD for 5 days due to recent exacerbation, recommends annual flu vaccine and pneumococcal booster."
+    },
+    {
+      "memory_id": "X0020-m15",
+      "date": "2026-02-10",
+      "type": "allergy",
+      "author": "D06",
+      "text": "New maculopapular rash on both knees after applying topical diclofenac gel; onset 2 days after use, resolved with discontinuation and antihistamine. Allergy to topical NSAID documented."
+    },
+    {
+      "memory_id": "X0020-m16",
+      "date": "2026-04-12",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: knee pain improved after stopping diclofenac gel, uses paracetamol SOS only; walks with stick, manages shopping.\ncognition: Mini-Cog 3/5, stable.\nfalls: no new falls; gait improved; timed up-and-go 10 seconds – within normal.\nmedicines: 6 regular (paracetamol SOS, calcium‑vit D3 OD, rosuvastatin 10 mg OD, tiotropium OD, salbutamol SOS, budesonide-formoterol BD); polypharmacy – note Beers review due.\nmood: feels happier, enjoys gardening with daughter.\ncarers: Sarita, daughter.\ngoal: \"I want to be pain‑free enough to attend my granddaughter’s wedding.\""
+    },
+    {
+      "memory_id": "X0020-m17",
+      "date": "2026-04-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "paracetamol 650 mg SOS\n calcium 500 mg + vitamin D3 400 IU OD\n rosuvastatin 10 mg OD\n tiotropium inhaler OD\n salbutamol inhaler SOS\n budesonide-formoterol 200/6 inhaler BD"
+    },
+    {
+      "memory_id": "X0020-m18",
+      "date": "2026-04-13",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 104 mg/dL, HDL 46 mg/dL, triglycerides 122 mg/dL.\nCreatine kinase: 92 U/L (normal).\nVitamin D: 31 ng/mL (now sufficient).\nLiver enzymes within normal limits."
+    }
+  ]
+}

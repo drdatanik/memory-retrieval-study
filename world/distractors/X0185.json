@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0185",
+  "name": "Harjit Bains",
+  "age": 58,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Type 2 diabetes",
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0185-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: initial assessment of type 2 diabetes and benign positional vertigo.\nPRESENTING COMPLAINT: Patient reports occasional dizziness on turning head, mild polyuria, and fatigue.\nEXAMINATION: BP 138/86 mmHg, weight 78 kg, BMI 24.3 (overweight). Cardiovascular regular, lungs clear. Neurological: Dix-Hallpike elicits transient vertigo with nystagmus.\nIMPRESSION: 1) Type 2 diabetes, uncontrolled (HbA1c pending). 2) Benign positional vertigo.\nARRANGEMENTS: Start metformin 500 mg BD, glimepiride 1 mg OD before breakfast, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Betahistine 16 mg BD, meclizine 25 mg SOS for vertigo. Advise diet low in refined carbs, walk 30 min daily. Return if: chest pain, breathlessness, fever >39°C, worsening vertigo, hypoglycaemia symptoms, or blood in urine."
+    },
+    {
+      "memory_id": "X0185-m02",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg tablet – take 1 tablet twice daily.\nGlimepiride 1 mg tablet – take 1 tablet each morning before breakfast.\nSitagliptin 100 mg tablet – take 1 tablet once daily.\nEmpagliflozin 10 mg tablet – take 1 tablet once daily.\nBetahistine 16 mg tablet – take 1 tablet twice daily.\nMeclizine 25 mg tablet – take 1 tablet as needed for vertigo, max 3 times daily."
+    },
+    {
+      "memory_id": "X0185-m03",
+      "date": "2025-04-15",
+      "type": "allergy",
+      "author": "D03",
+      "text": "No known drug allergies."
+    },
+    {
+      "memory_id": "X0185-m04",
+      "date": "2025-04-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling dizzy when I look up or roll over in bed, especially in the mornings. Also I notice I am thirstier than usual and need to pass urine more often."
+    },
+    {
+      "memory_id": "X0185-m05",
+      "date": "2025-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-20 at 10:00 AM with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0185-m06",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine diabetes and vertigo check.\nPRESENTING COMPLAINT: Patient says dizziness less frequent, still occasional; reports improved thirst and polyuria.\nEXAMINATION: BP 132/82 mmHg, weight 77.5 kg, BMI 24.1 (overweight). Lungs clear, cardiovascular regular. Neurological: Dix-Hallpike negative today.\nIMPRESSION: Type 2 diabetes – HbA1c 7.8% (elevated), fasting glucose 156 mg/dL. Benign positional vertigo – improved.\nARRANGEMENTS: Continue metformin, glimepiride, sitagliptin, empagliflozin. Add lifestyle reinforcement. Return if: chest pain, breathlessness, fever >39°C, worsening vertigo, hypoglycaemia, or foot ulcer."
+    },
+    {
+      "memory_id": "X0185-m07",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg tablet – take 1 tablet twice daily.\nGlimepiride 1 mg tablet – take 1 tablet each morning before breakfast.\nSitagliptin 100 mg tablet – take 1 tablet once daily.\nEmpagliflozin 10 mg tablet – take 1 tablet once daily.\nBetahistine 16 mg tablet – take 1 tablet twice daily.\nMeclizine 25 mg tablet – take 1 tablet as needed for vertigo, max 3 times daily."
+    },
+    {
+      "memory_id": "X0185-m08",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting plasma glucose: 156 mg/dL (70-100).\nHbA1c: 7.8% (<5.7 normal, 5.7-6.4 prediabetes, >=6.5 diabetes).\nFasting lipid profile: Total cholesterol 210 mg/dL (<200 desirable), LDL 132 mg/dL (<100 optimal), HDL 38 mg/dL (>40 male good), Triglycerides 165 mg/dL (<150 normal).\nUrine albumin-creatinine ratio: 22 mg/g (<30 normal)."
+    },
+    {
+      "memory_id": "X0185-m09",
+      "date": "2025-07-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Dix-Hallpike test performed: no vertigo or nystagmus elicited on either side.\nAudiometry (pure tone average): thresholds within normal limits bilaterally (250-8000 Hz)."
+    },
+    {
+      "memory_id": "X0185-m10",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: worsening vertigo.\nPRESENTING COMPLAINT: Patient reports recurrent spinning sensation on lying down, lasting <1 minute, with nausea.\nEXAMINATION: BP 136/84 mmHg, weight 78 kg, BMI 24.3 (overweight). Neurological: Dix-Hallpike positive on right side with torsional nystagmus.\nIMPRESSION: Benign positional vertigo – exacerbation. Diabetes stable.\nARRANGEMENTS: Continue diabetes meds. Increase betahistine to 24 mg BD. Prescribe meclizine 25 mg SOS max 4 times daily. Advise vestibular exercises. Return if: vertigo with headache, double vision, weakness, fever >39°C, or hearing loss."
+    },
+    {
+      "memory_id": "X0185-m11",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Betahistine 16 mg tablet – take 1 tablet twice daily (increase to 24 mg BD as directed).\nMeclizine 25 mg tablet – take 1 tablet as needed for vertigo, max 4 times daily.\nMetformin 500 mg tablet – take 1 tablet twice daily.\nGlimepiride 1 mg tablet – take 1 tablet each morning before breakfast.\nSitagliptin 100 mg tablet – take 1 tablet once daily.\nEmpagliflozin 10 mg tablet – take 1 tablet once daily."
+    },
+    {
+      "memory_id": "X0185-m12",
+      "date": "2025-10-10",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to ENT specialist for evaluation of recurrent benign positional vertigo and consideration of vestibular rehabilitation. Please assess for possible BPPV and advise on home exercises."
+    },
+    {
+      "memory_id": "X0185-m13",
+      "date": "2026-01-12",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "ENT review: confirmed right posterior canal BPPV. Performed Epley maneuver in clinic; patient instructed on home Brandt-Daroff exercises. Advised to continue betahistine and meclizine as needed. No further intervention required. Follow-up in 3 months if symptoms recur."
+    },
+    {
+      "memory_id": "X0185-m14",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow-up.\nPRESENTING COMPLAINT: Patient reports vertigo resolved after exercises; occasional mild light-headedness. No polyuria, thirst improved.\nEXAMINATION: BP 130/80 mmHg, weight 77 kg, BMI 24.0 (overweight). Lungs clear, cardiovascular regular.\nIMPRESSION: Type 2 diabetes – HbA1c 7.2% (improved). Benign positional vertigo – resolved.\nARRANGEMENTS: Continue metformin, glimepiride, sitagliptin, empagliflozin. Maintain betahistine 16 mg BD, meclizine SOS. Advise weight reduction target 70 kg. Return if: chest pain, breathlessness, fever >39°C, worsening vertigo, hypoglycaemia, or foot symptoms."
+    },
+    {
+      "memory_id": "X0185-m15",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg tablet – take 1 tablet twice daily.\nGlimepiride 1 mg tablet – take 1 tablet each morning before breakfast.\nSitagliptin 100 mg tablet – take 1 tablet once daily.\nEmpagliflozin 10 mg tablet – take 1 tablet once daily.\nBetahistine 16 mg tablet – take 1 tablet twice daily.\nMeclizine 25 mg tablet – take 1 tablet as needed for vertigo, max 3 times daily."
+    },
+    {
+      "memory_id": "X0185-m16",
+      "date": "2026-07-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual diabetes review.\nPRESENTING COMPLAINT: Patient feels well, no vertigo, reports good adherence to diet and exercise.\nEXAMINATION: BP 128/78 mmHg, weight 75.5 kg, BMI 23.6 (overweight). Lungs clear, cardiovascular regular.\nIMPRESSION: Type 2 diabetes – HbA1c 6.8% (near target), fasting glucose 124 mg/dL. Lipids: total cholesterol 190 mg/dL, LDL 115 mg/dL, HDL 42 mg/dL, triglycerides 140 mg/dL. Urine ACR 18 mg/g.\nARRANGEMENTS: Continue current meds. Offer influenza vaccine (patient declined). Return if: chest pain, breathlessness, fever >39°C, worsening vertigo, hypoglycaemia, or foot ulcer."
+    },
+    {
+      "memory_id": "X0185-m17",
+      "date": "2026-07-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting plasma glucose: 124 mg/dL (70-100).\nHbA1c: 6.8% (<5.7 normal, 5.7-6.4 prediabetes, >=6.5 diabetes).\nFasting lipid profile: Total cholesterol 190 mg/dL (<200 desirable), LDL 115 mg/dL (<100 optimal), HDL 42 mg/dL (>40 male good), Triglycerides 140 mg/dL (<150 normal).\nUrine albumin-creatinine ratio: 18 mg/g (<30 normal)."
+    },
+    {
+      "memory_id": "X0185-m18",
+      "date": "2026-09-28",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original slot 2026-10-05 09:00 AM moved to 2026-09-28 09:30 AM with Dr Priya Natarajan (D03) per patient request."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0030",
+  "name": "Shaheen Hussain",
+  "age": 68,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Vitamin B12 deficiency",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0030-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency\n- Status: newly diagnosed, symptomatic with mild fatigue and glossitis.\n- Plan: start methylcobalamin 1500 mcg oral daily; check serum B12, MCV, haemoglobin in 1 week.\nMigraine\n- Status: episodic migraine, 4–5 days/month, currently on propranolol 40 mg OD for prevention, sumatriptan 50 mg SOS, topiramate 25 mg HS, naproxen 500 mg SOS.\n- Plan: continue current regimen; monitor headache diary.\nWeight 68 kg; waist circumference 84 cm (>80 cm female cut‑off).\nDiet advice\n- Breakfast: include protein, avoid sugary cereals.\n- Lunch: balanced Indian meal with dal, vegetables, limited rice.\n- Dinner: light, early, avoid fried snacks.\nDue: HbA1c check in 3 months (routine)."
+    },
+    {
+      "memory_id": "X0030-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Prescription:\n- Methylcobalamin 1500 mcg OD, oral, after food.\n- Propranolol 40 mg OD, oral, after food.\n- Sumatriptan 50 mg SOS, oral, after food.\n- Topiramate 25 mg HS, oral, after food.\n- Naproxen 500 mg SOS, oral, after food."
+    },
+    {
+      "memory_id": "X0030-m03",
+      "date": "2025-04-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Vitamin B12: 180 pg/mL (reference 200‑900).\nMCV: 98 fL (reference 80‑100).\nHaemoglobin: 12.2 g/dL (reference 12.0‑15.5).\nInterpretation: borderline low B12, mild macrocytosis, Hb normal."
+    },
+    {
+      "memory_id": "X0030-m04",
+      "date": "2025-06-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency\n- Status: on methylcobalamin 1500 mcg OD for 2 months, fatigue improved, glossitis resolved.\n- Plan: continue same dose; repeat B12 in 3 months.\nMigraine\n- Status: headache frequency reduced to 2–3 days/month, mild breakthrough pain.\n- Plan: increase propranolol to 60 mg OD; keep SOS meds unchanged.\nWeight 67.5 kg; waist circumference 83 cm (>80 cm).\nDiet advice\n- Breakfast: add boiled egg, avoid sweets.\n- Lunch: increase vegetable portion, limit rice to 1 cup.\n- Dinner: soup + salad, finish by 7 pm.\nDue: HbA1c check in 3 months (routine)."
+    },
+    {
+      "memory_id": "X0030-m05",
+      "date": "2025-06-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Prescription:\n- Methylcobalamin 1500 mcg OD, oral, after food.\n- Propranolol 60 mg OD, oral, after food.\n- Sumatriptan 50 mg SOS, oral, after food.\n- Topiramate 25 mg HS, oral, after food.\n- Naproxen 500 mg SOS, oral, after food."
+    },
+    {
+      "memory_id": "X0030-m06",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Vitamin B12: 460 pg/mL (reference 200‑900).\nMCV: 92 fL (reference 80‑100).\nHaemoglobin: 13.0 g/dL (reference 12.0‑15.5).\nInterpretation: B12 now within normal range, MCV normalized, Hb stable."
+    },
+    {
+      "memory_id": "X0030-m07",
+      "date": "2025-09-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been taking the propranolol 60 mg daily and my migraines are down to about one day a week. The sumatriptan works well when I feel aura. I still get occasional tension‑type headaches after long shifts at the hotel. No side effects noticed."
+    },
+    {
+      "memory_id": "X0030-m08",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-11-02 at 10:30 AM with Dr Karthik Hegde (D04) for routine follow‑up of vitamin B12 and migraine. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0030-m09",
+      "date": "2025-11-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency\n- Status: on methylcobalamin 1500 mcg OD, B12 normal, no symptoms.\n- Plan: continue same dose; next B12 check in 6 months.\nMigraine\n- Status: average 1–2 headache days/month, mild intensity, good control on propranolol 60 mg OD.\n- Plan: maintain current prophylaxis; review if frequency rises.\nWeight 67 kg; waist circumference 82 cm (>80 cm).\nDiet advice\n- Breakfast: Greek yogurt + nuts, no added sugar.\n- Lunch: mixed vegetable curry with chapati, limit rice.\n- Dinner: steamed fish or lentils, finish by 7:30 pm.\nDue: HbA1c check in 3 months (routine)."
+    },
+    {
+      "memory_id": "X0030-m10",
+      "date": "2025-11-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Prescription:\n- Methylcobalamin 1500 mcg OD, oral, after food.\n- Propranolol 60 mg OD, oral, after food.\n- Sumatriptan 50 mg SOS, oral, after food.\n- Topiramate 25 mg HS, oral, after food.\n- Naproxen 500 mg SOS, oral, after food."
+    },
+    {
+      "memory_id": "X0030-m11",
+      "date": "2026-02-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Neurological examination: normal mental status, cranial nerves II‑XII intact, no focal weakness, normal coordination, gait steady. No signs of chronic migraine complications. Impression: unremarkable neurological exam."
+    },
+    {
+      "memory_id": "X0030-m12",
+      "date": "2026-08-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Vitamin B12: 410 pg/mL (reference 200‑900).\nMCV: 90 fL (reference 80‑100).\nHaemoglobin: 12.8 g/dL (reference 12.0‑15.5).\nInterpretation: B12 remains satisfactory, MCV normal, Hb stable."
+    }
+  ]
+}

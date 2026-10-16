@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0351",
+  "name": "Ratna Bose",
+  "age": 52,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Atrial fibrillation",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0351-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation with controlled ventricular rate.\nPatient reports mild exertional dyspnea, no palpitations on admission. ECG shows irregularly irregular rhythm, rate 78 bpm. Lung fields clear, no wheeze. Spirometry: FEV1 2.85 L (92% pred), FVC 3.30 L (88% pred), FEV1/FVC 0.86; change from prior +0.02 L. Asthma Control Test not applicable. Technique checked: correct (uses salbutamol MDI prn). Smoking status: never."
+    },
+    {
+      "memory_id": "X0351-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Apixaban 5 mg twice daily\nBisoprolol 2.5 mg once daily\nLevothyroxine 50 mcg once daily"
+    },
+    {
+      "memory_id": "X0351-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (0.4-4.0) slightly high\nFree T4 11.2 pmol/L (12-22) low\nINR 1.1 (target 2-3 if on warfarin)\nSerum creatinine 78 µmol/L (60-110) normal"
+    },
+    {
+      "memory_id": "X0351-m04",
+      "date": "2025-05-20",
+      "type": "investigation",
+      "author": "D05",
+      "text": "12-lead ECG: Irregularly irregular rhythm, no discernible P waves, ventricular rate 80 bpm. No ST-T changes. Consistent with atrial fibrillation."
+    },
+    {
+      "memory_id": "X0351-m05",
+      "date": "2025-06-15",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Penicillin allergy: rash and pruritus within 30 minutes of last dose."
+    },
+    {
+      "memory_id": "X0351-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Hypothyroidism, suboptimally replaced.\nPatient notes fatigue, weight gain 2 kg over 2 months. Dry skin, mild constipation. Exam: BMI 28, pulse 76 regular. Spirometry: FEV1 2.80 L (90% pred), FVC 3.25 L (87% pred), FEV1/FVC 0.86; change -0.05 L. Asthma Control Test not applicable. Technique checked: correct. Smoking status: never."
+    },
+    {
+      "memory_id": "X0351-m07",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 75 mcg once daily (increase from 50 mcg)"
+    },
+    {
+      "memory_id": "X0351-m08",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.8 mIU/L (0.4-4.0) now within range\nFree T4 14.5 pmol/L (12-22) normal\nINR 1.2\nSerum creatinine 80 µmol/L"
+    },
+    {
+      "memory_id": "X0351-m09",
+      "date": "2025-09-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve felt occasional fluttering in my chest when climbing stairs, lasting a few seconds. No dizziness or chest pain."
+    },
+    {
+      "memory_id": "X0351-m10",
+      "date": "2025-09-10",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to cardiology for evaluation of symptomatic atrial fibrillation and consideration of rhythm control strategy."
+    },
+    {
+      "memory_id": "X0351-m11",
+      "date": "2025-10-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Cardiology review: Confirmed paroxysmal AF. Recommend continuing apixaban for stroke prophylaxis, bisoprolol for rate control. No immediate need for ablation. Follow-up in 3 months."
+    },
+    {
+      "memory_id": "X0351-m12",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation, rate controlled on bisoprolol.\nPatient denies further palpitations since last visit. Exam: regular rhythm 72 bpm, lungs clear. Spirometry: FEV1 2.88 L (93% pred), FVC 3.32 L (89% pred), FEV1/FVC 0.87; change +0.03 L. Asthma Control Test not applicable. Technique checked: correct. Smoking status: never."
+    },
+    {
+      "memory_id": "X0351-m13",
+      "date": "2025-11-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Bisoprolol increased to 5 mg once daily\nWarfarin initiated 5 mg once daily (INR target 2-3)"
+    },
+    {
+      "memory_id": "X0351-m14",
+      "date": "2026-02-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-02-15 to 2026-02-10 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0351-m15",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Hypothyroidism well replaced.\nPatient reports improved energy, weight stable. Exam: pulse 78 regular, no edema. Spirometry: FEV1 2.90 L (94% pred), FVC 3.35 L (90% pred), FEV1/FVC 0.87; change +0.02 L. Asthma Control Test not applicable. Technique checked: correct. Smoking status: never."
+    },
+    {
+      "memory_id": "X0351-m16",
+      "date": "2026-04-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine increased to 100 mcg once daily (from 75 mcg)"
+    },
+    {
+      "memory_id": "X0351-m17",
+      "date": "2026-08-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4-4.0) optimal\nFree T4 15.8 pmol/L (12-22) normal\nINR 2.4 (within target 2-3)\nSerum creatinine 82 µmol/L"
+    }
+  ]
+}

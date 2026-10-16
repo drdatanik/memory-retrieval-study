@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0260",
+  "name": "Selvi Ramasamy",
+  "age": 79,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Chronic urticaria",
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0260-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks without aid, manages insurance work part‑time.\ncognition: Mini‑Cog score 4/5 (recall 3 items, clock draw normal) – negative screen.\nfalls: No falls in past 12 months, gait steady, timed up‑and‑go 9 seconds – normal fall risk.\nmedicines: 6 regular (levocetirizine 5 mg OD, cetirizine 10 mg HS, telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD) – polypharmacy, review against Beers criteria advised.\nmood: Reports occasional itching‑related irritability, denies depression or anxiety.\ncarers: Priya, daughter.\ngoals: \"I want to stay active at work and keep my skin rash under control.\""
+    },
+    {
+      "memory_id": "X0260-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg – take one tablet daily – continue\ncetirizine 10 mg – take one tablet at bedtime – continue\ntelmisartan 40 mg – take one tablet daily – continue\ndapagliflozin 10 mg – take one tablet daily – continue\nfurosemide 20 mg – take one tablet daily – continue\nsodium bicarbonate 500 mg – take one tablet twice daily – continue"
+    },
+    {
+      "memory_id": "X0260-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.2 g/dl (12-16)\nTotal WBC 6.8 x10^9/L (4-10)\nEosinophils 0.4 x10^9/L (0.0-0.5)\nTSH 2.1 mIU/L (0.4-4.0)\nFree T4 1.2 ng/dL (0.9-1.7)\nSerum creatinine 1.4 mg/dL (0.6-1.2) – slightly elevated\neGFR 48 mL/min/1.73m2 (>60 normal)\nUrine ACR 22 mg/g (<30 normal)"
+    },
+    {
+      "memory_id": "X0260-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent, occasional fatigue after long walks.\ncognition: Mini‑Cog 4/5 – negative screen (annual due next April).\nfalls: One minor slip at home without injury, gait slightly unsteady, timed up‑and‑go 11 seconds – borderline fall risk, advise heel‑to‑toe exercises and supportive shoes.\nmedicines: 6 regular (levocetirizine 5 mg OD, cetirizine 10 mg HS, telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD) – polypharmacy, Beers review pending.\nmood: Improved irritability with antihistamines, denies low mood.\ncarers: Priya, daughter.\ngoals: \"I would like to walk in the park without feeling wobbly.\""
+    },
+    {
+      "memory_id": "X0260-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg – take one tablet daily – continue\ncetirizine 10 mg – take one tablet at bedtime – continue\ntelmisartan 40 mg – take one tablet daily – continue\ndapagliflozin 10 mg – take one tablet daily – continue\nfurosemide 40 mg – take one tablet daily – continue\nsodium bicarbonate 500 mg – take one tablet twice daily – continue"
+    },
+    {
+      "memory_id": "X0260-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 12.8 g/dl (12-16)\nTotal WBC 7.0 x10^9/L (4-10)\nEosinophils 0.3 x10^9/L (0.0-0.5)\nTSH 2.0 mIU/L (0.4-4.0)\nFree T4 1.1 ng/dL (0.9-1.7)\nSerum creatinine 1.5 mg/dL (0.6-1.2)\neGFR 44 mL/min/1.73m2 (>60 normal)\nUrine ACR 28 mg/g (<30 normal)"
+    },
+    {
+      "memory_id": "X0260-m07",
+      "date": "2025-10-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-11-05 at 10:30 am with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0260-m08",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages household chores, reports mild dyspnea on exertion.\ncognition: Mini‑Cog 3/5 – negative screen.\nfalls: No new falls, gait slow but steady, timed up‑and‑go 13 seconds – raised fall risk, prescribe supervised balance class and non‑slip socks.\nmedicines: 6 regular (levocetirizine 5 mg OD, cetirizine 10 mg HS, telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 40 mg OD, sodium bicarbonate 500 mg BD) – polypharmacy, Beers review scheduled.\nmood: Notes occasional worry about kidney function, denies depression.\ncarers: Priya, daughter.\ngoals: \"I aim to keep my kidney numbers stable and avoid hospital visits.\""
+    },
+    {
+      "memory_id": "X0260-m09",
+      "date": "2025-11-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg – take one tablet daily – continue\ncetirizine 10 mg – take one tablet at bedtime – continue\ntelmisartan 40 mg – take one tablet daily – continue\ndapagliflozin 5 mg – take one tablet daily – continue\nfurosemide 40 mg – take one tablet daily – continue\nsodium bicarbonate 500 mg – take one tablet twice daily – continue"
+    },
+    {
+      "memory_id": "X0260-m10",
+      "date": "2026-02-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.0 g/dl (12-16)\nTotal WBC 6.5 x10^9/L (4-10)\nEosinophils 0.2 x10^9/L (0.0-0.5)\nTSH 1.9 mIU/L (0.4-4.0)\nFree T4 1.2 ng/dL (0.9-1.7)\nSerum creatinine 1.3 mg/dL (0.6-1.2)\neGFR 52 mL/min/1.73m2 (>60 normal)\nUrine ACR 18 mg/g (<30 normal)"
+    },
+    {
+      "memory_id": "X0260-m11",
+      "date": "2026-06-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Able to attend weekly yoga class, reports good energy.\ncognition: Mini‑Cog 4/5 – negative screen (annual screen due).\nfalls: No falls in last 6 months, gait smooth, timed up‑and‑go 10 seconds – normal fall risk.\nmedicines: 6 regular (levocetirizine 5 mg OD, cetirizine 10 mg HS, telmisartan 40 mg OD, dapagliflozin 5 mg OD, furosemide 40 mg OD, sodium bicarbonate 500 mg BD) – polypharmacy, Beers review completed, no inappropriate meds.\nmood: Content, denies anxiety or depression.\ncarers: Priya, daughter.\ngoals: \"I want to continue yoga and travel to see my grandchildren.\""
+    },
+    {
+      "memory_id": "X0260-m12",
+      "date": "2026-09-30",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg – stop – urticaria controlled\ncetirizine 10 mg – take one tablet at bedtime – continue\ntelmisartan 40 mg – take one tablet daily – continue\ndapagliflozin 5 mg – take one tablet daily – continue\nfurosemide 40 mg – take one tablet daily – continue\nsodium bicarbonate 500 mg – take one tablet twice daily – continue"
+    }
+  ]
+}

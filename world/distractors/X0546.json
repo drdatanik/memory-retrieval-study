@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0546",
+  "name": "Radha Reddy",
+  "age": 81,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Osteoarthritis of the knee"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0546-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Osteoarthritis knees: Pain 6/10 both knees, worse on stairs. Weight 62 kg, waist 78 cm (female cutoff 80 cm).\\n- Plan: Continue paracetamol 650 mg SOS, topical diclofenac gel BD, calcium 500 mg + vitamin D3 400 IU OD. Advise quadriceps strengthening, avoid prolonged kneeling.\\n- Due: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0546-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Paracetamol 650 mg SOS PO after food\\nTopical diclofenac gel 1% apply to knees BD\\nCalcium carbonate 500 mg + Vitamin D3 400 IU OD after breakfast"
+    },
+    {
+      "memory_id": "X0546-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-OH Vitamin D: 18 ng/mL (Ref 30-100)\\nSerum Calcium: 9.2 mg/dL (Ref 8.5-10.5)\\nSerum Phosphorus: 3.8 mg/dL (Ref 2.5-4.5)"
+    },
+    {
+      "memory_id": "X0546-m04",
+      "date": "2025-04-18",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Weight-bearing X-ray both knees: Mild joint space narrowing medial compartment, osteophytes, no significant deformity. Impression: Early osteoarthritic changes."
+    },
+    {
+      "memory_id": "X0546-m05",
+      "date": "2025-05-01",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Penicillin: Rash and pruritus after amoxicillin course 2 years ago. Avoid beta-lactams."
+    },
+    {
+      "memory_id": "X0546-m06",
+      "date": "2025-05-03",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via app: 'Doctor, my right knee hurts more when I walk to the market. The gel helps a little but I still need paracetamol twice a day.'"
+    },
+    {
+      "memory_id": "X0546-m07",
+      "date": "2025-05-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0546-m08",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Osteoarthritis knees: Pain 4/10 right, 3/10 left. Weight 61.5 kg, waist 77 cm.\\n- Plan: Add glucosamine 1500 mg OD, continue current analgesics. Advise heat therapy before exercise.\\n- Due: HbA1c 2025-10-10."
+    },
+    {
+      "memory_id": "X0546-m09",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Paracetamol 650 mg SOS PO after food\\nTopical diclofenac gel 1% apply to knees BD\\nCalcium carbonate 500 mg + Vitamin D3 400 IU OD after breakfast\\nGlucosamine sulfate 1500 mg OD after dinner"
+    },
+    {
+      "memory_id": "X0546-m10",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 5.8% (Ref 4.0-5.6) slight increase\\nSerum 25-OH Vitamin D: 22 ng/mL (Ref 30-100)\\nSerum Calcium: 9.3 mg/dL (Ref 8.5-10.5)"
+    },
+    {
+      "memory_id": "X0546-m11",
+      "date": "2025-08-01",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Physiotherapy Department, Sunrise Multispecialty, for knee osteoarthritis rehab. Request supervised strengthening, hydrotherapy, and gait training. Please send progress report."
+    },
+    {
+      "memory_id": "X0546-m12",
+      "date": "2025-08-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Physiotherapy report: Completed 6 sessions. Patient reports pain reduction to 2/10 on activity. Improved quadriceps strength. Advise home exercise continuation."
+    },
+    {
+      "memory_id": "X0546-m13",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Osteoarthritis knees: Pain 2/10 both knees occasional. Weight 61 kg, waist 76 cm.\\n- Plan: Maintain current regimen, add vitamin D3 1000 IU OD due to low levels. Reinforce home exercises.\\n- Due: HbA1c 2026-01-15."
+    },
+    {
+      "memory_id": "X0546-m14",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Paracetamol 650 mg SOS PO after food\\nTopical diclofenac gel 1% apply to knees BD\\nCalcium carbonate 500 mg + Vitamin D3 400 IU OD after breakfast\\nGlucosamine sulfate 1500 mg OD after dinner\\nVitamin D3 cholecalciferol 1000 IU OD after breakfast"
+    }
+  ]
+}

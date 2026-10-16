@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0543",
+  "name": "Milind Gaikwad",
+  "age": 39,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0543-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency.\nSymptoms: fatigue, occasional muscle aches; examination: no bony tenderness, normal vitals. Labs show serum 25‑hydroxyvitamin D 10 ng/mL (low), calcium 9.0 mg/dL, phosphate 3.0 mg/dL. Smoking status: never. Inhaler technique: not applicable."
+    },
+    {
+      "memory_id": "X0543-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 60000 IU once weekly for 8 weeks."
+    },
+    {
+      "memory_id": "X0543-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 10 ng/mL (ref 20‑50). Serum calcium: 9.0 mg/dL (ref 8.5‑10.5). Serum phosphate: 3.0 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0543-m04",
+      "date": "2025-06-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency (improving).\nPatient reports less fatigue, no muscle pain. Examination unchanged. Repeat labs: vitamin D 28 ng/mL, calcium 9.2 mg/dL, phosphate 3.2 mg/dL. Smoking status: never. Inhaler technique: not applicable."
+    },
+    {
+      "memory_id": "X0543-m05",
+      "date": "2025-06-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 1000 IU once daily."
+    },
+    {
+      "memory_id": "X0543-m06",
+      "date": "2025-06-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 28 ng/mL (ref 20‑50). Serum calcium: 9.2 mg/dL (ref 8.5‑10.5). Serum phosphate: 3.2 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0543-m07",
+      "date": "2025-09-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency (maintaining).\nPatient feels well, no symptoms. Examination normal. Labs: vitamin D 24 ng/mL, calcium 9.1 mg/dL, phosphate 3.1 mg/dL. Smoking status: never. Inhaler technique: not applicable."
+    },
+    {
+      "memory_id": "X0543-m08",
+      "date": "2025-09-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 24 ng/mL (ref 20‑50). Serum calcium: 9.1 mg/dL (ref 8.5‑10.5). Serum phosphate: 3.1 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0543-m09",
+      "date": "2025-12-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-12-05 10:00 with Dr Suresh Menon."
+    },
+    {
+      "memory_id": "X0543-m10",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency (stable).\nPatient denies new symptoms; exam unremarkable. Labs: vitamin D 26 ng/mL, calcium 9.2 mg/dL, phosphate 3.2 mg/dL. Smoking status: never. Inhaler technique: not applicable."
+    },
+    {
+      "memory_id": "X0543-m11",
+      "date": "2025-12-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 26 ng/mL (ref 20‑50). Serum calcium: 9.2 mg/dL (ref 8.5‑10.5). Serum phosphate: 3.2 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0543-m12",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency (adequate).\nPatient reports good energy, no aches. Examination normal. Labs: vitamin D 22 ng/mL, calcium 9.0 mg/dL, phosphate 3.0 mg/dL. Smoking status: never. Inhaler technique: not applicable."
+    },
+    {
+      "memory_id": "X0543-m13",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 22 ng/mL (ref 20‑50). Serum calcium: 9.0 mg/dL (ref 8.5‑10.5). Serum phosphate: 3.0 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0543-m14",
+      "date": "2026-10-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 20 ng/mL (ref 20‑50). Serum calcium: 9.0 mg/dL (ref 8.5‑10.5). Serum phosphate: 3.0 mg/dL (ref 2.5‑4.5)."
+    }
+  ]
+}

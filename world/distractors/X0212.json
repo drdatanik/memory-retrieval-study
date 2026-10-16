@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0212",
+  "name": "Sundaram Iyer",
+  "age": 84,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypertension",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0212-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent with ADLs, uses walking stick for long walks. cognition: Mini-Cog 4/5, negative screen. falls: 0 falls in last 12 months, gait steady, timed up-and-go 10 seconds (normal). medicines: 8 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD, methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD) – polypharmacy, review against Beers criteria advised. mood: reports occasional low mood, denies depression. carers: daughter Meera, primary caregiver. goals: \"I want to stay active and pain-free to attend my grandson’s wedding.\""
+    },
+    {
+      "memory_id": "X0212-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\n telmisartan 40 mg OD\n losartan 50 mg OD\n hydrochlorothiazide 12.5 mg OD\n methotrexate 10 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n prednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0212-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.02 mg/dL (0.6-1.2), eGFR 68 mL/min/1.73m2 (>60). Serum potassium 4.3 mmol/L (3.5-5.0). ECG: sinus rhythm, rate 78, no ischemia. ESR 18 mm/hr (0-20). CRP 4 mg/L (<5). Rheumatoid factor 12 IU/mL (<14). Anti-CCP 5 U/mL (<7). Liver function: ALT 22 U/L, AST 20 U/L, bilirubin 0.9 mg/dL, ALP 78 U/L – all normal."
+    },
+    {
+      "memory_id": "X0212-m04",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Morning stiffness in hands about 45 minutes, mild knee pain on stairs, occasional dizzy spell when standing quickly."
+    },
+    {
+      "memory_id": "X0212-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, walks 20 min with stick, reports mild knee discomfort. cognition: Mini-Cog not repeated (annual due). falls: 0 falls, gait slightly antalgic left, timed up-and-go 11 seconds (normal). medicines: 8 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD, methotrexate 15 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD) – polypharmacy, Beers review advised. mood: stable, denies depression. carers: daughter Meera. goals: \"I wish to walk without pain to the market.\""
+    },
+    {
+      "memory_id": "X0212-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\n telmisartan 40 mg OD\n losartan 50 mg OD\n hydrochlorothiazide 12.5 mg OD\n methotrexate 15 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n prednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0212-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.00 mg/dL, eGFR 70 mL/min/1.73m2. Potassium 4.2 mmol/L. ESR 12 mm/hr. CRP 3 mg/L. Rheumatoid factor 10 IU/mL. Anti-CCP 4 U/mL. LFT: ALT 24, AST 21, bilirubin 0.8, ALP 80 – normal."
+    },
+    {
+      "memory_id": "X0212-m08",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: sinus rhythm, rate 80, no new changes, left ventricular voltage within normal limits."
+    },
+    {
+      "memory_id": "X0212-m09",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, uses stick for outdoor walks, reports occasional hip ache. cognition: Mini-Cog repeated 3/5 – positive screen (≤2), plan for MoCA assessment. falls: 1 fall in last 12 months (tripped on rug, no injury), gait slow, timed up-and-go 13 seconds – raised fall risk, advise strength exercises and supportive footwear. medicines: 7 regular (amlodipine 10 mg OD, telmisartan 40 mg OD, hydrochlorothiazide 12.5 mg OD, methotrexate 15 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD) – polypharmacy, Beers review advised. mood: reports frustration about fall, denies depression. carers: daughter Meera. goals: \"I want to stay steady on my feet and avoid another fall.\""
+    },
+    {
+      "memory_id": "X0212-m10",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 10 mg OD\n telmisartan 40 mg OD\n hydrochlorothiazide 12.5 mg OD\n methotrexate 15 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n prednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0212-m11",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.15 mg/dL (slight rise), eGFR 62 mL/min/1.73m2. Potassium 4.4 mmol/L. ESR 20 mm/hr. CRP 6 mg/L (mild ↑). Rheumatoid factor 14 IU/mL (borderline). Anti-CCP 8 U/mL (slight ↑). LFT: ALT 27, AST 23, bilirubin 0.9, ALP 82 – normal."
+    },
+    {
+      "memory_id": "X0212-m12",
+      "date": "2025-10-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling light‑headed after morning meds, especially after amlodipine dose; hip aches after long walks."
+    },
+    {
+      "memory_id": "X0212-m13",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, uses stick, reports worsened knee swelling and morning stiffness >60 min. cognition: MoCA 24/30 – mild impairment, monitor. falls: 0 new falls, gait antalgic right knee, timed up-and-go 12 seconds – borderline risk, continue exercises. medicines: 7 regular (amlodipine 10 mg OD, telmisartan 40 mg OD, hydrochlorothiazide 12.5 mg OD, methotrexate 15 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 10 mg OD) – polypharmacy, Beers review advised. mood: low mood due to pain, carer reports irritability. carers: daughter Meera. goals: \"I want less joint pain to enjoy my garden.\""
+    },
+    {
+      "memory_id": "X0212-m14",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 10 mg OD\n telmisartan 40 mg OD\n hydrochlorothiazide 12.5 mg OD\n methotrexate 15 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n prednisolone 10 mg OD"
+    },
+    {
+      "memory_id": "X0212-m15",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.18 mg/dL, eGFR 60 mL/min/1.73m2. Potassium 4.5 mmol/L. ESR 28 mm/hr (↑). CRP 12 mg/L (↑). Rheumatoid factor 18 IU/mL (↑). Anti-CCP 10 U/mL (↑). LFT: ALT 30, AST 26, bilirubin 1.0, ALP 85 – normal."
+    },
+    {
+      "memory_id": "X0212-m16",
+      "date": "2026-04-25",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, walks with stick, knee swelling decreased, morning stiffness 30 min. cognition: MoCA stable 24/30. falls: 0 falls, gait improved, timed up-and-go 11 seconds. medicines: 6 regular (amlodipine 10 mg OD, telmisartan 40 mg OD, hydrochlorothiazide 12.5 mg OD, methotrexate 15 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD) – polypharmacy, Beers review advised. Prednisolone tapered off. mood: improved, reports better sleep. carers: daughter Meera. goals: \"I want to keep gardening without pain.\""
+    },
+    {
+      "memory_id": "X0212-m17",
+      "date": "2026-04-25",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 10 mg OD\n telmisartan 40 mg OD\n hydrochlorothiazide 12.5 mg OD\n methotrexate 15 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD"
+    },
+    {
+      "memory_id": "X0212-m18",
+      "date": "2026-08-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-09-15 10:30 with Dr Nandini Kulkarni (D06) for routine geriatric review."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0391",
+  "name": "Manoj Dubey",
+  "age": 60,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Gastro-oesophageal reflux",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0391-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Gastro-oesophageal reflux disease and migraine.\nEvidence: Symptoms of retrosternal burning after meals, occasional nausea, and throbbing unilateral headaches with photophobia.\nSymptoms and examination: Patient reports heartburn 3-4 times weekly, relieved by antacid; headaches 2 days per month, moderate intensity; abdomen soft, no tenderness; neurological exam normal.\nInhaler: No inhaler prescribed. Technique checked: not applicable.\nSmoking status: former, stopped 2020, pack-years 20.\nPlan: Start pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, antacid gel SOS; start propranolol 40 mg OD for migraine prophylaxis, topiramate 25 mg HS, sumatriptan 50 mg SOS, naproxen 500 mg SOS."
+    },
+    {
+      "memory_id": "X0391-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg OD before breakfast\nantacid gel SOS\ndomperidone 10 mg BD before meals\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0391-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (reference: Negative)."
+    },
+    {
+      "memory_id": "X0391-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Gastro-oesophageal reflux disease, migraine.\nEvidence: Persistent mild heartburn, stable migraine frequency.\nSymptoms and examination: Heartburn 1-2 times weekly, mild; headaches 1 day per month, mild; abdomen soft, no epigastric tenderness; neurological exam normal.\nInhaler: No inhaler prescribed. Technique checked: not applicable.\nSmoking status: former, stopped 2020, pack-years 20.\nPlan: Continue current regimen; consider reducing domperidone to OD if symptoms allow."
+    },
+    {
+      "memory_id": "X0391-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg OD before breakfast\nantacid gel SOS\ndomperidone 10 mg OD before breakfast\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0391-m06",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed heartburn returns after eating spicy food or late nights, about twice a week. My migraines have been rare, just one mild episode last month that I treated with sumatriptan. I’m otherwise feeling fine and managing my cab shifts."
+    },
+    {
+      "memory_id": "X0391-m07",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking follow‑up appointment with Dr Suresh Menon (D05) on 2026-01-12 at 10:00."
+    },
+    {
+      "memory_id": "X0391-m08",
+      "date": "2026-01-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Gastro‑oesophageal reflux disease, migraine.\nEvidence: Increased heartburn symptoms, migraine well controlled.\nSymptoms and examination: Heartburn 4‑5 times weekly, moderate, occasional regurgitation; headaches absent for 2 months; abdomen soft, mild epigastric tenderness; neurological exam normal.\nInhaler: No inhaler prescribed. Technique checked: not applicable.\nSmoking status: former, stopped 2020, pack-years 20.\nPlan: Increase pantoprazole to 40 mg BD, continue domperidone OD, arrange upper GI endoscopy to rule out erosive disease; maintain migraine prophylaxis."
+    },
+    {
+      "memory_id": "X0391-m09",
+      "date": "2026-01-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg BD\nantacid gel SOS\ndomperidone 10 mg OD before breakfast\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0391-m10",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (reference: Negative)."
+    },
+    {
+      "memory_id": "X0391-m11",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Gastro‑oesophageal reflux disease, migraine.\nEvidence: Endoscopy shows mild erythema, no ulcer; heartburn improved.\nSymptoms and examination: Heartburn 1‑2 times weekly, mild; no regurgitation; headaches absent; abdomen soft, no tenderness; neurological exam normal.\nInhaler: No inhaler prescribed. Technique checked: not applicable.\nSmoking status: former, stopped 2020, pack-years 20.\nPlan: Reduce pantoprazole to 40 mg OD, continue domperidone OD, continue migraine prophylaxis; review in 3 months."
+    },
+    {
+      "memory_id": "X0391-m12",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg OD before breakfast\nantacid gel SOS\ndomperidone 10 mg OD before breakfast\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0391-m13",
+      "date": "2026-04-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Complete blood count: Hb 14.8 g/L (13‑17), WBC 6.2 x10^9/L (4‑10), Plt 210 x10^9/L (150‑400).\nBasic metabolic panel: Na 138 mmol/L (135‑145), K 4.2 mmol/L (3.5‑5.0), Creatinine 0.9 mg/dL (0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0391-m14",
+      "date": "2026-07-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Gastro‑oesophageal reflux disease, migraine.\nEvidence: Stable symptoms, good control.\nSymptoms and examination: Heartburn <1 time weekly, mild; headaches absent; abdomen soft, no tenderness; neurological exam normal.\nInhaler: No inhaler prescribed. Technique checked: not applicable.\nSmoking status: former, stopped 2020, pack-years 20.\nPlan: Continue current regimen; next review in 3 months."
+    },
+    {
+      "memory_id": "X0391-m15",
+      "date": "2026-07-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg OD before breakfast\nantacid gel SOS\ndomperidone 10 mg OD before breakfast\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0391-m16",
+      "date": "2026-10-11",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Gastro‑oesophageal reflux disease, migraine.\nEvidence: Symptoms well controlled on current therapy.\nSymptoms and examination: Heartburn absent; headaches absent; abdomen soft, no tenderness; neurological exam normal.\nInhaler: No inhaler prescribed. Technique checked: not applicable.\nSmoking status: former, stopped 2020, pack-years 20.\nPlan: Continue pantoprazole 40 mg OD, domperidone 10 mg OD, migraine prophylaxis; advise lifestyle measures; discharge to routine follow‑up as needed."
+    }
+  ]
+}

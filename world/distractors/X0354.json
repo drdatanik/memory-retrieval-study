@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0354",
+  "name": "Kulwinder Brar",
+  "age": 76,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Osteoarthritis of the knee",
+    "Heart failure with reduced ejection fraction",
+    "Glaucoma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0354-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Osteoarthritis of knee\n- Status: Moderate bilateral knee pain, worse on stairs, mild swelling.\n- Plan: Continue paracetamol 650 mg SOS, apply topical diclofenac gel BD, start calcium with vitamin D3 1 tablet OD, advise weight-bearing X-ray both knees.\n\nHeart failure with reduced ejection fraction\n- Status: NYHA class II, stable, weight 68 kg, waist 78 cm (<80 cm cutoff).\n- Plan: Continue sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD, furosemide 40 mg OD, dapagliflozin 10 mg OD, monitor serum creatinine and potassium.\n\nGlaucoma\n- Status: Intraocular pressure 22 mmHg OD, 21 mmHg OS on current drops.\n- Plan: Continue timolol 0.5% eye drops BD, latanoprost 0.005% eye drops HS, schedule visual field test.\n\nDiet advice\n- Breakfast: Whole grain toast with egg white, limited oil.\n- Lunch: Mixed vegetable dal, brown rice, portion control.\n- Dinner: Light soup, steamed fish, avoid fried foods.\n\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0354-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Topical diclofenac gel 1% apply BD to affected knees, duration 3 months.\nCalcium carbonate 500 mg + vitamin D3 250 IU tablet OD, duration 6 months."
+    },
+    {
+      "memory_id": "X0354-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-OH Vitamin D: 18 ng/mL (30-100).\nSerum Creatinine: 1.2 mg/dL (0.6-1.1).\nSerum Potassium: 4.8 mmol/L (3.5-5.0).\nNT-proBNP: 310 pg/mL (<300).\nLipids: Total Cholesterol 190 mg/dL (<200), LDL 115 mg/dL (<100), HDL 48 mg/dL (>40), Triglycerides 140 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0354-m04",
+      "date": "2025-06-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Weight-bearing X-ray both knees: Joint space narrowing grade 2 medially, osteophytes, no fracture. Impression: Moderate osteoarthritis bilateral knees."
+    },
+    {
+      "memory_id": "X0354-m05",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Osteoarthritis of knee\n- Status: Pain improved slightly after topical diclofenac, still reports discomfort on prolonged walking.\n- Plan: Add paracetamol 650 mg TDS SOS if needed, continue calcium+vit D3, reinforce quadriceps exercises, consider intra‑articular hyaluronate if no further improvement.\n\nHeart failure with reduced ejection fraction\n- Status: Weight 67 kg, waist 77 cm, no dyspnea at rest, mild fatigue on exertion.\n- Plan: Up‑titrate bisoprolol to 5 mg OD, continue other HF meds, check electrolytes in 2 weeks.\n\nGlaucoma\n- Status: IOP 21 mmHg OD, 20 mmHg OS.\n- Plan: Continue current drops, schedule visual field test in 3 months.\n\nDiet advice\n- Breakfast: Oatmeal with skim milk, no added sugar.\n- Lunch: Chapati with vegetable curry, small portion rice.\n- Dinner: Grilled chicken, steamed vegetables, avoid sugary desserts.\n\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0354-m06",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Bisoprolol 5 mg tablet OD, duration 3 months.\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0354-m07",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Echocardiogram: LVEF 38% (baseline 35%), NYHA class II.\nSerum Creatinine: 1.1 mg/dL (0.6-1.1).\nSerum Potassium: 4.6 mmol/L (3.5-5.0).\nNT-proBNP: 260 pg/mL (<300)."
+    },
+    {
+      "memory_id": "X0354-m08",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Echocardiogram (transthoracic): Left ventricular end‑diastolic diameter 5.6 cm, LVEF 38%, mild mitral regurgitation, no pulmonary hypertension. Impression: Stable HFrEF, slight improvement in EF."
+    },
+    {
+      "memory_id": "X0354-m09",
+      "date": "2025-10-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Right knee pain increased over past week, especially climbing stairs; using extra paracetamol. Also noticing occasional blurred vision in left eye, worried glaucoma drops may be causing irritation."
+    },
+    {
+      "memory_id": "X0354-m10",
+      "date": "2025-11-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up visit booked for 2026-03-10 at 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0354-m11",
+      "date": "2026-03-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Osteoarthritis of knee\n- Status: Pain moderate, reports difficulty with prolonged standing; X‑ray shows unchanged joint space.\n- Plan: Continue paracetamol SOS, topical diclofenac BD, add glucosamine 1500 mg OD for trial 3 months, reinforce physiotherapy.\n\nHeart failure with reduced ejection fraction\n- Status: Weight 66 kg, waist 76 cm, no orthopnea, NT‑proBNP 240 pg/mL.\n- Plan: Continue bisoprolol 5 mg OD, sacubitril/valsartan, spironolactone, furosemide, dapagliflozin; check renal function and K+ in 4 weeks.\n\nGlaucoma\n- Status: IOP 20 mmHg OD, 19 mmHg OS, mild conjunctival redness noted.\n- Plan: Switch latanoprost to preservative‑free formulation, continue timolol, review in 6 weeks.\n\nDiet advice\n- Breakfast: Idli with sambar, minimal oil.\n- Lunch: Wheat rotis with leafy greens, small rice portion.\n- Dinner: Fish curry, avoid deep‑fried snacks.\n\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0354-m12",
+      "date": "2026-09-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-OH Vitamin D: 28 ng/mL (30-100) – borderline low.\nSerum Calcium: 9.2 mg/dL (8.5-10.5).\nLipids: Total Cholesterol 185 mg/dL (<200), LDL 110 mg/dL (<100), HDL 50 mg/dL (>40), Triglycerides 130 mg/dL (<150).\nHbA1c: 5.8% (4.0-5.6) – slightly elevated."
+    }
+  ]
+}

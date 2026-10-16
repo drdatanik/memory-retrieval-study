@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0069",
+  "name": "Nisha Vyas",
+  "age": 25,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0069-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: initial evaluation of newly diagnosed type 2 diabetes.\nPRESENTING COMPLAINT: She reports fatigue, increased thirst, and frequent urination for 2 months. No hypoglycemia episodes.\nEXAMINATION: BP 128/78 mmHg, weight 68 kg, height 1.55 m, BMI 28.3 (obese). General appearance well, no acanthosis nigricans. Cardiovascular and respiratory exams normal. Feet pulses palpable, no ulcers.\nIMPRESSION: New-onset type 2 diabetes, obese. HbA1c pending. Lifestyle modification needed.\nARRANGEMENTS: Start metformin 500 mg twice daily, glimepiride 1 mg each morning before breakfast, sitagliptin 100 mg daily, empagliflozin 10 mg daily. Advise reduced carbohydrate intake, 150 mins weekly aerobic activity, weight target 5-7% loss. Return if: polyuria worsens, thirst increases, blood glucose below 70 mg/dL with symptoms, blurred vision, or foot pain."
+    },
+    {
+      "memory_id": "X0069-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg BD oral; Glimepiride 1 mg OD before breakfast oral; Sitagliptin 100 mg OD oral; Empagliflozin 10 mg OD oral. Continue lifestyle advice."
+    },
+    {
+      "memory_id": "X0069-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8%; Fasting plasma glucose 146 mg/dL (70-100); Urine albumin-creatinine ratio 12 mg/g (<30)."
+    },
+    {
+      "memory_id": "X0069-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: 3-month diabetes follow-up.\nPRESENTING COMPLAINT: She feels better, less thirst, occasional mild fatigue. No hypoglycemia.\nEXAMINATION: BP 126/76 mmHg, weight 66 kg, BMI 27.5 (overweight). No edema, feet normal.\nIMPRESSION: HbA1c improved to 7.2%; fasting glucose 128 mg/dL. Weight loss 2 kg. Continue current regimen, consider glimepiride dose reduction.\nARRANGEMENTS: Reduce glimepiride to 0.5 mg OD before breakfast. Keep metformin 500 BD, sitagliptin 100 OD, empagliflozin 10 OD. Reinforce diet and activity. Return if: symptomatic hypoglycemia, persistent polyuria, vision change, or foot pain."
+    },
+    {
+      "memory_id": "X0069-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg BD oral; Glimepiride 0.5 mg OD before breakfast oral; Sitagliptin 100 mg OD oral; Empagliflozin 10 mg OD oral."
+    },
+    {
+      "memory_id": "X0069-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2%; Fasting plasma glucose 128 mg/dL; Urine albumin-creatinine ratio 10 mg/g."
+    },
+    {
+      "memory_id": "X0069-m07",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Dilated fundus exam: No diabetic retinopathy; macula clear; peripheral retina normal. Advise annual repeat."
+    },
+    {
+      "memory_id": "X0069-m08",
+      "date": "2025-10-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-20 at 10:00 AM with Dr Priya Natarajan for diabetes review."
+    },
+    {
+      "memory_id": "X0069-m09",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Routine diabetes review after medication tweak.\nPRESENTING COMPLAINT: She reports stable energy, occasional mild polyuria after meals. No hypoglycemia.\nEXAMINATION: BP 124/74 mmHg, weight 65 kg, BMI 27.0 (overweight). Feet warm, pulses present.\nIMPRESSION: HbA1c 6.9%; fasting glucose 122 mg/dL. Good control; consider metformin uptitration for further glucose lowering.\nARRANGEMENTS: Increase metformin to 850 mg BD. Keep glimepiride 0.5 mg OD, sitagliptin 100 OD, empagliflozin 10 OD. Advise maintain carb moderation, 150 mins weekly exercise. Return if: symptomatic hypoglycemia, worsening polyuria, blurry vision, or foot ulcer."
+    },
+    {
+      "memory_id": "X0069-m10",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 850 mg BD oral; Glimepiride 0.5 mg OD before breakfast oral; Sitagliptin 100 mg OD oral; Empagliflozin 10 mg OD oral."
+    },
+    {
+      "memory_id": "X0069-m11",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Annual diabetes review.\nPRESENTING COMPLAINT: She feels well, no polyuria or thirst, occasional mild fatigue after long drives. No hypoglycemia.\nEXAMINATION: BP 122/72 mmHg, weight 64 kg, BMI 26.6 (overweight). Feet intact.\nIMPRESSION: HbA1c 6.7%; fasting glucose 118 mg/dL; urine albumin-creatinine ratio 8 mg/g. Stable control, slight weight loss.\nARRANGEMENTS: Continue metformin 850 BD, glimepiride 0.5 OD, sitagliptin 100 OD, empagliflozin 10 OD. Reinforce diet, activity, weight goal 60 kg. Return if: symptomatic hypoglycemia, persistent polyuria, vision changes, or foot injury."
+    },
+    {
+      "memory_id": "X0069-m12",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 850 mg BD oral; Glimepiride 0.5 mg OD before breakfast oral; Sitagliptin 100 mg OD oral; Empagliflozin 10 mg OD oral."
+    },
+    {
+      "memory_id": "X0069-m13",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.7%; Fasting plasma glucose 118 mg/dL; Urine albumin-creatinine ratio 8 mg/g."
+    }
+  ]
+}

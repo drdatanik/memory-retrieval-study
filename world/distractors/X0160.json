@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0160",
+  "name": "Nitin Gaikwad",
+  "age": 87,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0160-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, walks to nearby shop without aid.\ncognition: Mini-Cog 4/5 (negative screen).\nfalls: 0 falls in last 12 months; gait steady; timed up-and-go 10 seconds (normal).\nmedicines: 4 regular (betahistine, meclizine PRN, atorvastatin, aspirin).\nmood: reports feeling cheerful, denies depression.\ncarers: daughter Priya, lives with patient.\ngoal: \"I want to stay independent and walk to the market.\""
+    },
+    {
+      "memory_id": "X0160-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg twice daily\nmeclizine 25 mg as needed for vertigo\natorvastatin 10 mg nightly\naspirin 75 mg daily"
+    },
+    {
+      "memory_id": "X0160-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Pure-tone audiometry (right): 250 Hz 20 dB, 500 Hz 25 dB, 1000 Hz 30 dB, 2000 Hz 35 dB, 4000 Hz 40 dB, 8000 Hz 45 dB. Left ear similar. Mild high-frequency sensorineural loss, age-appropriate."
+    },
+    {
+      "memory_id": "X0160-m04",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Dix-Hallpike test: positive on left side, with transient torsional nystagmus lasting <10 seconds. Consistent with benign positional vertigo left posterior canal."
+    },
+    {
+      "memory_id": "X0160-m05",
+      "date": "2025-07-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Since starting betahistine, the spinning episodes have reduced from daily to once a week. Still feel occasional light‑headedness when getting up quickly."
+    },
+    {
+      "memory_id": "X0160-m06",
+      "date": "2025-08-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-09-01 at 10:00 with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0160-m07",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still independent, occasional use of cane on uneven ground.\ncognition: Mini-Cog 3/5 (negative).\nfalls: 0 falls in last 12 months; gait slightly cautious; timed up-and-go 11 seconds (borderline).\nmedicines: 4 regular (betahistine increased to 24 mg BD, meclizine PRN, atorvastatin, aspirin).\nmood: reports mild frustration with residual dizziness.\ncarers: daughter Priya, lives with patient.\ngoal: \"I hope to feel steadier on my feet.\""
+    },
+    {
+      "memory_id": "X0160-m08",
+      "date": "2025-09-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 24 mg twice daily\nmeclizine 25 mg as needed\natorvastatin 10 mg nightly\naspirin 75 mg daily"
+    },
+    {
+      "memory_id": "X0160-m09",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 320 pg/mL (reference 200-900). Folate: 8 ng/mL (reference >3). Hemoglobin 13.8 g/dL, MCV 88 fL. No deficiency."
+    },
+    {
+      "memory_id": "X0160-m10",
+      "date": "2025-11-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Repeat audiometry: thresholds stable compared to May 2025. No progression of hearing loss."
+    },
+    {
+      "memory_id": "X0160-m11",
+      "date": "2025-12-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Had a slip in the bathroom on 15‑Dec, landed on buttocks, no injury. Felt dizzy before the slip. No loss of consciousness."
+    },
+    {
+      "memory_id": "X0160-m12",
+      "date": "2026-01-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-02-01 to 2026-02-03 at 14:30 with Dr Nandini Kulkarni (D06) due to clinic schedule."
+    },
+    {
+      "memory_id": "X0160-m13",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: uses cane outdoors, indoor mobility good.\ncognition: Mini-Cog 2/5 (positive screen) – plan for MoCA assessment.\nfalls: 1 fall in last 12 months (Dec 2025); gait cautious; timed up-and-go 13 seconds (raised fall risk) – advise heel‑to‑toe walk, supportive footwear.\nmedicines: 5 regular (betahistine 24 mg BD, meclizine PRN, atorvastatin, aspirin, vitamin D3 1000 IU OD) – polypharmacy, review Beers criteria.\nmood: reports occasional low mood after fall.\ncarers: daughter Priya, lives with patient.\ngoal: \"I want to avoid another fall and keep walking to the temple.\""
+    },
+    {
+      "memory_id": "X0160-m14",
+      "date": "2026-02-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 24 mg twice daily\nmeclizine 25 mg as needed\natorvastatin 10 mg nightly\naspirin 75 mg daily\nvitamin D3 1000 IU daily"
+    },
+    {
+      "memory_id": "X0160-m15",
+      "date": "2026-03-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Complete blood count: WBC 6.2 x10^9/L, Hb 13.5 g/dL, Platelets 210 x10^9/L. Serum creatinine 0.9 mg/dL (eGFR 68 mL/min/1.73m2). Sodium 138 mmol/L, potassium 4.2 mmol/L."
+    },
+    {
+      "memory_id": "X0160-m16",
+      "date": "2026-05-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "MoCA assessment: score 24/30 (mild cognitive impairment). Domains affected: delayed recall and executive function. Recommend cognitive stimulation and medication review."
+    },
+    {
+      "memory_id": "X0160-m17",
+      "date": "2026-07-10",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Neuropsychology feedback: MoCA 24/30 consistent with mild cognitive impairment likely vascular etiology. Advise blood pressure control, aerobic exercise, and follow‑up in 6 months."
+    },
+    {
+      "memory_id": "X0160-m18",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: indoor independence maintained, uses cane for outdoor walks.\ncognition: MoCA 24/30 stable, no further decline.\nfalls: 0 falls in last 6 months; gait steady with cane; timed up-and-go 11 seconds (borderline).\nmedicines: 5 regular (betahistine 24 mg BD, meclizine PRN, atorvastatin, aspirin, vitamin D3 1000 IU OD) – polypharmacy, Beers review completed, no inappropriate meds.\nmood: reports good spirits, enjoys gardening with daughter.\ncarers: daughter Priya, lives with patient.\ngoal: \"I wish to stay active and attend my granddaughter’s wedding next year.\""
+    }
+  ]
+}

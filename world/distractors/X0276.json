@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0276",
+  "name": "Amudha Balan",
+  "age": 44,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Polycystic ovary syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0276-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, drives cab 8-10 hours/day, reports occasional lower back discomfort.\ncognition: Mini-Cog score 4/5 (normal).\nfalls: 0 falls in last 12 months; gait steady without aid; timed up-and-go 9 seconds (normal).\nmedicines: 2 regular (metformin 500 mg BD, combined oral contraceptive pill OD).\nmood: reports good mood, denies depression or anxiety.\ncarers: Priya Sharma (sister).\ngoals: \"I want to manage my periods and have more energy for work.\""
+    },
+    {
+      "memory_id": "X0276-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD; combined oral contraceptive pill OD"
+    },
+    {
+      "memory_id": "X0276-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "serum testosterone 45 ng/dL (ref 15-70); LH 8 mIU/mL, FSH 6 mIU/mL (LH:FSH ratio 1.3); HbA1c 5.6% (ref 4.0-5.6); pelvic ultrasound: bilateral ovaries 12 follicles each, endometrial thickness 5 mm."
+    },
+    {
+      "memory_id": "X0276-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues driving cab, notes improved energy, occasional mild nausea after metformin.\ncognition: Mini-Cog not repeated (annual due).\nfalls: 0 falls last 12 months; gait steady; timed up-and-go 9 seconds (normal).\nmedicines: 2 regular (metformin 500 mg BD, combined oral contraceptive pill OD).\nmood: reports stable mood, no depressive symptoms.\ncarers: Priya Sharma (sister).\ngoals: \"I want to keep my periods regular and feel less tired.\""
+    },
+    {
+      "memory_id": "X0276-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 850 mg BD; combined oral contraceptive pill OD"
+    },
+    {
+      "memory_id": "X0276-m06",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-05 at 10:00 with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0276-m07",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: driving cab without difficulty, reports occasional bloating.\ncognition: Mini-Cog score 3/5 (positive screen) – plan for full cognitive assessment.\nfalls: 0 falls last 12 months; gait steady; timed up-and-go 10 seconds (borderline, advise exercise and supportive footwear).\nmedicines: 2 regular (metformin 850 mg BD, combined oral contraceptive pill OD).\nmood: mentions mild irritability, denies depression.\ncarers: Priya Sharma (sister).\ngoals: \"I want to reduce bloating and maintain regular cycles.\""
+    },
+    {
+      "memory_id": "X0276-m08",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 850 mg BD; progesterone-only pill OD (replace combined OC)"
+    },
+    {
+      "memory_id": "X0276-m09",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "serum testosterone 38 ng/dL (ref 15-70); LH 7 mIU/mL, FSH 5 mIU/mL (LH:FSH ratio 1.4); HbA1c 5.4% (ref 4.0-5.6); pelvic ultrasound: ovaries 9 follicles each, endometrial thickness 4 mm."
+    },
+    {
+      "memory_id": "X0276-m10",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: drives cab 9 hrs/day, reports less bloating, occasional mild hypoglycemia feeling.\ncognition: full cognitive assessment pending; Mini-Cog previously 3/5.\nfalls: 0 falls last 12 months; gait steady; timed up-and-go 9 seconds (normal).\nmedicines: 2 regular (metformin 850 mg BD, progesterone-only pill OD).\nmood: reports stable mood, no anxiety.\ncarers: Priya Sharma (sister).\ngoals: \"I want to avoid low sugar episodes and keep cycles regular.\""
+    },
+    {
+      "memory_id": "X0276-m11",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD; progesterone-only pill OD"
+    },
+    {
+      "memory_id": "X0276-m12",
+      "date": "2026-06-30",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via app: ‘I’ve been feeling dizzy after long drives, worried it’s the metformin. Also my periods are light but regular.’"
+    },
+    {
+      "memory_id": "X0276-m13",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues cab driving, notes occasional light‑headedness after meals.\ncognition: Mini-Cog repeated 4/5 (normal).\nfalls: 0 falls last 12 months; gait steady; timed up-and-go 9 seconds (normal).\nmedicines: 2 regular (metformin 500 mg BD, progesterone-only pill OD).\nmood: reports good mood, denies depression.\ncarers: Priya Sharma (sister).\ngoals: \"I want to stay healthy enough to keep working and enjoy time with my sister.\""
+    }
+  ]
+}

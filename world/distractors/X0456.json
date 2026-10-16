@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0456",
+  "name": "Razia Sheikh",
+  "age": 68,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Type 2 diabetes",
+    "Coronary artery disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0456-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, walks to market, manages florist shop. cognition: Mini-Cog 4/5 (negative). falls: none in last 12 months, gait normal, timed up-and-go 10 seconds. medicines: 9 regular (metformin 500 mg BD, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD, aspirin 75 mg OD, atorvastatin 40 mg HS, metoprolol 25 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS) – polypharmacy, review against Beers. mood: calm. carers: daughter Priya, relationship: daughter. goals: \"I want to keep gardening and stay independent.\""
+    },
+    {
+      "memory_id": "X0456-m02",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (target <7). Fasting plasma glucose 154 mg/dL (70-110). Urine albumin‑creatinine ratio 30 mg/g (<30 normal). Lipid profile: LDL 110 mg/dL (<100 optimal), HDL 45 mg/dL (>40), triglycerides 180 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0456-m03",
+      "date": "2025-05-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "12‑lead ECG: sinus rhythm 78 bpm, no ST‑T changes, no Q waves, normal axis. No acute ischemia."
+    },
+    {
+      "memory_id": "X0456-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independent, occasional fatigue after long walks. cognition: Mini‑Cog not repeated (annual due Apr 2026). falls: none, gait slightly slow, timed up‑and‑go 11 seconds – raised fall risk, advise strength training and supportive footwear. medicines: 9 regular – polypharmacy, medication review pending. mood: mild anxiety, denies depression. carers: daughter Priya. goals: \"I want to walk to market without fatigue.\""
+    },
+    {
+      "memory_id": "X0456-m05",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "empagliflozin 25 mg OD (increase from 10 mg OD). All other medicines unchanged."
+    },
+    {
+      "memory_id": "X0456-m06",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2% (down). Fasting glucose 130 mg/dL. Urine ACR 28 mg/g. LDL 95 mg/dL, HDL 48 mg/dL, triglycerides 160 mg/dL."
+    },
+    {
+      "memory_id": "X0456-m07",
+      "date": "2025-09-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Exercise treadmill test (Bruce protocol): achieved 85% age‑predicted maximal HR, no chest pain, no ECG ST‑depression, BP response normal. Test negative for inducible ischemia."
+    },
+    {
+      "memory_id": "X0456-m08",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: manages shop, occasional knee discomfort. cognition: Mini‑Cog unchanged. falls: one slip at bathroom, no injury, gait cautious, timed up‑and‑go 13 seconds – raised risk, refer to physio. medicines: 9 regular – polypharmacy. mood: reports low mood, anhedonia 2/weeks. carers: daughter Priya. goals: \"I want to attend my granddaughter's wedding in March.\""
+    },
+    {
+      "memory_id": "X0456-m09",
+      "date": "2025-12-03",
+      "type": "prescription",
+      "author": "D06",
+      "text": "glimepiride 2 mg OD (increase from 1 mg OD). All other medicines unchanged."
+    },
+    {
+      "memory_id": "X0456-m10",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8% (improved). Fasting glucose 118 mg/dL. Urine ACR 22 mg/g. LDL 88 mg/dL, HDL 50 mg/dL, triglycerides 140 mg/dL."
+    },
+    {
+      "memory_id": "X0456-m11",
+      "date": "2026-03-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Transthoracic echocardiogram: LVEF 55% (normal). Mild aortic sclerosis, no significant stenosis. No regional wall motion abnormality, no pericardial effusion."
+    },
+    {
+      "memory_id": "X0456-m12",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independent, shop work tolerated. cognition: Mini‑Cog 3/5 (negative). falls: none in last 6 months, gait normal, timed up‑and‑go 10 seconds. medicines: 9 regular – polypharmacy, medication review due. mood: improved, denies depressive symptoms. carers: daughter Priya. goals: \"I want to continue flowering shop and travel.\""
+    },
+    {
+      "memory_id": "X0456-m13",
+      "date": "2026-06-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.5% (at target). Fasting glucose 110 mg/dL. Urine ACR 20 mg/g. LDL 80 mg/dL, HDL 52 mg/dL, triglycerides 130 mg/dL."
+    },
+    {
+      "memory_id": "X0456-m14",
+      "date": "2026-07-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Dilated fundus exam: mild non‑proliferative diabetic retinopathy, microaneurysms temporal to fovea, no macular edema, no proliferative changes. Recommend annual review."
+    },
+    {
+      "memory_id": "X0456-m15",
+      "date": "2026-09-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: active, tends florist shop, walks daily. cognition: Mini‑Cog stable. falls: none, gait good, timed up‑and‑go 9 seconds. medicines: 8 regular (glimepiride stopped) – polypharmacy continues. mood: euthyroid, positive affect. carers: daughter Priya. goals: \"I want to walk the Lalbagh gardens without breathlessness.\""
+    },
+    {
+      "memory_id": "X0456-m16",
+      "date": "2026-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up visit booked with Dr Nandini Kulkarni (D06) for 2026-10-10 at 10:30 am."
+    }
+  ]
+}

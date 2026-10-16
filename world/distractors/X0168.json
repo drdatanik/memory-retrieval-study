@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0168",
+  "name": "Chandrashekar Murthy",
+  "age": 51,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Epilepsy",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0168-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, drives school bus, reports occasional brief seizures. cognition: Mini-Cog 4/5 (negative). falls: 0 falls last 12 months, gait normal, TUG 9 seconds (normal). medicines: 5 regular (levetiracetam 500 mg BD, lamotrigine 50 mg BD, tiotropium OD, salbutamol SOS, budesonide-formoterol BD) – polypharmacy, review Beers. mood: euthymic, denies depression. carers: Sita, spouse. goals: \"Stay seizure‑free and keep driving safely.\""
+    },
+    {
+      "memory_id": "X0168-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 500 mg PO BD\nlamotrigine 50 mg PO BD\ntiotropium inhaler 18 mcg OD\nsalbutamol inhaler 100 mcg SOS\nbudesonide-formoterol 200/6 mcg inhaler BD"
+    },
+    {
+      "memory_id": "X0168-m03",
+      "date": "2025-04-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 138 mmol/L (135-145)\nSerum creatinine: 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0168-m04",
+      "date": "2025-04-06",
+      "type": "investigation",
+      "author": "D06",
+      "text": "EEG: background slowing, no epileptiform discharges; no clinical seizure activity recorded."
+    },
+    {
+      "memory_id": "X0168-m05",
+      "date": "2025-04-08",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve had two brief jerking episodes in the last week, each lasting <30 seconds, no loss of consciousness. My inhaler helps my breathing; no wheeze today."
+    },
+    {
+      "memory_id": "X0168-m06",
+      "date": "2025-07-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-03 at 10:00 with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0168-m07",
+      "date": "2025-07-03",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports good seizure control, no missed bus routes. cognition: Mini-Cog 4/5 (stable). falls: 0 falls, gait steady, TUG 9 seconds. medicines: 5 regular (levetiracetam 500 mg BD, lamotrigine 50 mg BD, tiotropium OD, salbutamol SOS, budesonide-formoterol BD) – polypharmacy, Beers review advised. mood: stable, no new depressive symptoms. carers: Sita, spouse. goals: \"Keep my job and stay free of falls.\""
+    },
+    {
+      "memory_id": "X0168-m08",
+      "date": "2025-07-03",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 750 mg PO BD\nlamotrigine 50 mg PO BD\ntiotropium inhaler 18 mcg OD\nsalbutamol inhaler 100 mcg SOS\nbudesonide-formoterol 200/6 mcg inhaler BD"
+    },
+    {
+      "memory_id": "X0168-m09",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 139 mmol/L (135-145)\nSerum creatinine: 0.9 mg/dL (0.6-1.2)\nSpirometry: FEV1 1.85 L (68% pred), FEV1/FVC 0.62 (lower limit 0.70) – consistent with COPD."
+    },
+    {
+      "memory_id": "X0168-m10",
+      "date": "2025-07-07",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Chest X-ray: hyperinflated lungs, flattened diaphragms, no acute infiltrate. No pleural effusion."
+    },
+    {
+      "memory_id": "X0168-m11",
+      "date": "2025-10-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues to drive school bus, reports no seizures in past 3 months. cognition: Mini-Cog 4/5 (negative). falls: 0 falls, gait normal, TUG 9 seconds. medicines: 5 regular (levetiracetam 750 mg BD, lamotrigine 50 mg BD, tiotropium OD, salbutamol SOS, budesonide-formoterol BD) – polypharmacy, Beers review. mood: euthymic. carers: Sita, spouse. goals: \"Stay healthy enough to keep working and enjoy time with grandchildren.\""
+    },
+    {
+      "memory_id": "X0168-m12",
+      "date": "2025-10-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 750 mg PO BD\nlamotrigine 50 mg PO BD\ntiotropium inhaler 18 mcg OD\nsalbutamol inhaler 100 mcg SOS\nbudesonide-formoterol 200/6 mcg inhaler BD\nSpacer device prescribed for inhaler use."
+    },
+    {
+      "memory_id": "X0168-m13",
+      "date": "2025-10-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 138 mmol/L (135-145)\nSerum creatinine: 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0168-m14",
+      "date": "2026-04-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, drives bus, no seizures for 6 months. cognition: Mini-Cog 3/5 (positive screen ≤2? actually 3 >2, so negative). We'll note score 3/5 (negative). falls: 0 falls, gait normal, TUG 9 seconds. medicines: 5 regular (levetiracetam 750 mg BD, lamotrigine 50 mg BD, tiotropium OD, salbutamol SOS, budesonide-formoterol BD) – polypharmacy, Beers review. mood: stable, denies depression. carers: Sita, spouse. goals: \"Maintain seizure freedom and good lung health to keep my job.\""
+    },
+    {
+      "memory_id": "X0168-m15",
+      "date": "2026-04-03",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 750 mg PO BD\nlamotrigine 25 mg PO BD (dose reduced due to mild rash)\ntiotropium inhaler 18 mcg OD\nsalbutamol inhaler 100 mcg SOS\nbudesonide-formoterol 200/6 mcg inhaler BD"
+    }
+  ]
+}

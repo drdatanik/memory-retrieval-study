@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0215",
+  "name": "Vasanthi Raman",
+  "age": 46,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0215-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome and gout.\nPatient reports crampy abdominal pain, bloating, alternating diarrhoea and constipation for 2 months, plus acute pain and swelling in the first metatarsophalangeal joint of the right foot for 3 days. Examination: mild tenderness in lower abdomen, no masses; right first MTP joint warm, swollen, painful on motion. Smoking status: never smoked, pack-years 0. Started mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS for IBS; allopurinol 100 mg OD for urate lowering, colchicine 0.5 mg BD for gout flare. Ordered CBC, stool routine, tTG-IgA, serum uric acid and creatinine."
+    },
+    {
+      "memory_id": "X0215-m02",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.8 g/dL (13.0-17.0), WBC 6.2 x10^9/L (4.0-10.0), Plt 210 x10^9/L (150-400). Stool routine: no ova, cysts, occult blood negative. tTG-IgA: <2 U/mL (<7 negative). Serum uric acid: 8.9 mg/dL (female <6.0). Serum creatinine: 0.9 mg/dL (0.5-1.1)."
+    },
+    {
+      "memory_id": "X0215-m03",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Allopurinol increased to 200 mg OD. Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Colchicine stopped as gout flare resolved."
+    },
+    {
+      "memory_id": "X0215-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome stable, gout asymptomatic.\nPatient reports abdominal discomfort reduced to occasional bloating, bowel movements regular, no joint pain or swelling. No flare of gout in past 6 weeks. Examination: soft abdomen, no tenderness; joints non-tender, no erythema. Smoking status: never smoked, pack-years 0. Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; allopurinol 200 mg OD."
+    },
+    {
+      "memory_id": "X0215-m05",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 6.4 mg/dL (female <6.0). Serum creatinine: 0.88 mg/dL (0.5-1.1)."
+    },
+    {
+      "memory_id": "X0215-m06",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-07 at 10:30 AM with Dr Suresh Menon (D05) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0215-m07",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome and gout.\nPatient reports mild epigastric discomfort after meals, bowel movements 2-3 times/day, formed stool. No joint pain. Examination: mild tenderness in left lower quadrant, no masses; first MTP joints non‑tender. Smoking status: never smoked, pack-years 0. Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; allopurinol 200 mg OD; add febuxostat 40 mg OD for further urate reduction."
+    },
+    {
+      "memory_id": "X0215-m08",
+      "date": "2025-12-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.0 g/dL, WBC 5.8 x10^9/L, Plt 205 x10^9/L. Stool routine: normal. tTG-IgA: <2 U/mL. Serum uric acid: 5.2 mg/dL. Serum creatinine: 0.86 mg/dL."
+    },
+    {
+      "memory_id": "X0215-m09",
+      "date": "2026-02-18",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Febuxostat stopped due to mild transaminitis (ALT 58 U/L). Continue allopurinol 200 mg OD. Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS."
+    },
+    {
+      "memory_id": "X0215-m10",
+      "date": "2026-05-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome controlled, gout well controlled.\nPatient reports no abdominal pain, bowel movements regular, no bloating. No gout symptoms for >4 months. Examination: abdomen soft, non‑tender; feet normal. Smoking status: never smoked, pack-years 0. Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; allopurinol 200 mg OD."
+    },
+    {
+      "memory_id": "X0215-m11",
+      "date": "2026-05-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 4.8 mg/dL (female <6.0). Serum creatinine: 0.84 mg/dL (0.5-1.1)."
+    },
+    {
+      "memory_id": "X0215-m12",
+      "date": "2026-08-16",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome in remission, gout asymptomatic.\nPatient denies any gastrointestinal discomfort, reports normal stool frequency. No joint pain, swelling or redness. Examination: benign abdomen, no tenderness; joints normal. Smoking status: never smoked, pack-years 0. Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS as needed; allopurinol 200 mg OD. Advised to return if symptoms change."
+    }
+  ]
+}

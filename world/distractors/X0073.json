@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0073",
+  "name": "Jessy Thomas",
+  "age": 77,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Insomnia",
+    "Irritable bowel syndrome",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0073-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of insomnia, IBS and vitamin D deficiency.\nPRESENTING COMPLAINT: Patient reports difficulty falling asleep, frequent night awakenings, abdominal bloating and loose stools after meals, and fatigue.\nEXAMINATION: BP 138/84 mmHg, weight 58 kg, height 1.55 m, BMI 24.1 (overweight). Abdomen soft, non-tender, no masses. Neurologically normal.\nIMPRESSION: Insomnia moderate, IBS‑predominant diarrhoea, vitamin D deficiency (level 18 ng/mL). Fasting lipids and glucose ordered as per annual screening.\nARRANGEMENTS: Advised weight‑reducing diet and daily walk. Started melatonin 3 mg HS, trazodone 50 mg HS, mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS, and cholecalciferol 60000 IU weekly for 8 weeks. Return if new chest pain, breathlessness, fever >39°C, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0073-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS; Trazodone 50 mg HS; Mebeverine 135 mg BD; Ispaghula husk 5 g OD; Loperamide 2 mg SOS; Cholecalciferol 60000 IU once weekly for 8 weeks."
+    },
+    {
+      "memory_id": "X0073-m03",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.5); Hb 12.8 g/dL (12-16); Vitamin D 18 ng/mL (30-100); Calcium 9.2 mg/dL (8.5-10.5); Phosphate 3.4 mg/dL (2.5-4.5); TC 190 mg/dL (<200); LDL 110 mg/dL (<130); HDL 45 mg/dL (>40); TG 150 mg/dL (<150); FBS 98 mg/dL (70-100); CBC within normal limits; Stool routine normal; tTG‑IgA negative."
+    },
+    {
+      "memory_id": "X0073-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up on sleep, bowel symptoms and vitamin D repletion.\nPRESENTING COMPLAINT: Sleep improved but still wakes 2‑3 times; abdominal discomfort less, stools formed; reports mild muscle aches.\nEXAMINATION: BP 136/82, weight 57.5 kg, BMI 23.9 (overweight). No abdominal tenderness.\nIMPRESSION: Insomnia mild‑moderate, IBS improving, vitamin D still low (18→22 ng/mL after 6 weeks loading). Lipids and FBS stable.\nARRANGEMENTS: Continue melatonin, reduce trazodone to 25 mg HS; keep mebeverine BD, ispaghula husk OD, loperamide PRN. Change vitamin D to cholecalciferol 1000 IU OD. Advise maintain activity, monitor weight. Return if worsening pain, fever, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0073-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS; Trazodone 25 mg HS; Mebeverine 135 mg BD; Ispaghula husk 5 g OD; Loperamide 2 mg SOS; Cholecalciferol 1000 IU OD."
+    },
+    {
+      "memory_id": "X0073-m06",
+      "date": "2025-10-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D 28 ng/mL (30-100); Calcium 9.4 mg/dL (8.5-10.5); Phosphate 3.6 mg/dL (2.5-4.5); TSH 2.0 mIU/L (0.4-4.5); Hb 13.0 g/dL (12-16); Lipids unchanged; FBS 96 mg/dL."
+    },
+    {
+      "memory_id": "X0073-m07",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of persistent low vitamin D and sleep quality.\nPRESENTING COMPLAINT: Sleep still fragmented; abdominal symptoms minimal; notes occasional leg cramps.\nEXAMINATION: BP 134/80, weight 57 kg, BMI 23.7 (overweight). No edema.\nIMPRESSION: Insomnia persists, IBS well controlled, vitamin D suboptimal (28 ng/mL). Annual fasting lipids and glucose reviewed – LDL 112, HDL 44, TG 148, FBS 97.\nARRANGEMENTS: Increase vitamin D to cholecalciferol 2000 IU OD; keep melatonin 3 mg HS, trazodone 25 mg HS; continue mebeverine BD, ispaghula husk OD, loperamide PRN. Advise sunlight exposure, weight‑stable diet. Return if new chest pain, dyspnoea, fever >39°C, or blood in stool."
+    },
+    {
+      "memory_id": "X0073-m08",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS; Trazodone 25 mg HS; Mebeverine 135 mg BD; Ispaghula husk 5 g OD; Loperamide 2 mg SOS; Cholecalciferol 2000 IU OD."
+    },
+    {
+      "memory_id": "X0073-m09",
+      "date": "2026-03-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-20 10:30 with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0073-m10",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up and influenza vaccination.\nPRESENTING COMPLAINT: Reports better sleep, only occasional early waking; bowel habits normal; no GI complaints.\nEXAMINATION: BP 132/78, weight 56.5 kg, BMI 23.5 (overweight). Lungs clear.\nIMPRESSION: Insomnia improved, IBS in remission, vitamin D now adequate (38 ng/mL). Lipids and FBS within target.\nARRANGEMENTS: Give inactivated influenza vaccine today (2026-04-20). Continue melatonin 3 mg HS, trazodone 25 mg HS; mebeverine BD, ispaghula husk OD, loperamide PRN. Vitamin D reduced to cholecalciferol 1000 IU OD. Advise maintain activity, annual labs due. Return if fever >39°C, cough with dyspnoea, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0073-m11",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS; Trazodone 25 mg HS; Mebeverine 135 mg BD; Ispaghula husk 5 g OD; Loperamide 2 mg SOS; Cholecalciferol 1000 IU OD."
+    },
+    {
+      "memory_id": "X0073-m12",
+      "date": "2026-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D 42 ng/mL (30-100); Calcium 9.5 mg/dL (8.5-10.5); Phosphate 3.7 mg/dL (2.5-4.5); TSH 1.9 mIU/L (0.4-4.5); Hb 13.2 g/dL (12-16); Lipids: TC 188, LDL 110, HDL 46, TG 145; FBS 95 mg/dL."
+    },
+    {
+      "memory_id": "X0073-m13",
+      "date": "2026-09-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review and influenza booster.\nPRESENTING COMPLAINT: Sleep stable, bowel regular, feels well.\nEXAMINATION: BP 130/76, weight 56 kg, BMI 23.3 (overweight).\nIMPRESSION: Insomnia controlled, IBS asymptomatic, vitamin D sufficient (45 ng/mL). Annual lipids and FBS normal.\nARRANGEMENTS: Give influenza vaccine (2026-09-05). Continue melatonin 3 mg HS, trazodone 25 mg HS; mebeverine BD, ispaghula husk OD, loperamide PRN. Vitamin D continued cholecalciferol 1000 IU OD. Advise maintain weight, diet, exercise. Return if chest pain, breathlessness, fever >39°C, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0073-m14",
+      "date": "2026-09-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS; Trazodone 25 mg HS; Mebeverine 135 mg BD; Ispaghula husk 5 g OD; Loperamide 2 mg SOS; Cholecalciferol 1000 IU OD."
+    }
+  ]
+}

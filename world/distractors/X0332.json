@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0332",
+  "name": "Hitesh Parikh",
+  "age": 22,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Type 2 diabetes",
+    "Iron-deficiency anaemia",
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0332-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports managing coffee estate duties, walks 2 km daily, no difficulty with ADLs.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal), negative screen.\nfalls: no falls in last 12 months, gait steady, timed up-and-go 9 seconds (normal).\nmedicines: 6 regular (metformin, glimepiride, sitagliptin, empagliflozin, ferrous sulfate, escitalopram). Polypharmacy – request review against Beers criteria.\nmood: denies low mood, reports occasional worry about work; GAD-7 score 8 (mild anxiety).\ncarers: mother, Mrs Lakshmi Kumar.\ngoal: \"I want to stay healthy enough to run the estate and support my family.\""
+    },
+    {
+      "memory_id": "X0332-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD\n glimepiride 1 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n ferrous sulfate 200 mg OD\n escitalopram 5 mg OD"
+    },
+    {
+      "memory_id": "X0332-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8%\n Fasting plasma glucose 126 mg/dL\n Urine albumin‑creatinine ratio 22 mg/g\n Haemoglobin 11.2 g/dL\n Serum ferritin 14 ng/mL\n MCV 78 fL\n TSH 2.1 µIU/mL\n GAD‑7 score 8"
+    },
+    {
+      "memory_id": "X0332-m04",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues estate supervision, reports occasional fatigue after long walks.\ncognition: Mini-Cog 4/5, stable.\nfalls: no falls, gait slightly slower, timed up-and-go 10 seconds (normal).\nmedicines: 6 regular (metformin, glimepiride, sitagliptin, empagliflozin, ferrous sulfate, escitalopram). Polypharmacy – note for Beers review.\nmood: reports increased worry, GAD‑7 now 12 (moderate anxiety). Denies depression.\ncarers: mother, Mrs Lakshmi Kumar.\ngoal: \"I wish to feel less anxious and have more energy for work.\""
+    },
+    {
+      "memory_id": "X0332-m05",
+      "date": "2025-07-21",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD (unchanged)\n glimepiride 1 mg OD\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n ferrous sulfate 200 mg OD\n escitalopram 10 mg OD\n buspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0332-m06",
+      "date": "2025-07-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.5%\n Fasting plasma glucose 115 mg/dL\n Urine albumin‑creatinine ratio 18 mg/g\n Haemoglobin 12.0 g/dL\n Serum ferritin 28 ng/mL\n MCV 82 fL\n TSH 2.0 µIU/ml\n GAD‑7 score 12"
+    },
+    {
+      "memory_id": "X0332-m07",
+      "date": "2025-10-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling restless at night, mind racing about estate finances. Hard to concentrate during morning meetings. Worry interferes with sleep; taking escitalopram helps a bit but not enough."
+    },
+    {
+      "memory_id": "X0332-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still able to oversee estate, notes mild fatigue.\ncognition: Mini-Cog 4/5, unchanged.\nfalls: no falls, gait normal, timed up-and-go 9 seconds.\nmedicines: 7 regular (metformin, glimepiride, sitagliptin, empagliflozin, ferrous sulfate, escitalopram, buspirone). Polypharmacy – schedule medication review.\nmood: reports persistent anxiety, GAD‑7 14 (moderate‑severe). Denies panic attacks.\ncarers: mother, Mrs Lakshmi Kumar.\ngoal: \"I want to sleep better and feel calm during the day.\""
+    },
+    {
+      "memory_id": "X0332-m09",
+      "date": "2025-10-03",
+      "type": "prescription",
+      "author": "D06",
+      "text": "escitalopram 15 mg OD\n buspirone 10 mg BD\n (other meds unchanged)"
+    },
+    {
+      "memory_id": "X0332-m10",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for dilated fundus exam with Dr. S. Rao at Narayana Nethralaya on 2027-03-01. Patient to bring recent glucose log."
+    },
+    {
+      "memory_id": "X0332-m11",
+      "date": "2026-04-20",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Dilated fundus exam: mild microaneurysms temporal to fovea OD, none OS. No macular edema. Visual acuity 20/20 both eyes. Recommend annual retinal screening."
+    },
+    {
+      "memory_id": "X0332-m12",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues estate work, walks 3 km daily without fatigue.\ncognition: Mini-Cog 4/5, stable; annual screen negative.\nfalls: no falls in past year, gait firm, timed up-and-go 8 seconds.\nmedicines: 7 regular (metformin, glimepiride, sitagliptin, empagliflozin, ferrous sulfate, escitalopram, buspirone). Polypharmacy – medication review pending.\nmood: reports improved sleep, GAD‑7 7 (mild anxiety). Denies depressive symptoms.\ncarers: mother, Mrs Lakshmi Kumar.\ngoal: \"I want to keep my health steady so I can expand the estate next year.\""
+    }
+  ]
+}

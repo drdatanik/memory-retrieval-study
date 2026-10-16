@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0064",
+  "name": "Archana Kadam",
+  "age": 88,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Coronary artery disease",
+    "Vitamin B12 deficiency",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0064-m01",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Aspirin 75mg OD; Atorvastatin 40mg HS; Metoprolol succinate 25mg OD; Isosorbide mononitrate 20mg OD; SL GTN SOS; Methylcobalamin 1500mcg OD; Amlodipine 5mg OD; Telmisartan 40mg OD; Losartan 50mg OD; HCTZ 12.5mg OD."
+    },
+    {
+      "memory_id": "X0064-m02",
+      "date": "2025-04-03",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, shops daily, uses public transport. cognition: Mini-Cog 4/5 (recall 3, clock normal). falls: 0 falls last 12 months, gait steady, TUG 10s (normal). medicines: 10 regular, polypharmacy, review Beers. mood: denies depression, PHQ-2 0. carers: daughter Priya, supportive. goals: \"Stay active and keep running my shop.\""
+    },
+    {
+      "memory_id": "X0064-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 92 mg/dL (optimal <100). Serum vitamin B12 210 pg/mL (low normal 200-900). MCV 88 fL (80-100). Haemoglobin 12.8 g/dL (female 12-16). Serum creatinine 0.9 mg/dL, eGFR 68 mL/min/1.73m2. Serum potassium 4.3 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0064-m04",
+      "date": "2025-04-07",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: sinus rhythm 78 bpm, no ST‑T changes, no Q waves. Left ventricular voltage within normal limits. No arrhythmia."
+    },
+    {
+      "memory_id": "X0064-m05",
+      "date": "2025-04-09",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Treadmill test (Bruce protocol): exercised 6 minutes, achieved 85% predicted HR, no chest pain, no ST‑depression, BP response normal. Test negative for ischemia."
+    },
+    {
+      "memory_id": "X0064-m06",
+      "date": "2025-04-11",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Transthoracic echocardiogram: LVEF 58%, mild concentric LVH, no valvular stenosis or regurgitation. No wall motion abnormalities. Normal diastolic function."
+    },
+    {
+      "memory_id": "X0064-m07",
+      "date": "2025-05-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve felt a bit more tired over the past week, especially after climbing the shop stairs. My sleep is fine, no palpitations or dizziness. I’m worried my B12 might be low again because my legs feel slightly heavy."
+    },
+    {
+      "memory_id": "X0064-m08",
+      "date": "2025-06-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 10 June 2025 at 10:00 am with Dr Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0064-m09",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still independent, reports mild fatigue on exertion. cognition: Mini-Cog 4/5 (stable). falls: 0 falls, gait slightly slower, TUG 11s (borderline). medicines: 10 regular, polypharmacy, Beers review advised. mood: PHQ-2 0, denies low mood. carers: daughter Priya. goals: \"Keep managing my shop without feeling exhausted.\""
+    },
+    {
+      "memory_id": "X0064-m10",
+      "date": "2025-06-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Aspirin 75mg OD; Atorvastatin 40mg HS; Metoprolol succinate increased to 37.5mg OD; Isosorbide mononitrate 20mg OD; SL GTN SOS; Methylcobalamin 1500mcg OD; Amlodipine 5mg OD; Telmisartan 40mg OD; Losartan 50mg OD; HCTZ 12.5mg OD."
+    },
+    {
+      "memory_id": "X0064-m11",
+      "date": "2025-06-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LDL 88 mg/dL (target <100). Vitamin B12 190 pg/mL (low). MCV 89 fL. Haemoglobin 12.6 g/dL. Creatinine 0.92 mg/dL, eGFR 65 mL/min/1.73m2. Potassium 4.4 mmol/L."
+    },
+    {
+      "memory_id": "X0064-m12",
+      "date": "2025-08-20",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: sinus rhythm 80 bpm, no new ST‑T changes, no Q waves. Stable compared to prior."
+    },
+    {
+      "memory_id": "X0064-m13",
+      "date": "2025-09-05",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to cardiology for evaluation of persistent fatigue and borderline TUG, despite negative stress test. Request ECG review, consider ischemia workup. Include recent labs and med list."
+    },
+    {
+      "memory_id": "X0064-m14",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Cardiology review: ECG normal, no ischemia. Fatigue deemed non‑cardiac, likely related to mild anemia and deconditioning. Advise graded activity, continue current meds, repeat Hb in 3 months."
+    },
+    {
+      "memory_id": "X0064-m15",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, shops daily, reports improved energy after starting walking routine. cognition: Mini-Cog 4/5 (annual screen normal). falls: 0 falls, gait normal, TUG 10s. medicines: 10 regular, polypharmacy, Beers review completed, no inappropriate meds. mood: PHQ-2 0, denies depression. carers: daughter Priya. goals: \"Maintain independence and enjoy time with grandchildren.\""
+    },
+    {
+      "memory_id": "X0064-m16",
+      "date": "2026-02-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LDL 90 mg/dL. Vitamin B12 215 pg/mL (normal). MCV 88 fL. Haemoglobin 13.0 g/dL. Creatinine 0.9 mg/dL, eGFR 68 mL/min/1.73m2. Potassium 4.3 mmol/L."
+    },
+    {
+      "memory_id": "X0064-m17",
+      "date": "2026-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original 10 Oct 2026 10:00 am moved to 5 Oct 2026 02:00 pm due to patient travel. See Dr Kulkarni (D06)."
+    }
+  ]
+}

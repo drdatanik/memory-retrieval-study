@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0441",
+  "name": "Nasir Syed",
+  "age": 39,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Asthma",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0441-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Fatigue, occasional wheeze, nasal congestion for 2 months. EXAMINATION: Pale conjunctiva, mild nasal mucosal swelling, bilateral wheezes on auscultation. BP 122/78, weight 68 kg, BMI 22.8 (normal). IMPRESSION: Iron-deficiency anaemia, asthma (intermittent), allergic rhinitis. ARRANGEMENTS: Start ferrous sulfate 200 mg OD, salbutamol MDI SOS, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS, cetirizine 10 mg HS, fluticasone nasal spray OD. Return if worsening breathlessness, chest pain, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0441-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg OD\nSalbutamol metered-dose inhaler SOS\nBudesonide-formoterol 200/6 inhaler BD\nMontelukast 10 mg HS\nCetirizine 10 mg HS\nFluticasone nasal spray, one spray each nostril OD"
+    },
+    {
+      "memory_id": "X0441-m03",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D03",
+      "text": "Allergy to house dust mites: sneezing, nasal itching, watery eyes on exposure."
+    },
+    {
+      "memory_id": "X0441-m04",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 10.8 g/dL (13-17), Serum ferritin 12 ng/mL (30-400), MCV 78 fL (80-100)."
+    },
+    {
+      "memory_id": "X0441-m05",
+      "date": "2025-06-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Persistent tiredness, mild dyspnoea on stairs. EXAMINATION: Pale skin, BP 118/76, weight 68.5 kg, BMI 22.9. IMPRESSION: Iron-deficiency anaemia improving but Hb still low. Continue iron, consider alternate dosing to reduce GI upset. Asthma well controlled, allergic rhinitis mild. ARRANGEMENTS: Change ferrous sulfate to 200 mg on alternate days. Review in 6 weeks. Return if worsening fatigue, palpitations, or black stools."
+    },
+    {
+      "memory_id": "X0441-m06",
+      "date": "2025-06-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg on alternate days\nSalbutamol MDI SOS\nBudesonide-formoterol 200/6 inhaler BD\nMontelukast 10 mg HS\nCetirizine 10 mg HS\nFluticasone nasal spray OD"
+    },
+    {
+      "memory_id": "X0441-m07",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry with reversibility: FEV1 2.8 L (80% predicted), FVC 3.6 L, FEV1/FVC 78%; post-bronchodilator FEV1 increase 12% and 200 mL, consistent with asthma showing reversible obstruction."
+    },
+    {
+      "memory_id": "X0441-m08",
+      "date": "2025-07-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been using my inhaler less often; only needed salbutamol twice last week. Nasal congestion still bothers me in the mornings."
+    },
+    {
+      "memory_id": "X0441-m09",
+      "date": "2025-08-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 4.6 mmol/L (<5.2), LDL 2.6 mmol/L (<3.4), HDL 1.2 mmol/L (>1.0), Triglycerides 1.4 mmol/L (<1.7). Fasting blood sugar 5.4 mmol/L (3.9-5.6)."
+    },
+    {
+      "memory_id": "X0441-m10",
+      "date": "2025-09-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Good energy, occasional nasal itch. EXAMINATION: Pink conjunctiva, BP 120/78, weight 69 kg, BMI 23.1 (overweight per Asian cut‑off). IMPRESSION: Iron-deficiency anaemia corrected (Hb 13.2), asthma controlled, allergic rhinitis mild. Advise weight management due to BMI ≥23. ARRANGEMENTS: Continue ferrous sulfate 200 mg on alternate days, budesonide-formoterol BD, montelukast HS, cetirizine HS, fluticasone nasal spray. Offer influenza vaccine today (patient over 60? no, but chronic illness qualifies). Return if fever >39°C, wheeze worsening, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0441-m11",
+      "date": "2025-09-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg on alternate days\nBudesonide-formoterol 200/6 inhaler BD\nMontelukast 10 mg HS\nCetirizine 10 mg HS\nFluticasone nasal spray OD"
+    },
+    {
+      "memory_id": "X0441-m12",
+      "date": "2025-10-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-11-02 at 10:30 with Dr Priya Natarajan for routine follow‑up."
+    },
+    {
+      "memory_id": "X0441-m13",
+      "date": "2025-11-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review, requests flu vaccine. EXAMINATION: No pallor, BP 119/76, weight 68.8 kg, BMI 23.0. IMPRESSION: Iron stores adequate, asthma well controlled, allergic rhinitis controlled. Influenza vaccine administered today. ARRANGEMENTS: Continue current meds. Review in 4 months. Return if high fever, worsening wheeze, or unexplained bleeding."
+    },
+    {
+      "memory_id": "X0441-m14",
+      "date": "2026-02-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.5 g/dL, Serum ferritin 45 ng/mL, MCV 86 fL."
+    },
+    {
+      "memory_id": "X0441-m15",
+      "date": "2026-04-30",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Increased nasal congestion, post‑nasal drip, occasional cough at night. EXAMINATION: Turbinate swelling, clear nasal discharge, mild expiratory wheeze. BP 122/78, weight 70 kg, BMI 23.4 (overweight). IMPRESSION: Allergic rhinitis worsening, possible sinusitis, asthma stable. ARRANGEMENTS: Refer to ENT for nasal endoscopy and possible allergy immunotherapy. Continue current asthma and iron meds. Return if fever >39°C, facial pain, or vision changes."
+    },
+    {
+      "memory_id": "X0441-m16",
+      "date": "2026-05-10",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to ENT Specialist, Dr S. Rao, for evaluation of persistent allergic rhinitis with possible sinusitis. Request nasal endoscopy, consider allergy skin prick testing and discuss immunotherapy options."
+    },
+    {
+      "memory_id": "X0441-m17",
+      "date": "2026-05-20",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "ENT report: Nasal endoscopy shows eosinophilic mucosal inflammation, no polyps. Skin prick test positive for house dust mites. Recommend continuing intranasal corticosteroid, add montelukast if not already, and consider allergen immunotherapy after 3 months. No surgical intervention needed at present."
+    }
+  ]
+}

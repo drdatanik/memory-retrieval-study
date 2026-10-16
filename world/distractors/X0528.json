@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0528",
+  "name": "Shobha Achar",
+  "age": 89,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Allergic rhinitis",
+    "Psoriasis",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0528-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent with ADLs, uses a walking stick for outdoor walks. cognition: Mini-Cog 3/5 (recall 1, clock draw normal) – negative screen. falls: zero falls in last 12 months, gait slow but steady, timed up-and-go 13 seconds – raised fall risk; advise daily balance exercises and supportive footwear. medicines: 9 regular (cetirizine, fluticasone nasal spray, montelukast, clobetasol cream, calcipotriol ointment, methotrexate, folic acid, methylcobalamin, vitamin D3) – polypharmacy; request Beers criteria review. mood: reports occasional low mood, denies hopelessness. carers: daughter Priya, lives nearby. goals: \"I want to stay active and pain‑free to attend my grandson’s school events.\""
+    },
+    {
+      "memory_id": "X0528-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS\nclobetasol 0.05% cream BD topically\ncalcipotriol ointment OD topically\nmethotrexate 7.5 mg PO once weekly\nfolic acid 5 mg OD\nmethylcobalamin 1500 mcg OD\ncholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0528-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 148 pg/mL (200‑900)\nMCV: 106 fL (80‑100)\nHaemoglobin: 13.2 g/dL (12‑16)\nALT: 48 U/L (7‑35)\nAST: 28 U/L (10‑40)\nALP: 122 U/L (30‑120)\nTotal bilirubin: 0.9 mg/dL (0.2‑1.2)\nSerum creatinine: 0.9 mg/dL (0.6‑1.2)\nCBC: WBC 7.2 x10^9/L, Hb 13.2, Plt 240\nTotal serum IgE: 260 IU/mL (<100)"
+    },
+    {
+      "memory_id": "X0528-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Skin prick test: wheal ≥3 mm to Dermatophagoides pteronyssinus (dust mite) and grass pollen mix; negative to histamine control and saline. Interpretation: allergic sensitisation consistent with allergic rhinitis."
+    },
+    {
+      "memory_id": "X0528-m05",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Allergic rhinitis – seasonal exacerbations with sneezing, nasal congestion, itchy eyes; triggered by dust mite and pollen exposure. No urticaria or angioedema."
+    },
+    {
+      "memory_id": "X0528-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, occasional knee discomfort on stairs. cognition: Mini-Cog 4/5 – stable. falls: zero falls, gait slightly antalgic right knee, timed up‑and‑go 12 seconds – borderline risk; continue exercises, review footwear. medicines: 9 regular; methotrexate dose reduced to 5 mg weekly due to ALT rise. mood: reports improved sleep, denies depression. carers: daughter Priya. goals: \"I wish to walk pain‑free to the temple twice a week.\""
+    },
+    {
+      "memory_id": "X0528-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 5 mg PO once weekly\nfolic acid 5 mg OD\nmethylcobalamin 1500 mcg OD\ncetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS\nclobetasol 0.05% cream BD topically\ncalcipotriol ointment OD topically\ncholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0528-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 420 pg/mL (200‑900)\nMCV: 98 fL (80‑100)\nHaemoglobin: 13.5 g/dL (12‑16)\nALT: 32 U/L (7‑35)\nAST: 26 U/L (10‑40)\nALP: 110 U/L (30‑120)\nTotal bilirubin: 0.8 mg/dL (0.2‑1.2)\nSerum creatinine: 0.9 mg/dL (0.6‑1.2)\nCBC: WBC 6.8, Hb 13.5, Plt 235"
+    },
+    {
+      "memory_id": "X0528-m09",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, uses stick only for long walks; mild right knee pain after standing >20 min. cognition: Mini-Cog 5/5 – normal. falls: zero falls, gait steady, timed up‑and‑go 11 seconds – normal risk; encourage Tai Chi. medicines: 8 regular (stopped topical clobetasol due to skin thinning). mood: feels cheerful, enjoys gardening. carers: daughter Priya. goals: \"I want to keep my garden thriving and attend family gatherings without pain.\""
+    },
+    {
+      "memory_id": "X0528-m10",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "clobetasol 0.05% cream – discontinue\ncalcipotriol ointment OD topically\nmethotrexate 5 mg PO once weekly\nfolic acid 5 mg OD\nmethylcobalamin 1500 mcg OD\ncetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS\ncholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0528-m11",
+      "date": "2025-10-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Chest X‑ray: lungs clear, cardiac silhouette within normal limits, no pleural effusion. No active infection."
+    },
+    {
+      "memory_id": "X0528-m12",
+      "date": "2026-02-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been having stiffness and swelling in my left wrist for the past two weeks, worse in the mornings. It makes it hard to button my shirt and hold my teacup."
+    },
+    {
+      "memory_id": "X0528-m13",
+      "date": "2026-02-20",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Rheumatology, Dr S. Rao, for evaluation of possible inflammatory arthritis affecting wrists and knees. Please assess for disease‑modifying therapy and advise on joint protection."
+    },
+    {
+      "memory_id": "X0528-m14",
+      "date": "2026-06-25",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Rheumatology review: mild synovitis of left wrist, seronegative, NSAID trial recommended. No DMARD started. Advised wrist splint, physiotherapy, and follow‑up in 8 weeks. No urgent intervention needed."
+    },
+    {
+      "memory_id": "X0528-m15",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for Rheumatology follow‑up with Dr S. Rao on 2026-10-20 at 10:30 am. Patient to bring wrist splint and medication list."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0533",
+  "name": "Manoj Agarwal",
+  "age": 58,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Chronic kidney disease",
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0533-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: initial assessment of chronic kidney disease and dyslipidaemia.\n\nPRESENTING COMPLAINT: Mr reports fatigue and occasional leg swelling over the past month. He denies chest pain, dyspnoea, or fever.\n\nEXAMINATION: BP 138/86 mmHg, pulse 78/min, regular. Weight 78 kg, height 1.68 m, BMI 27.6 (obese). Abdomen soft, no edema. No pallor.\n\nIMPRESSION: 1) Chronic kidney disease stage 3a (eGFR ~45 mL/min/1.73m2, creatinine 1.8 mg/dL). 2) Dyslipidaemia (LDL 130 mg/dL, HDL 38 mg/dL, TG 210 mg/dL). 3) Obesity.\n\nARRANGEMENTS: Start telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD, atorvastatin 10 mg HS. Order fasting lipid profile, fasting blood sugar, serum creatinine, eGFR, urine ACR, haemoglobin. Advise low‑salt diet, weight reduction, and regular walk. Influenza vaccine not due.\nReturn if: chest pain, breathlessness, fever >39°C, worsening swelling, or blood in urine."
+    },
+    {
+      "memory_id": "X0533-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n atorvastatin 10 mg HS"
+    },
+    {
+      "memory_id": "X0533-m03",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.8 mg/dL (0.6‑1.2)\neGFR 45 mL/min/1.73m2 (>60)\nUrine ACR 80 mg/g (<30)\nHaemoglobin 13.2 g/dL (13‑17)\nFasting LDL 130 mg/dL (<100)\nHDL 38 mg/dL (>40)\nTriglycerides 210 mg/dL (<150)\nALT 22 U/L (<40)\nAST 20 U/L (<40)\nCK 150 U/L (<200)"
+    },
+    {
+      "memory_id": "X0533-m04",
+      "date": "2025-07-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of labs and symptom check.\n\nPRESENTING COMPLAINT: Patient notes reduced leg swelling and better energy. No new symptoms.\n\nEXAMINATION: BP 132/80 mmHg, pulse 76/min. Weight 76 kg, BMI 26.9 (overweight). No edema.\n\nIMPRESSION: CKD stable (eGFR 45, creatinine 1.8). Dyslipidaemia persists (LDL 130, TG 210). Advise weight loss.\n\nARRANGEMENTS: Increase telmisartan to 80 mg OD. Add rosuvastatin 10 mg OD. Continue dapagliflozin, furosemide, sodium bicarbonate, atorvastatin. Reinforce diet, activity, and BP monitoring. Influenza vaccine not due.\nReturn if: chest pain, breathlessness, fever >39°C, worsening swelling, or reduced urine output."
+    },
+    {
+      "memory_id": "X0533-m05",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "telmisartan 80 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n atorvastatin 10 mg HS\n rosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0533-m06",
+      "date": "2025-10-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up visit with Dr Priya Natarajan for 2025-10-22 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0533-m07",
+      "date": "2025-10-22",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up and influenza vaccination.\n\nPRESENTING COMPLAINT: Patient feels well, no swelling, occasional mild fatigue.\n\nEXAMINATION: BP 128/78 mmHg, pulse 74/min. Weight 75 kg, BMI 26.5 (overweight). No edema.\n\nIMPRESSION: CKD stable (eGFR 48, creatinine 1.7). Lipids improved (LDL 100, HDL 42, TG 180). Obesity persists.\n\nARRANGEMENTS: Continue telmisartan 80 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD, atorvastatin 10 mg HS, rosuvastatin 10 mg OD. Give influenza vaccine (0.5 mL IM) today 2025-10-22. Advise maintain diet, activity, and foot care.\nReturn if: chest pain, breathlessness, fever >39°C, worsening swelling, or dysuria."
+    },
+    {
+      "memory_id": "X0533-m08",
+      "date": "2025-10-22",
+      "type": "prescription",
+      "author": "D03",
+      "text": "telmisartan 80 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n atorvastatin 10 mg HS\n rosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0533-m09",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.9 mg/dL (0.6‑1.2)\neGFR 44 mL/min/1.73m2 (>60)\nUrine ACR 85 mg/g (<30)\nHaemoglobin 12.8 g/dL (13‑17)\nFasting LDL 95 mg/dL (<100)\nHDL 44 mg/dL (>40)\nTriglycerides 170 mg/dL (<150)\nALT 24 U/L (<40)\nAST 21 U/L (<40)\nCK 140 U/L (<200)"
+    },
+    {
+      "memory_id": "X0533-m10",
+      "date": "2026-01-18",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of worsening renal labs and medication tolerance.\n\nPRESENTING COMPLAINT: Patient reports mild increase in leg heaviness, no dyspnoea.\n\nEXAMINATION: BP 124/76 mmHg, pulse 72/min. Weight 74 kg, BMI 26.2 (overweight). Mild pitting edema ankles.\n\nIMPRESSION: CKD slight decline (eGFR 44, creatinine 1.9). Dyslipidaemia controlled (LDL 95, TG 170). Consider diuretic adjustment.\n\nARRANGEMENTS: Reduce furosemide to 20 mg OD (maintain). Continue telmisartan 80 mg OD, dapagliflozin 10 mg OD, sodium bicarbonate 500 mg BD, atorvastatin 10 mg HS, rosuvastatin 10 mg OD. Reinforce low‑salt diet, weight control, and daily weight monitoring.\nReturn if: chest pain, breathlessness, fever >39°C, sudden weight gain >2 kg in 3 days, or reduced urine output."
+    },
+    {
+      "memory_id": "X0533-m11",
+      "date": "2026-01-18",
+      "type": "prescription",
+      "author": "D03",
+      "text": "telmisartan 80 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n atorvastatin 10 mg HS\n rosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0533-m12",
+      "date": "2026-09-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed my feet are more swollen after standing long at the flower shop, and I feel a bit short‑of‑breath when climbing stairs. I’m worried my kidney disease is getting worse. Should I come in sooner?"
+    }
+  ]
+}

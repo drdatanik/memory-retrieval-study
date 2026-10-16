@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0298",
+  "name": "Lokesh Rao",
+  "age": 57,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "COPD",
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0298-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "IBS: symptomatic, on mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide SOS. COPD: stable on tiotropium OD, salbutamol SOS, budesonide-formoterol 200/6 BD. CKD: stage 3a, on telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD. Plan: continue meds, check HbA1c in 3 months, lipid profile yearly, spirometry, review weight and waist. Due: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0298-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg BD after food; ispaghula husk 5 g OD with water; loperamide 2 mg SOS after loose stools; tiotropium inhaler 2 puffs OD; salbutamol inhaler 2 puffs SOS; budesonide-formoterol 200/6 inhaler 2 puffs BD; telmisartan 40 mg OD; dapagliflozin 10 mg OD; furosemide 20 mg OD; sodium bicarbonate 500 mg BD."
+    },
+    {
+      "memory_id": "X0298-m03",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.8 g/dL (13-17), WBC 6.2 x10^9/L (4-10), Plt 210 x10^9/L (150-400). Stool routine: no ova, pus cells 0-1/hpf. tTG-IgA: <4 U/mL (negative <7)."
+    },
+    {
+      "memory_id": "X0298-m04",
+      "date": "2025-04-09",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-05 at 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0298-m05",
+      "date": "2025-04-10",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Penicillin allergy: rash and angioedema after amoxicillin 5 years ago. Avoid beta-lactams."
+    },
+    {
+      "memory_id": "X0298-m06",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "IBS: controlled, occasional bloating. COPD: mild exertional dyspnea, spirometry due. CKD: stable, telmisartan 40 mg, dapagliflozin 10 mg. Weight 78 kg, waist 94 cm (>90 cm male cut‑off). Advised reduced carbohydrate dinner, increased walking. Plan: increase telmisartan to 80 mg OD, repeat HbA1c, lipid profile, spirometry. Due: HbA1c 2025-10-05."
+    },
+    {
+      "memory_id": "X0298-m07",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "telmisartan increased to 80 mg OD; all other meds unchanged."
+    },
+    {
+      "memory_id": "X0298-m08",
+      "date": "2025-07-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8% (4-5.6). Lipid profile: Cholesterol 202 mg/dL (<200), HDL 38 mg/dL (>40), LDL 122 mg/dL (<100), TG 165 mg/dL (<150). Renal panel: Creatinine 1.3 mg/dL (0.6-1.2), eGFR 52 mL/min/1.73m2 (>60), urine ACR 28 mg/g (<30)."
+    },
+    {
+      "memory_id": "X0298-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Spirometry: FEV1 2.1 L (70% pred), FVC 2.8 L (80% pred), FEV1/FVC 0.75 (0.75-0.80). Consistent with mild obstructive pattern, post‑bronchodilator improvement <12%."
+    },
+    {
+      "memory_id": "X0298-m10",
+      "date": "2025-08-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past week I have had increased shortness of breath on climbing stairs and need to use my salbutamol inhaler 3‑4 times a day. Also my ankles feel a bit swollen."
+    },
+    {
+      "memory_id": "X0298-m11",
+      "date": "2025-09-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "COPD: exacerbation likely, increased rescue inhaler use, mild peripheral edema. IBS: no change. CKD: stable. Plan: start oral prednisolone 20 mg OD for 5 days, continue tiotropium, budesonide‑formoterol, consider checking electrolytes. Review in 1 week."
+    },
+    {
+      "memory_id": "X0298-m12",
+      "date": "2025-09-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "prednisolone 20 mg OD for 5 days, then stop."
+    },
+    {
+      "memory_id": "X0298-m13",
+      "date": "2025-09-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.5 g/dL, WBC 8.9 x10^9/L (mild neutrophilia), Plt 225 x10^9/L. CRP 12 mg/L (<5). Electrolytes: Na 138 mmol/L, K 4.6 mmol/L."
+    },
+    {
+      "memory_id": "X0298-m14",
+      "date": "2025-09-15",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Pulmonology for COPD exacerbation and possible need for long‑term oxygen assessment. Include recent spirometry and spirometry trend."
+    },
+    {
+      "memory_id": "X0298-m15",
+      "date": "2025-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: follow‑up moved from 2025-10-05 to 2025-10-08 at 11:00 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0298-m16",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "IBS: well controlled on current regimen. COPD: stable post‑exacerbation, using tiotropium and budesonide‑formoterol, rescue inhaler <2 times/week. CKD: eGFR 55 mL/min/1.73m2, urine ACR 22 mg/g. Weight 77 kg, waist 92 cm. Advised low‑salt diet, continue sodium bicarbonate. Plan: repeat HbA1c, lipid profile, renal panel in 3 months. Due: HbA1c 2026-04-10."
+    },
+    {
+      "memory_id": "X0298-m17",
+      "date": "2026-01-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.6% (4-5.6). Lipid profile: Cholesterol 190 mg/dL, HDL 40 mg/dL, LDL 115 mg/dL, TG 150 mg/dL. Renal panel: Creatinine 1.25 mg/dL, eGFR 55 mL/min/1.73m2, urine ACR 22 mg/g."
+    },
+    {
+      "memory_id": "X0298-m18",
+      "date": "2026-02-01",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Pulmonology letter: Patient reviewed, inhaler technique good, no hypoxemia at rest (SpO2 94%). Recommended continue current bronchodilators, consider pulmonary rehab. No long‑term oxygen needed. Return to primary care for routine follow‑up."
+    }
+  ]
+}

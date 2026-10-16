@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0335",
+  "name": "Madhu Kapoor",
+  "age": 78,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Glaucoma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0335-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary open-angle glaucoma, stable.\nShe reports mild blurring of vision in the left eye, no pain or redness. On examination, anterior chamber deep, no conjunctival injection, intraocular pressure measured 22 mmHg OD, 21 mmHg OS. Visual field shows minimal nasal step OD, disc cup-to-disc ratio 0.6 OD, 0.55 OS. Smoking status: never smoked, pack-years 0. Technique checked: not applicable (no respiratory disease)."
+    },
+    {
+      "memory_id": "X0335-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops – one drop in each eye twice daily\nlatanoprost 0.005% eye drops – one drop in each eye at bedtime"
+    },
+    {
+      "memory_id": "X0335-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: OD 22 mmHg (reference 10‑21), OS 21 mmHg (reference 10‑21)"
+    },
+    {
+      "memory_id": "X0335-m04",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have noticed that my vision gets a little foggy in the mornings, especially when I read. It clears after a few minutes. No pain or redness."
+    },
+    {
+      "memory_id": "X0335-m05",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary open-angle glaucoma, stable.\nShe denies worsening blur; occasional morning fog persists. Examination: IOP 20 mmHg OD, 19 mmHg OS, anterior chambers quiet. Visual field unchanged from last test. Disc cupping stable. Smoking status: never smoked, pack-years 0. Technique checked: not applicable."
+    },
+    {
+      "memory_id": "X0335-m06",
+      "date": "2025-08-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops – one drop in each eye twice daily\nlatanoprost 0.005% eye drops – one drop in each eye at bedtime"
+    },
+    {
+      "memory_id": "X0335-m07",
+      "date": "2025-08-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: OD 20 mmHg (reference 10‑21), OS 19 mmHg (reference 10‑21)"
+    },
+    {
+      "memory_id": "X0335-m08",
+      "date": "2025-08-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Visual field testing (Humphrey 24‑2): OD - mean deviation -0.3 dB, pattern SD within normal limits; OS - mean deviation -0.2 dB, pattern SD within normal limits. No new defects."
+    },
+    {
+      "memory_id": "X0335-m09",
+      "date": "2025-12-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary open-angle glaucoma, mild progression.\nShe reports increased morning fog lasting up to 30 minutes, mild glare sensitivity. Examination: IOP 24 mmHg OD, 23 mmHg OS, mild corneal edema OD. Disc cup-to-disc ratio 0.62 OD, 0.58 OS. Smoking status: never smoked, pack-years 0. Technique checked: not applicable."
+    },
+    {
+      "memory_id": "X0335-m10",
+      "date": "2025-12-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops – one drop in each eye twice daily\nlatanoprost 0.005% eye drops – one drop in each eye at bedtime\nbrimonidine 0.1% eye drops – one drop in each eye three times daily"
+    },
+    {
+      "memory_id": "X0335-m11",
+      "date": "2025-12-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: OD 24 mmHg (reference 10‑21), OS 23 mmHg (reference 10‑21)"
+    },
+    {
+      "memory_id": "X0335-m12",
+      "date": "2025-12-02",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Optic disc assessment (stereo photos): OD cup-to-disc ratio 0.62, rim thinning inferiorly; OS ratio 0.58, mild inferior rim thinning. No hemorrhages."
+    },
+    {
+      "memory_id": "X0335-m13",
+      "date": "2026-04-18",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary open-angle glaucoma, controlled on triple therapy.\nShe reports morning fog resolved, only occasional mild glare. Examination: IOP 18 mmHg OD, 17 mmHg OS, anterior chambers quiet, no corneal edema. Visual field stable. Disc cupping unchanged. Smoking status: never smoked, pack-years 0. Technique checked: not applicable."
+    },
+    {
+      "memory_id": "X0335-m14",
+      "date": "2026-04-18",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops – one drop in each eye twice daily\nlatanoprost 0.005% eye drops – one drop in each eye at bedtime\nbrimonidine 0.1% eye drops – one drop in each eye three times daily"
+    },
+    {
+      "memory_id": "X0335-m15",
+      "date": "2026-04-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: OD 18 mmHg (reference 10‑21), OS 17 mmHg (reference 10‑21)"
+    },
+    {
+      "memory_id": "X0335-m16",
+      "date": "2026-08-14",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for glaucoma review on 2026-09-20 at 10:30 am with Dr Suresh Menon (D05)."
+    }
+  ]
+}

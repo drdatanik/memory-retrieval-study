@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0131",
+  "name": "Hasmukh Desai",
+  "age": 19,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Non-alcoholic fatty liver disease",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0131-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient presents with newly diagnosed non-alcoholic fatty liver disease and stage 1 hypertension.\nHe reports occasional fatigue after work, no abdominal pain. BMI 24, blood pressure 138/86 mmHg, liver edge palpable 2 cm below costal margin. Lungs clear, heart regular."
+    },
+    {
+      "memory_id": "X0131-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 5 mg OD\namlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0131-m03",
+      "date": "2025-04-19",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 68 U/L (7-35), AST 45 U/L (8-40), ALP 84 U/L (40-129), GGT 32 U/L (9-48), total bilirubin 0.9 mg/dL (0.2-1.2).\nPlatelet count 210 x10^9/L (150-400).\nFasting lipid profile: TC 210 mg/dL (<200), LDL 130 mg/dL (<100), HDL 38 mg/dL (>40), TG 160 mg/dL (<150).\nSerum creatinine 0.9 mg/dL (0.6-1.2), eGFR 92 mL/min/1.73m2 (>60), potassium 4.2 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0131-m04",
+      "date": "2025-04-19",
+      "type": "investigation",
+      "author": "D05",
+      "text": "12-lead ECG: sinus rhythm 78 bpm, no ST-T changes, left ventricular voltage within normal limits. No evidence of ischemia or hypertrophy."
+    },
+    {
+      "memory_id": "X0131-m05",
+      "date": "2025-05-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient reports improved energy, occasional mild right upper quadrant fullness after fatty meals. Blood pressure today 134/82 mmHg. Liver edge 1.5 cm below costal margin. No jaundice. Lungs clear, heart regular."
+    },
+    {
+      "memory_id": "X0131-m06",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 10 mg OD\namlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0131-m07",
+      "date": "2025-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 52 U/L (7-35), AST 38 U/L (8-40), ALP 78 U/L (40-129), GGT 28 U/L (9-48), total bilirubin 0.8 mg/dL (0.2-1.2).\nPlatelet count 205 x10^9/L (150-400).\nFasting lipid profile: TC 190 mg/dL (<200), LDL 108 mg/dL (<100), HDL 40 mg/dL (>40), TG 130 mg/dL (<150).\nSerum creatinine 0.88 mg/dL (0.6-1.2), eGFR 94 mL/min/1.73m2 (>60), potassium 4.1 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0131-m08",
+      "date": "2025-07-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have felt a dull ache under my right rib cage after eating fried snacks from the stall. It goes away after a few hours. No nausea or vomiting."
+    },
+    {
+      "memory_id": "X0131-m09",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient reports intermittent right upper quadrant discomfort postprandial, no fever. Liver edge 1 cm below costal margin, mild tenderness. Blood pressure 130/80 mmHg. Lungs clear, heart regular."
+    },
+    {
+      "memory_id": "X0131-m10",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 10 mg OD\namlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0131-m11",
+      "date": "2025-08-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 38 U/L (7-35), AST 30 U/L (8-40), ALP 72 U/L (40-129), GGT 22 U/L (9-48), total bilirubin 0.7 mg/dL (0.2-1.2).\nPlatelet count 200 x10^9/L (150-400).\nFasting lipid profile: TC 175 mg/dL (<200), LDL 95 mg/dL (<100), HDL 42 mg/dL (>40), TG 110 mg/dL (<150).\nSerum creatinine 0.85 mg/dL (0.6-1.2), eGFR 96 mL/min/1.73m2 (>60), potassium 4.0 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0131-m12",
+      "date": "2025-09-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-09-10 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0131-m13",
+      "date": "2025-09-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient asymptomatic, no abdominal discomfort. Blood pressure 128/78 mmHg. Liver edge not palpable. Lungs clear, heart regular."
+    },
+    {
+      "memory_id": "X0131-m14",
+      "date": "2025-09-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 10 mg OD\namlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0131-m15",
+      "date": "2025-11-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 30 U/L (7-35), AST 26 U/L (8-40), ALP 68 U/L (40-129), GGT 20 U/L (9-48), total bilirubin 0.6 mg/dL (0.2-1.2).\nPlatelet count 198 x10^9/L (150-400).\nFasting lipid profile: TC 168 mg/dL (<200), LDL 88 mg/dL (<100), HDL 44 mg/dL (>40), TG 95 mg/dL (<150).\nSerum creatinine 0.82 mg/dL (0.6-1.2), eGFR 98 mL/min/1.73m2 (>60), potassium 3.9 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0131-m16",
+      "date": "2026-03-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient remains well, no symptoms. Blood pressure 126/76 mmHg. Liver not palpable. Lungs clear, heart regular. Advises continued lifestyle modification."
+    },
+    {
+      "memory_id": "X0131-m17",
+      "date": "2026-03-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 10 mg OD\namlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0131-m18",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient reports no complaints, maintains regular vegetable vending work. Blood pressure 124/74 mmHg. Liver edge not palpable. Lungs clear, heart regular. Labs stable, plan to continue current therapy."
+    }
+  ]
+}

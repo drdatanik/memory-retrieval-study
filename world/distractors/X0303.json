@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0303",
+  "name": "Vidya Varma",
+  "age": 45,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0303-m01",
+      "date": "2025-04-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease.\nPatient reports burning retrosternal pain after meals, occasional regurgitation, and nighttime cough. On examination, mild epigastric tenderness, no oral thrush, lungs clear. She is a former smoker (10 pack-years, quit 2018)."
+    },
+    {
+      "memory_id": "X0303-m02",
+      "date": "2025-04-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Pantoprazole 40 mg orally once daily before breakfast\nDomperidone 10 mg orally twice daily before meals\nAntacid gel as needed after meals"
+    },
+    {
+      "memory_id": "X0303-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (reference: <0.9 IU/mL)."
+    },
+    {
+      "memory_id": "X0303-m04",
+      "date": "2025-04-07",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Still getting heartburn after spicy food, especially at night. Taking pantoprazole most days but sometimes forget domperidone."
+    },
+    {
+      "memory_id": "X0303-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease, partially controlled.\nSymptoms improved: heartburn 2-3 times/week, less regurgitation. No alarm features. Abdomen soft, no tenderness. Former smoker, quit 2018, 10 pack-years."
+    },
+    {
+      "memory_id": "X0303-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Pantoprazole 40 mg orally once daily before breakfast\nDomperidone 10 mg orally twice daily before meals\nAntacid gel as needed"
+    },
+    {
+      "memory_id": "X0303-m07",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (reference: <0.9 IU/mL)."
+    },
+    {
+      "memory_id": "X0303-m08",
+      "date": "2025-10-08",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease with worsening symptoms.\nHeartburn daily, nocturnal regurgitation, occasional dyspepsia. Mild epigastric tenderness, no weight loss. Former smoker, quit 2018, 10 pack-years."
+    },
+    {
+      "memory_id": "X0303-m09",
+      "date": "2025-10-08",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Pantoprazole 40 mg orally twice daily before breakfast and dinner\nDomperidone 10 mg orally twice daily before meals\nAntacid gel as needed"
+    },
+    {
+      "memory_id": "X0303-m10",
+      "date": "2025-10-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Upper GI endoscopy: Mild erosive esophagitis (Los Angeles grade A) in distal esophagus, no Barrett's epithelium. H. pylori negative on biopsy."
+    },
+    {
+      "memory_id": "X0303-m11",
+      "date": "2026-01-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Post-endoscopy review: GERD improving.\nHeartburn now 1-2 times/week, no nocturnal symptoms. Abdomen benign. Former smoker, quit 2018, 10 pack-years."
+    },
+    {
+      "memory_id": "X0303-m12",
+      "date": "2026-01-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Pantoprazole 40 mg orally once daily before breakfast\nDomperidone 10 mg orally twice daily before meals\nAntacid gel as needed"
+    },
+    {
+      "memory_id": "X0303-m13",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment scheduled for 2026-04-20 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0303-m14",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease, well controlled.\nHeartburn <1 time/week, no regurgitation. No medication side effects. Former smoker, quit 2018, 10 pack-years."
+    },
+    {
+      "memory_id": "X0303-m15",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Pantoprazole 40 mg orally once daily before breakfast\nDomperidone 10 mg orally as needed before meals\nAntacid gel as needed"
+    },
+    {
+      "memory_id": "X0303-m16",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease, stable on low-dose PPI.\nHeartburn absent, occasional mild dyspepsia after large meals. No alarm signs. Former smoker, quit 2018, 10 pack-years."
+    }
+  ]
+}

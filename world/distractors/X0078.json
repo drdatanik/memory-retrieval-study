@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0078",
+  "name": "Archana Salunkhe",
+  "age": 26,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Depression",
+    "Hypertension",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0078-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  Status: PHQ-9 10, mild symptoms, reports low mood and anhedonia.\n  Plan: Continue sertraline 50 mg OD, add psychotherapy referral, monitor suicidality.\n- Hypertension\n  Status: BP 138/86 mmHg, weight 68 kg, waist 82 cm (>80 cm cut-off).\n  Plan: Continue amlodipine 5 mg OD, telmisartan 40 mg OD, advise low-salt diet, recheck BP in 4 weeks.\n- Rheumatoid arthritis\n  Status: Joint pain 2/10, morning stiffness 30 min, ESR 18 mm/h, CRP 6 mg/L.\n  Plan: Continue methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD, consider adding sulfasalazine if flare.\n- Diet\n  Breakfast: Whole grain toast with avocado, no added sugar.\n  Lunch: Mixed vegetable salad with grilled chicken, olive oil dressing.\n  Dinner: Lentil soup, steamed broccoli, small portion brown rice.\nDue: HbA1c repeat 2025-07-05."
+    },
+    {
+      "memory_id": "X0078-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "sertraline 50 mg 1-0-0 after food\namlodipine 5 mg 1-0-0 after food\ntelmisartan 40 mg 1-0-0 after food\nmethotrexate 10 mg weekly (take on same day each week) after food\nfolic acid 5 mg weekly (same day as methotrexate) after food\nhydroxychloroquine 200 mg 1-0-0 after food\nprednisolone 5 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0078-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.2% (4.0-5.6)\nTSH 2.1 mIU/L (0.4-4.0)\nVitamin B12 320 pg/mL (200-900)\nSerum creatinine 0.8 mg/dL (0.5-1.1)\neGFR 92 mL/min/1.73m2 (>60)\nSerum potassium 4.3 mmol/L (3.5-5.0)\nESR 18 mm/h (0-20)\nCRP 6 mg/L (0-5)\nRF 12 IU/mL (<14)\nanti-CCP 5 U/mL (<20)\nALT 22 U/L (7-56)\nAST 20 U/L (10-40)\nALP 78 U/L (40-129)\nLipid profile: Cholesterol 180 mg/dL (<200), Triglycerides 120 mg/dL (<150), HDL 48 mg/dL (>40), LDL 100 mg/dL (<100)"
+    },
+    {
+      "memory_id": "X0078-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  Status: PHQ-9 6, improved, reports better sleep.\n  Plan: Continue sertraline 50 mg OD, consider tapering if stable, reinforce CBT.\n- Hypertension\n  Status: BP 132/80 mmHg, weight 67 kg, waist 80 cm (at cut-off).\n  Plan: Continue amlodipine 5 mg OD, telmisartan 40 mg OD, add lifestyle reinforcement, re-evaluate in 3 months.\n- Rheumatoid arthritis\n  Status: Joint pain 1/10, morning stiffness 15 min, ESR 12 mm/h, CRP 4 mg/L.\n  Plan: Continue current DMARDs, taper prednisolone to 2.5 mg OD, monitor for flare.\n- Diet\n  Breakfast: Oatmeal with nuts and fruit.\n  Lunch: Quinoa bowl with chickpeas and veggies.\n  Dinner: Grilled fish, sautéed spinach, small chapati.\nDue: HbA1c repeat 2025-10-10."
+    },
+    {
+      "memory_id": "X0078-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "sertraline 50 mg 1-0-0 after food\namlodipine 5 mg 1-0-0 after food\ntelmisartan 40 mg 1-0-0 after food\nmethotrexate 10 mg weekly after food\nfolic acid 5 mg weekly after food\nhydroxychloroquine 200 mg 1-0-0 after food\nprednisolone 2.5 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0078-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.9% (4.0-5.6)\nTSH 2.0 mIU/L (0.4-4.0)\nVitamin B12 340 pg/mL (200-900)\nSerum creatinine 0.78 mg/dL (0.5-1.1)\neGFR 95 mL/min/1.73m2\nSerum potassium 4.2 mmol/L (3.5-5.0)\nESR 12 mm/h (0-20)\nCRP 4 mg/L (0-5)\nRF 10 IU/mL (<14)\nanti-CCP 4 U/mL (<20)\nALT 20 U/L (7-56)\nAST 19 U/L (10-40)\nALP 75 U/L (40-129)\nLipid profile: Cholesterol 175 mg/dL, Triglycerides 115 mg/dL, HDL 50 mg/dL, LDL 95 mg/dL"
+    },
+    {
+      "memory_id": "X0078-m07",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  Status: PHQ-9 4, remission, reports good mood.\n  Plan: Consider tapering sertraline to 25 mg OD, continue psychotherapy, monitor.\n- Hypertension\n  Status: BP 128/78 mmHg, weight 66 kg, waist 78 cm (<80 cm).\n  Plan: Continue amlodipine 5 mg OD, telmisartan 40 mg OD, reinforce DASH diet, annual review.\n- Rheumatoid arthritis\n  Status: Joint pain 0/10, no stiffness, ESR 8 mm/h, CRP 2 mg/L.\n  Plan: Continue methotrexate, folic acid, hydroxychloroquine, stop prednisolone, monitor for relapse.\n- Diet\n  Breakfast: Greek yogurt with berries and flaxseed.\n  Lunch: Brown rice, dal, mixed vegetable curry.\n  Dinner: Tofu stir-fry with broccoli, small portion rice.\nDue: HbA1c repeat 2026-01-12."
+    },
+    {
+      "memory_id": "X0078-m08",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "sertraline 25 mg 1-0-0 after food\namlodipine 5 mg 1-0-0 after food\ntelmisartan 40 mg 1-0-0 after food\nmethotrexate 10 mg weekly after food\nfolic acid 5 mg weekly after food\nhydroxychloroquine 200 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0078-m09",
+      "date": "2025-10-12",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG: Sinus rhythm 78 bpm, normal axis, no ST-T changes, no Q waves. No evidence of ischemia or hypertrophy."
+    },
+    {
+      "memory_id": "X0078-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  Status: PHQ-9 3, asymptomatic.\n  Plan: Stop sertraline, continue psychotherapy as needed, monitor for recurrence.\n- Hypertension\n  Status: BP 126/76 mmHg, weight 65 kg, waist 76 cm.\n  Plan: Continue amlodipine 5 mg OD, telmisartan 40 mg OD, annual labs.\n- Rheumatoid arthritis\n  Status: No joint pain, ESR 6 mm/h, CRP 1 mg/L.\n  Plan: Continue methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, annual monitoring.\n- Diet\n  Breakfast: Idli with sambar, coconut chutney.\n  Lunch: Vegetable pulao with raita.\n  Dinner: Grilled paneer, salad, small chapati.\nDue: HbA1c repeat 2026-04-15."
+    },
+    {
+      "memory_id": "X0078-m11",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.7% (4.0-5.6)\nTSH 2.2 mIU/L (0.4-4.0)\nVitamin B12 350 pg/mL (200-900)\nSerum creatinine 0.76 mg/dL (0.5-1.1)\neGFR 98 mL/min/1.73m2\nSerum potassium 4.1 mmol/L (3.5-5.0)\nLipid profile: Cholesterol 170 mg/dL, Triglycerides 110 mg/dL, HDL 52 mg/dL, LDL 90 mg/dL\nESR 6 mm/h (0-20)\nCRP 1 mg/L (0-5)\nRF 8 IU/mL (<14)\nanti-CCP 3 U/mL (<20)\nALT 18 U/L (7-56)\nAST 17 U/L (10-40)\nALP 72 U/L (40-129)"
+    },
+    {
+      "memory_id": "X0078-m12",
+      "date": "2026-04-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling a bit dizzy when I stand up quickly since stopping sertraline. No headaches or palpitations. Should I be concerned?"
+    },
+    {
+      "memory_id": "X0078-m13",
+      "date": "2026-04-22",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-05-20 at 10:30 AM with Dr Karthik Hegde (D04)."
+    }
+  ]
+}

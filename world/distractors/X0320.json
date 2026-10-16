@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0320",
+  "name": "Daniel Pinto",
+  "age": 71,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Psoriasis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0320-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks unaided. cognition: Mini-Cog score 4/5. falls: 0 falls in past 12 months; gait steady; TUG 10 seconds. medicines: 4 regular (methotrexate, folic acid, clobetasol, calcipotriol). mood: Reports good mood, denies depression. carers: Priya (spouse). goal: \"I want to keep driving my cab and manage my skin without side effects.\""
+    },
+    {
+      "memory_id": "X0320-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 7.5 mg orally once weekly; folic acid 5 mg orally daily; clobetasol 0.05% cream apply BD to affected areas; calcipotriol ointment apply OD to affected areas."
+    },
+    {
+      "memory_id": "X0320-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 35 U/L (0-40); AST 30 U/L (0-40); ALP 80 U/L (30-120); bilirubin 0.9 mg/dL (0.2-1.2); albumin 4.0 g/dL (3.5-5.0). Hb 13.5 g/dL (13-17); WBC 6.5 x10^9/L (4-10); platelets 220 x10^9/L (150-400); creatinine 0.9 mg/dL (0.6-1.2)."
+    },
+    {
+      "memory_id": "X0320-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still drives cab, no difficulty with ADLs. cognition: Mini-Cog score 4/5 (annual screen). falls: 0 falls past 12 months; gait steady; TUG 11 seconds. medicines: 4 regular. mood: Mood stable, enjoys work. carers: Priya (spouse). goal: \"I wish to keep my skin clear and avoid any medicine toxicity.\""
+    },
+    {
+      "memory_id": "X0320-m05",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 38 U/L (0-40); AST 32 U/L (0-40); ALP 85 U/L (30-120); bilirubin 0.8 mg/dL (0.2-1.2); albumin 4.1 g/dL (3.5-5.0). Hb 13.6 g/dL; WBC 6.8; platelets 225; creatinine 0.9 mg/dL."
+    },
+    {
+      "memory_id": "X0320-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 10 mg orally once weekly; folic acid 5 mg orally daily; clobetasol 0.05% cream BD; calcipotriol ointment OD."
+    },
+    {
+      "memory_id": "X0320-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages cab shifts, occasional mild fatigue after long drives. cognition: Mini-Cog score 4/5. falls: 0 falls past 12 months; gait steady; TUG 12 seconds (borderline). medicines: 4 regular. mood: Reports occasional low mood after work, denies hopelessness. carers: Priya (spouse). goal: \"I want to stay active and keep my psoriasis under control.\""
+    },
+    {
+      "memory_id": "X0320-m08",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 45 U/L (0-40) mildly elevated; AST 38 U/L (0-40); ALP 90 U/L (30-120); bilirubin 0.9 mg/dL; albumin 4.0 g/dL. Hb 13.4; WBC 6.6; platelets 220; creatinine 0.9 mg/dL."
+    },
+    {
+      "memory_id": "X0320-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 10 mg once weekly continued; folic acid 5 mg daily; clobetasol BD; calcipotriol OD; add liver support: ursodeoxycholic acid 300 mg BD."
+    },
+    {
+      "memory_id": "X0320-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports mild hand tremor, still drives but avoids night trips. cognition: Mini-Cog score 3/5 (annual screen, still >2). falls: 0 falls past 12 months; gait slightly slow; TUG 13 seconds (raised fall risk). medicines: 5 regular (methotrexate, folic acid, clobetasol, calcipotriol, ursodeoxycholic acid) – polypharmacy, review against Beers criteria. mood: Reports occasional irritability, denies depression. carers: Priya (spouse). goal: \"I want to reduce medicines and keep driving safely.\""
+    },
+    {
+      "memory_id": "X0320-m11",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 68 U/L (0-40) elevated; AST 55 U/L (0-40); ALP 100 U/L (30-120); bilirubin 1.0 mg/dL; albumin 3.9 g/dL. Hb 13.2; WBC 6.5; platelets 210; creatinine 0.9 mg/dL."
+    },
+    {
+      "memory_id": "X0320-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Hold methotrexate; continue folic acid 5 mg daily; clobetasol BD; calcipotriol OD; ursodeoxycholic acid 300 mg BD; add topical steroid taper plan."
+    },
+    {
+      "memory_id": "X0320-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Improved energy, drives full shifts without fatigue. cognition: Mini-Cog score 4/5. falls: 0 falls past 12 months; gait steady; TUG 11 seconds. medicines: 4 regular (folic acid, clobetasol, calcipotriol, ursodeoxycholic acid). mood: Mood good, enjoys work. carers: Priya (spouse). goal: \"I would like to restart a low-dose methotrexate if liver tests allow.\""
+    },
+    {
+      "memory_id": "X0320-m14",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 32 U/L (0-40); AST 28 U/L (0-40); ALP 82 U/L (30-120); bilirubin 0.8 mg/dL; albumin 4.1 g/dL. Hb 13.5; WBC 6.6; platelets 225; creatinine 0.9 mg/dL."
+    },
+    {
+      "memory_id": "X0320-m15",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Restart methotrexate 7.5 mg once weekly; folic acid 5 mg daily; clobetasol BD; calcipotriol OD; continue ursodeoxycholic acid 300 mg BD."
+    },
+    {
+      "memory_id": "X0320-m16",
+      "date": "2026-08-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment scheduled for 2026-08-05 10:30 with Dr Nandini Kulkarni for routine follow-up."
+    },
+    {
+      "memory_id": "X0320-m17",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Drives cab without difficulty, reports good skin control. cognition: Mini-Cog score 4/5. falls: 0 falls past 12 months; gait steady; TUG 10 seconds. medicines: 4 regular. mood: Mood stable, no depressive symptoms. carers: Priya (spouse). goal: \"I aim to maintain my health and continue working as long as possible.\""
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0594",
+  "name": "Pushpa Naik",
+  "age": 68,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Vitamin B12 deficiency",
+    "Epilepsy",
+    "Atrial fibrillation"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0594-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Weight 68 kg, waist 84 cm (female cutoff 80 cm, slightly increased). \n- Vitamin B12 deficiency: status – symptomatic with fatigue, serum B12 low; plan – start methylcobalamin 1500 mcg OD, take after breakfast; repeat B12 in 3 months.\n- Epilepsy: status – seizure-free on levetiracetam 500 mg BD and lamotrigine 50 mg BD; plan – continue current regimen, check serum sodium and creatinine.\n- Atrial fibrillation: status – paroxysmal AF, on apixaban 5 mg BD and bisoprolol 2.5 mg OD; plan – add warfarin 5 mg OD targeting INR 2-3 after baseline INR, monitor INR twice weekly.\nDiet advice: Breakfast – low‑salt, whole‑grain cereal with milk; Lunch – vegetarian dal, rice, steamed vegetables; Dinner – light soup, chapati, salad.\nDue: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0594-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12 180 pg/mL (ref 200‑900). MCV 92 fL (ref 80‑100). Haemoglobin 12.8 g/dL (ref 12‑16). Serum sodium 138 mmol/L (ref 135‑145). Serum creatinine 0.9 mg/dL (ref 0.6‑1.2). ECG: sinus rhythm, rate 78, no acute changes. TSH 2.1 mIU/L (ref 0.4‑4.0). INR 1.1 (not on warfarin)."
+    },
+    {
+      "memory_id": "X0594-m03",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg BD (1‑0‑1) after food.\nLamotrigine 50 mg BD (1‑0‑1) after food.\nMethylcobalamin 1500 mcg OD (1‑0‑0) after breakfast.\nApixaban 5 mg BD (1‑0‑1) after food.\nBisoprolol 2.5 mg OD (1‑0‑0) after breakfast.\nWarfarin 5 mg OD (1‑0‑0) after food, target INR 2‑3."
+    },
+    {
+      "memory_id": "X0594-m04",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Weight 67.5 kg, waist 83 cm (still above 80 cm cutoff). \n- Vitamin B12 deficiency: status – improved energy, B12 pending; plan – continue methylcobalamin, repeat B12 today.\n- Epilepsy: status – no seizures, mild morning drowsiness; plan – keep levetiracetam 500 mg BD, lamotrigine 50 mg BD, check sodium.\n- Atrial fibrillation: status – asymptomatic, apixaban and bisoprolol tolerated, INR 2.4 on warfarin; plan – continue warfarin, check INR weekly.\nDiet advice: Breakfast – oatmeal with skim milk, no added salt; Lunch – mixed vegetable curry, brown rice, salad; Dinner – grilled fish, steamed broccoli, chapati.\nDue: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0594-m05",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12 260 pg/mL (ref 200‑900). MCV 90 fL. Haemoglobin 13.0 g/dL. Serum sodium 137 mmol/L. Serum creatinine 0.9 mg/dL. INR 2.4 (therapeutic). TSH 2.0 mIU/L. ECG unchanged."
+    },
+    {
+      "memory_id": "X0594-m06",
+      "date": "2025-08-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-09-10 at 10:30 AM with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0594-m07",
+      "date": "2025-09-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Weight 67 kg, waist 82 cm (approaching cutoff). \n- Vitamin B12 deficiency: status – B12 now within low‑normal, fatigue mild; plan – continue methylcobalamin, repeat in 3 months.\n- Epilepsy: status – seizure‑free, no side effects; plan – continue levetiracetam 500 mg BD, lamotrigine 50 mg BD, check creatinine.\n- Atrial fibrillation: status – stable on apixaban, bisoprolol, warfarin; INR 2.6; plan – consider stopping warfarin due to stable INR on apixaban alone, monitor for bleeding.\nDiet advice: Breakfast – idli with sambar, no salt chutney; Lunch – vegetable pulao, raita; Dinner – lentil soup, roti, cucumber slices.\nDue: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0594-m08",
+      "date": "2025-09-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Apixaban 5 mg BD (1‑0‑1) after food.\nBisoprolol 2.5 mg OD (1‑0‑0) after breakfast.\nMethylcobalamin 1500 mcg OD (1‑0‑0) after breakfast.\nLevetiracetam 500 mg BD (1‑0‑1) after food.\nLamotrigine 50 mg BD (1‑0‑1) after food.\nWarfarin discontinued."
+    },
+    {
+      "memory_id": "X0594-m09",
+      "date": "2025-11-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12 300 pg/mL (ref 200‑900). MCV 89 fL. Haemoglobin 13.2 g/dL. Serum sodium 136 mmol/L. Serum creatinine 0.9 mg/dL. INR 1.1 (off warfarin). TSH 2.2 mIU/L. ECG: sinus rhythm, no new changes."
+    },
+    {
+      "memory_id": "X0594-m10",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Weight 66.8 kg, waist 81 cm (just above cutoff). \n- Vitamin B12 deficiency: status – asymptomatic, B12 adequate; plan – continue methylcobalamin, repeat in 3 months.\n- Epilepsy: status – seizure‑free, mild tremor noted; plan – keep levetiracetam 500 mg BD, lamotrigine 50 mg BD, check creatinine.\n- Atrial fibrillation: status – well controlled on apixaban and bisoprolol, heart rate 70‑80; plan – continue current regimen, review stroke risk.\nDiet advice: Breakfast – poha with peanuts, no added salt; Lunch – chapati, mixed veg curry, curd; Dinner – vegetable khichdi, salad.\nDue: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0594-m11",
+      "date": "2026-01-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Apixaban 5 mg BD (1‑0‑1) after food.\nBisoprolol 2.5 mg OD (1‑0‑0) after breakfast.\nMethylcobalamin 1500 mcg OD (1‑0‑0) after breakfast.\nLevetiracetam 500 mg BD (1‑0‑1) after food.\nLamotrigine 50 mg BD (1‑0‑1) after food."
+    },
+    {
+      "memory_id": "X0594-m12",
+      "date": "2026-03-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-05 to 2026-04-07 at 09:00 AM with Dr Karthik Hegde (D04) due to patient request."
+    },
+    {
+      "memory_id": "X0594-m13",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Weight 66.5 kg, waist 80 cm (at cutoff). \n- Vitamin B12 deficiency: status – stable, no neuropathy; plan – continue methylcobalamin, repeat B12 in 3 months.\n- Epilepsy: status – seizure‑free, no new symptoms; plan – continue levetiracetam 500 mg BD, lamotrigine 50 mg BD, check sodium.\n- Atrial fibrillation: status – asymptomatic, apixaban 5 mg BD, bisoprolol 2.5 mg OD, heart rate 68; plan – continue, assess need for dose adjustment if bradycardia.\nDiet advice: Breakfast – upma with vegetables, no salt; Lunch – brown rice, sambar, salad; Dinner – grilled paneer, steamed beans, chapati.\nDue: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0594-m14",
+      "date": "2026-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12 310 pg/mL (ref 200‑900). MCV 88 fL. Haemoglobin 13.4 g/dL. Serum sodium 138 mmol/L. Serum creatinine 0.9 mg/dL. INR 1.1. TSH 2.1 mIU/L. ECG: normal sinus rhythm, no ischemic changes."
+    },
+    {
+      "memory_id": "X0594-m15",
+      "date": "2026-06-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG performed: sinus rhythm, rate 72, PR interval 160 ms, QRS duration 92 ms, QT 380 ms corrected. No atrial fibrillation episodes captured, no ST‑T changes. Interpretation: stable cardiac rhythm, rate‑controlled atrial fibrillation on apixaban and bisoprolol."
+    },
+    {
+      "memory_id": "X0594-m16",
+      "date": "2026-08-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12 295 pg/mL (ref 200‑900). MCV 89 fL. Haemoglobin 13.3 g/dL. Serum sodium 137 mmol/L. Serum creatinine 0.9 mg/dL. TSH 2.0 mIU/L. Lipid profile: total cholesterol 180 mg/dL (<200 desirable), HDL 48 mg/dL (>40 good), LDL 100 mg/dL (<130 optimal), triglycerides 120 mg/dL (<150 normal)."
+    },
+    {
+      "memory_id": "X0594-m17",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Weight 66 kg, waist 79 cm (now below female cutoff). \n- Vitamin B12 deficiency: status – asymptomatic, B12 within normal; plan – continue methylcobalamin, repeat in 3 months.\n- Epilepsy: status – seizure‑free, no adverse effects; plan – continue levetiracetam 500 mg BD, lamotrigine 50 mg BD, check creatinine annually.\n- Atrial fibrillation: status – well controlled, apixaban 5 mg BD, bisoprolol 2.5 mg OD, heart rate 70; plan – continue regimen, annual review.\nDiet advice: Breakfast – wheat toast with avocado, no salt; Lunch – quinoa salad with chickpeas, lemon dressing; Dinner – steamed salmon, broccoli, brown rice.\nDue: Not applicable (no glucose‑lowering therapy)."
+    }
+  ]
+}

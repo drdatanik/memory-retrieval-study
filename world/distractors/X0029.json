@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0029",
+  "name": "Shaheen Syed",
+  "age": 56,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Dyslipidaemia",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0029-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: baseline assessment of dyslipidaemia and rheumatoid arthritis.\nPRESENTING COMPLAINT: Patient reports occasional joint stiffness in mornings and wants lipid check.\nEXAMINATION: BP 128/82 mmHg, weight 68 kg, height 1.60 m, BMI 26.6 (obese). Joints mild tenderness in MCP joints, no synovitis. Lungs clear, CVS regular.\nIMPRESSION: Obese, dyslipidaemia on atorvastatin 10 mg HS, rheumatoid arthritis on methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Lifestyle advice given due to BMI >=23.\nARRANGEMENTS: Order fasting lipid profile, LFT, CK, ESR, CRP, RF, anti-CCP. Continue current meds. Return if new joint swelling, chest pain, fever >39°C, or unexplained muscle pain."
+    },
+    {
+      "memory_id": "X0029-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Atorvastatin 10 mg take at night\nMethotrexate 10 mg take once weekly on Monday\nFolic acid 5 mg take once weekly on Monday\nHydroxychloroquine 200 mg take once daily\nPrednisolone 5 mg take once daily"
+    },
+    {
+      "memory_id": "X0029-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 138 mg/dL (optimal <100), HDL 48 mg/dL (>40 good), Triglycerides 162 mg/dL (<150 normal). Liver function: ALT 28 U/L (7-56), AST 24 U/L (10-40), ALKP 78 U/L (30-120). Creatine kinase: 92 U/L (30-200). ESR 18 mm/hr (0-20), CRP 4 mg/L (<5). Rheumatoid factor 12 IU/ml (<14), anti-CCP 5 U/ml (<7)."
+    },
+    {
+      "memory_id": "X0029-m04",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have noticed increased stiffness in my fingers especially after typing lectures, and I feel more tired after work. My knees also ache when I climb stairs. I am worried my arthritis is worsening."
+    },
+    {
+      "memory_id": "X0029-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: worsening joint stiffness and lipid review.\nPRESENTING COMPLAINT: Increased morning stiffness lasting >1 hour, mild fatigue, no new swelling.\nEXAMINATION: BP 130/84 mmHg, weight 69 kg, BMI 26.9 (obese). Tenderness in wrists and MCP joints, no effusion. Lungs clear, heart regular.\nIMPRESSION: Ongoing rheumatoid arthritis activity, dyslipidaemia persists (LDL still high). BMI >=23, reinforce diet and activity. Consider tightening RA control.\nARRANGEMENTS: Increase methotrexate to 15 mg weekly, continue folic acid, hydroxychloroquine, prednisolone. Repeat ESR, CRP in 4 weeks. Lipid panel unchanged, continue atorvastatin. Return if joint swelling, fever >39°C, shortness of breath, or new rash."
+    },
+    {
+      "memory_id": "X0029-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methotrexate 15 mg take once weekly on Monday\nFolic acid 5 mg take once weekly on Monday\nHydroxychloroquine 200 mg take once daily\nPrednisolone 5 mg take once daily\nAtorvastatin 10 mg take at night"
+    },
+    {
+      "memory_id": "X0029-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 22 mm/hr (0-20) mildly elevated. CRP 7 mg/L (<5) elevated. Lipid profile: LDL 135 mg/dL, HDL 49 mg/dL, Triglycerides 158 mg/dL. LFT: ALT 30, AST 26, ALKP 80. CK 95."
+    },
+    {
+      "memory_id": "X0029-m08",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Hand X-ray (PA) shows preserved joint spaces, no erosions. Soft tissue swelling noted around second and third MCP joints. No osteoporosis changes."
+    },
+    {
+      "memory_id": "X0029-m09",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow-up and influenza vaccine.\nPRESENTING COMPLAINT: Patient reports mild improvement in stiffness, no new joint pain.\nEXAMINATION: BP 128/80 mmHg, weight 68.5 kg, BMI 26.7 (obese). Joints: mild tenderness, no swelling. Lungs clear, heart regular.\nIMPRESSION: Rheumatoid arthritis stable on current meds. Dyslipidaemia unchanged. BMI >=23, advise diet and activity. Influenza vaccine due this autumn.\nARRANGEMENTS: Give inactivated influenza vaccine today (02-Oct-2025). Continue methotrexate 15 mg weekly, folic acid, hydroxychloroquine, prednisolone, atorvastatin 10 mg HS. Lipid panel and LFT due in 6 months. Return if new joint swelling, fever >39°C, chest pain, or breathlessness."
+    },
+    {
+      "memory_id": "X0029-m10",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 10 mg take once daily\nFenofibrate 145 mg take once daily\nMethotrexate 15 mg take once weekly on Monday\nFolic acid 5 mg take once weekly on Monday\nHydroxychloroquine 200 mg take once daily\nPrednisolone 5 mg take once daily"
+    },
+    {
+      "memory_id": "X0029-m11",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 92 mg/dL (<100 optimal), HDL 52 mg/dL (>40 good), Triglycerides 110 mg/dL (<150). Liver function: ALT 22, AST 20, ALKP 75. Creatine kinase 88. FBS 98 mg/dL (70-100)."
+    },
+    {
+      "memory_id": "X0029-m12",
+      "date": "2026-02-10",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Rheumatology review: Patient continues on methotrexate 15 mg weekly with good tolerance. Disease activity low (DAS28 2.8). Recommend maintaining current regimen, consider tapering prednisolone to 2.5 mg alternate days if symptoms remain controlled. No need for biologic at this time."
+    },
+    {
+      "memory_id": "X0029-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review and vaccine status.\nPRESENTING COMPLAINT: Patient feels well, occasional mild knee ache after prolonged standing.\nEXAMINATION: BP 126/78 mmHg, weight 68 kg, BMI 26.6 (obese). Joints: no swelling, mild tenderness in knees. Lungs clear, heart regular.\nIMPRESSION: Stable rheumatoid arthritis, dyslipidaemia well-controlled on rosuvastatin/fenofibrate. BMI >=23, reinforce healthy lifestyle. Influenza vaccine given autumn 2025, due again autumn 2026.\nARRANGEMENTS: Continue current meds. Order annual fasting lipid profile, fasting blood sugar, LFT, CK. Advise repeat vaccine in October. Return if new joint swelling, fever >39°C, chest pain, breathlessness, or unexplained muscle pain."
+    },
+    {
+      "memory_id": "X0029-m14",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Influenza vaccine inactivated single dose given 02-Oct-2025 (recorded). No new prescription today."
+    },
+    {
+      "memory_id": "X0029-m15",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 90 mg/dL, HDL 53 mg/dL, Triglycerides 108 mg/dL. Fasting blood sugar 96 mg/dL. Liver function: ALT 21, AST 19, ALKP 73. Creatine kinase 85."
+    },
+    {
+      "memory_id": "X0029-m16",
+      "date": "2026-08-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 01-Oct-2026 at 10:30 AM with Dr Priya Natarajan (D03) for follow-up of dyslipidaemia and rheumatoid arthritis. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0029-m17",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: scheduled follow-up and influenza vaccine.\nPRESENTING COMPLAINT: Patient reports no new symptoms, feels well.\nEXAMINATION: BP 124/76 mmHg, weight 67.5 kg, BMI 26.3 (obese). Joints: no swelling, mild tenderness in wrists. Lungs clear, heart regular.\nIMPRESSION: Rheumatoid arthritis in remission, dyslipidaemia controlled. BMI >=23, advise continued diet and activity. Influenza vaccine due this visit.\nARRANGEMENTS: Administer inactivated influenza vaccine today (01-Oct-2026). Continue rosuvastatin 10 mg OD, fenofibrate 145 mg OD, methotrexate 15 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Next lipid panel and LFT in 12 months. Return if new joint swelling, fever >39°C, chest pain, breathlessness, or unexplained muscle pain."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0568",
+  "name": "Shabbir Khan",
+  "age": 85,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Migraine",
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0568-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent with ADLs, uses a walking stick for outdoor walks. reports mild knee discomfort but manages household chores.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal). no immediate concern for dementia.\nfalls: zero falls in past 12 months. gait steady, timed up-and-go 10 seconds (normal). fall risk low; advise regular strength exercises and supportive footwear.\nmedicines: 0 regular (currently none). polypharmacy not applicable.\nmood: denies low mood or anxiety; reports occasional irritability linked to headache.\ncarers: son, Vivek, provides weekly grocery assistance.\ngoal: \"I want to stay active and keep my headaches under control so I can continue my small contracts.\""
+    },
+    {
+      "memory_id": "X0568-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: total cholesterol 210 mg/dL (<200 desirable), LDL 130 mg/dL (<100), HDL 38 mg/dL (>40 low), triglycerides 165 mg/dL (<150).\nFasting glucose: 102 mg/dL (70-99).\nHbA1c: 6.0% (4.0-5.6).\nLiver function: ALT 28 U/L (7-56), AST 24 U/L (10-40), ALP 78 U/L (40-129), GGT 32 U/L (9-64), bilirubin 0.9 mg/dL (0.2-1.2)."
+    },
+    {
+      "memory_id": "X0568-m03",
+      "date": "2025-04-08",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol 40 mg oral once daily\nsumatriptan 50 mg oral as needed for migraine (max 2 doses/24h)\ntopiramate 25 mg oral at bedtime\nnaproxen 500 mg oral as needed for pain (max 1g/day)\norlistat 120 mg oral with each main meal (breakfast, lunch, dinner)"
+    },
+    {
+      "memory_id": "X0568-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still independent; reports using stick less often, knee pain improved with weight loss attempt.\ncognition: Mini-Cog repeated 4/5; stable.\nfalls: zero falls in past year. gait normal, timed up-and-go 9 seconds. fall risk low; continue ankle‑strength exercises.\nmedicines: 5 regular (propranolol, topiramate, sumatriptan prn, naproxen prn, orlistat). polypharmacy present – request review against Beers criteria.\nmood: denies depression; occasional frustration when headache breakthrough.\ncarers: son Vivek, assists with medication pick‑up.\ngoal: \"I’d like fewer migraine days and to keep my weight down for easier work on site.\""
+    },
+    {
+      "memory_id": "X0568-m05",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol increased to 60 mg oral once daily\ntopiramate increased to 50 mg oral at bedtime\nsumatriptan 50 mg oral as needed\nnaproxen 500 mg oral as needed\norlistat 120 mg oral with each main meal"
+    },
+    {
+      "memory_id": "X0568-m06",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: total cholesterol 190 mg/dL, LDL 110 mg/dL, HDL 42 mg/dL, triglycerides 140 mg/dL.\nFasting glucose: 96 mg/dL.\nHbA1c: 5.7%.\nLiver function: ALT 22 U/L, AST 20 U/L, ALP 72 U/L, GGT 28 U/L, bilirubin 0.8 mg/dL."
+    },
+    {
+      "memory_id": "X0568-m07",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent; reports occasional mild knee ache after long walks.\ncognition: Mini-Cog 4/5; unchanged.\nfalls: one minor slip at home 3 months ago, no injury. gait slightly cautious, timed up-and-go 11 seconds (borderline raised risk). advise balance training, proper footwear, home hazard check.\nmedicines: 5 regular (propranolol 60 mg, topiramate 50 mg, sumatriptan prn, naproxen prn, orlistat). polypharmacy – note for Beers review.\nmood: reports feeling better; denies depression.\ncarers: son Vivek, helps with grocery and medication.\ngoal: \"I want to stay steady on my feet and keep headaches rare so I can keep taking small contracts.\""
+    },
+    {
+      "memory_id": "X0568-m08",
+      "date": "2025-10-06",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol 60 mg oral once daily\ntopiramate reduced to 25 mg oral at bedtime (due to tingling)\nsumatriptan 50 mg oral as needed\nnaproxen 500 mg oral as needed\norlistat 120 mg oral with each main meal"
+    },
+    {
+      "memory_id": "X0568-m09",
+      "date": "2026-01-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "12-lead ECG: sinus rhythm 72 bpm, no ST‑T changes, no Q waves, left ventricular voltage normal. No evidence of ischemia or arrhythmia."
+    },
+    {
+      "memory_id": "X0568-m10",
+      "date": "2026-02-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: \"I’ve felt light‑headed when I stand up quickly after sitting, especially in the mornings. It passes after a few seconds.\""
+    },
+    {
+      "memory_id": "X0568-m11",
+      "date": "2026-02-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent; notes occasional light‑headedness on standing, no syncope.\ncognition: Mini-Cog 4/5; stable.\nfalls: zero falls in past year. gait normal, timed up‑and‑go 10 seconds. fall risk low; continue calf‑strength exercises.\nmedicines: 5 regular (propranolol 60 mg, topiramate 25 mg, sumatriptan prn, naproxen prn, orlistat). polypharmacy – flag for Beers review.\nmood: denies depression; notes mild anxiety about light‑headedness.\ncarers: son Vivek, assists with transport to clinic.\ngoal: \"I’d like the dizziness to go away and keep my headaches under control.\""
+    },
+    {
+      "memory_id": "X0568-m12",
+      "date": "2026-02-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol held temporarily (low orthostatic BP)\ntopiramate 25 mg oral at bedtime\nsumatriptan 50 mg oral as needed\nnaproxen 500 mg oral as needed\norlistat 120 mg oral with each main meal"
+    },
+    {
+      "memory_id": "X0568-m13",
+      "date": "2026-06-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up geriatric appointment booked for 2026-07-15 at 10:30 am with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0568-m14",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent; reports no dizziness for past 2 months, weight stable at 78 kg, waist circumference 96 cm.\ncognition: Mini-Cog 4/5; annual screen normal.\nfalls: zero falls in past year. gait good, timed up‑and‑go 9 seconds. fall risk low; maintain walking and footwear advice.\nmedicines: 4 regular (topiramate 25 mg, sumatriptan prn, naproxen prn, orlistat with meals). polypharmacy not present (≤4).\nmood: reports good spirits, enjoys time with grandchildren.\ncarers: son Vivek, primary helper with shopping and medication.\ngoal: \"I want to remain active and pain‑free so I can keep taking on small building jobs.\""
+    }
+  ]
+}

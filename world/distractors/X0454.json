@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0454",
+  "name": "Ravichandran Krishnaswamy",
+  "age": 49,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Vitamin B12 deficiency",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0454-m01",
+      "date": "2025-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-04-05 at 10:00 AM with Dr Karthik Hegde (D04) for endocrine follow-up."
+    },
+    {
+      "memory_id": "X0454-m02",
+      "date": "2025-04-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Patient reports fatigue, occasional tingling in feet, and weight gain of 3 kg over past 2 months. No palpitations or heat intolerance."
+    },
+    {
+      "memory_id": "X0454-m03",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin B12 deficiency\n  Status: Likely deficient based on symptoms; serum B12 pending.\n  Plan: Start methylcobalamin 1500 mcg OD after breakfast.\n- Hypothyroidism\n  Status: Subclinical, TSH pending.\n  Plan: Start levothyroxine 50 mcg OD on empty stomach.\n- Weight & waist\n  Weight 78 kg, waist 92 cm (>90 cm male cut‑off).\n  Diet: Breakfast – whole grain roti + egg white; Lunch – dal, vegetable, limited rice; Dinner – light soup, salad.\nDue: HbA1c 2025-07-05 (routine)."
+    },
+    {
+      "memory_id": "X0454-m04",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Vitamin B12: 180 pg/mL (ref 200‑900).\nMCV: 102 fL (ref 80‑100).\nHaemoglobin: 12.8 g/dL (ref 13.0‑17.0).\nTSH: 6.8 mIU/L (ref 0.4‑4.5).\nFree T4: 10.2 pmol/L (ref 9.0‑19.0)."
+    },
+    {
+      "memory_id": "X0454-m05",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methylcobalamin 1500 mcg OD after breakfast.\nLevothyroxine 50 mcg OD on empty stomach."
+    },
+    {
+      "memory_id": "X0454-m06",
+      "date": "2025-07-08",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-07-10 at 09:30 AM with Dr Karthik Hegde (D04) for review of B12 and thyroid therapy."
+    },
+    {
+      "memory_id": "X0454-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin B12 deficiency\n  Status: Improving; serum B12 rising.\n  Plan: Continue methylcobalamin 1500 mcg OD.\n- Hypothyroidism\n  Status: TSH still elevated; need dose increase.\n  Plan: Increase levothyroxine to 75 mcg OD empty stomach; recheck TSH in 6‑8 weeks.\n- Weight & waist\n  Weight 77 kg, waist 90 cm (at cut‑off).\n  Diet: Breakfast – oats + milk; Lunch – chapati, dal, veg; Dinner – khichdi, curd.\nDue: HbA1c 2025-10-10."
+    },
+    {
+      "memory_id": "X0454-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Vitamin B12: 260 pg/mL (ref 200‑900).\nMCV: 98 fL (ref 80‑100).\nHaemoglobin: 13.4 g/dL (ref 13.0‑17.0).\nTSH: 5.9 mIU/L (ref 0.4‑4.5).\nFree T4: 11.0 pmol/L (ref 9.0‑19.0)."
+    },
+    {
+      "memory_id": "X0454-m09",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methylcobalamin 1500 mcg OD after breakfast.\nLevothyroxine 75 mcg OD on empty stomach."
+    },
+    {
+      "memory_id": "X0454-m10",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-12 at 11:00 AM with Dr Karthik Hegde (D04) for routine endocrine check."
+    },
+    {
+      "memory_id": "X0454-m11",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin B12 deficiency\n  Status: Normal range; asymptomatic.\n  Plan: Continue methylcobalamin 1500 mcg OD.\n- Hypothyroidism\n  Status: TSH approaching target; consider further increase.\n  Plan: Increase levothyroxine to 100 mcg OD empty stomach; recheck TSH in 6‑8 weeks.\n- Weight & waist\n  Weight 76 kg, waist 88 cm (<90 cm).\n  Diet: Breakfast – idli + sambar; Lunch – roti, dal, veg; Dinner – vegetable stew, salad.\nDue: HbA1c 2026-01-12."
+    },
+    {
+      "memory_id": "X0454-m12",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Vitamin B12: 340 pg/mL (ref 200‑900).\nMCV: 94 fL (ref 80‑100).\nHaemoglobin: 13.8 g/dL (ref 13.0‑17.0).\nTSH: 4.6 mIU/L (ref 0.4‑4.5).\nFree T4: 12.1 pmol/L (ref 9.0‑19.0)."
+    },
+    {
+      "memory_id": "X0454-m13",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methylcobalamin 1500 mcg OD after breakfast.\nLevothyroxine 100 mcg OD on empty stomach."
+    },
+    {
+      "memory_id": "X0454-m14",
+      "date": "2026-01-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-15 at 10:15 AM with Dr Karthik Hegde (D04) for thyroid dose review."
+    },
+    {
+      "memory_id": "X0454-m15",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin B12 deficiency\n  Status: Stable, patient asymptomatic.\n  Plan: Continue methylcobalamin 1500 mcg OD.\n- Hypothyroidism\n  Status: TSH within target on 100 mcg.\n  Plan: Maintain levothyroxine 100 mcg OD; repeat TSH in 6 months.\n- Weight & waist\n  Weight 75 kg, waist 86 cm.\n  Diet: Breakfast – poha + peanuts; Lunch – brown rice, dal, veg; Dinner – grilled fish, salad.\nDue: HbA1c 2026-04-15."
+    },
+    {
+      "memory_id": "X0454-m16",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Vitamin B12: 360 pg/mL (ref 200‑900).\nMCV: 92 fL (ref 80‑100).\nHaemoglobin: 14.0 g/dL (ref 13.0‑17.0).\nTSH: 3.8 mIU/L (ref 0.4‑4.5).\nFree T4: 12.8 pmol/L (ref 9.0‑19.0)."
+    },
+    {
+      "memory_id": "X0454-m17",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methylcobalamin 1500 mcg OD after breakfast.\nLevothyroxine 100 mcg OD on empty stomach."
+    },
+    {
+      "memory_id": "X0454-m18",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin B12 deficiency\n  Status: Patient remains asymptomatic; labs normal.\n  Plan: Continue methylcobalamin 1500 mcg OD.\n- Hypothyroidism\n  Status: Euthyroid on stable levothyroxine 100 mcg OD.\n  Plan: Continue same dose; repeat TSH in 12 months.\n- Weight & waist\n  Weight 74 kg, waist 84 cm.\n  Diet: Breakfast – upma + veg; Lunch – chapati, dal, veg; Dinner – lentil soup, salad.\nDue: HbA1c 2026-07-20."
+    }
+  ]
+}

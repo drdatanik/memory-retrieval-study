@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0253",
+  "name": "Annie D'Souza",
+  "age": 87,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Atrial fibrillation",
+    "Irritable bowel syndrome",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0253-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine review of atrial fibrillation, IBS and diabetes.\nPRESENTING COMPLAINT: She reports occasional palpitations, mild bloating and intermittent loose stools. No chest pain or dyspnea.\nEXAMINATION: BP 138/84 mmHg, weight 58 kg, height 1.55 m, BMI 24.1 (overweight). Pulse irregularly irregular at 78 bpm. Abdomen soft, no tenderness.\nIMPRESSION: Atrial fibrillation on apixaban and warfarin with INR in range. IBS symptoms mild. Diabetes suboptimal with HbA1c 7.2%.\nARRANGEMENTS: Continue current meds, check INR in 2 weeks, repeat HbA1c in 3 months. Advise reduced refined carbs and daily 30‑min walk. Return if palpitations worsen, black stools, fever >39°C, or sudden abdominal pain."
+    },
+    {
+      "memory_id": "X0253-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Apixaban 5 mg BD\nBisoprolol 2.5 mg OD\nWarfarin 5 mg OD (INR target 2‑3)\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS\nMetformin 500 mg BD\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0253-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.3 (target 2‑3)\nSerum creatinine 0.9 mg/dL (0.6‑1.2)\nTSH 2.1 µIU/mL (0.4‑4.0)\nCBC: Hb 12.8 g/dL, WBC 6.2×10⁹/L, Plt 210×10⁹/L\nStool routine: no ova, cysts or blood\ntTG‑IgA: negative (<4 U/mL)\nHbA1c 7.2% (4‑5.6% normal)\nFasting plasma glucose 138 mg/dL (70‑99)\nUrine albumin‑creatinine ratio 22 mg/g (<30 normal)\nLipid profile: TC 180 mg/dL (<200), LDL 100 mg/dL (<130), HDL 45 mg/dL (>40), TG 150 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0253-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "ECG: Irregularly irregular rhythm with absent P waves, consistent with atrial fibrillation. Ventricular rate 78 bpm. No acute ST‑T changes."
+    },
+    {
+      "memory_id": "X0253-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I feel occasional palpitations and my bowel movements are irregular; sometimes I have loose stools after meals.\""
+    },
+    {
+      "memory_id": "X0253-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 3‑month follow‑up.\nPRESENTING COMPLAINT: Palpitations less frequent, bloating improved, occasional diarrhoea after heavy meals.\nEXAMINATION: BP 136/82 mmHg, weight 57.5 kg, BMI 23.9 (overweight). Pulse irregularly irregular 76 bpm. Lungs clear.\nIMPRESSION: AF rate controlled. IBS better with current regimen. Diabetes: HbA1c 6.8% (improved).\nARRANGEMENTS: Increase bisoprolol to 5 mg OD for better rate control. Continue other meds. Review INR in 1 week. Return if syncopal episodes, worsening diarrhoea with blood, or fever >39°C."
+    },
+    {
+      "memory_id": "X0253-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Apixaban 5 mg BD\nBisoprolol 5 mg OD\nWarfarin 5 mg OD (INR target 2‑3)\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS\nMetformin 500 mg BD\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0253-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.5 (target 2‑3)\nCBC: Hb 13.0 g/dL, WBC 5.9×10⁹/L, Plt 205×10⁹/L\nHbA1c 6.8% (4‑5.6% normal)\nFasting plasma glucose 124 mg/dL (70‑99)"
+    },
+    {
+      "memory_id": "X0253-m09",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 15 Oct 2025 at 10:00 am with Dr Priya Natarajan for routine follow‑up."
+    },
+    {
+      "memory_id": "X0253-m10",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: scheduled review.\nPRESENTING COMPLAINT: No new cardiac symptoms, occasional mild abdominal discomfort after lentils.\nEXAMINATION: BP 134/80 mmHg, weight 57 kg, BMI 23.7 (overweight). Pulse irregularly irregular 74 bpm.\nIMPRESSION: AF stable on apixaban+warfarin. IBS controlled. Diabetes: HbA1c 6.6%.\nARRANGEMENTS: Add sitagliptin 100 mg OD (already on board) – continue. Order fasting lipid profile and TSH. Advise low‑fat diet and maintain activity. Return if chest pain, breathlessness, melena, or vomiting."
+    },
+    {
+      "memory_id": "X0253-m11",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Apixaban 5 mg BD\nBisoprolol 5 mg OD\nWarfarin 5 mg OD (INR target 2‑3)\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS\nMetformin 500 mg BD\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0253-m12",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: TC 176 mg/dL (<200), LDL 98 mg/dL (<130), HDL 46 mg/dL (>40), TG 148 mg/dL (<150)\nTSH 2.0 µIU/mL (0.4‑4.0)\nINR 2.4 (target 2‑3)\nSerum creatinine 0.9 mg/dL (0.6‑1.2)"
+    },
+    {
+      "memory_id": "X0253-m13",
+      "date": "2026-01-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Dilated fundus exam: No diabetic retinopathy. Macula clear, peripheral retina intact."
+    },
+    {
+      "memory_id": "X0253-m14",
+      "date": "2026-01-20",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to cardiology for opinion on anticoagulation strategy in elderly frail patient with atrial fibrillation."
+    },
+    {
+      "memory_id": "X0253-m15",
+      "date": "2026-03-05",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Cardiology opinion: Continue apixaban 5 mg BD, stop warfarin due to bleeding risk. Keep bisoprolol for rate control. Follow‑up in 3 months."
+    },
+    {
+      "memory_id": "X0253-m16",
+      "date": "2026-06-30",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: post‑cardiology review.\nPRESENTING COMPLAINT: No palpitations, bowel habits regular, occasional mild epigastric discomfort after spicy food.\nEXAMINATION: BP 130/78 mmHg, weight 56.5 kg, BMI 23.5 (overweight). Pulse irregularly irregular 72 bpm.\nIMPRESSION: AF on apixaban only, rate controlled. IBS mild. Diabetes: HbA1c 6.5%.\nARRANGEMENTS: Stop warfarin. Continue apixaban, bisoprolol, mebeverine, ispaghula husk, metformin, glimepiride, sitagliptin, empagliflozin. Repeat INR not needed. Return if sudden weakness, speech change, severe abdominal pain, or fever >39°C."
+    },
+    {
+      "memory_id": "X0253-m17",
+      "date": "2026-10-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Apixaban 5 mg BD\nBisoprolol 5 mg OD\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS\nMetformin 500 mg BD\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD"
+    }
+  ]
+}

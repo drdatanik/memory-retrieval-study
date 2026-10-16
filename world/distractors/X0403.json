@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0403",
+  "name": "Ammini Namboodiri",
+  "age": 62,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0403-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary hypothyroidism. The patient reports progressive fatigue, weight gain of 5 kg over 3 months, dry skin, and intolerance to cold. Examination shows mild pallor and delayed relaxation of ankle jerks. Smoking status: never smoked, pack‑years 0. Plan: start levothyroxine 50 mcg OD and check TSH in 6 weeks."
+    },
+    {
+      "memory_id": "X0403-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 50 mcg oral tablet, take once daily in the morning on an empty stomach. Continue until reviewed."
+    },
+    {
+      "memory_id": "X0403-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 8.2 mIU/L (reference 0.4–4.0). Free T4: 0.8 ng/dL (reference 0.9–1.7)."
+    },
+    {
+      "memory_id": "X0403-m04",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary hypothyroidism, inadequately replaced. Patient still fatigued, weight unchanged, skin dry. Exam: mild pallor, relaxed ankle jerks slightly delayed. Smoking status: never smoked, pack‑years 0. TSH elevated. Plan: increase levothyroxine to 75 mcg OD, repeat TSH in 6 weeks."
+    },
+    {
+      "memory_id": "X0403-m05",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 75 mcg oral tablet, take once daily in the morning on an empty stomach. Continue until reviewed."
+    },
+    {
+      "memory_id": "X0403-m06",
+      "date": "2025-07-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 4.5 mIU/L (reference 0.4–4.0). Free T4: 1.0 ng/dL (reference 0.9–1.7)."
+    },
+    {
+      "memory_id": "X0403-m07",
+      "date": "2025-08-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary hypothyroidism, near target. Patient reports improved energy, mild weight gain of 1 kg, no cold intolerance. Exam: normal pallor, ankle jerks prompt. Smoking status: never smoked, pack‑years 0. TSH borderline high. Plan: continue levothyroxine 75 mcg OD, repeat TSH in 3 months."
+    },
+    {
+      "memory_id": "X0403-m08",
+      "date": "2025-08-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 75 mcg oral tablet, take once daily in the morning on an empty stomach. Continue until reviewed."
+    },
+    {
+      "memory_id": "X0403-m09",
+      "date": "2025-11-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.8 mIU/L (reference 0.4–4.0). Free T4: 1.2 ng/dL (reference 0.9–1.7)."
+    },
+    {
+      "memory_id": "X0403-m10",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary hypothyroidism, stable but patient reports renewed fatigue and 2 kg weight gain. Exam: mild pallor, ankle jerks slightly delayed. Smoking status: never smoked, pack‑years 0. TSH within normal range but symptoms suggest need for higher dose. Plan: increase levothyroxine to 100 mcg OD, re‑check TSH in 6 weeks."
+    },
+    {
+      "memory_id": "X0403-m11",
+      "date": "2025-12-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 100 mcg oral tablet, take once daily in the morning on an empty stomach. Continue until reviewed."
+    },
+    {
+      "memory_id": "X0403-m12",
+      "date": "2026-03-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 1.9 mIU/L (reference 0.4–4.0). Free T4: 1.3 ng/dL (reference 0.9–1.7)."
+    },
+    {
+      "memory_id": "X0403-m13",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Suresh Menon (D05) for 2026-08-20 at 10:30 am. Please arrive 10 minutes early."
+    },
+    {
+      "memory_id": "X0403-m14",
+      "date": "2026-08-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary hypothyroidism, well controlled. Patient denies fatigue, weight stable, skin normal. Exam: no pallor, ankle jerks prompt. Smoking status: never smoked, pack‑years 0. TSH within target. Plan: continue levothyroxine 100 mcg OD, annual review unless symptoms change."
+    }
+  ]
+}

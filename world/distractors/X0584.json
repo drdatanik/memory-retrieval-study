@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0584",
+  "name": "Mahesh Rao",
+  "age": 42,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0584-m01",
+      "date": "2025-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-04-15 at 10:00 with Dr Nandini Kulkarni (D06) for dyslipidaemia review."
+    },
+    {
+      "memory_id": "X0584-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild fatigue after work, able to perform lab duties without difficulty.\ncognition: Mini-Cog score 4/5 (recall 3, clock draw normal), negative screen.\nfalls: no falls in past 12 months; gait steady; timed up-and-go 9 seconds, normal.\nmedicines: 0 regular; starting lipid-lowering therapy today.\nmood: denies depression or anxiety; PHQ-2 not done.\ncarers: lives alone; no formal carer.\ngoals: \"I want to keep my cholesterol under control and stay active at work.\""
+    },
+    {
+      "memory_id": "X0584-m03",
+      "date": "2025-04-16",
+      "type": "prescription",
+      "author": "D06",
+      "text": "atorvastatin 10 mg HS\nrosuvastatin 10 mg OD\nfenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0584-m04",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 115 mg/dL (<100 optimal), HDL 44 mg/dL (>40), triglycerides 162 mg/dL (<150 borderline). LFT: ALT 30 U/L (≤40), AST 26 U/L (≤40), bilirubin 0.9 mg/dL (≤1.2). CK 210 U/L (≤200 slight rise)."
+    },
+    {
+      "memory_id": "X0584-m05",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: tolerates meds well, no muscle aches; works full shifts.\ncognition: Mini-Cog 4/5, stable.\nfalls: none; gait normal; TUG 9 seconds.\nmedicines: 3 regular; polypharmacy not applicable.\nmood: reports occasional stress, denies depression.\ncarers: lives alone; sister checks weekly.\ngoals: \"I’d like my LDL below 100 without side effects.\""
+    },
+    {
+      "memory_id": "X0584-m06",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "atorvastatin 20 mg HS\nrosuvastatin 10 mg OD\nfenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0584-m07",
+      "date": "2025-10-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Resting ECG: sinus rhythm 78 bpm, no ST‑T changes, no left ventricular hypertrophy. Normal study."
+    },
+    {
+      "memory_id": "X0584-m08",
+      "date": "2025-10-05",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Dr S. Patel, Cardiology, for evaluation of persistent borderline triglycerides and CK elevation. Request lipid‑guided therapy advice and cardiac risk assessment."
+    },
+    {
+      "memory_id": "X0584-m09",
+      "date": "2025-11-01",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Cardiology reply: triglycerides likely diet‑related; CK rise mild, possibly statin‑related. Recommend continue current statin, monitor CK, consider fenofibrate pause if CK >3×ULN. No cardiac pathology."
+    },
+    {
+      "memory_id": "X0584-m10",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 92 mg/dL (<100), HDL 46 mg/dL (>40), triglycerides 138 mg/dL (<150). LFT: ALT 22 U/L, AST 20 U/L, bilirubin 0.8 mg/dL. CK 190 U/L (≤200)."
+    },
+    {
+      "memory_id": "X0584-m11",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: feels energetic, no muscle pain; works night shifts without issue.\ncognition: Mini-Cog 5/5, negative.\nfalls: none; gait normal; TUG 8 seconds.\nmedicines: 3 regular; polypharmacy not applicable.\nmood: reports good sleep, denies low mood.\ncarers: lives alone; brother helps with groceries.\ngoals: \"Maintain current labs and keep working.\""
+    },
+    {
+      "memory_id": "X0584-m12",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 88 mg/dL (<100), HDL 48 mg/dL (>40), triglycerides 130 mg/dL (<150). LFT: ALT 18 U/L, AST 16 U/L. CK 175 U/L."
+    },
+    {
+      "memory_id": "X0584-m13",
+      "date": "2026-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling a bit of shoulder pain after lifting heavy boxes at work, wonder if it’s related to the statin. No swelling or weakness."
+    },
+    {
+      "memory_id": "X0584-m14",
+      "date": "2026-07-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: shoulder discomfort mild, no limitation; continues lab work.\ncognition: Mini-Cog 4/5 (annual screen), negative.\nfalls: none; gait normal; TUG 9 seconds.\nmedicines: 3 regular; polypharmacy not applicable.\nmood: denies depression; stress manageable.\ncarers: lives alone; friend calls twice weekly.\ngoals: \"Stay pain‑free and keep my lipids in range.\""
+    },
+    {
+      "memory_id": "X0584-m15",
+      "date": "2026-09-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 90 mg/dL (<100), HDL 47 mg/dL (>40), triglycerides 135 mg/dL (<150). LFT: ALT 20 U/L, AST 18 U/L. CK 182 U/L."
+    },
+    {
+      "memory_id": "X0584-m16",
+      "date": "2026-10-11",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: no new symptoms; shoulder pain resolved with rest.\ncognition: Mini-Cog 5/5, negative.\nfalls: none; gait normal; TUG 8 seconds.\nmedicines: 3 regular; polypharmacy not applicable.\nmood: reports good wellbeing.\ncarers: lives alone; sister assists with errands.\ngoals: \"Continue current meds and stay healthy for my family.\""
+    }
+  ]
+}

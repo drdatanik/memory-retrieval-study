@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0132",
+  "name": "Manoj Malhotra",
+  "age": 55,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0132-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports independent in all ADLs; manages auto-rickshaw driving and household chores without assistance. No difficulty climbing stairs or walking to market.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal). No evidence of cognitive impairment.\nfalls: No falls in the last 12 months. Gait steady, timed up-and-go 10 seconds (<12 s), fall risk not raised.\nmedicines: 2 regular (levetiracetam 500 mg BD, lamotrigine 50 mg BD). Less than five medicines; no polypharmacy flag.\nmood: Denies low mood, anxiety, or sleep disturbance; reports feeling well.\ncarers: Meena Kulkarni, spouse.\ngoals: \"I want to stay seizure‑free and continue working as an auto‑rickshaw driver.\""
+    },
+    {
+      "memory_id": "X0132-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 500 mg PO BD\nlamotrigine 50 mg PO BD"
+    },
+    {
+      "memory_id": "X0132-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "EEG: No epileptiform activity.\nSerum sodium: 138 mmol/L (135‑145)\nSerum creatinine: 0.9 mg/dL (0.6‑1.2)"
+    },
+    {
+      "memory_id": "X0132-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Continues independent ADLs; reports occasional mild dizziness after prolonged driving, resolves with rest.\ncognition: Mini-Cog 4/5; stable.\nfalls: No new falls. Gait steady, timed up-and-go 10 seconds.\nmedicines: 2 regular (levetiracetam 500 mg BD, lamotrigine 50 mg BD).\nmood: Denies depression; reports occasional frustration with dizziness.\ncarers: Meena Kulkarni, spouse.\ngoals: \"I want to keep driving safely without seizures or dizziness.\""
+    },
+    {
+      "memory_id": "X0132-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 500 mg PO BD\nlamotrigine 100 mg PO BD (increased from 50 mg BD)"
+    },
+    {
+      "memory_id": "X0132-m06",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 136 mmol/L (135‑145)\nSerum creatinine: 0.9 mg/dL (0.6‑1.2)\nSerum lamotrigine level: 3.2 µg/mL (therapeutic 2‑5)"
+    },
+    {
+      "memory_id": "X0132-m07",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; drives auto‑rickshaw 6‑8 hrs/day, reports no dizziness since lamotrigine increase.\ncognition: Mini-Cog 4/5; annual screen negative.\nfalls: No falls in past year. Gait steady, timed up-and-go 9 seconds (<12 s).\nmedicines: 2 regular (levetiracetam 500 mg BD, lamotrigine 100 mg BD). Less than five; no polypharmacy.\nmood: Reports good mood, enjoys work.\ncarers: Meena Kulkarni, spouse.\ngoals: \"I want to remain seizure‑free and keep supporting my family.\""
+    },
+    {
+      "memory_id": "X0132-m08",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 500 mg PO BD\nlamotrigine 100 mg PO BD"
+    },
+    {
+      "memory_id": "X0132-m09",
+      "date": "2026-04-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve felt a brief light‑headed feeling twice in the last week when standing quickly from sitting. No loss of consciousness."
+    },
+    {
+      "memory_id": "X0132-m10",
+      "date": "2026-04-22",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: Normal sinus rhythm, rate 78 bpm. No ST‑T changes, no QRS prolongation."
+    },
+    {
+      "memory_id": "X0132-m11",
+      "date": "2026-04-25",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Neurology, Dr. S. Rao (M.S. Ramaiah Hospital) for review of epilepsy management and occasional light‑headedness."
+    },
+    {
+      "memory_id": "X0132-m12",
+      "date": "2026-05-10",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Neurologist advises continue current regimen, consider checking serum levetiracetam level if symptoms persist; otherwise routine follow‑up in 6 months."
+    },
+    {
+      "memory_id": "X0132-m13",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-08-15 at 10:00 AM with Dr. Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0132-m14",
+      "date": "2026-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 137 mmol/L (135‑145)\nSerum creatinine: 0.9 mg/dL (0.6‑1.2)\nSerum levetiracetam level: 12.0 µg/mL (therapeutic 5‑15)"
+    },
+    {
+      "memory_id": "X0132-m15",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all ADLs; drives auto‑rickshaw full‑time, reports no seizures or light‑headedness in past 3 months.\ncognition: Mini‑Cog 4/5; annual screen negative.\nfalls: No falls in last 12 months. Gait steady, timed up-and‑go 9 seconds (<12 s); fall risk not raised.\nmedicines: 2 regular (levetiracetam 500 mg BD, lamotrigine 100 mg BD). Less than five; no polypharmacy flag.\nmood: Denies depression or anxiety; reports good quality of life.\ncarers: Meena Kulkarni, spouse.\ngoals: \"I want to stay healthy, keep working, and enjoy time with my grandchildren.\""
+    }
+  ]
+}

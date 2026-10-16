@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0136",
+  "name": "Selvi Balan",
+  "age": 22,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0136-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports driving 8‑10 hours daily, no difficulty with steering or pedal use. cognition: Mini‑Cog 4/5 (recall 3 items, clock draw normal) – negative screen. falls: 0 falls in last 12 months, gait steady, timed up‑and‑go 9 seconds – normal fall risk. medicines: 1 regular (levothyroxine 50 mcg OD). mood: denies low mood or anxiety. carers: lives alone, no designated carer. goals: \"I want to keep working without feeling tired.\""
+    },
+    {
+      "memory_id": "X0136-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 50 mcg OD"
+    },
+    {
+      "memory_id": "X0136-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (0.4‑4.0) – slightly high\nFree T4 11.2 pmol/L (9.0‑19.0) – normal"
+    },
+    {
+      "memory_id": "X0136-m04",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 7.8 mIU/L (0.4‑4.0) – elevated\nFree T4 10.5 pmol/L (9.0‑19.0) – normal"
+    },
+    {
+      "memory_id": "X0136-m05",
+      "date": "2025-08-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: notes increased fatigue after long drives, needs occasional rest. cognition: Mini‑Cog not repeated (last <12 months). falls: 0 falls, gait slightly slower, timed up‑and‑go 10 seconds – borderline. medicines: 1 regular (levothyroxine 50 mcg OD) – polypharmacy not applicable. mood: reports low energy, denies depression. carers: lives alone. goals: \"I want to feel energetic through my shifts.\""
+    },
+    {
+      "memory_id": "X0136-m06",
+      "date": "2025-08-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0136-m07",
+      "date": "2025-10-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: fatigue improved, drives full shifts without rest. cognition: Mini‑Cog not due. falls: 0 falls, gait normal, timed up‑and‑go 9 seconds – normal. medicines: 1 regular (levothyroxine 75 mcg OD). mood: feels well, no anxiety. carers: lives alone. goals: \"I’m happy with my energy level now.\""
+    },
+    {
+      "memory_id": "X0136-m08",
+      "date": "2025-10-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0136-m09",
+      "date": "2025-10-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.0) – normal\nFree T4 13.0 pmol/L (9.0‑19.0) – normal"
+    },
+    {
+      "memory_id": "X0136-m10",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: drives without issue, occasional mild tiredness after night shift. cognition: Mini‑Cog 3/5 (recall 2 items, clock draw mildly abnormal) – negative screen (score >2). falls: 0 falls, gait steady, timed up‑and‑go 9 seconds – normal. medicines: 1 regular (levothyroxine 75 mcg OD). mood: denies depression, reports good sleep. carers: lives alone. goals: \"I want to stay healthy and keep driving safely.\""
+    },
+    {
+      "memory_id": "X0136-m11",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0136-m12",
+      "date": "2026-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Patient requests to move routine follow‑up from 2026-07-15 to 2026-08-01 due to scheduled night‑shift training. Front desk confirms new appointment on 2026-08-01 at 10:00 am with Dr Kulkarni."
+    },
+    {
+      "memory_id": "X0136-m13",
+      "date": "2026-08-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports no fatigue, drives long shifts comfortably. cognition: Mini‑Cog not repeated (annual done Jan). falls: 0 falls, gait normal, timed up‑and‑go 8 seconds – normal. medicines: 1 regular (levothyroxine 75 mcg OD). mood: euthymic, no anxiety. carers: lives alone. goals: \"I’m feeling great and want to keep working.\""
+    },
+    {
+      "memory_id": "X0136-m14",
+      "date": "2026-08-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0136-m15",
+      "date": "2026-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4‑4.0) – normal\nFree T4 13.2 pmol/L (9.0‑19.0) – normal"
+    }
+  ]
+}

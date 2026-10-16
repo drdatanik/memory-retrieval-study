@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0142",
+  "name": "Razia Khan",
+  "age": 45,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0142-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy: status – stable on levetiracetam 500 mg BD and lamotrigine 50 mg BD, no breakthrough seizures in past 3 months. plan – continue current regimen, counsel on medication adherence and seizure diary, arrange EEG and basic metabolic labs, review in 3 months.\n- Weight: 68 kg, waist 84 cm (female, cut‑off 80 cm) – slightly increased. plan – advise reduced refined carbs, increase walking to 30 min daily, re‑measure at next visit.\n- Due: HbA1c not indicated (no diabetes); next review in 3 months."
+    },
+    {
+      "memory_id": "X0142-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Prescription issued: Levetiracetam 500 mg tablet, 1-0-1 (after food); Lamotrigine 50 mg tablet, 1-0-1 (after food). Continue current doses. Review in 3 months."
+    },
+    {
+      "memory_id": "X0142-m03",
+      "date": "2025-04-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Front desk booked a follow‑up visit for epilepsy management with Dr Karthik Hegde (D04) on 2025-07-01 at 10:30 am. Patient confirmed via SMS reminder."
+    },
+    {
+      "memory_id": "X0142-m04",
+      "date": "2025-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 138 mmol/L (Ref: 135-145).\nSerum Creatinine: 0.9 mg/dL (Ref: 0.5-1.1).\nBoth within normal limits."
+    },
+    {
+      "memory_id": "X0142-m05",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: awake and sleep study shows no epileptiform discharges; background activity normal for age. No focal slowing. Interpretation: no electrographic evidence of seizure activity at this time."
+    },
+    {
+      "memory_id": "X0142-m06",
+      "date": "2025-06-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Patient messaged via clinic app: ‘Over the past two weeks I have had three brief staring episodes lasting 10‑15 seconds each, not responding to verbal cues. No injury. Concerned about breakthrough seizures.’"
+    },
+    {
+      "memory_id": "X0142-m07",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy: status – patient reports three recent staring episodes suggestive of breakthrough seizures; medication levels unchanged. plan – increase levetiracetam to 750 mg BD, maintain lamotrigine 50 mg BD, counsel on seizure precautions, repeat labs in 6 weeks, review in 8 weeks.\n- Weight: 69 kg, waist 85 cm – mild central adiposity. plan – reinforce low‑glycemic diet, add 15‑minute brisk walk after meals.\n- Due: HbA1c not indicated; next review in 8 weeks."
+    },
+    {
+      "memory_id": "X0142-m08",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Prescription updated: Levetiracetam 750 mg tablet, 1-0-1 (after food); Lamotrigine 50 mg tablet, 1-0-1 (after food). Continue. Review in 8 weeks."
+    },
+    {
+      "memory_id": "X0142-m09",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 137 mmol/L (Ref: 135-145).\nSerum Creatinine: 0.88 mg/dL (Ref: 0.5-1.1).\nBoth stable and within normal range after levetiracetam dose increase."
+    },
+    {
+      "memory_id": "X0142-m10",
+      "date": "2025-09-01",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Neurology, Dr S. Rao (Consultant Neurologist) for evaluation of refractory seizure episodes despite medication adjustment. Requested EEG video monitoring and consideration of therapeutic drug levels. Please advise on further management."
+    },
+    {
+      "memory_id": "X0142-m11",
+      "date": "2025-09-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Neurology report: Video EEG showed no capture of events; intermittent generalized slowing noted. Suggested checking levetiracetam serum level (target 5-15 µg/mL) and consider adding clobazam if levels adequate. Return to endocrinology for routine follow‑up."
+    },
+    {
+      "memory_id": "X0142-m12",
+      "date": "2025-11-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy: status – patient reports no further staring episodes since August; medication adherence good. plan – maintain levetiracetam 750 mg BD, lamotrigine 50 mg BD, check levetiracetam level if available, continue seizure diary, review in 4 months.\n- Weight: 70 kg, waist 86 cm – slight increase. plan – dietary review focusing on portion control, encourage swimming twice weekly.\n- Due: HbA1c not indicated; next review in 4 months."
+    },
+    {
+      "memory_id": "X0142-m13",
+      "date": "2025-11-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Prescription adjusted: Levetiracetam 750 mg tablet, 1-0-1 (after food); Lamotrigine increased to 100 mg tablet, 1-0-1 (after food). Continue. Review in 4 months."
+    },
+    {
+      "memory_id": "X0142-m14",
+      "date": "2026-03-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 136 mmol/L (Ref: 135-145).\nSerum Creatinine: 0.90 mg/dL (Ref: 0.5-1.1).\nBoth within normal limits; no renal or electrolyte concern."
+    },
+    {
+      "memory_id": "X0142-m15",
+      "date": "2026-09-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Front desk rescheduled the follow‑up endocrinology visit from 2026-10-05 to 2026-09-20 at 09:00 am due to patient’s work schedule change. Confirmation sent via clinic app."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0573",
+  "name": "Simran Sidhu",
+  "age": 65,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Vitamin D deficiency",
+    "Irritable bowel syndrome",
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0573-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine review of vitamin D deficiency, IBS and GERD.\nPRESENTING COMPLAINT: She reports mild epigastric discomfort after meals, occasional bloating and constipation. No alarm symptoms.\nEXAMINATION: BP 138/86 mmHg, weight 68 kg, height 1.55 m, BMI 28.3 (obese). Abdomen soft, non‑tender, no organomegaly.\nIMPRESSION: 1) Vitamin D deficiency – level unknown pending labs. 2) Irritable bowel syndrome, stable. 3) Gastro‑oesophageal reflux, controlled on current pantoprazole.\nARRANGEMENTS: Advise weight reduction through balanced diet and daily 30‑min walk. Start cholecalciferol 60 000 IU once weekly for 8 weeks then 1000 IU daily. Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS for IBS. Continue pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, antacid gel SOS. Order fasting lipid profile, fasting blood sugar, serum 25‑OH‑vit D, calcium, phosphate, CBC, stool routine, tTG‑IgA. Return if: new dysphagia, unintentional weight loss, vomiting, fever >39 °C, or blood in stools."
+    },
+    {
+      "memory_id": "X0573-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 60 000 IU oral once weekly for 8 weeks, then 1000 IU OD.\nMebeverine 135 mg oral BD.\nIspaghula husk 5 g oral OD.\nLoperamide 2 mg oral SOS.\nPantoprazole 40 mg oral OD before breakfast.\nDomperidone 10 mg oral BD before meals.\nAntacid gel oral SOS."
+    },
+    {
+      "memory_id": "X0573-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH‑vit D: 12 ng/mL (ref 20‑50).\nSerum calcium: 9.2 mg/dL (ref 8.5‑10.5).\nSerum phosphate: 3.4 mg/dL (ref 2.5‑4.5).\nCBC: Hb 13.2 g/dL, WBC 6.8×10⁹/L, Plt 210×10⁹/L.\nStool routine: ova and cysts nil, pus cells 0‑1/hpf.\ntTG‑IgA: <4 U/mL (negative)."
+    },
+    {
+      "memory_id": "X0573-m04",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been taking the vitamin D granules as prescribed. My bloating has improved a bit but I still get heartburn after spicy food. Should I continue the antacid gel?"
+    },
+    {
+      "memory_id": "X0573-m05",
+      "date": "2025-07-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up on vitamin D replacement and symptom review.\nPRESENTING COMPLAINT: She says bloating is less frequent, heartburn occurs twice a week after meals, no constipation.\nEXAMINATION: BP 136/84, weight 66.5 kg, BMI 27.7 (overweight). Abdomen soft, no tenderness.\nIMPRESSION: Vitamin D deficiency improving but still low. IBS symptoms mild. GERD controlled with occasional antacid use.\nARRANGEMENTS: Encourage continued weight loss; aim for <65 kg. Increase cholecalciferol to 2000 IU OD after completing loading course. Continue mebeverine BD, ispaghula husk OD, loperamide SOS. Continue pantoprazole OD, domperidone BD, antacid gel SOS. Repeat vitamin D level in 6 weeks. Return if: worsening heartburn, dysphagia, vomiting, fever >39 °C, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0573-m06",
+      "date": "2025-07-14",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 2000 IU oral OD.\nMebeverine 135 mg oral BD.\nIspaghula husk 5 g oral OD.\nLoperamide 2 mg oral SOS.\nPantoprazole 40 mg oral OD before breakfast.\nDomperidone 10 mg oral BD before meals.\nAntacid gel oral SOS."
+    },
+    {
+      "memory_id": "X0573-m07",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH‑vit D: 22 ng/mL (ref 20‑50).\nSerum calcium: 9.4 mg/dL.\nSerum phosphate: 3.6 mg/dL."
+    },
+    {
+      "memory_id": "X0573-m08",
+      "date": "2025-09-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Upper GI endoscopy: mucosa shows mild erythema in antrum, no ulceration. Biopsy negative for H. pylori and malignancy."
+    },
+    {
+      "memory_id": "X0573-m09",
+      "date": "2025-09-20",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Dr. S. Rao, Gastroenterology, for evaluation of persistent GERD symptoms despite PPI therapy."
+    },
+    {
+      "memory_id": "X0573-m10",
+      "date": "2025-10-05",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Specialist notes: mild gastritis, no Barrett’s epithelium. Recommend continue pantoprazole 40 mg OD, lifestyle modification, and repeat endoscopy in 1 year if symptoms persist."
+    },
+    {
+      "memory_id": "X0573-m11",
+      "date": "2025-11-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine check‑up, review of gastro‑intestinal symptoms and vitamin D status.\nPRESENTING COMPLAINT: She reports occasional heartburn after heavy meals, no bloating, bowel movements regular.\nEXAMINATION: BP 138/88, weight 65.8 kg, BMI 27.3 (overweight). Abdomen soft.\nIMPRESSION: Vitamin D now sufficient. IBS asymptomatic. GERD controlled on pantoprazole.\nARRANGEMENTS: Maintain weight <65 kg with diet and walks. Continue cholecalciferol 2000 IU OD. Continue mebeverine BD only if symptoms recur; otherwise stop. Continue ispaghula husk OD, loperamide SOS. Pantoprazole OD, domperidone BD, antacid gel SOS. Order fasting lipid profile and fasting blood sugar (annual). Return if: new dysphagia, unintentional weight loss, vomiting, fever >39 °C, or melena."
+    },
+    {
+      "memory_id": "X0573-m12",
+      "date": "2025-11-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dL (<200 desirable), LDL 110 mg/dL (<130), HDL 48 mg/dL (>40), Triglycerides 130 mg/dL (<150).\nFasting blood sugar: 92 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0573-m13",
+      "date": "2026-02-18",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-05 at 10:30 am with Dr Priya Natarajan (D03) for follow‑up."
+    },
+    {
+      "memory_id": "X0573-m14",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 6‑month review of vitamin D, IBS and GERD.\nPRESENTING COMPLAINT: She feels well, no heartburn, no bloating, regular bowel motions.\nEXAMINATION: BP 136/82, weight 64.9 kg, BMI 27.0 (overweight). Abdomen soft, non‑tender.\nIMPRESSION: Vitamin D adequate. IBS in remission. GERD well controlled.\nARRANGEMENTS: Advise maintain weight <64 kg via Mediterranean‑style diet and 30‑min brisk walk 5 days/week. Reduce cholecalciferol to maintenance 1000 IU OD. Stop mebeverine (symptom‑free). Continue ispaghula husk OD, loperamide SOS. Continue pantoprazole OD, domperidone BD, antacid gel SOS. Influenza vaccine offered; patient declined (egg allergy). Return if: dysphagia, odynophagia, vomiting, fever >39 °C, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0573-m15",
+      "date": "2026-04-07",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 1000 IU oral OD.\nIspaghula husk 5 g oral OD.\nLoperamide 2 mg oral SOS.\nPantoprazole 40 mg oral OD before breakfast.\nDomperidone 10 mg oral BD before meals.\nAntacid gel oral SOS."
+    },
+    {
+      "memory_id": "X0573-m16",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH‑vit D: 28 ng/mL (ref 20‑50).\nSerum calcium: 9.5 mg/dL.\nSerum phosphate: 3.8 mg/dL.\nCBC: Hb 13.5 g/dL, WBC 7.0×10⁹/L, Plt 220×10⁹/L."
+    }
+  ]
+}

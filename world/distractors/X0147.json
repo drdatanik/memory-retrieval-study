@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0147",
+  "name": "Manoj Tiwari",
+  "age": 88,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic kidney disease",
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0147-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3 (eGFR ~45 mL/min/1.73m2).\nSymptoms: mild fatigue, occasional flank discomfort; examination: blood pressure 138/86 mmHg, lungs clear, abdomen soft, no edema. Neurological exam: straight leg raise positive at 40° on right, suggestive of lumbar sciatica. Smoking status: never. Spirometry performed: FEV1 2.8 L (92% predicted), FVC 3.2 L, FEV1/FVC 0.88. No inhaler prescribed; technique not applicable. Asthma control test not applicable. Plan: start telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD for CKD; pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD for sciatica. Review in 8 weeks with labs."
+    },
+    {
+      "memory_id": "X0147-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n pregabalin 75 mg BD\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0147-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 1.6 mg/dL (0.6-1.2)\neGFR: 44 mL/min/1.73m2 (>60 normal)\nUrine albumin‑creatinine ratio: 180 mg/g (<30 normal)\nHaemoglobin: 11.8 g/dL (13.0-17.0)\nAll other electrolytes within normal limits."
+    },
+    {
+      "memory_id": "X0147-m04",
+      "date": "2025-06-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3, stable.\nSymptoms: reduced fatigue, no new pain; examination: BP 132/84, lungs clear, trace bilateral ankle edema, neurological: straight leg raise 45° right, mild lumbar tenderness. Smoking: never. Spirometry: FEV1 2.9 L (95% pred), FVC 3.3 L, ratio 0.88; ΔFEV1 +0.1 L since last. No inhaler. Plan: continue CKD meds; increase furosemide to 40 mg OD for mild edema; repeat labs in 6 weeks."
+    },
+    {
+      "memory_id": "X0147-m05",
+      "date": "2025-06-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD\n sodium bicarbonate 500 mg BD\n pregabalin 75 mg BD\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0147-m06",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "MRI lumbar spine: L4‑L5 disc protrusion causing right‑sided neural foraminal stenosis, compressing the traversing L5 nerve root. No cord signal change. Degenerative changes at L3‑L4 mild."
+    },
+    {
+      "memory_id": "X0147-m07",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Lumbar sciatica likely secondary to disc protrusion.\nSymptoms: right leg pain radiating to foot, worsened on sitting; neurological: straight leg raise 30° right, mild weakness in ankle dorsiflexion. Examination otherwise normal. Smoking: never. Spirometry: FEV1 2.8 L (92% pred), FVC 3.2 L, ratio 0.88; ΔFEV1 0 L. No inhaler. Plan: continue pregabalin, consider short course of oral steroids; maintain CKD regimen; discuss possible epidural steroid injection."
+    },
+    {
+      "memory_id": "X0147-m08",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pregabalin 75 mg BD\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD\n prednisolone 20 mg OD for 5 days then taper"
+    },
+    {
+      "memory_id": "X0147-m09",
+      "date": "2025-09-10",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Orthopaedic Spine Clinic, Bengaluru for evaluation of L4‑L5 disc protrusion with radiculopathy. Request MRI review, consider epidural steroid injection or surgical opinion. Include recent MRI report and neurological findings."
+    },
+    {
+      "memory_id": "X0147-m10",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Orthopaedic Spine Clinic review: patient tried NSAIDs and pregabalin with partial relief. Recommended transforaminal epidural steroid injection at L4‑L5; if no improvement after 2 weeks, consider microdiscectomy. Advised to continue current meds and avoid heavy lifting."
+    },
+    {
+      "memory_id": "X0147-m11",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I’ve had sharper pain in my right buttock after the injection, but it’s better than before. My blood pressure feels okay, and I haven’t had any swelling in my feet lately.\"\n– Message via clinic app, 2025-10-05 08:12"
+    },
+    {
+      "memory_id": "X0147-m12",
+      "date": "2025-11-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Suresh Menon (D05) on 2026-03-01 at 10:30 AM. Purpose: CKD review, sciatica follow‑up, labs."
+    },
+    {
+      "memory_id": "X0147-m13",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 1.5 mg/dL (0.6-1.2)\neGFR: 48 mL/min/1.73m2 (>60 normal)\nUrine albumin‑creatinine ratio: 150 mg/g (<30 normal)\nHaemoglobin: 12.2 g/dL (13.0-17.0)\nSerum potassium: 4.6 mmol/L (3.5-5.0)\nAll other parameters stable."
+    },
+    {
+      "memory_id": "X0147-m14",
+      "date": "2026-03-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3, mild improvement in eGFR.\nSymptoms: occasional mild lumbar discomfort, no edema; examination: BP 128/82, lungs clear, trace peripheral edema, neurological: straight leg raise 50° right, mild lumbar paraspinal tenderness. Smoking: never. Spirometry: FEV1 2.9 L (95% pred), FVC 3.3 L, ratio 0.88; ΔFEV1 +0.1 L since last visit. No inhaler. Plan: continue telmisartan, dapagliflozin; reduce furosemide to 20 mg OD; add sodium bicarbonate 500 mg BD (already); maintain neuropathic agents."
+    },
+    {
+      "memory_id": "X0147-m15",
+      "date": "2026-03-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n pregabalin 75 mg BD\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0147-m16",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable chronic kidney disease and sciatica.\nSymptoms: no new symptoms, occasional mild back ache; examination: BP 130/84, lungs clear, no edema, neurological: straight leg raise 55° right, minimal tenderness. Smoking: never. Spirometry: FEV1 3.0 L (98% pred), FVC 3.4 L, ratio 0.88; ΔFEV1 +0.1 L since last. No inhaler. Plan: continue current medications, repeat labs in 4 months, advise regular walking and core strengthening."
+    }
+  ]
+}

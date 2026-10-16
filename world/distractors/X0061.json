@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0061",
+  "name": "Prakash Bhat",
+  "age": 63,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Type 2 diabetes",
+    "Depression",
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0061-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review of type 2 diabetes, depression and insomnia.\nEXAMINATION: BP 138/86 mmHg, weight 78 kg, height 1.68 m, BMI 27.6 (obese). Pulse regular, lungs clear, no peripheral neuropathy.\nIMPRESSION: Diabetes uncontrolled (HbA1c pending), depression stable on sertraline, insomnia poorly controlled.\nARRANGEMENTS: Continue metformin 500 mg BD, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Continue sertraline 50 mg OD, melatonin 3 mg HS, trazodone 50 mg HS. Order fasting lipids, fasting glucose, HbA1c, urine albumin-creatinine, TSH, vitamin B12, PHQ-9, ISI, haemoglobin. Return if chest pain, breathlessness, fever >39°C, bloody stools, worsening sadness or suicidal thoughts."
+    },
+    {
+      "memory_id": "X0061-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg tablets – take one tablet twice daily\nGlimepiride 1 mg tablet – take one tablet each morning before breakfast\nSitagliptin 100 mg tablet – take one tablet daily\nEmpagliflozin 10 mg tablet – take one tablet daily\nSertraline 50 mg tablet – take one tablet each morning\nMelatonin 3 mg tablet – take one tablet at bedtime\nTrazodone 50 mg tablet – take one tablet at bedtime"
+    },
+    {
+      "memory_id": "X0061-m03",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting plasma glucose 158 mg/dL (70-100)\nHbA1c 8.2 % (4.0-5.6)\nTotal cholesterol 210 mg/dL (<200), HDL 38 mg/dL (>40), LDL 130 mg/dL (<100), TG 190 mg/dL (<150)\nUrine albumin‑creatinine ratio 22 mg/g (<30)\nTSH 2.1 µIU/mL (0.4-4.0)\nVitamin B12 340 pg/mL (200-900)\nPHQ‑9 score 8 (0-27)\nInsomnia Severity Index score 18 (0-28)\nHaemoglobin 13.8 g/dL (13.0-17.0)"
+    },
+    {
+      "memory_id": "X0061-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up on diabetes and insomnia; reports daytime fatigue.\nEXAMINATION: BP 136/84 mmHg, weight 77.5 kg, BMI 27.5 (overweight). Feet intact, no retinopathy signs on brief fundoscopy.\nIMPRESSION: HbA1c improved to 7.6%; lipids unchanged; insomnia worse (ISI 22). Depression stable (PHQ‑9 7).\nARRANGEMENTS: Continue current diabetic regimen. Increase trazodone to 75 mg HS for insomnia; add mirtazapine 15 mg HS as needed for sleep. Reinforce diet (≤1800 kcal/day) and brisk walk 30 mins daily. Order repeat fasting lipids, HbA1c, urine ACR, TSH, vitamin B12, PHQ‑9, ISI, haemoglobin. Return if chest pain, breathlessness, fever >39°C, worsening low mood, suicidal ideation, or painful feet."
+    },
+    {
+      "memory_id": "X0061-m05",
+      "date": "2025-07-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Dilated fundus examination: No microaneurysms, no haemorrhages, no exudates. Macula appears normal. No signs of diabetic retinopathy. Recommend repeat in 12 months."
+    },
+    {
+      "memory_id": "X0061-m06",
+      "date": "2025-07-13",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting plasma glucose 132 mg/dL (70-100)\nHbA1c 7.6 % (4.0-5.6)\nTotal cholesterol 205 mg/dL (<200), HDL 39 mg/dL (>40), LDL 128 mg/dL (<100), TG 185 mg/dL (<150)\nUrine albumin‑creatinine ratio 19 mg/g (<30)\nTSH 2.0 µIU/mL (0.4-4.0)\nVitamin B12 332 pg/mL (200-900)\nPHQ‑9 score 7 (0-27)\nInsomnia Severity Index score 22 (0-28)\nHaemoglobin 13.7 g/dL (13.0-17.0)"
+    },
+    {
+      "memory_id": "X0061-m07",
+      "date": "2025-07-14",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg tablets – take one tablet twice daily\nGlimepiride 1 mg tablet – take one tablet each morning before breakfast\nSitagliptin 100 mg tablet – take one tablet daily\nEmpagliflozin 10 mg tablet – take one tablet daily\nSertraline 50 mg tablet – take one tablet each morning\nMelatonin 3 mg tablet – take one tablet at bedtime\nTrazodone 75 mg tablet – take one tablet at bedtime\nMirtazapine 15 mg tablet – take one tablet at bedtime as needed for sleep"
+    },
+    {
+      "memory_id": "X0061-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Autumn review; requests influenza vaccine.\nEXAMINATION: BP 134/82 mmHg, weight 77 kg, BMI 27.3 (overweight). No acute distress.\nIMPRESSION: Diabetes stable, insomnia improved on trazodone 75 mg + PRN mirtazapine, depression stable.\nARRANGEMENTS: Administered inactivated influenza vaccine (0.5 mL IM) today. Continue all current medicines. Advise low‑salt diet, regular exercise. Order fasting lipids, HbA1c, urine ACR, TSH, vitamin B12, PHQ‑9, ISI, haemoglobin if clinically indicated. Return if chest pain, breathlessness, fever >39°C, new rash after vaccine, worsening mood or suicidal thoughts."
+    },
+    {
+      "memory_id": "X0061-m09",
+      "date": "2025-10-04",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-15 at 10:30 AM with Dr Priya Natarajan (D03) for routine chronic disease review."
+    },
+    {
+      "memory_id": "X0061-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review; notes increased thirst and polyuria over past month.\nEXAMINATION: BP 138/88 mmHg, weight 78.2 kg, BMI 27.7 (overweight). Pedal pulses present, no ulcer.\nIMPRESSION: HbA1c risen to 8.0%; lipids borderline; depression worsening (PHQ‑9 12). Insomnia better (ISI 14).\nARRANGEMENTS: Increase metformin to 850 mg BD. Continue glimepiride, sitagliptin, empagliflozin. Change antidepressant: stop sertraline, start escitalopram 10 mg OD. Continue melatonin 3 mg HS, trazodone 50 mg HS (reduce from 75 mg). Order fasting lipids, HbA1c, urine ACR, TSH, vitamin B12, PHQ‑9, ISI, haemoglobin. Return if chest pain, breathlessness, fever >39°C, worsening sadness, suicidal thoughts, or severe hypoglycaemia."
+    },
+    {
+      "memory_id": "X0061-m11",
+      "date": "2026-01-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting plasma glucose 165 mg/dL (70-100)\nHbA1c 8.0 % (4.0-5.6)\nTotal cholesterol 212 mg/dL (<200), HDL 37 mg/dL (>40), LDL 134 mg/dL (<100), TG 200 mg/dL (<150)\nUrine albumin‑creatinine ratio 24 mg/g (<30)\nTSH 2.2 µIU/mL (0.4-4.0)\nVitamin B12 310 pg/mL (200-900)\nPHQ‑9 score 12 (0-27)\nInsomnia Severity Index score 14 (0-28)\nHaemoglobin 13.5 g/dL (13.0-17.0)"
+    },
+    {
+      "memory_id": "X0061-m12",
+      "date": "2026-01-18",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 850 mg tablets – take one tablet twice daily\nGlimepiride 1 mg tablet – take one tablet each morning before breakfast\nSitagliptin 100 mg tablet – take one tablet daily\nEmpagliflozin 10 mg tablet – take one tablet daily\nEscitalopram 10 mg tablet – take one tablet each morning\nMelatonin 3 mg tablet – take one tablet at bedtime\nTrazodone 50 mg tablet – take one tablet at bedtime"
+    },
+    {
+      "memory_id": "X0061-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up after medication change; reports low mood and poor concentration.\nEXAMINATION: BP 136/86 mmHg, weight 77.9 kg, BMI 27.4 (overweight). No focal neurology.\nIMPRESSION: Depression worsening despite escitalopram (PHQ‑9 15). Diabetes HbA1c 7.8%; lipids stable. Insomnia controlled (ISI 10).\nARRANGEMENTS: Add mirtazapine 15 mg HS nightly (continue as needed). Continue escitalopram 10 mg OD, metformin 850 mg BD, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD, melatonin 3 mg HS, trazodone 50 mg HS. Order repeat TSH, vitamin B12, PHQ‑9, ISI, haemoglobin, fasting lipids, HbA1c, urine ACR. Return if chest pain, breathlessness, fever >39°C, worsening low mood, suicidal thoughts, or severe hypoglycaemia."
+    },
+    {
+      "memory_id": "X0061-m14",
+      "date": "2026-04-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 µIU/mL (0.4-4.0)\nVitamin B12 298 pg/mL (200-900)\nPHQ‑9 score 15 (0-27)\nInsomnia Severity Index score 10 (0-28)\nHaemoglobin 13.4 g/dL (13.0-17.0)\nFasting plasma glucose 148 mg/dL (70-100)\nHbA1c 7.8 % (4.0-5.6)\nTotal cholesterol 208 mg/dL (<200), HDL 38 mg/dL (>40), LDL 130 mg/dL (<100), TG 190 mg/dL (<150)\nUrine albumin‑creatinine ratio 21 mg/g (<30)"
+    },
+    {
+      "memory_id": "X0061-m15",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review; reports improved sleep and mood.\nEXAMINATION: BP 132/80 mmHg, weight 77.5 kg, BMI 27.2 (overweight).\nIMPRESSION: Insomnia much better (ISI 6). Depression improved (PHQ‑9 9). Diabetes HbA1c 7.6%; lipids within target.\nARRANGEMENTS: Stop trazodone (no longer needed). Continue melatonin 3 mg HS. Continue escitalopram 10 mg OD, mirtazapine 15 mg HS PRN, metformin 850 mg BD, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Order fasting lipids, HbA1c, urine ACR, TSH, vitamin B12, PHQ‑9, ISI, haemoglobin if clinically indicated. Return if chest pain, breathlessness, fever >39°C, worsening low mood, suicidal thoughts, or severe hypoglycaemia."
+    },
+    {
+      "memory_id": "X0061-m16",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting plasma glucose 140 mg/dL (70-100)\nHbA1c 7.6 % (4.0-5.6)\nTotal cholesterol 203 mg/dL (<200), HDL 40 mg/dL (>40), LDL 125 mg/dL (<100), TG 175 mg/dL (<150)\nUrine albumin‑creatinine ratio 18 mg/g (<30)\nTSH 2.0 µIU/mL (0.4-4.0)\nVitamin B12 305 pg/mL (200-900)\nPHQ‑9 score 9 (0-27)\nInsomnia Severity Index score 6 (0-28)\nHaemoglobin 13.6 g/dL (13.0-17.0)"
+    }
+  ]
+}

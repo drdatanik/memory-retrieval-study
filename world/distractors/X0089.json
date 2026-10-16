@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0089",
+  "name": "Kamala Subramanian",
+  "age": 23,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0089-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: acute left-sided sciatica.\nPRESENTING COMPLAINT: She reports 10‑day history of sharp left buttock pain radiating to the posterior thigh, worse on sitting and forward bending. No bowel/bladder disturbance.\nEXAMINATION: BP 118/76 mmHg, weight 58 kg, height 1.60 m, BMI 22.6 (normal). Straight leg raise positive at 40° left, negative right. Lumbar spine tenderness paraspinally L4‑L5.\nIMPRESSION: Acute lumbar radiculopathy (sciatica) likely discogenic.\nARRANGEMENTS: Started pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD. Advised heat application, gentle stretching, avoid heavy lifting. Return if: chest pain, breathlessness, fever >39°C, new numbness/weakness, bowel/bladder incontinence, or worsening pain despite meds."
+    },
+    {
+      "memory_id": "X0089-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "pregabalin 75 mg BD\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0089-m03",
+      "date": "2025-04-02",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Straight leg raise test: Left leg positive at 40°, right leg negative. Suggests left L5‑S1 radiculopathy."
+    },
+    {
+      "memory_id": "X0089-m04",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up on sciatica.\nPRESENTING COMPLAINT: Pain decreased to 3/10, occasional tingling in left foot. Able to sit longer.\nEXAMINATION: BP 120/78 mmHg, weight 58 kg, BMI 22.6 (normal). Straight leg raise now 50° left. No spinal tenderness.\nIMPRESSION: Improving radiculopathy, likely resolving.\nARRANGEMENTS: Continue current meds. Advised graded walking, core strengthening. Return if: chest pain, breathlessness, fever >39°C, new weakness, bowel/bladder change, or pain >5/10."
+    },
+    {
+      "memory_id": "X0089-m05",
+      "date": "2025-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D 25‑OH: 22 ng/mL (ref 30‑100). Insufficient."
+    },
+    {
+      "memory_id": "X0089-m06",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "MRI lumbar spine: L4‑L5 disc bulge causing left lateral recess narrowing, compressing exiting L5 nerve root. No cord compression."
+    },
+    {
+      "memory_id": "X0089-m07",
+      "date": "2025-09-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: discuss MRI findings.\nPRESENTING COMPLAINT: Pain 4/10, intermittent tingling.\nEXAMINATION: BP 119/77 mmHg, weight 58 kg, BMI 22.6 (normal). Straight leg raise 48° left.\nIMPRESSION: MRI shows L4‑L5 disc bulge with L5 radiculopathy, correlating with symptoms.\nARRANGEMENTS: Continue pregabalin, diclofenac, methylcobalamin. Add vitamin D3 1000 IU OD. Physiotherapy referral sent. Return if: chest pain, breathlessness, fever >39°C, worsening weakness, bowel/bladder symptoms."
+    },
+    {
+      "memory_id": "X0089-m08",
+      "date": "2025-09-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "pregabalin 75 mg BD\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD\n cholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0089-m09",
+      "date": "2025-11-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-12-10 at 10:00 with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0089-m10",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: physiotherapy progress review.\nPRESENTING COMPLAINT: Pain 2/10, occasional mild ache after therapy.\nEXAMINATION: BP 118/75 mmHg, weight 58 kg, BMI 22.6 (normal). Straight leg raise 55° left.\nIMPRESSION: Continued improvement, mild residual discomfort.\nARRANGEMENTS: Continue meds. Advice to maintain core exercises, avoid prolonged sitting. Return if: chest pain, breathlessness, fever >39°C, new numbness/weakness, bowel/bladder change, or pain >4/10."
+    },
+    {
+      "memory_id": "X0089-m11",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 168 mg/dL (<200), LDL 95 mg/dL (<130), HDL 52 mg/dL (>40), triglycerides 88 mg/dL (<150). Fasting blood sugar 84 mg/dL (70‑99). All within normal limits."
+    },
+    {
+      "memory_id": "X0089-m12",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: gastric discomfort after diclofenac.\nPRESENTING COMPLAINT: Epigastric burning after meals, no vomiting. Sciatica pain 1/10.\nEXAMINATION: BP 122/80 mmHg, weight 58 kg, BMI 22.6 (normal). Abdomen soft, mild epigastric tenderness.\nIMPRESSION: Likely NSAID‑induced gastritis; sciatica well controlled.\nARRANGEMENTS: Stop diclofenac. Continue pregabalin 75 mg BD, methylcobalamin 1500 mcg OD, vitamin D3 1000 IU OD. Prescribe pantoprazole 40 mg OD for 2 weeks. Return if: chest pain, breathlessness, fever >39°C, vomiting, melena, or worsening back pain."
+    },
+    {
+      "memory_id": "X0089-m13",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "pregabalin 75 mg BD\n methylcobalamin 1500 mcg OD\n cholecalciferol 1000 IU OD\n pantoprazole 40 mg OD (2 weeks)"
+    },
+    {
+      "memory_id": "X0089-m14",
+      "date": "2026-08-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "X‑ray lumbar spine (AP and lateral): L4‑L5 disc space mildly narrowed, no frank fracture or significant degenerative change. Alignment preserved."
+    }
+  ]
+}

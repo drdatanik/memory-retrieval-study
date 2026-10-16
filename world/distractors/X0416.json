@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0416",
+  "name": "Sumathi Murthy",
+  "age": 56,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0416-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, manages household chores without assistance.\ncognition: Mini-Cog score 4/5, no concerns.\nfalls: No falls in past 12 months; gait normal; timed up-and-go 10 seconds.\nmedicines: 2 regular (melatonin 3 mg HS, trazodone 50 mg HS).\nmood: Reports occasional low mood, denies depression.\ncarers: Ramesh, husband.\ngoals: \"I want to sleep better and feel more energetic each day.\""
+    },
+    {
+      "memory_id": "X0416-m02",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (ref 0.4-4.0); Haemoglobin 13.2 g/dL (ref 12.0-16.0); Insomnia Severity Index score 15 (0-28)."
+    },
+    {
+      "memory_id": "X0416-m03",
+      "date": "2025-04-22",
+      "type": "prescription",
+      "author": "D06",
+      "text": "melatonin 3 mg HS, 30 days\ntrazodone 50 mg HS, 30 days"
+    },
+    {
+      "memory_id": "X0416-m04",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent, reports mild fatigue afternoon.\ncognition: Mini-Cog score 4/5, stable.\nfalls: No falls in past 12 months; gait normal; timed up-and-go 11 seconds.\nmedicines: 2 regular (melatonin 3 mg HS, trazodone 50 mg HS).\nmood: Mood stable, denies anxiety.\ncarers: Ramesh, husband.\ngoals: \"I wish to wake up refreshed and reduce daytime tiredness.\""
+    },
+    {
+      "memory_id": "X0416-m05",
+      "date": "2025-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.3 mIU/L (ref 0.4-4.0); Haemoglobin 13.0 g/dL (ref 12.0-16.0); Insomnia Severity Index score 12 (0-28)."
+    },
+    {
+      "memory_id": "X0416-m06",
+      "date": "2025-08-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "melatonin 3 mg HS, 30 days\ntrazodone 50 mg HS, 30 days"
+    },
+    {
+      "memory_id": "X0416-m07",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent, occasional difficulty climbing stairs.\ncognition: Mini-Cog score 3/5, mild decline noted.\nfalls: One fall in past 12 months (tripped on rug); gait slightly unsteady; timed up-and-go 13 seconds (raised fall risk). Plan: home exercise program and supportive footwear.\nmedicines: 2 regular (melatonin 3 mg HS, trazodone 50 mg HS). Polypharmacy screen not applicable (<5).\nmood: Reports low mood, tearfulness occasional.\ncarers: Ramesh, husband.\ngoals: \"I want to feel steadier on my feet and improve my mood.\""
+    },
+    {
+      "memory_id": "X0416-m08",
+      "date": "2025-12-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.5 mIU/L (ref 0.4-4.0); Haemoglobin 12.8 g/dL (ref 12.0-16.0); Insomnia Severity Index score 18 (0-28)."
+    },
+    {
+      "memory_id": "X0416-m09",
+      "date": "2025-12-06",
+      "type": "prescription",
+      "author": "D06",
+      "text": "melatonin 3 mg HS, 30 days\ntrazodone 50 mg HS, 30 days\nlow-dose sertraline 25 mg daily, 30 days"
+    },
+    {
+      "memory_id": "X0416-m10",
+      "date": "2026-04-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages home with occasional assistance from husband for heavy chores.\ncognition: Mini-Cog score 3/5, stable; plan for full neuropsych assessment.\nfalls: No new falls; gait cautious; timed up-and-go 12 seconds (borderline risk). Advised balance exercises.\nmedicines: 3 regular (melatonin 3 mg HS, trazodone 50 mg HS, sertraline 25 mg daily). Polypharmacy not reached.\nmood: Improved mood, reports better sleep.\ncarers: Ramesh, husband.\ngoals: \"I want to maintain my independence and enjoy time with my grandchildren.\""
+    },
+    {
+      "memory_id": "X0416-m11",
+      "date": "2026-04-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.4 mIU/L (ref 0.4-4.0); Haemoglobin 13.1 g/dL (ref 12.0-16.0); Insomnia Severity Index score 10 (0-28)."
+    },
+    {
+      "memory_id": "X0416-m12",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "melatonin 3 mg HS, 30 days\ntrazodone 50 mg HS, 30 days\nsertraline 25 mg daily, 30 days"
+    },
+    {
+      "memory_id": "X0416-m13",
+      "date": "2026-06-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-07-01 10:30 with Dr Nandini Kulkarni (D06) for follow-up."
+    },
+    {
+      "memory_id": "X0416-m14",
+      "date": "2026-08-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent, reports good energy levels.\ncognition: Mini-Cog score 4/5, improvement noted.\nfalls: No falls in past 12 months; gait normal; timed up-and-go 10 seconds.\nmedicines: 3 regular (melatonin 3 mg HS, trazodone 50 mg HS, sertraline 25 mg daily). Polypharmacy not applicable.\nmood: Mood stable, denies depression.\ncarers: Ramesh, husband.\ngoals: \"I want to keep sleeping well and stay active.\""
+    }
+  ]
+}

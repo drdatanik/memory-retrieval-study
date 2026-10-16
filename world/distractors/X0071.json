@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0071",
+  "name": "Milind Chavan",
+  "age": 26,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0071-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia with gastro-oesophageal reflux disease.\nPatient reports fatigue, pallor, occasional heartburn after meals, and mild epigastric discomfort. On examination: pallor noted, mild epigastric tenderness, no hepatosplenomegaly, vitals stable.\nSmoking status: never smoked, pack-years 0.\nPlan: start ferrous sulfate 200 mg OD, pantoprazole 40 mg OD before breakfast, antacid gel SOS, domperidone 10 mg BD before meals. Review in 3 months with labs."
+    },
+    {
+      "memory_id": "X0071-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "ferrous sulfate 200 mg OD\npantoprazole 40 mg OD before breakfast\nantacid gel SOS\ndomperidone 10 mg BD before meals"
+    },
+    {
+      "memory_id": "X0071-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 9.8 g/dL (13.0-17.0)\nSerum ferritin: 12 ng/mL (30-400)\nMCV: 68 fL (80-100)"
+    },
+    {
+      "memory_id": "X0071-m04",
+      "date": "2025-04-06",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been taking the iron tablets but my stomach feels a bit upset after breakfast. The heartburn is better with the pantoprazole, though I still need antacid after spicy meals."
+    },
+    {
+      "memory_id": "X0071-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia improving, gastro-oesophageal reflux controlled.\nPatient feels less fatigued, occasional heartburn only after spicy food, no epigastric pain. Examination: pallor markedly improved, abdomen soft, no tenderness.\nSmoking status: never smoked, pack-years 0.\nPlan: continue ferrous sulfate 200 mg OD, pantoprazole 40 mg OD, consider switching iron to alternate days if ferritin normalizes. Review in 3 months."
+    },
+    {
+      "memory_id": "X0071-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "ferrous sulfate 200 mg OD\npantoprazole 40 mg OD before breakfast\nantacid gel SOS\ndomperidone 10 mg BD before meals"
+    },
+    {
+      "memory_id": "X0071-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 12.4 g/dL (13.0-17.0)\nSerum ferritin: 45 ng/mL (30-400)\nMCV: 78 fL (80-100)"
+    },
+    {
+      "memory_id": "X0071-m08",
+      "date": "2025-07-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-10-02 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0071-m09",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia near resolution, gastro-oesophageal reflux well controlled.\nPatient reports no fatigue, occasional heartburn after large meals, relieved by antacid. Examination: no pallor, abdomen soft, no tenderness.\nSmoking status: never smoked, pack-years 0.\nPlan: change ferrous sulfate to 200 mg on alternate days, continue pantoprazole 40 mg OD, antacid gel SOS, domperidone 10 mg BD. Check Hb and ferritin in 3 months."
+    },
+    {
+      "memory_id": "X0071-m10",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "ferrous sulfate 200 mg on alternate days\npantoprazole 40 mg OD before breakfast\nantacid gel SOS\ndomperidone 10 mg BD before meals"
+    },
+    {
+      "memory_id": "X0071-m11",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 13.6 g/dL (13.0-17.0)\nSerum ferritin: 78 ng/mL (30-400)\nMCV: 82 fL (80-100)"
+    },
+    {
+      "memory_id": "X0071-m12",
+      "date": "2025-10-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (negative cut-off <0.9 IU/mL)"
+    },
+    {
+      "memory_id": "X0071-m13",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia resolved, gastro-oesophageal reflux asymptomatic.\nPatient denies fatigue or heartburn, takes antacid only rarely. Examination: normal colour, abdomen soft, no tenderness.\nSmoking status: never smoked, pack-years 0.\nPlan: continue ferrous sulfate 200 mg on alternate days, pantoprazole 40 mg OD, antacid gel SOS, domperidone 10 mg BD. Review in 3 months."
+    },
+    {
+      "memory_id": "X0071-m14",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "ferrous sulfate 200 mg on alternate days\npantoprazole 40 mg OD before breakfast\nantacid gel SOS\ndomperidone 10 mg BD before meals"
+    },
+    {
+      "memory_id": "X0071-m15",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 14.2 g/dL (13.0-17.0)\nSerum ferritin: 112 ng/mL (30-400)\nMCV: 86 fL (80-100)"
+    },
+    {
+      "memory_id": "X0071-m16",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron stores adequate, gastro-oesophageal reflux in remission.\nPatient feels well, no symptoms, takes pantoprazole occasionally for breakthrough heartburn after coffee. Examination: normal.\nSmoking status: never smoked, pack-years 0.\nPlan: stop ferrous sulfate, continue pantoprazole 40 mg OD, antacid gel SOS, domperidone 10 mg BD as needed. Review in 6 months."
+    },
+    {
+      "memory_id": "X0071-m17",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg OD before breakfast\nantacid gel SOS\ndomperidone 10 mg BD before meals"
+    },
+    {
+      "memory_id": "X0071-m18",
+      "date": "2026-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: rescheduled from 2026-10-10 to 2026-10-05 at 09:30 AM with Dr Suresh Menon (D05)."
+    }
+  ]
+}

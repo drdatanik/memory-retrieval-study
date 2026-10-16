@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0022",
+  "name": "Balasubramanian Pandian",
+  "age": 42,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0022-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro‑oesophageal reflux: status – persistent heartburn after meals, occasional regurgitation; plan – start pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, antacid gel SOS; advise small frequent meals, avoid lying down within 2 h of food, elevate head of bed; weight 78 kg, waist 92 cm (above male cut‑off 90 cm).\n- Lifestyle: status – sedentary accountant, minimal exercise; plan – brisk walk 30 min daily, reduce caffeine and spicy food.\nDue: HbA1c not indicated (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0022-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 40 mg OD before breakfast; Domperidone 10 mg BD before meals; Antacid gel SOS."
+    },
+    {
+      "memory_id": "X0022-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (<0.9 IU/mL). Reference range: Negative <0.9, Positive ≥0.9."
+    },
+    {
+      "memory_id": "X0022-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I still have occasional burning after dinner, but less frequent. No vomiting or difficulty swallowing."
+    },
+    {
+      "memory_id": "X0022-m05",
+      "date": "2025-06-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro‑oesophageal reflux: status – heartburn frequency down to 2‑3 days/week, mild intensity; plan – continue pantoprazole 40 mg OD before breakfast, stop domperidone, keep antacid gel SOS; reinforce meal timing, avoid late‑night snacks.\n- Weight: 77 kg, waist 90 cm (at cut‑off).\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0022-m06",
+      "date": "2025-06-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-08-05 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0022-m07",
+      "date": "2025-08-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro‑oesophageal reflux: status – occasional heartburn after heavy meals, otherwise asymptomatic; plan – continue pantoprazole 40 mg OD before breakfast, consider taper after 3 months if symptoms remain absent; continue lifestyle measures.\n- Weight: 76 kg, waist 88 cm (below cut‑off).\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0022-m08",
+      "date": "2025-09-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Last week I woke up with a sour taste and mild throat burning; took antacid gel and it improved."
+    },
+    {
+      "memory_id": "X0022-m09",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro‑oesophageal reflux: status – nocturnal symptoms returning 2‑3 nights/week, mild‑moderate; plan – continue pantoprazole 40 mg OD before breakfast, add evening dose of pantoprazole 20 mg after dinner for 2 weeks, review; reinforce head‑of‑bed elevation.\n- Weight: 76 kg, waist 89 cm.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0022-m10",
+      "date": "2025-10-05",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Dr Sumanth Reddy, Gastroenterology, Vikram Hospital, for upper GI endoscopy to assess refractory reflux symptoms."
+    },
+    {
+      "memory_id": "X0022-m11",
+      "date": "2025-10-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Upper GI endoscopy: Los Angeles grade A erosive esophagitis in distal esophagus, no Barrett’s epithelium, H. pylori negative on biopsy."
+    },
+    {
+      "memory_id": "X0022-m12",
+      "date": "2025-11-02",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Gastroenterologist confirms mild erosive esophagitis, recommends continue PPI twice daily for 8 weeks then taper to once daily, lifestyle modification, repeat symptoms review in 3 months."
+    },
+    {
+      "memory_id": "X0022-m13",
+      "date": "2025-11-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro‑oesophageal reflux: status – endoscopy shows grade A erosions; plan – pantoprazole 40 mg OD before breakfast + 20 mg after dinner for 8 weeks, then taper to 40 mg OD; continue antacid gel SOS; weight 75 kg, waist 87 cm.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0022-m14",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro‑oesophageal reflux: status – heartburn reduced to 1‑2 days/week after taper start; plan – continue pantoprazole 40 mg OD before breakfast, stop evening dose, monitor; lifestyle advice reinforced.\n- Weight: 75 kg, waist 86 cm.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0022-m15",
+      "date": "2026-03-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro‑oesophageal reflux: status – asymptomatic on pantoprazole 40 mg OD; plan – attempt taper to pantoprazole 20 mg OD for 4 weeks, then assess; if symptoms recur, restart 40 mg OD.\n- Weight: 74 kg, waist 84 cm (below cut‑off).\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0022-m16",
+      "date": "2026-06-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro‑oesophageal reflux: status – symptoms well controlled on pantoprazole 20 mg OD; plan – continue current dose, review in 3 months.\n- Weight: 73 kg, waist 82 cm (at female cut‑off, male below).\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0022-m17",
+      "date": "2026-09-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro‑oesophageal reflux: status – no heartburn or regurgitation on pantoprazole 20 mg OD; plan – maintain dose, annual lifestyle review.\n- Weight: 73 kg, waist 81 cm.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0022-m18",
+      "date": "2026-10-11",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: moved from 2026-10-12 to 2026-10-11 at 09:00 am with Dr Karthik Hegde (D04) for routine follow‑up."
+    }
+  ]
+}

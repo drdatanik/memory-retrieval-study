@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0007",
+  "name": "Rahim Syed",
+  "age": 78,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Benign prostatic hyperplasia",
+    "Psoriasis",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0007-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign prostatic hyperplasia, psoriasis, and hypertension.\nPatient reports mild urinary frequency, occasional nocturia, and stable psoriasis plaques on elbows and knees. Blood pressure measured 142/88 mmHg, pulse 78, BMI 27. Prostate exam shows mildly enlarged, smooth gland. Skin exam reveals well-demarcated erythematous plaques with silvery scale. Smoking status: never smoked. Pack-years: 0."
+    },
+    {
+      "memory_id": "X0007-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "tamsulosin 0.4 mg HS\nfinasteride 5 mg OD\nclobetasol 0.05% cream BD topically\ncalcipotriol ointment OD topically\nmethotrexate 7.5 mg once weekly with folic acid 5 mg OD\namlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0007-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA: 4.2 ng/mL (ref 0-4.0) – slightly elevated.\nUrine routine: pH 6.0, negative for leukocyte esterase, nitrites, blood; few squamous cells.\nUltrasound KUB: Prostate volume 28 mL, post‑void residual 25 mL; no hydronephrosis.\nLiver function: ALT 32 U/L (ref ≤40), AST 28 U/L (ref ≤35), ALP 78 U/L (ref 40‑129), GGT 45 U/L (ref ≤51), total bilirubin 0.9 mg/dL (ref 0.2‑1.2).\nCBC: Hb 13.8 g/dL (ref 13.0‑17.0), WBC 6.2×10⁹/L (ref 4.0‑10.0), platelets 210×10⁹/L (ref 150‑400).\nSerum creatinine: 0.96 mg/dL (ref 0.6‑1.2); eGFR 78 mL/min/1.73m² (ref >60).\nSerum potassium: 4.3 mmol/L (ref 3.5‑5.0)."
+    },
+    {
+      "memory_id": "X0007-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "ECG: Sinus rhythm, rate 72 bpm. No ST‑T changes. Left ventricular voltage within normal limits. No evidence of prior infarction."
+    },
+    {
+      "memory_id": "X0007-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been noticing I need to get up twice at night to pass urine, and my skin patches are itchy but not worsening. My BP feels okay; I take my tablets as prescribed."
+    },
+    {
+      "memory_id": "X0007-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign prostatic hyperplasia, psoriasis, hypertension.\nPatient reports nocturia reduced to once nightly, mild improvement in psoriasis itch after topical steroids. Blood pressure 138/84 mmHg. No new symptoms. Prostate exam unchanged. Skin plaques less erythematous. Smoking status: never smoked. Pack-years: 0."
+    },
+    {
+      "memory_id": "X0007-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "tamsulosin 0.4 mg HS\nfinasteride 5 mg OD\nclobetasol 0.05% cream BD topically\ncalcipotriol ointment OD topically\nmethotrexate 10 mg once weekly with folic acid 5 mg OD\namlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0007-m08",
+      "date": "2025-07-10",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Dermatology, Dr. Priya Rao, for refractory psoriasis plaques despite topical therapy, to consider systemic agent or phototherapy."
+    },
+    {
+      "memory_id": "X0007-m09",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function: ALT 38 U/L (ref ≤40), AST 30 U/L (ref ≤35), ALP 80 U/L (ref 40‑129), GGT 48 U/L (ref ≤51), total bilirubin 0.8 mg/dL (ref 0.2‑1.2).\nCBC: Hb 13.9 g/dL (ref 13.0‑17.0), WBC 6.0×10⁹/L (ref 4.0‑10.0), platelets 208×10⁹/L (ref 150‑400).\nSerum creatinine: 0.97 mg/dL (ref 0.6‑1.2); eGFR 77 mL/min/1.73m².\nSerum potassium: 4.2 mmol/L (ref 3.5‑5.0).\nPSA: 4.0 ng/mL (ref 0‑4.0) – at upper limit of normal."
+    },
+    {
+      "memory_id": "X0007-m10",
+      "date": "2025-08-15",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Dermatology review: Plaques mild‑moderate, PASI 6. Recommended narrow‑band UVB phototherapy twice weekly; continue current topicals. No need for systemic methotrexate dose increase at this time."
+    },
+    {
+      "memory_id": "X0007-m11",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign prostatic hyperplasia, psoriasis, hypertension.\nPatient reports occasional urgency but no incontinence; psoriasis plaques stable on phototherapy. Blood pressure 150/92 mmHg, slight rise. Prostate exam: mildly enlarged, no nodules. Skin: plaques thinner, less scale. Smoking status: never smoked. Pack-years: 0."
+    },
+    {
+      "memory_id": "X0007-m12",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "tamsulosin 0.4 mg HS\nfinasteride 5 mg OD\nclobetasol 0.05% cream BD topically\ncalcipotriol ointment OD topically\nmethotrexate 10 mg once weekly with folic acid 5 mg OD\namlodipine 10 mg OD (increased from 5 mg)\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0007-m13",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA: 4.1 ng/mL (ref 0‑4.0) – marginally elevated.\nUrine routine: pH 6.2, negative for leukocyte esterase, nitrites, blood; few epithelial cells.\nUltrasound KUB: Prostate volume 30 mL, post‑void residual 28 mL; no post‑obstructive changes.\nLiver function: ALT 35 U/L (ref ≤40), AST 27 U/L (ref ≤35), ALP 76 U/L (ref 40‑129), GGT 44 U/L (ref ≤51), total bilirubin 0.9 mg/dL (ref 0.2‑1.2).\nCBC: Hb 13.7 g/dL (ref 13.0‑17.0), WBC 5.9×10⁹/L (ref 4.0‑10.0), platelets 212×10⁹/L (ref 150‑400).\nSerum creatinine: 0.98 mg/dL (ref 0.6‑1.2); eGFR 76 mL/min/1.73m².\nSerum potassium: 4.1 mmol/L (ref 3.5‑5.0)."
+    },
+    {
+      "memory_id": "X0007-m14",
+      "date": "2026-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-12 09:30 with Dr Suresh Menon (D05) for routine review of BPH, psoriasis, and hypertension."
+    }
+  ]
+}

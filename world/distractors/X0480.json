@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0480",
+  "name": "Amit Mishra",
+  "age": 53,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Migraine",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0480-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, works as postal worker, reports occasional migraine limiting activity.\ncognition: Mini-Cog 4/5 (negative).\nfalls: no falls in past 12 months, gait normal, timed up-and-go 9 seconds.\nmedicines: 0 regular (new patient).\nmood: reports occasional irritability, denies depression.\ncarers: spouse Priya, partner.\ngoal: \"I want to keep working without migraines stopping me.\""
+    },
+    {
+      "memory_id": "X0480-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol 40 mg OD\nsumatriptan 50 mg SOS\ntopiramate 25 mg HS\nnaproxen 500 mg SOS\nsalbutamol MDI SOS\nbudesonide-formoterol 200/6 inhaler BD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0480-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 2.8 L (80% predicted), FVC 3.6 L (85% predicted), FEV1/FVC 78% (normal).\nAsthma Control Test score: 22/25 (well controlled)."
+    },
+    {
+      "memory_id": "X0480-m04",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Neurological examination: normal cranial nerves, no focal deficits, normal coordination and gait.\nCT head (non‑contrast): no acute hemorrhage, infarct or mass; within normal limits."
+    },
+    {
+      "memory_id": "X0480-m05",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: works full‑time, migraines reduced to 2‑3 per month, reports occasional wheeze after exertion.\ncognition: Mini-Cog 4/5 (negative).\nfalls: no falls, gait normal, timed up-and-go 9 seconds.\nmedicines: 7 regular (polypharmacy) – review against Beers criteria advised.\nmood: stable, denies anxiety or depression.\ncarers: spouse Priya, partner.\ngoal: \"I’d like fewer migraine days and to keep my breathing easy.\""
+    },
+    {
+      "memory_id": "X0480-m06",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol 60 OD (increased for better migraine prophylaxis)\nsumatriptan 50 mg SOS\ntopiramate 25 mg HS\nnaproxen 500 mg SOS\nsalbutamol MDI SOS\nbudesonide-formoterol 200/6 inhaler BD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0480-m07",
+      "date": "2025-09-15",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Neurology, Dr S. Reddy, for refractory migraine despite prophylactic propranolol and topiramate. Request advice on preventive options and possible botulinum toxin."
+    },
+    {
+      "memory_id": "X0480-m08",
+      "date": "2025-10-20",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Neurology reply: migraine frequency now 1‑2/month on current regimen. Suggest continue propranolol 60 mg OD, consider adding amitriptyline 10 mg HS if needed. No botulinum toxin indicated at present."
+    },
+    {
+      "memory_id": "X0480-m09",
+      "date": "2025-11-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been having more sinus pressure and my asthma feels a bit tighter when I climb stairs to the fourth floor at work. My headaches are still rare but I worry about the sinus."
+    },
+    {
+      "memory_id": "X0480-m10",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: works full‑time, occasional sinus congestion, asthma symptoms mild with exertion.\ncognition: Mini-Cog 4/5 (negative).\nfalls: no falls, gait normal, timed up-and-go 9 seconds.\nmedicines: 7 regular (polypharmacy) – review against Beers criteria advised.\nmood: reports mild frustration with sinus, denies depression.\ncarers: spouse Priya, partner.\ngoal: \"I want to breathe easily on my routes and keep headaches away.\""
+    },
+    {
+      "memory_id": "X0480-m11",
+      "date": "2026-03-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Complete blood count: Hb 14.8 g/dL (13‑17), WBC 6.2 x10^9/L (4‑10), platelets 210 x10^9/L (150‑400).\nBasic metabolic panel: Na 138 mmol/L (135‑145), K 4.2 (3.5‑5.0), creatinine 0.9 mg/dL (0.6‑1.2).\nVitamin D 22 ng/mL (insufficient)."
+    },
+    {
+      "memory_id": "X0480-m12",
+      "date": "2026-04-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Spirometry with reversibility: FEV1 2.7 L (78% pred), FVC 3.5 L (83% pred), FEV1/FVC 77%. Post‑bronchodilator FEV1 2.9 L (84% pred) – 7% improvement, consistent with asthma.\nAsthma Control Test score: 20/25 (well controlled)."
+    },
+    {
+      "memory_id": "X0480-m13",
+      "date": "2026-05-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Nandini Kulkarni (D06) on 2026-07-01 at 10:30 am. Reason: routine follow‑up and medication review."
+    },
+    {
+      "memory_id": "X0480-m14",
+      "date": "2026-07-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: works full‑time, sinus improved with nasal saline, asthma controlled, no wheeze.\ncognition: Mini-Cog 4/5 (negative).\nfalls: no falls, gait normal, timed up-and-go 9 seconds.\nmedicines: 6 regular (polypharmacy) – review against Beers criteria advised.\nmood: stable, denies depression or anxiety.\ncarers: spouse Priya, partner.\ngoal: \"I’d like to stay migraine‑free and keep my breathing easy for my walks.\""
+    },
+    {
+      "memory_id": "X0480-m15",
+      "date": "2026-07-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol 60 OD (continued)\nsumatriptan 50 mg SOS\ntopiramate 25 mg HS – stopped due to paresthesia\nnaproxen 500 mg SOS\nsalbutamol MDI SOS\nbudesonide-formoterol 200/6 inhaler BD\nmontelukast 10 mg HS\n amitriptyline 10 mg HS (added for migraine prophylaxis)"
+    },
+    {
+      "memory_id": "X0480-m16",
+      "date": "2026-08-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D repeat after supplementation: 32 ng/mL (sufficient).\nLipids: total cholesterol 185 mg/dL (<200), HDL 48 (>40), LDL 105 (<130), triglycerides 120 (<150).\nHbA1c 5.6% (<5.7)."
+    }
+  ]
+}

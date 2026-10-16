@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0243",
+  "name": "Sanjeev Tiwari",
+  "age": 26,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0243-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus. Patient reports fatigue and occasional polyuria; random capillary glucose 180 mg/dL. BMI 28 kg/m2, BP 128/82, lungs clear. Spirometry: FEV1 3.20 L (92% pred), FVC 3.80 L (95% pred), FEV1/FVC 0.84; change from baseline +0.10 L. ACT score 22 (well controlled). Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0243-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg BD\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0243-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8%\nFasting plasma glucose 146 mg/dL\nUrine albumin‑creatinine ratio 22 mg/g (ref <30)"
+    },
+    {
+      "memory_id": "X0243-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus. Patient feels better, occasional post‑prandial hyperglycemia. Weight 78 kg, BP 130/80, lungs clear. Spirometry: FEV1 3.25 L (94% pred), FVC 3.85 L (96% pred), FEV1/FVC 0.84; ΔFEV1 +0.05 L. ACT score 21 (well controlled). Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0243-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 850 mg BD\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0243-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2%\nFasting plasma glucose 128 mg/dL"
+    },
+    {
+      "memory_id": "X0243-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus. Patient reports occasional mild hypoglycemia before breakfast. Weight 77 kg, BP 128/78, lungs clear. Spirometry: FEV1 3.22 L (93% pred), FVC 3.82 L (95% pred), FEV1/FVC 0.84; ΔFEV1 -0.03 L. ACT score 20 (well controlled). Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0243-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 850 mg BD\nGlimepiride 0.5 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0243-m09",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.9%\nFasting plasma glucose 119 mg/dL\nUrine albumin‑creatinine ratio 18 mg/g"
+    },
+    {
+      "memory_id": "X0243-m10",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling dizzy in the mornings after taking my meds. My fasting sugars have been around 90‑100 mg/dL."
+    },
+    {
+      "memory_id": "X0243-m11",
+      "date": "2026-01-16",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Rescheduled review from 2026-02-01 to 2026-04-20 10:00."
+    },
+    {
+      "memory_id": "X0243-m12",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus. Patient reports resolved dizziness after dose reduction. Weight 76 kg, BP 126/80, lungs clear. Spirometry: FEV1 3.30 L (95% pred), FVC 3.90 L (97% pred), FEV1/FVC 0.85; ΔFEV1 +0.08 L. ACT score 22 (well controlled). Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0243-m13",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 850 mg BD\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nGlimepiride stopped"
+    },
+    {
+      "memory_id": "X0243-m14",
+      "date": "2026-07-30",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dilated fundus exam: No microaneurysms, no hemorrhages, macula normal. CDR 0.3 in both eyes. No diabetic retinopathy."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0399",
+  "name": "Srinivas Naidu",
+  "age": 63,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0399-m01",
+      "date": "2025-04-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nPatient reports persistent worry, restlessness, fatigue, difficulty concentrating for over six months, associated muscle tension and sleep disturbance. Denies panic attacks. On exam appears tense, mild tremor of hands, vitals normal. Smoking status: never smoker. GAD-7 score 14 (moderate)."
+    },
+    {
+      "memory_id": "X0399-m02",
+      "date": "2025-04-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 5 mg orally once daily\nBuspirone 5 mg orally twice daily"
+    },
+    {
+      "memory_id": "X0399-m03",
+      "date": "2025-04-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0)\nHaemoglobin 13.8 g/dL (13.0-17.0)\nGAD-7 score 14"
+    },
+    {
+      "memory_id": "X0399-m04",
+      "date": "2025-04-03",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Penicillin – rash and pruritus"
+    },
+    {
+      "memory_id": "X0399-m05",
+      "date": "2025-07-08",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nPatient reports reduced worry, improved sleep, occasional mild tension. Escitalopram well tolerated, no side effects. Buspirone causes mild dizziness occasionally. On exam calm, vitals normal. Smoking status: never smoker. GAD-7 score 9 (mild)."
+    },
+    {
+      "memory_id": "X0399-m06",
+      "date": "2025-07-08",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 5 mg orally once daily\nBuspirone 5 mg orally twice daily"
+    },
+    {
+      "memory_id": "X0399-m07",
+      "date": "2025-07-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4-4.0)\nHaemoglobin 13.9 g/dL (13.0-17.0)\nGAD-7 score 9"
+    },
+    {
+      "memory_id": "X0399-m08",
+      "date": "2025-10-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-15 10:30 with Dr Suresh Menon (D05) – follow‑up review."
+    },
+    {
+      "memory_id": "X0399-m09",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nPatient notes increased work stress, worry returning, GAD-7 13. Escitalopram partially effective, buspirone helpful. On exam mildly agitated, vitals normal. Smoking status: never smoker."
+    },
+    {
+      "memory_id": "X0399-m10",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 10 mg orally once daily\nBuspirone 5 mg orally twice daily"
+    },
+    {
+      "memory_id": "X0399-m11",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.2 mIU/L (0.4-4.0)\nHaemoglobin 13.7 g/dL (13.0-17.0)\nGAD-7 score 13"
+    },
+    {
+      "memory_id": "X0399-m12",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nPatient reports stable mood, improved concentration, occasional mild anxiety. Escitalopram 10 mg well tolerated, buspirone 5 mg BD helpful. On exam relaxed, vitals normal. Smoking status: never smoker. GAD-7 score 7 (mild)."
+    },
+    {
+      "memory_id": "X0399-m13",
+      "date": "2026-02-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 10 mg orally once daily\nBuspirone 10 mg orally twice daily"
+    },
+    {
+      "memory_id": "X0399-m14",
+      "date": "2026-02-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0)\nHaemoglobin 13.8 g/dL (13.0-17.0)\nGAD-7 score 7"
+    },
+    {
+      "memory_id": "X0399-m15",
+      "date": "2026-08-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nPatient states anxiety well controlled, minimal worry, good sleep. Medications effective, no adverse effects. On exam calm, vitals normal. Smoking status: never smoker. GAD-7 score 5 (minimal)."
+    },
+    {
+      "memory_id": "X0399-m16",
+      "date": "2026-08-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 10 mg orally once daily\nBuspirone 10 mg orally twice daily"
+    },
+    {
+      "memory_id": "X0399-m17",
+      "date": "2026-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4-4.0)\nHaemoglobin 13.9 g/dL (13.0-17.0)\nGAD-7 score 5"
+    }
+  ]
+}

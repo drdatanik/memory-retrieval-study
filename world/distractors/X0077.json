@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0077",
+  "name": "Kamala Velu",
+  "age": 42,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Vitamin B12 deficiency",
+    "Generalised anxiety disorder",
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0077-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 42‑year‑old female electrician reports fatigue, low mood, and worry about work safety. EXAMINATION: BP 128/82 mmHg, weight 68 kg, BMI 24.1 (overweight). Pallor mild, no lymphadenopathy. IMPRESSION: Vitamin B12 deficiency likely, generalized anxiety disorder, borderline LDL. ARRANGEMENTS: Start methylcobalamin 1500 mcg OD, escitalopram 5 mg OD, buspirone 5 mg BD, atorvastatin 10 mg HS. Order fasting lipid profile, fasting glucose, serum B12, MCV, Hb, TSH. Return if chest pain, breathlessness, fever >39°C, or bleeding."
+    },
+    {
+      "memory_id": "X0077-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methylcobalamin 1500 mcg OD\nEscitalopram 5 mg OD\nBuspirone 5 mg BD\nAtorvastatin 10 mg HS"
+    },
+    {
+      "memory_id": "X0077-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 180 pg/mL (ref 200-900)\nMCV: 98 fL (ref 80-100)\nHaemoglobin: 11.8 g/dL (ref 12-16)\nTSH: 2.1 mIU/L (ref 0.4-4.0)\nFasting lipid profile: LDL 138 mg/dL, HDL 44 mg/dL, Triglycerides 162 mg/dL\nLFT: ALT 28 U/L, AST 24 U/L (ref ≤40)\nCK: 152 U/L (ref ≤200)"
+    },
+    {
+      "memory_id": "X0077-m04",
+      "date": "2025-08-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Persistent low energy, occasional palpitations, anxiety improved but still present. EXAMINATION: BP 130/84 mmHg, weight 67 kg, BMI 23.9 (overweight). No jaundice, lungs clear. IMPRESSION: B12 deficiency improving, anxiety partially controlled, lipids still elevated. ARRANGEMENTS: Increase escitalopram to 10 mg OD, continue buspirone, maintain methylcobalamin, add rosuvastatin 10 mg OD, stop atorvastatin. Repeat lipid profile, B12, CBC, TSH in 3 months. Return if palpitations worsen, chest pain, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0077-m05",
+      "date": "2025-08-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methylcobalamin 1500 mcg OD\nEscitalopram 10 mg OD\nBuspirone 5 mg BD\nRosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0077-m06",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 340 pg/mL (ref 200-900)\nMCV: 94 fL (ref 80-100)\nHaemoglobin: 12.6 g/dL (ref 12-16)\nTSH: 1.9 mIU/L (ref 0.4-4.0)\nFasting lipid profile: LDL 112 mg/dL, HDL 48 mg/dL, Triglycerides 138 mg/dL\nLFT: ALT 22 U/L, AST 20 U/L\nCK: 140 U/L"
+    },
+    {
+      "memory_id": "X0077-m07",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D03",
+      "text": "RESTING ECG: Sinus rhythm 78 bpm, no ST‑T changes, no Q waves. Voltage within normal limits. Interpretation: Normal ECG."
+    },
+    {
+      "memory_id": "X0077-m08",
+      "date": "2025-10-20",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referring to Psychiatry for ongoing generalized anxiety disorder despite optimal SSRI dose. Patient reports residual worry, difficulty concentrating. Request cognitive behavioural therapy assessment and consider adjunct anxiolytic. Please send report and recommendations."
+    },
+    {
+      "memory_id": "X0077-m09",
+      "date": "2025-11-30",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Psychiatry review: Patient engaged well, GAD‑7 score improved from 12 to 8. Recommended continue escitalopram 10 mg OD, add buspirone 10 mg BD, consider short‑term CBT. No medication changes needed. Follow‑up in 6 weeks."
+    },
+    {
+      "memory_id": "X0077-m10",
+      "date": "2026-02-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more restless at night since increasing buspirone to 10 mg BD. Also noticed mild nausea in the mornings. Otherwise mood is better and energy is up."
+    },
+    {
+      "memory_id": "X0077-m11",
+      "date": "2026-03-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 10‑Apr‑2026 at 09:30 with Dr Priya Natarajan (D03) for routine follow‑up of vitamin B12, anxiety and lipids."
+    },
+    {
+      "memory_id": "X0077-m12",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up for B12, anxiety, lipids; patient reports improved sleep, less worry, occasional mild nausea. EXAMINATION: BP 126/80 mmHg, weight 66 kg, BMI 23.0 (normal). No pallor, lungs clear. IMPRESSION: B12 now adequate, anxiety well controlled on current regimen, lipids at target. ARRANGEMENTS: Continue methylcobalamin 1500 mcg OD, escitalopram 10 mg OD, buspirone 10 mg BD, rosuvastatin 10 mg OD. Repeat lipid profile, B12, CBC, TSH in 6 months. Return if chest pain, breathlessness, fever >39°C, or bleeding."
+    },
+    {
+      "memory_id": "X0077-m13",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methylcobalamin 1500 mcg OD\nEscitalopram 10 mg OD\nBuspirone 10 mg BD\nRosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0077-m14",
+      "date": "2026-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 460 pg/mL (ref 200-900)\nMCV: 92 fL (ref 80-100)\nHaemoglobin: 13.2 g/dL (ref 12-16)\nTSH: 2.0 mIU/L (ref 0.4-4.0)\nFasting lipid profile: LDL 92 mg/dL, HDL 52 mg/dL, Triglycerides 110 mg/dL\nLFT: ALT 18 U/L, AST 16 U/L\nCK: 130 U/L"
+    },
+    {
+      "memory_id": "X0077-m15",
+      "date": "2026-09-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review; patient feels well, denies chest pain or palpitations. EXAMINATION: BP 124/78 mmHg, weight 65 kg, BMI 22.8 (normal). No jaundice, abdomen soft. IMPRESSION: All parameters stable; vitamin B12 replete, anxiety in remission, LDL <100 mg/dL. ARRANGEMENTS: Continue current meds. Annual influenza vaccine offered (patient declined). Return if new cardiac symptoms, fever >39°C, or unexplained bleeding."
+    }
+  ]
+}

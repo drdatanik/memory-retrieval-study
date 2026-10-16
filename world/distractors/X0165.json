@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0165",
+  "name": "Benjamin Abraham",
+  "age": 62,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Generalised anxiety disorder",
+    "Migraine",
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0165-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up for generalised anxiety, migraine prophylaxis and sciatica. EXAMINATION: BP 128/82 mmHg, weight 78 kg, BMI 24.3 (overweight). Advised diet and activity. Neurological exam normal, straight leg raise negative. IMPRESSION: Stable anxiety, migraine prophylaxis adequate, sciatica mild. ARRANGEMENTS: Continue escitalopram 5 mg OD, buspirone 5 mg BD, propranolol 40 mg OD, sumatriptan 50 mg SOS, topiramate 25 mg HS, naproxen 500 mg SOS, pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD. Order fasting lipid profile, fasting blood sugar, TSH, Hb. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0165-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 5 mg OD\nBuspirone 5 mg BD\nPropranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nPregabalin 75 mg BD\nDiclofenac 50 mg BD after food\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0165-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dL (<200 desirable), LDL 110 mg/dL (<100 near optimal), HDL 45 mg/dL (>40 good), Triglycerides 130 mg/dL (<150 normal). Fasting blood sugar 92 mg/dL (70‑99 normal). TSH 2.1 mIU/L (0.4‑4.0 normal). Haemoglobin 14.8 g/dL (13‑17 normal)."
+    },
+    {
+      "memory_id": "X0165-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Increased worry and occasional migraine despite prophylaxis. EXAMINATION: BP 130/84 mmHg, weight 79 kg, BMI 24.9 (overweight). Advised diet and activity. Neurological exam normal, straight leg raise negative. IMPRESSION: Anxiety partially controlled, consider increasing escitalopram; migraine prophylaxis adequate; sciatica stable. ARRANGEMENTS: Increase escitalopram to 10 mg OD, continue other meds. Repeat GAD‑7 in 4 weeks. Return if worsening anxiety, severe headache with visual changes, fever >39°C, or urinary symptoms."
+    },
+    {
+      "memory_id": "X0165-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg OD\nBuspirone 5 mg BD\nPropranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nPregabalin 75 mg BD\nDiclofenac 50 mg BD after food\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0165-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4‑4.0 normal). Haemoglobin 14.6 g/dL (13‑17 normal)."
+    },
+    {
+      "memory_id": "X0165-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review. EXAMINATION: BP 128/80 mmHg, weight 80 kg, BMI 25.1 (obese). Advised diet and activity. Neurological exam normal, straight leg raise negative. IMPRESSION: Anxiety stable on escitalopram 10 mg; migraine prophylaxis adequate; sciatica mild. ARRANGEMENTS: Add topiramate 25 mg HS for migraine prophylaxis (already on, continue). Order fasting lipid profile and fasting blood sugar. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0165-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg OD\nBuspirone 5 mg BD\nPropranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nPregabalin 75 mg BD\nDiclofenac 50 mg BD after food\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0165-m09",
+      "date": "2025-10-04",
+      "type": "investigation",
+      "author": "D03",
+      "text": "X‑ray lumbar spine: No acute fracture, mild degenerative changes at L4‑L5, disc space preserved. Impression: Consistent with chronic sciatica, no urgent pathology."
+    },
+    {
+      "memory_id": "X0165-m10",
+      "date": "2025-12-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: New tingling in legs, mild worsening of back pain. EXAMINATION: BP 132/86 mmHg, weight 81 kg, BMI 25.4 (obese). Advised diet and activity. Straight leg raise positive on left at 40°. IMPRESSION: Anxiety stable; migraine controlled; sciatica worsening, consider neuropathic adjunct. ARRANGEMENTS: Stop buspirone due to dizziness, start pregabalin 75 mg BD (already on, increase to 150 mg BD). Continue other meds. Return if severe leg weakness, bowel/bladder changes, fever >39°C, or chest pain."
+    },
+    {
+      "memory_id": "X0165-m11",
+      "date": "2025-12-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg OD\nPropranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramat 25 mg HS\nNaproxen 500 mg SOS\nPregabalin 150 mg BD\nDiclofenac 50 mg BD after food\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0165-m12",
+      "date": "2025-12-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 185 mg/dL, LDL 105 mg/dL, HDL 48 mg/dL, Triglycerides 125 mg/dL. Fasting blood sugar 94 mg/dL. TSH 2.2 mIU/L. Haemoglobin 14.7 g/dL."
+    },
+    {
+      "memory_id": "X0165-m13",
+      "date": "2026-03-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Good control of anxiety, occasional migraine breakthrough. EXAMINATION: BP 130/82 mmHg, weight 80 kg, BMI 25.0 (obese). Advised diet and activity. Neurological exam normal, straight leg raise negative. IMPRESSION: Anxiety stable on escitalopram 10 mg; migraine prophylaxis adequate but needs acute therapy; sciatica improved with pregabalin. ARRANGEMENTS: Keep escitalopram 10 mg OD, increase propranolol to 60 mg OD for better migraine prevention, continue sumatriptan SOS. Return if worsening headache with neurological signs, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0165-m14",
+      "date": "2026-03-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg OD\nPropranolol 60 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nPregabalin 150 mg BD\nDiclofenac 50 mg BD after food\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0165-m15",
+      "date": "2026-03-22",
+      "type": "investigation",
+      "author": "D03",
+      "text": "MRI lumbar spine: Mild disc bulge at L4‑L5 causing slight nerve root compression, no cord signal change. Impression: Consistent with lumbar radiculopathy contributing to sciatica."
+    },
+    {
+      "memory_id": "X0165-m16",
+      "date": "2026-06-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Annual review. EXAMINATION: BP 128/80 mmHg, weight 79 kg, BMI 24.9 (overweight). Advised diet and activity. Influenza vaccine offered and given today. IMPRESSION: Anxiety stable, migraine well controlled, sciatica mild. ARRANGEMENTS: Continue current meds. Give inactivated influenza vaccine 0.5 mL IM today. Order fasting lipid profile and fasting blood sugar. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0165-m17",
+      "date": "2026-06-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg OD\nPropranolol 60 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nPregabalin 150 mg BD\nDiclofenac 50 mg BD after food\nMethylcobalamin 1500 mcg OD\nInfluenza vaccine 0.5 mL IM given today"
+    },
+    {
+      "memory_id": "X0165-m18",
+      "date": "2026-09-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-12-01 at 10:30 AM with Dr Priya Natarajan (D03) for routine follow‑up. Patient confirmed via clinic app."
+    }
+  ]
+}

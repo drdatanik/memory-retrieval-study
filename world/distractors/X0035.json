@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0035",
+  "name": "Srinivas Bollineni",
+  "age": 50,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Benign prostatic hyperplasia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0035-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, intermittent. Patient reports occasional wheezing after exertion, no night symptoms. BPH stable on tamsulosin and finasteride, no urinary obstruction. Exam: mild expiratory wheeze bilaterally, normal cardiovascular, prostate not enlarged on DRE. Spirometry: FEV1 2.85 L (92% pred), FVC 3.60 L (95% pred), FEV1/FVC 0.79; change from baseline +0.10 L. ACT score 22 (well controlled). Technique checked: correct with salbutamol MDI. Smoking: never."
+    },
+    {
+      "memory_id": "X0035-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "tamsulosin 0.4 mg HS\nfinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0035-m03",
+      "date": "2025-04-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 1.2 ng/mL (ref 0-4)\nUrine routine: nil abnormal\nUltrasound KUB: prostate volume 28 mL, post‑void residual 15 mL"
+    },
+    {
+      "memory_id": "X0035-m04",
+      "date": "2025-04-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have mild wheeze when I climb stairs to the shop, but it goes away after rest. Urinary flow is fine, no urgency."
+    },
+    {
+      "memory_id": "X0035-m05",
+      "date": "2025-04-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up pulmonology appointment booked for 2025-08-14 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0035-m06",
+      "date": "2025-06-01",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Urology for evaluation of benign prostatic hyperplasia. Patient on tamsulosin and finasteride, PSA 1.2, wishes to discuss long‑term management and surgical options if needed."
+    },
+    {
+      "memory_id": "X0035-m07",
+      "date": "2025-08-14",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, intermittent. Patient notes no wheeze in past month, uses salbutamol <2 times/week. BPH: no change in urinary symptoms, no retention. Exam: clear lungs, normal cardiac, prostate benign on DRE. Spirometry: FEV1 2.90 L (94% pred), FVC 3.62 L (96% pred), FEV1/FVC 0.80; ΔFEV1 +0.05 L since last visit. ACT score 24 (well controlled). Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0035-m08",
+      "date": "2025-08-14",
+      "type": "prescription",
+      "author": "D05",
+      "text": "tamsulosin 0.4 mg HS\nfinasteride 5 mg OD\nsalbutamol metered‑dose inhaler 2 puffs PRN wheeze"
+    },
+    {
+      "memory_id": "X0035-m09",
+      "date": "2025-08-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 1.3 ng/mL (ref 0-4)\nUrine routine: normal"
+    },
+    {
+      "memory_id": "X0035-m10",
+      "date": "2025-08-14",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling good, no breathing trouble. Urinary stream still strong, no dribbling."
+    },
+    {
+      "memory_id": "X0035-m11",
+      "date": "2025-08-14",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Next pulmonology review scheduled for 2026-02-12 at 09:00 AM."
+    },
+    {
+      "memory_id": "X0035-m12",
+      "date": "2025-09-01",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Urology reply: PSA stable, prostate size modest. Advise continue current meds, repeat PSA in 6 months, consider surgery only if symptomatic progression."
+    },
+    {
+      "memory_id": "X0035-m13",
+      "date": "2026-02-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, mild persistent. Patient reports occasional night cough twice weekly, uses salbutamol 3‑4 times/week. BPH: reports mild hesitancy, no incontinence. Exam: mild end‑expiratory wheeze, prostate slightly firm, no nodule. Spirometry: FEV1 2.70 L (88% pred), FVC 3.55 L (94% pred), FEV1/FVC 0.76; ΔFEV1 –0.20 L since last visit. ACT score 18 (not well controlled). Technique corrected: taught slow‑deep inhalation for dry powder inhaler. Smoking: never."
+    },
+    {
+      "memory_id": "X0035-m14",
+      "date": "2026-02-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "tamsulosin 0.4 mg HS\nfinasteride 5 mg OD\nsalbutamol metered‑dose inhaler 2 puffs PRN\nbudesonide/formoterol dry powder inhaler 2 puffs BD"
+    },
+    {
+      "memory_id": "X0035-m15",
+      "date": "2026-02-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 1.5 ng/mL (ref 0-4)\nUrine routine: normal\nUltrasound KUB: prostate volume 32 mL, post‑void residual 22 mL"
+    },
+    {
+      "memory_id": "X0035-m16",
+      "date": "2026-02-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been waking up at night with a cough, and my urine flow feels a bit slower than before. Using the inhaler helps a bit."
+    },
+    {
+      "memory_id": "X0035-m17",
+      "date": "2026-02-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Review appointment set for 2026-07-15 at 14:00 PM."
+    }
+  ]
+}

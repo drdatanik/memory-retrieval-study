@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0037",
+  "name": "Ravindra Reddy",
+  "age": 28,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Vitamin D deficiency",
+    "Generalised anxiety disorder",
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0037-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "28-year-old male presents for initial assessment of fatigue, low mood and weight concerns.\nPRESENTING COMPLAINT: He reports persistent tiredness, low mood, poor sleep and difficulty controlling weight despite diet efforts.\nEXAMINATION: BP 128/82 mmHg, weight 92 kg, height 1.70 m, BMI 31.8 (obese). General appearance well-nourished, no pallor. Cardiovascular and respiratory exams normal. Abdomen soft, non-tender.\nIMPRESSION: Vitamin D deficiency likely, generalized anxiety disorder, obesity. Plan to check serum 25‑hydroxyvitamin D, calcium, phosphate, GAD‑7, TSH, haemoglobin, fasting lipid profile, fasting glucose, HbA1c, liver enzymes and waist circumference.\nARRANGEMENTS: Start cholecalciferol 60000 IU once weekly for 8 weeks then 1000 IU OD, escitalopram 5 mg OD, buspirone 5 mg BD, orlistat 120 mg TID with meals. Order labs today. Advise balanced diet, 150 min/week moderate activity, avoid sugary drinks. Return if chest pain, breathlessness, fever >39 °C, suicidal thoughts, severe abdominal pain or vomiting."
+    },
+    {
+      "memory_id": "X0037-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD\nEscitalopram 5 mg OD\nBuspirone 5 mg BD\nOrlistat 120 mg with each main meal (TID)"
+    },
+    {
+      "memory_id": "X0037-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 12 ng/mL (ref 20‑50)\nSerum calcium: 9.0 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 3.0 mg/dL (ref 2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0037-m04",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "GAD‑7 score: 12 (ref 0‑4 mild, 5‑9 mild‑moderate, 10‑14 moderate, 15‑21 severe)\nTSH: 2.1 µIU/mL (ref 0.4‑4.0)\nHaemoglobin: 13.8 g/dL (ref 13.0‑17.0)"
+    },
+    {
+      "memory_id": "X0037-m05",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 210 mg/dL (<200 desirable), LDL 130 mg/dL (<100), HDL 38 mg/dL (>40), Triglycerides 165 mg/dL (<150)\nFasting glucose: 98 mg/dL (70‑99)\nHbA1c: 5.6% (<5.7)\nALT: 28 U/L (≤40), AST: 24 U/L (≤40), ALP: 78 U/L (≤120), GGT: 32 U/L (≤50)\nWaist circumference: 102 cm (male >90 cm indicates central obesity)"
+    },
+    {
+      "memory_id": "X0037-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up after 3 months of treatment for vitamin D deficiency, anxiety and obesity.\nPRESENTING COMPLAINT: Reports improved energy, better sleep, modest weight loss of 2 kg; still feels anxious at work.\nEXAMINATION: BP 126/80 mmHg, weight 90 kg, BMI 31.1 (obese). No jaundice, no edema.\nIMPRESSION: Vitamin D levels still low, anxiety partially controlled, obesity ongoing. Continue vitamin D replacement, maintain antidepressant, consider lifestyle reinforcement.\nARRANGEMENTS: Change cholecalciferol to 1000 IU OD after completing loading course. Continue escitalopram 5 mg OD, buspirone 5 mg BD, orlistat 120 mg TID. Reinforce diet (high protein, low refined carbs) and activity (brisk walk 30 min daily). Return if worsening anxiety, suicidal ideation, severe fatigue, abdominal pain with vomiting, or shortness of breath."
+    },
+    {
+      "memory_id": "X0037-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 1000 IU OD\nEscitalopram 5 mg OD\nBuspirone 5 mg BD\nOrlistat 120 mg with each main meal (TID)"
+    },
+    {
+      "memory_id": "X0037-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Autumn review for vitamin D, anxiety and weight management.\nPRESENTING COMPLAINT: Patient notes mood stable, occasional work stress, weight unchanged at 90 kg.\nEXAMINATION: BP 124/78 mmHg, weight 90 kg, BMI 31.1 (obese). No lymphadenopathy.\nIMPRESSION: Vitamin D sufficient after replacement, anxiety controlled on current meds, obesity persists. Offer influenza vaccine due to chronic illness (obesity).\nARRANGEMENTS: Continue cholecalciferol 1000 IU OD, escitalopram 5 mg OD, buspirone 5 mg BD, orlistat 120 mg TID. Administer inactivated influenza vaccine today. Advise maintain diet, increase aerobic activity to 150 min/week. Return if fever >38.5 °C after vaccine, worsening anxiety, chest pain, unexplained weight loss, or severe fatigue."
+    },
+    {
+      "memory_id": "X0037-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 1000 IU OD\nEscitalopram 5 mg OD\nBuspirone 5 mg BD\nOrlistat 120 mg with each main meal (TID)"
+    },
+    {
+      "memory_id": "X0037-m10",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Influenza vaccination administered on 2025-10-02. Next routine follow‑up scheduled for 2026-04-20."
+    },
+    {
+      "memory_id": "X0037-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Winter check‑up for ongoing obesity and anxiety.\nPRESENTING COMPLAINT: Reports mild gastric discomfort after meals, weight stable at 90 kg, anxiety well controlled.\nEXAMINATION: BP 128/82 mmHg, weight 90 kg, BMI 31.1 (obese). Abdomen soft, mild epigastric tenderness, no guarding.\nIMPRESSION: Possible orlistat‑related gastrointestinal side effects. Anxiety stable. Consider reducing orlistat dose.\nARRANGEMENTS: Reduce orlistat to 60 mg TID with meals. Continue cholecalciferol 1000 IU OD, escitalopram 5 mg OD, buspirone 5 mg BD. Advise low‑fat diet to minimise GI upset, monitor weight. Return if persistent vomiting, severe abdominal pain, bloody stools, or worsening anxiety."
+    },
+    {
+      "memory_id": "X0037-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 1000 IU OD\nEscitalopram 5 mg OD\nBuspirone 5 mg BD\nOrlistat 60 mg with each main meal (TID)"
+    },
+    {
+      "memory_id": "X0037-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Spring review after dose adjustment of orlistat.\nPRESENTING COMPLAINT: No GI symptoms, weight decreased to 88 kg, reports feeling more energetic.\nEXAMINATION: BP 122/78 mmHg, weight 88 kg, BMI 30.4 (obese). No edema.\nIMPRESSION: Weight reduction progressing, vitamin D adequate, anxiety well controlled. Continue current regimen.\nARRANGEMENTS: Continue cholecalciferol 1000 IU OD, escitalopram 5 mg OD, buspirone 5 mg BD, orlistat 60 mg TID. Order repeat vitamin D, lipid profile, fasting glucose, HbA1c, liver tests and waist circumference. Advise maintain diet, add resistance training twice weekly. Return if rapid weight loss, severe fatigue, mood changes, or abdominal pain."
+    },
+    {
+      "memory_id": "X0037-m14",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 28 ng/mL (ref 20‑50)\nSerum calcium: 9.2 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 3.4 mg/dL (ref 2.5‑4.5)\nFasting lipid profile: Total cholesterol 190 mg/dL (<200), LDL 110 mg/dL (<100), HDL 42 mg/dL (>40), Triglycerides 138 mg/dL (<150)\nFasting glucose: 92 mg/dL (70‑99)\nHbA1c: 5.5% (<5.7)\nALT: 22 U/L (≤40), AST: 20 U/L (≤40), ALP: 75 U/L (≤120), GGT: 30 U/L (≤50)\nWaist circumference: 98 cm (male >90 cm indicates central obesity)"
+    },
+    {
+      "memory_id": "X0037-m15",
+      "date": "2026-08-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Mid‑year review for obesity and anxiety.\nPRESENTING COMPLAINT: Patient notes occasional work‑related stress, weight stable at 88 kg, no medication side effects.\nEXAMINATION: BP 124/80 mmHg, weight 88 kg, BMI 30.4 (obese). No skin changes.\nIMPRESSION: Obesity class I, generalized anxiety disorder in remission on current meds, vitamin D sufficient. Continue lifestyle measures.\nARRANGEMENTS: Continue cholecalciferol 1000 IU OD, escitalopram 5 mg OD, buspirone 5 mg BD, orlistat 60 mg TID. Reinforce diet (Mediterranean pattern) and activity (150 min/week aerobic + strength). Return if chest pain, palpitations, severe anxiety, unexplained weight loss, or fever >39 °C."
+    },
+    {
+      "memory_id": "X0037-m16",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual review for vitamin D, anxiety and obesity.\nPRESENTING COMPLAINT: Reports good mood, weight 86 kg, feels fitter.\nEXAMINATION: BP 120/76 mmHg, weight 86 kg, BMI 29.7 (overweight, Asian cut‑off 23‑24.9 overweight, ≥25 obese – now just below obese threshold).\nIMPRESSION: Weight now in overweight range, vitamin D adequate, anxiety well maintained. Influenza vaccine due this autumn.\nARRANGEMENTS: Continue cholecalciferol 1000 IU OD, escitalopram 5 mg OD, buspirone 5 mg BD, orlistat 60 mg TID. Offer inactivated influenza vaccine today. Advise sustain healthy diet, aim for BMI <23 via continued activity. Return if fever >38.5 °C post‑vaccine, worsening anxiety, chest pain, dyspnoea, or unexplained weight loss."
+    }
+  ]
+}

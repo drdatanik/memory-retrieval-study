@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0050",
+  "name": "Archana Gaikwad",
+  "age": 55,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0050-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: New onset, brief spinning episodes on lying down, negative for hearing loss.\n  - Plan: Start betahistine 16 mg twice daily; meclizine 25 mg as needed for acute vertigo. Advise vestibular exercises. Weight 68 kg, waist 84 cm (female cut‑off 80 cm – central obesity).\n- Diet: Breakfast – low‑salt, whole grain; Lunch – steamed vegetables, lean protein; Dinner – light, early.\n- Due: HbA1c 2025-07-05"
+    },
+    {
+      "memory_id": "X0050-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 16 mg 1-0-1 after food\nmeclizine 25 mg 0-0-1 SOS after food"
+    },
+    {
+      "memory_id": "X0050-m03",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:00 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0050-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: Episodes reduced to 1‑2 per week, still triggered by rapid head movement.\n  - Plan: Continue betahistine 16 mg BD; add meclizine 25 mg BD for next 2 weeks then taper to SOS. Reinforce Brandt‑Daroff exercises.\n- Weight 67.5 kg, waist 83 cm (still >80 cm).\n- Diet: Breakfast – oatmeal with fruit; Lunch – dal, brown rice, salad; Dinner – soup, chapati.\n- Due: HbA1c 2025-10-10"
+    },
+    {
+      "memory_id": "X0050-m05",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dix‑Hallpike test: Positive for right posterior canal BPPV – torsional up‑beating nystagmus lasting <1 min."
+    },
+    {
+      "memory_id": "X0050-m06",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Pure‑tone audiometry (both ears): Hearing thresholds within normal limits (0‑25 dB HL) across 250‑8000 Hz; no conductive or sensorineural loss."
+    },
+    {
+      "memory_id": "X0050-m07",
+      "date": "2025-10-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.8 % (reference 4.0‑5.6). Slightly elevated; indicative of prediabetes."
+    },
+    {
+      "memory_id": "X0050-m08",
+      "date": "2025-10-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: Vertigo free for 3 weeks; occasional mild imbalance.\n  - Plan: Continue betahistine 16 mg BD; stop meclizine (use only SOS). Reinforce low‑salt diet, weight reduction goal 5 kg.\n- Prediabetes (HbA1c 5.8%): Lifestyle modification – 150 min/week brisk walking, avoid refined sugars.\n- Weight 66.8 kg, waist 81 cm (borderline).\n- Diet: Breakfast – idli with sambar; Lunch – quinoa, vegetable curry; Dinner – grilled fish, steamed greens.\n- Due: HbA1c 2026-01-01; Lipid panel 2026-04-01"
+    },
+    {
+      "memory_id": "X0050-m09",
+      "date": "2025-10-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 16 mg 1-0-1 after food\nmeclizine 25 mg 0-0-0 SOS after food"
+    },
+    {
+      "memory_id": "X0050-m10",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve felt a bit dizzy when getting up quickly from bed over the past few days, especially after missing my betahistine dose yesterday. No vomiting."
+    },
+    {
+      "memory_id": "X0050-m11",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: Mild positional dizziness on waking, likely due to missed betahistine doses.\n  - Plan: Reinforce betahistine 16 mg BD with alarm; continue meclizine SOS only. Check orthostatic BP.\n- Prediabetes: HbA1c stable; encourage continued lifestyle.\n- Weight 66.2 kg, waist 80 cm (at cut‑off).\n- Diet: Breakfast – wheat dosa with chutney; Lunch – millet pulao, raita; Dinner – lentil soup, vegetables.\n- Due: HbA1c 2026-04-20"
+    },
+    {
+      "memory_id": "X0050-m12",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 16 mg 1-0-1 after food\nmeclizine 25 mg 0-0-1 SOS after food"
+    },
+    {
+      "memory_id": "X0050-m13",
+      "date": "2026-01-20",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to ENT for vestibular rehabilitation therapy due to persistent positional symptoms despite medical management."
+    },
+    {
+      "memory_id": "X0050-m14",
+      "date": "2026-03-01",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "ENT report: Right posterior canal BPPV confirmed. Performed canalith repositioning (Epley) – patient symptom‑free post‑procedure. Advised home Brandt‑Daroff exercises twice daily for 2 weeks."
+    },
+    {
+      "memory_id": "X0050-m15",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: Asymptomatic since ENT maneuver; no vertigo episodes in past 6 weeks.\n  - Plan: Continue betahistine 16 mg BD for another 3 months then review; meclizine SOS only.\n- Prediabetes: HbA1c 5.7% (ref 4.0‑5.6).\n- Weight 65.5 kg, waist 79 cm (now below female cut‑off).\n- Diet: Breakfast – poha with peanuts; Lunch – brown rice, sambar, salad; Dinner – grilled chicken, steamed broccoli.\n- Due: HbA1c 2026-07-10; Lipid panel 2027-04-10 (next year)"
+    },
+    {
+      "memory_id": "X0050-m16",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile: Total cholesterol 185 mg/dL (<200 desirable), HDL 48 mg/dL (>40 good), LDL 102 mg/dL (<100 near optimal), Triglycerides 120 mg/dL (<150 normal)."
+    },
+    {
+      "memory_id": "X0050-m17",
+      "date": "2026-07-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original slot 2026-07-20 09:00 am moved to 2026-07-15 11:30 am with Dr Karthik Hegde (D04) per patient request."
+    },
+    {
+      "memory_id": "X0050-m18",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: Remained vertigo‑free for 3 months after stopping betahistine (tapered off 2026-09-01). No recurrence.\n  - Plan: Discontinue betahistine; keep meclizine SOS only for rare breakthrough. Lifestyle maintenance for prediabetes.\n- Prediabetes: HbA1c 5.6% (upper limit normal).\n- Weight 64.8 kg, waist 78 cm.\n- Diet: Breakfast – multigrain toast with avocado; Lunch – chickpea salad, brown rice; Dinner – steamed fish, quinoa.\n- Due: HbA1c 2027-01-10"
+    }
+  ]
+}

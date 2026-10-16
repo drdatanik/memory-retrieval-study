@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0340",
+  "name": "Rosamma Lobo",
+  "age": 47,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Vitamin D deficiency",
+    "Dyslipidaemia",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0340-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, works full‑time as accountant, walks 30 min daily.\ncognition: Mini‑Cog 3/5 (recall 1, clock draw abnormal) – positive screen, plan for formal neuropsych assessment.\nfalls: 0 falls in last 12 months, gait normal, timed up‑and‑go 9 seconds – low fall risk.\nmedicines: 6 regular (cholecalciferol loading, atorvastatin, rosuvastatin, fenofibrate, levetiracetam, lamotrigine) – polypharmacy, request Beers‑criteria review.\nmood: reports occasional worry about work deadlines, denies depression.\ncarers: husband Ramesh Kumar.\ngoal: \"Stay seizure‑free and keep my energy up for my job.\""
+    },
+    {
+      "memory_id": "X0340-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D panel: 25‑OH vitamin D 14 ng/mL (ref 30‑100), calcium 9.2 mg/dL (8.5‑10.5), phosphate 3.4 mg/dL (2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0340-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 162 mg/dL (<100), HDL 38 mg/dL (>40), triglycerides 210 mg/dL (<150). LFT: ALT 22 U/L, AST 20 U/L, ALP 70 U/L (normal). CK 85 U/L (norm 30‑200)."
+    },
+    {
+      "memory_id": "X0340-m04",
+      "date": "2025-04-08",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cholecalciferol 60000 IU PO once weekly for 8 weeks, then 1000 IU OD.\natorvastatin 10 mg PO HS.\nrosuvastatin 10 mg PO OD.\nfenofibrate 145 mg PO OD.\nlevetiracetam 500 mg PO BD.\nlamotrigine 50 mg PO BD."
+    },
+    {
+      "memory_id": "X0340-m05",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "EEG: awake and sleep‑deprived recording shows no epileptiform discharges; background rhythm normal for age."
+    },
+    {
+      "memory_id": "X0340-m06",
+      "date": "2025-04-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling a bit more tired in the afternoons since starting the statins, but my seizures are still under control. I’m worried about the vitamin D pills causing stomach upset – I’ve taken them with breakfast and haven’t noticed any nausea."
+    },
+    {
+      "memory_id": "X0340-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues full‑time work, reports mild fatigue after lunch.\ncognition: Mini‑Cog not repeated (annual due Oct 2025); will assess next visit.\nfalls: 0 falls, gait steady, TUG 10 seconds – low risk.\nmedicines: 6 regular (cholecalciferol now 1000 IU OD after loading, atorvastatin, rosuvastatin, fenofibrate, levetiracetam, lamotrigine) – polypharmacy, note Beers review pending.\nmood: denies depression, notes occasional work stress.\ncarers: husband Ramesh Kumar.\ngoal: \"Reduce afternoon fatigue and keep my lipid numbers improving.\""
+    },
+    {
+      "memory_id": "X0340-m08",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D panel: 25‑OH vitamin D 32 ng/mL (ref 30‑100), calcium 9.4 mg/dL, phosphate 3.6 mg/dL."
+    },
+    {
+      "memory_id": "X0340-m09",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 124 mg/dL, HDL 42 mg/dL, triglycerides 165 mg/dL. LFT: ALT 24 U/L, AST 21 U/L, ALP 68 U/L. CK 78 U/L."
+    },
+    {
+      "memory_id": "X0340-m10",
+      "date": "2025-10-13",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cholecalciferol 1000 IU PO OD (maintenance).\natorvastatin 20 mg PO HS (increased from 10 mg).\nrosuvastatin 10 mg PO OD (unchanged).\nfenofibrate 145 mg PO OD (stopped due to normal triglycerides).\nlevetiracetam 500 mg PO BD.\nlamotrigine 50 mg PO BD."
+    },
+    {
+      "memory_id": "X0340-m11",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: works full‑time, reports good energy, no afternoon fatigue.\ncognition: Mini‑Cog 4/5 (recall 2, clock draw normal) – negative screen.\nfalls: 0 falls, gait normal, TUG 9 seconds – low risk.\nmedicines: 5 regular (cholecalciferol 1000 IU OD, atorvastatin 20 mg HS, rosuvastatin 10 mg OD, levetiracetam 500 mg BD, lamotrigine 50 mg BD) – polypharmacy threshold met, request Beers review.\nmood: stable, denies anxiety or depression.\ncarers: husband Ramesh Kumar.\ngoal: \"Maintain seizure freedom and keep bones strong.\""
+    },
+    {
+      "memory_id": "X0340-m12",
+      "date": "2026-04-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D panel: 25‑OH vitamin D 38 ng/mL, calcium 9.3 mg/dL, phosphate 3.5 mg/dL."
+    },
+    {
+      "memory_id": "X0340-m13",
+      "date": "2026-04-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 108 mg/dL, HDL 45 mg/dL, triglycerides 130 mg/dL. LFT: ALT 20 U/L, AST 19 U/L, ALP 66 U/L. CK 80 U/L."
+    },
+    {
+      "memory_id": "X0340-m14",
+      "date": "2026-04-18",
+      "type": "investigation",
+      "author": "D06",
+      "text": "EEG: repeat study shows no epileptiform activity; posterior dominant rhythm 8‑9 Hz, normal."
+    },
+    {
+      "memory_id": "X0340-m15",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues accountant role, reports occasional mild muscle soreness after gym.\ncognition: Mini‑Cog not due until Oct 2026; will assess next year.\nfalls: 0 falls, gait normal, TUG 9 seconds – low risk.\nmedicines: 5 regular (cholecalciferol 1000 IU OD, atorvastatin 20 mg HS, rosuvastatin 10 mg OD, levetiracetam 500 mg BD, lamotrigine 50 mg BD) – polypharmacy, note Beers review pending.\nmood: good, denies depression.\ncarers: husband Ramesh Kumar.\ngoal: \"Stay healthy for my upcoming marathon training.\""
+    },
+    {
+      "memory_id": "X0340-m16",
+      "date": "2026-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-11-15 at 09:30 with Dr Nandini Kulkarni (D06)."
+    }
+  ]
+}

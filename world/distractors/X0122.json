@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0122",
+  "name": "Javed Baig",
+  "age": 38,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0122-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: New onset, episodes of spinning lasting <1 minute triggered by head movement, negative for hearing loss.\n  - Plan: Start betahistine 16 mg twice daily; meclizine 25 mg SOS for acute vertigo. Perform Dix-Hallpike test today. Advise vestibular rehab exercises. Weight 68 kg, waist 86 cm (<90 cm cut‑off). Diet: Breakfast – low‑salt idli with sambar; Lunch – wheat roti, dal, vegetable curry; Dinner – light rice‑dal khichdi, avoid fried snacks. Due: HbA1c – 2025-07-05."
+    },
+    {
+      "memory_id": "X0122-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 16 mg BD after food\nmeclizine 25 mg SOS after food"
+    },
+    {
+      "memory_id": "X0122-m03",
+      "date": "2025-04-06",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dix-Hallpike test: Positive on right side with torsional nystagmus lasting 10 seconds, consistent with right posterior canal BPPV."
+    },
+    {
+      "memory_id": "X0122-m04",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.8 g/dl (13-17), WBC 6.2 x10^9/l (4-10), Platelets 210 x10^9/l (150-400), Sodium 138 mmol/l (135-145), Potassium 4.2 mmol/l (3.5-5.0), Creatinine 0.9 mg/dl (0.6-1.2)."
+    },
+    {
+      "memory_id": "X0122-m05",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Since starting betahistine, the spinning episodes have reduced from 4-5 per day to 1-2. Meclizine helped when I felt sudden dizziness while climbing the vegetable cart."
+    },
+    {
+      "memory_id": "X0122-m06",
+      "date": "2025-04-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 at 10:00 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0122-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: Improved, episodes now 0-2 per week, mainly after sudden head turns; no falls.\n  - Plan: Continue betahistine 16 mg BD; reduce meclizine to SOS only if needed. Repeat Dix-Hallpike to assess resolution. Weight 67 kg, waist 84 cm (<90). Diet: Breakfast – poha with peanuts, low salt; Lunch – millet roti, sambar, steamed veg; Dinner – dalia khichdi, curd. Due: HbA1c – 2025-10-10."
+    },
+    {
+      "memory_id": "X0122-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 16 mg BD after food\nmeclizine 25 mg SOS after food"
+    },
+    {
+      "memory_id": "X0122-m09",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/l (0.4-4.0), Free T4 1.2 ng/dl (0.9-1.7)."
+    },
+    {
+      "memory_id": "X0122-m10",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Audiometry (pure tone): Bilateral hearing thresholds within normal limits (0-25 dB HL) across 250-8000 Hz; no conductive loss."
+    },
+    {
+      "memory_id": "X0122-m11",
+      "date": "2025-09-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have occasional light‑headedness when I skip meals while working long hours at the market; otherwise vertigo is rare."
+    },
+    {
+      "memory_id": "X0122-m12",
+      "date": "2025-09-22",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original 2025-10-10 moved to 2025-12-01 at 09:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0122-m13",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: Stable, rare brief dizzy spells (<1 per month) linked to prolonged fasting; no nausea.\n  - Plan: Continue betahistine 16 mg BD; advise regular meals and hydration. Consider vestibular rehab if symptoms increase. Weight 66 kg, waist 82 cm (<90). Diet: Breakfast – upma with veggies, low salt; Lunch – jowar roti, pulse curry, salad; Dinner – light vegetable pulao, curd. Due: HbA1c – 2026-03-01."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0194",
+  "name": "Yasmeen Baig",
+  "age": 58,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Allergic rhinitis",
+    "Non-alcoholic fatty liver disease",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0194-m01",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Allergic rhinitis: perennial sensitisation to dust mites and pollen. Symptoms: sneezing, watery nasal discharge, nasal congestion worse in mornings. Reaction: type I hypersensitivity, controlled with antihistamine and intranasal steroid."
+    },
+    {
+      "memory_id": "X0194-m02",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  Status: Moderate, persistent symptoms despite occasional cetirizine.\n  Plan: Start cetirizine 10 mg HS, fluticasone nasal spray 1 spray each nostril OD, montelukast 10 mg HS. Review in 4 weeks.\n- Non‑alcoholic fatty liver disease\n  Status: NAFLD suspected, BMI 28, waist 92 cm (male cut‑off 90 cm).\n  Plan: Silymarin 140 mg TDS, rosuvastatin 5 mg OD. Lifestyle: weight reduction 5% target, Mediterranean diet. Due: HbA1c in 3 months (2025-07-05).\n- Irritable bowel syndrome\n  Status: IBS‑M, bloating, alternating diarrhoea/constipation.\n  Plan: Mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Advise small frequent meals, avoid trigger foods.\nWeight 78 kg, waist 92 cm. Diet advice: Breakfast – whole grain toast + egg; Lunch – lentil soup + salad; Dinner – grilled fish + steamed vegetables."
+    },
+    {
+      "memory_id": "X0194-m03",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nSilymarin 140 mg TDS\nRosuvastatin 5 mg OD\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0194-m04",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Skin prick test: Positive to Dermatophagoides pteronyssinus (3+), grass pollen (2+).\nTotal serum IgE: 210 IU/mL (ref <100)."
+    },
+    {
+      "memory_id": "X0194-m05",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 38 U/L (ref 7-35) slightly ↑\nAST 32 U/L (ref 10-35)\nALP 78 U/L (ref 40-129)\nGGT 45 U/L (ref 9-36)\nPlatelet count 210 ×10⁹/L (ref 150-400)\nLipid profile: Cholesterol 210 mg/dL (<200), HDL 48 mg/dL (>40), LDL 130 mg/dL (<100), TG 165 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0194-m06",
+      "date": "2025-04-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.8% (ref 4-5.6) borderline ↑\nCBC: WBC 6.2 ×10⁹/L, Hb 12.8 g/dL, platelets 210 ×10⁹/L\nStool routine: Ova/cyst nil, pus cells 0-2/hpf\ntTG‑IgA: Negative (<4 U/mL)."
+    },
+    {
+      "memory_id": "X0194-m07",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  Status: Improved, occasional nocturnal congestion.\n  Plan: Continue cetirizine HS, fluticasone OD, consider tapering montelukast if symptoms stay mild.\n- NAFLD\n  Status: ALT 34 U/L (now normal), waist 89 cm (just below male cut‑off).\n  Plan: Continue silymarin TDS, rosuvastatin OD. Repeat LFT and lipid in 3 months.\n- IBS\n  Status: Symptoms controlled, occasional bloating.\n  Plan: Continue mebeverine BD, ispaghula husk OD, loperamide SOS as needed.\nWeight 76 kg, waist 89 cm. Diet advice: Breakfast – oats + milk; Lunch – chapati + dal + veg; Dinner – paneer stir‑fried + salad.\nDue: HbA1c repeat 2025-10-05."
+    },
+    {
+      "memory_id": "X0194-m08",
+      "date": "2025-07-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS (continue)\nSilymarin 140 mg TDS\nRosuvastatin 5 mg OD\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0194-m09",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-05 at 10:30 with Dr Karthik Hegde (D04) for routine follow‑up. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0194-m10",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  Status: Well controlled, no exacerbations.\n  Plan: Continue current regimen; consider stopping montelukast after 3 months if asymptomatic.\n- NAFLD\n  Status: ALT 31 U/L, waist 88 cm. Lipid: Cholesterol 195 mg/dL, TG 140 mg/dL.\n  Plan: Continue silymarin, rosuvastatin. Repeat lipid and LFT in 6 months.\n- IBS\n  Status: Symptom‑free on current regimen.\n  Plan: Continue mebeverine BD, ispaghula husk OD; keep loperamide SOS.\nWeight 75 kg, waist 88 cm. Diet advice: Breakfast – idli + sambar; Lunch – brown rice + curd + veg; Dinner – grilled chicken + quinoa.\nDue: HbA1c repeat 2026-01-05."
+    },
+    {
+      "memory_id": "X0194-m11",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.6% (ref 4-5.6) at upper limit\nLipid profile: Cholesterol 190 mg/dL, HDL 50 mg/dL, LDL 125 mg/dL, TG 130 mg/dL\nALT 30 U/L, AST 28 U/L\nGGT 42 U/L"
+    },
+    {
+      "memory_id": "X0194-m12",
+      "date": "2026-04-08",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Eye exam (dilated fundoscopy): No diabetic retinopathy. Macula clear, disc margins sharp. No macular edema. Recommend repeat in 1 year."
+    },
+    {
+      "memory_id": "X0194-m13",
+      "date": "2026-09-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  Status: Minimal symptoms, uses cetirizine PRN.\n  Plan: Stop montelukast, continue cetirizine HS and fluticasone OD as needed.\n- NAFLD\n  Status: Stable, ALT 29 U/L, waist 86 cm (<90). Lipid: Cholesterol 185 mg/dL, TG 120 mg/dL.\n  Plan: Continue silymarin TDS, consider tapering rosuvastatin if LDL <100 after re‑check.\n- IBS\n  Status: Asymptomatic.\n  Plan: Continue ispaghula husk OD, mebeverine BD PRN, loperamide SOS.\nWeight 73 kg, waist 86 cm. Diet advice: Breakfast – poha + peanuts; Lunch – millet roti + dal + sabzi; Dinner – fish curry + brown rice.\nDue: HbA1c repeat 2026-12-20 (annual)."
+    }
+  ]
+}

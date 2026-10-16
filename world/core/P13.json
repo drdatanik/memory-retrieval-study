@@ -1,0 +1,122 @@
+{
+  "patient_id": "P13",
+  "name": "Lakshmi Venkatesh",
+  "age": 63,
+  "sex": "F",
+  "primary_doctor": "D01",
+  "conditions": ["Type 2 diabetes", "Chronic kidney disease stage 3b", "Hypertension"],
+  "memories": [
+    {
+      "memory_id": "P13-m01",
+      "date": "2025-05-13",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, HTN, CKD (eGFR 52 today). Taking metformin (Glycomet) 1000 mg BD and telmisartan (Telma) 40 mg OD. C/o fatigue on long walks. No ankle swelling, no frothy urine. No hypoglycaemia. Passes urine normally, nocturia x 1.\nO: O/E BP 136/84 mmHg. Pulse 74/min regular. Weight 68 kg, BMI 27. Feet: sensation intact, no ulcer.\nA: 1. T2DM, control adequate. 2. CKD, eGFR 52 mL/min/1.73m2, to be monitored. 3. HTN, near target.\nP: 1. Continue metformin 1000 mg BD. 2. Continue telmisartan 40 mg OD. 3. Renal function panel today; repeat at intervals. 4. Low-salt diet.\nAdv: Walk 30 min daily. Salt under 5 g/day. Drink adequate water. Avoid NSAIDs (painkillers) without advice. R/V in 3 mths."
+    },
+    {
+      "memory_id": "P13-m02",
+      "date": "2025-05-13",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Renal function panel, collected 2025-05-13, Sunrise Family Clinic Laboratory. Creatinine: 1.12 mg/dL (reference 0.6-1.1). eGFR (CKD-EPI): 52 mL/min/1.73m2 (reference 60 or more). Interpretation: reduced eGFR, CKD range."
+    },
+    {
+      "memory_id": "P13-m03",
+      "date": "2025-09-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Renal function panel, collected 2025-09-09, Sunrise Family Clinic Laboratory. Creatinine: 1.20 mg/dL (reference 0.6-1.1). eGFR (CKD-EPI): 48 mL/min/1.73m2 (reference 60 or more). Interpretation: reduced eGFR, CKD range."
+    },
+    {
+      "memory_id": "P13-m04",
+      "date": "2025-09-09",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, HTN, CKD. eGFR has fallen to 48 today. No new symptoms. Home fasting sugars 140-160 mg/dL, no hypos. Taking metformin 1000 mg BD and telmisartan 40 mg OD.\nO: O/E BP 138/86 mmHg. Weight 67 kg. Ankles: no pitting oedema.\nA: 1. T2DM, glycaemic control suboptimal. 2. CKD, eGFR 48, progressing slowly. 3. HTN, above target on telmisartan.\nP: 1. Start dapagliflozin (Forxiga) 10 mg OD for kidney and heart protection with glucose lowering. 2. Continue metformin 1000 mg BD. 3. Continue telmisartan 40 mg OD. 4. Sick-day rules explained.\nAdv: Drink fluids through the day, do not skip meals, keep genital hygiene. Walk 30 min daily. R/V in 3 mths."
+    },
+    {
+      "memory_id": "P13-m05",
+      "date": "2025-09-09",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx: dapagliflozin (Forxiga) 10 mg tab, 1 tab OD in the morning, from 2025-09-09. New medicine. Other medicines unchanged: metformin 1000 mg BD, telmisartan 40 mg OD."
+    },
+    {
+      "memory_id": "P13-m06",
+      "date": "2026-01-13",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Renal function panel, collected 2026-01-13, Sunrise Family Clinic Laboratory. Creatinine: 1.30 mg/dL (reference 0.6-1.1). eGFR (CKD-EPI): 44 mL/min/1.73m2 (reference 60 or more). Interpretation: reduced eGFR, CKD stage 3b range."
+    },
+    {
+      "memory_id": "P13-m07",
+      "date": "2026-01-13",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, HTN, CKD. On dapagliflozin 10 mg OD since 2025-09-09, tolerating well, earlier genital itch resolved. No hypos. Home fasting sugars 120-140 mg/dL. No dizziness on standing.\nO: O/E BP 132/80 mmHg. Weight 66 kg. No pedal oedema.\nA: 1. CKD, eGFR 44, now in stage 3b range. 2. T2DM, improved. 3. HTN, near target.\nP: 1. Reduce metformin from 1000 mg BD to 500 mg BD from today, as eGFR is now 44. 2. Continue dapagliflozin 10 mg OD. 3. Continue telmisartan 40 mg OD. 4. Renal function again in 4 months.\nAdv: Moderate protein intake, do not restrict heavily. Low salt. Walk 30 min daily. Avoid NSAIDs. R/V in 4 mths."
+    },
+    {
+      "memory_id": "P13-m08",
+      "date": "2026-01-13",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx: metformin (Glycomet) 500 mg BD after meals, from 2026-01-13. Dose reduced from 1000 mg BD because eGFR 44. Other medicines unchanged: dapagliflozin 10 mg OD, telmisartan 40 mg OD."
+    },
+    {
+      "memory_id": "P13-m09",
+      "date": "2026-03-17",
+      "type": "investigation",
+      "author": "D01",
+      "text": "Dilated fundus examination, both eyes, 2026-03-17: no diabetic retinopathy seen. Optic discs normal. Macula normal. Impression: no diabetic retinopathy in either eye."
+    },
+    {
+      "memory_id": "P13-m10",
+      "date": "2026-05-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Renal function panel and urine, collected 2026-05-12, Sunrise Family Clinic Laboratory. Creatinine: 1.40 mg/dL (reference 0.6-1.1). eGFR (CKD-EPI): 41 mL/min/1.73m2 (reference 60 or more). Urine albumin-creatinine ratio: 180 mg/g (reference below 30 mg/g; 30-300 mg/g moderately increased)."
+    },
+    {
+      "memory_id": "P13-m11",
+      "date": "2026-05-12",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, HTN, CKD. eGFR now 41 with urine albumin-creatinine ratio 180 mg/g. Metformin reduced to 500 mg BD in January. Home fasting sugars 150-170 mg/dL at times. No hypos. C/o tiredness. No frothy urine, no ankle swelling. Passing urine at night x 2.\nO: O/E BP 142/88 mmHg. Weight 65 kg.\nA: 1. T2DM, not at target on current therapy. 2. CKD stage 3b, eGFR 41, with albuminuria (ACR 180 mg/g). 3. HTN, above target.\nP: 1. Start linagliptin (Trajenta) 5 mg OD. No renal dose change needed. 2. Continue metformin 500 mg BD and dapagliflozin 10 mg OD. 3. Continue telmisartan 40 mg OD. 4. Nephrology referral for falling eGFR, letter given.\nAdv: Low salt, under 5 g/day. Walk 30 min daily. Keep hydrated, no NSAIDs. R/V in 3 mths."
+    },
+    {
+      "memory_id": "P13-m12",
+      "date": "2026-05-12",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx: linagliptin (Trajenta) 5 mg tab, 1 tab OD, from 2026-05-12. New medicine, no renal dose adjustment needed. Other medicines unchanged: metformin 500 mg BD, dapagliflozin 10 mg OD, telmisartan 40 mg OD."
+    },
+    {
+      "memory_id": "P13-m13",
+      "date": "2026-05-12",
+      "type": "referral",
+      "author": "D01",
+      "text": "Referral to nephrology: Dr Sunil Rao, St John's Hospital. Reason: falling eGFR (52 in May 2025, 41 today) with albuminuria (urine albumin-creatinine ratio 180 mg/g). Referred 2026-05-12 by D01."
+    },
+    {
+      "memory_id": "P13-m14",
+      "date": "2026-09-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Renal function panel and HbA1c, collected 2026-09-08, Sunrise Family Clinic Laboratory. Creatinine: 1.52 mg/dL (reference 0.6-1.1). eGFR (CKD-EPI): 38 mL/min/1.73m2 (reference 60 or more). HbA1c: 7.2 % (reference below 5.7 %). Interpretation: reduced eGFR, CKD stage 3b range."
+    },
+    {
+      "memory_id": "P13-m15",
+      "date": "2026-09-08",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, HTN, CKD. Linagliptin started 2026-05-12. Tiredness better. Home fasting sugars 130-150 mg/dL, no hypos. No new swelling. Walking 25 min most days.\nO: O/E BP 136/82 mmHg. Weight 65 kg. Feet normal, no ulcer.\nA: 1. CKD stage 3b, eGFR 38, falling steadily since 2025. 2. T2DM, HbA1c 7.2 %. 3. HTN, near target.\nP: 1. Continue linagliptin 5 mg OD, dapagliflozin 10 mg OD, metformin 500 mg BD, telmisartan 40 mg OD. 2. Nephrology referral dated 2026-05-12 on record. 3. Renal function panel and HbA1c in 3 months.\nAdv: Low salt, under 5 g/day. Adequate fluids. Walk 30 min daily. Avoid NSAIDs and self-medication with painkillers. R/V in 3 mths."
+    },
+    {
+      "memory_id": "P13-m16",
+      "date": "2026-09-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message, 2026-09-10 (patient): 'Hello doctor, I am a retired school teacher. I got my blood report from the 8th. Are my kidney numbers getting better or worse? Please explain in simple words, I do not understand the eGFR line.'"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0333",
+  "name": "Elsy Mathew",
+  "age": 44,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Glaucoma",
+    "Generalised anxiety disorder",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0333-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of glaucoma, generalised anxiety disorder and type 2 diabetes.\nPRESENTING COMPLAINT: Patient reports stable vision, occasional worry, and no polyuria or polydipsia.\nEXAMINATION: BP 128/82 mmHg, weight 68 kg, height 1.58 m, BMI 27.2 (obese). Intraocular pressure 22 mmHg OU, visual fields full, optic discs cupped 0.6. Chest clear, no edema.\nIMPRESSION: Glaucoma uncontrolled (IOP >21). Anxiety mild, GAD‑7 score 6. Diabetes suboptimal, HbA1c 7.8%, fasting glucose 156 mg/dL, LDL 130 mg/dL, triglycerides 180 mg/dL, HDL 38 mg/dL. TSH 2.1 mIU/L, Hb 13.2 g/dL.\nARRANGEMENTS: Continue timolol 0.5% eye drops BD, latanoprost 0.005% eye drops HS, escitalopram 5 mg OD, buspirone 5 mg BD, metformin 500 mg BD, glimepiride 1 mg OD before breakfast, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Advise low‑salt diet, 150 min brisk walk weekly. Return if eye pain, sudden vision loss, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0333-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "timolol 0.5% eye drops – 1 drop each eye twice daily\nlatanoprost 0.005% eye drops – 1 drop each eye at bedtime\nescitalopram 5 mg – take one tablet daily\nbuspirone 5 mg – take one tablet twice daily\nmetformin 500 mg – take one tablet twice daily\nglimepiride 1 mg – take one tablet daily before breakfast\nsitagliptin 100 mg – take one tablet daily\nempagliflozin 10 mg – take one tablet daily"
+    },
+    {
+      "memory_id": "X0333-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (4.0‑5.6)\nFasting plasma glucose 156 mg/dL (70‑99)\nLipid profile: LDL 130 mg/dL (<100), HDL 38 mg/dL (>40), Triglycerides 180 mg/dL (<150)\nTSH 2.1 mIU/L (0.4‑4.0)\nHaemoglobin 13.2 g/dL (12.0‑15.5)\nIntraocular pressure 22 mmHg OU (10‑21)"
+    },
+    {
+      "memory_id": "X0333-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of labs and symptom check.\nPRESENTING COMPLAINT: Patient feels well, no new visual symptoms, anxiety unchanged.\nEXAMINATION: BP 130/84 mmHg, weight 69 kg, BMI 27.6 (obese). IOP 21 mmHg OU. No pedal edema.\nIMPRESSION: IOP borderline, continue glaucoma meds. Diabetes: HbA1c 7.8% unchanged, fasting glucose 156 mg/dL, LDL 130, triglycerides 180, HDL 38. Anxiety GAD‑7 6.\nARRANGEMENTS: Increase metformin to 850 mg BD. Keep glimepiride 1 mg OD. Reinforce diet and activity. Return if eye pain, vision change, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0333-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "timolol 0.5% eye drops – 1 drop each eye twice daily\nlatanoprost 0.005% eye drops – 1 drop each eye at bedtime\nescitalopram 5 mg – take one tablet daily\nbuspirone 5 mg – take one tablet twice daily\nmetformin 850 mg – take one tablet twice daily\nglimepiride 1 mg – take one tablet daily before breakfast\nsitagliptin 100 mg – take one tablet daily\nempagliflozin 10 mg – take one tablet daily"
+    },
+    {
+      "memory_id": "X0333-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (4.0‑5.6)\nFasting plasma glucose 156 mg/dL (70‑99)\nLipid profile: LDL 130 mg/dL (<100), HDL 38 mg/dL (>40), Triglycerides 180 mg/dL (<150)\nTSH 2.0 mIU/L (0.4‑4.0)\nHaemoglobin 13.1 g/dL (12.0‑15.5)\nIntraocular pressure 21 mmHg OU (10‑21)"
+    },
+    {
+      "memory_id": "X0333-m07",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more anxious lately, trouble sleeping and my mind races. Can we increase my buspirone?"
+    },
+    {
+      "memory_id": "X0333-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: increased anxiety symptoms.\nPRESENTING COMPLAINT: Patient reports worsening worry, insomnia, restlessness over past 4 weeks.\nEXAMINATION: BP 128/80 mmHg, weight 68.5 kg, BMI 27.4 (obese). IOP 20 mmHg OU.\nIMPRESSION: Generalised anxiety disorder exacerbated, GAD‑7 now 12. Diabetes stable, HbA1c 7.8% (last). Glaucoma controlled.\nARRANGEMENTS: Increase buspirone to 10 mg BD. Offer influenza vaccine (given today). Continue other meds. Advise sleep hygiene, limit caffeine. Return if panic attacks, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0333-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "timolol 0.5% eye drops – 1 drop each eye twice daily\nlatanoprost 0.005% eye drops – 1 drop each eye at bedtime\nescitalopram 5 mg – take one tablet daily\nbuspirone 10 mg – take one tablet twice daily\nmetformin 850 mg – take one tablet twice daily\nglimepiride 1 mg – take one tablet daily before breakfast\nsitagliptin 100 mg – take one tablet daily\nempagliflozin 10 mg – take one tablet daily"
+    },
+    {
+      "memory_id": "X0333-m10",
+      "date": "2026-01-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Dilated fundus exam: mild non‑proliferative diabetic retinopathy, microaneurysms temporal to fovea OU, no macular edema. Visual acuity 20/25 OU."
+    },
+    {
+      "memory_id": "X0333-m11",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2% (4.0‑5.6)\nFasting plasma glucose 138 mg/dL (70‑99)\nUrine albumin‑creatinine ratio 30 mg/g (<30 normal)\nLipid profile: LDL 122 mg/dL (<100), HDL 40 mg/dL (>40), Triglycerides 160 mg/dL (<150)\nTSH 2.2 mIU/L (0.4‑4.0)\nHaemoglobin 13.0 g/dL (12.0‑15.5)"
+    },
+    {
+      "memory_id": "X0333-m12",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of diabetes labs and eye exam.\nPRESENTING COMPLAINT: Patient denies visual blurring, reports occasional fatigue.\nEXAMINATION: BP 132/84 mmHg, weight 69 kg, BMI 27.6 (obese). IOP 20 mmHg OU.\nIMPRESSION: Diabetes improving, HbA1c 7.2% down from 7.8%, microalbuminuria present. Glaucoma stable. Anxiety controlled on buspirone 10 mg BD, GAD‑7 5.\nARRANGEMENTS: Increase metformin to 1000 mg BD. Keep glimepiride 1 mg OD. Continue sitagliptin, empagliflozin. Reinforce low‑sodium diet, weight loss goal 5 kg. Return if eye pain, vision loss, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0333-m13",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "timolol 0.5% eye drops – 1 drop each eye twice daily\nlatanoprost 0.005% eye drops – 1 drop each eye at bedtime\nescitalopram 5 mg – take one tablet daily\nbuspirone 10 mg – take one tablet twice daily\nmetformin 1000 mg – take one tablet twice daily\nglimepiride 1 mg – take one tablet daily before breakfast\nsitagliptin 100 mg – take one tablet daily\nempagliflozin 10 mg – take one tablet daily"
+    },
+    {
+      "memory_id": "X0333-m14",
+      "date": "2026-08-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-09-10 at 10:30 am with Dr Priya Natarajan (D03)."
+    }
+  ]
+}

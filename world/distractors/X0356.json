@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0356",
+  "name": "Sudhir Joshi",
+  "age": 31,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0356-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild epigastric burning after meals, able to work full day, no limitation in ADLs. cognition: Mini-Cog 5/5, intact. falls: none in last 12 months, gait normal, TUG 9 seconds (low risk). medicines: 3 regular (pantoprazole, antacid gel SOS, domperidone). mood: denies depression or anxiety. carers: wife Priya, spouse. goals: \"I want to stay symptom‑free and continue my office work without discomfort.\""
+    },
+    {
+      "memory_id": "X0356-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pantoprazole 40 mg tablet, take orally once daily before breakfast.\nantacid gel 10 mL, take orally as needed after meals or when heartburn occurs.\ndomperidone 10 mg tablet, take orally twice daily before breakfast and dinner."
+    },
+    {
+      "memory_id": "X0356-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Positive (detected). Reference range: Negative. Comment: Active Helicobacter pylori infection."
+    },
+    {
+      "memory_id": "X0356-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: heartburn reduced to twice weekly, still able to work full day, no ADL limitation. cognition: Mini-Cog 5/5 unchanged. falls: none, gait normal, TUG 9 seconds. medicines: 3 regular (pantoprazole, antacid gel SOS, domperidone). mood: reports occasional frustration but no depressive symptoms. carers: wife Priya. goals: \"I would like to have fewer heartburn episodes and enjoy meals without worry.\""
+    },
+    {
+      "memory_id": "X0356-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pantoprazole 40 mg tablet, take orally once daily before breakfast.\nantacid gel 10 mL, take orally as needed after meals or when heartburn occurs.\ndomperidone 10 mg tablet, take orally twice daily before breakfast and dinner."
+    },
+    {
+      "memory_id": "X0356-m06",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have noticed my heartburn is less frequent now, about twice a week, and it is milder. I still use the antacid gel occasionally after spicy meals. The domperidone seems to help with bloating after dinner."
+    },
+    {
+      "memory_id": "X0356-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: persistent heartburn after meals despite medication, reports difficulty concentrating at work due to discomfort. cognition: Mini-Cog 5/5. falls: none, gait normal, TUG 9 seconds. medicines: 3 regular (pantoprazole, antacid gel SOS, domperidone). mood: mild irritability noted. carers: wife Priya. goals: \"I want to find out why my symptoms persist and get lasting relief.\""
+    },
+    {
+      "memory_id": "X0356-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pantoprazole 40 mg tablet, take orally once daily before breakfast.\nantacid gel 10 mL, take orally as needed after meals or when heartburn occurs.\ndomperidone 10 mg tablet, take orally twice daily before breakfast and dinner."
+    },
+    {
+      "memory_id": "X0356-m09",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Upper gastrointestinal endoscopy performed. Findings: Mild erythema of the antrum, no ulceration or erosions. Biopsy taken for histology and H. pylori culture. Conclusion: No significant mucosal injury; mild gastritis suggestive of reflux-related changes."
+    },
+    {
+      "memory_id": "X0356-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: heartburn improved after stopping domperidone, reports occasional mild discomfort after large meals. cognition: Mini-Cog 5/5. falls: none, gait normal, TUG 9 seconds. medicines: 2 regular (pantoprazole, antacid gel SOS) – domperidone stopped due to headache side effect. mood: reports feeling better, no depressive symptoms. carers: wife Priya. goals: \"I would like to stay on minimal medication and avoid side effects.\""
+    },
+    {
+      "memory_id": "X0356-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pantoprazole 40 mg tablet, take orally once daily before breakfast.\nantacid gel 10 mL, take orally as needed after meals or when heartburn occurs."
+    },
+    {
+      "memory_id": "X0356-m12",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Positive (detected). Reference range: Negative. Comment: Persistent infection despite PPI therapy."
+    },
+    {
+      "memory_id": "X0356-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: heartburn controlled, able to work full day, no limitation. cognition: Mini-Cog 5/5. falls: none, gait normal, TUG 9 seconds. medicines: 3 regular (pantoprazole, antacid gel SOS, domperidone 5 mg BD) – domperidone restarted at lower dose. mood: stable, no anxiety. carers: wife Priya. goals: \"I want to keep my symptoms under control with the lowest effective medication.\""
+    },
+    {
+      "memory_id": "X0356-m14",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pantoprazole 40 mg tablet, take orally once daily before breakfast.\nantacid gel 10 mL, take orally as needed after meals or when heartburn occurs.\ndomperidone 5 mg tablet, take orally twice daily before breakfast and dinner."
+    },
+    {
+      "memory_id": "X0356-m15",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-07-05 at 10:30 AM with Dr Nandini Kulkarni (D06) in Geriatric Medicine clinic. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0356-m16",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: heartburn absent, reports normal diet and work performance. cognition: Mini-Cog 5/5. falls: none, gait normal, TUG 9 seconds. medicines: 3 regular (pantoprazole, antacid gel SOS, domperidone 5 mg BD). mood: reports good wellbeing. carers: wife Priya. goals: \"I am happy with my current treatment and wish to maintain this status.\""
+    },
+    {
+      "memory_id": "X0356-m17",
+      "date": "2026-07-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pantoprazole 40 mg tablet, take orally once daily before breakfast.\nantacid gel 10 mL, take orally as needed after meals or when heartburn occurs.\ndomperidone 5 mg tablet, take orally twice daily before breakfast and dinner."
+    },
+    {
+      "memory_id": "X0356-m18",
+      "date": "2026-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (not detected). Reference range: Negative. Comment: Infection eradicated after therapy."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0023",
+  "name": "Sunanda Kadam",
+  "age": 81,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Osteoarthritis of the knee"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0023-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees.\nEvidence: bilateral knee pain worsening on weight bearing, morning stiffness <30 minutes, crepitus on examination. Symptoms and examination: patient reports aching pain in both knees, worse after household chores; examination shows mild effusion, limited flexion to 120°, no warmth or redness. Spirometry: FEV1 2.8 L (92% predicted), FVC 3.2 L, FEV1/FVC 0.88; change since prior test N/A. No inhaler prescribed. Smoking status: never smoked, pack-years 0. Plan: start symptomatic therapy, check vitamin D, review in 3 months."
+    },
+    {
+      "memory_id": "X0023-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg – take as needed for pain, max 4 doses per day.\nTopical diclofenac gel – apply thin layer to affected knees twice daily.\nCalcium with vitamin D3 – one tablet daily."
+    },
+    {
+      "memory_id": "X0023-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH Vitamin D: 18 ng/mL (Reference range 30‑100 ng/mL)."
+    },
+    {
+      "memory_id": "X0023-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Weight‑bearing X‑ray of both knees: mild joint space narrowing, marginal osteophytes, no significant subchondral sclerosis – consistent with grade II osteoarthritis."
+    },
+    {
+      "memory_id": "X0023-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees.\nEvidence: persistent knee pain despite paracetamol SOS, difficulty climbing stairs. Symptoms and examination: patient reports increased pain in right knee after walking 200 m; examination shows tenderness over medial joint line, mild effusion, crepitus, flexion 110°. Spirometry: FEV1 2.75 L (90% predicted), FVC 3.15 L, FEV1/FVC 0.87; ΔFEV1 –0.05 L since last visit. No inhaler prescribed. Smoking status: never smoked, pack-years 0. Plan: reinforce topical NSAID, ensure calcium‑vit D adherence, consider adding glucosamine."
+    },
+    {
+      "memory_id": "X0023-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg – take as needed for pain, max 4 doses per day.\nTopical diclofenac gel – apply thin layer to affected knees twice daily.\nCalcium with vitamin D3 – one tablet daily."
+    },
+    {
+      "memory_id": "X0023-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH Vitamin D: 22 ng/mL (Reference range 30‑100 ng/mL)."
+    },
+    {
+      "memory_id": "X0023-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees.\nEvidence: ongoing discomfort, limited response to topical NSAID. Symptoms and examination: patient describes aching pain in both knees after standing >15 min, occasional swelling; examination shows mild synovial thickening, no erythema, flexion 115° bilaterally. Spirometry: FEV1 2.78 L (91% predicted), FVC 3.18 L, FEV1/FVC 0.87; ΔFEV1 +0.03 L since last visit. No inhaler prescribed. Smoking status: never smoked, pack-years 0. Plan: add supervised physiotherapy, continue calcium‑vit D, re‑check vitamin D."
+    },
+    {
+      "memory_id": "X0023-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg – take as needed for pain, max 4 doses per day.\nTopical diclofenac gel – apply thin layer to affected knees twice daily.\nCalcium with vitamin D3 – one tablet daily."
+    },
+    {
+      "memory_id": "X0023-m10",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I’ve been feeling more stiffness in my knees when I get up from a chair, and the gel sometimes irritates my skin. Could we try something else for the pain?\" - message via clinic app."
+    },
+    {
+      "memory_id": "X0023-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees.\nEvidence: mild improvement with physiotherapy, skin irritation from gel noted. Symptoms and examination: patient reports less pain after physiotherapy sessions, occasional right‑knee ache after long walks; examination shows mild tenderness, no effusion, flexion 120°. Spirometry: FEV1 2.80 L (92% predicted), FVC 3.20 L, FEV1/FVC 0.88; ΔFEV1 +0.02 L since last visit. No inhaler prescribed. Smoking status: never smoked, pack-years 0. Plan: discontinue topical diclofenac due to irritation, continue paracetamol SOS, maintain calcium‑vit D, repeat vitamin D in 3 months."
+    },
+    {
+      "memory_id": "X0023-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg – take as needed for pain, max 4 doses per day.\nCalcium with vitamin D3 – one tablet daily."
+    },
+    {
+      "memory_id": "X0023-m13",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH Vitamin D: 25 ng/mL (Reference range 30‑100 ng/mL). CBC: WBC 6.2×10⁹/L, Hb 12.8 g/dL, Plt 210×10⁹/L – all within normal limits."
+    },
+    {
+      "memory_id": "X0023-m14",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees.\nEvidence: stable symptoms, vitamin D still suboptimal. Symptoms and examination: patient reports mild knee discomfort after household chores, no night pain; examination shows no effusion, mild crepitus, flexion 122°. Spirometry: FEV1 2.82 L (93% predicted), FVC 3.22 L, FEV1/FVC 0.88; ΔFEV1 +0.02 L since last visit. No inhaler prescribed. Smoking status: never smoked, pack-years 0. Plan: initiate vitamin D supplementation, continue paracetamol SOS, review in 3 months."
+    },
+    {
+      "memory_id": "X0023-m15",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg – take as needed for pain, max 4 doses per day.\nCalcium with vitamin D3 – one tablet daily.\nVitamin D3 cholecalciferol 1000 IU – one tablet daily."
+    },
+    {
+      "memory_id": "X0023-m16",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Suresh Menon (D05) on 2026-08-05 at 10:30 am."
+    },
+    {
+      "memory_id": "X0023-m17",
+      "date": "2026-08-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis of both knees.\nEvidence: vitamin D now adequate, pain controlled. Symptoms and examination: patient denies significant knee pain, occasional mild ache after prolonged standing; examination shows no swelling, flexion 125°, mild crepitus. Spirometry: FEV1 2.85 L (94% predicted), FVC 3.25 L, FEV1/FVC 0.88; ΔFEV1 +0.03 L since last visit. No inhaler prescribed. Smoking status: never smoked, pack-years 0. Plan: maintain current regimen, advise joint protection, next review in 6 months."
+    },
+    {
+      "memory_id": "X0023-m18",
+      "date": "2026-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH Vitamin D: 34 ng/mL (Reference range 30‑100 ng/mL)."
+    }
+  ]
+}

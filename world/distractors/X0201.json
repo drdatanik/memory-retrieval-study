@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0201",
+  "name": "Sanjeev Pandey",
+  "age": 78,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Dyslipidaemia",
+    "Atrial fibrillation",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0201-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of dyslipidaemia, atrial fibrillation and hypertension.\nPRESENTING COMPLAINT: He feels well, no chest pain, palpitations or dyspnoea.\nEXAMINATION: BP 138/84 mmHg, weight 70 kg, height 1.65 m, BMI 25.7 (obese). Advised diet low in saturated fat and daily brisk walk 30 minutes.\nIMPRESSION: Stable atrial fibrillation on apixaban, controlled hypertension, dyslipidaemia awaiting lipid results.\nARRANGEMENTS: Order fasting lipid profile, fasting blood sugar, LFT, CK, creatinine, TSH and serum potassium today. Continue atorvastatin 10 mg HS, apixaban 5 mg BD, bisoprolol 2.5 mg OD, amlodipine 5 mg OD, telmisartan 40 mg OD. Return if chest pain, breathlessness, fever >39°C, or black stools."
+    },
+    {
+      "memory_id": "X0201-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Atorvastatin 10 mg HS\nApixaban 5 mg BD\nBisoprolol 2.5 mg OD\nAmlodipine 5 mg OD\nTelmisartan 40 mg OD"
+    },
+    {
+      "memory_id": "X0201-m03",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "12‑lead ECG: sinus rhythm, rate 78 bpm. No ST‑T changes. No evidence of recent ischemia. PR interval 160 ms, QRS 92 ms, QTc 420 ms."
+    },
+    {
+      "memory_id": "X0201-m04",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 138 mg/dL ( <100), HDL 42 mg/dL (>40), TG 168 mg/dL (<150).\nLiver function: ALT 28 U/L (7‑56), AST 24 U/L (10‑40), ALP 78 U/L (40‑129), GGT 32 U/L (<51).\nCreatine kinase: 162 U/L (30‑200).\nSerum creatinine: 1.02 mg/dL (0.6‑1.2).\nTSH: 2.1 µIU/mL (0.4‑4.5).\nSerum potassium: 4.4 mmol/L (3.5‑5.0)."
+    },
+    {
+      "memory_id": "X0201-m05",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of lipid results and medication tolerance.\nPRESENTING COMPLAINT: No new symptoms; reports mild muscle aches in thighs.\nEXAMINATION: BP 142/88 mmHg, weight 71 kg, BMI 26.1 (obese). Advised reduce red meat, increase fruits, and continue walking.\nIMPRESSION: LDL remains elevated; CK slightly up, consider statin change. Atrial fibrillation well controlled on apixaban.\nARRANGEMENTS: Switch atorvastatin to rosuvastatin 10 mg OD, add fenofibrate 145 mg OD, increase bisoprolol to 5 mg OD, add hydrochlorothiazide 12.5 mg OD. Repeat lipid, LFT, CK, creatinine, TSH, K in 2 weeks. Return if worsening muscle pain, dark urine, swelling, or fever >39°C."
+    },
+    {
+      "memory_id": "X0201-m06",
+      "date": "2025-08-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate 145 mg OD\nBisoprolol 5 mg OD\nHydrochlorothiazide 12.5 mg OD\nApixaban 5 mg BD\nAmlodipine 5 mg OD\nTelmisartan 40 mg OD"
+    },
+    {
+      "memory_id": "X0201-m07",
+      "date": "2025-08-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "ECG: sinus rhythm, rate 80 bpm. No atrial fibrillation waves noted; possible intermittent paroxysmal AF. No acute changes."
+    },
+    {
+      "memory_id": "X0201-m08",
+      "date": "2025-08-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 112 mg/dL (<100 borderline), HDL 44 mg/dL (>40), TG 138 mg/dL (<150).\nLiver function: ALT 30 U/L, AST 26 U/L, ALP 80 U/L, GGT 34 U/L.\nCreatine kinase: 210 U/L (slightly elevated).\nSerum creatinine: 1.04 mg/dL.\nTSH: 2.0 µIU/mL.\nSerum potassium: 4.5 mmol/L."
+    },
+    {
+      "memory_id": "X0201-m09",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘I have felt occasional fluttering in my chest over the past two days, lasting a few seconds each time. No pain or shortness of breath.’"
+    },
+    {
+      "memory_id": "X0201-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: evaluate palpitations and medication side‑effects.\nPRESENTING COMPLAINT: Reports occasional palpitations, no syncope.\nEXAMINATION: BP 136/82 mmHg, weight 70.5 kg, BMI 25.8 (obese). Advised avoid caffeine, maintain hydration.\nIMPRESSION: Palpitations likely breakthrough atrial fibrillation; consider rate control adjustment. CK elevated, suspect fenofibrate‑related myopathy.\nARRANGEMENTS: Stop fenofibrate, reduce bisoprolol to 2.5 mg OD, keep apixaban 5 mg BD. Repeat lipid, LFT, CK, creatinine, TSH, K and INR (if warfarin started) in 2 weeks. Return if palpitations worsen, chest pain, fainting, or fever >39°C."
+    },
+    {
+      "memory_id": "X0201-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 10 mg OD\nBisoprolol 2.5 mg OD\nApixaban 5 mg BD\nAmlodipine 5 mg OD\nTelmisartan 40 mg OD\nHydrochlorothiazide 12.5 mg OD (continued)"
+    },
+    {
+      "memory_id": "X0201-m12",
+      "date": "2026-01-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 108 mg/dL (<100 borderline), HDL 45 mg/dL (>40), TG 130 mg/dL (<150).\nLiver function: ALT 27 U/L, AST 23 U/L, ALP 76 U/L, GGT 31 U/L.\nCreatine kinase: 165 U/L (normal).\nSerum creatinine: 1.01 mg/dL.\nTSH: 2.2 µIU/mL.\nSerum potassium: 4.4 mmol/L."
+    },
+    {
+      "memory_id": "X0201-m13",
+      "date": "2026-02-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-03-01 at 10:00 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0201-m14",
+      "date": "2026-06-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine review; patient feeling well.\nPRESENTING COMPLAINT: No chest pain, palpitations, or dyspnoea.\nEXAMINATION: BP 130/78 mmHg, weight 70 kg, BMI 25.7 (obese). Advised maintain Mediterranean diet and weekly resistance training.\nIMPRESSION: Lipids at target, atrial fibrillation silent on apixaban, hypertension controlled.\nARRANGEMENTS: Continue rosuvastatin 10 mg OD, bisoprolol 2.5 mg OD, apixaban 5 mg BD, amlodipine 5 mg OD, telmisartan 40 mg OD, hydrochlorothiazide 12.5 mg OD. No labs due until next annual review. Return if chest pain, breathlessness, fever >39°C, or sudden swelling of legs."
+    }
+  ]
+}

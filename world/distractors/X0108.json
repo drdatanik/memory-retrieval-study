@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0108",
+  "name": "Mehul Dave",
+  "age": 45,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypothyroidism",
+    "Irritable bowel syndrome",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0108-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all activities of daily living; works full-time as a software engineer; no difficulty climbing stairs or walking.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal); no cognitive concerns.\nfalls: No falls in the last 12 months; gait normal; timed up-and-go 9 seconds (below 12‑second threshold), fall risk not raised.\nmedicines: 4 regular (levothyroxine 50 mcg OD, mebeverine 135 mg BD, ispaghula husk 5 g OD, tiotropium inhaler OD); not polypharmacy.\nmood: Reports occasional work‑related stress but denies depression or anxiety.\ncarers: Meera Shah (mother).\ngoals: \"My goal is to stay active and manage my symptoms so I can continue working.\""
+    },
+    {
+      "memory_id": "X0108-m02",
+      "date": "2025-04-16",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 50 mcg oral daily\nmebeverine 135 mg oral twice daily\nispaghula husk 5 g oral daily\nsalbutamol inhaler 2 puffs as needed for wheeze\ntiotropium inhaler 1 inhalation oral daily"
+    },
+    {
+      "memory_id": "X0108-m03",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (ref 0.4‑4.0) – slightly high\nFree T4 11.2 pmol/L (ref 9.0‑19.0) – normal"
+    },
+    {
+      "memory_id": "X0108-m04",
+      "date": "2025-04-21",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 14.8 g/L, WBC 6.2×10⁹/L, Plt 210×10⁹/L – all normal\nStool routine: ova/cysts negative, no occult blood\ntTG‑IgA: <2 U/mL (ref <7) – negative, makes coeliac unlikely"
+    },
+    {
+      "memory_id": "X0108-m05",
+      "date": "2025-04-22",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Spirometry: FEV1 2.6 L (78% predicted), FVC 3.2 L, FEV1/FVC 81% (above 0.70) – mild obstructive pattern, consistent with COPD.\nNo significant bronchodilator response."
+    },
+    {
+      "memory_id": "X0108-m06",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Been having more bloating and occasional loose stools after meals; also noticing mild shortness of breath on climbing two flights of stairs. Want to check if my IBS meds need adjusting."
+    },
+    {
+      "memory_id": "X0108-m07",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent; reports mild increase in dyspnoea on exertion, but ADL unchanged.\ncognition: Mini-Cog 4/5 (annual screen) – unchanged.\nfalls: No falls; gait slightly slower; timed up-and-go 10 seconds (<12) – fall risk not raised.\nmedicines: 5 regular (levothyroxine 50 mcg OD, mebeverine 135 mg BD, ispaghula husk 5 g OD, tiotropium inhaler OD, salbutamol inhaler SOS counted as regular? Actually SOS not regular; we have 4 regular. Let's adjust: we will add budesonide-formoterol later. For now 4 regular.\nBut we need to show polypharmacy if >=5. We'll keep 4.\nmood: Notes occasional anxiety about breathing.\ncarers: Meera Shah (mother).\ngoals: \"I want to keep working without feeling breathless.\""
+    },
+    {
+      "memory_id": "X0108-m08",
+      "date": "2025-07-21",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 75 mcg oral daily\nmebeverine 135 mg oral twice daily\nispaghula husk 5 g oral daily\nsalbutamol inhaler 2 puffs as needed\ntiotropium inhaler 1 inhalation oral daily"
+    },
+    {
+      "memory_id": "X0108-m09",
+      "date": "2025-07-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.8 mIU/L (ref 0.4‑4.0) – within target after dose increase\nFree T4 12.5 pmol/L (ref 9.0‑19.0) – normal"
+    },
+    {
+      "memory_id": "X0108-m10",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Nandini Kulkarni for 2025-09-15 at 10:30 am. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0108-m11",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports good energy levels; able to walk 30 min without dyspnoea.\ncognition: Mini-Cog 4/5 – stable.\nfalls: No falls; gait normal; timed up-and-go 9 seconds.\nmedicines: 5 regular (levothyroxine 75 mcg OD, mebeverine 135 mg BD, ispaghula husk 5 g OD, tiotropium inhaler OD, budesonide-formoterol inhaler BD started); now polypharmacy (≥5) – request review against Beers criteria.\nmood: Denies depression; mild work stress.\ncarers: Meera Shah (mother).\ngoals: \"I aim to maintain my current activity level and avoid any exacerbations.\""
+    },
+    {
+      "memory_id": "X0108-m12",
+      "date": "2025-10-11",
+      "type": "prescription",
+      "author": "D06",
+      "text": "budesonide-formoterol 200/6 mcg inhaler two puffs twice daily\nlevothyroxine 75 mcg oral daily\nmebeverine 135 mg oral twice daily\nispaghula husk 5 g oral daily\nsalbutamol inhaler 2 puffs as needed\ntiotropium inhaler 1 inhalation oral daily"
+    },
+    {
+      "memory_id": "X0108-m13",
+      "date": "2025-10-12",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Chest X‑ray: lungs clear, no infiltrate or effusion. Cardiac silhouette within normal limits. No signs of hyperinflation beyond expected COPD changes."
+    },
+    {
+      "memory_id": "X0108-m14",
+      "date": "2025-11-01",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Dr S. Rao, Pulmonology, Vikram Hospital, for optimisation of COPD management and assessment of inhaler technique. Include recent spirometry and chest X‑ray reports."
+    },
+    {
+      "memory_id": "X0108-m15",
+      "date": "2025-12-01",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Pulmonology review: patient demonstrates good inhaler technique; FEV1 unchanged; recommend continuing current regimen and annual flu vaccine. No further changes needed."
+    }
+  ]
+}

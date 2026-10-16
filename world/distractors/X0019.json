@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0019",
+  "name": "Shalini Gupta",
+  "age": 83,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0019-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nEvidence: GAD-7 score 14 (moderate anxiety), TSH 2.1 mIU/L (ref 0.4-4.0), haemoglobin 12.8 g/dL (ref 12.0-15.5).\nSymptoms and examination: reports persistent worry, restlessness, fatigue, muscle tension; appears tense but cooperative, vital signs normal, lungs clear to auscultation.\nSmoking status: former smoker, pack-years 20, stopped 2008.\nSpirometry: FEV1 2.20 L (78% predicted), FVC 2.80 L, FEV1/FVC 0.79; change since prior N/A.\nInhaler technique: not applicable.\nAssessment: Anxiety moderate; lungs stable.\nPlan: start escitalopram 5 mg OD, buspirone 5 mg BD; repeat labs in 3 months; review in 2 months."
+    },
+    {
+      "memory_id": "X0019-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "escitalopram 5 mg OD\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0019-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.1 mIU/L (ref 0.4-4.0)\nHaemoglobin: 12.8 g/dL (ref 12.0-15.5)"
+    },
+    {
+      "memory_id": "X0019-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nEvidence: GAD-7 score 9 (mild anxiety), TSH 1.9 mIU/L, haemoglobin 13.0 g/dL.\nSymptoms and examination: reports reduced worry, better sleep, occasional mild tension; appears relaxed, lungs clear.\nSmoking status: former smoker, pack-years 20, stopped 2008.\nSpirometry: FEV1 1.80 L (55% predicted), FVC 2.40 L, FEV1/FVC 0.75; change since last -0.40 L.\nInhaler technique: Technique checked: correct (salbutamol metered-dose inhaler).\nAssessment: Anxiety improved; mild COPD evident.\nPlan: continue current anxiolytics; add salbutamol MDI 2 puffs QID PRN for dyspnoea; review in 3 months."
+    },
+    {
+      "memory_id": "X0019-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "salbutamol metered-dose inhaler 2 puffs QID PRN"
+    },
+    {
+      "memory_id": "X0019-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 1.9 mIU/L (ref 0.4-4.0)\nHaemoglobin: 13.0 g/dL (ref 12.0-15.5)"
+    },
+    {
+      "memory_id": "X0019-m07",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past month I’ve felt more anxious again, waking up at night with racing thoughts and feeling short of breath when I walk to the market."
+    },
+    {
+      "memory_id": "X0019-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nEvidence: GAD-7 score 16 (moderate-severe anxiety), TSH 2.0 mIU/L, haemoglobin 12.9 g/dL.\nSymptoms and examination: describes increased worry, nocturnal awakenings, mild dyspnoea on exertion; appears anxious, lungs clear with mild wheeze at bases.\nSmoking status: former smoker, pack-years 20, stopped 2008.\nSpirometry: FEV1 1.78 L (54% predicted), FVC 2.38 L, FEV1/FVC 0.75; change since last -0.02 L.\nInhaler technique: Technique checked: correct (salbutamol MDI).\nAssessment: Anxiety worsened; COPD stable.\nPlan: increase escitalopram to 10 mg OD; continue buspirone; continue salbutamol PRN; review in 1 month."
+    },
+    {
+      "memory_id": "X0019-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "escitalopram 10 mg OD\nbuspirone 5 mg BD\nsalbutamol metered-dose inhaler 2 puffs QID PRN"
+    },
+    {
+      "memory_id": "X0019-m10",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-02-20 at 10:30 am with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0019-m11",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nEvidence: GAD-7 score 12 (mild anxiety), TSH 1.8 mIU/L, haemoglobin 13.1 g/dL.\nSymptoms and examination: reports improved mood, better sleep, occasional mild breathlessness on hills; appears calm, lungs clear with occasional basal wheeze.\nSmoking status: former smoker, pack-years 20, stopped 2008.\nSpirometry: FEV1 1.70 L (50% predicted), FVC 2.30 L, FEV1/FVC 0.74; change since last -0.08 L.\nInhaler technique: Technique checked: correct (tiotropium dry powder inhaler).\nAssessment: Anxiety better controlled; mild COPD progression.\nPlan: add tiotropium dry powder inhaler 1 puff OD; continue other meds; review in 3 months."
+    },
+    {
+      "memory_id": "X0019-m12",
+      "date": "2026-02-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "tiotropium dry powder inhaler 1 puff OD"
+    },
+    {
+      "memory_id": "X0019-m13",
+      "date": "2026-06-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 1.7 mIU/L (ref 0.4-4.0)\nHaemoglobin: 13.2 g/dL (ref 12.0-15.5)"
+    }
+  ]
+}

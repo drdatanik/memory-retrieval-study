@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0106",
+  "name": "Sherly Fernandes",
+  "age": 23,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0106-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- GERD\n  - Status: New diagnosis, heartburn 3-4 days/week, sour regurgitation after meals, no alarm symptoms.\n  - Plan: Start pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, antacid gel SOS. Advise small frequent meals, avoid coffee, spicy food, late-night eating. Record weight 58 kg, waist 78 cm (below female cut‑off 80 cm). Diet advice: Breakfast – idli with chutney, no chili; Lunch – rice, dal, steamed veg; Dinner – roti, curd, avoid fried.\n- Due: Next HbA1c due 2025-07-05 (routine check)."
+    },
+    {
+      "memory_id": "X0106-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0106-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (reference: Negative)."
+    },
+    {
+      "memory_id": "X0106-m04",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- GERD\n  - Status: Improved, heartburn 1 day/week, no regurgitation, tolerating meds.\n  - Plan: Continue pantoprazole 40 mg OD before breakfast, reduce domperidone to 10 mg OD before breakfast, keep antacid gel SOS. Reinforce meal timing, avoid lying down within 2 h of dinner. Weight 57.5 kg, waist 77 cm (<80 cm). Diet advice: Breakfast – poha, low oil; Lunch – chapati, sambar, cucumber; Dinner – khichdi, curd.\n- Due: Next HbA1c due 2025-10-05."
+    },
+    {
+      "memory_id": "X0106-m05",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg OD before breakfast\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0106-m06",
+      "date": "2025-07-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking the medicines as prescribed. My heartburn is much better now, only occasional after heavy meals. No side effects noticed."
+    },
+    {
+      "memory_id": "X0106-m07",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- GERD\n  - Status: Well controlled, heartburn <1 day/month, no regurgitation.\n  - Plan: Continue pantoprazole 40 mg OD before breakfast, stop domperidone, keep antacid gel SOS. Emphasize weight maintenance, avoid late snacks. Weight 57 kg, waist 76 cm (<80 cm). Diet advice: Breakfast – upma with veg; Lunch – rice, rasam, steamed beans; Dinner – roti, paneer curry, salad.\n- Due: Next HbA1c due 2026-01-05."
+    },
+    {
+      "memory_id": "X0106-m08",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 40 mg OD before breakfast\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0106-m09",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (reference: Negative)."
+    },
+    {
+      "memory_id": "X0106-m10",
+      "date": "2026-01-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- GERD\n  - Status: Stable, occasional mild heartburn after heavy meals.\n  - Plan: Continue pantoprazole 40 mg OD before breakfast, antacid gel SOS. Review lifestyle, avoid caffeine after 4 pm. Weight 56.8 kg, waist 75 cm (<80 cm). Diet advice: Breakfast – dosa with coconut chutney; Lunch – millet rice, sambar, carrot poriyal; Dinner – vegetable pulao, curd.\n- Due: Next HbA1c due 2026-04-05."
+    },
+    {
+      "memory_id": "X0106-m11",
+      "date": "2026-01-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 40 mg OD before breakfast\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0106-m12",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- GERD\n  - Status: Slight worsening, heartburn 2-3 days/week after dinner, mild bloating.\n  - Plan: Increase pantoprazole to 40 mg BD (breakfast and dinner), continue antacid gel SOS. Advise dinner before 8 pm, elevate head of bed. Weight 57.2 kg, waist 76 cm (<80 cm). Diet advice: Breakfast – vegetable uttapam; Lunch – brown rice, dal, beetroot salad; Dinner – khichdi, steamed veg, avoid fried.\n- Due: Next HbA1c due 2026-07-05."
+    },
+    {
+      "memory_id": "X0106-m13",
+      "date": "2026-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Upper GI endoscopy: No erosions, normal mucosa, no hiatal hernia. Biopsy negative for H. pylori, Candida, or dysplasia."
+    },
+    {
+      "memory_id": "X0106-m14",
+      "date": "2026-04-10",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Gastroenterology review: Endoscopy findings consistent with mild GERD. Recommend continuation of PPI twice daily, lifestyle modifications, and follow-up in 3 months. No surgical intervention indicated."
+    },
+    {
+      "memory_id": "X0106-m15",
+      "date": "2026-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Karthik Hegde (D04) on 2026-10-15 at 10:30 AM. Patient to bring recent weight and waist measurements."
+    }
+  ]
+}

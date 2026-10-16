@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0129",
+  "name": "Shalini Bhatia",
+  "age": 36,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Epilepsy",
+    "Iron-deficiency anaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0129-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "36‑year‑old female electrician reviewed for epilepsy and newly diagnosed iron‑deficiency anaemia.\nPRESENTING COMPLAINT: She reports occasional mild fatigue and no recent seizures; medication adherence is good.\nEXAMINATION: BP 118/76 mmHg, weight 55 kg, height 1.55 m, BMI 22.9 (normal). No pallor, neurologic exam normal.\nIMPRESSION: Epilepsy on levetiracetam and lamotrigine; iron‑deficiency anaemia likely due to dietary insufficiency.\nARRANGEMENTS: Start levetiracetam 500 mg BD, lamotrigine 50 mg BD, ferrous sulfate 200 mg OD. Check CBC, ferritin, MCV, serum sodium, creatinine in 4 weeks. Return if seizure activity increases, fever >39°C, chest pain, breathlessness, or blood in stools."
+    },
+    {
+      "memory_id": "X0129-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levetiracetam 500 mg BD; Lamotrigine 50 mg BD; Ferrous sulfate 200 mg OD."
+    },
+    {
+      "memory_id": "X0129-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hb 9.8 g/dL (13‑17), Ferritin 12 ng/mL (15‑150), MCV 68 fL (80‑100)."
+    },
+    {
+      "memory_id": "X0129-m04",
+      "date": "2025-06-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levetiracetam 500 mg BD; Lamotrigine 50 mg BD; Ferrous sulfate 200 mg OD plus 200 mg on alternate days."
+    },
+    {
+      "memory_id": "X0129-m05",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "EEG performed to assess seizure burden. Background activity normal, no epileptiform discharges observed. No focal slowing. Interpretation: No electrographic evidence of seizure focus; epilepsy clinically controlled on current regimen."
+    },
+    {
+      "memory_id": "X0129-m06",
+      "date": "2025-08-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "36‑year‑old female electrician for routine follow‑up.\nPRESENTING COMPLAINT: Denies seizures since last visit; reports mild fatigue improving with iron therapy.\nEXAMINATION: BP 120/78 mmHg, weight 56 kg, BMI 23.3 (overweight). No pallor, neurologically normal.\nIMPRESSION: Epilepsy stable; iron‑deficiency anaemia responding, Hb rising.\nARRANGEMENTS: Continue current meds. Advise balanced diet rich in iron, reduce refined carbs, increase aerobic activity 150 min/week. Repeat CBC, ferritin, MCV in 8 weeks. Return if seizure, fever >39°C, chest pain, breathlessness, or blood in stools."
+    },
+    {
+      "memory_id": "X0129-m07",
+      "date": "2025-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Na 138 mmol/L (135‑145), K 4.2 mmol/L (3.5‑5.0), Creatinine 0.78 mg/dL (0.5‑1.1)."
+    },
+    {
+      "memory_id": "X0129-m08",
+      "date": "2025-11-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I had a brief jerking episode of my left arm lasting about 20 seconds yesterday morning while at work. I did not lose consciousness but felt confused for a few minutes afterwards. I am worried my seizure medicine may not be enough."
+    },
+    {
+      "memory_id": "X0129-m09",
+      "date": "2025-11-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "36‑year‑old female electrician after breakthrough seizure.\nPRESENTING COMPLAINT: Reports a focal arm jerking episode with post‑ictal confusion, no loss of consciousness.\nEXAMINATION: BP 119/77 mmHg, weight 56 kg, BMI 23.3, neurologically normal.\nIMPRESSION: Possible breakthrough seizure on levetiracetam; consider dose optimisation.\nARRANGEMENTS: Increase levetiracetam to 750 mg BD. Counsel on seizure precautions, sleep hygiene, avoid triggers. Repeat serum creatinine in 4 weeks. Return if seizure frequency increases, prolonged post‑ictal state, fever >39°C, chest pain, breathlessness, or blood in stools."
+    },
+    {
+      "memory_id": "X0129-m10",
+      "date": "2026-02-14",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levetiracetam 750 mg BD; Lamotrigine 75 mg BD; Ferrous sulfate 200 mg OD plus 200 mg on alternate days."
+    },
+    {
+      "memory_id": "X0129-m11",
+      "date": "2026-04-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hb 12.4 g/dL (13‑17), Ferritin 48 ng/mL (15‑150), MCV 78 fL (80‑100)."
+    },
+    {
+      "memory_id": "X0129-m12",
+      "date": "2026-06-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-08-05 at 10:30 am with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0129-m13",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "36‑year‑old female electrician for annual review.\nPRESENTING COMPLAINT: Denies seizures in past 6 months; reports good energy, no fatigue.\nEXAMINATION: BP 118/76 mmHg, weight 57 kg, BMI 23.7 (overweight). No pallor, neurologic exam normal.\nIMPRESSION: Epilepsy well controlled on levetiracetam 750 mg BD and lamotrigine 75 mg BD. Iron‑deficiency anaemia improved, Hb approaching normal.\nARRANGEMENTS: Continue current meds. Order fasting lipid profile and fasting blood sugar. Advise maintain iron‑rich diet, limit saturated fats, aim for 150 min/week moderate exercise. Influenza vaccine offered; patient declined. Return if seizure, fever >39°C, chest pain, breathlessness, or blood in stools."
+    }
+  ]
+}

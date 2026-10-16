@@ -1,0 +1,56 @@
+{
+  "doctor_id": "D01",
+  "name": "Dr Anjali Mehta",
+  "specialty": "Internal Medicine and Diabetology",
+  "memories": [
+    {
+      "memory_id": "D01-m01",
+      "date": "2025-04-01",
+      "type": "doctor_preference",
+      "author": "D01",
+      "text": "Dr Mehta's notes always follow the S/O/A/P headings, written as S:, O:, A: and P:. The Plan is a numbered list, with one action per line. Notes are terse and use standard abbreviations (k/c/o, c/o, O/E, BD, OD, HS, SOS, T2DM, HTN, R/V)."
+    },
+    {
+      "memory_id": "D01-m02",
+      "date": "2025-04-01",
+      "type": "doctor_preference",
+      "author": "D01",
+      "text": "Dr Mehta ends every note with an Adv: line giving diet and exercise advice, then the review interval written as R/V in N wks or R/V in N months, for example R/V in 3 months. The Adv: line is included even at routine reviews."
+    },
+    {
+      "memory_id": "D01-m03",
+      "date": "2025-04-02",
+      "type": "doctor_preference",
+      "author": "D01",
+      "text": "Dr Mehta repeats HbA1c every 3 months when the last value is above 7%, and every 6 months when the last value is 7% or below. The interval is written in the Plan, for example 'Repeat HbA1c in 3 months'."
+    },
+    {
+      "memory_id": "D01-m04",
+      "date": "2025-04-02",
+      "type": "doctor_preference",
+      "author": "D01",
+      "text": "Dr Mehta arranges an annual dilated fundus (eye) exam for every patient with diabetes. The date of the last exam is written in the note, and any retinopathy found is recorded in the Assessment with its follow-up."
+    },
+    {
+      "memory_id": "D01-m05",
+      "date": "2025-04-03",
+      "type": "doctor_preference",
+      "author": "D01",
+      "text": "Telmisartan is Dr Mehta's first-line antihypertensive for patients with diabetes and hypertension. Other agents are added only when blood pressure stays above target on telmisartan. Each review records the blood pressure reading and whether it is at target."
+    },
+    {
+      "memory_id": "D01-m06",
+      "date": "2025-04-03",
+      "type": "doctor_preference",
+      "author": "D01",
+      "text": "Dr Mehta writes the generic name first, with the brand in brackets on the first mention in each note, for example 'sitagliptin (Januvia) 100 mg OD'. Later mentions in the same note use the generic name alone."
+    },
+    {
+      "memory_id": "D01-m07",
+      "date": "2025-04-05",
+      "type": "doctor_preference",
+      "author": "D01",
+      "text": "Example note format: anonymous patient, 60s M. S: k/c/o T2DM x 8 yrs, HTN. c/o burning feet on walking; no hypoglycaemic symptoms. O: BP 138/88. O/E: monofilament sensation reduced at both great toes. A: T2DM, HbA1c 7.4%, suboptimal. HTN, near target. P: 1. Metformin (Glycomet) 500 mg BD. 2. Telmisartan (Telma) 40 mg OD. 3. Repeat HbA1c in 3 months. 4. Annual eye exam due. Adv: 30 min brisk walk 5 days a week; cut sugar in tea. R/V in 3 months."
+    }
+  ]
+}

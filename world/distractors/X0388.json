@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0388",
+  "name": "Kinjal Solanki",
+  "age": 35,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0388-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild morning stiffness in hands, able to perform ADLs independently; walks 2 km without pain.\ncognition: Mini-Cog score 4/5 (negative).\nfalls: no falls in last 12 months; gait normal; timed up-and-go 9 seconds (normal).\nmedicines: 4 regular (methotrexate, folic acid, hydroxychloroquine, prednisolone).\nmood: reports good spirits, denies depression or anxiety.\ncarers: sister Priya, relationship: sister.\ngoal: \"I want to stay active and teach part-time.\"\\n"
+    },
+    {
+      "memory_id": "X0388-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 10 mg oral once weekly\nfolic acid 5 mg oral once weekly\nhydroxychloroquine 200 mg oral daily\nprednisolone 5 mg oral daily\\n"
+    },
+    {
+      "memory_id": "X0388-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 22 mm/hr (0-20)\nCRP 5 mg/L (0-5)\nRheumatoid factor 45 IU/ml (<14) positive\nanti-CCP 68 U/ml (<20) positive\nALT 28 U/ml (7-56)\nAST 24 U/ml (10-40)\nTotal bilirubin 0.9 mg/dl (0.2-1.2)\nAlbumin 4.2 g/dl (3.5-5.0)\\n"
+    },
+    {
+      "memory_id": "X0388-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: increased joint pain in wrists and knees, morning stiffness 45 minutes; still manages household chores with occasional rest.\ncognition: Mini-Cog not repeated; prior score 4/5 remains negative.\nfalls: no falls in last 12 months; gait steady; timed up-and-go 10 seconds (borderline).\nmedicines: 4 regular.\nmood: reports frustration with pain, denies low mood.\ncarers: sister Priya, relationship: sister.\ngoal: \"I want to reduce pain to resume gardening.\"\\n"
+    },
+    {
+      "memory_id": "X0388-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 15 mg oral once weekly\nfolic acid 5 mg oral once weekly\nhydroxychloroquine 200 mg oral daily\nprednisolone 5 mg oral daily\\n"
+    },
+    {
+      "memory_id": "X0388-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 28 mm/hr (0-20)\nCRP 6 mg/L (0-5)\nALT 30 U/ml (7-56)\nAST 26 U/ml (10-40)\nTotal bilirubin 0.8 mg/dl (0.2-1.2)\nAlbumin 4.1 g/dl (3.5-5.0)\\n"
+    },
+    {
+      "memory_id": "X0388-m07",
+      "date": "2025-10-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past month my hands have been swollen and stiff, especially in the mornings. I struggle to button my shirts and feel tired after housework. I’ve been taking my medicines as prescribed but the pain is worsening. I would like something stronger to control the inflammation.\\n"
+    },
+    {
+      "memory_id": "X0388-m08",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports swollen MCP and PIP joints, morning stiffness >60 minutes, difficulty with fine tasks; ADLs require occasional assistance.\ncognition: Mini-Cog not repeated; prior score 4/5 remains negative.\nfalls: no falls in last 12 months; gait mildly antalgic; timed up-and-go 11 seconds (raised fall risk). Plan: supervised balance exercises, supportive footwear.\nmedicines: 4 regular.\nmood: expresses worry about worsening disease, denies depression.\ncarers: sister Priya, relationship: sister.\ngoal: \"I want to reduce pain and swelling to resume teaching and gardening.\"\\n"
+    },
+    {
+      "memory_id": "X0388-m09",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 20 mg oral once weekly\nfolic acid 5 mg oral once weekly\nhydroxychloroquine 200 mg oral daily\nprednisolone 5 mg oral daily\nsulfasalazine 500 mg oral twice daily\\n"
+    },
+    {
+      "memory_id": "X0388-m10",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 18 mm/hr (0-20)\nCRP 4 mg/L (0-5)\nALT 22 U/ml (7-56)\nAST 20 U/ml (10-40)\nTotal bilirubin 0.7 mg/dl (0.2-1.2)\nAlbumin 4.3 g/dl (3.5-5.0)\\n"
+    },
+    {
+      "memory_id": "X0388-m11",
+      "date": "2026-04-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: joint swelling markedly reduced, morning stiffness 20 minutes; able to perform all ADLs independently.\ncognition: Mini-Cog score 3/5 (negative).\nfalls: no falls in last 12 months; gait normal; timed up-and-go 9 seconds (normal).\nmedicines: 5 regular (methotrexate, folic acid, hydroxychloroquine, prednisolone, sulfasalazine). Polypharmacy present; request review against Beers criteria.\nmood: reports improved mood, enjoys light teaching sessions.\ncarers: sister Priya, relationship: sister.\ngoal: \"I want to maintain low disease activity and continue part-time teaching.\"\\n"
+    },
+    {
+      "memory_id": "X0388-m12",
+      "date": "2026-04-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 15 mg oral once weekly\nfolic acid 5 mg oral once weekly\nhydroxychloroquine 200 mg oral daily\nprednisolone 5 mg oral daily\nsulfasalazine 500 mg oral twice daily\\n"
+    },
+    {
+      "memory_id": "X0388-m13",
+      "date": "2026-04-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-07-03 at 10:00 AM with Dr Nandini Kulkarni (D06).\\n"
+    },
+    {
+      "memory_id": "X0388-m14",
+      "date": "2026-07-03",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: stable disease, no joint swelling, morning stiffness <15 minutes; walks 3 km comfortably.\ncognition: Mini-Cog not repeated; prior score 3/5 remains negative.\nfalls: no falls in last 12 months; gait normal; timed up-and-go 8 seconds (normal).\nmedicines: 5 regular. Polypharmacy noted; Beers review pending.\nmood: cheerful, enjoys teaching and gardening.\ncarers: sister Priya, relationship: sister.\ngoal: \"I want to stay off steroids and keep my joints healthy.\"\\n"
+    },
+    {
+      "memory_id": "X0388-m15",
+      "date": "2026-07-03",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 15 mg oral once weekly\nfolic acid 5 mg oral once weekly\nhydroxychloroquine 200 mg oral daily\nprednisolone 2.5 mg oral daily (taper)\nsulfasalazine 500 mg oral twice daily\\n"
+    }
+  ]
+}

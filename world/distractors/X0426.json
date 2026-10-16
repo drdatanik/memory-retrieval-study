@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0426",
+  "name": "Dilip Joshi",
+  "age": 86,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0426-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Diabetes mellitus type 2\n  - Status: HbA1c 8.2% (last 3 months), fasting glucose 156 mg/dL, weight 68 kg, waist 92 cm (>90 cm cut‑off for men).\n  - Plan: Continue metformin 500 mg BD after food, add glimepiride 1 mg OD before breakfast. Review diet: small frequent meals, reduce refined carbs.\n- Hypothyroidism\n  - Status: TSH 4.8 mIU/L (slightly elevated), on levothyroxine 50 mcg OD.\n  - Plan: Increase levothyroxine to 75 mcg OD, repeat TSH in 6‑8 weeks.\n- Benign positional vertigo\n  - Status: Episodes triggered by lying to right side, Dix‑Hallpike positive right posterior canal.\n  - Plan: Start betahistine 16 mg BD after food; meclizine 25 mg SOS after food for acute vertigo. Vestibular rehab advice.\n- Dyslipidaemia\n  - Status: LDL 130 mg/dL, HDL 38 mg/dL, triglycerides 210 mg/dL.\n  - Plan: Atorvastatin 10 mg OD at night, repeat lipid profile in 3 months.\nDue: HbA1c repeat 2025-07-05."
+    },
+    {
+      "memory_id": "X0426-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg BD after food\nGlimepiride 1 mg OD before breakfast\nLevothyroxine 75 mcg OD empty stomach\nAtorvastatin 10 mg OD at night\nBetahistine 16 mg BD after food\nMeclizine 25 mg SOS after food for vertigo"
+    },
+    {
+      "memory_id": "X0426-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose: 156 mg/dL (70‑100)\nHbA1c: 8.2% (4‑5.6)\nTSH: 4.8 mIU/L (0.4‑4.0)\nFree T4: 1.0 ng/dL (0.9‑1.7)\nLipid profile:\n  LDL‑C: 130 mg/dL (<100)\n  HDL‑C: 38 mg/dL (>40)\n  Triglycerides: 210 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0426-m04",
+      "date": "2025-04-07",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Penicillin – rash and pruritus within 30 min of ingestion. Avoid all beta‑lactam antibiotics."
+    },
+    {
+      "memory_id": "X0426-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Diabetes mellitus type 2\n  - Status: HbA1c 7.6% (down from 8.2%), fasting glucose 138 mg/dL, weight 67 kg, waist 90 cm (at cut‑off).\n  - Plan: Continue metformin, reduce glimepiride to 0.5 mg OD before breakfast. Reinforce carbohydrate counting.\n- Hypothyroidism\n  - Status: TSH 2.9 mIU/L (target), on levothyroxine 75 mcg OD.\n  - Plan: Keep dose, repeat TSH in 6 months.\n- Benign positional vertigo\n  - Status: Two brief episodes in past month, meclizine used PRN.\n  - Plan: Continue betahistine 16 mg BD; meclizine 25 mg SOS only if needed. Brandt‑Daroff exercises twice daily.\n- Dyslipidaemia\n  - Status: LDL 115 mg/dL, HDL 40 mg/dL, triglycerides 180 mg/dL on atorvastatin 10 mg.\n  - Plan: Increase atorvastatin to 20 mg OD at night.\nDue: HbA1c repeat 2025-10-10."
+    },
+    {
+      "memory_id": "X0426-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg BD after food\nGlimepiride 0.5 mg OD before breakfast\nLevothyroxine 75 mcg OD empty stomach\nAtorvastatin 20 mg OD at night\nBetahistine 16 mg BD after food\nMeclizine 25 mg SOS after food for vertigo"
+    },
+    {
+      "memory_id": "X0426-m07",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 7.6% (4‑5.6)\nLipid profile:\n  LDL‑C: 115 mg/dL (<100)\n  HDL‑C: 40 mg/dL (>40)\n  Triglycerides: 180 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0426-m08",
+      "date": "2025-10-12",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Resting ECG: Normal sinus rhythm, rate 72 bpm. No ST‑T changes, no Q waves. Left ventricular voltage within normal limits."
+    },
+    {
+      "memory_id": "X0426-m09",
+      "date": "2025-10-13",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to ENT Vertigo Clinic, St. Martha’s Hospital, for positional vertigo refractory to medical management. Request Dix‑Hallpike under supervision and consider canalith repositioning."
+    },
+    {
+      "memory_id": "X0426-m10",
+      "date": "2025-11-20",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "ENT report: Dix‑Hallpike confirmed right posterior canal BPPV. Performed Epley maneuver; patient symptom‑free post‑procedure. Advised to avoid rapid head movements for 48 h. No further intervention needed; follow‑up in 4 weeks if recurrence."
+    },
+    {
+      "memory_id": "X0426-m11",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling light‑headed when I get up quickly from my chair, especially in the mornings. The spinning sensation lasts a few seconds and then passes. I’ve taken meclizine a couple of times this week and it helps. My blood sugar checks at home have been around 130‑150 mg/dL fasting."
+    },
+    {
+      "memory_id": "X0426-m12",
+      "date": "2026-01-16",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg BD after food\nGlimepiride 0.5 mg OD before breakfast\nLevothyroxine 75 mcg OD empty stomach\nAtorvastatin 20 mg OD at night\nBetahistine 16 mg BD after food\nMeclizine 25 mg SOS after food for vertigo (continue as needed)"
+    },
+    {
+      "memory_id": "X0426-m13",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Karthik Hegde (D04) on 2026-07-10 at 10:30 AM. Please bring recent glucometer log."
+    },
+    {
+      "memory_id": "X0426-m14",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Diabetes mellitus type 2\n  - Status: HbA1c 7.2% (improved), fasting glucose 128 mg/dL, weight 66 kg, waist 88 cm (<90 cm cut‑off).\n  - Plan: Maintain current metformin and glimepiride doses. Continue dietary moderation.\n- Hypothyroidism\n  - Status: TSH 2.2 mIU/L, levothyroxine 75 mcg OD adequate.\n  - Plan: Repeat TSH in 12 months.\n- Benign positional vertigo\n  - Status: No vertigo episodes in past 3 months; meclizine not used.\n  - Plan: Continue betahistine 16 mg BD; consider tapering if asymptomatic for another month.\n- Dyslipidaemia\n  - Status: LDL 100 mg/dL, HDL 42 mg/dL, triglycerides 150 mg/dL on atorvastatin 20 mg.\n  - Plan: Statin dose adequate; repeat lipid profile in 12 months.\nDue: HbA1c repeat 2027-01-05 (outside window, but noted)."
+    }
+  ]
+}

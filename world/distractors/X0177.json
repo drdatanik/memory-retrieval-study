@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0177",
+  "name": "George Mathew",
+  "age": 85,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Atrial fibrillation",
+    "Rheumatoid arthritis",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0177-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 85‑year‑old man reviews atrial fibrillation, rheumatoid arthritis and COPD. EXAMINATION: BP 138/82 mmHg, weight 68 kg, BMI 22.8 (normal). Pulse irregularly irregular 92 bpm. Lungs clear, mild wheeze at bases. Joints: mild swelling of MCP joints, no deformity. IMPRESSION: Stable AF on apixaban and bisoprolol, RA on methotrexate/hydroxychloroquine/low‑dose prednisolone, COPD on tiotropium and salbutamol PRN. ARRANGEMENTS: Continue current meds. Order baseline labs: INR, creatinine, TSH, lipid profile, fasting glucose, ESR, CRP, RF, anti‑CCP, LFT. ECG today. Return if: chest pain, breathlessness > usual, fever >39°C, sudden leg swelling, bleeding, worsening joint pain."
+    },
+    {
+      "memory_id": "X0177-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Apixaban 5 mg twice daily\nBisoprolol 2.5 mg once daily\nWarfarin 3 mg once daily (INR target 2‑3)\nMethotrexate 10 mg once weekly\nFolic acid 5 mg once weekly\nHydroxychloroquine 200 mg once daily\nPrednisolone 5 mg once daily\nTiotropium inhaler 2 puffs once daily\nSalbutamol inhaler 2 puffs as needed\nBudesonide‑formoterol 200/6 inhaler 2 puffs twice daily"
+    },
+    {
+      "memory_id": "X0177-m03",
+      "date": "2025-05-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.4 (target 2‑3)\nSerum creatinine 102 µmol/L (eGFR 62 mL/min/1.73m2)\nTSH 2.1 mIU/L (0.27‑4.2)\nLipid profile: Total cholesterol 4.8 mmol/L (<5.2), LDL 2.9 (<2.6 borderline), HDL 1.2 (>1.0), Triglycerides 1.4 (<1.7)\nFasting blood sugar 5.6 mmol/L (3.9‑5.5) – slightly elevated\nESR 18 mm/hr (0‑20)\nCRP 4 mg/L (<5)\nRheumatoid factor 12 IU/ml (<14) – negative\nAnti‑CCP 5 U/ml (<20) – negative\nLiver function: ALT 22 U/L (<40), AST 20 U/L (<38), ALP 78 U/L (<120), GGT 30 U/L (<50), Bilirubin 9 µmol/L (<21)"
+    },
+    {
+      "memory_id": "X0177-m04",
+      "date": "2025-06-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "12‑lead ECG: Irregularly irregular rhythm with absent P waves, ventricular rate 94 bpm. No ST‑segment changes. Consistent with atrial fibrillation, controlled rate."
+    },
+    {
+      "memory_id": "X0177-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Mild increase in joint stiffness, occasional dyspnoea on exertion. EXAMINATION: BP 140/84 mmHg, weight 68.5 kg, BMI 23.1 (overweight). Advised on diet and activity. Pulse irregular 88 bpm. Lungs: mild bilateral wheeze, SpO2 94% on room air. Joints: tender MCP and PIP joints, no effusion. IMPRESSION: AF stable, RA mild flare, COPD stable. ARRANGEMENTS: Continue meds, consider short‑course prednisolone if joint pain worsens. Review INR in 2 weeks. Return if: chest pain, severe breathlessness, fever >39°C, bleeding, joint swelling with redness, sudden drop in SpO2 <90%."
+    },
+    {
+      "memory_id": "X0177-m06",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Warfarin dose increased to 4 mg once daily (INR target 2‑3)\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0177-m07",
+      "date": "2025-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.8 (target 2‑3)\nSerum creatinine 99 µmol/L (eGFR 65)\nTSH 2.0 mIU/L\nLipid profile: Total cholesterol 4.6, LDL 2.7, HDL 1.3, Triglycerides 1.3\nFasting blood sugar 5.5 mmol/L (upper limit normal)\nESR 16 mm/hr\nCRP 3 mg/L"
+    },
+    {
+      "memory_id": "X0177-m08",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry: FEV1 1.68 L (55% predicted), FVC 2.30 L (70% predicted), FEV1/FVC 0.73 (below 0.70 threshold – indicates obstruction). Chest X‑ray: Hyperinflated lungs, flattened diaphragms, no acute infiltrate. Consistent with moderate COPD."
+    },
+    {
+      "memory_id": "X0177-m09",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow‑up. EXAMINATION: BP 138/80 mmHg, weight 68 kg, BMI 22.8 (normal). Pulse irregular 90 bpm. Lungs clear, SpO2 96%. Joints: minimal tenderness, no swelling. IMPRESSION: AF adequately rate‑controlled, RA in remission, COPD stable. ARRANGEMENTS: Continue current meds. Offer influenza vaccine (date to be arranged). Return if: chest pain, breathlessness > usual, fever >39°C, bleeding, worsening joint pain, sudden drop in SpO2."
+    },
+    {
+      "memory_id": "X0177-m10",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tiotropium inhaler 2 puffs once daily (continued)\nSalbutamol inhaler as needed\nBudesonide‑formoterol 200/6 inhaler 2 puffs twice daily (continued)\nAll other meds unchanged."
+    },
+    {
+      "memory_id": "X0177-m11",
+      "date": "2025-11-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.6 (target 2‑3)\nSerum creatinine 101 µmol/L (eGFR 61)\nTSH 2.2 mIU/L\nLipid profile: Total cholesterol 4.7, LDL 2.8, HDL 1.2, Triglycerides 1.5\nFasting blood sugar 5.6 mmol/L (slightly above)\nESR 17 mm/hr\nCRP 4 mg/L"
+    },
+    {
+      "memory_id": "X0177-m12",
+      "date": "2025-12-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘Over the past week I have felt more short of breath when walking to the mailbox and need to use my salbutamol inhaler more often. My joints also feel a bit stiff in the mornings.’"
+    },
+    {
+      "memory_id": "X0177-m13",
+      "date": "2025-12-15",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr S. Kumar, Pulmonology, Vydehi Hospital. Reason: Evaluation of worsening COPD symptoms and need for possible step‑up therapy. Include recent spirometry, chest X‑ray, and medication list."
+    },
+    {
+      "memory_id": "X0177-m14",
+      "date": "2026-01-10",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Pulmonology review: Patient demonstrates moderate COPD with reversible component. Recommended to add long‑acting muscarinic antagonist (already on tiotropium) and consider inhaled corticosteroid‑LABA combination (already on budesonide‑formoterol). Advised to continue current inhalers, ensure proper technique, and schedule follow‑up in 3 months. No change in medication required at this time."
+    },
+    {
+      "memory_id": "X0177-m15",
+      "date": "2026-02-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Post‑pulmonology review, mild increase in morning joint stiffness. EXAMINATION: BP 140/82 mmHg, weight 68.2 kg, BMI 22.9 (overweight). Advised on diet and activity. Pulse irregular 92 bpm. Lungs: mild wheeze at bases, SpO2 95%. Joints: tender MCP joints, no swelling. IMPRESSION: AF stable, RA mild symptomatic flare, COPD stable per pulmonology advice. ARRANGEMENTS: Continue meds, consider short tapering prednisolone 5 mg OD for 5 days if joint pain worsens. Review INR in 2 weeks. Return if: chest pain, breathlessness > usual, fever >39°C, bleeding, worsening joint pain with redness, sudden SpO2 drop <90%."
+    },
+    {
+      "memory_id": "X0177-m16",
+      "date": "2026-02-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Prednisolone dose increased to 7.5 mg once daily for 5 days, then taper to 5 mg once daily\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0177-m17",
+      "date": "2026-03-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.5 (target 2‑3)\nSerum creatinine 100 µmol/L (eGFR 62)\nTSH 2.1 mIU/L\nLipid profile: Total cholesterol 4.5, LDL 2.6, HDL 1.3, Triglycerides 1.4\nFasting blood sugar 5.5 mmol/L\nESR 15 mm/hr\nCRP 3 mg/L\nLiver function: ALT 24 U/L, AST 21 U/L, ALP 80 U/L, GGT 32 U/L, Bilirubin 10 µmol/L (all within normal limits)"
+    },
+    {
+      "memory_id": "X0177-m18",
+      "date": "2026-05-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-05-15 at 10:30 am with Dr Priya Natarajan (D03) for routine follow‑up. Patient reminded to bring medication list and to wear loose clothing for spirometry if needed."
+    }
+  ]
+}

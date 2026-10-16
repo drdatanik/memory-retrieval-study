@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0411",
+  "name": "Madhu Sharma",
+  "age": 28,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Vitamin B12 deficiency",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0411-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin B12 deficiency and Vitamin D deficiency. Patient, a 28‑year‑old female postal worker, reports fatigue, occasional tingling in feet, and low mood. On examination she appears pale, no lymphadenopathy, lungs clear. Spirometry not indicated. Labs ordered."
+    },
+    {
+      "memory_id": "X0411-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methylcobalamin 1500 mcg OD\ncholecalciferol 60000 IU once weekly for 8 weeks"
+    },
+    {
+      "memory_id": "X0411-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 180 pg/mL (ref 200‑900)\nMCV: 98 fL (ref 80‑100)\nHaemoglobin: 11.8 g/dL (ref 12‑16)\nSerum 25‑hydroxyvitamin D: 12 ng/mL (ref 30‑100)\nSerum calcium: 9.1 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 2.8 mg/dL (ref 2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0411-m04",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin B12 deficiency improving, Vitamin D still low. Patient reports less fatigue, no tingling. Exam: mild pallor, lungs clear. Spirometry performed: FEV1 2.85 L (92% pred), FVC 3.40 L (95% pred), FEV1/FVC 0.84. Change in FEV1 since baseline +0.15 L. Asthma Control Test not applicable. Technique checked: correct. Vit D replacement to be switched to maintenance."
+    },
+    {
+      "memory_id": "X0411-m05",
+      "date": "2025-06-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methylcobalamin 1500 mcg OD\ncholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0411-m06",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 340 pg/mL (ref 200‑900)\nMCV: 92 fL (ref 80‑100)\nHaemoglobin: 12.6 g/dL (ref 12‑16)\nSerum 25‑hydroxyvitamin D: 22 ng/mL (ref 30‑100)\nSerum calcium: 9.3 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 3.0 mg/dL (ref 2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0411-m07",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin B12 now within normal range, haemoglobin improved. Vitamin D still suboptimal. Patient feels well, occasional mild breathlessness on exertion. Exam: lungs clear, no wheeze. Spirometry: FEV1 2.90 L (94% pred), FVC 3.42 L (96% pred), FEV1/FVC 0.85, change +0.20 L from first visit. Technique checked: correct. Continue current doses."
+    },
+    {
+      "memory_id": "X0411-m08",
+      "date": "2025-09-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-10-05 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0411-m09",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin B12 stable, Vitamin D approaching target. Patient reports good energy, no neuro symptoms. Exam: normal vitals, lungs clear. Spirometry: FEV1 2.92 L (95% pred), FVC 3.44 L (97% pred), FEV1/FVC 0.85, change +0.22 L from baseline. Technique checked: correct. Plan to maintain B12, continue Vitamin D maintenance."
+    },
+    {
+      "memory_id": "X0411-m10",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methylcobalamin 1500 mcg OD\ncholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0411-m11",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 410 pg/mL (ref 200‑900)\nMCV: 90 fL (ref 80‑100)\nHaemoglobin: 13.0 g/dL (ref 12‑16)\nSerum 25‑hydroxyvitamin D: 35 ng/mL (ref 30‑100)\nSerum calcium: 9.4 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 3.1 mg/dL (ref 2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0411-m12",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Both vitamin B12 and Vitamin D now within normal ranges. Patient asymptomatic, works full shifts without fatigue. Exam: pink conjunctiva, lungs clear. Spirometry: FEV1 2.95 L (96% pred), FVC 3.46 L (98% pred), FEV1/FVC 0.85, change +0.25 L from first visit. Technique checked: correct. Consider tapering B12 after 3 months of stability."
+    },
+    {
+      "memory_id": "X0411-m13",
+      "date": "2026-04-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'Hi Doctor, I’ve been feeling a bit more tired over the past week and have occasional mild shortness of breath when climbing stairs. My B12 tablets are fine. Should I come in?'"
+    },
+    {
+      "memory_id": "X0411-m14",
+      "date": "2026-04-20",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry performed today: FEV1 2.88 L (93% pred), FVC 3.38 L (95% pred), FEV1/FVC 0.85. Change in FEV1 since last visit (2026-01-10) –0.07 L. Technique checked: correct. No significant bronchodilator response. Interpretation: mild restrictive pattern possibly related to recent mild anemia; lungs otherwise clear."
+    },
+    {
+      "memory_id": "X0411-m15",
+      "date": "2026-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 380 pg/mL (ref 200‑900)\nMCV: 91 fL (ref 80‑100)\nHaemoglobin: 12.7 g/dL (ref 12‑16)\nSerum 25‑hydroxyvitamin D: 38 ng/mL (ref 30‑100)\nSerum calcium: 9.3 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 3.0 mg/dL (ref 2.5‑4.5)"
+    }
+  ]
+}

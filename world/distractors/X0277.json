@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0277",
+  "name": "Sumathi Shetty",
+  "age": 43,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Psoriasis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0277-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: New patient with plaque psoriasis on elbows and knees, seeking treatment.\nEXAMINATION: BP 122/78 mmHg, weight 68 kg, height 1.62 m, BMI 25.9 (obese). Skin shows well-demarcated erythematous plaques with silvery scale, PASI 6.\nIMPRESSION: Chronic plaque psoriasis, obese. Initiate topical therapy and low-dose methotrexate. Advise weight reduction.\nARRANGEMENTS: Start clobetasol 0.05% cream BD to plaques, calcipotriol ointment OD to thighs, methotrexate 7.5 mg PO weekly with folic acid 5 mg OD. LFT, CBC, creatinine today. Return if new joint pain, fever >38.5°C, worsening skin, or mouth ulcers."
+    },
+    {
+      "memory_id": "X0277-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "clobetasol 0.05% cream, apply BD to affected areas\ncalcipotriol ointment, apply OD to thighs\nmethotrexate 7.5 mg, take once weekly on Monday\nfolic acid 5 mg, take daily"
+    },
+    {
+      "memory_id": "X0277-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 22 U/L (7-35), AST 20 U/L (8-40), ALP 78 U/L (40-129), GGT 30 U/L (0-51). CBC: Hb 13.2 g/dL (12-16), WBC 6.8 x10^9/L (4-10), Plt 210 x10^9/L (150-400). Creatinine 0.82 mg/dL (0.57-1.00)."
+    },
+    {
+      "memory_id": "X0277-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Psoriasis improved, mild itching.\nEXAMINATION: BP 118/76 mmHg, weight 66 kg, BMI 25.1 (obese). Plaques thinner, scale reduced, PASI 3.\nIMPRESSION: Partial response to current regimen. Continue topicals, maintain methotrexate. Reinforce diet and activity for weight.\nARRANGEMENTS: Continue clobetasol BD, calcipotriol OD, methotrexate 7.5 mg weekly, folic acid 5 mg daily. LFT, CBC, creatinine today. Return if severe flare, joint swelling, fever >38.5°C, or mucosal ulcers."
+    },
+    {
+      "memory_id": "X0277-m05",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 24 U/L, AST 22 U/L, ALP 80 U/L, GGT 32 U/L. CBC: Hb 13.0 g/dL, WBC 6.5 x10^9/L, Plt 205 x10^9/L. Creatinine 0.80 mg/dL."
+    },
+    {
+      "memory_id": "X0277-m06",
+      "date": "2025-10-08",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow‑up, request flu vaccine.\nEXAMINATION: BP 120/78 mmHg, weight 65 kg, BMI 24.7 (overweight). Skin clear, minimal residual plaques, PASI 1.\nIMPRESSION: Psoriasis well controlled. Patient overweight, advise continued lifestyle. Offer influenza vaccine due to chronic illness.\nARRANGEMENTS: Continue topical clobetasol BD, calcipotriol OD, methotrexate 7.5 mg weekly, folic acid 5 mg daily. Give inactivated influenza vaccine today (08‑Oct‑2025). LFT, CBC, creatinine today. Return if high fever, worsening rash, joint pain, or breathing difficulty."
+    },
+    {
+      "memory_id": "X0277-m07",
+      "date": "2025-10-08",
+      "type": "prescription",
+      "author": "D03",
+      "text": "clobetasol 0.05% cream BD\ncalcipotriol ointment OD\nmethotrexate 7.5 mg weekly\nfolic acid 5 mg daily"
+    },
+    {
+      "memory_id": "X0277-m08",
+      "date": "2025-10-08",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 14‑Jan‑2026 at 10:30 AM with Dr Priya Natarajan (D03) for routine psoriasis review."
+    },
+    {
+      "memory_id": "X0277-m09",
+      "date": "2026-01-14",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Mild flare after winter, increased scaling on scalp.\nEXAMINATION: BP 124/80 mmHg, weight 66 kg, BMI 25.2 (obese). Scalp erythema with scale, elbows mild plaque, PASI 4.\nIMPRESSION: Winter exacerbation of psoriasis. Increase methotrexate to 10 mg weekly, continue topicals. Monitor LFT.\nARRANGEMENTS: Increase methotrexate to 10 mg PO weekly (take on Monday), keep folic acid 5 mg daily. Continue clobetasol BD, calcipotriol OD. LFT, CBC, creatinine today. Return if severe skin pain, fever >38.5°C, jaundice, or unexplained bruising."
+    },
+    {
+      "memory_id": "X0277-m10",
+      "date": "2026-01-14",
+      "type": "prescription",
+      "author": "D03",
+      "text": "clobetasol 0.05% cream BD\ncalcipotriol ointment OD\nmethotrexate 10 mg weekly\nfolic acid 5 mg daily"
+    },
+    {
+      "memory_id": "X0277-m11",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review, labs show mild ALT rise.\nEXAMINATION: BP 122/78 mmHg, weight 65 kg, BMI 24.6 (overweight). Skin plaques mild, scalp clear, PASI 2.\nIMPRESSION: Psoriasis controlled; ALT 48 U/L (slightly elevated) likely methotrexate‑related. Reduce methotrexate to 7.5 mg weekly, continue folic acid, advise alcohol avoidance.\nARRANGEMENTS: Reduce methotrexate to 7.5 mg PO weekly, keep folic acid 5 mg daily. Continue topical clobetasol BD, calcipotriol OD. Repeat LFT, CBC, creatinine in 6 weeks. Return if jaundice, abdominal pain, fever >38.5°C, or severe skin flare."
+    },
+    {
+      "memory_id": "X0277-m12",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 48 U/L (7-35), AST 30 U/L (8-40), ALP 82 U/L (40-129), GGT 35 U/L (0-51). CBC: Hb 13.1 g/dL, WBC 6.7 x10^9/L, Plt 208 x10^9/L. Creatinine 0.79 mg/dL."
+    }
+  ]
+}

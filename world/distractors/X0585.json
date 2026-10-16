@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0585",
+  "name": "Senthil Kannan",
+  "age": 77,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Rheumatoid arthritis",
+    "Heart failure with reduced ejection fraction"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0585-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 77-year-old male college lecturer reports worsening joint stiffness and mild dyspnoea on exertion.\nEXAMINATION: BP 138/84 mmHg, weight 78 kg, BMI 25.6 (obese). Joints tender and swollen in MCP and PIPs, no deformities. Cardiac exam: S1S2, no murmurs, mild basal crepitations. Lungs clear. Abdomen soft.\nIMPRESSION: Active rheumatoid arthritis; heart failure with reduced EF, NYHA II. Obesity noted.\nARRANGEMENTS: Continue methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Continue sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD, furosemide 40 mg OD, dapagliflozin 10 mg OD. Advise low‑salt diet, regular walking, weight reduction. Return if chest pain, breathlessness at rest, fever >39°C, or sudden joint swelling."
+    },
+    {
+      "memory_id": "X0585-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methotrexate 10 mg PO once weekly\nFolic acid 5 mg PO once weekly\nHydroxychloroquine 200 mg PO OD\nPrednisolone 5 mg PO OD\nSacubitril/valsartan 24/26 mg PO BD\nBisoprolol 2.5 mg PO OD\nSpironolactone 25 mg PO OD\nFurosemide 40 mg PO OD\nDapagliflozin 10 mg PO OD"
+    },
+    {
+      "memory_id": "X0585-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 32 mm/hr (0-20), CRP 12 mg/L (<5), Rheumatoid factor 48 IU/ml (<14), Anti‑CCP 210 U/ml (<20). LFT: ALT 28 U/ml (≤40), AST 26 U/ml (≤40), ALP 84 U/ml (≤120), GGT 32 U/ml (≤50), bilirubin 0.9 mg/dl (≤1.2). Lipids: Cholesterol 210 mg/dl (<200), Triglycerides 165 mg/dl (<150), HDL 38 mg/dl (>40), LDL 132 mg/dl (<100). FBS 102 mg/dl (70-100). Serum Na 138 mmol/l (135-145), K 4.6 mmol/l (3.5-5.0), Creatinine 1.1 mg/dl (0.6-1.2), eGFR 62 ml/min/1.73m2. NT‑proBNP 310 pg/ml (<125)."
+    },
+    {
+      "memory_id": "X0585-m04",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Echocardiogram: Left ventricular ejection fraction 38% (normal 55‑70). Left atrial size mildly enlarged. No significant valvular disease. Diastolic dysfunction grade II. Estimated pulmonary artery systolic pressure 32 mmHg. NYHA class II."
+    },
+    {
+      "memory_id": "X0585-m05",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Increased swelling of ankles over past 2 weeks, joint pain worse in mornings.\nEXAMINATION: BP 142/88 mmHg, weight 80 kg, BMI 26.1 (obese). Bilateral pitting edema up to mid‑calf. Joints: tender swollen wrists, MCP joints. Cardiovascular: regular rhythm, no added sounds. Lungs: clear.\nIMPRESSION: Fluid overload likely contributing to edema; RA flare.\nARRANGEMENTS: Increase furosemide to 60 mg OD. Add spironolactone 25 mg BD (total 50 mg OD). Continue other HF meds. For RA, add prednisolone taper: start 10 mg OD for 5 days then reduce by 2.5 mg every 3 days to 5 mg OD. Advise low‑salt diet, elevate legs, monitor weight daily. Return if sudden weight gain >2 kg in 3 days, increased dyspnoea, chest pain, or fever."
+    },
+    {
+      "memory_id": "X0585-m06",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methotrexate 10 mg PO once weekly\nFolic acid 5 mg PO once weekly\nHydroxychloroquine 200 mg PO OD\nPrednisolone 10 mg PO OD (taper as instructed)\nSacubitril/valsartan 24/26 mg PO BD\nBisoprolol 2.5 mg PO OD\nSpironolactone 25 mg PO BD\nFurosemide 60 mg PO OD\nDapagliflozin 10 mg PO OD"
+    },
+    {
+      "memory_id": "X0585-m07",
+      "date": "2025-08-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Through clinic app: \"Doctor, my hands are very stiff in the morning and I can’t grip my coffee cup. Also my feet feel swollen even after taking the extra furosemide.\""
+    },
+    {
+      "memory_id": "X0585-m08",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Persistent morning stiffness and ankle edema despite medication changes.\nEXAMINATION: BP 140/86 mmHg, weight 79.5 kg, BMI 25.9 (obese). Mild synovitis in wrists and MCP joints. Bilateral pitting edema to ankles. Cardiac exam: regular, no murmurs. Lungs clear.\nIMPRESSION: RA inadequately controlled; HF stable on current regimen.\nARRANGEMENTS: Refer to rheumatology for consideration of biologic agent. Continue current HF meds. Add methotrexate 15 mg weekly (increase from 10 mg). Keep folic acid. Continue hydroxychloroquine. Taper prednisolone to 5 mg OD over next week. Advise joint protection exercises, weight control. Return if worsening dyspnoea, chest pain, fever, or rapid joint swelling."
+    },
+    {
+      "memory_id": "X0585-m09",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methotrexate 15 mg PO once weekly\nFolic acid 5 mg PO once weekly\nHydroxychloroquine 200 mg PO OD\nPrednisolone 5 mg PO OD\nSacubitril/valsartan 24/26 mg PO BD\nBisoprolol 2.5 mg PO OD\nSpironolactone 25 mg PO OD\nFurosemide 60 mg PO OD\nDapagliflozin 10 mg PO OD"
+    },
+    {
+      "memory_id": "X0585-m10",
+      "date": "2025-09-01",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Rheumatology, Narayana Health, Bengaluru. Reason: Persistent active rheumatoid arthritis despite methotrexate, hydroxychloroquine, low-dose prednisolone. Request opinion on escalation to biologic DMARD. Include recent labs and medication list."
+    },
+    {
+      "memory_id": "X0585-m11",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for influenza vaccination on 2025-10-15 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0585-m12",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient presents for seasonal influenza vaccine.\nEXAMINATION: BP 138/82 mmHg, weight 79 kg, BMI 25.5 (obese). No acute distress.\nIMPRESSION: RA and HF stable. Obesity.\nARRANGEMENTS: Administered inactivated influenza vaccine 0.5 ml IM left deltoid. Documented vaccine given today. Advise to monitor for local reaction or fever. Continue current meds. Return if chest pain, breathlessness, fever >39°C, or worsening joint pain."
+    },
+    {
+      "memory_id": "X0585-m13",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methotrexate 15 mg PO once weekly\nFolic acid 5 mg PO once weekly\nHydroxychloroquine 200 mg PO OD\nPrednisolone 5 mg PO OD\nSacubitril/valsartan 24/26 mg PO BD\nBisoprolol 2.5 mg PO OD\nSpironolactone 25 mg PO OD\nFurosemide 60 mg PO OD\nDapagliflozin 10 mg PO OD"
+    },
+    {
+      "memory_id": "X0585-m14",
+      "date": "2025-11-01",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Rheumatology review received. Patient assessed, disease activity moderate (DAS28 3.8). Recommendation: Continue methotrexate 15 mg weekly, add sulfasalazine 500 mg BD, consider tapering glucocorticoids. No biologic indicated at present due to comorbidities. Return rheumatology review to primary care."
+    },
+    {
+      "memory_id": "X0585-m15",
+      "date": "2026-02-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 24 mm/hr (0-20), CRP 7 mg/L (<5), Rheumatoid factor 45 IU/ml (<14), Anti‑CCP 190 U/ml (<20). LFT: ALT 26, AST 24, ALP 80, GGT 30, bilirubin 0.8. Lipids: Cholesterol 198 mg/dl (<200), Triglycerides 150 mg/dl (<150), HDL 40 mg/dl (>40), LDL 115 mg/dl (<100). FBS 98 mg/dl (70-100). Serum K 4.4 mmol/l (3.5-5.0), Creatinine 1.0 mg/dl (0.6-1.2), eGFR 66 ml/min/1.73m2. NT‑proBNP 260 pg/ml (<125)."
+    },
+    {
+      "memory_id": "X0585-m16",
+      "date": "2026-04-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Repeat echocardiogram: LVEF 40% (improved from 38%). Left atrial size normal. No significant valvular lesion. Diastolic dysfunction grade I. Estimated PASP 28 mmHg. NYHA class II."
+    },
+    {
+      "memory_id": "X0585-m17",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow‑up; reports good energy, occasional mild joint stiffness.\nEXAMINATION: BP 132/78 mmHg, weight 77.5 kg, BMI 24.9 (overweight). No joint swelling or tenderness. No edema. Cardiac exam regular, lungs clear.\nIMPRESSION: RA in low disease activity; HF compensated; overweight.\nARRANGEMENTS: Continue current meds. Advise maintain weight <23 BMI through diet and regular activity. Return if chest pain, breathlessness, fever >39°C, or new joint swelling."
+    },
+    {
+      "memory_id": "X0585-m18",
+      "date": "2026-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-10-12 to 2026-10-10 at 09:00 am for medication review with Dr Priya Natarajan (D03)."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0413",
+  "name": "Imtiaz Baig",
+  "age": 84,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Osteoporosis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0413-m01",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Patient booked appointment with Dr Priya Natarajan for 2025-04-10 at 10:00 for osteoporosis review."
+    },
+    {
+      "memory_id": "X0413-m02",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: osteoporosis review and initiation of therapy.\nPRESENTING COMPLAINT: Patient reports no new pain, seeks review of osteoporosis management.\nEXAMINATION: BP 138/82 mmHg, weight 68 kg, height 1.65 m, BMI 25.0 (obese). Cardiovascular and respiratory exams normal. Spine tender mildly over lumbar region, no deformity.\nIMPRESSION: Osteoporosis, stable. Fasting lipids: total cholesterol 4.8 mmol/L (<5.2), LDL 2.9 (<3.0), HDL 1.2 (>1.0), triglycerides 1.4 (<1.7). Fasting glucose 5.6 mmol/L (<6.1). Vitamin D and calcium pending.\nARRANGEMENTS: Start alendronate 70 mg PO weekly, calcium carbonate 500 mg PO BD, cholecalciferol 1000 IU PO BD. Advise weight‑bearing exercise, adequate protein, avoid smoking and excess alcohol. Return if new back pain, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0413-m03",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Alendronate sodium 70 mg PO once weekly\nCalcium carbonate 500 mg PO BD\nCholecalciferol (vitamin D3) 1000 IU PO BD"
+    },
+    {
+      "memory_id": "X0413-m04",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 2.38 mmol/L (ref 2.10‑2.55)\nSerum 25‑OH vitamin D: 22 ng/mL (ref 30‑100) – insufficient\nDEXA scan scheduled for 2025-08-01"
+    },
+    {
+      "memory_id": "X0413-m05",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: I have felt a mild ache in my lower back after lifting a small box yesterday. It eases with rest but I am worried it might be related to my osteoporosis."
+    },
+    {
+      "memory_id": "X0413-m06",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up on osteoporosis and recent back discomfort.\nPRESENTING COMPLAINT: Patient describes intermittent low‑back ache after mild exertion, no radiation, no neurologic symptoms.\nEXAMINATION: BP 140/84 mmHg, weight 68.2 kg, BMI 25.1 (obese). Lumbar spine mild tenderness, range of motion preserved, no step deformity.\nIMPRESSION: Osteoporosis, stable. Vitamin D insufficient; calcium normal. No fracture suspected.\nARRANGEMENTS: Continue alendronate 70 mg weekly, increase calcium to 600 mg BD, raise vitamin D3 to 2000 IU BD. Encourage safe lifting techniques, physiotherapy referral for core strengthening. Return if worsening back pain, new chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0413-m07",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Alendronate sodium 70 mg PO once weekly\nCalcium carbonate 600 mg PO BD\nCholecalciferol (vitamin D3) 2000 IU PO BD"
+    },
+    {
+      "memory_id": "X0413-m08",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 2.40 mmol/L (ref 2.10‑2.55)\nSerum 25‑OH vitamin D: 34 ng/mL (ref 30‑100) – now sufficient"
+    },
+    {
+      "memory_id": "X0413-m09",
+      "date": "2025-08-01",
+      "type": "investigation",
+      "author": "D03",
+      "text": "DEXA scan lumbar spine (L1‑L4): T‑score –2.8 (osteoporotic). Hip T‑score –2.4. No vertebral fractures visualized on lateral vertebral assessment."
+    },
+    {
+      "memory_id": "X0413-m10",
+      "date": "2025-09-01",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr Suresh Kumar, Endocrinology, Manipal Hospital Bangalore, for osteoporosis management optimisation and consideration of anabolic therapy. Include recent DEXA, labs, and medication list."
+    },
+    {
+      "memory_id": "X0413-m11",
+      "date": "2025-10-15",
+      "type": "referral_outcome",
+      "author": "lab",
+      "text": "Endocrinology review: Patient tolerates alendronate well, vitamin D replete. Recommend continuing alendronate 70 mg weekly, calcium 600 mg BD, vitamin D3 2000 IU BD. Consider teriparatide if future fracture occurs. No immediate change needed."
+    },
+    {
+      "memory_id": "X0413-m12",
+      "date": "2025-11-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: osteoporosis review after endocrine advice and pre‑influenza vaccination.\nPRESENTING COMPLAINT: Patient asymptomatic, denies new pain or falls.\nEXAMINATION: BP 136/80 mmHg, weight 68.5 kg, BMI 25.2 (obese). Cardiovascular and respiratory exams normal. Spine non‑tender.\nIMPRESSION: Osteoporosis stable on current regimen. Influenza vaccine administered today 2025-11-10.\nARRANGEMENTS: Continue alendronate 70 mg weekly, calcium 600 mg BD, vitamin D3 2000 IU BD. Advise fall‑prevention strategies, home safety check, annual lipid and glucose labs due. Return if new back pain, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0413-m13",
+      "date": "2025-11-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Alendronate sodium 70 mg PO once weekly\nCalcium carbonate 600 mg PO BD\nCholecalciferol (vitamin D3) 2000 IU PO BD"
+    },
+    {
+      "memory_id": "X0413-m14",
+      "date": "2026-02-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Patient requested to reschedule upcoming visit from 2026-03-01 to 2026-03-15 due to travel; appointment updated accordingly."
+    },
+    {
+      "memory_id": "X0413-m15",
+      "date": "2026-03-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine osteoporosis review.\nPRESENTING COMPLAINT: Patient reports no new symptoms, feels well.\nEXAMINATION: BP 138/82 mmHg, weight 68.7 kg, BMI 25.3 (obese). No spinal tenderness, gait steady.\nIMPRESSION: Osteoporosis stable. Fasting lipids: total cholesterol 5.0 mmol/L (<5.2), LDL 3.0 (<3.0 borderline), HDL 1.2 (>1.0), triglycerides 1.5 (<1.7). Fasting glucose 5.8 mmol/L (<6.1).\nARRANGEMENTS: Continue alendronate 70 mg weekly, calcium 600 mg BD, vitamin D3 2000 IU BD. Stress importance of weight‑bearing exercise and adequate calcium intake. Return if new back pain, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0413-m16",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 2.41 mmol/L (ref 2.10‑2.55)\nSerum 25‑OH vitamin D: 36 ng/mL (ref 30‑100) – sufficient"
+    }
+  ]
+}

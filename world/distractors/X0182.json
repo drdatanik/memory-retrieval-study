@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0182",
+  "name": "Bhavna Trivedi",
+  "age": 25,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0182-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia\n  - Status: New onset, difficulty falling asleep, ISI score 18 (moderate severity).\n  - Plan: Start melatonin 3 mg HS, trazodone 50 mg HS. Order TSH, haemoglobin, ISI repeat in 6 weeks. Advise sleep hygiene: limit caffeine after 14:00, screen-off 30 min before bed, keep bedroom cool.\n- Weight: 58 kg\n- Waist: 78 cm (female cut‑off 80 cm, within limit).\n- Due: HbA1c not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0182-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0182-m03",
+      "date": "2025-04-12",
+      "type": "allergy",
+      "author": "D04",
+      "text": "- No known drug allergies or intolerances."
+    },
+    {
+      "memory_id": "X0182-m04",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.1 mIU/L (Ref 0.4‑4.0)\nHaemoglobin: 12.8 g/dL (Ref 12‑16)\nInsomnia Severity Index: 18 (same as baseline)"
+    },
+    {
+      "memory_id": "X0182-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia\n  - Status: Improved sleep onset, ISI now 12 (mild). Mild morning grogginess reported.\n  - Plan: Reduce trazodone to 25 mg HS, continue melatonin 3 mg HS. Repeat TSH, Hb, ISI in 6 weeks. Advise to take trazodone with a light snack to reduce grogginess.\n- Weight: 57.5 kg\n- Waist: 77 cm\n- Due: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0182-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 mg HS"
+    },
+    {
+      "memory_id": "X0182-m07",
+      "date": "2025-07-12",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Eye exam (Snellen): Visual acuity 6/6 both eyes. No retinopathy. Intraocular pressure normal. Advice: annual eye check due to prolonged screen time while driving."
+    },
+    {
+      "memory_id": "X0182-m08",
+      "date": "2025-09-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.0 mIU/L (Ref 0.4‑4.0)\nHaemoglobin: 13.0 g/dL (Ref 12‑16)\nInsomnia Severity Index: 10 (mild)"
+    },
+    {
+      "memory_id": "X0182-m09",
+      "date": "2025-09-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Messaged via app: \"Sleeping better, only occasional early waking. No side effects now. Thanks.\""
+    },
+    {
+      "memory_id": "X0182-m10",
+      "date": "2025-11-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia\n  - Status: ISI 8 (mild), reports restful sleep most nights.\n  - Plan: Discontinue trazodone, continue melatonin 3 mg HS. Monitor for rebound insomnia. Repeat TSH, Hb, ISI in 3 months.\n- Weight: 57 kg\n- Waist: 76 cm\n- Due: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0182-m11",
+      "date": "2025-11-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nTrazodone: stopped"
+    },
+    {
+      "memory_id": "X0182-m12",
+      "date": "2026-02-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-04-10 at 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0182-m13",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia\n  - Status: ISI 6 (normal range), patient reports satisfactory sleep, no daytime fatigue.\n  - Plan: Continue melatonin 3 mg HS. No further medication needed. Advise to maintain sleep hygiene. Next routine review in 6 months.\n- Weight: 56.5 kg\n- Waist: 75 cm\n- Due: HbA1c not applicable."
+    }
+  ]
+}

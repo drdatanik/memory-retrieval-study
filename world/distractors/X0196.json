@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0196",
+  "name": "Simran Grewal",
+  "age": 64,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Atrial fibrillation",
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0196-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, manages hotel duties, walks unaided.\ncognition: Mini-Cog 4/5 (negative screen).\nfalls: 0 falls in last 12 months, gait normal, timed up-and-go 9 seconds (normal).\nmedicines: 6 regular (apixaban 5 mg BD, bisoprolol 2.5 mg OD, pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD, warfarin not started). Polypharmacy – request review against Beers criteria.\nmood: reports occasional low mood, denies depression.\ncarers: spouse, Mr. Ramesh, supportive.\ngoal: \"Stay active at work and avoid falls.\""
+    },
+    {
+      "memory_id": "X0196-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "apixaban 5 mg twice daily\nbisoprolol 2.5 mg once daily\npregabalin 75 mg twice daily\ndiclofenac 50 mg twice daily after food\nmethylcobalamin 1500 mcg once daily"
+    },
+    {
+      "memory_id": "X0196-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 0.9 mg/dL (0.6-1.2)\nTSH: 2.1 µIU/mL (0.4-4.0)\nHbA1c: 5.8% (4.0-5.6) – borderline"
+    },
+    {
+      "memory_id": "X0196-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: sinus rhythm, rate 78 bpm, no ST-T changes, no atrial fibrillation noted at this moment."
+    },
+    {
+      "memory_id": "X0196-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling occasional palpitations and lower back pain radiating to left leg, worse after long shifts at the hotel. I’m worried about falling while managing the front desk."
+    },
+    {
+      "memory_id": "X0196-m06",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-10-10 at 10:00 am with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0196-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still independent, reports mild back pain after prolonged standing.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls, gait slightly antalgic left side, timed up-and-go 10 seconds (normal).\nmedicines: 5 regular (warfarin 5 mg OD, bisoprolol 2.5 mg OD, pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD). Polypharmacy – request Beers review.\nmood: reports improved sleep, no depressive symptoms.\ncarers: spouse, Mr. Ramesh.\ngoal: \"Reduce back pain so I can work full shifts.\""
+    },
+    {
+      "memory_id": "X0196-m08",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "warfarin 5 mg once daily\nbisoprolol 2.5 mg once daily\npregabalin 75 mg twice daily\ndiclofenac 50 mg twice daily after food\nmethylcobalamin 1500 mcg once daily"
+    },
+    {
+      "memory_id": "X0196-m09",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR: 2.4 (target 2-3)\nSerum creatinine: 0.9 mg/dL (0.6-1.2)\nTSH: 2.0 µIU/mL (0.4-4.0)"
+    },
+    {
+      "memory_id": "X0196-m10",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports occasional difficulty climbing hotel stairs, uses handrail.\ncognition: Mini-Cog 3/5 (negative).\nfalls: 1 fall in last 12 months (tripped over rug, no injury), gait slow, timed up-and-go 13 seconds (raised fall risk) – advise exercise program and supportive footwear.\nmedicines: 5 regular (warfarin 6 mg OD, bisoprolol 2.5 mg OD, pregabalin 150 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD). Polypharmacy – request Beers review.\nmood: reports occasional frustration with pain, denies depression.\ncarers: spouse, Mr. Ramesh.\ngoal: \"Maintain mobility to enjoy time with grandchildren.\""
+    },
+    {
+      "memory_id": "X0196-m11",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "warfarin 6 mg once daily\nbisoprolol 2.5 mg once daily\npregabalin 150 mg twice daily\ndiclofenac 50 mg twice daily after food\nmethylcobalamin 1500 mcg once daily"
+    },
+    {
+      "memory_id": "X0196-m12",
+      "date": "2026-04-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "MRI lumbar spine: L4‑L5 disc bulge causing left L5 nerve root compression, mild canal stenosis."
+    },
+    {
+      "memory_id": "X0196-m13",
+      "date": "2026-04-10",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Physiotherapy Department, Sunrise Family Clinic, for core strengthening, lumbar traction, and gait training. Please see patient for 6 sessions over 8 weeks."
+    },
+    {
+      "memory_id": "X0196-m14",
+      "date": "2026-04-10",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Physiotherapy report: patient completed 6 sessions, reports 40% reduction in leg pain, improved timed up-and-go to 11 seconds. Advised to continue home exercise program and wear supportive shoes."
+    },
+    {
+      "memory_id": "X0196-m15",
+      "date": "2026-09-20",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Allergy: aspirin – urticaria and angioedema within 30 minutes of ingestion. Avoid NSAIDs containing aspirin; diclofenac tolerated."
+    }
+  ]
+}

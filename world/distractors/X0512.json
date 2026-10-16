@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0512",
+  "name": "Ila Trivedi",
+  "age": 34,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypothyroidism",
+    "Gastro-oesophageal reflux",
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0512-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, manages hotel duties, walks 2 km daily.\ncognition: Mini-Cog score 3/5 (recall 2, clock draw normal) – negative screen.\nfalls: No falls in past 12 months; gait steady; TUG 9 seconds – normal fall risk.\nmedicines: 4 regular (levothyroxine 50 mcg OD, pantoprazole 40 mg OD, domperidone 10 mg BD, silymarin 140 mg TDS) – polypharmacy not reached; note: review against Beers criteria if >=5.\nmood: Reports good spirits, no anxiety or depression.\ncarers: Main carer Ravi Kumar, husband.\ngoals: \"I want to stay energetic for work and keep my liver healthy.\""
+    },
+    {
+      "memory_id": "X0512-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 50 mcg OD; pantoprazole 40 mg OD before breakfast; domperidone 10 mg BD before meals; silymarin 140 mg TDS."
+    },
+    {
+      "memory_id": "X0512-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (ref 0.4-4.0) – slightly elevated.\nFree T4 12.0 pmol/L (ref 9-19) – normal.\nALT 38 U/L (ref 7-56) – normal.\nAST 30 U/L (ref 10-40) – normal.\nTotal cholesterol 190 mg/dL (<200).\nLDL 115 mg/dL (<130).\nHDL 45 mg/dL (>40).\nTriglycerides 150 mg/dL (ref <150) – borderline."
+    },
+    {
+      "memory_id": "X0512-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Continues hotel management; reports mild fatigue after long shifts, otherwise independent.\ncognition: No change; Mini-Cog not repeated (annual screen due Apr 2026).\nfalls: No falls in past 12 months; gait slightly slower on right heel; TUG 10 seconds – normal fall risk.\nmedicines: 4 regular (levothyroxine 50 mcg OD, pantoprazole 40 mg OD, domperidone 10 mg BD, silymarin 140 mg TDS) – polypharmacy not reached; note: review against Beers criteria if >=5.\nmood: Mood stable, denies anxiety or low mood.\ncarers: Main carer Ravi Kumar, husband.\ngoals: \"I wish to reduce fatigue and maintain my work performance.\""
+    },
+    {
+      "memory_id": "X0512-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 75 mcg OD; pantoprazole 40 mg OD before breakfast; domperidone 10 mg BD before meals; silymarin 140 mg TDS."
+    },
+    {
+      "memory_id": "X0512-m06",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.8 mIU/L (ref 0.4-4.0) – within target.\nFree T4 13.2 pmol/L (ref 9-19) – normal."
+    },
+    {
+      "memory_id": "X0512-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages hotel front desk; occasional heartburn after meals, otherwise independent.\ncognition: Mini-Cog not yet due (annual Apr 2026).\nfalls: No falls in past 12 months; gait steady; TUG 9 seconds – normal fall risk.\nmedicines: 5 regular (levothyroxine 75 mcg OD, pantoprazole 40 mg OD, domperidone 10 mg BD, silymarin 140 mg TDS, rosuvastatin 5 mg OD) – polypharmacy present; request review against Beers criteria.\nmood: Reports mild irritability linked to reflux symptoms.\ncarers: Main carer Ravi Kumar, husband.\ngoals: \"I want to control my acid reflux and avoid medication side effects.\""
+    },
+    {
+      "memory_id": "X0512-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 75 mcg OD; pantoprazole 40 mg OD before breakfast; domperidone 10 mg BD before meals; silymarin 140 mg TDS; rosuvastatin 5 mg OD."
+    },
+    {
+      "memory_id": "X0512-m09",
+      "date": "2025-10-03",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Abdominal ultrasound: Liver shows mild steatosis, homogeneous echotexture, no focal lesions. Portal vein normal. Spleen normal. No ascites. Impression: Consistent with non‑alcoholic fatty liver disease, grade 1."
+    },
+    {
+      "memory_id": "X0512-m10",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 20 Jan 2026 at 10:30 AM with Dr Nandini Kulkarni (D06) for follow‑up of thyroid, GERD and NAFLD."
+    },
+    {
+      "memory_id": "X0512-m11",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Patient reports improved energy, able to work full shifts without fatigue.\ncognition: Mini‑Cog not repeated (annual due Apr 2026).\nfalls: No falls in past 12 months; gait normal; TUG 9 seconds – normal fall risk.\nmedicines: 5 regular (levothyroxine 100 mcg OD, pantoprazole 40 mg OD, domperidone 10 mg BD, silymarin 140 mg TDS, rosuvastatin 5 mg OD) – polypharmacy; request Beers review.\nmood: Mood stable, denies depression or anxiety.\ncarers: Main carer Ravi Kumar, husband.\ngoals: \"I aim to keep my thyroid levels normal and avoid any medication‑related problems.\""
+    },
+    {
+      "memory_id": "X0512-m12",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 100 mcg OD; pantoprazole 40 mg OD before breakfast; domperidone 10 mg BD before meals; silymarin 140 mg TDS; rosuvastatin 5 mg OD."
+    },
+    {
+      "memory_id": "X0512-m13",
+      "date": "2026-04-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (ref 0.4-4.0) – optimal.\nFree T4 14.0 pmol/L (ref 9-19) – normal.\nALT 32 U/L (ref 7-56) – normal.\nAST 28 U/L (ref 10-40) – normal.\nTotal cholesterol 178 mg/dL (<200).\nLDL 102 mg/dL (<130).\nHDL 48 mg/dL (>40).\nTriglycerides 138 mg/dL (ref <150) – normal."
+    },
+    {
+      "memory_id": "X0512-m14",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Remains independent in hotel management; reports no reflux symptoms, good exercise tolerance.\ncognition: Mini‑Cog score 4/5 (recall 2, clock draw normal) – negative screen.\nfalls: No falls in past 12 months; gait steady; TUG 8 seconds – normal fall risk.\nmedicines: 5 regular (levothyroxine 100 mcg OD, pantoprazole 40 mg OD, domperidone 10 mg BD, silymarin 140 mg TDS, rosuvastatin 5 mg OD) – polypharmacy; request Beers review.\nmood: Mood good, denies anxiety or low mood.\ncarers: Main carer Ravi Kumar, husband.\ngoals: \"I want to stay healthy, continue working, and keep my liver and thyroid in balance.\""
+    }
+  ]
+}

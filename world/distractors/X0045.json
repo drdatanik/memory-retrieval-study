@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0045",
+  "name": "Manoj Chauhan",
+  "age": 85,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Asthma",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0045-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of asthma and newly detected vitamin D deficiency. PRESENTING COMPLAINT: 85‑year‑old male reports occasional wheeze on exertion and fatigue; no recent exacerbations. EXAMINATION: BP 138/84 mmHg, weight 62 kg, height 162 cm, BMI 23.6 (overweight). Chest clear bilaterally, no wheeze. IMPRESSION: Asthma, mild intermittent; Vitamin D deficiency likely due to low dietary intake and limited sun exposure. ARRANGEMENTS: Start salbutamol MDI two puffs SOS, budesonide‑formoterol 200/6 µg inhaler two puffs BD, montelukast 10 mg at HS. Initiate cholecalciferol 60 000 IU once weekly for 8 weeks then 1000 IU daily. Advise weight‑bearing activity and calcium‑rich diet. Return if: increased wheeze, night‑time symptoms, fever >39 °C, or new bone pain."
+    },
+    {
+      "memory_id": "X0045-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Salbutamol metered‑dose inhaler 100 µg/dose – two puffs as needed for wheeze.\nBudesonide‑formoterol 200/6 µg inhaler – two puffs twice daily.\nMontelukast sodium 10 mg tablet – one tablet at bedtime.\nCholecalciferol 60 000 IU capsule – one capsule once weekly for 8 weeks, then switch to cholecalciferol 1000 IU capsule – one capsule daily."
+    },
+    {
+      "memory_id": "X0045-m03",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry with bronchodilator reversibility performed. Pre‑bronchodilator FEV1 2.10 L (68% predicted), FVC 2.80 L (80% predicted), FEV1/FVC 0.75. After 200 µg salbutamol, FEV1 increased to 2.30 L (10% rise) and FVC to 2.95 L. Positive reversibility confirms asthma diagnosis. Asthma Control Test (ACT) score to be obtained at next visit."
+    },
+    {
+      "memory_id": "X0045-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 18 ng/mL (reference 30‑100). Serum calcium: 9.2 mg/dL (8.5‑10.5). Serum phosphate: 3.4 mg/dL (2.5‑4.5). Vitamin D remains insufficient after 4 weeks of loading therapy."
+    },
+    {
+      "memory_id": "X0045-m05",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up of asthma control and vitamin D repletion. PRESENTING COMPLAINT: Patient reports reduced wheeze, uses salbutamol only once weekly, feels less fatigued. EXAMINATION: BP 136/82, weight 61.5 kg, BMI 23.3 (overweight). Chest clear. IMPRESSION: Asthma well‑controlled; Vitamin D deficiency improving but still below target. ARRANGEMENTS: Continue current asthma regimen. Change vitamin D to maintenance cholecalciferol 1000 IU daily. Reinforce weight‑bearing exercise and dairy intake. Return if: worsening wheeze, night symptoms, fever >39 °C, or new musculoskeletal pain."
+    },
+    {
+      "memory_id": "X0045-m06",
+      "date": "2025-08-11",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Salbutamol metered‑dose inhaler 100 µg/dose – two puffs as needed.\nBudesonide‑formoterol 200/6 µg inhaler – two puffs twice daily.\nMontelukast sodium 10 mg tablet – one tablet at bedtime.\nCholecalciferol 1000 IU capsule – one capsule daily."
+    },
+    {
+      "memory_id": "X0045-m07",
+      "date": "2025-11-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 32 ng/mL (reference 30‑100). Serum calcium: 9.4 mg/dL (8.5‑10.5). Serum phosphate: 3.6 mg/dL (2.5‑4.5). Vitamin D now within sufficient range; calcium and phosphate normal."
+    },
+    {
+      "memory_id": "X0045-m08",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine asthma review and check vitamin D status. PRESENTING COMPLAINT: No wheeze, uses salbutamol less than once a week, sleeps well. EXAMINATION: BP 138/80, weight 61 kg, BMI 23.1 (overweight). Chest clear. IMPRESSION: Asthma remains well‑controlled; Vitamin D sufficient. ARRANGEMENTS: Continue salbutamol SOS, budesonide‑formoterol BD, montelukast HS. Keep cholecalciferol 1000 IU daily. Advise annual flu vaccine due to age >60. Return if: increased wheeze, night symptoms, fever >39 °C, or any new cardiac symptoms."
+    },
+    {
+      "memory_id": "X0045-m09",
+      "date": "2026-02-16",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Salbutamol metered‑dose inhaler 100 µg/dose – two puffs as needed.\nBudesonide‑formoterol 200/6 µg inhaler – two puffs twice daily.\nMontelukast sodium 10 mg tablet – one tablet at bedtime.\nCholecalciferol 1000 IU capsule – one capsule daily.\nInfluenza vaccine (inactivated) – single dose 0.5 mL IM today."
+    },
+    {
+      "memory_id": "X0045-m10",
+      "date": "2026-05-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Repeat spirometry to assess lung function stability. Pre‑bronchodilator FEV1 2.25 L (73% predicted), FVC 2.90 L (88% predicted), FEV1/FVC 0.78. Post‑salbutamol FEV1 2.38 L (6% rise), FVC 3.00 L. No significant change from prior study; asthma control stable."
+    },
+    {
+      "memory_id": "X0045-m11",
+      "date": "2026-06-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 35 ng/mL (reference 30‑100). Serum calcium: 9.3 mg/dL (8.5‑10.5). Serum phosphate: 3.5 mg/dL (2.5‑4.5). All values within normal limits."
+    },
+    {
+      "memory_id": "X0045-m12",
+      "date": "2026-09-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual preventive review for patient over 40. PRESENTING COMPLAINT: Asymptomatic, feels well. EXAMINATION: BP 140/82, weight 60.5 kg, BMI 23.0 (overweight). Chest clear. IMPRESSION: Asthma controlled, vitamin D sufficient. Due for fasting lipid profile and fasting blood sugar as per annual screening. ARRANGEMENTS: Order fasting lipid profile and fasting blood sugar. Continue current medications. Advise to return if chest pain, dyspnea at rest, fever >39 °C, or unexplained weight loss."
+    },
+    {
+      "memory_id": "X0045-m13",
+      "date": "2026-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 185 mg/dL (<200 desirable), LDL 110 mg/dL (<130), HDL 48 mg/dL (>40 good), Triglycerides 120 mg/dL (<150). Fasting blood sugar: 92 mg/dL (70‑99 normal). All parameters within target ranges."
+    },
+    {
+      "memory_id": "X0045-m14",
+      "date": "2026-09-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review of lipid and glucose results with Dr Priya Natarajan (D03) on 2026-10-05 at 10:30 AM. Patient to bring medication list."
+    },
+    {
+      "memory_id": "X0045-m15",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of annual lipid and glucose results. PRESENTING COMPLAINT: Patient reports feeling well, no new symptoms. EXAMINATION: BP 138/80, weight 60 kg, BMI 22.9 (now normal per Asian cut‑off). Chest clear. IMPRESSION: Asthma well‑controlled, vitamin D sufficient, lipids and glucose normal. ARRANGEMENTS: Continue current asthma and vitamin D regimen. No changes needed. Return if: chest pain, breathlessness, fever >39 °C, or any new neurological symptoms."
+    }
+  ]
+}

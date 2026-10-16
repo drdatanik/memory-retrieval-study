@@ -1,0 +1,108 @@
+{
+  "patient_id": "P20",
+  "name": "Sameer Joshi",
+  "age": 41,
+  "sex": "M",
+  "primary_doctor": "D01",
+  "conditions": ["Hypertension"],
+  "memories": [
+    {
+      "memory_id": "P20-m01",
+      "date": "2025-06-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-06-17 at 11:30 with Dr Anjali Mehta (D01). Reason given by patient: high blood pressure reading at a pharmacy kiosk. Please bring any previous BP readings."
+    },
+    {
+      "memory_id": "P20-m02",
+      "date": "2025-06-17",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake note (patient-reported): IT support engineer working night shifts, 10 pm to 7 am. Sleeps from about 9 am to 3 pm. Vegetarian; eats dairy but no eggs."
+    },
+    {
+      "memory_id": "P20-m03",
+      "date": "2025-06-17",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: New HTN, BP found high at a pharmacy kiosk. C/o occasional headache on waking. No chest pain, no breathlessness. Works IT support night shifts, sleeps 9 am to 3 pm. Vegetarian, eats dairy, no eggs.\nO: BP 150/94 mmHg (repeat 148/92 after 5 min rest), pulse 80/min, wt 82 kg. O/E: CVS S1 S2 normal, no murmur.\nA: 1. Hypertension, newly diagnosed.\nP: 1. Start telmisartan (Telma) 40 mg OD. 2. Labs today: LDL, fasting glucose, creatinine. 3. Home BP readings twice a week. 4. Salt below 5 g/day.\nAdv: Cut pickles, papad and namkeen; 30 min walk on days off; avoid heavy meals late at night on shift. R/V in 3 months."
+    },
+    {
+      "memory_id": "P20-m04",
+      "date": "2025-06-17",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx (new): telmisartan 40 mg OD, once daily with breakfast, started 2025-06-17 for newly diagnosed hypertension. Supply 90 days. Patient asked to bring home BP readings to each visit."
+    },
+    {
+      "memory_id": "P20-m05",
+      "date": "2025-06-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: LDL cholesterol 128 mg/dL (desirable below 100 mg/dL). Fasting glucose 98 mg/dL (reference 70 to 99). Creatinine 0.9 mg/dL (reference 0.7 to 1.3). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P20-m06",
+      "date": "2025-06-17",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up with Dr Anjali Mehta (D01) booked for 2025-09-23 at 10:00. Booked at reception after the 2025-06-17 visit."
+    },
+    {
+      "memory_id": "P20-m07",
+      "date": "2025-09-23",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o HTN on telmisartan 40 mg OD since June. Taking tablets regularly. Evening home readings still high. No headache, no chest pain. Night shifts continue.\nO: BP 148/96 mmHg (repeat 146/94), pulse 78/min, wt 81 kg. O/E: NAD.\nA: 1. HTN, not at target on telmisartan alone.\nP: 1. Stop telmisartan 40 mg alone; start telmisartan 40 mg with hydrochlorothiazide 12.5 mg as one combination tablet (Telma-H) OD. 2. Electrolytes at the next visit. 3. Continue salt restriction.\nAdv: Low-salt vegetarian diet; 30 min walk daily; limit tea and coffee after 6 pm; no late-night snacking on shift. R/V in 4 weeks."
+    },
+    {
+      "memory_id": "P20-m08",
+      "date": "2025-09-23",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: telmisartan 40 mg with hydrochlorothiazide 12.5 mg combination tablet OD, from 2025-09-23, in place of telmisartan 40 mg alone. Supply 90 days."
+    },
+    {
+      "memory_id": "P20-m09",
+      "date": "2025-09-23",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up with Dr Anjali Mehta (D01) booked for 2025-10-21 at 10:30, for review and blood tests. Booked at reception during the 2025-09-23 visit."
+    },
+    {
+      "memory_id": "P20-m10",
+      "date": "2025-10-21",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o HTN on telmisartan with hydrochlorothiazide since 23 Sept. No dizziness on standing. Passing urine a little more in the mornings. Daytime sleep still disturbed by traffic noise.\nO: BP 128/82 mmHg, pulse 76/min, wt 80 kg. O/E: NAD.\nA: 1. HTN, BP near target on the combination tablet.\nP: 1. Continue telmisartan 40 mg with hydrochlorothiazide 12.5 mg OD. 2. Electrolytes checked today, reviewed. 3. Blackout curtains and earplugs for daytime sleep.\nAdv: Continue low-salt vegetarian diet; 30 min walk after waking; cut namkeen and sweet tea; avoid heavy meals late at night. R/V in 6 months."
+    },
+    {
+      "memory_id": "P20-m11",
+      "date": "2025-10-21",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: sodium 139 mmol/L (reference 135 to 145). Potassium 4.1 mmol/L (reference 3.5 to 5.0). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P20-m12",
+      "date": "2025-10-21",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up with Dr Anjali Mehta (D01) booked for 2026-04-14 at 10:00, six-month review. Booked at reception during the 2025-10-21 visit."
+    },
+    {
+      "memory_id": "P20-m13",
+      "date": "2026-04-14",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o HTN on telmisartan with hydrochlorothiazide OD. Taking regularly. No chest pain, no headache. Sleeping better with curtains.\nO: BP 132/86 mmHg sitting, pulse 74/min, wt 79 kg. O/E: NAD.\nA: 1. HTN, stable; BP close to target.\nP: 1. Continue telmisartan 40 mg with hydrochlorothiazide 12.5 mg OD. 2. Continue home BP readings. 3. Diet and exercise reinforced; reduce evening snacks.\nAdv: Vegetarian low-salt diet; 30 min walk on days off; cut pickles and papad. R/V in 6 months."
+    },
+    {
+      "memory_id": "P20-m14",
+      "date": "2026-08-26",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient: 'Doctor, I want to start a keto diet to lose weight. I plan to cut rice, bread and sweets and eat more paneer, cheese, ghee and nuts, since I am vegetarian. Is this safe with my BP tablets?'"
+    }
+  ]
+}

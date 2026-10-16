@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0379",
+  "name": "Razia Qureshi",
+  "age": 35,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Asthma",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0379-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma with vitamin B12 deficiency.\nSymptoms: intermittent wheeze, exertional dyspnoea, occasional nocturnal cough; mild fatigue. Examination: mild expiratory wheeze bilaterally, normal cardiac auscultation, no cyanosis. Smoking: never, pack-years 0. Spirometry: FEV1 2.30 L (78% predicted), FVC 2.80 L (85% predicted), FEV1/FVC 0.82. Change in FEV1 since prior: N/A. Asthma Control Test score 16 (not well controlled). Technique checked: correct for salbutamol MDI and budesonide-formoterol dry powder device; inspiratory flow adequate."
+    },
+    {
+      "memory_id": "X0379-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol metered-dose inhaler 100 mcg, 2 puffs SOS.\nBudesonide-formoterol 200/6 mcg dry powder inhaler, 1 puff BD.\nMontelukast sodium 10 mg tablet, HS.\nMethylcobalamin 1500 mcg tablet, OD."
+    },
+    {
+      "memory_id": "X0379-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 150 pg/mL (ref 200-900).\nHaemoglobin: 11.2 g/dL (ref 12.0-15.5).\nMCV: 98 fL (ref 80-100)."
+    },
+    {
+      "memory_id": "X0379-m04",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I work as a postal worker, walking routes daily. I notice wheeze after climbing stairs and feel tired. My diet is vegetarian; I take no supplements."
+    },
+    {
+      "memory_id": "X0379-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, vitamin B12 deficiency on treatment.\nSymptoms: reduced wheeze, occasional cough, improved energy. Examination: mild end-expiratory wheeze, otherwise clear. Smoking: never. Spirometry: FEV1 2.55 L (87% predicted) ↑0.25 L, FVC 2.95 L (90% predicted), FEV1/FVC 0.86. Asthma Control Test score 20 (well controlled). Technique checked: correct; dry powder device flow adequate."
+    },
+    {
+      "memory_id": "X0379-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol metered-dose inhaler 100 mcg, 2 puffs SOS.\nBudesonide-formoterol 200/6 mcg dry powder inhaler, 2 puffs BD (increased).\nMontelukast sodium 10 mg tablet, HS.\nMethylcobalamin 1500 mcg tablet, OD."
+    },
+    {
+      "memory_id": "X0379-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 340 pg/mL (ref 200-900).\nHaemoglobin: 12.6 g/dL (ref 12.0-15.5).\nMCV: 92 fL (ref 80-100)."
+    },
+    {
+      "memory_id": "X0379-m08",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, vitamin B12 deficiency stable.\nSymptoms: occasional nocturnal cough, no daytime wheeze. Examination: clear lungs. Smoking: never. Spirometry: FEV1 2.48 L (85% predicted) ↓0.07 L, FVC 2.90 L (89% predicted), FEV1/FVC 0.86. Asthma Control Test score 18 (not well controlled). Technique corrected: patient was holding breath too short; taught 5‑second hold after actuation."
+    },
+    {
+      "memory_id": "X0379-m09",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol metered-dose inhaler 100 mcg, 2 puffs SOS.\nBudesonide-formoterol 200/6 mcg dry powder inhaler, 2 puffs BD (maintained).\nMontelukast sodium 10 mg tablet, HS (continued).\nMethylcobalamin 1500 mcg tablet, OD."
+    },
+    {
+      "memory_id": "X0379-m10",
+      "date": "2025-10-12",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray (PA): lungs clear, no infiltrate, cardiac size normal. No evidence of consolidation or hyperinflation."
+    },
+    {
+      "memory_id": "X0379-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, vitamin B12 deficiency.\nSymptoms: increased daytime wheeze, night cough 2‑3x/week. Examination: bilateral end‑expiratory wheeze. Smoking: never. Spirometry: FEV1 2.30 L (79% predicted) ↓0.18 L, FVC 2.78 L (85% predicted), FEV1/FVC 0.83. Asthma Control Test score 15 (not well controlled). Technique checked: correct after reinforcement."
+    },
+    {
+      "memory_id": "X0379-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol metered-dose inhaler 100 mcg, 2 puffs SOS.\nBudesonide-formoterol 200/6 mcg dry powder inhaler, 2 puffs BD (maintained).\nMontelukast sodium 10 mg tablet, HS stopped.\nMethylcobalamin 1500 mcg tablet, OD."
+    },
+    {
+      "memory_id": "X0379-m13",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 420 pg/mL (ref 200-900).\nHaemoglobin: 13.4 g/dL (ref 12.0-15.5).\nMCV: 89 fL (ref 80-100)."
+    },
+    {
+      "memory_id": "X0379-m14",
+      "date": "2026-04-20",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referred to ENT for evaluation of allergic rhinitis contributing to asthma symptoms. Requested skin prick testing and nasal steroid recommendation."
+    },
+    {
+      "memory_id": "X0379-m15",
+      "date": "2026-05-10",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "ENT reply: mild intermittent allergic rhinitis, negative skin prick to common aeroallergens. Recommended intranasal corticosteroid spray as needed. No further action required."
+    },
+    {
+      "memory_id": "X0379-m16",
+      "date": "2026-07-25",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review on 2026-08-15 at 10:30 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0379-m17",
+      "date": "2026-08-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, vitamin B12 deficiency.\nSymptoms: well‑controlled, rare wheeze, no nocturnal cough. Examination: clear lungs. Smoking: never. Spirometry: FEV1 2.58 L (88% predicted) ↑0.28 L, FVC 3.02 L (92% predicted), FEV1/FVC 0.86. Asthma Control Test score 22 (well controlled). Technique checked: correct; dry powder device flow adequate."
+    }
+  ]
+}

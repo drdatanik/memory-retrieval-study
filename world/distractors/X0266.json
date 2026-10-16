@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0266",
+  "name": "Abraham D'Souza",
+  "age": 36,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0266-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  - Status: New diagnosis, symptoms of nasal congestion, sneezing, itchy eyes for 2 months.\n  - Plan: Start cetirizine 10 mg at bedtime, fluticasone nasal spray one spray each nostril once daily, montelukast 10 mg at bedtime. Advise avoidance of known allergens, use saline nasal rinse.\n- Weight and waist circumference\n  - Status: Weight 78 kg, waist 92 cm (above male cutoff of 90 cm).\n  - Plan: Aim for gradual weight loss; monitor monthly.\n- Breakfast advice\n  - Plan: Include protein-rich breakfast, limit sugary cereals.\n- Lunch advice\n  - Plan: Balanced meal with vegetables, whole grains, lean protein; avoid fried foods.\n- Dinner advice\n  - Plan: Light dinner, avoid heavy meals within 2 hours of bedtime."
+    },
+    {
+      "memory_id": "X0266-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0266-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Skin prick test: Positive to house dust mite (3+), grass pollen (2+).\nTotal serum IgE: 210 IU/mL (reference <100)."
+    },
+    {
+      "memory_id": "X0266-m04",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 at 10:00 AM with Dr Karthik Hegde."
+    },
+    {
+      "memory_id": "X0266-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  - Status: Improved; nasal congestion reduced, occasional sneezing.\n  - Plan: Continue current regimen; consider tapering cetirizine if symptoms remain mild.\n- Weight and waist circumference\n  - Status: Weight 77 kg, waist 90 cm (at cutoff).\n  - Plan: Maintain weight; encourage regular brisk walking 30 mins daily.\n- Breakfast advice\n  - Plan: Greek yogurt with nuts and fruit.\n- Lunch advice\n  - Plan: Quinoa salad with chickpeas and veggies.\n- Dinner advice\n  - Plan: Grilled fish with steamed vegetables."
+    },
+    {
+      "memory_id": "X0266-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 5 mg HS (reduce dose)\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0266-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Total serum IgE: 180 IU/mL (reference <100)."
+    },
+    {
+      "memory_id": "X0266-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  - Status: Mild symptoms; occasional itchy eyes, no congestion.\n  - Plan: Stop cetirizine; continue fluticasone and montelukast; review in 3 months.\n- Weight and waist circumference\n  - Status: Weight 76 kg, waist 88 cm (below cutoff).\n  - Plan: Continue current activity; aim to keep waist <90 cm.\n- Breakfast advice\n  - Plan: Oatmeal with berries.\n- Lunch advice\n  - Plan: Lentil soup with whole grain bread.\n- Dinner advice\n  - Plan: Stir-fried tofu with broccoli."
+    },
+    {
+      "memory_id": "X0266-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Fluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0266-m10",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: moved from 2026-01-15 to 2026-01-20 at 11:30 AM with Dr Karthik Hegde."
+    },
+    {
+      "memory_id": "X0266-m11",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  - Status: Well controlled; no daytime symptoms, occasional nocturnal mild itching.\n  - Plan: Continue fluticasone and montelukast; consider trial of stopping montelukast in 1 month if remains asymptomatic.\n- Weight and waist circumference\n  - Status: Weight 75 kg, waist 86 cm.\n  - Plan: Maintain; encourage strength training twice weekly.\n- Breakfast advice\n  - Plan: Smoothie with spinach, banana, protein powder.\n- Lunch advice\n  - Plan: Brown rice with dal and mixed vegetables.\n- Dinner advice\n  - Plan: Chicken salad with olive oil dressing."
+    },
+    {
+      "memory_id": "X0266-m12",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Fluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0266-m13",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Skin prick test: House dust mite 2+, grass pollen 1+ (decreased reactivity).\nTotal serum IgE: 150 IU/mL (reference <100)."
+    },
+    {
+      "memory_id": "X0266-m14",
+      "date": "2026-04-18",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  - Status: Asymptomatic on current therapy.\n  - Plan: Stop montelukast; continue fluticasone nasal spray; review in 3 months.\n- Weight and waist circumference\n  - Status: Weight 74 kg, waist 84 cm.\n  - Plan: Continue healthy lifestyle.\n- Breakfast advice\n  - Plan: Whole grain toast with avocado.\n- Lunch advice\n  - Plan: Chickpea curry with quinoa.\n- Dinner advice\n  - Plan: Baked vegetables with herbs."
+    },
+    {
+      "memory_id": "X0266-m15",
+      "date": "2026-04-18",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Fluticasone nasal spray 1 spray each nostril OD"
+    },
+    {
+      "memory_id": "X0266-m16",
+      "date": "2026-07-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  - Status: Remains asymptomatic off montelukast, occasional mild nasal dryness with fluticasone.\n  - Plan: Continue fluticasone; consider reducing to alternate days if dryness persists.\n- Weight and waist circumference\n  - Status: Weight 73 kg, waist 82 cm (within target).\n  - Plan: Maintain current weight.\n- Breakfast advice\n  - Plan: Poached eggs with whole grain toast.\n- Lunch advice\n  - Plan: Mixed green salad with olive oil and lemon.\n- Dinner advice\n  - Plan: Steamed fish with quinoa pilaf."
+    },
+    {
+      "memory_id": "X0266-m17",
+      "date": "2026-07-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Fluticasone nasal spray 1 spray each nostril OD (alternate days if dryness)"
+    }
+  ]
+}

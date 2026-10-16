@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0430",
+  "name": "Nasir Mirza",
+  "age": 60,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0430-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "• Vitamin B12 deficiency\n  - Status: Newly diagnosed, presents with fatigue and mild paresthesias in feet.\n  - Plan: Start methylcobalamin 1.5 mg OD after food; advise B12-rich diet (egg, fish, dairy) – Breakfast: boiled egg with whole‑grain toast; Lunch: dal with fish curry and brown rice; Dinner: paneer stir‑fried with vegetables and chapati. Check serum B12, MCV, Hb in 3 months.\n• Weight 78 kg, waist 92 cm (>90 cm male cut‑off).\n• Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0430-m02",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 180 pg/mL (ref 200‑900). MCV: 98 fL (ref 80‑100). Haemoglobin: 12.8 g/dL (ref 13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0430-m03",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "• Vitamin B12 deficiency\n  - Status: B12 risen to 340 pg/mL, MCV normalised, fatigue improved, no paresthesias.\n  - Plan: Continue methylcobalamin 1.5 mg OD after food. Repeat B12, MCV, Hb in 3 months. Maintain diet advice as before. Weight 77 kg, waist 90 cm (at cut‑off).\n• Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0430-m04",
+      "date": "2025-08-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methylcobalamin 2.0 mg OD after food"
+    },
+    {
+      "memory_id": "X0430-m05",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 460 pg/mL (ref 200‑900). MCV: 92 fL (ref 80‑100). Haemoglobin: 13.5 g/dL (ref 13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0430-m06",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "• Vitamin B12 deficiency\n  - Status: B12 within normal range, asymptomatic.\n  - Plan: Taper to methylcobalamin 1.0 mg OD after food (maintenance). Repeat B12, MCV, Hb in 3 months. Continue diet advice. Weight 76 kg, waist 88 cm (<90 cm).\n• Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0430-m07",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methylcobalamin 1.0 mg OD after food"
+    },
+    {
+      "memory_id": "X0430-m08",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 210 pg/mL (ref 200‑900). MCV: 95 fL (ref 80‑100). Haemoglobin: 13.2 g/dL (ref 13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0430-m09",
+      "date": "2026-06-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "• Vitamin B12 deficiency\n  - Status: B12 low‑normal, asymptomatic.\n  - Plan: Continue methylcobalamin 1.0 mg OD after food. Repeat B12, MCV, Hb in 3 months. Diet advice unchanged. Weight 75 kg, waist 86 cm.\n• Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0430-m10",
+      "date": "2026-07-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-10-05 at 10:30 am with Dr Karthik Hegde."
+    },
+    {
+      "memory_id": "X0430-m11",
+      "date": "2026-08-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 225 pg/mL (ref 200‑900). MCV: 94 fL (ref 80‑100). Haemoglobin: 13.3 g/dL (ref 13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0430-m12",
+      "date": "2026-09-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "• Vitamin B12 deficiency\n  - Status: B12 stable within normal range, no symptoms.\n  - Plan: Continue methylcobalamin 1.0 mg OD after food. Repeat B12, MCV, Hb in 3 months. Diet advice as before. Weight 74 kg, waist 84 cm.\n• Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0430-m13",
+      "date": "2026-09-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methylcobalamin 1.0 mg OD after food (refill)"
+    },
+    {
+      "memory_id": "X0430-m14",
+      "date": "2026-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 240 pg/mL (ref 200‑900). MCV: 93 fL (ref 80‑100). Haemoglobin: 13.4 g/dL (ref 13.0‑17.0)."
+    }
+  ]
+}

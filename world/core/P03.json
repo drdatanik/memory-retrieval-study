@@ -1,0 +1,94 @@
+{
+  "patient_id": "P03",
+  "name": "Kavita Jain",
+  "age": 52,
+  "sex": "F",
+  "primary_doctor": "D01",
+  "conditions": ["Hypothyroidism", "Prediabetes"],
+  "memories": [
+    {
+      "memory_id": "P03-m01",
+      "date": "2025-05-06",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake note: Follows a Jain diet, so avoids onion, garlic, potato and other root vegetables. Does not eat after sunset. Every year she fasts for the 8 days of Paryushana (August to September), taking only boiled water during the day."
+    },
+    {
+      "memory_id": "P03-m02",
+      "date": "2025-05-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: TSH 6.8 mIU/L (reference 0.4 to 4.0 mIU/L). HbA1c (glycated haemoglobin) 6.1 % (reference below 5.7 %; prediabetes 5.7 to 6.4 %)."
+    },
+    {
+      "memory_id": "P03-m03",
+      "date": "2025-05-06",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o hypothyroidism on levothyroxine (Thyronorm) 50 mcg OD. C/o tiredness and dry skin, weight up 2 kg in 6 months. Jain diet as noted. Takes tablet on waking, mostly on empty stomach.\nO: BP 124/80 mmHg, pulse 70/min, ht 160 cm, wt 63 kg. Thyroid not palpably enlarged. TSH 6.8 mIU/L. HbA1c 6.1 %.\nA: 1. Hypothyroidism, under-replaced (TSH 6.8). 2. Prediabetes, HbA1c 6.1 %, no glucose-lowering medicine indicated.\nP: 1. Continue levothyroxine 50 mcg OD; repeat TSH in 3 months before any dose change. 2. Regular walks. 3. Recheck HbA1c at next review.\nAdv: Include millets, dal and fibre at meals; regular walking; keep tablet on empty stomach. R/V in 3 months."
+    },
+    {
+      "memory_id": "P03-m04",
+      "date": "2025-08-19",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: TSH 7.9 mIU/L (reference 0.4 to 4.0 mIU/L). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P03-m05",
+      "date": "2025-08-19",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Tired, feels cold, constipated at times. Currently observing the Paryushana fast (boiled water during the day). Levothyroxine taken most mornings, sometimes after tea.\nO: BP 126/82 mmHg, pulse 68/min, wt 64 kg. TSH 7.9 mIU/L, up from 6.8.\nA: 1. Hypothyroidism, not controlled on 50 mcg OD.\nP: 1. Increase levothyroxine (Thyronorm) to 75 mcg OD. 2. Take on waking with water, 30 to 60 min before tea or food. 3. Repeat TSH in 3 months.\nAdv: Tablet with plain water only, not with tea or milk. Continue walks as the fast allows. R/V in 3 months."
+    },
+    {
+      "memory_id": "P03-m06",
+      "date": "2025-08-19",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: levothyroxine (Thyronorm) increased from 50 mcg OD to 75 mcg OD. Once daily on an empty stomach, from 2025-08-19."
+    },
+    {
+      "memory_id": "P03-m07",
+      "date": "2025-11-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: TSH 3.2 mIU/L (reference 0.4 to 4.0 mIU/L). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P03-m08",
+      "date": "2025-11-18",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Energy better, bowels regular now. Taking the 75 mcg tablet on an empty stomach. Jain diet, no root vegetables; eats millets 2 to 3 times a week.\nO: BP 122/78 mmHg, pulse 70/min, wt 62 kg. TSH 3.2 mIU/L, now within range.\nA: 1. Hypothyroidism, controlled on levothyroxine 75 mcg OD.\nP: 1. Continue levothyroxine 75 mcg OD. 2. Repeat TSH in 6 months.\nAdv: Continue tablet on empty stomach, 30 min before food. Walk 30 min daily. R/V in 6 months."
+    },
+    {
+      "memory_id": "P03-m09",
+      "date": "2026-05-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: TSH 2.6 mIU/L (reference 0.4 to 4.0 mIU/L). HbA1c (glycated haemoglobin) 6.0 % (reference below 5.7 %; prediabetes 5.7 to 6.4 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P03-m10",
+      "date": "2026-05-12",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Feels well on levothyroxine, tiredness and constipation resolved. Jain diet continues. Asks what she should eat to keep her blood sugar in check.\nO: BP 120/76 mmHg, pulse 68/min, wt 61 kg. TSH 2.6 mIU/L. HbA1c 6.0 %, stable from 6.1 %.\nA: 1. Hypothyroidism, euthyroid on levothyroxine 75 mcg OD. 2. Prediabetes, HbA1c 6.0 %, not on any glucose-lowering medicine.\nP: 1. Continue levothyroxine 75 mcg OD. 2. Prediabetes diet plan: 3 meals plus 2 small snacks a day, including millets (ragi, jowar, bajra) at one meal. 3. Avoid sweets and sweetened drinks. 4. Walk 30 minutes daily. 5. Recheck HbA1c in 6 months.\nAdv: 3 meals and 2 small snacks a day; include millets; no sweets; walk 30 min daily. R/V in 5 months."
+    },
+    {
+      "memory_id": "P03-m11",
+      "date": "2026-05-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Routine thyroid follow-up with Dr Anjali Mehta (D01) booked for 2026-10-12 at 10:30. Please bring the levothyroxine strip and any notes on tiredness or bowel habit. Take the morning tablet as usual; no fasting is needed for the appointment itself."
+    },
+    {
+      "memory_id": "P03-m12",
+      "date": "2026-08-14",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient: 'Doctor, Paryushana starts next week and I plan to observe the 8-day fast again, with boiled water during the day and no eating after sunset. Should I change the timing of my thyroid tablet during the fast? Kindly advise. Thank you.'"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0551",
+  "name": "Tapas Sen",
+  "age": 78,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Rheumatoid arthritis",
+    "Benign prostatic hyperplasia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0551-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis with active synovitis and benign prostatic hyperplasia with lower urinary tract symptoms.\nHe reports morning stiffness in hands lasting about 45 minutes, mild joint swelling in MCP joints, and occasional fatigue. He also describes nocturia twice nightly, weak stream, and feeling of incomplete bladder emptying. On exam, there is mild tenderness and warmth in bilateral MCP joints, no deformities. Prostate exam shows mildly enlarged, smooth, non-tender prostate.\nSmoking status: former smoker, quit 2000, pack-years 30."
+    },
+    {
+      "memory_id": "X0551-m02",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate 10 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD\ntamsulosin 0.4 mg HS\nfinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0551-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 22 mm/hr (0-20)\nCRP 8 mg/L (<5)\nRheumatoid factor positive\nAnti‑CCP 45 U/mL (<20)\nALT 32 U/L (7-56)\nAST 28 U/L (10-40)\nPSA 4.2 ng/mL (0-4)\nUrine routine: normal\nProstate volume 45 mL (transabdominal ultrasound)\nPost‑void residual 30 mL"
+    },
+    {
+      "memory_id": "X0551-m04",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis with moderate activity and benign prostatic hyperplasia with worsening LUTS.\nHe notes increased hand pain and swelling over past month, morning stiffness now ~60 minutes, mild fatigue. Urinary symptoms: nocturia three times, weak stream, occasional urgency. Exam: synovitis and tenderness in bilateral MCP and PIP joints, no deformities. Prostate feels slightly firmer, estimated volume ~48 mL.\nSmoking status: former smoker, quit 2000, pack-years 30."
+    },
+    {
+      "memory_id": "X0551-m05",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD\ntamsulosin 0.4 mg HS\nfinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0551-m06",
+      "date": "2025-08-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Ultrasound KUB: Prostate volume 48 mL, homogeneous echotexture. Post‑void residual urine 35 mL. No significant hydronephrosis. Bladder wall thickness normal."
+    },
+    {
+      "memory_id": "X0551-m07",
+      "date": "2025-09-05",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Dr. Priya Nair, Rheumatology, for assessment of refractory rheumatoid arthritis and consideration of biologic therapy."
+    },
+    {
+      "memory_id": "X0551-m08",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Rheumatology review: Patient continues methotrexate 15 mg weekly with inadequate response. Advised to add sulfasalazine 500 mg BD and consider TNF‑alpha inhibitor if no improvement in 8 weeks."
+    },
+    {
+      "memory_id": "X0551-m09",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis with persistent synovitis despite methotrexate increase; benign prostatic hyperplasia stable.\nPatient reports ongoing hand pain, morning stiffness ~55 minutes, mild fatigue. No new joint swelling. Urinary symptoms unchanged: nocturia twice, weak stream. Exam: mild tenderness in MCP joints, no deformities. Prostate unchanged.\nSmoking status: former smoker, quit 2000, pack-years 30."
+    },
+    {
+      "memory_id": "X0551-m10",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD\nsulfasalazine 500 mg BD\ntamsulosin 0.4 mg HS\nfinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0551-m11",
+      "date": "2025-11-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 18 mm/hr (0-20)\nCRP 6 mg/L (<5)\nRheumatoid factor positive\nAnti‑CCP 48 U/mL (<20)\nALT 30 U/L (7-56)\nAST 26 U/L (10-40)\nPSA 3.9 ng/mL (0-4)\nUrine routine: normal\nLiver function: bilirubin 0.9 mg/dL (0.2-1.2), ALP 78 U/L (40-129)"
+    },
+    {
+      "memory_id": "X0551-m12",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis with improved control after sulfasalazine addition; benign prostatic hyperplasia unchanged.\nPatient states hand pain decreased, morning stiffness ~30 minutes, fatigue less. No new swelling. Urinary symptoms: nocturia once, weak stream but tolerable. Exam: minimal tenderness in MCP joints, no deformities. Prostate unchanged.\nSmoking status: former smoker, quit 2000, pack-years 30."
+    },
+    {
+      "memory_id": "X0551-m13",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD\nsulfasalazine 500 mg BD\ntamsulosin 0.4 mg HS\nfinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0551-m14",
+      "date": "2026-03-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more tired lately and my hands ache a bit in the mornings, but the urinary symptoms are okay. Wondering if I should check my lungs because I used to smoke."
+    },
+    {
+      "memory_id": "X0551-m15",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 16 mm/hr (0-20)\nCRP 4 mg/L (<5)\nRheumatoid factor positive\nAnti‑CCP 44 U/mL (<20)\nALT 28 U/L (7-56)\nAST 24 U/L (10-40)\nPSA 3.7 ng/mL (0-4)\nUrine routine: normal"
+    },
+    {
+      "memory_id": "X0551-m16",
+      "date": "2026-05-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis in low disease activity; benign prostatic hyperplasia stable.\nPatient reports minimal joint discomfort, morning stiffness <15 minutes, fatigue mild. No joint swelling. Urinary symptoms: nocturia once, weak stream acceptable. Exam: no synovitis, prostate unchanged.\nSmoking status: former smoker, quit 2000, pack-years 30."
+    },
+    {
+      "memory_id": "X0551-m17",
+      "date": "2026-05-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate 10 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD\nsulfasalazine 500 mg BD\ntamsulosin 0.4 mg HS\nfinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0551-m18",
+      "date": "2026-06-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-07-15 at 10:00 AM with Dr. Suresh Menon."
+    }
+  ]
+}

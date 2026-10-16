@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0183",
+  "name": "Vilas Chavan",
+  "age": 24,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0183-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anaemia and vitamin B12 deficiency.\nPatient is a 24‑year‑old male cab driver presenting with fatigue, mild exertional dyspnoea and pallor. Examination shows conjunctival pallor, mild tachycardia, no organomegaly. He follows a mixed diet with limited red meat intake. No smoking, alcohol occasional."
+    },
+    {
+      "memory_id": "X0183-m02",
+      "date": "2025-04-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.8 g/dL (13.0‑17.0). Serum ferritin 12 ng/mL (15‑150). MCV 78 fL (80‑100). Serum vitamin B12 180 pg/mL (200‑900)."
+    },
+    {
+      "memory_id": "X0183-m03",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg OD\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0183-m04",
+      "date": "2025-04-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-05 at 10:00 am with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0183-m05",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anaemia and vitamin B12 deficiency.\nPatient reports improved energy, less breathlessness on exertion. Mild pallor persists. Vital signs stable. No adverse symptoms from medications."
+    },
+    {
+      "memory_id": "X0183-m06",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.6 g/dL (13.0‑17.0). Serum ferritin 48 ng/mL (15‑150). MCV 82 fL (80‑100). Serum vitamin B12 340 pg/mL (200‑900)."
+    },
+    {
+      "memory_id": "X0183-m07",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg OD\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0183-m08",
+      "date": "2025-10-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling much better now; fatigue only after long drives. No side effects from tablets. Want to know if I can reduce the iron tablets."
+    },
+    {
+      "memory_id": "X0183-m09",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anaemia and vitamin B12 deficiency.\nPatient notes fatigue only after prolonged driving; otherwise well. Examination shows mild pallor, vitals normal. Adherence good."
+    },
+    {
+      "memory_id": "X0183-m10",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.9 g/dL (13.0‑17.0). Serum ferritin 78 ng/mL (15‑150). MCV 84 fL (80‑100). Serum vitamin B12 410 pg/mL (200‑900)."
+    },
+    {
+      "memory_id": "X0183-m11",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg on alternate days\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0183-m12",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original slot 2026-01-20 moved to 2026-01-20 at 11:30 am with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0183-m13",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anaemia and vitamin B12 deficiency.\nPatient denies fatigue, feels normal. No pallor noted. Vital signs within normal range. No medication side effects."
+    },
+    {
+      "memory_id": "X0183-m14",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.4 g/dL (13.0‑17.0). Serum ferritin 112 ng/mL (15‑150). MCV 86 fL (80‑100). Serum vitamin B12 460 pg/mL (200‑900)."
+    },
+    {
+      "memory_id": "X0183-m15",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate stopped\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0183-m16",
+      "date": "2026-06-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin B12 deficiency (now resolved).\nPatient asymptomatic, labs show normal haemoglobin and B12. No pallor. Advises to maintain balanced diet; B12 supplement can be tapered."
+    },
+    {
+      "memory_id": "X0183-m17",
+      "date": "2026-06-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 14.2 g/dL (13.0‑17.0). Serum ferritin 95 ng/mL (15‑150). MCV 88 fL (80‑100). Serum vitamin B12 520 pg/mL (200‑900)."
+    },
+    {
+      "memory_id": "X0183-m18",
+      "date": "2026-10-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "All good. No tiredness even after long shifts. Have stopped B12 tablets as advised; feeling fine."
+    }
+  ]
+}

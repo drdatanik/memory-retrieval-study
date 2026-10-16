@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0076",
+  "name": "Razia Baig",
+  "age": 49,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Depression",
+    "Iron-deficiency anaemia",
+    "Coronary artery disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0076-m01",
+      "date": "2025-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking for initial geriatric review with Dr Nandini Kulkarni. Patient requests morning slot. Contact number verified."
+    },
+    {
+      "memory_id": "X0076-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks to nearby market, uses public transport. cognition: Mini-Cog 4/5 (recall 3, clock draw normal). No cognitive concerns. falls: No falls in past 12 months. Gait steady. Timed up-and-go 10 seconds – normal. medicines: 9 regular (sertraline 50 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS, ferrous sulfate 200 mg OD, aspirin 75 mg OD, atorvastatin 40 mg HS, metoprolol 25 mg OD, isosorbide mononitrate 20 mg OD, sublingual GTN SOS). Polypharmacy – request Beers criteria review. mood: PHQ-9 8 (mild depressive symptoms). carers: Husband Rajesh, spouse. goals: \"I want to feel more energetic and keep working without fatigue.\" Plan: continue current meds, check labs, advise exercise, footwear."
+    },
+    {
+      "memory_id": "X0076-m03",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 50 mg OD; escitalopram 10 mg OD; mirtazapine 15 mg HS; ferrous sulfate 200 mg OD; aspirin 75 mg OD; atorvastatin 40 mg HS; metoprolol succinate 25 mg OD; isosorbide mononitrate 20 mg OD; GTN 0.4 mg sublingual SOS."
+    },
+    {
+      "memory_id": "X0076-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 10.2 g/dL (13-16). Serum ferritin 12 ng/mL (15-150). MCV 78 fL (80-100). TSH 2.1 mIU/L (0.4-4.0). Vitamin B12 250 pg/mL (200-900). Lipid profile: LDL 138 mg/dL (<100 target). Triglycerides 160 mg/dL. HDL 38 mg/dL."
+    },
+    {
+      "memory_id": "X0076-m05",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: Sinus rhythm 78 bpm. No ST-T changes. No Q waves. Normal left ventricular voltage."
+    },
+    {
+      "memory_id": "X0076-m06",
+      "date": "2025-06-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Increase sertraline to 75 mg OD; continue escitalopram 10 mg OD, mirtazapine 15 mg HS, ferrous sulfate 200 mg OD, aspirin 75 mg OD, atorvastatin 40 mg HS, metoprolol 25 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS."
+    },
+    {
+      "memory_id": "X0076-m07",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports less fatigue, able to climb two flights without dyspnea. cognition: Mini-Cog 4/5 (stable). falls: No falls. Gait smooth. Timed up-and-go 9 seconds. medicines: 9 regular (same as before). Polypharmacy – note Beers review pending. mood: PHQ-9 6 (improved). carers: Husband Rajesh. goals: \"I want to keep my energy steady and avoid breathlessness on stairs.\" Plan: continue meds, repeat labs, encourage walking."
+    },
+    {
+      "memory_id": "X0076-m08",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 75 mg OD; escitalopram 10 mg OD; mirtazapine 15 mg HS; ferrous sulfate 200 mg OD; aspirin 75 mg OD; atorvastatin 40 mg HS; metoprolol succinate 25 mg OD; isosorbide mononitrate 20 mg OD; GTN 0.4 mg sublingual SOS."
+    },
+    {
+      "memory_id": "X0076-m09",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.8 g/dL (13-16). Serum ferritin 28 ng/mL (15-150). MCV 82 fL (80-100). LDL 124 mg/dL (<100 target). Triglycerides 150 mg/dL. HDL 40 mg/dL."
+    },
+    {
+      "memory_id": "X0076-m10",
+      "date": "2025-09-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Treadmill test (Bruce protocol): Exercised to stage 3 (3 METs) before mild exertional dyspnea. No ST depression. Heart rate peaked at 132 bpm. Blood pressure response normal. No arrhythmias."
+    },
+    {
+      "memory_id": "X0076-m11",
+      "date": "2025-09-10",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Cardiology for evaluation of borderline LDL and exercise dyspnea. Request lipid optimisation and functional assessment."
+    },
+    {
+      "memory_id": "X0076-m12",
+      "date": "2025-10-02",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Cardiology review: LDL remains elevated; recommend intensifying statin. No ischemic changes on stress echo. Advise continue atorvastatin 40 mg, consider ezetimibe if LDL >100 after 3 months."
+    },
+    {
+      "memory_id": "X0076-m13",
+      "date": "2025-11-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Mild dyspnea on brisk walk, otherwise independent. cognition: Mini-Cog 4/5 (annual screen). falls: No falls. Gait slightly cautious. Timed up-and-go 11 seconds – borderline risk. medicines: 9 regular. Polypharmacy – discuss Beers review. mood: PHQ-9 7 (stable). carers: Husband Rajesh. goals: \"I want to walk without getting short of breath and keep working.\" Plan: increase atorvastatin, add ezetimibe, repeat labs, advise supervised exercise, proper footwear."
+    },
+    {
+      "memory_id": "X0076-m14",
+      "date": "2025-11-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Increase atorvastatin to 40 mg HS (continue), add ezetimibe 10 mg OD; continue sertraline 75 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS, ferrous sulfate 200 mg OD, aspirin 75 mg OD, metoprolol 25 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS."
+    },
+    {
+      "memory_id": "X0076-m15",
+      "date": "2026-02-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.4 g/dL (13-16). Serum ferritin 35 ng/mL (15-150). MCV 84 fL (80-100). TSH 1.9 mIU/L (0.4-4.0). Vitamin B12 260 pg/mL (200-900). LDL 108 mg/dL (<100 target). Triglycerides 140 mg/dL. HDL 42 mg/dL."
+    },
+    {
+      "memory_id": "X0076-m16",
+      "date": "2026-03-20",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Echocardiogram: Left ventricular ejection fraction 60%. Mild concentric LVH. No valvular stenosis or regurgitation. No regional wall motion abnormality. Normal diastolic function."
+    },
+    {
+      "memory_id": "X0076-m17",
+      "date": "2026-06-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling more optimistic lately. Energy better, still occasional tiredness after long work hours. Sleep improved. No new side effects from meds."
+    },
+    {
+      "memory_id": "X0076-m18",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Change requested: move next review from 2026-10-15 to 2026-09-30 due to upcoming travel. Confirm with Dr Kulkarni's schedule."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0043",
+  "name": "Harpal Brar",
+  "age": 45,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Psoriasis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0043-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis, chronic plaque type.\nPatient reports erythematous, scaly plaques on elbows, knees, and scalp for 6 months, associated with mild itching. On examination, well-demarcated erythematous plaques with silvery scale are present over extensor surfaces; scalp shows diffuse scaling. No joint pain or nail changes. Smoking status: never."
+    },
+    {
+      "memory_id": "X0043-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "clobetasol 0.05% cream apply BD to affected areas\ncalcipotriol ointment apply OD to affected areas\nmethotrexate 7.5 mg take orally once weekly\nfolic acid 5 mg take orally daily"
+    },
+    {
+      "memory_id": "X0043-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 28 U/L (0-40)\nAST 24 U/L (0-35)\nHb 13.8 g/dL (13-17)\nWBC 6.2 x10^9/L (4-10)\nPlatelets 210 x10^9/L (150-400)\nSerum creatinine 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0043-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis, chronic plaque type.\nPatient notes reduced scaling on elbows and knees after 2 months of topical steroids, but persistent scalp itch. Examination shows mild erythema with less scale on elbows/knees; scalp still exhibits thick scale. No new joint symptoms. Smoking status: never."
+    },
+    {
+      "memory_id": "X0043-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "clobetasol 0.05% cream apply BD to affected areas\ncalcipotriol ointment apply OD to affected areas\nmethotrexate 10 mg take orally once weekly\nfolic acid 5 mg take orally daily"
+    },
+    {
+      "memory_id": "X0043-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 32 U/L (0-40)\nAST 26 U/L (0-35)\nHb 13.6 g/dL (13-17)\nWBC 6.0 x10^9/L (4-10)\nPlatelets 205 x10^9/L (150-400)\nSerum creatinine 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0043-m07",
+      "date": "2025-10-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-20 10:30 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0043-m08",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis, chronic plaque type.\nPatient reports worsening of scalp plaques with increased itch and mild hair thinning; elbows/knees stable. Examination reveals thick silvery scale over scalp with underlying erythema; extensor lesions show mild erythema, minimal scale. No arthritis. Smoking status: never."
+    },
+    {
+      "memory_id": "X0043-m09",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "clobetasol 0.05% cream apply BD to affected areas (scalp only)\ncalcipotriol ointment apply OD to affected areas\nmethotrexate 10 mg take orally once weekly\nfolic acid 5 mg take orally daily"
+    },
+    {
+      "memory_id": "X0043-m10",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 35 U/L (0-40)\nAST 28 U/L (0-35)\nHb 13.5 g/dL (13-17)\nWBC 5.9 x10^9/L (4-10)\nPlatelets 200 x10^9/L (150-400)\nSerum creatinine 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0043-m11",
+      "date": "2026-02-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been using the clobetasol on my scalp twice a day and the methotrexate weekly. The scalp is less itchy and the scaling has improved a lot. I still apply the calcipotriol on my body as before. No side effects noticed."
+    },
+    {
+      "memory_id": "X0043-m12",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis, chronic plaque type.\nPatient states scalp itch markedly decreased, scaling reduced; elbows/knees remain clear. Examination shows faint pink patches on scalp with minimal scale; no plaques on extensor surfaces. Liver enzymes stable. Smoking status: never."
+    },
+    {
+      "memory_id": "X0043-m13",
+      "date": "2026-02-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "clobetasol 0.05% cream apply BD to affected areas (scalp as needed)\ncalcipotriol ointment apply OD to affected areas\nmethotrexate 7.5 mg take orally once weekly\nfolic acid 5 mg take orally daily"
+    },
+    {
+      "memory_id": "X0043-m14",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 30 U/L (0-40)\nAST 25 U/L (0-35)\nHb 13.7 g/dL (13-17)\nWBC 6.1 x10^9/L (4-10)\nPlatelets 208 x10^9/L (150-400)\nSerum creatinine 0.9 mg/dL (0.6-1.2)"
+    }
+  ]
+}

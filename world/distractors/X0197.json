@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0197",
+  "name": "Naveen Pandey",
+  "age": 53,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Epilepsy",
+    "Hypertension",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0197-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 53‑year‑old florist reports occasional seizures, headaches, and intermittent abdominal bloating with loose stools. EXAMINATION: BP 148/92 mmHg, weight 78 kg, BMI 26.1 (obese). Neurologically normal, abdomen soft, no masses. IMPRESSION: Epilepsy on levetiracetam and lamotrigine; Hypertension stage 2; Irritable bowel syndrome. ARRANGEMENTS: Order fasting lipid profile, fasting blood sugar, serum Na, creatinine, eGFR, K+, CBC, stool routine, tTG‑IgA, EEG, ECG. Continue current meds. Advise low‑salt diet, regular aerobic activity, seizure diary. Return if seizure worsening, chest pain, fever >39°C, or bloody stools."
+    },
+    {
+      "memory_id": "X0197-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 5.8 mmol/L (ref <5.2), LDL 3.6 (ref <2.6), HDL 1.0 (ref >1.0), TG 1.9 (ref <1.7). Fasting glucose 6.2 mmol/L (ref 3.9‑5.5). Serum Na 139 mmol/L (135‑145). Creatinine 102 µmol/L (60‑110). eGFR 78 mL/min/1.73m2 (>60). K+ 4.4 mmol/L (3.5‑5.0). CBC: Hb 13.8 g/dL, WBC 6.2x10^9/L, Plt 240x10^9/L. Stool routine: no ova, cysts, occult blood negative. tTG‑IgA 4 U/mL (<7 negative)."
+    },
+    {
+      "memory_id": "X0197-m03",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "EEG: Background activity normal for age. No epileptiform discharges or slowing. No evidence of focal cortical irritation. Interpretation: No epileptiform abnormality detected."
+    },
+    {
+      "memory_id": "X0197-m04",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "ECG: Sinus rhythm 78 bpm. Voltage criteria for left ventricular hypertrophy met. No ST‑T changes, no Q waves. Mild LVH likely secondary to hypertension."
+    },
+    {
+      "memory_id": "X0197-m05",
+      "date": "2025-05-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up after labs. Patient reports no seizures since last visit, mild headache, occasional bloating. EXAMINATION: BP 138/86 mmHg, weight 77.5 kg, BMI 25.9 (overweight). Abdomen soft, non‑tender. IMPRESSION: Epilepsy well controlled; Hypertension improving but still stage 1; Prediabetes; Mild LVH on ECG. ARRANGEMENTS: Increase telmisartan to 80 mg OD, keep amlodipine 5 mg OD, losartan 50 mg OD, HCTZ 12.5 mg OD. Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD. Advise low‑glycaemic diet, 150 min/week brisk walk. Return if BP >160/100, new seizure, severe abdominal pain, or vomiting."
+    },
+    {
+      "memory_id": "X0197-m06",
+      "date": "2025-05-07",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Telmisartan 80 mg OD\nAmlodipine 5 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD\nLevetiracetam 500 mg BD\nLamotrigine 50 mg BD\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0197-m07",
+      "date": "2025-06-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘Over the past week I’ve had more frequent loose stools, about 4‑5 times a day, with urgency and low‑grade abdominal cramping. No blood or mucus. I’ve been taking loperamide as needed but it only helps a little.’"
+    },
+    {
+      "memory_id": "X0197-m08",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: IBS flare with increased stool frequency and cramping. EXAMINATION: BP 134/82 mmHg, weight 77 kg, BMI 25.6 (overweight). Abdomen mildly tender in left lower quadrant, no guarding. IMPRESSION: IBS‑D exacerbation. ARRANGEMENTS: Repeat stool routine, consider lactose intolerance trial. Refer to gastroenterology for diet advice and possible rifaximin. Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide PRN. Advise low‑FODMAP diet, adequate hydration. Return if fever, weight loss, or bloody stools."
+    },
+    {
+      "memory_id": "X0197-m09",
+      "date": "2025-06-20",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr S. Rao, Gastroenterology, Vikram Hospital, Whitefield. Reason: IBS‑D unresponsive to first‑line therapy, need for dietary specialist input and consideration of rifaximin. Attach recent stool results and medication list."
+    },
+    {
+      "memory_id": "X0197-m10",
+      "date": "2025-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Stool routine: No ova, cysts, or parasites. Occult blood negative. Pus cells 0‑1/hpf. No significant growth on culture."
+    },
+    {
+      "memory_id": "X0197-m11",
+      "date": "2025-07-10",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Gastroenterology report: Patient advised low‑FODMAP diet, continue mebeverine, consider rifaximin 550 mg TDS for 14 days if symptoms persist. No alarm features. Follow‑up in 8 weeks or sooner if worsening."
+    },
+    {
+      "memory_id": "X0197-m12",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-09-01 at 10:30 am with Dr Priya Natarajan (D03) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0197-m13",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Six‑month review. Patient reports seizure‑free, headaches less frequent, bowel movements 2‑3 times/day formed, no urgency. EXAMINATION: BP 128/78 mmHg, weight 76.5 kg, BMI 24.9 (overweight). Abdomen soft, non‑tender. IMPRESSION: Epilepsy stable; Hypertension at goal; Prediabetes improved (fasting glucose 5.8 mmol/L); IBS‑D better on low‑FODMAP diet. ARRANGEMENTS: Repeat fasting lipid profile and fasting blood sugar. ECG to assess LVH progression. Continue current meds. Advise maintain weight <75 kg, influenza vaccine offered due to chronic hypertension. Return if BP >140/90, seizure, severe abdominal pain, or shortness of breath."
+    },
+    {
+      "memory_id": "X0197-m14",
+      "date": "2025-09-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 5 mg OD\nTelmisartan 80 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD\nLevetiracetam 500 mg BD\nLamotrigine 50 mg BD\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0197-m15",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "ECG: Sinus rhythm 80 bpm. Voltage for left ventricular hypertrophy no longer meets criteria. No ST‑T changes, Q waves, or arrhythmias. Interpretation: Regression of LVH consistent with improved blood pressure control."
+    },
+    {
+      "memory_id": "X0197-m16",
+      "date": "2025-10-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 5.0 mmol/L (ref <5.2), LDL 2.8 (ref <2.6), HDL 1.2 (ref >1.0), TG 1.4 (ref <1.7). Fasting glucose 5.8 mmol/L (ref 3.9‑5.5)."
+    },
+    {
+      "memory_id": "X0197-m17",
+      "date": "2025-11-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine epilepsy review. Patient denies any seizures, aura, or medication side effects. Reports occasional mild headache, well‑controlled. EXAMINATION: BP 130/82 mmHg, weight 76 kg, BMI 24.8 (overweight). Neurologically normal. IMPRESSION: Epilepsy on levetiracetam and lamotrigine, seizure‑free >6 months. ARRANGEMENTS: Check serum sodium and creatinine to monitor for possible hyponatremia from levetiracetam. Continue current doses. Advise seizure precautions, adequate sleep, avoid alcohol excess. Return if new seizure, drowsiness, rash, or fever >38.5°C."
+    },
+    {
+      "memory_id": "X0197-m18",
+      "date": "2025-11-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium 138 mmol/L (135‑145). Serum creatinine 98 µmol/L (60‑110). eGFR 82 mL/min/1.73m2 (>60)."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0027",
+  "name": "Razia Pasha",
+  "age": 52,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0027-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Chronic insomnia.\nPatient reports difficulty falling asleep, frequent awakenings, and non‑restorative sleep for the past 3 months, associated with daytime fatigue and irritability; she denies snoring or witnessed apneas. Examination shows a calm, well‑appearing woman, vitals normal, no nasal congestion or throat abnormalities. Insomnia Severity Index score is 18 (moderate insomnia). TSH and haemoglobin are ordered to rule out contributory medical causes. Plan: start melatonin 3 mg at bedtime and trazodone 50 mg at bedtime, sleep hygiene counselling, and follow‑up in 8 weeks."
+    },
+    {
+      "memory_id": "X0027-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.1 mIU/L (ref 0.4‑4.0).\nHaemoglobin: 13.2 g/dL (ref 12.0‑16.0).\nInsomnia Severity Index score: 18 (self‑reported)."
+    },
+    {
+      "memory_id": "X0027-m03",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0027-m04",
+      "date": "2025-07-08",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been sleeping better since starting the melatonin and trazodone – I fall asleep within 20 minutes and wake only once. However I feel a bit groggy in the mornings and wonder if we could lower the trazodone dose. My daytime energy has improved but I still get tired after lunch."
+    },
+    {
+      "memory_id": "X0027-m05",
+      "date": "2025-07-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Insomnia, improving.\nPatient reports reduced sleep latency, fewer night awakenings, and mild morning grogginess; daytime fatigue lessened. Examination unchanged, vitals stable. Insomnia Severity Index score now 12 (borderline normal). TSH remains 2.0 mIU/L, haemoglobin 13.0 g/dL. Plan: reduce trazodone to 25 mg HS to lessen grogginess, continue melatonin, reinforce sleep hygiene, review in 2 months."
+    },
+    {
+      "memory_id": "X0027-m06",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 mg HS"
+    },
+    {
+      "memory_id": "X0027-m07",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 1.9 mIU/L (ref 0.4‑4.0).\nHaemoglobin: 12.4 g/dL (ref 12.0‑16.0).\nInsomnia Severity Index score: 14 (self‑reported)."
+    },
+    {
+      "memory_id": "X0027-m08",
+      "date": "2025-10-25",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Insomnia, mild residual symptoms.\nPatient notes occasional difficulty staying asleep and mild daytime tiredness; ISI score 14 indicates subthreshold insomnia. Examination normal, vitals within limits. Haemoglobin slightly low at 12.4 g/dL suggestive of mild iron deficiency; TSH normal. Plan: continue melatonin 3 mg HS and trazodone 25 mg HS, add ferrous sulfate 325 mg OD for anemia, re‑check labs in 8 weeks."
+    },
+    {
+      "memory_id": "X0027-m09",
+      "date": "2025-10-30",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 mg HS\nFerrous sulfate 325 mg OD"
+    },
+    {
+      "memory_id": "X0027-m10",
+      "date": "2026-02-14",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment scheduled for 2026-02-20 at 10:00 AM with Dr Suresh Menon for insomnia follow‑up."
+    },
+    {
+      "memory_id": "X0027-m11",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Insomnia, well controlled.\nPatient reports sleep latency <15 minutes, minimal awakenings, refreshed mornings; ISI score 9 (normal). Haemoglobin now 13.5 g/dL after iron supplementation, TSH 2.0 mIU/L. Plan: maintain melatonin 3 mg HS and trazodone 25 mg HS, continue ferrous sulfate until Hb >14 g/dL, then taper. Review in 4 months."
+    },
+    {
+      "memory_id": "X0027-m12",
+      "date": "2026-06-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.0 mIU/L (ref 0.4‑4.0).\nHaemoglobin: 14.2 g/dL (ref 12.0‑16.0).\nInsomnia Severity Index score: 8 (self‑reported)."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0155",
+  "name": "Jyothi Pulipati",
+  "age": 85,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic urticaria",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0155-m01",
+      "date": "2025-04-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria and stable COPD.\nPatient reports occasional itchy wheals on arms, no angioedema. On exam: mild scattered wheals, lungs clear to auscultation, SpO2 94% on room air. Spirometry: FEV1 1.20 L (55% predicted), FVC 2.10 L, FEV1/FVC 0.57; change from baseline not applicable. ACT score 22 (well controlled). Technique checked: correct for tiotropium Respimat and budesonide-formoterol Turbuhaler. Smoking status: former, quit 2008, 30 pack-years."
+    },
+    {
+      "memory_id": "X0155-m02",
+      "date": "2025-04-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levocetirizine 5 mg OD\nCetirizine 10 mg HS\nTiotropium Respimat 2 puffs OD\nSalbutamol metered-dose inhaler 2 puffs SOS\nBudesonide-formoterol 200/6 Turbuhaler 2 puffs BD"
+    },
+    {
+      "memory_id": "X0155-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.2 x10^9/L, Neutrophils 4.0, Lymphocytes 1.8, Eosinophils 0.3 (normal 0.0-0.5). Hb 12.8 g/dL, Platelets 210 x10^9/L.\nThyroid function: TSH 2.1 mIU/L (0.4-4.0), Free T4 12.5 pmol/L (9.0-19.0)."
+    },
+    {
+      "memory_id": "X0155-m04",
+      "date": "2025-07-02",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray PA: Hyperinflated lungs, flattened diaphragms, no focal consolidation or pleural effusion. Consistent with COPD."
+    },
+    {
+      "memory_id": "X0155-m05",
+      "date": "2025-07-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria and COPD, mild exacerbation.\nPatient notes increased wheals over trunk, mild dyspnea on walking 200 m. Exam: scattered wheals, lungs with mild wheeze bilaterally, SpO2 92% on room air. Spirometry: FEV1 1.05 L (48% predicted), FVC 1.95 L, FEV1/FVC 0.54; change in FEV1 -0.15 L since last visit. ACT score 18 (not well controlled). Technique corrected: salbutamol MDT coordination instructed. Smoking status unchanged."
+    },
+    {
+      "memory_id": "X0155-m06",
+      "date": "2025-07-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levocetirizine 5 mg OD (continue)\nCetirizine 10 mg HS (stop)\nTiotropium Respimat 2 puffs OD\nSalbutamol metered-dose inhaler 2 puffs SOS\nBudesonide-formoterol 200/6 Turbuhaler 2 puffs BD\nPrednisolone 5 mg OD for 5 days"
+    },
+    {
+      "memory_id": "X0155-m07",
+      "date": "2025-10-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'The hives have improved after stopping cetirizine at night, but I still feel short of breath when climbing stairs.'"
+    },
+    {
+      "memory_id": "X0155-m08",
+      "date": "2025-10-04",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Suresh Menon on 2026-01-10 at 10:00 AM."
+    },
+    {
+      "memory_id": "X0155-m09",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria, improved; COPD stable.\nPatient reports occasional mild wheals, no nighttime itching. Denies worsening dyspnea. Exam: few scattered wheals, lungs clear, SpO2 95% room air. Spirometry: FEV1 1.18 L (54% predicted), FVC 2.08 L, FEV1/FVC 0.57; change in FEV1 +0.13 L since last visit. ACT score 21 (well controlled). Technique checked: correct for all inhalers. Smoking status unchanged."
+    },
+    {
+      "memory_id": "X0155-m10",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levocetirizine 5 mg OD\nTiotropium Respimat 2 puffs OD\nSalbutamol metered-dose inhaler 2 puffs SOS\nBudesonide-formoterol 200/6 Turbuhaler 2 puffs BD"
+    },
+    {
+      "memory_id": "X0155-m11",
+      "date": "2026-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 5.9 x10^9/L, Neutrophils 3.8, Lymphocytes 1.7, Eosinophils 0.2. Hb 13.0 g/dL, Platelets 205 x10^9/L.\nThyroid function: TSH 1.9 mIU/L, Free T4 12.8 pmol/L."
+    },
+    {
+      "memory_id": "X0155-m12",
+      "date": "2026-04-18",
+      "type": "investigation",
+      "author": "D05",
+      "text": "SpO2 at rest: 96% on room air (baseline). No desaturation on 6‑minute walk test."
+    },
+    {
+      "memory_id": "X0155-m13",
+      "date": "2026-07-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria in remission; COPD stable.\nPatient denies hives for past 8 weeks. No dyspnea at rest, mild on exertion. Exam: skin clear, lungs clear, SpO2 96% room air. Spirometry: FEV1 1.22 L (56% predicted), FVC 2.12 L, FEV1/FVC 0.58; change in FEV1 +0.04 L since last visit. ACT score 23 (well controlled). Technique checked: correct. Smoking status unchanged."
+    },
+    {
+      "memory_id": "X0155-m14",
+      "date": "2026-07-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levocetirizine 5 mg OD (stop, asymptomatic)\nTiotropium Respimat 2 puffs OD\nSalbutamol metered-dose inhaler 2 puffs SOS\nBudesonide-formoterol 200/6 Turbuhaler 2 puffs BD"
+    },
+    {
+      "memory_id": "X0155-m15",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria absent; COPD stable.\nPatient remains free of wheals. No dyspnea, SpO2 97% room air. Spirometry: FEV1 1.25 L (57% predicted), FVC 2.15 L, FEV1/FVC 0.58; change in FEV1 +0.03 L since last visit. ACT score 24 (well controlled). Technique checked: correct. Smoking status unchanged."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0082",
+  "name": "Manjeet Grewal",
+  "age": 79,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Gout",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0082-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: No recent flare, serum uric acid pending.\n  - Plan: Start allopurinol 100 mg OD after breakfast; advise low‑purine diet.\n- COPD\n  - Status: Dyspnea on mild exertion, using salbutamol SOS.\n  - Plan: Initiate tiotropium inhaler OD morning; budesonide‑formoterol 200/6 inhaler BD after meals; ensure inhaler technique.\n- General\n  - Weight: 62 kg; Waist: 84 cm (female cutoff 80 cm, elevated).\n  - Diet advice: Breakfast – whole grain toast, egg white; Lunch – dal, vegetables, small rice; Dinner – light soup, salad.\n  - Review in 3 months."
+    },
+    {
+      "memory_id": "X0082-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "allopurinol 100 mg OD after breakfast\n tiotropium inhaler OD morning\n salbutamol inhaler SOS\n budesonide-formoterol 200/6 inhaler BD after meals\n colchicine 0.5 mg BD during flare (max 3 days)"
+    },
+    {
+      "memory_id": "X0082-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 7.8 mg/dL (ref 3.5‑7.2)\n Serum creatinine: 0.92 mg/dL (ref 0.57‑1.00)\n eGFR: 68 mL/min/1.73m2 (ref >60)"
+    },
+    {
+      "memory_id": "X0082-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: Uric acid slightly high, no flare.\n  - Plan: Increase allopurinol to 150 mg OD after breakfast; recheck labs in 6 weeks.\n- COPD\n  - Status: Improved dyspnea, using tiotropium regularly.\n  - Plan: Continue current inhalers; check inhaler technique.\n- General\n  - Weight: 61.5 kg; Waist: 83 cm.\n  - Diet advice: Same as before; reduce red meat.\n  - Review in 3 months."
+    },
+    {
+      "memory_id": "X0082-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "allopurinol 150 mg OD after breakfast\n tiotropium inhaler OD morning\n salbutamol inhaler SOS\n budesonide-formoterol 200/6 inhaler BD after meals"
+    },
+    {
+      "memory_id": "X0082-m06",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Spirometry: FEV1 1.42 L (55% predicted), FVC 2.60 L (78% predicted), FEV1/FVC 55% (ref >70). Indicates moderate obstructive defect consistent with COPD.\n No reversibility post‑bronchodilator (FEV1 change <12%)."
+    },
+    {
+      "memory_id": "X0082-m07",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve had mild pain and swelling in my left big toe for two days, worse after walking. No fever. I took one colchicine tablet this morning."
+    },
+    {
+      "memory_id": "X0082-m08",
+      "date": "2025-09-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "colchicine 0.5 mg BD after meals for 3 days\n continue allopurinol 150 mg OD after breakfast\n tiotropium inhaler OD morning\n salbutamol inhaler SOS\n budesonide-formoterol 200/6 inhaler BD after meals"
+    },
+    {
+      "memory_id": "X0082-m09",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: Flare resolved, no pain.\n  - Plan: Continue allopurinol 150 mg OD; consider adding febuxostat if uric acid remains >6.\n- COPD\n  - Status: Stable, using inhalers as prescribed.\n  - Plan: Continue tiotropium OD and budesonide‑formoterol BD; ensure vaccination.\n- General\n  - Weight: 61 kg; Waist: 82 cm.\n  - Diet advice: Breakfast – oats, milk; Lunch – chapati, dal, veg; Dinner – soup, salad.\n  - Review in 3 months."
+    },
+    {
+      "memory_id": "X0082-m10",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 6.4 mg/dL (ref 3.5‑7.2)\n Serum creatinine: 0.90 mg/dL (ref 0.57‑1.00)\n Lipid profile:\n   Total cholesterol 185 mg/dL (<200)\n   LDL 108 mg/dL (<130)\n   HDL 48 mg/dL (>40)\n   Triglycerides 138 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0082-m11",
+      "date": "2025-12-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-12-10 at 10:30 AM with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0082-m12",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: No flare, uric acid at target.\n  - Plan: Maintain allopurinol 150 mg OD; advise lifestyle.\n- COPD\n  - Status: Stable, no exacerbations.\n  - Plan: Continue tiotropium OD and budesonide‑formoterol BD; annual flu vaccine due.\n- General\n  - Weight: 60.5 kg; Waist: 81 cm (now at cutoff).\n  - Diet advice: Continue balanced meals; monitor salt.\n  - Review in 3 months."
+    },
+    {
+      "memory_id": "X0082-m13",
+      "date": "2025-12-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "allopurinol 150 mg OD after breakfast\n tiotropium inhaler OD morning\n salbutamol inhaler SOS\n budesonide-formoterol 200/6 inhaler BD after meals"
+    },
+    {
+      "memory_id": "X0082-m14",
+      "date": "2026-02-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Chest X‑ray: Lung fields show hyperinflated lungs with flattened diaphragms, consistent with COPD. No focal consolidation, pleural effusion, or cardiac enlargement. No acute changes."
+    },
+    {
+      "memory_id": "X0082-m15",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: Asymptomatic, uric acid within target.\n  - Plan: Continue allopurinol 150 mg OD; annual review.\n- COPD\n  - Status: Stable, good inhaler adherence.\n  - Plan: Continue tiotropium OD and budesonide‑formoterol BD; assess need for pulmonary rehab.\n- General\n  - Weight: 60 kg; Waist: 80 cm (at cutoff).\n  - Diet advice: Same balanced diet; encourage light walking.\n  - Review in 6 months."
+    },
+    {
+      "memory_id": "X0082-m16",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 5.9 mg/dL (ref 3.5‑7.2)\n Serum creatinine: 0.88 mg/dL (ref 0.57‑1.00)\n Repeat spirometry: FEV1 1.38 L (53% predicted), FVC 2.55 L (77% predicted), FEV1/FVC 54% (ref >70). Stable obstructive pattern."
+    },
+    {
+      "memory_id": "X0082-m17",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: No flare, uric acid well controlled.\n  - Plan: Continue allopurinol 150 mg OD; patient educated on trigger foods.\n- COPD\n  - Status: Mild dyspnea on exertion, otherwise stable.\n  - Plan: Continue tiotropium OD and budesonide‑formoterol BD; ensure pneumococcal vaccine up‑to‑date.\n- General\n  - Weight: 59.5 kg; Waist: 79 cm.\n  - Diet advice: Maintain current diet; monitor weight.\n  - No further routine visits needed unless symptoms change."
+    }
+  ]
+}

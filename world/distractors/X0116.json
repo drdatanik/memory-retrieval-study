@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0116",
+  "name": "Jyoti Shah",
+  "age": 68,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Obesity",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0116-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild dyspnea on exertion, manages ADLs independently, walks to market with occasional rest.\ncognition: Mini-Cog 4/5 (normal).\nfalls: no falls in last 12 months, gait steady, timed up-and-go 10 seconds (low fall risk).\nmedicines: 4 regular (orlistat, tiotropium, budesonide-formoterol, salbutamol SOS).\nmood: occasional low mood, denies depression.\ncarers: daughter Priya, lives with patient.\ngoals: \"I want to keep walking to the market and tend my flower stall.\""
+    },
+    {
+      "memory_id": "X0116-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "orlistat 120 mg orally with each main meal, continue\ntiotropium 18 mcg inhalation once daily, continue\nsalbutamol 100 mcg inhalation as needed for wheeze, continue\nbudesonide-formoterol 200/6 mcg inhalation twice daily, continue"
+    },
+    {
+      "memory_id": "X0116-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "fasting lipid profile: total cholesterol 5.2 mmol/L (<5.2), LDL 3.1 mmol/L (<2.6), HDL 1.2 mmol/L (>1.0), triglycerides 1.8 mmol/L (<1.7)\nfasting glucose: 6.1 mmol/L (3.9-5.5) – impaired\nHbA1c: 6.0% (4.0-5.6) – elevated\nliver function: ALT 28 U/L (<40), AST 24 U/L (<40), ALP 78 U/L (<120), GGT 32 U/L (<50), bilirubin 0.9 mg/dL (<1.2)"
+    },
+    {
+      "memory_id": "X0116-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "spirometry: FEV1 1.68 L (58% predicted), FVC 2.30 L (78% predicted), FEV1/FVC 0.73 (0.70-0.80) – consistent with moderate COPD.\nchest X-ray: hyperinflated lungs, no acute infiltrate."
+    },
+    {
+      "memory_id": "X0116-m05",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D06",
+      "text": "penicillin: rash and pruritus within 30 minutes of oral dose – allergic reaction."
+    },
+    {
+      "memory_id": "X0116-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports stable dyspnea, able to walk to market with one rest stop, no new limitations.\ncognition: Mini-Cog 4/5 (stable).\nfalls: no falls in last 12 months, gait steady, timed up-and-go 10 seconds.\nmedicines: 4 regular (orlistat, tiotropium, budesonide-formoterol, salbutamol SOS) plus newly added calcium and vitamin D.\nmood: reports improved mood, enjoys gardening.\ncarers: daughter Priya, lives with patient.\ngoals: \"I want to keep walking to the market and tend my flower stall.\""
+    },
+    {
+      "memory_id": "X0116-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "calcium carbonate 500 mg orally twice daily, continue\ncholecalciferol 1000 IU orally once daily, continue"
+    },
+    {
+      "memory_id": "X0116-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "fasting lipid profile: total cholesterol 4.9 mmol/L (<5.2), LDL 2.8 mmol/L (<2.6), HDL 1.3 mmol/L (>1.0), triglycerides 1.6 mmol/L (<1.7)\nfasting glucose: 5.8 mmol/L (3.9-5.5) – near normal\nHbA1c: 5.7% (4.0-5.6) – improved\nliver function: ALT 22 U/L (<40), AST 20 U/L (<40), ALP 75 U/L (<120), GGT 30 U/L (<50), bilirubin 0.8 mg/dL (<1.2)"
+    },
+    {
+      "memory_id": "X0116-m09",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: notes increased shortness of breath on exertion, uses salbutamol more often, still attends market with assistance.\ncognition: Mini-Cog 3/5 (borderline) – plan for full assessment.\nfalls: one fall at home 3 months ago (tripped over rug), no injury, gait slightly unsteady, timed up-and-go 13 seconds (raised fall risk) – advise exercise program and supportive footwear.\nmedicines: 4 regular (orlistat, tiotropium, budesonide-formoterol, salbutamol SOS) plus calcium and vitamin D.\nmood: reports frustration with breathlessness, denies depression.\ncarers: daughter Priya, lives with patient.\ngoals: \"I want to keep walking to the market and tend my flower stall.\""
+    },
+    {
+      "memory_id": "X0116-m10",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "orlistat discontinued due to gastrointestinal intolerance\nsalbutamol 100 mcg inhalation as needed for wheeze, continue\ntiotropium 18 mcg inhalation once daily, continue\nbudesonide-formoterol 200/6 mcg inhalation twice daily, continue\ncalcium carbonate 500 mg orally twice daily, continue\ncholecalciferol 1000 IU orally once daily, continue"
+    },
+    {
+      "memory_id": "X0116-m11",
+      "date": "2025-10-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "chest X-ray: mild hyperinflation, no new infiltrate or effusion.\nspirometry: FEV1 1.55 L (53% predicted), FVC 2.20 L (73% predicted), FEV1/FVC 0.70 (borderline) – slight decline consistent with COPD progression."
+    },
+    {
+      "memory_id": "X0116-m12",
+      "date": "2026-02-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more short of breath when I walk to the flower stall, and I need to use my rescue inhaler about three times a day. I’m worried I might need extra help."
+    },
+    {
+      "memory_id": "X0116-m13",
+      "date": "2026-02-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up geriatric appointment booked for 2026-03-20 at 10:00 AM with Dr Nandini Kulkarni (D06)."
+    }
+  ]
+}

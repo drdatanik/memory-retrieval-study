@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0330",
+  "name": "Zubeda Pasha",
+  "age": 34,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Vitamin B12 deficiency",
+    "Benign positional vertigo",
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0330-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin B12 deficiency\n  - Status: New diagnosis, symptomatic fatigue\n  - Plan: Start methylcobalamin 1500 mcg OD, check B12 in 8 weeks\n- Benign positional vertigo\n  - Status: Episodes on positional change, Dix-Hallpike pending\n  - Plan: Start betahistine 16 mg BD, meclizine 25 mg SOS, arrange Dix-Hallpike\n- Non‑alcoholic fatty liver disease\n  - Status: Asymptomatic, obesity (weight 78 kg, waist 92 cm >90 cm cut‑off)\n  - Plan: Start silymarin 140 mg TDS, rosuvastatin 5 mg OD, lifestyle advice\n- Diet advice: Breakfast – high‑protein, low‑carb; Lunch – mixed veg with dal; Dinner – light, early\n- Weight: 78 kg, Waist: 92 cm (above male cut‑off)\n- Due: HbA1c repeat 2025-07-05"
+    },
+    {
+      "memory_id": "X0330-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Vitamin B12: 180 pg/mL (ref 200‑900)\nMCV: 98 fL (ref 80‑100)\nHaemoglobin: 12.2 g/dL (ref 12‑16)"
+    },
+    {
+      "memory_id": "X0330-m03",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methylcobalamin 1500 mcg OD\nbetahistine 16 mg BD\nmeclizine 25 mg SOS\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0330-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin B12 deficiency\n  - Status: Improved energy, B12 rising\n  - Plan: Continue methylcobalamin 1500 mcg OD, repeat B12 in 3 months\n- Benign positional vertigo\n  - Status: Episodes reduced to twice weekly\n  - Plan: Continue betahistine 16 mg BD, keep meclizine SOS, repeat Dix-Hallpike if worsening\n- Non‑alcoholic fatty liver disease\n  - Status: Weight stable 78 kg, waist 90 cm (at cut‑off)\n  - Plan: Continue silymarin 140 mg TDS, rosuvastatin 5 mg OD, repeat LFT and lipid profile\n- Diet advice: Breakfast – egg whites & fruit; Lunch – quinoa salad; Dinner – grilled fish & veg\n- Weight: 78 kg, Waist: 90 cm\n- Due: HbA1c repeat 2025-10-10"
+    },
+    {
+      "memory_id": "X0330-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Vitamin B12: 340 pg/mL (ref 200‑900)\nALT: 28 U/L (ref ≤40)\nAST: 24 U/L (ref ≤40)\nLipid profile: LDL 110 mg/dL (ref <100), HDL 48 mg/dL (ref >40), Triglycerides 150 mg/dL (ref <150)"
+    },
+    {
+      "memory_id": "X0330-m06",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methylcobalamin 1500 mcg OD\nbetahistine 16 mg BD\nmeclizine 25 mg SOS\nsilymarin 140 mg TDS\nrosuvastatin 10 mg OD (increased LDL)"
+    },
+    {
+      "memory_id": "X0330-m07",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-05 10:30 with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0330-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin B12 deficiency\n  - Status: B12 satisfactory, no fatigue\n  - Plan: Continue methylcobalamin 1500 mcg OD, check B12 Jan 2026\n- Benign positional vertigo\n  - Status: Vertigo rare, only with rapid head turn\n  - Plan: Continue betahistine 16 mg BD, meclizine SOS, consider vestibular rehab if worsens\n- Non‑alcoholic fatty liver disease\n  - Status: Weight 77 kg, waist 88 cm (<90 cm)\n  - Plan: Continue silymarin 140 mg TDS, rosuvastatin 10 mg OD, repeat LFT & lipid Apr 2026\n- Diet advice: Breakfast – oats & nuts; Lunch – brown rice & legumes; Dinner – soup & steamed veg\n- Weight: 77 kg, Waist: 88 cm\n- Due: HbA1c repeat 2026-01-05"
+    },
+    {
+      "memory_id": "X0330-m09",
+      "date": "2025-10-07",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: Liver shows grade 1 steatosis, spleen normal, no focal lesion. Portal vein patent."
+    },
+    {
+      "memory_id": "X0330-m10",
+      "date": "2026-02-20",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Dr S. Rao, Gastroenterology, Apollo Hospital Bengaluru, for NAFLD fibrosis assessment (Fibroscan) and dietary guidance."
+    },
+    {
+      "memory_id": "X0330-m11",
+      "date": "2026-03-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Gastroenterology report: Fibroscan shows CAP 240 dB/m (steatosis), stiffness 6.2 kPa (F0‑F1). Advised continue lifestyle, repeat in 6 months."
+    },
+    {
+      "memory_id": "X0330-m12",
+      "date": "2026-09-30",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling well, vertigo almost gone, occasional mild dizziness when standing fast. Energy good, no new symptoms."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0001",
+  "name": "Javed Mirza",
+  "age": 59,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Coronary artery disease",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0001-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up of coronary artery disease and newly detected vitamin B12 deficiency.\nPRESENTING COMPLAINT: Patient reports occasional exertional chest tightness relieved by rest, no recent angina at rest. He feels fatigued.\nEXAMINATION: BP 138/86 mmHg, pulse 78/min, regular. Weight 78 kg, height 1.70 m, BMI 27.0 (obese). No peripheral edema, lungs clear.\nIMPRESSION: Stable CAD on current meds. Vitamin B12 low (to be checked). LDL elevated.\nARRANGEMENTS: Continue aspirin 75 mg OD, atorvastatin 40 mg HS, metoprolol succinate 25 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS. Start methylcobalamin 1500 mcg OD. Order fasting lipid profile and serum B12, MCV, Hb. Advise low‑salt diet, 150 min brisk walk weekly. Return if chest pain at rest, breathlessness >20 min, fever >39°C, or black stools."
+    },
+    {
+      "memory_id": "X0001-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 40 mg HS\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0001-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 130 mg/dL (<100 optimal), HDL 38 mg/dL (>40 desirable), triglycerides 150 mg/dL (<150 normal).\nSerum vitamin B12: 180 pg/mL (reference 200‑900).\nMCV: 92 fL (80‑100).\nHaemoglobin: 13.5 g/dL (13‑17)."
+    },
+    {
+      "memory_id": "X0001-m04",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Electrocardiogram: Sinus rhythm, rate 72/min. No ST‑segment depression or elevation. No pathological Q waves. Normal sinus rhythm, no acute ischemic changes."
+    },
+    {
+      "memory_id": "X0001-m05",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of lipid results and B12 replacement.\nPRESENTING COMPLAINT: Patient says chest tightness on exertion has lessened; fatigue improved after starting B12.\nEXAMINATION: BP 134/82 mmHg, pulse 76/min. Weight 77 kg, BMI 27.0 (obese). No JVP elevation, lungs clear.\nIMPRESSION: LDL still high despite atorvastatin 40 mg. B12 now low‑normal; continue supplement. Consider intensifying statin.\nARRANGEMENTS: Increase atorvastatin to 80 mg HS. Keep other meds unchanged. Repeat lipid profile in 3 months. Advise continue diet and activity. Return if new chest pain at rest, palpitations, swelling feet, or fever >39°C."
+    },
+    {
+      "memory_id": "X0001-m06",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 80 mg HS\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0001-m07",
+      "date": "2025-08-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 350 pg/mL (reference 200‑900).\nMCV: 94 fL (80‑100).\nHaemoglobin: 13.8 g/dL (13‑17)."
+    },
+    {
+      "memory_id": "X0001-m08",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Treadmill exercise test (Bruce protocol): Patient exercised 9 minutes, achieved 85% of predicted maximal heart rate. No ST‑segment depression >1 mm, no angina, no significant arrhythmias. Test negative for ischemia."
+    },
+    {
+      "memory_id": "X0001-m09",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 6‑month review of CAD and lipid therapy.\nPRESENTING COMPLAINT: Patient denies chest pain at rest, reports mild exertional discomfort only after climbing >2 flights stairs.\nEXAMINATION: BP 130/80 mmHg, pulse 74/min. Weight 76 kg, BMI 26.3 (overweight). No edema, lungs clear.\nIMPRESSION: LDL improved on higher statin; still above target. Weight borderline; advise further lifestyle.\nARRANGEMENTS: Continue current meds. Add low‑dose aspirin 75 mg OD (already). Repeat lipid profile in 3 months. Encourage Mediterranean diet, 30 min walk 5 days/week. Return if chest pain at rest, dyspnea on minimal exertion, swelling ankles, or fever >39°C."
+    },
+    {
+      "memory_id": "X0001-m10",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 80 mg HS\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0001-m11",
+      "date": "2025-12-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-10 at 09:30 with Dr Priya Natarajan (D03) for follow‑up of coronary artery disease and vitamin B12 status."
+    },
+    {
+      "memory_id": "X0001-m12",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up after lipid‑lowering intensification.\nPRESENTING COMPLAINT: Patient feels well, no angina, occasional mild fatigue after long walks.\nEXAMINATION: BP 128/78 mmHg, pulse 72/min. Weight 75 kg, BMI 25.9 (overweight). No peripheral edema, lungs clear.\nIMPRESSION: LDL at goal; B12 satisfactory. Weight still above ideal; reinforce diet and exercise.\nARRANGEMENTS: Continue aspirin 75 mg OD, atorvastatin 80 mg HS, metoprolol succinate 25 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS, methylcobalamin 1500 mcg OD. Order fasting lipid profile and B12 in 2 months. Advise maintain activity. Return if chest pain at rest, palpitations, sudden shortness of breath, or fever >39°C."
+    },
+    {
+      "memory_id": "X0001-m13",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 80 mg HS\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0001-m14",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 85 mg/dL (<100 goal), HDL 42 mg/dL (>40 desirable), triglycerides 130 mg/dL (<150 normal).\nSerum vitamin B12: 360 pg/mL (reference 200‑900).\nMCV: 94 fL (80‑100).\nHaemoglobin: 14.0 g/dL (13‑17)."
+    },
+    {
+      "memory_id": "X0001-m15",
+      "date": "2026-03-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Transthoracic echocardiogram: Left ventricular ejection fraction 60% (normal). Mild left ventricular hypertrophy (wall thickness 11 mm). No regional wall motion abnormality. No significant valvular disease. No pericardial effusion."
+    },
+    {
+      "memory_id": "X0001-m16",
+      "date": "2026-04-30",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review of coronary artery disease and vitamin B12 status.\nPRESENTING COMPLAINT: Patient reports no chest pain, good exercise tolerance, walks 30 min daily without discomfort.\nEXAMINATION: BP 126/76 mmHg, pulse 70/min. Weight 74 kg, BMI 25.6 (overweight). No JVP elevation, lungs clear.\nIMPRESSION: LDL well controlled on atorvastatin 80 mg. B12 normal. Stable CAD.\nARRANGEMENTS: Continue current medications. Repeat lipid profile and B12 in 12 months. Encourage maintain weight <70 kg (BMI <24) via diet and activity. Offer influenza vaccine (date to be arranged). Return if chest pain at rest, exertional dyspnea worsening, syncope, or fever >39°C."
+    }
+  ]
+}

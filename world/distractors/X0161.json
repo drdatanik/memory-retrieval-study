@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0161",
+  "name": "Asif Ahmed",
+  "age": 60,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Vitamin D deficiency",
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0161-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "60-year-old man presents for evaluation of vitamin D deficiency and suspected fatty liver.\nPRESENTING COMPLAINT: He reports intermittent fatigue and mild discomfort in the right upper quadrant for 2 months, no jaundice or fever.\nEXAMINATION: BP 128/82 mmHg, pulse 76/min, weight 78 kg, height 1.65 m, BMI 28.6 (obese). Abdomen soft, mild hepatomegaly, no tenderness. No pedal edema.\nIMPRESSION: Vitamin D deficiency, non‑alcoholic fatty liver disease with mild enzyme elevation, borderline lipids.\nARRANGEMENTS: Start cholecalciferol 60 000 IU once weekly for 8 weeks then 1000 IU OD; silymarin 140 mg TDS; rosuvastatin 5 mg OD. Order fasting lipid profile, fasting glucose, serum 25‑OH vitamin D, calcium, phosphate, LFT. Advise reduced‑carb diet, 150 min/week brisk walk. Influenza vaccine not due (outside autumn season). Return if chest pain, breathlessness, fever >39 °C, dark urine, worsening abdominal pain, or jaundice."
+    },
+    {
+      "memory_id": "X0161-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0161-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH vitamin D: 14 ng/mL (ref 30‑100)\nSerum calcium: 9.2 mg/dL (8.5‑10.5)\nSerum phosphate: 3.8 mg/dL (2.5‑4.5)\nALT: 58 U/L (ref ≤40)\nAST: 52 U/L (ref ≤40)\nTotal bilirubin: 0.9 mg/dL (0.2‑1.2)\nFasting glucose: 98 mg/dL (70‑100)\nFasting lipid profile: Cholesterol 202 mg/dL (<200), HDL 38 mg/dL (>40), LDL 124 mg/dL (<100), TG 168 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0161-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "60‑year‑old man returns for 3‑month review of vitamin D deficiency and NAFLD.\nPRESENTING COMPLAINT: Fatigue improved slightly; no new abdominal pain.\nEXAMINATION: BP 126/80, weight 77 kg, BMI 28.3 (obese). Abdomen soft, liver edge palpable 2 cm below costal margin.\nIMPRESSION: Vitamin D deficiency still insufficient; NAFLD with improving liver enzymes; lipids trending down.\nARRANGEMENTS: Continue cholecalciferol 1000 IU OD (maintenance); silymarin 140 mg TDS; rosuvastatin 5 mg OD. Repeat vitamin D, LFT, lipid panel in 3 months. Advise maintain weight loss goal 5 kg, avoid alcohol. Return if worsening fatigue, jaundice, abdominal swelling, fever >39 °C, or unexplained weight loss."
+    },
+    {
+      "memory_id": "X0161-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "cholecalciferol 1000 IU OD\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0161-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH vitamin D: 22 ng/mL (ref 30‑100)\nSerum calcium: 9.3 mg/dL\nSerum phosphate: 3.9 mg/dL\nALT: 45 U/L\nAST: 42 U/L\nFasting glucose: 96 mg/dL\nLipids: Cholesterol 190 mg/dL, HDL 40 mg/dL, LDL 115 mg/dL, TG 150 mg/dL"
+    },
+    {
+      "memory_id": "X0161-m07",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "60‑year‑old man for 6‑month follow‑up of vitamin D deficiency and NAFLD.\nPRESENTING COMPLAINT: Feels well, no fatigue, no abdominal discomfort.\nEXAMINATION: BP 124/78, weight 76 kg, BMI 27.9 (overweight). Abdomen soft, no hepatomegaly.\nIMPRESSION: Vitamin D now sufficient; NAFLD stable with normal enzymes; lipids at target.\nARRANGEMENTS: Continue cholecalciferol 1000 IU OD; silymarin 140 mg TDS; rosuvastatin 5 mg OD. Offer influenza vaccine – given today 05‑Oct‑2025. Advise maintain Mediterranean diet, 150 min/week activity. Return if new jaundice, abdominal swelling, fever >39 °C, chest pain, or unexplained weight loss."
+    },
+    {
+      "memory_id": "X0161-m08",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "cholecalciferol 1000 IU OD\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0161-m09",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH vitamin D: 34 ng/mL (ref 30‑100)\nSerum calcium: 9.2 mg/dL\nSerum phosphate: 3.8 mg/dL\nALT: 32 U/L\nAST: 30 U/L\nFasting glucose: 95 mg/dL\nLipids: Cholesterol 182 mg/dL, HDL 42 mg/dL, LDL 108 mg/dL, TG 140 mg/dL"
+    },
+    {
+      "memory_id": "X0161-m10",
+      "date": "2026-01-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 15‑Apr‑2026 10:30 with Dr Priya Natarajan (D03) for routine follow‑up. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0161-m11",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "60‑year‑old man annual review of vitamin D status and NAFLD.\nPRESENTING COMPLAINT: Asymptomatic, reports good energy levels.\nEXAMINATION: BP 122/80, weight 75 kg, BMI 27.5 (overweight). Abdomen soft, liver not enlarged.\nIMPRESSION: Vitamin D adequate; NAFLD non‑progressive; fasting lipids within target; fasting glucose normal.\nARRANGEMENTS: Continue cholecalciferol 1000 IU OD; silymarin 140 mg TDS; rosuvastatin 5 mg OD. Influenza vaccine status: up‑to‑date (given Oct 2025). Advise maintain weight, limit fructose, annual lipid and glucose labs. Return if jaundice, abdominal distension, fever >39 °C, new cardiac symptoms, or unexplained weight loss."
+    },
+    {
+      "memory_id": "X0161-m12",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "cholecalciferol 1000 IU OD\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    }
+  ]
+}

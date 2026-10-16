@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0306",
+  "name": "Sudhir Gaikwad",
+  "age": 69,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0306-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: Reports 4-5 migraine days/month, moderate intensity, sumatriptan SOS gives partial relief. No new neuro symptoms.\n  - Plan: Start propranolol 40 mg OD for prevention; continue sumatriptan 50 mg SOS; add topiramate 25 mg HS; naproxen 500 mg SOS for breakthrough. Advise regular sleep, hydration, trigger avoidance.\n- Weight: 78 kg\n- Waist circumference: 92 cm (above male cutoff 90 cm)\n- Diet advice: Breakfast – low‑GI, include protein; Lunch – balanced carbs/protein, limit fried snacks; Dinner – light, early, avoid aged cheese.\n- Due HbA1c: 2025-07-05"
+    },
+    {
+      "memory_id": "X0306-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 40 mg OD (1-0-0) after food\nSumatriptan 50 mg SOS (0-0-1) as needed after food\nTopiramate 25 mg HS (0-0-1) after food\nNaproxen 500 mg SOS (0-0-1) after food"
+    },
+    {
+      "memory_id": "X0306-m03",
+      "date": "2025-04-06",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Neurological examination: normal cranial nerves, no focal weakness or sensory loss.\nCT head (plain): no acute infarct, hemorrhage, or mass; ventricles and sulci normal.\nImpression: Normal study."
+    },
+    {
+      "memory_id": "X0306-m04",
+      "date": "2025-05-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'Doc, I’ve had about 6 migraine days this month, the sumatriptan helps but I feel tired after propranolol. Can we adjust?'"
+    },
+    {
+      "memory_id": "X0306-m05",
+      "date": "2025-06-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-07-10 09:30 with Dr Karthik Hegde (D04) for follow‑up."
+    },
+    {
+      "memory_id": "X0306-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: Propranolol started, reports 3 migraine days/month, mild fatigue. Topiramat well tolerated.\n  - Plan: Continue propranolol 40 mg OD; consider increasing to 60 mg OD if fatigue persists. Keep topiramate 25 mg HS. Continue sumatriptan SOS, naproxen SOS.\n- Weight: 77.5 kg\n- Waist circumference: 91 cm (still >90 cm)\n- Diet advice: Breakfast – oats with nuts; Lunch – dal, rice, veg, limit samosa; Dinner – khichdi, early.\n- Due HbA1c: 2025-10-10\n- Due lipid profile: 2026-07-10 (annual)"
+    },
+    {
+      "memory_id": "X0306-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 6.2% (Reference 4.0-5.6%) – elevated, consistent with pre‑diabetes.\nLipid profile:\n  Total cholesterol: 210 mg/dL (<200 desirable)\n  LDL: 130 mg/dL (<100 optimal)\n  HDL: 38 mg/dL (>40 good)\n  Triglycerides: 165 mg/dL (<150 normal)"
+    },
+    {
+      "memory_id": "X0306-m08",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 60 mg OD (1-0-0) after food\nTopiramate 25 mg HS (0-0-1) after food\nSumatriptan 50 mg SOS (0-0-1) as needed after food\nNaproxen 500 mg SOS (0-0-1) after food\nMetformin 500 mg BD (1-0-1) with meals"
+    },
+    {
+      "memory_id": "X0306-m09",
+      "date": "2025-08-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message: 'Started metformin, mild nausea first two days, now okay. Migraine days down to 2/month. Feeling better.'"
+    },
+    {
+      "memory_id": "X0306-m10",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: Only 1-2 migraine days/month, mild intensity, sumatriptan effective.\n  - Plan: Continue propranolol 60 mg OD, topiramate 25 mg HS. Consider taper if stable for 3 months. Continue metformin 500 mg BD.\n- Weight: 76 kg\n- Waist circumference: 89 cm (now at cutoff)\n- Diet advice: Breakfast – multigrain toast, egg white; Lunch – quinoa, veg, curd; Dinner – soup, salad, avoid late night.\n- Due HbA1c: 2026-01-10\n- Due lipid profile: 2026-07-10 (annual)"
+    },
+    {
+      "memory_id": "X0306-m11",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 5.8% (Reference 4.0-5.6%) – borderline, improving.\nLipid profile (repeat):\n  Total cholesterol: 190 mg/dL\n  LDL: 110 mg/dL\n  HDL: 42 mg/dL\n  Triglycerides: 130 mg/dL"
+    },
+    {
+      "memory_id": "X0306-m12",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: No migraine days in past month, sumatriptan unused.\n  - Plan: Consider tapering propranolol to 40 mg OD; continue topiramate 25 mg HS. Continue metformin 500 mg BD.\n- Weight: 75 kg\n- Waist circumference: 88 cm\n- Diet advice: Breakfast – idli with sambar; Lunch – brown rice, lentils, veg; Dinner – light khichdi, early.\n- Due HbA1c: 2026-04-20\n- Due lipid profile: 2026-07-10"
+    },
+    {
+      "memory_id": "X0306-m13",
+      "date": "2026-01-22",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 40 mg OD (1-0-0) after food\nTopiramate 25 mg HS (0-0-1) after food\nSumatriptan 50 mg SOS (0-0-1) as needed after food\nNaproxen 500 mg SOS (0-0-1) after food\nMetformin 500 mg BD (1-0-1) with meals"
+    },
+    {
+      "memory_id": "X0306-m14",
+      "date": "2026-04-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original 2026-04-25 moved to 2026-04-22 10:00 with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0306-m15",
+      "date": "2026-04-22",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: Remain migraine‑free, no rescue meds used.\n  - Plan: Continue propranolol 40 mg OD, topiramate 25 mg HS. Consider trial off topiramate after 3 months if stable. Continue metformin 500 mg BD.\n- Weight: 74.5 kg\n- Waist circumference: 87 cm\n- Diet advice: Breakfast – poha, peanuts; Lunch – roti, veg, dal; Dinner – steamed fish, salad.\n- Due HbA1c: 2026-07-22\n- Due lipid profile: 2026-07-10 (annual)"
+    },
+    {
+      "memory_id": "X0306-m16",
+      "date": "2026-04-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 5.5% (Reference 4.0-5.6%) – within target.\nLipid profile:\n  Total cholesterol: 180 mg/dL\n  LDL: 100 mg/dL\n  HDL: 44 mg/dL\n  Triglycerides: 120 mg/dL"
+    },
+    {
+      "memory_id": "X0306-m17",
+      "date": "2026-07-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: One mild migraine episode in past month, responded to sumatriptan.\n  - Plan: Continue propranolol 40 mg OD; consider stopping topiramate 25 mg HS after discussion. Continue metformin 500 mg BD.\n- Weight: 74 kg\n- Waist circumference: 86 cm\n- Diet advice: Breakfast – upma with veg; Lunch – millet rice, sambar; Dinner – dalia, curd.\n- Due HbA1c: 2026-10-30\n- Due lipid profile: 2027-07-10 (next annual)"
+    },
+    {
+      "memory_id": "X0306-m18",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: No migraine days in past two months, sumatriptan unused.\n  - Plan: Stop topiramate 25 mg HS; continue propranolol 40 mg OD for prophylaxis. Continue metformin 500 mg BD.\n- Weight: 73.5 kg\n- Waist circumference: 85 cm\n- Diet advice: Breakfast – wheat toast, avocado; Lunch – brown rice, leafy veg, pulses; Dinner – light soup, avoid fried.\n- Due HbA1c: 2027-01-05 (beyond window, noted for completeness)"
+    }
+  ]
+}

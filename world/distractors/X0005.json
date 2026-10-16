@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0005",
+  "name": "Geeta Agarwal",
+  "age": 33,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Non-alcoholic fatty liver disease",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0005-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: evaluation of abnormal liver enzymes and fatigue.\nPRESENTING COMPLAINT: The patient reports mild right upper quadrant discomfort and intermittent tiredness for 2 months.\nEXAMINATION: BP 118/76 mmHg, weight 62 kg, height 158 cm, BMI 24.8 (overweight). Abdomen soft, no hepatomegaly.\nIMPRESSION: Likely non‑alcoholic fatty liver disease and vitamin D deficiency.\nARRANGEMENTS: Advised balanced diet, reduced refined sugars, 150 min/week brisk walking. Started silymarin 140 mg TDS, rosuvastatin 5 mg OD, cholecalciferol 60 000 IU once weekly for 8 weeks then 1000 IU OD. Return if: jaundice, worsening abdominal pain, fever >39 °C, dark urine, or unexplained weight loss."
+    },
+    {
+      "memory_id": "X0005-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Silymarin 140 mg TDS\nRosuvastatin 5 mg OD\nCholecalciferol 60 000 IU once weekly for 8 weeks, then 1000 IU OD"
+    },
+    {
+      "memory_id": "X0005-m03",
+      "date": "2025-04-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 48 U/L (7‑35), AST 42 U/L (8‑33), ALP 84 U/L (40‑129), GGT 38 U/L (9‑48). Total bilirubin 0.9 mg/dL (0.2‑1.2). Albumin 4.2 g/dL (3.5‑5.0). Platelets 210 ×10⁹/L (150‑400). Lipid profile: TC 210 mg/dL (<200), LDL 130 mg/dL (<100), HDL 48 mg/dL (>40), TG 160 mg/dL (<150). Serum 25‑OH vitamin D 14 ng/mL (30‑100). Calcium 9.2 mg/dL (8.5‑10.5), phosphate 3.4 mg/dL (2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0005-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling a bit more energetic after starting the medicines, but I still notice a mild heaviness under my right rib cage after meals. My appetite is okay and I have been trying to walk around the neighbourhood for about 20 minutes most days."
+    },
+    {
+      "memory_id": "X0005-m05",
+      "date": "2025-06-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 6‑week follow‑up on NAFLD and vitamin D repletion.\nPRESENTING COMPLAINT: Patient reports reduced right upper quadrant discomfort and improved energy.\nEXAMINATION: BP 120/78 mmHg, weight 61.5 kg, BMI 24.6 (overweight). Abdomen soft, no tenderness.\nIMPRESSION: Improving liver enzymes; vitamin D still low, needs maintenance.\nARRANGEMENTS: Continue silymarin and rosuvastatin. Change vitamin D to cholecalciferol 1000 IU OD. Encourage Mediterranean‑style diet, limit fried foods, aim for 30 min walk daily. Return if: worsening abdominal pain, jaundice, fever >39 °C, sudden weight gain, or shortness of breath."
+    },
+    {
+      "memory_id": "X0005-m06",
+      "date": "2025-06-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Silymarin 140 mg TDS\nRosuvastatin 5 mg OD\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0005-m07",
+      "date": "2025-06-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 38 U/L (7‑35), AST 34 U/L (8‑33). ALP 80 U/L, GGT 35 U/L. Total bilirubin 0.8 mg/dL. Albumin 4.3 g/dL. Platelets 215 ×10⁹/L. Serum 25‑OH vitamin D 22 ng/mL (30‑100). Calcium 9.3 mg/dL, phosphate 3.5 mg/dL. Lipid profile: TC 198 mg/dL, LDL 118 mg/dL, HDL 50 mg/dL, TG 140 mg/dL."
+    },
+    {
+      "memory_id": "X0005-m08",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Abdominal ultrasound: Liver shows diffuse increased echogenicity consistent with mild hepatic steatosis. Portal vein normal, no focal lesions. Gallbladder wall normal, no stones. No ascites. Spleen size normal. Impression: Mild NAFLD, no evidence of fibrosis or cirrhosis."
+    },
+    {
+      "memory_id": "X0005-m09",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Review of ultrasound results and ongoing NAFLD management.\nPRESENTING COMPLAINT: Patient says discomfort has resolved; she feels well.\nEXAMINATION: BP 119/77 mmHg, weight 61 kg, BMI 24.4 (overweight). Abdomen soft, no hepatomegaly.\nIMPRESSION: Ultrasound confirms mild steatosis, labs improving. Vitamin D still suboptimal.\nARRANGEMENTS: Continue current meds. Advise weight reduction target 5‑7 % over 3 months, increase aerobic activity to 150 min/week, avoid alcohol. Offered influenza vaccine (given today, 01‑Sep‑2025). Return if: jaundice, worsening abdominal pain, fever >39 °C, dark urine, or unexplained fatigue."
+    },
+    {
+      "memory_id": "X0005-m10",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Silymarin 140 mg TDS\nRosuvastatin 5 mg OD\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0005-m11",
+      "date": "2025-09-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 32 U/L (7‑35), AST 30 U/L (8‑33). ALP 78 U/L, GGT 33 U/L. Total bilirubin 0.7 mg/dL. Albumin 4.4 g/dL. Platelets 218 ×10⁹/L. Serum 25‑OH vitamin D 28 ng/mL (30‑100). Calcium 9.4 mg/dL, phosphate 3.6 mg/dL. Lipid profile: TC 190 mg/dL, LDL 112 mg/dL, HDL 52 mg/dL, TG 130 mg/dL."
+    },
+    {
+      "memory_id": "X0005-m12",
+      "date": "2025-11-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 05‑Dec‑2025 at 10:30 AM with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0005-m13",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Routine follow‑up after 3 months of NAFLD therapy.\nPRESENTING COMPLAINT: Patient reports no abdominal discomfort, good energy levels.\nEXAMINATION: BP 118/76 mmHg, weight 60.5 kg, BMI 24.2 (overweight). Abdomen soft.\nIMPRESSION: Labs show continued improvement; vitamin D now sufficient.\nARRANGEMENTS: Continue silymarin and rosuvastatin. Vitamin D cholecalciferol 1000 IU OD to maintain levels. Reinforce diet low in refined carbs, regular exercise 30 min daily. Influenza vaccine already given this season. Return if: jaundice, worsening abdominal pain, fever >39 °C, unexplained weight loss, or severe fatigue."
+    },
+    {
+      "memory_id": "X0005-m14",
+      "date": "2025-12-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Silymarin 140 mg TDS\nRosuvastatin 5 mg OD\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0005-m15",
+      "date": "2026-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 28 U/L (7‑35), AST 26 U/L (8‑33). ALP 75 U/L, GGT 30 U/L. Total bilirubin 0.6 mg/dL. Albumin 4.5 g/dL. Platelets 220 ×10⁹/L. Serum 25‑OH vitamin D 32 ng/mL (30‑100). Calcium 9.5 mg/dL, phosphate 3.7 mg/dL. Lipid profile: TC 182 mg/dL, LDL 106 mg/dL, HDL 54 mg/dL, TG 120 mg/dL."
+    },
+    {
+      "memory_id": "X0005-m16",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Annual review of NAFLD and vitamin D status.\nPRESENTING COMPLAINT: Patient feels well, no symptoms.\nEXAMINATION: BP 119/77 mmHg, weight 60 kg, BMI 24.0 (overweight). Abdomen soft, no hepatomegaly.\nIMPRESSION: Stable mild steatosis on prior ultrasound, labs within normal ranges, vitamin D adequate.\nARRANGEMENTS: Continue silymarin 140 mg TDS and rosuvastatin 5 mg OD. Vitamin D cholecalciferol 1000 IU OD maintenance. Advise maintain weight, Mediterranean diet, 150 min/week activity. Influenza vaccine offered for upcoming season (to be given Oct‑Nov). Return if: jaundice, worsening abdominal pain, fever >39 °C, dark urine, or unexplained fatigue."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0565",
+  "name": "Nisha Modi",
+  "age": 57,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Dyslipidaemia",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0565-m01",
+      "date": "2025-04-01",
+      "type": "allergy",
+      "author": "D03",
+      "text": "ALLERGY: Penicillin – rash and pruritus within 30 minutes of first dose, resolved with antihistamine. Avoid all beta‑lactam antibiotics."
+    },
+    {
+      "memory_id": "X0565-m02",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: initial assessment of dyslipidaemia and COPD.\nPRESENTING COMPLAINT: Retired railway employee reports occasional breathlessness on exertion and wants cholesterol checked.\nEXAMINATION: BP 138/86 mmHg, weight 68 kg, height 1.58 m, BMI 27.2 (obese). General appearance well, lungs clear to auscultation, no wheeze, cardiac rhythm regular.\nIMPRESSION: 1. Dyslipidaemia, newly diagnosed. 2. COPD, GOLD stage II, on current inhalers. BMI obese – advise reduced calorie intake, increase walking to 30 minutes daily.\nARRANGEMENTS: Start atorvastatin 10 mg at night, tiotropium inhaler OD, salbutamol inhaler SOS, budesonide-formoterol 200/6 inhaler BD. Order fasting lipid profile, LFT, CK. Return if chest pain, breathlessness at rest, fever >39°C, or dark urine."
+    },
+    {
+      "memory_id": "X0565-m03",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Atorvastatin 10 mg HS\nTiotropium inhaler 2 puffs OD\nSalbutamol inhaler 2 puffs SOS\nBudesonide-formoterol 200/6 inhaler 2 puffs BD"
+    },
+    {
+      "memory_id": "X0565-m04",
+      "date": "2025-06-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 138 mg/dL (70-130), HDL 42 mg/dL (>40), triglycerides 162 mg/dL (<150).\nLiver function: ALT 28 U/L (≤40), AST 26 U/L (≤40), ALP 78 U/L (40-129), GGT 32 U/L (≤50).\nCreatine kinase: 162 U/L (30-200)."
+    },
+    {
+      "memory_id": "X0565-m05",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 3‑month follow‑up on lipid therapy and COPD symptoms.\nPRESENTING COMPLAINT: Patient says mild dyspnea on climbing stairs, otherwise well.\nEXAMINATION: BP 134/82, weight 67 kg, BMI 26.8 (obese). Lungs clear, no wheeze.\nIMPRESSION: LDL still above target; consider intensifying statin. COPD stable.\nARRANGEMENTS: Change atorvastatin to rosuvastatin 10 mg OD, add fenofibrate 145 mg OD. Continue inhalers. Repeat lipid profile in 8 weeks. Return if new muscle pain, dark urine, fever >39°C, or worsening breathlessness."
+    },
+    {
+      "memory_id": "X0565-m06",
+      "date": "2025-07-18",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate 145 mg OD\nTiotropium inhaler OD\nSalbutamol inhaler SOS\nBudesonide-formoterol 200/6 inhaler BD"
+    },
+    {
+      "memory_id": "X0565-m07",
+      "date": "2025-08-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry: FEV1 1.68 L (55% predicted), FVC 2.90 L (78% predicted), FEV1/FVC 0.58 (<0.70). Consistent with moderate obstructive lung disease, unchanged from prior."
+    },
+    {
+      "memory_id": "X0565-m08",
+      "date": "2025-09-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling more short‑of‑breath when I walk to the market, about 5‑6 minutes of walking. I need to stop and rest halfway."
+    },
+    {
+      "memory_id": "X0565-m09",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of lipid therapy and COPD after patient reports increased dyspnea.\nPRESENTING COMPLAINT: Increased breathlessness on mild exertion, occasional night cough.\nEXAMINATION: BP 136/84, weight 66.5 kg, BMI 26.6 (obese). Lung exam: mild expiratory wheeze bilaterally, no crackles.\nIMPRESSION: LDL improved but still borderline; fenofibrate may be contributing to mild CK rise. COPD symptoms worsening – consider step‑up.\nARRANGEMENTS: Continue rosuvastatin 10 mg OD, hold fenofibrate pending CK. Increase budesonide-formoterol to 2 puffs BD. Order repeat lipid profile, LFT, CK. Chest X‑ray to rule out infection. Return if fever >39°C, sputum purulence, chest pain, or CK‑related muscle pain."
+    },
+    {
+      "memory_id": "X0565-m10",
+      "date": "2025-10-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 112 mg/dL, HDL 44 mg/dL, triglycerides 138 mg/dL.\nLiver function: ALT 30, AST 28, ALP 80, GGT 35.\nCreatine kinase: 210 U/L (slightly above upper limit)."
+    },
+    {
+      "memory_id": "X0565-m11",
+      "date": "2025-11-30",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Chest X‑ray: lungs hyperinflated, flattened diaphragms, no focal consolidation, pleural effusion, or pneumothorax. Consistent with emphysematous changes, no acute infection."
+    },
+    {
+      "memory_id": "X0565-m12",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up after holding fenofibrate and reviewing lipid results.\nPRESENTING COMPLAINT: Patient feels better, less breathlessness, occasional mild wheeze.\nEXAMINATION: BP 132/80, weight 66 kg, BMI 26.4 (obese). Lungs: mild wheeze at bases, otherwise clear.\nIMPRESSION: LDL at target, CK normalizing. COPD stable on current regimen.\nARRANGEMENTS: Restart fenofibrate 145 mg OD (CK now 180). Continue rosuvastatin 10 mg OD. Keep inhalers as before. Order annual lipid profile and fasting glucose. Return if muscle pain, dark urine, fever >39°C, or worsening dyspnea."
+    },
+    {
+      "memory_id": "X0565-m13",
+      "date": "2026-02-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate 145 mg OD\nTiotropium inhaler OD\nSalbutamol inhaler SOS\nBudesonide-formoterol 200/6 inhaler BD"
+    },
+    {
+      "memory_id": "X0565-m14",
+      "date": "2026-03-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have noticed a mild ache in my thighs after climbing stairs, goes away after rest. No dark urine."
+    },
+    {
+      "memory_id": "X0565-m15",
+      "date": "2026-06-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review of dyslipidaemia and COPD.\nPRESENTING COMPLAINT: Patient reports occasional thigh discomfort on exertion, otherwise well.\nEXAMINATION: BP 130/78, weight 65.5 kg, BMI 26.2 (overweight – advise diet and activity). Lungs clear, mild wheeze only on forced expiration.\nIMPRESSION: LDL at goal, HDL adequate, triglycerides normal. CK mildly elevated, likely statin‑related myalgia. COPD stable.\nARRANGEMENTS: Continue rosuvastatin 10 mg OD, fenofibrate 145 mg OD. Advise low‑saturated fat diet, increase aerobic activity to 150 min/week. Check CK in 4 weeks. Return if muscle pain worsens, dark urine, fever >39°C, or chest pain."
+    },
+    {
+      "memory_id": "X0565-m16",
+      "date": "2026-06-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 98 mg/dL, HDL 46 mg/dL, triglycerides 124 mg/dL.\nFasting glucose: 92 mg/dL (70-99).\nLiver function: ALT 27, AST 25, ALP 76, GGT 30.\nCreatine kinase: 190 U/L (reference 30-200)."
+    },
+    {
+      "memory_id": "X0565-m17",
+      "date": "2026-08-22",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-09-15 at 09:30 with Dr Priya Natarajan (D03) for routine follow‑up. Patient confirmed via SMS."
+    }
+  ]
+}

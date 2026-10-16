@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0404",
+  "name": "Nisha Bhatt",
+  "age": 34,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0404-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: She drives a cab 8-10 hours daily, reports occasional knee discomfort after prolonged sitting but no limitation in daily activities.\ncognition: Mini-Cog score 4/5 (negative screen).\nfalls: No falls in the last 12 months, gait normal, timed up-and-go 9 seconds (below 12 s, no raised fall risk).\nmedicines: 0 regular.\nmood: Reports mild work‑related stress, denies depressive symptoms or anhedonia.\ncarers: Lives alone; sister Priya (sibling) provides occasional help.\ngoals: \"I want to reduce my weight to feel more comfortable while driving and avoid knee pain.\""
+    },
+    {
+      "memory_id": "X0404-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "orlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0404-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: total cholesterol 210 mg/dL (ref <200), LDL 130 mg/dL (<100), HDL 48 mg/dL (>40), triglycerides 165 mg/dL (<150).\nFasting glucose: 98 mg/dL (70‑99).\nHbA1c: 5.6 % (4.0‑5.6).\nLiver function: ALT 28 U/L (≤35), AST 24 U/L (≤34), GGT 32 U/L (≤51).\nWaist circumference: 96 cm (female target <80 cm)."
+    },
+    {
+      "memory_id": "X0404-m04",
+      "date": "2025-04-07",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve started taking the capsules with breakfast, lunch and dinner. I feel a bit of bloating after meals but no diarrhoea. My energy levels are okay; I still get tired after long shifts. I’ve tried to cut sugary drinks and walk for 10 minutes after each fare."
+    },
+    {
+      "memory_id": "X0404-m05",
+      "date": "2025-04-08",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:00 am with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0404-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports improved stamina; drives 9‑hour shifts with less knee ache. Still notes occasional bloating after meals.\ncognition: Mini-Cog score 4/5 (negative screen).\nfalls: No falls in past year, gait steady, TUG 9 seconds (no raised fall risk).\nmedicines: orlistat 120 mg TID – 1 regular.\nmood: Describes mood as stable, denies anxiety or depression.\ncarers: Lives alone; sister Priya (sibling) checks in weekly by phone.\ngoals: \"I would like to lose another 5 kg to feel lighter on the job.\""
+    },
+    {
+      "memory_id": "X0404-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "continue orlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0404-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: total cholesterol 195 mg/dL (<200), LDL 115 mg/dL (<100), HDL 50 mg/dL (>40), triglycerides 148 mg/dL (<150).\nFasting glucose: 92 mg/dL (70‑99).\nHbA1c: 5.4 % (4.0‑5.6).\nLiver function: ALT 22 U/L (≤35), AST 20 U/L (≤34), GGT 28 U/L (≤51).\nWaist circumference: 92 cm (female target <80 cm)."
+    },
+    {
+      "memory_id": "X0404-m09",
+      "date": "2025-07-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "The bloating has lessened after I started taking the capsules with a glass of water and eating smaller portions. I’ve lost about 2 kg according to my home scale. My knees feel better when I climb into the cab. I’m motivated to keep going."
+    },
+    {
+      "memory_id": "X0404-m10",
+      "date": "2025-07-13",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Next review appointment booked for 2025-10-15 at 09:30 am with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0404-m11",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Drives 10‑hour days without knee pain; reports occasional fatigue after night shifts.\ncognition: Mini-Cog score 4/5 (negative screen).\nfalls: No falls in last 12 months, gait normal, TUG 9 seconds (no raised fall risk).\nmedicines: orlistat 120 mg TID – 1 regular.\nmood: Reports good mood, enjoys work, denies depressive symptoms.\ncarers: Lives alone; sister Priya (sibling) provides occasional grocery help.\ngoals: \"I aim to reach 70 kg to improve my overall health and comfort while driving.\""
+    },
+    {
+      "memory_id": "X0404-m12",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "stop orlistat; advise lifestyle modification and consider restarting at lower dose if needed"
+    },
+    {
+      "memory_id": "X0404-m13",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: total cholesterol 202 mg/dL (ref <200), LDL 124 mg/dL (<100), HDL 47 mg/dL (>40), triglycerides 158 mg/dL (<150).\nFasting glucose: 100 mg/dL (70‑99).\nHbA1c: 5.7 % (4.0‑5.6).\nLiver function: ALT 30 U/L (≤35), AST 26 U/L (≤34), GGT 35 U/L (≤51).\nWaist circumference: 94 cm (female target <80 cm)."
+    },
+    {
+      "memory_id": "X0404-m14",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports mild knee discomfort after long drives, manages with stretching; able to work full shifts.\ncognition: Mini-Cog score 4/5 (negative screen).\nfalls: No falls in past year, gait normal, TUG 9 seconds (no raised fall risk).\nmedicines: orlistat 60 mg TID – 1 regular.\nmood: Describes mood as stable, denies anxiety or depression.\ncarers: Lives alone; sister Priya (sibling) helps with errands twice a month.\ngoals: \"I want to maintain my current weight and keep my knees healthy for driving.\""
+    },
+    {
+      "memory_id": "X0404-m15",
+      "date": "2026-02-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "orlistat 60 mg with each main meal"
+    },
+    {
+      "memory_id": "X0404-m16",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: total cholesterol 190 mg/dL (<200), LDL 110 mg/dL (<100), HDL 52 mg/dL (>40), triglycerides 140 mg/dL (<150).\nFasting glucose: 95 mg/dL (70‑99).\nHbA1c: 5.5 % (4.0‑5.6).\nLiver function: ALT 20 U/L (≤35), AST 18 U/L (≤34), GGT 25 U/L (≤51).\nWaist circumference: 88 cm (female target <80 cm)."
+    }
+  ]
+}

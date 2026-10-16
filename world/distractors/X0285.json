@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0285",
+  "name": "Indu Nambiar",
+  "age": 51,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0285-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: episodic vertigo triggered by head movements.\nPRESENTING COMPLAINT: She reports brief spells of spinning sensation lasting seconds to minutes when looking up or rolling over in bed, associated with nausea but no hearing loss or tinnitus. Episodes occur 2-3 times per week.\nEXAMINATION: BP 128/78 mmHg, weight 62 kg, height 158 cm, BMI 24.8 (overweight). General appearance alert. Otoscopic examination normal. Dix-Hallpike test positive for right posterior canal BPPV (torsional nystagmus). Neurologic exam otherwise normal.\nIMPRESSION: Benign positional vertigo, right posterior canal. Advised on vestibular rehabilitation exercises. BMI overweight – counselled on balanced diet and regular activity. No hypertension or hyperglycemia noted.\nARRANGEMENTS: Start betahistine 16 mg twice daily. Review response in 6 weeks. Return if vertigo worsens, new headache, double vision, difficulty walking, hearing loss, or fever >39°C."
+    },
+    {
+      "memory_id": "X0285-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Betahistine 16 mg tablet – take one tablet twice daily after meals. Continue for 8 weeks, then review."
+    },
+    {
+      "memory_id": "X0285-m03",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Vestibular assessment: Dix-Hallpike test positive for right posterior canal BPPV (torsional up‑beating nystagmus). Audiometry (pure tone) shows hearing thresholds within normal limits bilaterally (0‑25 dB HL)."
+    },
+    {
+      "memory_id": "X0285-m04",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 4.2 mmol/L (<5.2), LDL 2.4 mmol/L (<2.6), HDL 1.3 mmol/L (>1.0), triglycerides 1.1 mmol/L (<1.7).\nFasting blood glucose: 5.4 mmol/L (3.9‑5.5)."
+    },
+    {
+      "memory_id": "X0285-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up on vertigo and medication tolerance.\nPRESENTING COMPLAINT: Vertigo frequency reduced to about once per week, milder, still triggered by sudden head movement. No nausea. Reports occasional mild dizziness when standing quickly.\nEXAMINATION: BP 130/80 mmHg, weight 63 kg, BMI 25.1 (obese). ENT exam normal. Dix‑Hallpike now negative.\nIMPRESSION: Improving BPPV on betahistine. BMI obese – reinforce diet and activity advice. Continue betahistine; add meclizine for acute episodes.\nARRANGEMENTS: Add meclizine 25 mg as needed for vertigo, max three times daily. Review in 8 weeks. Return if vertigo becomes daily, hearing loss, neurological signs, or fever >39°C."
+    },
+    {
+      "memory_id": "X0285-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Meclizine 25 mg tablet – take one tablet at onset of vertigo, not exceeding three doses in 24 hours. Use only as needed."
+    },
+    {
+      "memory_id": "X0285-m07",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Repeat fasting lipid profile: Total cholesterol 4.0 mmol/L, LDL 2.2 mmol/L, HDL 1.4 mmol/L, triglycerides 1.0 mmol/L.\nFasting blood glucose: 5.2 mmol/L."
+    },
+    {
+      "memory_id": "X0285-m08",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: increase in vertigo episodes and weight concern.\nPRESENTING COMPLAINT: Vertigo now occurring 3‑4 times per week, lasting up to a minute, sometimes with mild nausea. Reports feeling heavier and less active.\nEXAMINATION: BP 132/82 mmHg, weight 66 kg, BMI 26.4 (obese). ENT normal. No abnormal eye movements.\nIMPRESSION: Possible breakthrough BPPV; consider vestibular rehab reinforcement. BMI obese – stress diet, aerobic activity 150 min/week, and weight monitoring.\nARRANGEMENTS: Continue betahistine 16 mg BD. Continue meclizine SOS. Refer for supervised vestibular physiotherapy. Return if vertigo becomes constant, hearing loss, new headache, limb weakness, or fever >39°C."
+    },
+    {
+      "memory_id": "X0285-m09",
+      "date": "2026-01-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Repeat audiometry: hearing thresholds stable, 0‑20 dB HL across frequencies, no new loss."
+    },
+    {
+      "memory_id": "X0285-m10",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: post‑rehab assessment and medication review.\nPRESENTING COMPLAINT: Vertigo episodes down to twice per week, milder, usually resolved with meclizine. No nausea. Feels more energetic after starting walks.\nEXAMINATION: BP 129/78 mmHg, weight 65 kg, BMI 26.0 (obese). ENT normal. Dix‑Hallpike negative.\nIMPRESSION: Vertigo improving with rehab and medication. Continue current regimen; reinforce lifestyle measures.\nARRANGEMENTS: Continue betahistine 16 mg BD and meclizine 25 mg SOS. Encourage daily 30‑min brisk walk and reduced refined carbs. Return if vertigo increases, hearing changes, chest pain, breathlessness, or fever >39°C."
+    },
+    {
+      "memory_id": "X0285-m11",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original follow‑up scheduled for 2026-07-12 moved to 2026-07-05 at 10:30 am per patient request due to travel plans."
+    },
+    {
+      "memory_id": "X0285-m12",
+      "date": "2026-09-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine review and annual labs.\nPRESENTING COMPLAINT: Vertigo episodes now once per week, mild, quickly relieved by meclizine. No falls. Reports stable weight.\nEXAMINATION: BP 128/76 mmHg, weight 64 kg, BMI 25.6 (obese). ENT normal.\nIMPRESSION: Stable BPPV on betahistine and meclizine SOS. BMI obese – reiterate diet and activity advice. Annual lipids and glucose within target.\nARRANGEMENTS: Continue betahistine 16 mg BD. Continue meclizine 25 mg SOS as needed. Return if vertigo worsens, hearing loss, neurological symptoms, chest pain, breathlessness, or fever >39°C."
+    },
+    {
+      "memory_id": "X0285-m13",
+      "date": "2026-09-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Annual fasting lipid profile: Total cholesterol 3.9 mmol/L (<5.2), LDL 2.1 mmol/L (<2.6), HDL 1.5 mmol/L (>1.0), triglycerides 0.9 mmol/L (<1.7).\nFasting blood glucose: 5.0 mmol/L (3.9‑5.5)."
+    },
+    {
+      "memory_id": "X0285-m14",
+      "date": "2026-10-11",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: final check‑up before year end.\nPRESENTING COMPLAINT: Vertigo occasional, less than once per week, mild, self‑limited. No adverse effects from meds.\nEXAMINATION: BP 127/75 mmHg, weight 63.5 kg, BMI 25.4 (obese). ENT normal.\nIMPRESSION: Well‑controlled benign positional vertigo. Continue betahistine and meclizine SOS. Lifestyle advice maintained.\nARRANGEMENTS: No change in medication. Return if vertigo becomes frequent, hearing loss, new neurologic signs, chest pain, breathlessness, or fever >39°C."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0334",
+  "name": "Geeta Agarwal",
+  "age": 23,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0334-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Rheumatoid arthritis\n- Status: Active, morning stiffness 45 min, joint swelling in MCP and PIP joints, pain VAS 5/10.\n- Plan: Continue methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Check weight and waist.\nWeight: 58 kg. Waist: 78 cm (female cut‑off 80 cm, within limit).\nDiet advice:\n- Breakfast: Include protein (egg or dal) and avoid refined sugars.\n- Lunch: Balanced plate with vegetables, whole‑grain roti, lean protein.\n- Dinner: Light, avoid fried foods, include salad.\nDue: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0334-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methotrexate 10 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD (after food)\nprednisolone 5 mg OD (after food)"
+    },
+    {
+      "memory_id": "X0334-m03",
+      "date": "2025-04-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 28 mm/hr (0‑20)\nCRP 12 mg/L (<5)\nRheumatoid factor 45 IU/ml (<14)\nAnti‑CCP 68 U/ml (<7)\nALT 32 U/L (7‑56)\nAST 28 U/L (10‑40)\nAlkaline phosphatase 78 U/L (30‑120)\nTotal bilirubin 0.9 mg/dl (0.2‑1.2)"
+    },
+    {
+      "memory_id": "X0334-m04",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Rheumatoid arthritis\n- Status: Improved, morning stiffness 20 min, pain VAS 3/10, no new joint swelling.\n- Plan: Increase methotrexate to 15 mg weekly to achieve better control, continue other meds. Re‑check labs.\nWeight: 57.5 kg. Waist: 77 cm.\nDiet advice:\n- Breakfast: Greek yogurt with nuts, avoid sweetened cereals.\n- Lunch: Mixed vegetable curry with brown rice, lentil dal.\n- Dinner: Grilled fish or paneer, steamed vegetables, limit oil.\nDue: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0334-m05",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD (after food)\nprednisolone 5 mg OD (after food)"
+    },
+    {
+      "memory_id": "X0334-m06",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 18 mm/hr (0‑20)\nCRP 6 mg/L (<5)\nALT 30 U/L (7‑56)\nAST 26 U/L (10‑40)"
+    },
+    {
+      "memory_id": "X0334-m07",
+      "date": "2025-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-10 at 10:30 AM with Dr Karthik Hegde (D04) for rheumatoid arthritis follow‑up."
+    },
+    {
+      "memory_id": "X0334-m08",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Rheumatoid arthritis\n- Status: Stable, morning stiffness 15 min, pain VAS 2/10, no active synovitis.\n- Plan: Continue current regimen (methotrexate 15 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD). Monitor for side effects.\nWeight: 57 kg. Waist: 76 cm.\nDiet advice:\n- Breakfast: Egg white omelet with spinach, whole‑grain toast.\n- Lunch: Quinoa salad with chickpeas, cucumber, lemon dressing.\n- Dinner: Lentil soup, steamed broccoli, small portion of roti.\nDue: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0334-m09",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD (after food)\nprednisolone 5 mg OD (after food)"
+    },
+    {
+      "memory_id": "X0334-m10",
+      "date": "2026-02-14",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been noticing more pain in my wrists and knees over the past two weeks, especially after long drives. Morning stiffness is about 30 minutes and I feel tired."
+    },
+    {
+      "memory_id": "X0334-m11",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Rheumatoid arthritis\n- Status: Flare, increased wrist and knee pain, morning stiffness 30 min, pain VAS 5/10, mild swelling noted.\n- Plan: Add short course of prednisolone 10 mg OD for 5 days then taper to 5 mg OD, continue methotrexate 15 mg weekly, folic acid, hydroxychloroquine. Advise joint protection and rest.\nWeight: 58 kg. Waist: 78 cm.\nDiet advice:\n- Breakfast: Oats with milk, almonds, avoid sugar.\n- Lunch: Vegetable khichdi with curd.\n- Dinner: Grilled chicken, sautéed greens, minimal oil.\nDue: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0334-m12",
+      "date": "2026-02-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD (after food)\nprednisolone 10 mg OD for 5 days, then 5 mg OD (after food)"
+    },
+    {
+      "memory_id": "X0334-m13",
+      "date": "2026-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 14 mm/hr (0‑20)\nCRP 4 mg/L (<5)\nALT 28 U/L (7‑56)\nAST 24 U/L (10‑40)"
+    }
+  ]
+}

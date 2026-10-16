@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0586",
+  "name": "Hetal Modi",
+  "age": 40,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Epilepsy",
+    "Iron-deficiency anaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0586-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Stable on levetiracetam 500 mg BD and lamotrigine 50 mg BD, no seizures in last 3 months.\n  - Plan: Continue current AEDs, counsel on sleep hygiene and trigger avoidance.\n- Iron‑deficiency anaemia\n  - Status: Fatigue persisting, Hb low, ferritin low.\n  - Plan: Start ferrous sulfate 200 mg OD plus 200 mg on alternate days, take with vitamin C, review in 6 weeks.\n- General\n  - Weight 62 kg, waist 78 cm (<80 cm cut‑off for women).\n  - Diet advice: Breakfast – idli with sambar and a fruit; Lunch – rice, dal, vegetable curry, chapati; Dinner – light khichdi with yogurt.\n  - Due: HbA1c not indicated (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0586-m02",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.2 g/dL (12‑16); Serum ferritin 18 ng/mL (15‑150); MCV 78 fL (80‑100); Serum sodium 138 mmol/L (135‑145); Serum creatinine 0.9 mg/dL (0.6‑1.1)."
+    },
+    {
+      "memory_id": "X0586-m03",
+      "date": "2025-05-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg, 1-0-1, after food; Lamotrigine 50 mg, 1-0-1, after food; Ferrous sulfate 200 mg, 1-0-0, after food; Ferrous sulfate 200 mg on alternate days, 1-0-0, after food."
+    },
+    {
+      "memory_id": "X0586-m04",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: No breakthrough seizures, medication adherence good.\n  - Plan: Maintain levetiracetam and lamotrigine doses.\n- Iron‑deficiency anaemia\n  - Status: Improved energy, Hb rising.\n  - Plan: Continue ferrous sulfate schedule, check labs in 6 weeks.\n- General\n  - Weight 61.5 kg, waist 77 cm (<80 cm).\n  - Diet advice: Breakfast – poha with peanuts and orange; Lunch – millet rice, sambar, salad; Dinner – vegetable pulao with raita.\n  - Due: HbA1c not indicated (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0586-m05",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.4 g/dL (12‑16); Serum ferritin 28 ng/mL (15‑150); MCV 81 fL (80‑100); Serum sodium 137 mmol/L (135‑145); Serum creatinine 0.9 mg/dL (0.6‑1.1)."
+    },
+    {
+      "memory_id": "X0586-m06",
+      "date": "2025-08-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg, 1-0-1, after food; Lamotrigine 50 mg, 1-0-1, after food; Ferrous sulfate 200 mg, 1-0-0, after food; Ferrous sulfate 200 mg on alternate days stopped."
+    },
+    {
+      "memory_id": "X0586-m07",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: Background activity normal, no epileptiform discharges; no clinical correlation with seizures."
+    },
+    {
+      "memory_id": "X0586-m08",
+      "date": "2025-10-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling well, no seizures since May. My periods are regular and I haven’t noticed any heavy bleeding. The iron tablets on alternate days were stopped, I feel less nauseous now. I’d like to continue the once‑daily iron for another month then stop if labs are normal."
+    },
+    {
+      "memory_id": "X0586-m09",
+      "date": "2025-11-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-05 09:30 with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0586-m10",
+      "date": "2026-01-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure‑free for 8 months, medication levels adequate.\n  - Plan: Continue levetiracetam 500 mg BD and lamotrigine 50 mg BD.\n- Iron‑deficiency anaemia\n  - Status: Hb normal, ferritin borderline low.\n  - Plan: Stop ferrous sulfate; monitor diet rich in iron, recheck in 3 months.\n- General\n  - Weight 61 kg, waist 76 cm (<80 cm).\n  - Diet advice: Breakfast – upma with veggies and a glass of orange juice; Lunch – brown rice, rasam, steamed greens, roti; Dinner – lentil soup with multigrain toast.\n  - Due: HbA1c not indicated (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0586-m11",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.1 g/dL (12‑16); Serum ferritin 12 ng/mL (15‑150); MCV 88 fL (80‑100); Serum sodium 136 mmol/L (135‑145); Serum creatinine 0.88 mg/dL (0.6‑1.1)."
+    },
+    {
+      "memory_id": "X0586-m12",
+      "date": "2026-02-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg, 1-0-1, after food; Lamotrigine 50 mg, 1-0-1, after food; (Iron supplements discontinued)."
+    },
+    {
+      "memory_id": "X0586-m13",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Still seizure‑free, medication well tolerated.\n  - Plan: Continue current AEDs, remind about avoiding alcohol excess.\n- Iron‑deficiency anaemia\n  - Status: Ferritin low but Hb normal; likely dietary insufficiency.\n  - Plan: Advise iron‑rich diet (dates, leafy greens, legumes), recheck ferritin in 3 months.\n- General\n  - Weight 60.5 kg, waist 75 cm (<80 cm).\n  - Diet advice: Breakfast – dosa with coconut chutney and tomato; Lunch – quinoa sambar, salad, curd; Dinner – vegetable stew with millet roti.\n  - Due: HbA1c not indicated (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0586-m14",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.0 g/dL (12‑16); Serum ferritin 14 ng/mL (15‑150); MCV 86 fL (80‑100); Serum sodium 137 mmol/L (135‑145); Serum creatinine 0.9 mg/dL (0.6‑1.1)."
+    },
+    {
+      "memory_id": "X0586-m15",
+      "date": "2026-05-01",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Mild maculopapular rash on forearms after taking ferrous sulfate on 2025-07-20; resolved with antihistamine. Labelled as iron intolerance; avoid oral iron supplements."
+    },
+    {
+      "memory_id": "X0586-m16",
+      "date": "2026-06-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed occasional mild fingertip tingling when I skip breakfast; otherwise fine. My menstrual flow is normal. I’ve been eating more spinach and lentils as advised. No seizures."
+    },
+    {
+      "memory_id": "X0586-m17",
+      "date": "2026-07-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-09-05 to 2026-09-03 10:00 with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0586-m18",
+      "date": "2026-09-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: No seizures for over a year, medication adherence excellent.\n  - Plan: Continue levetiracetam 500 mg BD and lamotrigine 50 mg BD; consider taper only if seizure‑free for 2 years.\n- Iron‑deficiency anaemia\n  - Status: Hb normal, ferritin now 22 ng/mL (within normal range).\n  - Plan: No supplements needed; maintain balanced diet.\n- General\n  - Weight 60 kg, waist 74 cm (<80 cm).\n  - Diet advice: Breakfast – vegetable oats with milk; Lunch – brown rice, dal, mixed veg, chapati; Dinner – soup with multigrain bread.\n  - Due: HbA1c not indicated (no glucose‑lowering therapy)."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0489",
+  "name": "Kaushik Sarkar",
+  "age": 75,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0489-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: routine diabetes follow-up.\nPRESENTING COMPLAINT: The patient reports feeling well, no new symptoms, occasional mild fatigue after meals.\nEXAMINATION: BP 138/86 mmHg, weight 78 kg, height 1.70 m, BMI 27.0 (obese). Pulse regular, lungs clear, feet warm with intact sensation, no ulcers.\nIMPRESSION: Type 2 diabetes mellitus, currently on metformin 500 mg BD, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Overweight per Asian cut‑offs.\nARRANGEMENTS: Continue current medicines. Advise reduced carbohydrate intake, daily 30‑minute walk. Order fasting lipid profile, fasting plasma glucose, HbA1c, urine albumin‑creatinine ratio and dilated fundus exam. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0489-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg tablet, take one tablet twice daily.\nGlimepiride 1 mg tablet, take one tablet each morning before breakfast.\nSitagliptin 100 mg tablet, take one tablet daily.\nEmpagliflozin 10 mg tablet, take one tablet daily."
+    },
+    {
+      "memory_id": "X0489-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (reference 4.0‑5.6%).\nFasting plasma glucose 156 mg/dL (reference 70‑99).\nUrine albumin‑creatinine ratio 22 mg/g (reference <30)."
+    },
+    {
+      "memory_id": "X0489-m04",
+      "date": "2025-04-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Dilated fundus examination: mild non‑proliferative diabetic retinopathy, microaneurysms noted in both eyes, no macular edema. Visual acuity 6/6 each eye. Recommend annual repeat."
+    },
+    {
+      "memory_id": "X0489-m05",
+      "date": "2025-06-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have noticed a tingling sensation in the soles of my feet, especially at night. It is mild but bothering me when I try to sleep."
+    },
+    {
+      "memory_id": "X0489-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: review of diabetes control and foot tingling.\nPRESENTING COMPLAINT: Patient reports persistent bilateral foot tingling, worse at night, no pain or weakness.\nEXAMINATION: BP 142/88 mmHg, weight 77.5 kg, BMI 26.8 (overweight). Foot sensation reduced to light touch distal to metatarsal heads, proprioception intact.\nIMPRESSION: Type 2 diabetes with suboptimal control (HbA1c 7.8%). Possible early diabetic neuropathy contributing to foot tingling.\nARRANGEMENTS: Increase metformin to 500 mg three times daily. Add gabapentin 100 mg at night for neuropathic pain, titrate as tolerated. Reinforce foot care, daily inspection, moisturise. Return if worsening numbness, ulcers, chest pain, or fever >39°C."
+    },
+    {
+      "memory_id": "X0489-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg tablet, take one tablet three times daily.\nGlimepiride 1 mg tablet, take one tablet each morning before breakfast.\nSitagliptin 100 mg tablet, take one tablet daily.\nEmpagliflozin 10 mg tablet, take one tablet daily.\nGabapentin 100 mg capsule, take one capsule at night, increase to 300 mg nightly if needed."
+    },
+    {
+      "memory_id": "X0489-m08",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.4% (reference 4.0‑5.6%).\nFasting plasma glucose 138 mg/dL (reference 70‑99).\nUrine albumin‑creatinine ratio 18 mg/g (reference <30)."
+    },
+    {
+      "memory_id": "X0489-m09",
+      "date": "2025-09-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-15 at 10:30 AM with Dr Priya Natarajan for diabetes follow‑up."
+    },
+    {
+      "memory_id": "X0489-m10",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: diabetes follow‑up and neuropathic symptoms.\nPRESENTING COMPLAINT: Foot tingling unchanged, occasional burning at night. Denies new ulcers or trauma.\nEXAMINATION: BP 140/86 mmHg, weight 77 kg, BMI 26.6 (overfoot). Monofilament test shows reduced sensation at great toe bilaterally.\nIMPRESSION: Stable diabetic neuropathy, glycemic control improved (HbA1c 7.4%). Continue current regimen.\nARRANGEMENTS: Continue metformin 500 mg TID, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD, gabapentin 300 mg nightly. Advise footwear with soft soles, daily foot inspection. Return if worsening pain, ulceration, chest pain, breathlessness, or fever >39°C."
+    },
+    {
+      "memory_id": "X0489-m11",
+      "date": "2025-10-20",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Neurology, Dr S. K. Rao, for evaluation of persistent peripheral neuropathy despite optimal glycemic control. Request nerve conduction studies and advice on symptomatic management."
+    },
+    {
+      "memory_id": "X0489-m12",
+      "date": "2026-02-10",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Neurology report: Nerve conduction studies show mild axonal sensory neuropathy, consistent with diabetic neuropathy. Recommend continuation of gabapentin 300 mg nightly, consider adding duloxetine if pain persists. No acute pathology found. Advise routine follow‑up in 6 months."
+    },
+    {
+      "memory_id": "X0489-m13",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.1% (reference 4.0‑5.6%).\nFasting plasma glucose 128 mg/dL (reference 70‑99).\nUrine albumin‑creatinine ratio 15 mg/g (reference <30)."
+    },
+    {
+      "memory_id": "X0489-m14",
+      "date": "2026-07-30",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: routine diabetes review.\nPRESENTING COMPLAINT: Patient feels well, occasional mild foot tingling at night, no new complaints.\nEXAMINATION: BP 138/84 mmHg, weight 76.5 kg, BMI 26.5 (overweight). Foot sensation unchanged, monofilament intact at heel, reduced at distal toes.\nIMPRESSION: Type 2 diabetes, stable neuropathic symptoms, HbA1c 7.1% within target range for age‑adjusted goal.\nARRANGEMENTS: Continue metformin 500 mg TID, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD, gabapentin 300 mg nightly. Reinforce low‑glycemic diet, aerobic activity 150 min/week. Annual flu vaccine offered; patient declined due to mild egg allergy. Return if chest pain, breathlessness, fever >39°C, new ulcer, or sudden vision changes."
+    }
+  ]
+}

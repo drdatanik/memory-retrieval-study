@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0167",
+  "name": "Pushpa Kamath",
+  "age": 31,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0167-m01",
+      "date": "2025-04-03",
+      "type": "allergy",
+      "author": "D05",
+      "text": "No known drug allergies."
+    },
+    {
+      "memory_id": "X0167-m02",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nShe reports persistent worry, restlessness, difficulty concentrating, and occasional insomnia over the past three months. She denies panic attacks. On examination, she appears tense, with mild psychomotor retardation; vital signs normal. Smoking status: never (0 pack‑years)."
+    },
+    {
+      "memory_id": "X0167-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "escitalopram 5 mg OD\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0167-m04",
+      "date": "2025-04-07",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-08-20 at 10:00 am with Dr Suresh Menon."
+    },
+    {
+      "memory_id": "X0167-m05",
+      "date": "2025-06-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.0)\nHaemoglobin 12.8 g/dL (12.0‑15.5)"
+    },
+    {
+      "memory_id": "X0167-m06",
+      "date": "2025-06-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "GAD‑7 score: 12 (moderate anxiety)"
+    },
+    {
+      "memory_id": "X0167-m07",
+      "date": "2025-08-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nShe notes ongoing worry but reports improved sleep after starting escitalopram 5 mg OD and buspirone 5 mg BD. She still experiences mild irritability and occasional muscle tension. On exam, she is cooperative, affect mildly anxious, no tremor. Smoking status: never (0 pack‑years)."
+    },
+    {
+      "memory_id": "X0167-m08",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4‑4.0)\nHaemoglobin 13.0 g/dL (12.0‑15.5)"
+    },
+    {
+      "memory_id": "X0167-m09",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nShe describes partial response; worries remain most days, but severity reduced. She requests increase in antidepressant. On exam, she is attentive, affect mildly anxious, no psychomotor agitation. Smoking status: never (0 pack‑years)."
+    },
+    {
+      "memory_id": "X0167-m10",
+      "date": "2025-12-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "escitalopram 10 mg OD\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0167-m11",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4‑4.0)\nHaemoglobin 13.2 g/dL (12.0‑15.5)"
+    },
+    {
+      "memory_id": "X0167-m12",
+      "date": "2026-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "GAD‑7 score: 8 (mild anxiety)"
+    },
+    {
+      "memory_id": "X0167-m13",
+      "date": "2026-09-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder.\nShe reports good control of worries, improved sleep, and minimal irritability. She wishes to continue current regimen. On exam, she is calm, affect appropriate, no tremor. Smoking status: never (0 pack‑years)."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0044",
+  "name": "Ashok Malhotra",
+  "age": 57,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Asthma",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0044-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks 2 km daily, no dyspnea on level ground.\ncognition: Mini-Cog score 4/5 (recall 3, clock draw normal), negative screen.\nfalls: No falls in past 12 months, gait steady, timed up-and-go 10 seconds (normal).\nmedicines: 6 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS); polypharmacy, review against Beers criteria.\nmood: Reports good mood, denies depression or anxiety.\ncarers: Priya (spouse).\ngoal: \"I want to keep working as a driver and stay breath‑free on my routes.\""
+    },
+    {
+      "memory_id": "X0044-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD\nbudesonide-formoterol 200/6 inhaler BD\nmontelukast 10 mg HS\nsalbutamol metered-dose inhaler SOS"
+    },
+    {
+      "memory_id": "X0044-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.9 mg/dL (0.6‑1.2)\neGFR 88 mL/min/1.73m2 (>60)\nSerum potassium 4.3 mmol/L (3.5‑5.0)\nHbA1c 5.6% (4.0‑5.6)\nTotal cholesterol 180 mg/dL (<200)\nLDL 100 mg/dL (<130)\nHDL 45 mg/dL (>40)\nTriglycerides 120 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0044-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Spirometry: FEV1 2.8 L (80% predicted), FVC 3.6 L (85% predicted), FEV1/FVC 0.78. Post‑bronchodilator FEV1 3.0 L (85%), FVC 3.6 L, FEV1/FVC 0.83 – >12% improvement and 200 mL increase, consistent with reversible airway obstruction. No significant restriction."
+    },
+    {
+      "memory_id": "X0044-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I work long hours delivering parcels; sometimes I feel tight‑chested after climbing stairs. I use my salbutamol inhaler about twice a week. My goal is to stay active and avoid hospital admissions."
+    },
+    {
+      "memory_id": "X0044-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent, drives 6‑8 hrs/day, occasional mild wheeze after exertion.\ncognition: Not scheduled this visit (last Mini‑Cog 4/5).\nfalls: No falls, gait normal, timed up‑and‑go 9 seconds.\nmedicines: 6 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS); polypharmacy, review against Beers criteria.\nmood: Reports occasional stress, denies depression.\ncarers: Priya (spouse).\ngoal: \"I’d like to reduce my inhaler use and keep my blood pressure under control.\""
+    },
+    {
+      "memory_id": "X0044-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD\nbudesonide-formoterol 200/6 inhaler BD\nmontelukast 10 mg HS\nsalbutamol metered-dose inhaler SOS"
+    },
+    {
+      "memory_id": "X0044-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.0 mg/dL (0.6‑1.2)\neGFR 80 mL/min/1.73m2 (>60)\nSerum potassium 4.6 mmol/L (3.5‑5.0)\nUrine albumin/creatinine ratio 15 mg/g (<30)\nAST 22 U/L (<40)\nALT 24 U/L (<40)"
+    },
+    {
+      "memory_id": "X0044-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Resting ECG: Sinus rhythm 78 bpm, no ST‑T changes, left ventricular voltage within normal limits. No evidence of ischemia or hypertrophy."
+    },
+    {
+      "memory_id": "X0044-m10",
+      "date": "2025-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2025-08-10 to 2025-10-15 09:00 with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0044-m11",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent, reports mild dyspnea on hills, uses salbutamol 3‑4 times/week.\ncognition: Not due yet (last Mini‑Cog 4/5).\nfalls: No falls, gait slightly slower, timed up‑and‑go 11 seconds (borderline raised fall risk); advise strength exercises and supportive footwear.\nmedicines: 6 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS); polypharmacy, review against Beers criteria.\nmood: Reports occasional frustration with breathlessness, denies depression.\ncarers: Priya (spouse).\ngoal: \"I want to walk up the hill to the market without stopping for my inhaler.\""
+    },
+    {
+      "memory_id": "X0044-m12",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD\nbudesonide-formoterol 200/6 inhaler BD\nmontelukast 10 mg HS\nsalbutamol metered-dose inhaler SOS\nadd: tiotropium inhaler 2.5 µg OD (for added bronchodilation)"
+    },
+    {
+      "memory_id": "X0044-m13",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.1 mg/dL (0.6‑1.2)\neGFR 74 mL/min/1.73m2 (>60)\nSerum potassium 4.7 mmol/L (3.5‑5.0)\nHbA1c 5.7% (4.0‑5.6) – slightly elevated\nLDL 115 mg/dL (<130)\nHDL 44 mg/dL (>40)\nTriglycerides 135 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0044-m14",
+      "date": "2025-10-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Asthma Control Test score 18/25 (not well controlled). I’ve been using my salbutamol inhaler about 4 times a week and wake up once at night with cough. I added tiotropium as prescribed."
+    }
+  ]
+}

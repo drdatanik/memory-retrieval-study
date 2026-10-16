@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0342",
+  "name": "Vijayan Nambiar",
+  "age": 20,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0342-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: New onset, PHQ-9 not yet done, reports low mood, anhedonia, poor sleep.\n  - Plan: Start sertraline 50 mg OD after breakfast, advise sleep hygiene, schedule PHQ-9 in 4 weeks.\n- Weight\n  - Status: Weight 68 kg, waist 78 cm (female cut‑off 80 cm, within limit).\n  - Plan: Encourage balanced diet, monitor weight.\nDue: HbA1c not indicated; next review in 3 months."
+    },
+    {
+      "memory_id": "X0342-m02",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.0). Vitamin B12 340 pg/mL (200‑900). CBC: WBC 6.2x10^9/L, Hb 13.8 g/dL, Plt 240x10^9/L."
+    },
+    {
+      "memory_id": "X0342-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sertraline 50 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0342-m04",
+      "date": "2025-04-08",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Penicillin – rash and pruritus on exposure."
+    },
+    {
+      "memory_id": "X0342-m05",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling down most days, hard to get out of bed, and I wake up at 3 am unable to sleep again."
+    },
+    {
+      "memory_id": "X0342-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: PHQ-9 12 (moderate), reports some improvement in mood but still fatigue.\n  - Plan: Add escitalopram 10 mg OD after dinner, continue sertraline, repeat PHQ-9 in 6 weeks.\n- Weight\n  - Status: Weight 70 kg, waist 80 cm (at female cut‑off).\n  - Plan: Reduce refined carbs, walk 30 min daily.\nDue: HbA1c not indicated; next review in 3 months."
+    },
+    {
+      "memory_id": "X0342-m07",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 12. TSH 2.0 mIU/L. Vitamin B12 350 pg/mL."
+    },
+    {
+      "memory_id": "X0342-m08",
+      "date": "2025-07-14",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sertraline 50 mg OD after breakfast\nEscitalopram 10 mg OD after dinner"
+    },
+    {
+      "memory_id": "X0342-m09",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked psychiatry consult for 2025-08-20 at 10:00 am."
+    },
+    {
+      "memory_id": "X0342-m10",
+      "date": "2025-08-05",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Dr. S. Rao, Psychiatry, for evaluation of persistent depressive symptoms despite antidepressant trial."
+    },
+    {
+      "memory_id": "X0342-m11",
+      "date": "2025-09-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Psychiatrist notes: Patient engaged, diagnosis moderate depressive disorder, recommends continuing current regimen, add CBT, review in 6 weeks."
+    },
+    {
+      "memory_id": "X0342-m12",
+      "date": "2025-10-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Eye exam: Visual acuity 6/6 both eyes, intra‑ocular pressure 14 mmHg, fundus normal. No diabetic retinopathy (patient not diabetic)."
+    },
+    {
+      "memory_id": "X0342-m13",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: PHQ-9 8 (mild), reports better mood, occasional insomnia.\n  - Plan: Stop mirtazapine (not prescribed), reduce sertraline to 25 mg OD, continue escitalopram 10 mg OD, repeat PHQ-9 in 4 weeks.\n- Weight\n  - Status: Weight 71 kg, waist 82 cm (slightly above female cut‑off).\n  - Plan: Limit sugary drinks, increase vegetable intake.\nDue: HbA1c not indicated; next review in 3 months."
+    },
+    {
+      "memory_id": "X0342-m14",
+      "date": "2026-01-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.2 mIU/L. Vitamin B12 360 pg/mL. Lipid profile: Cholesterol 180 mg/dL (<200), HDL 48 mg/dL (>40), LDL 100 mg/dL (<130), Triglycerides 110 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0342-m15",
+      "date": "2026-01-19",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sertraline 25 mg OD after breakfast\nEscitalopram 10 mg OD after dinner"
+    },
+    {
+      "memory_id": "X0342-m16",
+      "date": "2026-02-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Sleep has improved, I’m falling asleep by 11 pm and waking refreshed. Mood feels steadier."
+    },
+    {
+      "memory_id": "X0342-m17",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: PHQ-9 5 (minimal), reports good energy, sleep 7‑8 hrs.\n  - Plan: Continue current doses, consider tapering escitalopram if stable for 3 months, repeat PHQ-9 in 8 weeks.\n- Weight\n  - Status: Weight 70 kg, waist 80 cm (at cut‑off).\n  - Plan: Maintain balanced diet, regular walk.\nDue: HbA1c not indicated; next review in 3 months."
+    }
+  ]
+}

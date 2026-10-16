@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0118",
+  "name": "Jyothi Pulipati",
+  "age": 56,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0118-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gout\n- Status: First presentation, asymptomatic between flares, reports one flare in last month affecting left big toe, resolved with NSAID.\n- Plan: Start allopurinol 100 mg OD after breakfast; advise low‑purine diet, increase water intake.\n- Weight: 68 kg; Waist: 84 cm (female cutoff 80 cm – central obesity).\n- Diet advice: Breakfast – whole grain toast, egg white, fruit; Lunch – vegetable dal, brown rice, lean fish; Dinner – soup, salad, chapati.\n- Due: HbA1c repeat 2025-07-05."
+    },
+    {
+      "memory_id": "X0118-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Allopurinol 100 mg OD"
+    },
+    {
+      "memory_id": "X0118-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 7.2 mg/dL (ref 2.4‑6.0); Serum creatinine 0.9 mg/dL (ref 0.5‑1.1)"
+    },
+    {
+      "memory_id": "X0118-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gout\n- Status: On allopurinol 100 mg OD for 3 months, no flares, reports mild heel discomfort after prolonged standing.\n- Plan: Increase allopurinol to 200 mg OD after breakfast; continue lifestyle measures; re‑check labs in 6 weeks.\n- Weight: 67 kg; Waist: 82 cm (still >80 cm).\n- Diet advice: Breakfast – oats with milk, nuts; Lunch – mixed vegetable curry, quinoa; Dinner – lentil soup, steamed veggies, roti.\n- Due: HbA1c repeat 2025-10-10."
+    },
+    {
+      "memory_id": "X0118-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Allopurinol 200 mg OD"
+    },
+    {
+      "memory_id": "X0118-m06",
+      "date": "2025-07-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 5.8 mg/dL (ref 2.4‑6.0); Serum creatinine 0.9 mg/dL"
+    },
+    {
+      "memory_id": "X0118-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gout\n- Status: Acute flare of right first metatarsophalangeal joint, painful, swollen, started 2 days ago.\n- Plan: Prescribe colchicine 0.5 mg BD for 5 days; continue allopurinol 200 mg OD; advise rest, ice, elevate foot.\n- Weight: 66.5 kg; Waist: 81 cm.\n- Diet advice: Breakfast – idli with sambar, no coconut chutney; Lunch – vegetable khichdi, curd; Dinner – clear vegetable soup, steamed fish, chapati.\n- Due: HbA1c repeat 2026-01-02."
+    },
+    {
+      "memory_id": "X0118-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Colchicine 0.5 mg BD for 5 days"
+    },
+    {
+      "memory_id": "X0118-m09",
+      "date": "2025-10-09",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Dear Clinic, the gout flare in my right toe has settled after the colchicine course. No pain or swelling today. Thank you."
+    },
+    {
+      "memory_id": "X0118-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gout\n- Status: No flares for 3 months on allopurinol 200 mg OD, but mild gastritis symptoms noted after meals.\n- Plan: Stop allopurinol; start febuxostat 40 mg OD before breakfast; monitor liver enzymes and uric acid in 6 weeks; continue lifestyle advice.\n- Weight: 66 kg; Waist: 80 cm (at cutoff).\n- Diet advice: Breakfast – poha with peanuts, tea; Lunch – brown rice, sambar, steamed veggies; Dinner – vegetable stew, roti.\n- Due: HbA1c repeat 2026-04-15."
+    },
+    {
+      "memory_id": "X0118-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Febuxostat 40 mg OD\nAllopurinol stopped"
+    },
+    {
+      "memory_id": "X0118-m12",
+      "date": "2026-01-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 4.6 mg/dL (ref 2.4‑6.0); Serum creatinine 0.9 mg/dL; ALT 22 U/L (ref ≤35); AST 20 U/L (ref ≤40)"
+    },
+    {
+      "memory_id": "X0118-m13",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-07-10 09:30 with Dr Karthik Hegde (D04) for gout follow‑up."
+    },
+    {
+      "memory_id": "X0118-m14",
+      "date": "2026-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gout\n- Status: On febuxostat 40 mg OD for 6 months, no flares, uric acid well controlled.\n- Plan: Continue febuxostat; repeat labs in 3 months; reinforce low‑purine diet and weight maintenance.\n- Weight: 65.5 kg; Waist: 79 cm (<80 cm).\n- Diet advice: Breakfast – multigrain toast, avocado, boiled egg; Lunch – mixed vegetable dal, millet; Dinner – grilled chicken, salad, chapati.\n- Due: HbA1c repeat 2026-10-10."
+    }
+  ]
+}

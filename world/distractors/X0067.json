@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0067",
+  "name": "Sunanda Deshpande",
+  "age": 33,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Psoriasis",
+    "Benign positional vertigo",
+    "Polycystic ovary syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0067-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Chronic plaque psoriasis, benign positional vertigo, and polycystic ovary syndrome.\nSymptoms and examination: She reports scaly erythematous plaques on elbows and knees, intermittent spinning sensation on lying down, and irregular menstrual cycles with hirsutism. Examination shows well-demarcated silvery-scaled plaques over extensor surfaces, positive Dix-Hallpike on right side, and bilateral ovarian enlargement on palpation.\nSmoking status: never smoker; pack-years 0."
+    },
+    {
+      "memory_id": "X0067-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "clobetasol 0.05% cream apply BD to affected areas\ncalcipotriol ointment apply OD to plaques\nmethotrexate 7.5 mg oral once weekly\nfolic acid 5 mg oral daily\nmetformin 500 mg oral BD\ncombined oral contraceptive pill (ethinylestradiol 30 mcg + levonorgestrel 150 mcg) OD"
+    },
+    {
+      "memory_id": "X0067-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 28 U/L (7-35); AST 24 U/L (8-33); ALKP 78 U/L (40-129); GGT 22 U/L (0-51).\nHb 12.8 g/L (12-16); WBC 6.2 x10^9/L (4-10); Plt 210 x10^9/L (150-400).\nSerum creatinine 0.82 mg/dL (0.5-1.1).\nSerum testosterone 48 ng/dL (15-70).\nLH 6.2 mIU/mL (2-12); FSH 5.8 mIU/mL (2-10); LH:FSH ratio 1.07.\nHbA1c 5.4% (4.0-5.6)."
+    },
+    {
+      "memory_id": "X0067-m04",
+      "date": "2025-06-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Chronic plaque psoriasis, benign positional vertigo, polycystic ovary syndrome (stable).\nSymptoms and examination: Plaques show mild thinning and less scaling; vertigo episodes now once weekly, less severe; menstrual cycles more regular with reduced hirsutism. Examination: faint pink patches on elbows, no active scaling; Dix-Hallpike negative bilaterally; ovaries not enlarged on palpation.\nSmoking status: never smoker; pack-years 0."
+    },
+    {
+      "memory_id": "X0067-m05",
+      "date": "2025-06-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate 10 mg oral once weekly (increased from 7.5 mg)\nfolic acid 5 mg oral daily\nall other medications unchanged"
+    },
+    {
+      "memory_id": "X0067-m06",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dix-Hallpike test: Positive on right side with transient torsional nystagmus lasting <1 minute, consistent with benign positional vertigo. Left side negative."
+    },
+    {
+      "memory_id": "X0067-m07",
+      "date": "2025-08-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking meclizine 25 mg when I feel dizzy and it helps; the spinning attacks are now rare and mild."
+    },
+    {
+      "memory_id": "X0067-m08",
+      "date": "2025-09-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 45 U/L (7-35); AST 38 U/L (8-33); ALKP 80 U/L (40-129); GGT 30 U/L (0-51).\nHb 12.5 g/L (12-16); WBC 5.9 x10^9/L (4-10); Plt 200 x10^9/L (150-400).\nSerum creatinine 0.88 mg/dL (0.5-1.1).\nSerum testosterone 52 ng/dL (15-70).\nLH 6.5 mIU/mL (2-12); FSH 6.0 mIU/mL (2-10); LH:FSH ratio 1.08.\nHbA1c 5.5% (4.0-5.6)."
+    },
+    {
+      "memory_id": "X0067-m09",
+      "date": "2025-09-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Chronic plaque psoriasis, benign positional vertigo, polycystic ovary syndrome (mild liver enzyme rise).\nSymptoms and examination: Plaques unchanged; vertigo infrequent; menstrual regularity maintained. Mild transaminitis noted on labs.\nSmoking status: never smoker; pack-years 0."
+    },
+    {
+      "memory_id": "X0067-m10",
+      "date": "2025-09-13",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate 7.5 mg oral once weekly (reduced from 10 mg due to ALT/AST rise)\nfolic acid 5 mg oral daily\nall other medications unchanged"
+    },
+    {
+      "memory_id": "X0067-m11",
+      "date": "2025-11-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-12-03 at 10:30 am with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0067-m12",
+      "date": "2025-12-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Chronic plaque psoriasis, benign positional vertigo, polycystic ovary syndrome (liver enzymes improving).\nSymptoms and examination: Plaques show slight improvement; vertigo absent for past 3 weeks; menstrual cycles regular, no hirsutism progression.\nSmoking status: never smoker; pack-years 0."
+    },
+    {
+      "memory_id": "X0067-m13",
+      "date": "2025-12-04",
+      "type": "prescription",
+      "author": "D05",
+      "text": "clobetasol 0.05% cream BD to plaques\ncalcipotriol ointment OD to plaques (continued)\nmethotrexate 7.5 mg oral once weekly\nfolic acid 5 mg oral daily\nmetformin 500 mg oral BD\ncombined oral contraceptive pill OD"
+    },
+    {
+      "memory_id": "X0067-m14",
+      "date": "2026-02-14",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Pelvic ultrasound: Bilateral ovaries show multiple small follicles (6‑9 mm) with increased stromal echogenicity; uterine lining normal. Consistent with polycystic ovarian morphology."
+    },
+    {
+      "memory_id": "X0067-m15",
+      "date": "2026-03-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum testosterone 49 ng/dL (15-70).\nLH 5.8 mIU/mL (2-12); FSH 5.5 mIU/mL (2-10); LH:FSH ratio 1.05.\nHbA1c 5.3% (4.0-5.6)."
+    },
+    {
+      "memory_id": "X0067-m16",
+      "date": "2026-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Chronic plaque psoriasis, benign positional vertigo, polycystic ovary syndrome (well controlled).\nSymptoms and examination: Plaques flat, minimal scaling; no vertigo episodes in past 2 months; menstrual cycles regular, no acne/hirsutism worsening.\nSmoking status: never smoker; pack-years 0."
+    },
+    {
+      "memory_id": "X0067-m17",
+      "date": "2026-09-30",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate discontinued\nfolic acid 5 mg oral daily continued\nclobetasol 0.05% cream BD to plaques\ncalcipotriol ointment OD to plaques\nmetformin 500 mg oral BD\ncombined oral contraceptive pill OD"
+    }
+  ]
+}

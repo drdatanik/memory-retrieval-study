@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0018",
+  "name": "Rupinder Chadha",
+  "age": 22,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Non-alcoholic fatty liver disease",
+    "Vitamin B12 deficiency",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0018-m01",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-04-15 10:00 with Dr Karthik Hegde, Endocrinology."
+    },
+    {
+      "memory_id": "X0018-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD: status: mild steatosis on prior ultrasound, asymptomatic; plan: continue silymarin 140 mg TDS, rosuvastatin 5 mg OD, lifestyle modification.\n- Vitamin B12 deficiency: status: low serum B12, mild fatigue; plan: start methylcobalamin 1500 mcg OD, recheck in 3 months.\n- IBS: status: intermittent bloating, occasional loose stools; plan: mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS, diet advice.\nWeight 55 kg, waist 78 cm (<80 cm cut‑off).\nDiet advice: breakfast – low‑fat, high‑fibre; lunch – balanced carbs‑protein; dinner – light, early.\nDue: HbA1c – 2025-07-15."
+    },
+    {
+      "memory_id": "X0018-m03",
+      "date": "2025-04-16",
+      "type": "prescription",
+      "author": "D04",
+      "text": "silymarin 140 mg TDS; rosuvastatin 5 mg OD; methylcobalamin 1500 mcg OD; mebeverine 135 mg BD; ispaghula husk 5 g OD; loperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0018-m04",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 32 U/L (ref 7‑56); AST 28 U/L (ref 10‑40); ALP 78 U/L (ref 30‑120); GGT 22 U/L (ref 0‑51).\nTotal bilirubin 0.9 mg/dL (ref 0.2‑1.2).\nSerum vitamin B12 180 pg/mL (ref 200‑900).\nHaemoglobin 12.8 g/dL (ref 12‑16); MCV 88 fL (ref 80‑100).\nPlatelet count 250 × 10⁹/L (ref 150‑400)."
+    },
+    {
+      "memory_id": "X0018-m05",
+      "date": "2025-06-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: Liver shows mild diffuse steatosis, homogeneous echotexture, no focal lesions. Portal vein normal. Gallbladder wall thickness 2 mm, no stones. Spleen normal size. No ascites. Impression: NAFLD, grade 1 steatosis."
+    },
+    {
+      "memory_id": "X0018-m06",
+      "date": "2025-06-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I’ve been feeling bloated after lunch and sometimes have loose stools in the evening. My energy is okay but I still get tired after work.\""
+    },
+    {
+      "memory_id": "X0018-m07",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD: status: stable, LFTs normal, US unchanged; plan: continue silymarin 140 mg TDS, rosuvastatin 5 mg OD.\n- Vitamin B12 deficiency: status: B12 still low, fatigue improved; plan: increase methylcobalamin to 1500 mcg BD, recheck in 6 weeks.\n- IBS: status: bloating reduced, occasional diarrhea; plan: continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide SOS, consider low‑FODMAP trial.\nWeight 56 kg, waist 80 cm (at cut‑off).\nDiet advice: breakfast – oats with fruit; lunch – quinoa salad; dinner – steamed veg‑fish.\nDue: HbA1c – 2025-10-20."
+    },
+    {
+      "memory_id": "X0018-m08",
+      "date": "2025-07-21",
+      "type": "prescription",
+      "author": "D04",
+      "text": "silymarin 140 mg TDS; rosuvastatin 5 mg OD; methylcobalamin 1500 mcg BD; mebeverine 135 mg BD; ispaghula husk 5 g OD; loperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0018-m09",
+      "date": "2025-08-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 28 U/L; AST 24 U/L; ALP 75 U/L; GGT 20 U/L.\nTotal bilirubin 0.8 mg/dL.\nSerum vitamin B12 260 pg/mL (ref 200‑900).\nHaemoglobin 13.0 g/dL; MCV 89 fL.\nLipid profile: Total cholesterol 165 mg/dL (<200); LDL 95 mg/dL (<130); HDL 48 mg/dL (>40); Triglycerides 110 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0018-m10",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Repeat abdominal ultrasound: Liver steatosis unchanged, grade 1. No fibrosis signs. Portal vein normal. No gallbladder pathology. Impression: stable NAFLD."
+    },
+    {
+      "memory_id": "X0018-m11",
+      "date": "2025-09-15",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referred to Dr Sita Rao, Gastroenterology, for evaluation of persistent IBS symptoms despite first‑line therapy. Enclosed: recent labs, ultrasound, symptom diary."
+    },
+    {
+      "memory_id": "X0018-m12",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD: status: unchanged, LFTs normal; plan: continue current regimen.\n- Vitamin B12 deficiency: status: B12 now within normal range, asymptomatic; plan: continue methylcobalamin 1500 mcg OD, check in 3 months.\n- IBS: status: awaiting gastroenterology opinion; plan: maintain symptomatic meds, await specialist advice.\nWeight 56 kg, waist 79 cm (<80).\nDiet advice: breakfast – idli with sambar; lunch – brown rice‑dal; dinner – chapati‑veg.\nDue: HbA1c – 2026-01-15."
+    },
+    {
+      "memory_id": "X0018-m13",
+      "date": "2025-10-20",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Gastroenterology opinion: IBS‑D likely, recommend low‑FODMAP diet for 6 weeks, continue mebeverine and ispaghula, use loperamide only as needed. No alarming features. Advise follow‑up in 8 weeks."
+    },
+    {
+      "memory_id": "X0018-m14",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD: status: stable, LFTs normal; plan: continue silymarin 140 mg TDS, rosuvastatin 5 mg OD.\n- Vitamin B12 deficiency: status: B12 adequate, no symptoms; plan: continue methylcobalamin 1500 mcg OD, repeat in 3 months.\n- IBS: status: improved on low‑FODMAP, occasional bloating; plan: continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide SOS, consider probiotic.\nWeight 55 kg, waist 78 cm.\nDiet advice: breakfast – poha; lunch – mixed veg‑rice; dinner – lentil soup‑roti.\nDue: HbA1c – 2026-04-15."
+    },
+    {
+      "memory_id": "X0018-m15",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "silymarin 140 mg TDS; rosuvastatin 5 mg OD; methylcobalamin 1500 mcg OD; mebeverine 135 mg BD; ispaghula husk 5 g OD; loperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0018-m16",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD: status: normal LFTs, ultrasound shows mild steatosis unchanged; plan: continue silymarin 140 mg TDS, rosuvastatin 5 mg OD.\n- Vitamin B12 deficiency: status: B12 within normal, no fatigue; plan: continue methylcobalamin 1500 mcg OD, repeat in 6 months.\n- IBS: status: well‑controlled, minimal symptoms; plan: continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide SOS, maintain low‑FODMAP as needed.\nWeight 54 kg, waist 76 cm.\nDiet advice: breakfast – upma; lunch – millet‑dal; dinner – grilled chicken‑salad.\nDue: HbA1c – 2026-07-10."
+    },
+    {
+      "memory_id": "X0018-m17",
+      "date": "2026-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 30 U/L; AST 26 U/L; ALP 73 U/L; GGT 21 U/L.\nTotal bilirubin 0.9 mg/dL.\nSerum vitamin B12 340 pg/mL (ref 200‑900).\nHaemoglobin 13.2 g/dL; MCV 90 fL.\nLipid profile: Total cholesterol 158 mg/dL; LDL 90 mg/dL; HDL 50 mg/dL; Triglycerides 105 mg/dL."
+    }
+  ]
+}

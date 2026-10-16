@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0491",
+  "name": "Pooja Chauhan",
+  "age": 41,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Iron-deficiency anaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0491-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia. Patient reports fatigue and mild dyspnea on exertion. Examination shows pallor, no lymphadenopathy, lungs clear. Hb low, MCV low, ferritin low. Plan: check CBC, ferritin, start iron supplementation."
+    },
+    {
+      "memory_id": "X0491-m02",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.2 g/dL (12-16), Serum ferritin 12 ng/mL (15-150), MCV 78 fL (80-100)."
+    },
+    {
+      "memory_id": "X0491-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg OD for 3 months."
+    },
+    {
+      "memory_id": "X0491-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia. Patient feels less tired, reports mild constipation. Spirometry: FEV1 2.85 L (92% pred), FVC 3.40 L (95%), FEV1/FVC 0.84, unchanged from baseline. Asthma Control Test 22 (well controlled). Technique checked: correct. Smoking status: never. Plan: repeat labs, continue iron."
+    },
+    {
+      "memory_id": "X0491-m05",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 10.8 g/dL (12-16), Serum ferritin 28 ng/mL (15-150), MCV 82 fL (80-100)."
+    },
+    {
+      "memory_id": "X0491-m06",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg on alternate days for 2 months."
+    },
+    {
+      "memory_id": "X0491-m07",
+      "date": "2025-09-20",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Gastroenterology for evaluation of possible gastrointestinal blood loss contributing to iron deficiency. Please perform upper and lower endoscopy as clinically indicated."
+    },
+    {
+      "memory_id": "X0491-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia. Patient reports improved energy, no GI symptoms. Spirometry: FEV1 2.90 L (94% pred), FVC 3.45 L (96%), FEV1/FVC 0.84, +0.05 L since last test. Asthma Control Test 23 (well controlled). Technique checked: correct. Smoking: never. Plan: await gastroenterology outcome, continue iron alternate days."
+    },
+    {
+      "memory_id": "X0491-m09",
+      "date": "2025-10-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.6 g/dL (12-16), Serum ferritin 35 ng/mL (15-150), MCV 84 fL (80-100)."
+    },
+    {
+      "memory_id": "X0491-m10",
+      "date": "2025-10-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg on alternate days continue."
+    },
+    {
+      "memory_id": "X0491-m11",
+      "date": "2026-01-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: Feeling unusually tired again over past week, also noticing mild shortness of breath when climbing stairs. Request advice."
+    },
+    {
+      "memory_id": "X0491-m12",
+      "date": "2026-01-21",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-02-10 at 10:00 AM with Dr Suresh Menon."
+    },
+    {
+      "memory_id": "X0491-m13",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia. Patient reports fatigue returning, mild exertional dyspnea. Spirometry: FEV1 2.78 L (90% pred), FVC 3.38 L (94%), FEV1/FVC 0.82, -0.07 L since last test. Asthma Control Test 18 (not well controlled). Technique corrected: reminded to exhale slowly after inhalation. Smoking: never. Plan: repeat labs, consider restarting daily iron."
+    },
+    {
+      "memory_id": "X0491-m14",
+      "date": "2026-02-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 10.4 g/dL (12-16), Serum ferritin 22 ng/mL (15-150), MCV 80 fL (80-100)."
+    },
+    {
+      "memory_id": "X0491-m15",
+      "date": "2026-02-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg OD for 8 weeks, then reassess."
+    },
+    {
+      "memory_id": "X0491-m16",
+      "date": "2026-05-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia. Patient reports resolution of fatigue, good exercise tolerance. Spirometry: FEV1 2.92 L (95% pred), FVC 3.48 L (97%), FEV1/FVC 0.84, +0.14 L since 02-10 test. Asthma Control Test 22 (well controlled). Technique checked: correct. Smoking: never. Plan: check labs, consider tapering iron."
+    },
+    {
+      "memory_id": "X0491-m17",
+      "date": "2026-05-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.8 g/dL (12-16), Serum ferritin 48 ng/mL (15-150), MCV 86 fL (80-100)."
+    },
+    {
+      "memory_id": "X0491-m18",
+      "date": "2026-05-17",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate discontinued. Advise dietary iron-rich foods and multivitamin as needed."
+    }
+  ]
+}

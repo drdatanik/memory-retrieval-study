@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0237",
+  "name": "Sukhdev Grewal",
+  "age": 66,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Insomnia",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0237-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of insomnia and low mood.\nPRESENTING COMPLAINT: Mr X reports difficulty falling asleep, waking 2-3 times nightly, and feeling low‑energy for the past 3 months. He denies suicidal thoughts.\nEXAMINATION: BP 128/78 mmHg, weight 78 kg, height 1.70 m → BMI 27.0 (obese). Cardiovascular and respiratory exams normal.\nIMPRESSION: Insomnia, moderate severity; depressive symptoms, mild‑moderate. TSH and haemoglobin pending.\nARRANGEMENTS: Start melatonin 3 mg HS, trazodone 50 mg HS, sertraline 50 mg OD. Advise sleep hygiene, limit caffeine after 4 pm, daily walk 30 min. Return if worsening sadness, thoughts of self‑harm, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0237-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg PO HS\nTrazodone 50 mg PO HS\nSertraline 50 mg PO OD"
+    },
+    {
+      "memory_id": "X0237-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.5)\nHaemoglobin 13.8 g/dL (13.0‑17.0)\nFasting glucose 92 mg/dL (70‑99)\nLipids: Cholesterol 190 mg/dL (<200), HDL 45 mg/dL (>40), LDL 110 mg/dL (<130), Triglycerides 150 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0237-m04",
+      "date": "2025-06-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up on sleep and mood after starting meds.\nPRESENTING COMPLAINT: Patient reports sleep onset improved, now falls asleep within 30 min, but still wakes once early morning. Mood feels better, PHQ‑9 score 8.\nEXAMINATION: BP 126/80 mmHg, weight 77.5 kg, BMI 26.8 (overweight). No focal deficits.\nIMPRESSION: Insomnia improving; depressive symptoms mild. TSH normal, haemoglobin stable.\nARRANGEMENTS: Increase sertraline to 75 mg OD, continue melatonin and trazodone. Reinforce activity, weight goal <75 kg. Return if worsening insomnia, new anxiety, palpitations, fever >39°C, or bleeding."
+    },
+    {
+      "memory_id": "X0237-m05",
+      "date": "2025-06-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Sertraline 75 mg PO OD\nMelatonin 3 mg PO HS\nTrazodone 50 mg PO HS"
+    },
+    {
+      "memory_id": "X0237-m06",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L\nHaemoglobin 13.9 g/dL\nVitamin B12 320 pg/mL (200‑900)\nPHQ‑9 8\nInsomnia Severity Index 12 (moderate)"
+    },
+    {
+      "memory_id": "X0237-m07",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up appointment for 10‑Sep‑2025 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0237-m08",
+      "date": "2025-09-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine review of insomnia and depression.\nPRESENTING COMPLAINT: Patient reports sleeping 6‑7 hours, waking once, feeling rested. Mood stable, denies anhedonia.\nEXAMINATION: BP 124/78 mmHg, weight 76.8 kg, BMI 26.5 (overweight).\nIMPRESSION: Insomnia mild; depressive symptoms in remission. Labs show normal TSH, Hb, B12.\nARRANGEMENTS: Continue current meds. Discuss weight‑reducing diet, aim 150 min aerobic weekly. Return if new snoring, witnessed apnoea, worsening low mood, suicidal ideas, chest pain, or fever >39°C."
+    },
+    {
+      "memory_id": "X0237-m09",
+      "date": "2025-09-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg PO HS\nTrazodone 50 mg PO HS\nSertraline 75 mg PO OD"
+    },
+    {
+      "memory_id": "X0237-m10",
+      "date": "2025-11-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 205 mg/dL, HDL 42 mg/dL, LDL 128 mg/dL, Triglycerides 165 mg/dL\nFasting blood glucose 101 mg/dL (prediabetes range)\nTSH 2.2 mIU/L\nHaemoglobin 13.7 g/dL"
+    },
+    {
+      "memory_id": "X0237-m11",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review after lipid and glucose results.\nPRESENTING COMPLAINT: Patient notes occasional daytime fatigue, otherwise sleep adequate. Concern about rising cholesterol.\nEXAMINATION: BP 130/80 mmHg, weight 76.0 kg, BMI 26.3 (overweight).\nIMPRESSION: Borderline high cholesterol, impaired fasting glucose; insomnia and depression stable.\nARRANGEMENTS: Add atorvastatin 10 mg OD at night. Reinforce low‑saturated‑fat diet, increase fibre, repeat lipid in 3 months. Return if muscle pain, dark urine, severe headache, or fever >39°C."
+    },
+    {
+      "memory_id": "X0237-m12",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Atorvastatin 10 mg PO HS\nMelatonin 3 mg PO HS\nTrazodone 50 mg PO HS\nSertraline 75 mg PO OD"
+    },
+    {
+      "memory_id": "X0237-m13",
+      "date": "2026-03-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L\nHaemoglobin 13.8 g/dL\nVitamin B12 340 pg/mL\nPHQ‑9 6\nInsomnia Severity Index 9\nLipids: Cholesterol 190 mg/dL, HDL 44 mg/dL, LDL 115 mg/dL, Triglycerides 140 mg/dL\nFasting glucose 98 mg/dL"
+    },
+    {
+      "memory_id": "X0237-m14",
+      "date": "2026-05-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine check‑up.\nPRESENTING COMPLAINT: Patient feels well, sleeps 6‑7 hours, mood good, no side‑effects from statin.\nEXAMINATION: BP 128/78 mmHg, weight 75.2 kg, BMI 25.9 (overweight).\nIMPRESSION: Statin tolerated, lipids improved. Insomnia mild, depression in remission.\nARRANGEMENTS: Continue current regimen. Encourage Mediterranean diet, aim weight <73 kg. Return if new dyspnoea, chest pain, unexplained weakness, fever >39°C, or bleeding."
+    },
+    {
+      "memory_id": "X0237-m15",
+      "date": "2026-05-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Atorvastatin 10 mg PO HS\nMelatonin 3 mg PO HS\nTrazodone 50 mg PO HS\nSertraline 75 mg PO OD"
+    },
+    {
+      "memory_id": "X0237-m16",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original 10‑Aug‑2026 moved to 10‑Aug‑2026 at 14:00 due to doctor’s schedule. Patient confirmed."
+    },
+    {
+      "memory_id": "X0237-m17",
+      "date": "2026-08-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up after appointment change.\nPRESENTING COMPLAINT: Patient reports occasional early‑morning awakening, feels rested. Mood stable, denies anxiety.\nEXAMINATION: BP 126/78 mmHg, weight 74.8 kg, BMI 25.8 (overweight).\nIMPRESSION: Insomnia occasional; depression stable. Labs within target.\nARRANGEMENTS: Consider tapering trazodone to 25 mg HS if night waking persists; otherwise continue. Review sleep hygiene. Return if worsening insomnia, new depressive thoughts, chest pain, palpitations, fever >39°C, or bleeding."
+    },
+    {
+      "memory_id": "X0237-m18",
+      "date": "2026-08-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg PO HS\nTrazodone 25 mg PO HS\nSertraline 75 mg PO OD\nAtorvastatin 10 mg PO HS"
+    }
+  ]
+}

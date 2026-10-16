@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0236",
+  "name": "Smita Phadke",
+  "age": 70,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Chronic kidney disease",
+    "Coronary artery disease",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0236-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks unaided.\ncognition: Mini-Cog score 3/5, no concerns.\nfalls: No falls in past 12 months, gait normal, TUG 10 s.\nmedicines: 10 regular. Polypharmacy – review against Beers criteria.\nmood: Reports occasional headaches, denies depression.\ncarers: Daughter, Priya, provides weekly support.\ngoals: \"Stay active and continue teaching lectures.\""
+    },
+    {
+      "memory_id": "X0236-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.2 mg/dL (ref 0.6-1.2); eGFR 55 mL/min/1.73m2 (ref >60); Urine ACR 30 mg/g (ref <30); Haemoglobin 12.8 g/dL (ref 12-16)."
+    },
+    {
+      "memory_id": "X0236-m03",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\nfurosemide 20 mg OD\naspirin 75 mg OD\natorvastatin 40 mg HS\nmetoprolol succinate 25 MG OD\nisosorbide mononitrate 20 mg OD\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS\nsodium bicarbonate 500 mg BD"
+    },
+    {
+      "memory_id": "X0236-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Mild fatigue after climbing stairs, otherwise independent.\ncognition: Mini-Cog score 4/5, stable.\nfalls: No falls, gait slightly slow, TUG 11 s.\nmedicines: 9 regular (stopped naproxen SOS). Polypharmacy – review against Beers criteria.\nmood: Reports low mood occasional, denies anhedonia.\ncarers: Daughter, Priya, helps with grocery.\ngoals: \"Maintain energy to lecture twice weekly.\""
+    },
+    {
+      "memory_id": "X0236-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.3 mg/dL (ref 0.6-1.2); eGFR 50 mL/min/1.73m2 (ref >60); Urine ACR 35 mg/g (ref <30); Haemoglobin 12.4 g/dL (ref 12-16); LDL 92 mg/dL (ref <100)."
+    },
+    {
+      "memory_id": "X0236-m06",
+      "date": "2025-07-14",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\ndapagliflozin 10 mg OD\nfurosemide 20 mg OD\naspirin 75 mg OD\natorvastatin 40 mg HS\nmetoprolol succinate 25 MG OD\nisosorbide mononitrate 20 mg OD\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nsodium bicarbonate 500 mg BD"
+    },
+    {
+      "memory_id": "X0236-m07",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked review appointment for 2025-10-08 at 10:00 with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0236-m08",
+      "date": "2025-10-08",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages household chores, reports mild dyspnea on exertion.\ncognition: Mini-Cog score 3/5, unchanged.\nfalls: One fall at home 2 months ago (no injury), gait unsteady, TUG 13 s – raised fall risk; advise exercise and supportive footwear.\nmedicines: 9 regular. Polypharmacy – review against Beers criteria.\nmood: Feels anxious about falling, denies depression.\ncarers: Daughter, Priya, now stays overnight twice weekly.\ngoals: \"Prevent further falls and stay independent.\""
+    },
+    {
+      "memory_id": "X0236-m09",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 88 mg/dL (ref <100), HDL 48 mg/dL (ref >40), triglycerides 150 mg/dL (ref <150)."
+    },
+    {
+      "memory_id": "X0236-m10",
+      "date": "2026-01-12",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports good energy, walks 30 min daily.\ncognition: Mini-Cog score 4/5, stable.\nfalls: No new falls, gait improved, TUG 10 s.\nmedicines: 8 regular (stopped isosorbide mononitrate). Polypharmacy – review against Beers criteria.\nmood: Mood stable, enjoys teaching.\ncarers: Daughter, Priya, weekly phone check.\ngoals: \"Continue teaching and travel to conferences.\""
+    },
+    {
+      "memory_id": "X0236-m11",
+      "date": "2026-01-14",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: Sinus rhythm, rate 76, no ST-T changes, left ventricular voltage within normal limits."
+    },
+    {
+      "memory_id": "X0236-m12",
+      "date": "2026-01-16",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\ndapagliflozin 10 mg OD\nfurosemide 20 mg OD\naspirin 75 mg OD\natorvastatin 40 mg HS\nmetoprolol succinate 25 MG OD\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nsodium bicarbonate 500 mg BD"
+    },
+    {
+      "memory_id": "X0236-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent, reports occasional knee discomfort.\ncognition: Mini-Cog score 2/5 – positive screen; plan for full MoCA assessment.\nfalls: No falls, gait normal, TUG 9 s.\nmedicines: 7 regular. Polypharmacy – review against Beers criteria.\nmood: Reports mild irritability, denies depression.\ncarers: Daughter, Priya, assists with medication box.\ngoals: \"Maintain mental sharpness for lectures.\""
+    },
+    {
+      "memory_id": "X0236-m14",
+      "date": "2026-04-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.25 mg/dL (ref 0.6-1.2); eGFR 53 mL/min/1.73m2 (ref >60); Urine ACR 28 mg/g (ref <30); Haemoglobin 13.0 g/dL (ref 12-16); Potassium 4.4 mmol/L (ref 3.5-5.0)."
+    },
+    {
+      "memory_id": "X0236-m15",
+      "date": "2026-08-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Changed appointment from 2026-09-05 to 2026-09-02 at 14:30 with Dr Nandini Kulkarni (D06) per patient request."
+    }
+  ]
+}

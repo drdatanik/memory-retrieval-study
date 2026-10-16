@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0038",
+  "name": "Thangam Subramanian",
+  "age": 75,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Heart failure with reduced ejection fraction"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0038-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Heart failure with reduced ejection fraction\n  - Status: NYHA II, weight 68 kg, waist 85 cm (>80 cm cutoff for women), bibasial crackles, SBP 118 mmHg\n  - Plan: Continue sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD, furosemide 40 mg OD, dapagliflozin 10 mg OD; limit fluids 1.5 L/day, low‑salt diet; daily weight\n- Diet advice\n  - Breakfast: Idli with sambar, avoid pickle\n  - Lunch: Wheat roti, dal, vegetable curry, no papad\n  - Dinner: Light khichdi, curd, avoid fried snacks\n- Due: HbA1c 2025-07-05 (repeat every 3 months while on dapagliflozin)"
+    },
+    {
+      "memory_id": "X0038-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg OD\nFurosemide 40 mg OD\nDapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0038-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.2% (ref 4.0-5.6)\nSerum potassium 4.6 mmol/L (3.5-5.0)\nSerum creatinine 102 µmol/L (60-110)\nNT‑proBNP 845 pg/mL (<400)\nLipids: LDL 2.8 mmol/L (<2.6), HDL 1.2 mmol/L (>1.0), TG 1.6 mmol/L (<1.7)"
+    },
+    {
+      "memory_id": "X0038-m04",
+      "date": "2025-04-06",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Echocardiogram: LVEF 38% (mild‑moderately reduced), LV end‑diastolic diameter 5.6 cm, mild mitral regurgitation, NYHA class II, no significant valvular stenosis."
+    },
+    {
+      "memory_id": "X0038-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Heart failure with reduced ejection fraction\n  - Status: Weight 66 kg, waist 82 cm (>80), no orthopnea, mild fatigue, BP 116/70, K+ 4.8, creatinine 108\n  - Plan: Increase furosemide to 60 mg OD to control mild fluid retention; continue other meds; advise low‑salt diet, daily weight\n- Diet advice\n  - Breakfast: Poha with peas, no sev\n  - Lunch: Bajra roti, sambar, steamed veg, limit papad\n  - Dinner: Rice‑lentil porridge, curd, avoid fried\n- Due: HbA1c 2025-10-10"
+    },
+    {
+      "memory_id": "X0038-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg OD\nFurosemide 60 mg OD\nDapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0038-m07",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.0% (ref 4.0-5.6)\nSerum potassium 4.8 mmol/L (3.5-5.0)\nSerum creatinine 108 µmol/L (60-110)\nNT‑proBNP 720 pg/mL (<400)"
+    },
+    {
+      "memory_id": "X0038-m08",
+      "date": "2025-09-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-09-21 at 10:30 AM with Dr Karthik Hegde (D04) for heart failure review."
+    },
+    {
+      "memory_id": "X0038-m09",
+      "date": "2025-09-21",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Heart failure with reduced ejection fraction\n  - Status: Weight 65 kg, waist 80 cm (at cutoff), no dyspnea on mild exertion, BP 118/72, JVP not elevated\n  - Plan: Maintain current doses; add spironolactone 25 mg BD if potassium stays ≤5.0; continue lifestyle\n- Diet advice\n  - Breakfast: Upma with veg, no cashew\n  - Lunch: Wheat roti, dal, bottle gourd curd, avoid papad\n  - Dinner: Vegetable khichdi, curd, avoid fried\n- Due: HbA1c 2025-12-21"
+    },
+    {
+      "memory_id": "X0038-m10",
+      "date": "2025-09-21",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg BD\nFurosemide 60 mg OD\nDapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0038-m11",
+      "date": "2025-12-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.9% (ref 4.0-5.6)\nSerum potassium 5.0 mmol/L (3.5-5.0)\nSerum creatinine 110 µmol/L (60-110)\nNT‑proBNP 610 pg/mL (<400)\nLipids: LDL 2.4 mmol/L (<2.6), HDL 1.3 mmol/L (>1.0), TG 1.5 mmol/L (<1.7)"
+    },
+    {
+      "memory_id": "X0038-m12",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Heart failure with reduced ejection fraction\n  - Status: Weight 64 kg, waist 78 cm (<80), NYHA I, BP 120/74, no edema, labs stable\n  - Plan: Continue current regimen; consider tapering furosemide to 40 mg OD if weight remains stable; reinforce salt restriction\n- Diet advice\n  - Breakfast: Ragi dosa with coconut chutney, limit salt\n  - Lunch: Jowar roti, dal, mixed veg, avoid papad\n  - Dinner: Lentil soup, steamed rice, curd, avoid fried\n- Due: HbA1c 2026-07-10"
+    },
+    {
+      "memory_id": "X0038-m13",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Sacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg BD\nFurosemide 40 mg OD\nDapagliflozin 10 mg OD"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0228",
+  "name": "Debashish Bose",
+  "age": 88,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Epilepsy",
+    "Dyslipidaemia",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0228-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks unaided, continues college lecturing, no assistance needed.\ncognition: Mini-Cog score 4/5, recall intact, clock drawing normal; no cognitive concerns.\nfalls: No falls in past 12 months, gait steady, timed up-and-go 10 seconds; fall risk normal.\nmedicines: 8 regular medicines (levetiracetam, lamotrigine, atorvastatin, rosuvastatin, fenofibrate, salbutamol, budesonide-formoterol, montelukast); polypharmacy – please review against Beers criteria.\nmood: Reports good mood, enjoys teaching, denies sadness or anxiety.\ncarers: Priya, daughter.\ngoals: \"I want to stay independent and keep teaching my classes.\""
+    },
+    {
+      "memory_id": "X0228-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 2.9 mmol/L (ref <2.6), HDL 1.2 mmol/L (ref >1.0), Triglycerides 1.8 mmol/L (ref <1.7).\nLiver function: ALT 28 U/L (ref 7-56), AST 24 U/L (ref 8-48).\nCreatine kinase: 210 U/L (ref 30-200) – slightly elevated.\nSerum sodium: 138 mmol/L (ref 135-145).\nSerum creatinine: 92 µmol/L (ref 62-106)."
+    },
+    {
+      "memory_id": "X0228-m03",
+      "date": "2025-04-08",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 500 mg twice daily\nlamotrigine 50 mg twice daily\natorvastatin 10 mg at night\nrosuvastatin 10 mg once daily\nfenofibrate 145 mg once daily\nsalbutamol metered-dose inhaler as needed\nbudesonide-formoterol 200/6 µg inhaler twice daily\nmontelukast 10 mg at night"
+    },
+    {
+      "memory_id": "X0228-m04",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling well overall. Occasional mild wheeze after climbing stairs, relieved by salbutamol. No seizures recently. Appetite good, sleep uninterrupted."
+    },
+    {
+      "memory_id": "X0228-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent, manages household chores, lectures twice weekly; uses walking stick occasionally for long walks.\ncognition: No formal Mini-Cog this visit (annual done earlier); remains alert, recalls recent events.\nfalls: One fall in last 12 months (tripped on rug, no injury); gait slightly unsteady, timed up-and-go 13 seconds – raised fall risk; advise strength training and supportive footwear.\nmedicines: 8 regular medicines (levetiracetam, lamotrigine, atorvastatin, rosuvastatin, fenofibrate, salbutamol, budesonide-formoterol, montelukast); polypharmacy – review against Beers criteria.\nmood: Mood stable, enjoys teaching, denies depressive symptoms.\ncarers: Priya, daughter.\ngoals: \"I want to keep walking safely and continue my lectures without fear of falling.\""
+    },
+    {
+      "memory_id": "X0228-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 2.6 mmol/L (ref <2.6), HDL 1.3 mmol/L (ref >1.0), Triglycerides 1.6 mmol/L (ref <1.7).\nLiver function: ALT 30 U/L (ref 7-56), AST 26 U/L (ref 8-48).\nCreatine kinase: 340 U/L (ref 30-200) – markedly elevated.\nSerum sodium: 136 mmol/L (ref 135-145).\nSerum creatinine: 95 µmol/L (ref 62-106)."
+    },
+    {
+      "memory_id": "X0228-m07",
+      "date": "2025-07-13",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 500 mg twice daily\nlamotrigine 50 mg twice daily\natorvastatin 5 mg at night\nrosuvastatin 10 mg once daily\nfenofibrate – stopped\nsalbutamol metered-dose inhaler as needed\nbudesonide-formoterol 200/6 µg inhaler twice daily\nmontelukast 10 mg at night"
+    },
+    {
+      "memory_id": "X0228-m08",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Spirometry with reversibility: FEV1 1.85 L (68% predicted), FVC 2.40 L (78% predicted), FEV1/FVC 77%; post-bronchodilator FEV1 2.05 L (75% predicted) – 12% improvement, consistent with asthma. No significant obstruction."
+    },
+    {
+      "memory_id": "X0228-m09",
+      "date": "2025-07-20",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Pulmonology, Dr S. Rao, for asthma review and optimisation of inhaler therapy. Include recent spirometry and Asthma Control Test score."
+    },
+    {
+      "memory_id": "X0228-m10",
+      "date": "2025-08-05",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Pulmonology review: Asthma well-controlled on current budesonide-formoterol and montelukast; continue salbutamol SOS. No change advised. Annual influenza vaccination recommended."
+    },
+    {
+      "memory_id": "X0228-m11",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in daily activities, manages garden, lectures three times weekly; uses walking stick for longer distances only.\ncognition: Mini-Cog score 3/5 (recall 2/3, clock drawing abnormal) – positive screen; arrange detailed cognitive assessment.\nfalls: No falls in past 6 months; gait steady, timed up-and-go 11 seconds – borderline; encourage balance exercises and check footwear.\nmedicines: 7 regular medicines (levetiracetam, lamotrigine, atorvastatin, rosuvastatin, salbutamol, budesonide-formoterol, montelukast); polypharmacy – review against Beers criteria.\nmood: Mood good, enjoys teaching, denies anxiety.\ncarers: Priya, daughter.\ngoals: \"I want to stay sharp enough to keep preparing my lectures and stay active.\""
+    },
+    {
+      "memory_id": "X0228-m12",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 134 mmol/L (ref 135-145) – low.\nSerum creatinine: 98 µmol/L (ref 62-106).\nFasting lipid profile: LDL 2.5 mmol/L (ref <2.6), HDL 1.2 mmol/L (ref >1.0), Triglycerides 1.7 mmol/L (ref <1.7).\nLiver function: ALT 27 U/L (ref 7-56), AST 23 U/L (ref 8-48).\nCreatine kinase: 190 U/L (ref 30-200) – normal."
+    },
+    {
+      "memory_id": "X0228-m13",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levetiracetam 750 mg twice daily\nlamotrigine 50 mg twice daily\natorvastatin 5 mg at night\nrosuvastatin 10 mg once daily\nsalbutamol metered-dose inhaler as needed\nbudesonide-formoterol 200/6 µg inhaler twice daily\nmontelukast 10 mg at night"
+    },
+    {
+      "memory_id": "X0228-m14",
+      "date": "2026-01-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-15 at 10:30 with Dr Nandini Kulkarni (D06) for routine geriatric review."
+    },
+    {
+      "memory_id": "X0228-m15",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent, manages personal care, prepares lectures, walks unaided for short distances; uses cane for longer walks.\ncognition: No Mini-Cog this visit (annual done Oct 2025); remains alert, recalls recent events.\nfalls: No falls in past 12 months; gait steady, timed up-and-go 10 seconds – normal fall risk.\nmedicines: 7 regular medicines (levetiracetam, lamotrigine, atorvastatin, rosuvastatin, salbutamol, budesonide-formoterol, montelukast); polypharmacy – review against Beers criteria.\nmood: Mood stable, enjoys teaching, denies depressive symptoms.\ncarers: Priya, daughter.\ngoals: \"I want to continue teaching and stay mobile without assistance.\""
+    },
+    {
+      "memory_id": "X0228-m16",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 136 mmol/L (ref 135-145).\nSerum creatinine: 94 µmol/L (ref 62-106).\nFasting lipid profile: LDL 2.4 mmol/L (ref <2.6), HDL 1.3 mmol/L (ref >1.0), Triglycerides 1.5 mmol/L (ref <1.7).\nLiver function: ALT 26 U/L (ref 7-56), AST 22 U/L (ref 8-48).\nCreatine kinase: 175 U/L (ref 30-200)."
+    },
+    {
+      "memory_id": "X0228-m17",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Fully independent in ADLs, tends garden, lectures twice weekly; walks without aid.\ncognition: Mini-Cog score 4/5 (recall 3/3, clock drawing normal) – negative screen; cognition stable.\nfalls: No falls in past 12 months; gait normal, timed up-and-go 9 seconds – low fall risk.\nmedicines: 7 regular medicines (levetiracetam, lamotrigine, atorvastatin, rosuvastatin, salbutamol, budesonide-formoterol, montelukast); polypharmacy – review against Beers criteria.\nmood: Mood good, enjoys teaching, denies anxiety or depression.\ncarers: Priya, daughter.\ngoals: \"I want to keep enjoying my classes and time with my family.\""
+    }
+  ]
+}

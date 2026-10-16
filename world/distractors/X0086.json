@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0086",
+  "name": "Sarita Gupta",
+  "age": 51,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Obesity",
+    "Non-alcoholic fatty liver disease",
+    "Polycystic ovary syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0086-m01",
+      "date": "2025-04-03",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for initial endocrinology consultation with Dr Karthik Hegde on 2025-04-05 at 09:30. Patient to bring recent weight and waist measurements."
+    },
+    {
+      "memory_id": "X0086-m02",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity: BMI 34.2, waist 102 cm (>90 cm male cut-off, female 80 cm). Status: ongoing. Plan: continue orlistat 120 mg with each main meal, advise low-calorie diet, increase walking to 30 mins daily.\n- NAFLD: ALT 48 U/L, AST 44 U/L. Status: mild hepatosteatosis. Plan: continue silymarin 140 mg TDS, rosuvastatin 5 mg OD, repeat LFT in 3 months.\n- PCOS: hirsutism, irregular menses. Status: ongoing. Plan: start metformin 500 mg BD, combined oral contraceptive pill OD, check testosterone and LH:FSH.\nDue: HbA1c review 2025-07-05."
+    },
+    {
+      "memory_id": "X0086-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Orlistat 120 mg – take with breakfast, lunch and dinner (1-1-1).\nSilymarin 140 mg – take morning, afternoon, night (1-1-1).\nRosuvastatin 5 mg – take once daily in the morning (1-0-0).\nMetformin 500 mg – take twice daily, morning and night (1-0-1).\nCombined oral contraceptive pill – take once daily (1-0-0)."
+    },
+    {
+      "memory_id": "X0086-m04",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 112 mg/dL (70-100).\nHbA1c 6.4% (4.0-5.6).\nLipid profile: Total cholesterol 210 mg/dL (<200), LDL 130 mg/dL (<100), HDL 48 mg/dL (>40), TG 165 mg/dL (<150).\nLiver function: ALT 48 U/L (<40), AST 44 U/L (<40), ALP 88 U/L (40-129), GGT 32 U/L (<51), Bilirubin 0.9 mg/dL (0.2-1.2).\nPlatelet count 225 x10^9/L (150-400).\nSerum testosterone 48 ng/dL (15-46).\nLH 8.2 mIU/mL, FSH 5.6 mIU/mL, LH:FSH ratio 1.46.\nWaist circumference 102 cm."
+    },
+    {
+      "memory_id": "X0086-m05",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: hepatic steatosis grade I, normal spleen, kidneys, no focal lesion.\nPelvic ultrasound: bilateral ovaries enlarged with multiple peripheral follicles, endometrial thickness 6 mm, no ovarian cyst >3 cm.\nImpression: NAFLD grade I, PCOS with polycystic ovarian morphology."
+    },
+    {
+      "memory_id": "X0086-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity: weight 89 kg (down 2 kg), waist 99 cm. Status: improving. Plan: continue orlistat, reinforce portion control, add resistance training twice weekly.\n- NAFLD: ALT 42 U/L, AST 38 U/L. Status: biochemical improvement. Plan: continue silymarin and rosuvastatin, repeat LFT in 3 months.\n- PCOS: menses regular for past 2 cycles, less facial hair. Status: improving. Plan: continue metformin 500 mg BD and OC pill, consider testosterone recheck.\nDue: HbA1c review 2025-10-10."
+    },
+    {
+      "memory_id": "X0086-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 106 mg/dL.\nHbA1c 6.1%.\nLipid profile: Total cholesterol 198 mg/dL, LDL 118 mg/dL, HDL 50 mg/dL, TG 148 mg/dL.\nLiver function: ALT 42 U/L, AST 38 U/L, ALP 85 U/L, GGT 30 U/L, Bilirubin 0.8 mg/dL.\nPlatelet count 228 x10^9/L."
+    },
+    {
+      "memory_id": "X0086-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Orlistat 120 mg – with breakfast, lunch, dinner (1-1-1).\nSilymarin 140 mg – morning, afternoon, night (1-1-1).\nRosuvastatin 5 mg – morning (1-0-0).\nMetformin 500 mg – morning and night (1-0-1).\nCombined oral contraceptive pill – daily (1-0-0)."
+    },
+    {
+      "memory_id": "X0086-m09",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity: weight 88 kg, waist 97 cm. Status: steady. Plan: continue orlistat, advise Mediterranean diet, aim for 150 mins/week aerobic.\n- NAFLD: ALT 40 U/L, AST 36 U/L. Status: near normal. Plan: continue silymarin and rosuvastatin, annual lipid profile.\n- PCOS: menses regular, mild acne. Status: stable. Plan: increase metformin to 850 mg BD for better glycaemic control, continue OC pill.\nDue: HbA1c review 2026-01-15."
+    },
+    {
+      "memory_id": "X0086-m10",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 108 mg/dL.\nHbA1c 6.2%.\nLipid profile: Total cholesterol 202 mg/dL, LDL 122 mg/dL, HDL 49 mg/dL, TG 152 mg/dL.\nLiver function: ALT 40 U/L, AST 36 U/L.\nSerum testosterone 46 ng/dL (slightly elevated).\nLH 7.9 mIU/mL, FSH 5.8 mIU/mL, ratio 1.36.\nWaist circumference 97 cm."
+    },
+    {
+      "memory_id": "X0086-m11",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity: weight 87.5 kg, waist 95 cm. Status: gradual loss. Plan: continue orlistat, add weekly dietitian review.\n- NAFLD: ALT 38 U/L, AST 34 U/L. Status: normal range. Plan: continue silymarin, consider tapering rosuvastatin if LDL <100.\n- PCOS: menses regular, less oily skin. Status: improved. Plan: continue metformin 850 mg BD, OC pill, monitor for side effects.\nDue: HbA1c review 2026-04-20."
+    },
+    {
+      "memory_id": "X0086-m12",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Orlistat 120 mg – with breakfast, lunch, dinner (1-1-1).\nSilymarin 140 mg – morning, afternoon, night (1-1-1).\nRosuvastatin 5 mg – morning (1-0-0).\nMetformin 850 mg – morning and night (1-0-1).\nCombined oral contraceptive pill – daily (1-0-0)."
+    },
+    {
+      "memory_id": "X0086-m13",
+      "date": "2026-04-25",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling more energetic and my periods are regular. No nausea from orlistat. I take my medicines as prescribed. I walk 30 minutes most days."
+    },
+    {
+      "memory_id": "X0086-m14",
+      "date": "2026-07-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity: weight 86 kg, waist 93 cm. Status: continuing slow loss. Plan: maintain orlistat, encourage strength training.\n- NAFLD: ALT 36 U/L, AST 33 U/L. Status: normal. Plan: continue silymarin, consider stopping rosuvastatin if LDL remains <100.\n- PCOS: menses regular, minimal acne. Status: well controlled. Plan: continue metformin 850 mg BD, OC pill.\nDue: HbA1c review 2026-10-30."
+    },
+    {
+      "memory_id": "X0086-m15",
+      "date": "2026-07-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 104 mg/dL.\nHbA1c 6.0%.\nLipid profile: Total cholesterol 195 mg/dL, LDL 110 mg/dL, HDL 52 mg/dL, TG 140 mg/dL.\nLiver function: ALT 36 U/L, AST 33 U/L.\nPlatelet count 230 x10^9/L."
+    }
+  ]
+}

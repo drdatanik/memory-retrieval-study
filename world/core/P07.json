@@ -1,0 +1,111 @@
+{
+  "patient_id": "P07",
+  "name": "Meera Pillai",
+  "age": 38,
+  "sex": "F",
+  "primary_doctor": "D01",
+  "conditions": [
+    "Migraine",
+    "Iron-deficiency anaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "P07-m01",
+      "date": "2025-07-08",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o migraine, attacks ongoing, no preventive yet. c/o tiredness x 4 months, breathless on climbing 2 flights of stairs, occasional giddiness on standing. No GI bleeding reported.\nO: BP 110/70 mmHg, pulse 96/min, wt 58 kg. O/E: pallor +. CVS and RS NAD.\nA: 1. Iron-deficiency anaemia, Hb 9.8 g/dL, ferritin 7 ng/mL. 2. Migraine.\nP: 1. Start ferrous sulfate 200 mg OD after lunch. 2. Iron-rich diet: dates, ragi, green leafy vegetables, dal. 3. Repeat Hb and ferritin in 6 months.\nAdv: Take the iron tablet with a vitamin C fruit or lemon water; keep tea and coffee at least 1 hour away from the tablet; walk 30 min daily. R/V in 3 months."
+    },
+    {
+      "memory_id": "P07-m02",
+      "date": "2025-07-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: Haemoglobin 9.8 g/dL (reference 12.0-15.5 g/dL). MCV 71 fL (reference 80-100 fL). Serum ferritin 7 ng/mL (reference 15-150 ng/mL). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P07-m03",
+      "date": "2025-07-08",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: START ferrous sulfate 200 mg OD, after lunch, for iron-deficiency anaemia. Effective 2025-07-08. Review with Hb after 3 to 6 months."
+    },
+    {
+      "memory_id": "P07-m04",
+      "date": "2025-10-14",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: On ferrous sulfate for 3 months, taking after lunch. Mild constipation, no other side effects. Migraine attacks continue; no preventive yet. Coffee 3 cups/day.\nO: BP 118/76 mmHg, pulse 80/min, wt 59 kg. O/E: pallor mild. CVS and RS NAD.\nA: 1. Iron-deficiency anaemia, responding to iron, Hb 11.2 g/dL. 2. Migraine, frequent attacks.\nP: 1. Cont ferrous sulfate 200 mg OD. 2. Fibre and fluids for constipation. 3. Migraine diary started; bring it to the next visit. 4. Repeat Hb and ferritin in 6 months.\nAdv: Keep tea and coffee away from the iron tablet, cut caffeine, walk 30 min 5 days a week. R/V in 4 months."
+    },
+    {
+      "memory_id": "P07-m05",
+      "date": "2025-10-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: Haemoglobin 11.2 g/dL (reference 12.0-15.5 g/dL). MCV 77 fL (reference 80-100 fL). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P07-m06",
+      "date": "2026-02-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2026-02-10: 'Doctor, my migraines have become much more frequent. I am getting about 8 attacks a month now, most lasting half a day. I am a software engineer and I am sure long screen time sets off my migraines. I also have about 3 cups of coffee every day. Could these be the triggers?'"
+    },
+    {
+      "memory_id": "P07-m07",
+      "date": "2026-02-17",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o migraine, about 8 attacks/month, throbbing, 6 to 12 h, photophobia during attacks. Screen time 10 to 12 h/day; coffee 3 cups/day. Iron tablets continuing.\nO: BP 116/74 mmHg, pulse 68/min, wt 58 kg. Neuro exam: no focal deficit.\nA: 1. Migraine, frequent, needs prevention. 2. Possible triggers: screen time, caffeine.\nP: 1. Start propranolol (Inderal) 40 mg OD, once daily in the morning, for prevention. 2. Sumatriptan (Imitrex) 50 mg SOS at onset of an attack. 3. Cut coffee to 1 cup/day over 2 weeks. 4. 20-20-20 screen breaks; regular sleep and meal times.\nAdv: Walk 30 min 5 days a week, drink water through the day, do not skip meals. R/V in 3 months."
+    },
+    {
+      "memory_id": "P07-m08",
+      "date": "2026-02-17",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: START propranolol (Inderal) 40 mg OD, once daily in the morning, for migraine prevention. Effective 2026-02-17. Review in 3 months with the migraine count."
+    },
+    {
+      "memory_id": "P07-m09",
+      "date": "2026-02-17",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: START sumatriptan (Imitrex) 50 mg SOS for acute migraine attacks, taken at onset. Not more than 2 doses in 24 hours. Effective 2026-02-17."
+    },
+    {
+      "memory_id": "P07-m10",
+      "date": "2026-03-24",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2026-03-24: 'Doctor, the propranolol is helping. Migraines are down to about 5 a month and they feel less severe. Can I still have my morning coffee, or should I cut it out fully?'"
+    },
+    {
+      "memory_id": "P07-m11",
+      "date": "2026-05-12",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Feels much better. Migraines now 4 to 5 a month, less severe. Iron tablets taken daily since 2025-07-08, no side effects now; constipation resolved. Coffee down to 1 to 2 cups/day.\nO: BP 112/72 mmHg, pulse 64/min, wt 60 kg. O/E: pallor absent. CVS and RS NAD.\nA: 1. Iron-deficiency anaemia, resolved: Hb 12.6 g/dL, ferritin 48 ng/mL. 2. Migraine, improving on propranolol.\nP: 1. STOP ferrous sulfate 200 mg OD; iron course complete. 2. Cont propranolol (Inderal) 40 mg OD. 3. Cont sumatriptan (Imitrex) 50 mg SOS. 4. Keep the migraine diary.\nAdv: Balanced diet with iron-rich foods to maintain stores; reduce screen time; limit caffeine to 1 cup/day. R/V in 6 weeks."
+    },
+    {
+      "memory_id": "P07-m12",
+      "date": "2026-05-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: Haemoglobin 12.6 g/dL (reference 12.0-15.5 g/dL). Serum ferritin 48 ng/mL (reference 15-150 ng/mL). MCV 84 fL (reference 80-100 fL). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P07-m13",
+      "date": "2026-05-12",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: STOP ferrous sulfate 200 mg OD. Stopped 2026-05-12 because Hb is 12.6 g/dL and ferritin is 48 ng/mL. Do not refill. No other change to her medicines."
+    },
+    {
+      "memory_id": "P07-m14",
+      "date": "2026-06-23",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Migraines down to about 3 a month, from 8 a month before propranolol. Attacks shorter and milder. Sumatriptan used twice this month. Off iron since 2026-05-12, no tiredness now. Coffee 1 cup/day. Taking screen breaks.\nO: BP 114/74 mmHg, pulse 66/min, wt 60 kg. O/E: pallor absent. Neuro exam normal.\nA: 1. Migraine, good response to propranolol. 2. Iron-deficiency anaemia, resolved after iron.\nP: 1. Cont propranolol (Inderal) 40 mg OD. 2. Cont sumatriptan (Imitrex) 50 mg SOS. 3. No iron. Repeat Hb if symptoms recur.\nAdv: Keep screen breaks, regular sleep, water through the day, caffeine at 1 cup. R/V in 6 months."
+    }
+  ]
+}

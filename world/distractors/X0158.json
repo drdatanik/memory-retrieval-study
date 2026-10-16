@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0158",
+  "name": "Harpal Sandhu",
+  "age": 18,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Gastro-oesophageal reflux",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0158-m01",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I have burning sensation in chest after meals, especially after spicy food, and I feel tired and have muscle aches in my legs. I drive a cab and often eat irregularly. I also notice occasional sour taste in mouth.\""
+    },
+    {
+      "memory_id": "X0158-m02",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro-oesophageal reflux: Status: symptomatic with heartburn after meals. Plan: Pantoprazole 40 mg OD before breakfast, Domperidone 10 mg BD before meals, Antacid gel SOS, lifestyle advice: small frequent meals, avoid lying down within 2h after food, elevate head of bed.\n- Vitamin D deficiency: Status: symptomatic fatigue, muscle aches. Plan: Cholecalciferol 60000 IU once weekly for 8 weeks, then reassess; advise sunlight exposure and calcium-rich diet.\n- Weight: 68 kg, Waist: 88 cm (male cutoff 90 cm). Advice: balanced diet, regular walks.\nDue: HbA1c not indicated as no glucose-lowering therapy."
+    },
+    {
+      "memory_id": "X0158-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nAntacid gel SOS\nCholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD"
+    },
+    {
+      "memory_id": "X0158-m04",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 12 ng/mL (ref 20-50)\nSerum calcium: 9.1 mg/dL (ref 8.5-10.5)\nSerum phosphate: 2.4 mg/dL (ref 2.5-4.5)\nH. pylori stool antigen: Negative"
+    },
+    {
+      "memory_id": "X0158-m05",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro-oesophageal reflux: Status: improved, occasional mild heartburn after large meals. Plan: Continue pantoprazole 40 mg OD, domperidone 10 mg BD, antacid SOS; advise meal timing.\n- Vitamin D deficiency: Status: still insufficient, fatigue less. Plan: Continue cholecalciferol 60000 IU weekly for another 4 weeks, then switch to 2000 IU OD; recheck level in 3 months.\n- Weight: 67 kg, Waist: 86 cm.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0158-m06",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nAntacid gel SOS\nCholecalciferol 60000 IU once weekly for 4 more weeks, then 2000 IU OD"
+    },
+    {
+      "memory_id": "X0158-m07",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 28 ng/mL (ref 20-50)\nSerum calcium: 9.3 mg/dL (ref 8.5-10.5)\nSerum phosphate: 3.0 mg/dL (ref 2.5-4.5)\nH. pylori stool antigen: Negative (repeat)"
+    },
+    {
+      "memory_id": "X0158-m08",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro-oesophageal reflux: Status: well controlled, no heartburn for past 4 weeks. Plan: Taper pantoprazole to 20 mg OD before breakfast, keep domperidone as needed, antacid SOS; continue lifestyle measures.\n- Vitamin D deficiency: Status: replete. Plan: Switch to cholecalciferol 1000 IU OD maintenance; advise periodic sunlight.\n- Weight: 66 kg, Waist: 84 cm.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0158-m09",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 20 mg OD before breakfast\nDomperidone 10 mg BD before meals (as needed)\nAntacid gel SOS\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0158-m10",
+      "date": "2026-02-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-02-20 at 10:00 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0158-m11",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro-oesophageal reflux: Status: mild occasional retrosternal discomfort after heavy meals, relieved by antacid. Plan: Continue pantoprazole 20 mg OD, add alginate syrup 10 mL after meals SOS, review in 3 months.\n- Vitamin D deficiency: Status: maintained on 1000 IU OD, asymptomatic. Plan: Continue same dose, recheck level in 6 months.\n- Weight: 65 kg, Waist: 82 cm.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0158-m12",
+      "date": "2026-02-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 20 mg OD before breakfast\nAlginate syrup 10 mL after meals SOS\nCholecalciferol 1000 IU OD"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0322",
+  "name": "Padma Shetty",
+  "age": 79,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Psoriasis",
+    "Epilepsy",
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0322-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Psoriasis: Status - plaques on elbows and knees, mild itch. Plan - continue clobetasol 0.05% cream BD, calcipotriol ointment OD, methotrexate 7.5 mg weekly with folic acid 5 mg OD; review LFT in 6 weeks.\nEpilepsy: Status - seizure-free on levetiracetam 500 mg BD, lamotrigine 50 mg BD. Plan - maintain current regimen; check serum sodium if symptoms.\nNAFLD: Status - asymptomatic, BMI 27. Plan - silymarin 140 mg TDS, rosuvastatin 5 mg OD; repeat LFT and lipid profile in 3 months.\nWeight 68 kg, waist 84 cm (female cutoff 80 cm) – central obesity.\nDiet advice: Breakfast - idli with sambar, limited oil; Lunch - vegetable curry with roti, small portion rice; Dinner - steamed vegetables, avoid fried snacks.\nDue: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0322-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "clobetasol 0.05% cream apply BD to affected areas\ncalcipotriol ointment apply OD to plaques\nmethotrexate 7.5 mg take once weekly on Monday\nfolic acid 5 mg take OD\nlevetiracetam 500 mg take BD\nlamotrigine 50 mg take BD\nsilymarin 140 mg take TDS\nrosuvastatin 5 mg take OD"
+    },
+    {
+      "memory_id": "X0322-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 38 U/L (≤41), AST 34 U/L (≤40)\nCBC: Hb 12.8 g/L (12-16), WBC 6.2 x10^9/L (4-10), Platelets 210 x10^9/L (150-400)\nSerum creatinine: 0.9 mg/dL (0.6-1.1)\nAll within normal limits."
+    },
+    {
+      "memory_id": "X0322-m04",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: Background activity normal for age. No epileptiform discharges or slowing seen. No evidence of seizure focus."
+    },
+    {
+      "memory_id": "X0322-m05",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Psoriasis: Status - mild improvement, less scaling. Plan - continue topicals; methotrexate maintained 7.5 mg weekly.\nEpilepsy: Status - seizure-free. Plan - continue levetiracetam and lamotrigine.\nNAFLD: Status - LFT stable. Plan - continue silymarin and rosuvastatin; repeat LFT and lipid profile.\nWeight 67.5 kg, waist 83 cm (still >80 cm).\nDiet advice: Breakfast - poha with peanuts, limited oil; Lunch - mixed vegetable curry with chapati, small rice; Dinner - grilled fish, salad.\nDue: HbA1c 2025-10-01."
+    },
+    {
+      "memory_id": "X0322-m06",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "clobetasol 0.05% cream BD\ncalcipotriol ointment OD\nmethotrexate 7.5 mg weekly\nfolic acid 5 mg OD\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0322-m07",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 42 U/L (≤41) slight rise, AST 36 U/L (≤40)\nLipid profile: Cholesterol 190 mg/dL (<200), Triglycerides 150 mg/dL (<150 borderline), HDL 45 mg/dL (>40), LDL 110 mg/dL (<130)\nPlatelet count: 205 x10^9/L (150-400)\nALT mildly elevated; monitor."
+    },
+    {
+      "memory_id": "X0322-m08",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Noticed increased redness and itching on scalp and elbows over past week. Applying clobetasol helps but plaques seem thicker. No new seizures. Appetite normal."
+    },
+    {
+      "memory_id": "X0322-m09",
+      "date": "2025-09-10",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Dermatology for evaluation of refractory psoriasis plaques despite topical steroids and methotrexate. Consider phototherapy or systemic agent. Please advise on safety given concurrent epilepsy meds."
+    },
+    {
+      "memory_id": "X0322-m10",
+      "date": "2025-10-20",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Dermatology review: Psoriasis moderate-to-severe. Recommend narrowband UVB thrice weekly; continue methotrexate with LFT monitoring. No contraindication with levetiracetam/lamotrigine. Follow up in 6 weeks."
+    },
+    {
+      "memory_id": "X0322-m11",
+      "date": "2026-01-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Psoriasis: Status - after 8 weeks UVB, plaques thinner, less itch. Plan - continue UVB twice weekly, maintain methotrexate 7.5 mg weekly.\nEpilepsy: Status - seizure-free. Plan - continue current AEDs.\nNAFLD: Status - LFT ALT 38 U/L now normal. Plan - continue silymarin and rosuvastatin; repeat lipid profile annually.\nWeight 66 kg, waist 80 cm (at cutoff).\nDiet advice: Breakfast - upma with veggies, limited oil; Lunch - dal with brown rice, vegetable side; Dinner - lentil soup, steamed greens.\nDue: HbA1c 2026-04-05."
+    },
+    {
+      "memory_id": "X0322-m12",
+      "date": "2026-01-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "clobetasol 0.05% cream BD\ncalcipotriol ointment OD\nmethotrexate 7.5 mg weekly\nfolic acid 5 mg OD\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0322-m13",
+      "date": "2026-03-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked with Dr Karthik Hegde (D04) for 2026-04-05 at 10:30 AM. Please bring recent LFT and UVB schedule."
+    },
+    {
+      "memory_id": "X0322-m14",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Psoriasis: Status - plaques minimal, maintained on UVB twice weekly and methotrexate. Plan - taper UVB to once weekly, continue methotrexate.\nEpilepsy: Status - seizure-free for over a year. Plan - consider lamotrigine taper if EEG remains normal; discuss with neurology.\nNAFLD: Status - LFT normal, lipid profile within target. Plan - continue silymarin and rosuvastatin; repeat LFT in 6 months.\nWeight 65 kg, waist 78 cm (<80 cm).\nDiet advice: Breakfast - vegetable oats, Lunch - chickpea curry with quinoa, Dinner - vegetable stir-fry with tofu.\nDue: HbA1c 2027-01-10 (patient not on glucose-lowering; recorded for completeness)."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0418",
+  "name": "Shobha Nayak",
+  "age": 72,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Non-alcoholic fatty liver disease",
+    "Insomnia",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0418-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: newly diagnosed, asymptomatic, ALT 68 U/L, AST 55 U/L, LDL 130 mg/dL, triglycerides 180 mg/dL, platelets 210×10⁹/L.\n  - Plan: Start silymarin 140 mg TDS, rosuvastatin 5 mg OD, advise reduced refined carbohydrates and 30‑minute brisk walk daily; review in 3 months.\n- Insomnia\n  - Status: difficulty falling asleep, ISI score 18 (moderate), no daytime fatigue reported.\n  - Plan: Start melatonin 3 mg HS, trazodone 50 mg HS, sleep hygiene counseling; reassess in 4 weeks.\n- Migraine prophylaxis\n  - Status: 4‑5 migraine days/month, on no preventive.\n  - Plan: Start propranolol 40 mg OD, sumatriptan 50 mg SOS for acute, topiramate 25 mg HS, naproxen 500 mg SOS; headache diary.\nDue: HbA1c repeat 2025-07-05."
+    },
+    {
+      "memory_id": "X0418-m02",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 68 U/L (≤40), AST 55 U/L (≤40). Lipid Profile: Cholesterol 210 mg/dL (<200), HDL 38 mg/dL (>40), LDL 130 mg/dL (<100), Triglycerides 180 mg/dL (<150). Platelet Count: 210×10⁹/L (150‑400). Haemoglobin: 12.8 g/dL (12‑16). TSH: 2.1 µIU/mL (0.4‑4.0)."
+    },
+    {
+      "memory_id": "X0418-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Silymarin 140 mg tablet – 1‑0‑1 (after food) – TDS\nRosuvastatin 5 mg tablet – 1‑0‑0 (after food) – OD\nMelatonin 3 mg tablet – 0‑0‑1 (after food) – HS\nTrazodone 50 mg tablet – 0‑0‑1 (after food) – HS\nPropranolol 40 mg tablet – 1‑0‑0 (after food) – OD\nSumatriptan 50 mg tablet – 0‑0‑0 (as needed) – SOS\nTopiramate 25 mg tablet – 0‑0‑1 (after food) – HS\nNaproxen 500 mg tablet – 0‑0‑0 (as needed, after food) – SOS"
+    },
+    {
+      "memory_id": "X0418-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: improved, ALT 52 U/L, AST 44 U/L, LDL 115 mg/dL, triglycerides 150 mg/dL, weight 68 kg, waist 88 cm (men ≤90).\n  - Plan: Continue silymarin 140 mg TDS, increase rosuvastatin to 10 mg OD, maintain diet, add weekly yoga.\n- Insomnia\n  - Status: ISI score 12 (mild), reports occasional mid‑night awakening.\n  - Plan: Continue melatonin 3 mg HS, reduce trazodone to 25 mg HS, continue sleep hygiene.\n- Migraine\n  - Status: 2‑3 migraine days/month, using sumatriptan ≤2×/week.\n  - Plan: Continue propranolol 40 mg OD, topiramate 25 mg HS, naproxen SOS; advise trigger avoidance.\nDue: HbA1c repeat 2025-10-10."
+    },
+    {
+      "memory_id": "X0418-m05",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 52 U/L, AST 44 U/L. Lipid Profile: Cholesterol 190 mg/dL, HDL 40 mg/dL, LDL 115 mg/dL, Triglycerides 150 mg/dL. Platelet Count: 205×10⁹/L. Haemoglobin: 12.9 g/dL. TSH: 2.0 µIU/mL. HbA1c: 5.8% (≤5.7 prediabetes cutoff)."
+    },
+    {
+      "memory_id": "X0418-m06",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Silymarin 140 mg tablet – 1‑0‑1 (after food) – TDS\nRosuvastatin 10 mg tablet – 1‑0‑0 (after food) – OD\nMelatonin 3 mg tablet – 0‑0‑1 (after food) – HS\nTrazodone 25 mg tablet – 0‑0‑1 (after food) – HS\nPropranolol 40 mg tablet – 1‑0‑0 (after food) – OD\nSumatriptan 50 mg tablet – 0‑0‑0 (as needed) – SOS\nTopiramate 25 mg tablet – 0‑0‑1 (after food) – HS\nNaproxen 500 mg tablet – 0‑0‑0 (as needed, after food) – SOS"
+    },
+    {
+      "memory_id": "X0418-m07",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-09-15 at 10:30 am with Dr Karthik Hegde (D04). Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0418-m08",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: ALT 48 U/L, AST 40 U/L, LDL 108 mg/dL, triglycerides 138 mg/dL, weight 67 kg, waist 86 cm.\n  - Plan: Continue silymarin 140 mg TDS, rosuvastatin 10 mg OD; reinforce Mediterranean diet.\n- Insomnia\n  - Status: ISI score 9 (mild), sleep latency improved.\n  - Plan: Continue melatonin 3 mg HS, discontinue trazodone (no longer needed).\n- Migraine\n  - Status: 1‑2 migraine days/month, using sumatriptan once.\n  - Plan: Continue propranolol 40 mg OD, topiramate 25 mg HS; consider tapering if remission persists.\nDue: HbA1c repeat 2025-12-15."
+    },
+    {
+      "memory_id": "X0418-m09",
+      "date": "2025-09-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 48 U/L, AST 40 U/L. Lipid Profile: Cholesterol 185 mg/dL, HDL 42 mg/dL, LDL 108 mg/dL, Triglycerides 138 mg/dL. Platelet Count: 200×10⁹/L. Haemoglobin: 13.0 g/dL. TSH: 2.1 µIU/mL. HbA1c: 5.7%."
+    },
+    {
+      "memory_id": "X0418-m10",
+      "date": "2025-09-17",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Silymarin 140 mg tablet – 1‑0‑1 (after food) – TDS\nRosuvastatin 10 mg tablet – 1‑0‑0 (after food) – OD\nMelatonin 3 mg tablet – 0‑0‑1 (after food) – HS\nPropranolol 40 mg tablet – 1‑0‑0 (after food) – OD\nSumatriptan 50 mg tablet – 0‑0‑0 (as needed) – SOS\nTopiramate 25 mg tablet – 0‑0‑1 (after food) – HS\nNaproxen 500 mg tablet – 0‑0‑0 (as needed, after food) – SOS"
+    },
+    {
+      "memory_id": "X0418-m11",
+      "date": "2025-11-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Neurological examination: No focal deficits, normal gait, negative Romberg. Migraine features consistent with episodic migraine without aura. No signs of increased intracranial pressure."
+    },
+    {
+      "memory_id": "X0418-m12",
+      "date": "2025-11-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel my sleep is much better now – falling asleep within 20 minutes and waking refreshed. Migraines are rare, only one mild episode last month treated with sumatriptan. No side effects from medicines."
+    },
+    {
+      "memory_id": "X0418-m13",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: ALT 45 U/L, AST 38 U/L, LDL 102 mg/dL, triglycerides 125 mg/dL, weight 66 kg, waist 84 cm.\n  - Plan: Continue silymarin 140 mg TDS, rosuvastatin 10 mg OD; advise annual liver ultrasound.\n- Insomnia\n  - Status: ISI score 6 (normal), no sleep complaints.\n  - Plan: Continue melatonin 3 mg HS as needed; consider taper after 3 months.\n- Migraine\n  - Status: 0‑1 migraine days/month, medication‑free weeks.\n  - Plan: Continue propranolol 40 mg OD, topiramate 25 mg HS; review need for prophylaxis in 3 months.\nDue: HbA1c repeat 2026-05-10."
+    },
+    {
+      "memory_id": "X0418-m14",
+      "date": "2026-02-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 45 U/L, AST 38 U/L. Lipid Profile: Cholesterol 180 mg/dL, HDL 44 mg/dL, LDL 102 mg/dL, Triglycerides 125 mg/dL. Platelet Count: 198×10⁹/L. Haemoglobin: 13.1 g/dL. TSH: 2.0 µIU/mL. HbA1c: 5.6%."
+    },
+    {
+      "memory_id": "X0418-m15",
+      "date": "2026-02-12",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: Liver shows mild steatosis, no focal lesions, spleen normal, portal vein patent. No signs of cirrhosis."
+    },
+    {
+      "memory_id": "X0418-m16",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: ALT 42 U/L, AST 35 U/L, LDL 98 mg/dL, triglycerides 118 mg/dL, weight 65 kg, waist 82 cm.\n  - Plan: Continue silymarin 140 mg TDS, rosuvastatin 10 mg OD; repeat ultrasound in 12 months.\n- Insomnia\n  - Status: ISI score 4 (normal), occasional use of melatonin only.\n  - Plan: Continue melatonin 3 mg HS PRN; consider discontinuation after review.\n- Migraine\n  - Status: No migraine attacks in past 3 months.\n  - Plan: Taper propranolol to 20 mg OD, continue topiramate 25 mg HS; reassess in 3 months.\nDue: HbA1c repeat 2027-01-10 (outside window)."
+    }
+  ]
+}

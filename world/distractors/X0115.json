@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0115",
+  "name": "Prakash Shastry",
+  "age": 36,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0115-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome.\nPatient reports intermittent abdominal pain, bloating, and alternating diarrhoea and constipation for 6 months, worsened after meals. Examination shows mild tenderness in lower abdomen, no masses, normal bowel sounds. Smoking status: never smoker."
+    },
+    {
+      "memory_id": "X0115-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Mebeverine 135 mg BD; Ispaghula husk 5 g OD; Loperamide 2 mg SOS."
+    },
+    {
+      "memory_id": "X0115-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.8 g/dL (13-17), WBC 6.2 x10^9/L (4-10), Plt 210 x10^9/L (150-400). Stool routine: no ova, cysts, or occult blood. tTG-IgA: negative (<4 U/mL)."
+    },
+    {
+      "memory_id": "X0115-m04",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been having more bloating after eating spicy food and my pain scores are up to 5/10 most days."
+    },
+    {
+      "memory_id": "X0115-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome.\nPatient notes increased bloating after spicy meals and abdominal pain averaging 5/10. Examination reveals mild distal colonic tenderness, no guarding. Smoking status: never smoker."
+    },
+    {
+      "memory_id": "X0115-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Mebeverine increased to 135 mg TID; Ispaghula husk 5 g OD; Loperamide 2 mg SOS."
+    },
+    {
+      "memory_id": "X0115-m07",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-15 at 10:00 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0115-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome.\nPatient reports improved bloating after dose change, pain 3/10, occasional constipation. Examination: soft abdomen, no tenderness. Smoking status: never smoker."
+    },
+    {
+      "memory_id": "X0115-m09",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 14.0 g/dL (13-17), WBC 5.8 x10^9/L (4-10), Plt 205 x10^9/L (150-400). Stool routine: normal. tTG-IgA: negative (<4 U/mL)."
+    },
+    {
+      "memory_id": "X0115-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome.\nPatient describes occasional constipation, uses loperamide SOS, pain 2/10. Examination: benign abdomen. Smoking status: never smoker."
+    },
+    {
+      "memory_id": "X0115-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Mebeverine 135 mg BD; Ispaghula husk 5 g OD; Loperamide 2 mg SOS."
+    },
+    {
+      "memory_id": "X0115-m12",
+      "date": "2026-04-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling much better, only mild discomfort after heavy meals, no need for loperamide lately."
+    },
+    {
+      "memory_id": "X0115-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome.\nPatient reports good symptom control, minimal discomfort, no rescue medication used. Examination: normal abdomen. Smoking status: never smoker."
+    },
+    {
+      "memory_id": "X0115-m14",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.9 g/dL (13-17), WBC 6.0 x10^9/L (4-10), Plt 210 x10^9/L (150-400). Stool routine: normal. tTG-IgA: negative (<4 U/mL)."
+    },
+    {
+      "memory_id": "X0115-m15",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome.\nPatient stable, reports no flare‑ups in past 3 months, maintains fibre and mebeverine. Examination: non‑tender. Smoking status: never smoker."
+    }
+  ]
+}

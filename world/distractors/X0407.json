@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0407",
+  "name": "Falguni Patel",
+  "age": 44,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Insomnia",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0407-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia with comorbid depressive symptoms.\nPatient reports difficulty falling asleep, frequent awakenings, low mood, poor concentration. She is a vegetable vendor, non-smoker, denies alcohol. On exam: alert, well-groomed, no distress. Technique checked: no inhaler in use.\nPlan: start melatonin 3 mg HS, trazodone 50 mg HS for insomnia; start sertraline 50 mg OD for depression. Order ISI, TSH, Hb, PHQ-9, B12. Review in 6 weeks."
+    },
+    {
+      "memory_id": "X0407-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ISI 18 (moderate insomnia). TSH 2.1 mIU/L (0.5-5.0). Hb 12.8 g/dL (12.0-15.5). PHQ-9 12 (moderate depression). Vitamin B12 320 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0407-m03",
+      "date": "2025-05-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "sertraline 100 mg OD"
+    },
+    {
+      "memory_id": "X0407-m04",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia and depressive symptoms partially improved.\nPatient reports sleep onset better, still 2-3 nocturnal awakenings, mood improved but occasional low energy. Non-smoker. No inhaler.\nPlan: continue melatonin 3 mg HS, trazodone 50 mg HS, sertraline 100 mg OD. Add mirtazapine 15 mg HS for sleep maintenance. Review in 8 weeks."
+    },
+    {
+      "memory_id": "X0407-m05",
+      "date": "2025-06-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "mirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0407-m06",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ISI 11 (mild insomnia). TSH 2.0 mIU/L. Hb 13.0 g/dL. PHQ-9 8 (mild depression). Vitamin B12 340 pg/mL."
+    },
+    {
+      "memory_id": "X0407-m07",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia worsened, depressive symptoms stable.\nPatient reports difficulty staying asleep, morning grogginess from trazodone, mood unchanged. Non-smoker.\nPlan: stop trazodone, increase melatonin to 5 mg HS, continue sertraline 100 mg OD, mirtazapine 15 mg HS. Review in 4 weeks."
+    },
+    {
+      "memory_id": "X0407-m08",
+      "date": "2025-09-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "trazodone stopped\nmelatonin 5 mg HS"
+    },
+    {
+      "memory_id": "X0407-m09",
+      "date": "2025-11-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-11-05 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0407-m10",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia improved, depressive symptoms worsened.\nPatient reports better sleep onset, fewer awakenings, but increased sadness, anhedonia, fatigue. Non-smoker.\nPlan: stop sertraline due to lack of mood improvement, start escitalopram 10 mg OD. Continue melatonin 5 mg HS, mirtazapine 15 mg HS. Review in 6 weeks."
+    },
+    {
+      "memory_id": "X0407-m11",
+      "date": "2025-11-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "sertraline stopped\nescitalopram 10 mg OD"
+    },
+    {
+      "memory_id": "X0407-m12",
+      "date": "2026-02-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ISI 9 (mild insomnia). TSH 2.2 mIU/L. Hb 12.9 g/dL. PHQ-9 10 (moderate depression). Vitamin B12 330 pg/mL."
+    },
+    {
+      "memory_id": "X0407-m13",
+      "date": "2026-03-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia and depressive symptoms stable.\nPatient reports sleep satisfactory, mood improved, energy better. Non-smoker.\nPlan: continue melatonin 5 mg HS, mirtazapine 15 mg HS, escitalopram 10 mg OD. Consider tapering melatonin. Review in 3 months."
+    },
+    {
+      "memory_id": "X0407-m14",
+      "date": "2026-03-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "melatonin 3 mg HS"
+    },
+    {
+      "memory_id": "X0407-m15",
+      "date": "2026-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia worsened due to work stress, depressive symptoms stable.\nPatient reports difficulty falling asleep, frequent awakenings, mood unchanged. Non-smoker.\nPlan: increase melatonin to 5 mg HS, add trazodone 25 mg HS PRN for sleep. Continue escitalopram 10 mg OD, mirtazapine 15 mg HS. Review in 6 weeks."
+    },
+    {
+      "memory_id": "X0407-m16",
+      "date": "2026-06-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "melatonin 5 mg HS\ntrazodone 25 mg HS PRN"
+    },
+    {
+      "memory_id": "X0407-m17",
+      "date": "2026-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ISI 10 (mild insomnia). TSH 2.1 mIU/L. Hb 13.1 g/dL. PHQ-9 9 (mild depression). Vitamin B12 340 pg/mL."
+    },
+    {
+      "memory_id": "X0407-m18",
+      "date": "2026-09-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia and depressive symptoms well controlled.\nPatient reports restful sleep, stable mood, good energy. Non-smoker.\nPlan: continue current regimen, review in 3 months."
+    }
+  ]
+}

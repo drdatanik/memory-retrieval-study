@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0408",
+  "name": "Nilesh Shah",
+  "age": 27,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0408-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports full independence in activities of daily living; works as coffee estate supervisor, walks to fields daily without assistance.\ncognition: Mini-Cog score 4/5; no impairment detected.\nfalls: No falls in the last 12 months; gait steady; timed up-and-go 9 seconds (low fall risk).\nmedicines: 0 regular.\nmood: Denies low mood or anxiety; reports usual energy.\ncarers: Mother (Parent).\ngoals: \"I want to stay healthy enough to manage the estate and support my family.\""
+    },
+    {
+      "memory_id": "X0408-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD; telmisartan 40 mg OD; losartan 50 mg OD; hydrochlorothiazide 12.5 mg OD. Continue for 3 months, then review."
+    },
+    {
+      "memory_id": "X0408-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.9 mg/dL (ref 0.6-1.2); eGFR 95 mL/min/1.73m2 (>60); Serum potassium 4.3 mmol/L (ref 3.5-5.0)."
+    },
+    {
+      "memory_id": "X0408-m04",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Continues to work full days; occasional mild headache after exertion, relieved by rest.\ncognition: Mini-Cog not repeated (annual schedule).\nfalls: No falls in last 12 months; gait normal; timed up-and-go 9 seconds (low fall risk).\nmedicines: 4 regular.\nmood: Reports occasional irritability; denies depression.\ncarers: Mother (Parent).\ngoals: \"I want to keep my blood pressure under control so I can keep working.\""
+    },
+    {
+      "memory_id": "X0408-m05",
+      "date": "2025-06-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD; telmisartan 40 mg OD; losartan 50 mg OD; hydrochlorothiazide 12.5 mg OD. Continue for 3 months; recheck labs."
+    },
+    {
+      "memory_id": "X0408-m06",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: Sinus rhythm, rate 78 bpm. No ST‑T changes, left ventricular voltage within normal limits. No evidence of ischemia or hypertrophy."
+    },
+    {
+      "memory_id": "X0408-m07",
+      "date": "2025-08-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.0 mg/dL (ref 0.6-1.2); eGFR 88 mL/min/1.73m2 (>60); Serum potassium 4.6 mmol/L (ref 3.5-5.0)."
+    },
+    {
+      "memory_id": "X0408-m08",
+      "date": "2025-09-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports good tolerance of meds; no dizziness; able to supervise estate work without limitation.\ncognition: Mini‑Cog not due yet.\nfalls: No falls in last 12 months; gait steady; timed up‑and‑go 9 seconds (low fall risk).\nmedicines: 4 regular.\nmood: Stable; denies anxiety or low mood.\ncarers: Mother (Parent).\ngoals: \"I aim to maintain current therapy and stay fit for the upcoming harvest season.\""
+    },
+    {
+      "memory_id": "X0408-m09",
+      "date": "2025-09-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD; telmisartan 40 mg OD; losartan 50 mg OD; hydrochlorothiazide 12.5 mg OD. Continue for 3 months; review if symptoms change."
+    },
+    {
+      "memory_id": "X0408-m10",
+      "date": "2025-12-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-12-10 at 10:00 with Dr Nandini Kulkarni (D06) for hypertension follow‑up."
+    },
+    {
+      "memory_id": "X0408-m11",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Patient reports occasional mild fatigue after long walks; otherwise able to perform duties.\ncognition: Mini‑Cog score 4/5; no change.\nfalls: No falls in last 12 months; gait normal; timed up‑and‑go 9 seconds (low fall risk).\nmedicines: 4 regular.\nmood: Denies depressive symptoms; reports usual motivation.\ncarers: Mother (Parent).\ngoals: \"I want to keep my blood pressure steady so I can continue supervising the estate.\""
+    },
+    {
+      "memory_id": "X0408-m12",
+      "date": "2025-12-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.1 mg/dL (ref 0.6-1.2); eGFR 82 mL/min/1.73m2 (>60); Serum potassium 4.8 mmol/L (ref 3.5-5.0)."
+    },
+    {
+      "memory_id": "X0408-m13",
+      "date": "2026-03-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Continues to work full days; no new symptoms; reports good exercise tolerance.\ncognition: Annual Mini‑Cog score 3/5 (borderline); plan for fuller cognitive assessment.\nfalls: No falls in last 12 months; gait normal; timed up‑and‑go 9 seconds (low fall risk).\nmedicines: 4 regular.\nmood: Reports occasional low mood during monsoon; denies suicidal thoughts.\ncarers: Mother (Parent).\ngoals: \"I wish to stay healthy and mentally sharp for my family and work.\""
+    },
+    {
+      "memory_id": "X0408-m14",
+      "date": "2026-03-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD; telmisartan 40 mg OD; losartan 50 mg OD; hydrochlorothiazide 12.5 mg OD. Continue for 3 months; consider cognitive assessment referral."
+    },
+    {
+      "memory_id": "X0408-m15",
+      "date": "2026-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.0 mg/dL (ref 0.6-1.2); eGFR 88 mL/min/1.73m2 (>60); Serum potassium 4.5 mmol/L (ref 3.5-5.0)."
+    },
+    {
+      "memory_id": "X0408-m16",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Patient remains independent in ADLs; works full days on estate; no functional decline.\ncognition: Mini‑Cog not repeated (annual done).\nfalls: No falls in last 12 months; gait normal; timed up‑and‑go 9 seconds (low fall risk).\nmedicines: 4 regular.\nmood: Stable; reports good energy.\ncarers: Mother (Parent).\ngoals: \"I want to keep my blood pressure under control and enjoy many more years with my family.\""
+    }
+  ]
+}

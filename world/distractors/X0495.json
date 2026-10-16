@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0495",
+  "name": "Nitin Gaikwad",
+  "age": 57,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0495-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus.\nPatient is a 57‑year‑old male shop owner from Vijayanagar, Bengaluru. He reports increased thirst, occasional fatigue, no weight loss. Random capillary glucose 162 mg/dL. BMI 27.4 kg/m2, blood pressure 128/82 mmHg, lungs clear. No retinopathy signs on basic eye check. HbA1c not yet done. Assessment: newly diagnosed type 2 diabetes, asymptomatic hyperglycemia. Plan: start metformin 500 mg BD, glimepiride 1 mg OD before breakfast, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Review in 6 weeks with labs and spirometry (baseline)."
+    },
+    {
+      "memory_id": "X0495-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg tablet – take one tablet twice daily.\nGlimepiride 1 mg tablet – take one tablet each morning before breakfast.\nSitagliptin 100 mg tablet – take one tablet daily.\nEmpagliflozin 10 mg tablet – take one tablet daily."
+    },
+    {
+      "memory_id": "X0495-m03",
+      "date": "2025-04-08",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Allergy: Sulfonamide – rash and pruritus after taking co-trimoxazole for urinary tract infection 2 years ago. Avoid sulfonamide antibiotics."
+    },
+    {
+      "memory_id": "X0495-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 7.8% (ref 4.0‑5.6%).\nFasting plasma glucose: 155 mg/dL (ref 70‑99).\nUrine albumin‑creatinine ratio: 32 mg/g (ref <30).\nSerum creatinine: 0.9 mg/dL (ref 0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0495-m05",
+      "date": "2025-05-21",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dilated fundus exam: mild non‑proliferative diabetic retinopathy, microaneurysms temporal to macula, no macular edema. Visual acuity 6/6 both eyes. Recommend annual retinal screening."
+    },
+    {
+      "memory_id": "X0495-m06",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus – review.\nPatient reports improved thirst, occasional mild hypoglycemia symptoms before lunch. Finger‑stick glucose 78‑92 mg/dL fasting, post‑prandial 140‑155. Spirometry: FEV1 2.85 L (92% predicted), FVC 3.40 L (88%), FEV1/FVC 0.84; change from baseline +0.05 L. ACT score 22 (well controlled). Inhaler technique not applicable. Smoking status: never. Plan: increase metformin to 850 mg BD for better glycaemic control, keep other meds. Review in 8 weeks."
+    },
+    {
+      "memory_id": "X0495-m07",
+      "date": "2025-06-11",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 850 mg tablet – take one tablet twice daily.\nGlimepiride 1 mg tablet – take one tablet each morning before breakfast.\nSitagliptin 100 mg tablet – take one tablet daily.\nEmpagliflozin 10 mg tablet – take one tablet daily."
+    },
+    {
+      "memory_id": "X0495-m08",
+      "date": "2025-08-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling a tingling sensation in both feet, especially at night. It’s mild but worries me. Should I be concerned about diabetic neuropathy?"
+    },
+    {
+      "memory_id": "X0495-m09",
+      "date": "2025-08-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus with possible peripheral neuropathy.\nPatient describes bilateral foot tingling, worse at night, no weakness. Sensory exam: decreased light touch sensation to distal great toes, proprioception intact. No foot ulcers. Plan: check vitamin B12, start neuropathic pain agent if needed. Refer to neurology for further evaluation. Continue current diabetes meds."
+    },
+    {
+      "memory_id": "X0495-m10",
+      "date": "2025-08-21",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Neurology, Dr. K. Rao, for evaluation of peripheral neuropathy in a 57‑year‑old male with type 2 diabetes. Symptoms: bilateral foot tingling, nocturnal, mild. Request nerve conduction studies and advice on symptomatic treatment."
+    },
+    {
+      "memory_id": "X0495-m11",
+      "date": "2025-09-05",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Neurology report: Nerve conduction shows mild sensory axonal neuropathy, motor nerves normal. No compressive etiology. Recommend pregabalin 75 mg BD for neuropathic pain, foot care education, glycemic control. Follow‑up in 3 months."
+    },
+    {
+      "memory_id": "X0495-m12",
+      "date": "2025-09-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Pregabalin 75 mg capsule – take one capsule twice daily after food."
+    },
+    {
+      "memory_id": "X0495-m13",
+      "date": "2025-11-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 7.2% (ref 4.0‑5.6%).\nFasting plasma glucose: 130 mg/dL (ref 70‑99).\nUrine albumin‑creatinine ratio: 28 mg/g (ref <30).\nSerum creatinine: 0.9 mg/dL (ref 0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0495-m14",
+      "date": "2026-03-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for diabetes review with Dr Suresh Menon (D05) on 2026-04-15 at 10:30 AM. Please bring glucose log and foot inspection notes."
+    },
+    {
+      "memory_id": "X0495-m15",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus – follow‑up.\nPatient reports foot tingling improved after pregabalin, occasional mild numbness. No hypoglycemia episodes. Labs: HbA1c 7.0% (target <7.5), FPG 118 mg/dL, urine ACR 26 mg/g. Spirometry: FEV1 2.90 L (94% predicted), FVC 3.45 L (90%), FEV1/FVC 0.84; change +0.05 L since last. ACT score 23 (well controlled). Inhaler technique N/A. Smoking: never. Plan: discontinue glimepiride due to risk of hypoglycemia, continue metformin 850 mg BD, sitagliptin 100 mg OD, empagliflozin 10 mg OD, pregabalin 75 mg BD. Review in 4 months."
+    }
+  ]
+}

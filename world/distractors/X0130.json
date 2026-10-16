@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0130",
+  "name": "Navjot Singh",
+  "age": 78,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Osteoarthritis of the knee",
+    "Chronic kidney disease",
+    "Atrial fibrillation"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0130-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Osteoarthritis knee\n  - Status: Right knee pain 3/10 on walking, morning stiffness <15 min, no effusion.\n  - Plan: Continue paracetamol 650 mg SOS, topical diclofenac gel BD, calf‑strengthening exercises, order weight‑bearing X‑ray both knees.\n- Chronic kidney disease\n  - Status: eGFR 38 mL/min/1.73m2 (CKD G3b), urine ACR 45 mg/g, Hb 11.2 g/dL, asymptomatic.\n  - Plan: Continue telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD; monitor labs.\n- Atrial fibrillation\n  - Status: In sinus rhythm on apixaban 5 mg BD, heart rate 68 bpm on bisoprolol 2.5 mg OD, no dyspnoea.\n  - Plan: Continue apixaban and bisoprolol; review INR only if warfarin started.\nDue: Next HbA1c due 2025-07-05."
+    },
+    {
+      "memory_id": "X0130-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Paracetamol 650 mg SOS\nTopical diclofenac gel apply BD to knees\nCalcium carbonate 500 mg + vitamin D3 400 IU OD\nTelmisartan 40 mg OD\nDapagliflozin 10 mg OD\nFurosemide 20 mg OD\nSodium bicarbonate 500 mg BD\nApixaban 5 mg BD\nBisoprolol 2.5 mg OD"
+    },
+    {
+      "memory_id": "X0130-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (ref 4-5.6)\nSerum creatinine 1.6 mg/dL (ref 0.5-1.1)\neGFR 38 mL/min/1.73m2 (ref >60)\nUrine ACR 45 mg/g (ref <30)\nHaemoglobin 11.2 g/dL (ref 12-16)\nLipids: Cholesterol 210 mg/dL, Triglycerides 150, HDL 38, LDL 130 (ref LDL <100)\nSerum vitamin D 22 ng/mL (ref 30-100)\nTSH 2.1 µIU/mL (ref 0.4-4.0)"
+    },
+    {
+      "memory_id": "X0130-m04",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Weight-bearing X-ray both knees: Right knee shows moderate joint space narrowing, osteophytes, subchondral sclerosis; left knee mild changes. No fracture."
+    },
+    {
+      "memory_id": "X0130-m05",
+      "date": "2025-04-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 09:30 with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0130-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Osteoarthritis knee\n  - Status: Pain improved to 2/10 after paracetamol SOS, gel used BD; walking distance increased.\n  - Plan: Continue current analgesics; add supervised physiotherapy twice weekly.\n- Chronic kidney disease\n  - Status: eGFR 36 mL/min/1.73m2, creatinine 1.7 mg/dL, urine ACR 48 mg/g, Hb 10.9 g/dL.\n  - Plan: Hold dapagliflozin due to eGFR <45; continue telmisartan, furosemide, sodium bicarbonate; check K+.\n- Atrial fibrillation\n  - Status: Sinus rhythm, HR 70 bpm on bisoprolol, no bleeding on apixaban.\n  - Plan: Continue apixaban and bisoprolol; monitor for renal function.\nDue: Next HbA1c due 2025-10-10."
+    },
+    {
+      "memory_id": "X0130-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Paracetamol 650 mg SOS\nTopical diclofenac gel BD\nCalcium carbonate 500 mg + vitamin D3 400 IU OD\nTelmisartan 40 mg OD\nFurosemide 20 mg OD\nSodium bicarbonate 500 mg BD\nApixaban 5 mg BD\nBisoprolol 2.5 mg OD\n(Dapagliflozin held)"
+    },
+    {
+      "memory_id": "X0130-m08",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.6% (ref 4-5.6)\nSerum creatinine 1.7 mg/dL\neGFR 36 mL/min/1.73m2\nUrine ACR 48 mg/g\nHaemoglobin 10.9 g/dL\nSerum potassium 4.8 mmol/L (ref 3.5-5.0)"
+    },
+    {
+      "memory_id": "X0130-m09",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "12-lead ECG: Sinus rhythm, rate 68 bpm, PR 160 ms, QRS 92 ms, no ST‑T changes, no atrial fibrillation burden."
+    },
+    {
+      "memory_id": "X0130-m10",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Osteoarthritis knee\n  - Status: Pain 2/10, occasional swelling after prolonged standing; physiotherapy helping.\n  - Plan: Continue paracetamol SOS, gel BD, continue physiotherapy, consider intra‑articular hyaluronic acid if pain worsens.\n- Chronic kidney disease\n  - Status: eGFR 34 mL/min/1.73m2, creatinine 1.8 mg/dL, urine ACR 52 mg/g, Hb 10.5 g/dL.\n  - Plan: Start warfarin 5 mg OD (INR target 2-3) and stop apixaban due to declining renal function; continue telmisartan, furosemide, sodium bicarbonate; check INR in 3 days.\n- Atrial fibrillation\n  - Status: In sinus rhythm on bisoprolol 2.5 mg OD; apixaban stopped.\n  - Plan: Initiate warfarin, monitor INR twice weekly until stable, then monthly.\nDue: Next HbA1c due 2026-01-05."
+    },
+    {
+      "memory_id": "X0130-m11",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Paracetamol 650 mg SOS\nTopical diclofenac gel BD\nCalcium carbonate 500 mg + vitamin D3 400 IU OD\nTelmisartan 40 mg OD\nFurosemide 20 mg OD\nSodium bicarbonate 500 mg BD\nWarfarin 5 mg OD\nBisoprolol 2.5 mg OD\n(Apixaban discontinued)"
+    },
+    {
+      "memory_id": "X0130-m12",
+      "date": "2025-10-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.4 (ref 2-3)\nHbA1c 7.5% (ref 4-5.6)\nSerum creatinine 1.8 mg/dL\neGFR 34 mL/min/1.73m2\nUrine ACR 52 mg/g\nHaemoglobin 10.5 g/dL"
+    },
+    {
+      "memory_id": "X0130-m13",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original 2025-10-10 09:30 moved to 2025-10-17 10:00 with Dr Karthik Hegde (D04) due to patient request."
+    },
+    {
+      "memory_id": "X0130-m14",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Osteoarthritis knee\n  - Status: Pain 1-2/10, no effusion, walking 30 min without rest.\n  - Plan: Continue paracetamol SOS, gel BD, continue physiotherapy, advise weight‑loss diet.\n- Chronic kidney disease\n  - Status: eGFR 33 mL/min/1.73m2, creatinine 1.9 mg/dL, urine ACR 55 mg/g, Hb 10.2 g/dL.\n  - Plan: Continue telmisartan, furosemide, sodium bicarbonate; reduce furosemide to 10 mg OD if orthostatic symptoms; check Hb.\n- Atrial fibrillation\n  - Status: Sinus rhythm, HR 66 bpm on bisoprolol, INR 2.3 stable on warfarin 5 mg OD.\n  - Plan: Continue warfarin, bisoprolol; repeat INR in 4 weeks.\nDue: Next HbA1c due 2026-04-10."
+    },
+    {
+      "memory_id": "X0130-m15",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Paracetamol 650 mg SOS\nTopical diclofenac gel BD\nCalcium carbonate 500 mg + vitamin D3 400 IU OD\nTelmisartan 40 mg OD\nFurosemide 10 mg OD\nSodium bicarbonate 500 mg BD\nWarfarin 5 mg OD\nBisoprolol 2.5 mg OD"
+    },
+    {
+      "memory_id": "X0130-m16",
+      "date": "2026-01-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium 138 mmol/L (ref 135-145)\nSerum potassium 4.2 mmol/L\nSerum creatinine 1.9 mg/dL\neGFR 33 mL/min/1.73m2\nHaemoglobin 10.2 g/dL\nINR 2.3 (ref 2-3)"
+    },
+    {
+      "memory_id": "X0130-m17",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Osteoarthritis knee\n  - Status: Pain 1/10, occasional stiffness; functional status good.\n  - Plan: Continue paracetamol SOS, gel BD; encourage low‑impact activity.\n- Chronic kidney disease\n  - Status: eGFR 32 mL/min/1.73m2, creatinine 2.0 mg/dL, urine ACR 58 mg/g, Hb 10.0 g/dL.\n  - Plan: Continue telmisartan, furosemide, sodium bicarbonate; check lipids yearly.\n- Atrial fibrillation\n  - Status: Sinus rhythm, HR 65 bpm on bisoprolol, INR 2.2 on warfarin 5 mg OD.\n  - Plan: Continue warfarin and bisoprolol; repeat INR in 4 weeks.\nDue: Next HbA1c due 2026-07-05.\nLipid profile (annual): Cholesterol 205 mg/dL, Triglycerides 140, HDL 40, LDL 125 (ref LDL <100)."
+    },
+    {
+      "memory_id": "X0130-m18",
+      "date": "2026-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Osteoarthritis knee\n  - Status: Pain 0-1/10, no limitation; patient reports satisfactory relief.\n  - Plan: Continue paracetamol SOS as needed, gel BD; maintain activity.\n- Chronic kidney disease\n  - Status: eGFR 31 mL/min/1.73m2, creatinine 2.1 mg/dL, urine ACR 60 mg/g, Hb 9.8 g/dL.\n  - Plan: Continue telmisartan, furosemide, sodium bicarbonate; consider erythropoietin if Hb falls <9 g/dL.\n- Atrial fibrillation\n  - Status: Sinus rhythm, HR 64 bpm on bisoprolol, INR 2.1 on warfarin 5 mg OD.\n  - Plan: Continue warfarin, bisoprolol; review INR monthly.\nDue: Next HbA1c due 2026-10-01."
+    }
+  ]
+}

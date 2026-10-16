@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0564",
+  "name": "Harpal Gill",
+  "age": 23,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0564-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild fatigue after long drives, able to perform ADLs independently.\ncognition: Mini-Cog score 4/5 (recall 2 items, clock draw normal).\nfalls: no falls in past 12 months; gait steady; timed up-and-go 9 seconds (normal).\nmedicines: 0 regular; polypharmacy not applicable.\nmood: PHQ-9 to be checked; reports low mood, anhedonia for 4 weeks.\ncarers: Mother, Mrs. Lakshmi, primary support.\ngoal: \"I want to feel energetic and enjoy my work again.\""
+    },
+    {
+      "memory_id": "X0564-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 12 (moderate depression).\nTSH: 4.2 mIU/L (ref 0.4-4.0) – mild elevation.\nVitamin B12: 210 pg/mL (ref 200-900) – low-normal."
+    },
+    {
+      "memory_id": "X0564-m03",
+      "date": "2025-04-08",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 50 mg OD"
+    },
+    {
+      "memory_id": "X0564-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: improved energy, drives 6‑8 hrs/day without excessive fatigue.\ncognition: Mini-Cog score 3/5 (recall 1, clock mild abnormality).\nfalls: no falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 1 regular (sertraline); not polypharmacy.\nmood: PHQ-9 8 (mild); reports better sleep, still occasional low mood.\ncarers: Mother, Mrs. Lakshmi.\ngoal: \"I want to keep working without feeling down.\""
+    },
+    {
+      "memory_id": "X0564-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 8 (mild depression).\nTSH: 3.8 mIU/L (ref 0.4-4.0) – within normal.\nVitamin B12: 225 pg/mL (ref 200-900)."
+    },
+    {
+      "memory_id": "X0564-m06",
+      "date": "2025-07-13",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 75 mg OD"
+    },
+    {
+      "memory_id": "X0564-m07",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports occasional dizziness after standing quickly; otherwise able to manage deliveries.\ncognition: Mini-Cog score 2/5 (recall 0, clock abnormal) – positive screen, plan for full assessment.\nfalls: one fall at home 3 months ago (slip on wet floor); gait slightly unsteady; timed up-and-go 13 seconds – raised fall risk, advise balance exercises and supportive footwear.\nmedicines: 1 regular (sertraline 75 mg); not polypharmacy.\nmood: PHQ-9 10 (moderate); reports increased anxiety, irritability.\ncarers: Mother, Mrs. Lakshmi.\ngoal: \"I want to stop feeling dizzy and be safe at work.\""
+    },
+    {
+      "memory_id": "X0564-m08",
+      "date": "2025-10-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 10 (moderate depression).\nTSH: 4.5 mIU/L (ref 0.4-4.0) – mild hypothyroidism.\nVitamin B12: 200 pg/mL (ref 200-900) – at lower limit."
+    },
+    {
+      "memory_id": "X0564-m09",
+      "date": "2025-10-23",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 75 mg OD\nescitalopram 10 mg OD"
+    },
+    {
+      "memory_id": "X0564-m10",
+      "date": "2026-02-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: dizziness resolved after dose adjustment; able to drive full shifts.\ncognition: Mini-Cog score 3/5 (recall 1, clock normal).\nfalls: no new falls; gait steady; timed up-and-go 9 seconds.\nmedicines: 2 regular (sertraline 75 mg, escitalopram 10 mg); not polypharmacy.\nmood: PHQ-9 6 (mild); reports improved mood, occasional anxiety.\ncarers: Mother, Mrs. Lakshmi.\ngoal: \"I want to stay steady and keep my job.\""
+    },
+    {
+      "memory_id": "X0564-m11",
+      "date": "2026-02-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 6 (mild depression).\nTSH: 4.2 mIU/L (ref 0.4-4.0) – borderline high.\nVitamin B12: 210 pg/mL (ref 200-900)."
+    },
+    {
+      "memory_id": "X0564-m12",
+      "date": "2026-02-08",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 75 mg OD\nescitalopram 10 mg OD\nmirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0564-m13",
+      "date": "2026-06-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking: follow‑up visit with Dr Nandini Kulkarni on 2026-06-20 at 10:30 am."
+    },
+    {
+      "memory_id": "X0564-m14",
+      "date": "2026-06-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: tolerates meds well, no side‑effects; drives without fatigue.\ncognition: Mini-Cog score 4/5 (recall 2, clock normal).\nfalls: no falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 3 regular (sertraline 75 mg, escitalopram 10 mg, mirtazapine 15 mg HS); polypharmacy flag – request review against Beers criteria.\nmood: PHQ-9 4 (minimal); reports good sleep, stable mood.\ncarers: Mother, Mrs. Lakshmi.\ngoal: \"I want to continue working and feel well.\""
+    },
+    {
+      "memory_id": "X0564-m15",
+      "date": "2026-10-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 4 (minimal depression).\nTSH: 3.9 mIU/L (ref 0.4-4.0) – normal.\nVitamin B12: 225 pg/mL (ref 200-900)."
+    }
+  ]
+}

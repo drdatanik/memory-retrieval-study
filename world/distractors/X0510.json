@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0510",
+  "name": "Nasreen Ahmed",
+  "age": 18,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Benign positional vertigo",
+    "Depression",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0510-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: Intermittent spinning sensation on turning head right, lasts <1 minute, Dix-Hallpike pending.\n  - Plan: Start betahistine 16 mg BD after food, meclizine 25 mg SOS after food; arrange Dix-Hallpike and audiometry.\n- Depression\n  - Status: Low mood, anhedonia, PHQ-9 12, sleep disturbance.\n  - Plan: Start sertraline 50 mg OD after food; review PHQ-9 in 4 weeks.\n- Allergic rhinitis\n  - Status: Nasal congestion, sneezing, worse mornings.\n  - Plan: Cetirizine 10 mg HS after food, fluticasone nasal spray one spray each nostril OD, montelukast 10 mg HS after food.\n- Weight 58 kg, waist 78 cm (female cutoff 80 cm) – within limit.\n- Diet advice: Breakfast – idli with sambar, avoid fried; Lunch – rice, dal, vegetables, limit salt; Dinner – chapati, dal, salad, early.\n- Due: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0510-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 16 mg BD after food\nmeclizine 25 mg SOS after food\nsertraline 50 mg OD after food\nescitalopram 10 mg OD after food\nmirtazapine 15 mg HS after food\ncetirizine 10 mg HS after food\nfluticasone nasal spray one spray each nostril OD\nmontelukast 10 mg HS after food"
+    },
+    {
+      "memory_id": "X0510-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.8 mIU/L (0.4-4.0)\nVitamin B12 210 pg/mL (200-900)\nTotal serum IgE 85 IU/mL (<100)"
+    },
+    {
+      "memory_id": "X0510-m04",
+      "date": "2025-04-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dix-Hallpike test: Positive for right posterior canal BPPV (torsional nystagmus).\nAudiometry: Bilateral pure-tone averages 15 dB HL, normal."
+    },
+    {
+      "memory_id": "X0510-m05",
+      "date": "2025-05-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0510-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: Episodes reduced to once weekly, mild, after betahistine increase.\n  - Plan: Continue betahistine 24 mg BD after food, stop meclizine; teach Epley maneuver self‑practice.\n- Depression\n  - Status: Mood improved, PHQ-9 6, mild insomnia.\n  - Plan: Increase sertraline to 75 mg OD after food; add mirtazapine 15 mg HS for sleep.\n- Allergic rhinitis\n  - Status: Symptoms controlled, occasional sneezing.\n  - Plan: Continue cetirizine 10 mg HS, fluticasone OD, montelukast HS.\n- Weight 59 kg, waist 80 cm (at cutoff).\n- Diet advice: Breakfast – poha with peanuts, avoid sugary tea; Lunch – mixed veg rice, dal, curd; Dinner – roti, dal, steamed veg, early.\n- Due: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0510-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 24 mg BD after food\nsertraline 75 mg OD after food\nmirtazapine 15 mg HS after food\ncetirizine 10 mg HS after food\nfluticasone nasal spray one spray each nostril OD\nmontelukast 10 mg HS after food"
+    },
+    {
+      "memory_id": "X0510-m08",
+      "date": "2025-07-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.6 mIU/L (0.4-4.0)\nVitamin B12 225 pg/mL (200-900)\nHbA1c 5.4% (3.8-5.6)"
+    },
+    {
+      "memory_id": "X0510-m09",
+      "date": "2025-08-05",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to ENT specialist for persistent positional vertigo despite medical therapy, to confirm BPPV side and consider canalith repositioning."
+    },
+    {
+      "memory_id": "X0510-m10",
+      "date": "2025-09-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "ENT report: Confirmed right posterior canal BPPV. Performed Epley maneuver in clinic, patient asymptomatic post‑procedure. Advised home Epley twice daily for 1 week. No further intervention needed."
+    },
+    {
+      "memory_id": "X0510-m11",
+      "date": "2025-10-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I felt brief dizziness yesterday when looking up, but it settled quickly. No nausea. My nose is still clear, mood good."
+    },
+    {
+      "memory_id": "X0510-m12",
+      "date": "2025-10-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 16 mg BD after food (reduced from 24 mg)\nsertraline 75 mg OD after food\nmirtazapine 15 mg HS after food\ncetirizine 10 mg HS after food\nfluticasone nasal spray one spray each nostril OD\nmontelukast 10 mg HS after food"
+    },
+    {
+      "memory_id": "X0510-m13",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: No vertigo episodes in past 8 weeks, Epley exercises continued.\n  - Plan: Continue betahistine 16 mg BD; stop if symptom‑free for another month.\n- Depression\n  - Status: PHQ-9 4, minimal symptoms, sleep good.\n  - Plan: Maintain sertraline 75 mg OD; consider taper after 3 months stable.\n- Allergic rhinitis\n  - Status: Mild intermittent nasal congestion.\n  - Plan: Continue cetirizine 10 mg HS, fluticasone OD, montelukast HS.\n- Weight 60 kg, waist 81 cm (slightly above female cutoff).\n- Diet advice: Breakfast – upma with veg, limit oil; Lunch – quinoa salad, dal, curd; Dinner – chapati, dal, sautéed greens, early.\n- Due: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0510-m14",
+      "date": "2026-02-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 16 mg BD after food\nsertraline 75 mg OD after food\nmirtazapine 15 mg HS after food\ncetirizine 10 mg HS after food\nfluticasone nasal spray one spray each nostril OD\nmontelukast 10 mg HS after food"
+    },
+    {
+      "memory_id": "X0510-m15",
+      "date": "2026-10-11",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: Symptom‑free for 6 months, off betahistine for 2 months.\n  - Plan: No medication needed; advise vestibular exercises if symptoms recur.\n- Depression\n  - Status: PHQ-9 2, remission, on sertraline 50 mg OD after taper.\n  - Plan: Continue sertraline 50 mg OD; review in 3 months.\n- Allergic rhinitis\n  - Status: Well controlled on cetirizine HS and fluticasone OD.\n  - Plan: Continue current regimen.\n- Weight 59 kg, waist 79 cm (within limit).\n- Diet advice: Breakfast – dosa with chutney, avoid sugary sides; Lunch – brown rice, sambar, veg; Dinner – roti, dal, salad, early.\n- Due: HbA1c not indicated."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0501",
+  "name": "Ila Thakkar",
+  "age": 87,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0501-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow-up for irritable bowel syndrome.\nPRESENTING COMPLAINT: Reports intermittent abdominal bloating and loose stools for 2 weeks, no blood or weight loss.\nEXAMINATION: BP 138/82 mmHg, weight 58 kg, height 155 cm, BMI 24.2 (overweight). Abdomen soft, non-tender, no masses.\nIMPRESSION: IBS stable. Overweight per Asian cut‑offs; advise reduced refined carbs, daily walk 30 min. Ordered CBC, stool routine, tTG‑IgA to exclude coeliac and anaemia.\nARRANGEMENTS: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Return if fever >39°C, bloody stools, worsening pain, or vomiting."
+    },
+    {
+      "memory_id": "X0501-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Mebeverine hydrochloride 135 mg tablet – take one tablet twice daily.\nIspaghula husk 5 g sachet – take one sachet once daily with water.\nLoperamide 2 mg capsule – take up to two capsules after loose stool, max 8 mg/day."
+    },
+    {
+      "memory_id": "X0501-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.8 g/L (12.0‑15.5), WBC 6.2 x10^9/L (4.0‑10.0), Plt 210 x10^9/L (150‑400).\nStool routine: No ova, cysts, or pus cells; negative for occult blood.\ntTG‑IgA: 4 U/mL (<7 negative)."
+    },
+    {
+      "memory_id": "X0501-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "IBS review.\nPRESENTING COMPLAINT: Bloating improved, occasional urgency after meals.\nEXAMINATION: BP 136/80, weight 57.5 kg, BMI 23.9 (overweight). Abdomen benign.\nIMPRESSION: Symptom control adequate. Overweight persists; reinforce low‑FODMAP diet, increase water intake.\nARRANGEMENTS: Continue current meds. Return if new rectal bleeding, weight loss, or pain waking at night."
+    },
+    {
+      "memory_id": "X0501-m05",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Mebeverine hydrochloride 135 mg tablet – BD.\nIspaghula husk 5 g sachet – OD.\nLoperamide 2 mg capsule – SOS, max 8 mg/24h."
+    },
+    {
+      "memory_id": "X0501-m06",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual check‑up.\nPRESENTING COMPLAINT: No new GI symptoms; asks about cholesterol.\nEXAMINATION: BP 140/84, weight 58 kg, BMI 24.1 (overweight).\nIMPRESSION: IBS quiescent. Overweight; advise Mediterranean‑style diet, brisk walk 4‑5 times/week. Ordered fasting lipid profile and fasting blood sugar per annual adult screening; also repeat CBC, stool routine, tTG‑IgA.\nARRANGEMENTS: Continue mebeverine BD, ispaghula husk OD, loperamide SOS. Return if chest pain, dyspnoea, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0501-m07",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 92 mg/dL (70‑99).\nLipid profile: Total cholesterol 190 mg/dL (<200), HDL 48 mg/dL (>40), LDL 112 mg/dL (<130), TG 138 mg/dL (<150).\nCBC: Hb 13.0 g/L, WBC 6.0, Plt 205.\nStool routine: No pathogens, occult blood negative.\ntTG‑IgA: 5 U/mL (<7)."
+    },
+    {
+      "memory_id": "X0501-m08",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "IBS flare.\nPRESENTING COMPLAINT: Increased abdominal cramping and diarrhoea 3‑4 times/day over past week, associated with stress.\nEXAMINATION: BP 138/82, weight 57 kg, BMI 23.8 (overweight). Abdomen mildly tender in left lower quadrant, no guarding.\nIMPRESSION: IBS exacerbation likely stress‑related. Overweight persists; advise stress‑reduction, regular meals, avoid caffeine.\nARRANGEMENTS: Increase loperamide to 2 mg SOS up to 4 doses/day if needed; continue mebeverine BD, ispaghula husk OD. Return if fever, bloody stools, severe pain, or dehydration."
+    },
+    {
+      "memory_id": "X0501-m09",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Mebeverine hydrochloride 135 mg tablet – BD.\nIspaghula husk 5 g sachet – OD.\nLoperamide 2 mg capsule – take up to four capsules after loose stool, not exceeding 16 mg/24h."
+    },
+    {
+      "memory_id": "X0501-m10",
+      "date": "2026-04-08",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Dear Clinic, I’ve been following the low‑FODMAP advice and walking after meals. My bowel movements are more regular now, only occasional urgency. Thank you for the support."
+    },
+    {
+      "memory_id": "X0501-m11",
+      "date": "2026-07-03",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "IBS follow‑up.\nPRESENTING COMPLAINT: Reports good control, only mild bloating after heavy meals.\nEXAMINATION: BP 135/80, weight 56.5 kg, BMI 23.5 (overweight). Abdomen soft.\nIMPRESSION: IBS well managed. Overweight persists; encourage portion control and daily activity.\nARRANGEMENTS: Continue mebeverine BD, ispaghula husk OD, loperamide SOS as needed. Return if new rectal bleeding, weight loss, fever >39°C, or severe abdominal pain."
+    },
+    {
+      "memory_id": "X0501-m12",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review of IBS and cardiovascular risk on 2026-11-12 at 10:30 am with Dr Priya Natarajan (D03). Please arrive 10 minutes early. Call to reschedule if needed."
+    },
+    {
+      "memory_id": "X0501-m13",
+      "date": "2026-10-09",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual review.\nPRESENTING COMPLAINT: Stable IBS, no alarm symptoms.\nEXAMINATION: BP 134/78, weight 56 kg, BMI 23.3 (overweight).\nIMPRESSION: IBS in remission. Overweight per Asian cut‑offs; advise maintain Mediterranean diet, aerobic activity 150 min/week. Ordered fasting lipid profile and fasting blood sugar as per yearly screen.\nARRANGEMENTS: Continue mebeverine BD, ispaghula husk OD, loperamide SOS. Return if chest pain, dyspnoea, fever >39°C, melena, or sudden weight change."
+    }
+  ]
+}

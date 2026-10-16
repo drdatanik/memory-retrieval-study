@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0434",
+  "name": "Subbarao Mallela",
+  "age": 18,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Insomnia",
+    "Allergic rhinitis",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0434-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia\n  - Status: New onset, difficulty falling asleep, ISI score pending.\n  - Plan: Start melatonin 3 mg HS, trazodone 50 mg HS; counsel sleep hygiene.\n- Allergic rhinitis\n  - Status: Seasonal sneezing, nasal congestion.\n  - Plan: Cetirizine 10 mg HS, fluticasone nasal spray 1 spray each nostril OD, montelukast 10 mg HS.\n- Epilepsy\n  - Status: Known, on levetiracetam 500 mg BD, lamotrigine 50 mg BD, seizure-free 6 months.\n  - Plan: Continue current AEDs; check EEG, serum Na, creatinine.\nWeight 58 kg, waist 82 cm (male cutoff 90 cm).\nDiet advice: Breakfast – Indian roti with veg; Lunch – rice, dal, vegetables; Dinner – light khichdi."
+    },
+    {
+      "memory_id": "X0434-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nLevetiracetam 500 mg BD\nLamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0434-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0)\nHaemoglobin 13.8 g/dL (13.0-17.0)\nInsomnia Severity Index score 14 (0-28, >10 moderate insomnia)"
+    },
+    {
+      "memory_id": "X0434-m04",
+      "date": "2025-04-07",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: Background rhythm normal, no epileptiform discharges. No spikes or sharp waves. Impression: Normal study, consistent with controlled epilepsy."
+    },
+    {
+      "memory_id": "X0434-m05",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been taking melatonin and trazodone at night. Sleep onset improved but I still wake up once. Nasal spray helps, but I feel drowsy in the morning."
+    },
+    {
+      "memory_id": "X0434-m06",
+      "date": "2025-05-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-01 at 10:00 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0434-m07",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia\n  - Status: Improved sleep latency, occasional nocturnal awakening.\n  - Plan: Continue melatonin 3 mg HS; reduce trazodone to 25 mg HS to lessen morning drowsiness.\n- Allergic rhinitis\n  - Status: Symptoms controlled on current regimen.\n  - Plan: Continue cetirizine, fluticasone, montelukast; consider skin prick test to identify triggers.\n- Epilepsy\n  - Status: Seizure-free, medication tolerated.\n  - Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD; repeat electrolytes and creatinine.\nWeight 57.5 kg, waist 81 cm.\nDiet advice: Breakfast – poha with peanuts; Lunch – chapati, sambar, salad; Dinner – dalia veg."
+    },
+    {
+      "memory_id": "X0434-m08",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 mg HS\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nLevetiracetam 500 mg BD\nLamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0434-m09",
+      "date": "2025-07-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4-4.0)\nHaemoglobin 13.6 g/dL (13.0-17.0)\nTotal serum IgE 120 IU/mL (<100 mild elevation)\nSkin prick test: Positive to dust mite (3+), negative to pollen."
+    },
+    {
+      "memory_id": "X0434-m10",
+      "date": "2025-07-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Skin prick test performed: Wheal diameter 8 mm to dust mite allergen, histamine control 3 mm, saline negative. Indicates allergic sensitisation to house dust mite."
+    },
+    {
+      "memory_id": "X0434-m11",
+      "date": "2025-07-08",
+      "type": "referral",
+      "author": "D04",
+      "text": "To: ENT Specialist, Bangalore General Hospital\nReason: Persistent allergic rhinitis despite medical therapy, need for possible immunotherapy evaluation.\nClinical details: Positive skin prick to dust mite, symptomatic despite cetirizine, fluticasone, montelukast.\nRequest: Assessment for allergen-specific immunotherapy."
+    },
+    {
+      "memory_id": "X0434-m12",
+      "date": "2025-08-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "From ENT: Patient evaluated, nasal endoscopy shows mild mucosal edema. Recommendation: Initiate subcutaneous immunotherapy (SCIT) for dust mite after confirming IgE levels. Continue current meds. Review in 3 months."
+    },
+    {
+      "memory_id": "X0434-m13",
+      "date": "2025-10-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia\n  - Status: Sleep maintenance improved on reduced trazodone.\n  - Plan: Continue melatonin 3 mg HS; trazodone 25 mg HS.\n- Allergic rhinitis\n  - Status: Symptom control acceptable; awaiting immunotherapy start.\n  - Plan: Continue cetirizine, fluticasone, montelukast; schedule SCIT initiation.\n- Epilepsy\n  - Status: Seizure-free, labs stable.\n  - Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD; annual lipid profile due.\nWeight 58 kg, waist 82 cm.\nDiet advice: Breakfast – upma with veg; Lunch – rice, rasam, salad; Dinner – chapati, curd."
+    },
+    {
+      "memory_id": "X0434-m14",
+      "date": "2025-10-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 mg HS\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nLevetiracetam 500 mg BD\nLamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0434-m15",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.4% (4.0-5.6)\nLipid profile: Total cholesterol 165 mg/dL (<200), HDL 48 mg/dL (>40), LDL 95 mg/dL (<100), Triglycerides 110 mg/dL (<150)\nSerum sodium 138 mmol/L (135-145)\nSerum creatinine 0.8 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0434-m16",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia\n  - Status: Stable, reports restful sleep.\n  - Plan: Continue melatonin 3 mg HS; trazodone 25 mg HS.\n- Allergic rhinitis\n  - Status: Initiated SCIT first dose today, tolerated.\n  - Plan: Continue SCIT build-up phase; maintain cetirizine, fluticasone, montelukast.\n- Epilepsy\n  - Status: No seizures, medication adherence good.\n  - Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD; check serum Na, creatinine.\nWeight 58.5 kg, waist 82 cm.\nDiet advice: Breakfast – idli sambar; Lunch – roti, dal, veg; Dinner – khichdi with curd."
+    },
+    {
+      "memory_id": "X0434-m17",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 mg HS\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nLevetiracetam 500 mg BD\nLamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0434-m18",
+      "date": "2026-04-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia\n  - Status: Well controlled, ISI score 7 (mild).\n  - Plan: Continue melatonin 3 mg HS; consider tapering trazodone if daytime sedation persists.\n- Allergic rhinitis\n  - Status: SCIT maintenance phase, symptoms minimal.\n  - Plan: Continue cetirizine HS, fluticasone OD, montelukast HS; continue immunotherapy.\n- Epilepsy\n  - Status: Seizure-free for >1 year.\n  - Plan: Consider lamotrigine taper if EEG remains normal; continue levetiracetam 500 mg BD.\nWeight 59 kg, waist 83 cm.\nDiet advice: Breakfast – vegetable oats; Lunch – quinoa, curd, salad; Dinner – millet roti, lentil stew."
+    }
+  ]
+}

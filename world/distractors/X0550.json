@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0550",
+  "name": "Javed Ansari",
+  "age": 65,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Iron-deficiency anaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0550-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anaemia\n  - Status: Fatigue and mild exertional dyspnoea; Hb 9.0 g/dL, ferritin 12 ng/mL, MCV 70 fL (microcytic). Weight 78 kg, waist 92 cm (>90 cm cut‑off for men).\n  - Plan: Start ferrous sulfate 200 mg OD after food; repeat Hb, ferritin, MCV in 3 months; advise iron‑rich diet (breakfast: fortified cereal with orange juice, lunch: dal with leafy greens, dinner: lean meat/legumes); review in 3 months."
+    },
+    {
+      "memory_id": "X0550-m02",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Ferrous sulfate 200 mg OD after food"
+    },
+    {
+      "memory_id": "X0550-m03",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 9.0 g/dL (Ref 13‑17)\nSerum ferritin: 12 ng/mL (Ref 30‑400)\nMCV: 70 fL (Ref 80‑100)"
+    },
+    {
+      "memory_id": "X0550-m04",
+      "date": "2025-04-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel tired most days, sometimes light‑headed when I stand up quickly. My appetite is fine, I eat regular meals."
+    },
+    {
+      "memory_id": "X0550-m05",
+      "date": "2025-04-16",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-20 at 10:00 am with Dr Karthik Hegde (Endocrinology)."
+    },
+    {
+      "memory_id": "X0550-m06",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anaemia\n  - Status: Improved energy, occasional mild tiredness; Hb 11.5 g/dL, ferritin 45 ng/mL, MCV 78 fL. Weight 77.5 kg, waist 91 cm.\n  - Plan: Continue ferrous sulfate 200 mg OD after food; repeat labs in 3 months; maintain iron‑rich diet; review in 3 months."
+    },
+    {
+      "memory_id": "X0550-m07",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Ferrous sulfate 200 mg OD after food"
+    },
+    {
+      "memory_id": "X0550-m08",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 11.5 g/dL (Ref 13‑17)\nSerum ferritin: 45 ng/mL (Ref 30‑400)\nMCV: 78 fL (Ref 80‑100)"
+    },
+    {
+      "memory_id": "X0550-m09",
+      "date": "2025-07-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Fatigue is better, I still feel a bit weary after long lectures but can manage my day."
+    },
+    {
+      "memory_id": "X0550-m10",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anaemia\n  - Status: Hb now normal at 13.2 g/dL, ferritin 110 ng/mL, MCV 85 fL. Weight 77 kg, waist 90 cm (at cut‑off).\n  - Plan: Reduce to ferrous sulfate 200 mg on alternate days after food; repeat labs in 3 months; continue balanced diet with iron sources; review in 3 months."
+    },
+    {
+      "memory_id": "X0550-m11",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Ferrous sulfate 200 mg on alternate days after food"
+    },
+    {
+      "memory_id": "X0550-m12",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 13.2 g/dL (Ref 13‑17)\nSerum ferritin: 110 ng/mL (Ref 30‑400)\nMCV: 85 fL (Ref 80‑100)"
+    },
+    {
+      "memory_id": "X0550-m13",
+      "date": "2025-10-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel much better, no more dizziness. Taking tablets every other day is easy to remember."
+    },
+    {
+      "memory_id": "X0550-m14",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anaemia\n  - Status: Slight drop in Hb to 12.0 g/dL, ferritin 80 ng/mL, MCV 82 fL; weight 78 kg, waist 92 cm (>90).\n  - Plan: Restart ferrous sulfate 200 mg OD after food; repeat labs in 3 months; reinforce iron‑rich meals, especially breakfast with vitamin C; review in 3 months."
+    },
+    {
+      "memory_id": "X0550-m15",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Ferrous sulfate 200 mg OD after food"
+    },
+    {
+      "memory_id": "X0550-m16",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 12.0 g/dL (Ref 13‑17)\nSerum ferritin: 80 ng/mL (Ref 30‑400)\nMCV: 82 fL (Ref 80‑100)"
+    },
+    {
+      "memory_id": "X0550-m17",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling a bit more tired lately, especially after skipping breakfast. I’ll try to eat more regularly."
+    },
+    {
+      "memory_id": "X0550-m18",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anaemia\n  - Status: Hb 13.5 g/dL, ferritin 130 ng/mL, MCV 88 fL; weight 77.5 kg, waist 90 cm.\n  - Plan: Continue ferrous sulfate 200 mg OD after food; labs stable, will check again in 6 months; maintain diet; review in 6 months."
+    }
+  ]
+}

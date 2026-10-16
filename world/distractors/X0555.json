@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0555",
+  "name": "Vasanthi Ramasamy",
+  "age": 84,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Insomnia",
+    "Obesity",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0555-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia, obesity, epilepsy. 84‑year‑old woman reports difficulty falling asleep, daytime fatigue, weight 92 kg, waist 108 cm, and occasional brief staring episodes. She is a former smoker (20 pack‑years, quit 2005). On exam: BMI 35, BP 138/84, lungs clear, neurological exam normal except mild post‑ictal confusion. She takes no current medications."
+    },
+    {
+      "memory_id": "X0555-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nOrlistat 120 mg with each main meal\nLevetiracetam 500 mg BD\nLamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0555-m03",
+      "date": "2025-04-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.5)\nHaemoglobin 12.8 g/dL (12‑16)\nFasting lipid profile: Cholesterol 5.6 mmol/L (<5.2), Triglycerides 2.1 (<1.7), HDL 1.0 (>1.2), LDL 3.8 (<3.0)\nFasting glucose 6.8 mmol/L (3.9‑5.8)\nHbA1c 6.2% (4.0‑5.6)\nALT 38 U/L (<40), AST 34 U/L (<38), ALP 84 U/L (30‑120), GGT 42 U/L (<50)\nWaist circumference 108 cm\nSerum sodium 138 mmol/L (135‑145)\nSerum creatinine 78 µmol/L (45‑90)"
+    },
+    {
+      "memory_id": "X0555-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "EEG: Background activity normal for age. No epileptiform discharges or slowing seen. No clinical correlation with reported episodes."
+    },
+    {
+      "memory_id": "X0555-m05",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘I’ve been using melatonin and trazodone. Sleep latency improved from 45 to 20 minutes, but I still wake up twice at night. Insomnia Severity Index score 14 (moderate).’"
+    },
+    {
+      "memory_id": "X0555-m06",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable insomnia, mild weight gain, no seizures. Patient reports improved sleep onset but persistent nocturnal awakenings. Weight 93 kg, waist 110 cm. Former smoker, 20 pack‑years, quit 2005. Exam: BMI 35.5, lungs clear, no focal neurology."
+    },
+    {
+      "memory_id": "X0555-m07",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 75 mg HS (increased from 50 mg)\nOrlistat 120 mg with each main meal (continued)\nLevetiracetam 500 mg BD\nLamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0555-m08",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4‑4.5)\nHaemoglobin 13.0 g/dL (12‑16)\nFasting lipid profile: Cholesterol 5.4 (<5.2), Triglycerides 2.0 (<1.7), HDL 1.0 (>1.2), LDL 3.6 (<3.0)\nFasting glucose 6.6 mmol/L (3.9‑5.8)\nHbA1c 6.1% (4.0‑5.6)\nALT 36 U/L (<40), AST 33 U/L (<38), ALP 82 U/L (30‑120), GGT 40 U/L (<50)\nWaist circumference 110 cm\nSerum sodium 139 mmol/L (135‑145)\nSerum creatinine 80 µmol/L (45‑90)"
+    },
+    {
+      "memory_id": "X0555-m09",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity-related GI intolerance to orlistat; insomnia worsening; seizure-free. Patient reports oily stools and abdominal cramping with orlistat. Weight 94 kg, waist 112 cm. Former smoker, 20 pack‑years, quit 2005. Exam: BMI 35.8, lungs clear, no neurological deficit."
+    },
+    {
+      "memory_id": "X0555-m10",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 75 mg HS\nOrlistat stopped\nLevetiracetam 500 mg BD\nLamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0555-m11",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 5.0 mmol/L (<5.2), Triglycerides 1.8 (<1.7), HDL 1.1 (>1.2), LDL 3.2 (<3.0)\nFasting glucose 6.5 mmol/L (3.9‑5.8)\nHbA1c 6.0% (4.0‑5.6)\nALT 34 U/L (<40), AST 32 U/L (<38), ALP 80 U/L (30‑120), GGT 38 U/L (<50)\nWaist circumference 112 cm"
+    },
+    {
+      "memory_id": "X0555-m12",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Breakthrough seizure reported; insomnia persists; weight stable. Patient had a generalized tonic‑clonic seizure lasting 90 seconds with post‑ictal confusion. No injuries. Weight 94 kg, waist 112 cm. Former smoker, 20 pack‑years, quit 2005. Exam: BMI 35.8, lungs clear, neurological exam normal post‑event."
+    },
+    {
+      "memory_id": "X0555-m13",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 75 mg HS\nLevetiracetam 750 mg BD (increased from 500 mg BD)\nLamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0555-m14",
+      "date": "2026-01-10",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Neurology, Vikram Hospital, for epilepsy review after breakthrough seizure. Request EEG, medication optimization, and safety counselling."
+    },
+    {
+      "memory_id": "X0555-m15",
+      "date": "2026-02-15",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Neurology reply: EEG shows occasional left temporal slowing, no epileptiform discharges. Recommend maintaining levetiracetam 750 mg BD, consider adding clobazam if further seizures. Counsel on seizure precautions and sleep hygiene."
+    },
+    {
+      "memory_id": "X0555-m16",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up pulmonology appointment booked for 2026-05-10 at 10:30 am with Dr Suresh Menon (D05). Patient to bring medication list and seizure diary."
+    }
+  ]
+}

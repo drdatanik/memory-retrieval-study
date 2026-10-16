@@ -1,0 +1,109 @@
+use_case,use_case_name,arm,level,n_questions,mean_quality
+1,Pre-visit summary,CTX,L1,1,3.0
+1,Pre-visit summary,CTX,L3,1,3.0
+1,Pre-visit summary,CTX,L5,1,3.0
+1,Pre-visit summary,EMB,L1,1,3.0
+1,Pre-visit summary,EMB,L3,1,3.0
+1,Pre-visit summary,EMB,L5,1,3.0
+1,Pre-visit summary,MD,L1,1,3.0
+1,Pre-visit summary,MD,L3,1,3.0
+1,Pre-visit summary,MD,L5,1,3.0
+2,Medication reconciliation,CTX,L1,1,3.0
+2,Medication reconciliation,CTX,L3,1,3.0
+2,Medication reconciliation,CTX,L5,1,3.0
+2,Medication reconciliation,EMB,L1,1,3.0
+2,Medication reconciliation,EMB,L3,1,3.0
+2,Medication reconciliation,EMB,L5,1,3.0
+2,Medication reconciliation,MD,L1,1,3.0
+2,Medication reconciliation,MD,L3,1,3.0
+2,Medication reconciliation,MD,L5,1,3.0
+3,Prescribing safety check,CTX,L1,1,3.0
+3,Prescribing safety check,CTX,L3,1,3.0
+3,Prescribing safety check,CTX,L5,1,3.0
+3,Prescribing safety check,EMB,L1,1,3.0
+3,Prescribing safety check,EMB,L3,1,3.0
+3,Prescribing safety check,EMB,L5,1,3.0
+3,Prescribing safety check,MD,L1,1,3.0
+3,Prescribing safety check,MD,L3,1,3.0
+3,Prescribing safety check,MD,L5,1,3.0
+4,Lab trend,CTX,L1,1,3.0
+4,Lab trend,CTX,L3,1,3.0
+4,Lab trend,CTX,L5,1,3.0
+4,Lab trend,EMB,L1,1,3.0
+4,Lab trend,EMB,L3,1,3.0
+4,Lab trend,EMB,L5,1,3.0
+4,Lab trend,MD,L1,1,3.0
+4,Lab trend,MD,L3,1,3.0
+4,Lab trend,MD,L5,1,3.0
+5,Cohort question,CTX,L1,1,3.0
+5,Cohort question,CTX,L3,1,3.0
+5,Cohort question,CTX,L5,1,3.0
+5,Cohort question,EMB,L1,1,3.0
+5,Cohort question,EMB,L3,1,3.0
+5,Cohort question,EMB,L5,1,3.0
+5,Cohort question,MD,L1,1,3.0
+5,Cohort question,MD,L3,1,0.0
+5,Cohort question,MD,L5,1,2.0
+6,Note in doctor's style,CTX,L1,1,2.0
+6,Note in doctor's style,CTX,L3,1,2.0
+6,Note in doctor's style,CTX,L5,1,2.0
+6,Note in doctor's style,EMB,L1,1,1.0
+6,Note in doctor's style,EMB,L3,1,2.0
+6,Note in doctor's style,EMB,L5,1,2.0
+6,Note in doctor's style,MD,L1,1,3.0
+6,Note in doctor's style,MD,L3,1,3.0
+6,Note in doctor's style,MD,L5,1,1.0
+7,Open loop,CTX,L1,1,3.0
+7,Open loop,CTX,L3,1,3.0
+7,Open loop,CTX,L5,1,2.0
+7,Open loop,EMB,L1,1,3.0
+7,Open loop,EMB,L3,1,3.0
+7,Open loop,EMB,L5,1,3.0
+7,Open loop,MD,L1,1,3.0
+7,Open loop,MD,L3,1,2.0
+7,Open loop,MD,L5,1,3.0
+8,Recall advice in lay terms,CTX,L1,1,3.0
+8,Recall advice in lay terms,CTX,L3,1,3.0
+8,Recall advice in lay terms,CTX,L5,1,3.0
+8,Recall advice in lay terms,EMB,L1,1,3.0
+8,Recall advice in lay terms,EMB,L3,1,3.0
+8,Recall advice in lay terms,EMB,L5,1,3.0
+8,Recall advice in lay terms,MD,L1,1,3.0
+8,Recall advice in lay terms,MD,L3,1,3.0
+8,Recall advice in lay terms,MD,L5,1,3.0
+9,Logistics,CTX,L1,1,2.0
+9,Logistics,CTX,L3,1,2.0
+9,Logistics,CTX,L5,1,2.0
+9,Logistics,EMB,L1,1,3.0
+9,Logistics,EMB,L3,1,3.0
+9,Logistics,EMB,L5,1,3.0
+9,Logistics,MD,L1,1,3.0
+9,Logistics,MD,L3,1,2.0
+9,Logistics,MD,L5,1,2.0
+10,OTC safety,CTX,L1,1,3.0
+10,OTC safety,CTX,L3,1,2.0
+10,OTC safety,CTX,L5,1,3.0
+10,OTC safety,EMB,L1,1,3.0
+10,OTC safety,EMB,L3,1,2.0
+10,OTC safety,EMB,L5,1,2.0
+10,OTC safety,MD,L1,1,2.0
+10,OTC safety,MD,L3,1,2.0
+10,OTC safety,MD,L5,1,3.0
+11,Personal context,CTX,L1,1,2.0
+11,Personal context,CTX,L3,1,2.0
+11,Personal context,CTX,L5,1,3.0
+11,Personal context,EMB,L1,1,3.0
+11,Personal context,EMB,L3,1,3.0
+11,Personal context,EMB,L5,1,3.0
+11,Personal context,MD,L1,1,3.0
+11,Personal context,MD,L3,1,3.0
+11,Personal context,MD,L5,1,3.0
+12,Identity and leakage,CTX,L1,1,3.0
+12,Identity and leakage,CTX,L3,1,3.0
+12,Identity and leakage,CTX,L5,1,3.0
+12,Identity and leakage,EMB,L1,1,3.0
+12,Identity and leakage,EMB,L3,1,3.0
+12,Identity and leakage,EMB,L5,1,3.0
+12,Identity and leakage,MD,L1,1,3.0
+12,Identity and leakage,MD,L3,1,3.0
+12,Identity and leakage,MD,L5,1,3.0

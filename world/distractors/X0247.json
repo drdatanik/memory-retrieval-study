@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0247",
+  "name": "Sachin Joshi",
+  "age": 22,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Gastro-oesophageal reflux",
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0247-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease and lumbar radiculopathy (sciatica).\nPatient reports heartburn and epigastric burning after meals, occasional regurgitation, and low back pain radiating to the right posterior thigh, worse on sitting. Straight leg raise limited to 45° on the right. Examination shows mild epigastric tenderness, lumbar paraspinal muscle spasm, and normal cardiopulmonary findings. Plan: initiate pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, antacid gel SOS, pregabalin 75 mg BD, diclofenac 50 mg BD after food, and methylcobalamin 1500 mcg OD."
+    },
+    {
+      "memory_id": "X0247-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\nantacid gel SOS after meals\npregabalin 75 mg BD\ndiclofenac 50 mg BD after food\nmethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0247-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: negative (reference: negative).\nComplete blood count: WBC 6.2 x10^9/L, Hb 14.8 g/dL, platelets 240 x10^9/L.\nSerum electrolytes within normal limits."
+    },
+    {
+      "memory_id": "X0247-m04",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"Heartburn has improved since starting pantoprazole, but I still get burning after spicy food. My back pain shoots down my leg when I sit for long stretches; I’ve been doing gentle stretches.\""
+    },
+    {
+      "memory_id": "X0247-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease, well controlled; lumbar radiculopathy (sciatica), partially responsive.\nSymptoms: occasional heartburn after large meals, no regurgitation; back pain reduced but still aching, worse after prolonged standing, straight leg raise 60° on the right. Examination: mild epigastric tenderness, lumbar paraspinal tightness, normal neurological exam of lower limbs. Plan: increase pregabalin to 150 mg BD, continue diclofenac PRS, add physiotherapy referral, maintain pantoprazole and domperidone, antacid gel SOS, methylcobalamin OD."
+    },
+    {
+      "memory_id": "X0247-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pregabalin 150 mg BD\ndiclofenac 50 mg BD after food (PRS)\npantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\nantacid gel SOS\nmethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0247-m07",
+      "date": "2025-07-12",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Orthopaedic Spine Clinic, Narayana Health, Bengaluru.\nReason: persistent lumbar radiculopathy despite medical therapy, need MRI lumbar spine and possible epidural steroid injection. Request urgent assessment."
+    },
+    {
+      "memory_id": "X0247-m08",
+      "date": "2025-08-15",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Orthopaedic Spine Clinic report: MRI lumbar spine shows posterior disc bulge at L4-L5 indenting thecal sleeve, no cord compression. Recommend epidural steroid injection at L4-L5 under fluoroscopy. Patient advised to continue current medications and physiotherapy."
+    },
+    {
+      "memory_id": "X0247-m09",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "MRI lumbar spine (1.5T) performed 2025-08-28: posterior disc bulge L4-L5 causing mild thecal sac compression, no nerve root edema or cord signal change. Findings consistent with lumbar radiculopathy."
+    },
+    {
+      "memory_id": "X0247-m10",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for follow-up with Dr Suresh Menon (Pulmonology) on 2025-10-20 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0247-m11",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease, well controlled; lumbar radiculopathy (sciatica), improved after epidural steroid.\nSymptoms: heartburn absent, occasional mild epigastric discomfort after large meals; back pain mild, intermittent, no radiculopathy, straight leg raise 80° bilaterally. Examination: soft epigastric area, lumbar paraspinal relaxed, normal neuro exam. Plan: continue pantoprazole 40 mg OD, domperidone 10 mg BD, antacid gel SOS, pregabalin 150 mg BD, diclofenac PRS, methylcobalamin OD; consider tapering pregabalin if symptoms remain low."
+    },
+    {
+      "memory_id": "X0247-m12",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin B12 level: 420 pg/mL (reference 200-900).\nSerum magnesium: 2.1 mg/dL (reference 1.7-2.2).\nLiver function tests: ALT 22 U/L, AST 20 U/L, bilirubin 0.8 mg/dL (all within normal)."
+    },
+    {
+      "memory_id": "X0247-m13",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease, asymptomatic; lumbar radiculopathy (sciatica), resolved.\nSymptoms: no heartburn, no regurgitation; back pain absent, full range of motion, straight leg raise 90° bilaterally. Examination: normal abdomen, lumbar spine supple, neuro exam normal. Plan: continue pantoprazole 20 mg OD (step-down), domperidone as needed, antacid gel SOS, discontinue pregabalin and diclofenac, maintain methylcobalamin 1500 mcg OD. Review in 3 months."
+    }
+  ]
+}

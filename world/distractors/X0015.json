@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0015",
+  "name": "Anitha Kotha",
+  "age": 42,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "COPD",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0015-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: COPD (GOLD 2) and episodic migraine.\nPatient reports dyspnea on exertion, occasional wheeze, and migraine headaches twice weekly. On exam: mild pursed-lip breathing, bilateral wheezes, normal neurological exam. Spirometry shows FEV1 1.8 L (55% predicted), FVC 2.2 L, FEV1/FVC 0.82. ACT score 16 (not well controlled). Inhaler technique checked: incorrect; taught correct use of budesonide-formoterol dry powder device, inspiratory flow adequate. Smoking status: former, stopped 2010, 10 pack-years."
+    },
+    {
+      "memory_id": "X0015-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Tiotropium inhaler OD; Salbutamol inhaler SOS; Budesonide-formoterol 200/6 inhaler BD; Propranolol 40 mg OD; Sumatriptan 50 mg SOS; Topiramate 25 mg HS; Naproxen 500 mg SOS. Duration 3 months."
+    },
+    {
+      "memory_id": "X0015-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.2 g/dl (12-16); WBC 6.8 x10^9/L (4-10); Platelets 210 x10^9/L (150-400); ESR 12 mm/hr (<20); CRP 2 mg/L (<5)."
+    },
+    {
+      "memory_id": "X0015-m04",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray: hyperinflated lungs, flattened diaphragms, no focal consolidation, cardiac size normal."
+    },
+    {
+      "memory_id": "X0015-m05",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been using my inhalers as prescribed, but I still get shortness of breath when climbing stairs and my migraines have worsened to three times a week despite sumatriptan."
+    },
+    {
+      "memory_id": "X0015-m06",
+      "date": "2025-06-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Budesonide-formoterol 400/12 inhaler BD; Tiotropium inhaler OD; Salbutamol inhaler SOS; Propranolol 60 mg OD; Topiramate 50 mg HS; Sumatriptan 50 mg SOS; Naproxen 500 mg SOS. Duration 3 months."
+    },
+    {
+      "memory_id": "X0015-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: COPD (GOLD 2) and episodic migraine, stable on therapy.\nPatient reports improved exertional dyspnea, now only on steep slopes; migraines reduced to twice weekly. Exam: mild wheeze at bases, otherwise clear lungs; no neurological deficits. Spirometry: FEV1 1.9 L (58% predicted), FVC 2.3 L, FEV1/FVC 0.83; change in FEV1 since last test +0.1 L. ACT score 20 (well controlled). Inhaler technique checked: correct; inspiratory flow adequate for dry powder device. Smoking status: former, stopped 2010, 10 pack-years."
+    },
+    {
+      "memory_id": "X0015-m08",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.9 L (58% predicted), FVC 2.3 L, FEV1/FVC 0.83; FVC 2.3 L (80% predicted)."
+    },
+    {
+      "memory_id": "X0015-m09",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked with Dr Suresh Menon (D05) for 2025-10-05 at 10:00 AM."
+    },
+    {
+      "memory_id": "X0015-m10",
+      "date": "2025-09-10",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Neurology for refractory migraine prophylaxis. Patient experiencing migraines twice weekly despite current prophylaxis; consider specialist input for alternative agents."
+    },
+    {
+      "memory_id": "X0015-m11",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Neurology review: recommended continuing propranolol 60 mg OD, add amitriptyline 10 mg HS, maintain sumatriptan SOS. No urgent intervention required."
+    },
+    {
+      "memory_id": "X0015-m12",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: COPD (GOLD 2) and episodic migraine, well controlled.\nPatient denies dyspnea at rest, reports only mild breathlessness on brisk walking; migraines now once weekly. Exam: clear lungs, no wheeze; normal neurological exam. Spirometry: FEV1 2.0 L (60% predicted), FVC 2.4 L, FEV1/FVC 0.83; change in FEV1 since last test +0.1 L. ACT score 22 (well controlled). Inhaler technique checked: correct; inspiratory flow adequate. Smoking status: former, stopped 2010, 10 pack-years."
+    }
+  ]
+}

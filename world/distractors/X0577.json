@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0577",
+  "name": "Mohammed Ansari",
+  "age": 46,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Osteoarthritis of the knee"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0577-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: initial assessment of right knee osteoarthritis.\nPRESENTING COMPLAINT: 46‑year‑old lab technician reports dull aching pain in both knees worsening after prolonged standing at work, no swelling or locking.\nEXAMINATION: BP 128/82 mmHg, weight 78 kg, height 1.70 m, BMI 27.0 (obese). Knees show mild crepitus, full range of motion, no effusion. No erythema.\nIMPRESSION: Osteoarthritis of both knees, obese. Fasting lipid profile: total cholesterol 5.2 mmol/L (<5.2 borderline), LDL 3.4 mmol/L (<2.6 high), HDL 1.2 mmol/L (>1.0 OK), triglycerides 1.8 mmol/L (<1.7 borderline). Fasting blood sugar 98 mg/dL (<100 normal). Vitamin D level pending.\nARRANGEMENTS: Start paracetamol 650 mg SOS, topical diclofenac gel BD, calcium carbonate 500 mg with vitamin D3 400 IU OD. Advise weight reduction, low‑impact exercise, quadriceps strengthening. Return if: worsening pain, knee swelling, fever >39°C, inability to bear weight."
+    },
+    {
+      "memory_id": "X0577-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Paracetamol 650 mg SOS\nTopical diclofenac gel apply BD to knees\nCalcium carbonate 500 mg + vitamin D3 400 IU OD"
+    },
+    {
+      "memory_id": "X0577-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.2 mmol/L (ref <5.2), LDL 3.4 mmol/L (ref <2.6), HDL 1.2 mmol/L (ref >1.0), Triglycerides 1.8 mmol/L (ref <1.7). Fasting blood sugar: 98 mg/dL (ref 70‑99)."
+    },
+    {
+      "memory_id": "X0577-m04",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 18 ng/mL (ref 30‑100)."
+    },
+    {
+      "memory_id": "X0577-m05",
+      "date": "2025-06-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-15 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0577-m06",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of knee osteoarthritis and vitamin D deficiency.\nPRESENTING COMPLAINT: Patient reports knee pain unchanged, occasional paracetamol use, no new swelling.\nEXAMINATION: BP 130/84 mmHg, weight 77 kg, BMI 26.6 (obese). Knees tender on medial joint line, crepitus present, no effusion.\nIMPRESSION: Osteoarthritis knees, obese, vitamin D deficiency. Advised on diet and activity due to BMI ≥23.\nARRANGEMENTS: Change paracetamol to 500 mg TDS SOS, continue topical diclofenac gel BD, calcium 500 mg + vitamin D3 400 IU OD, add cholecalciferol 1000 IU OD to replete vitamin D. Advise weight loss target 5 kg, swimming twice weekly. Return if: worsening pain, knee swelling with redness, fever >39°C, night pain disturbing sleep."
+    },
+    {
+      "memory_id": "X0577-m07",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Paracetamol 500 mg TDS SOS\nTopical diclofenac gel BD\nCalcium carbonate 500 mg + vitamin D3 400 IU OD\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0577-m08",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Weight‑bearing X‑ray both knees: Joint space narrowing medial compartment bilaterally, mild osteophytes, no subchondral cyst or fracture. Consistent with moderate osteoarthritis."
+    },
+    {
+      "memory_id": "X0577-m09",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘My right knee has been hurting more when I climb stairs; I’ve been taking paracetamol three times a day but it only helps a little.’"
+    },
+    {
+      "memory_id": "X0577-m10",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: autumn review, influenza vaccine offered.\nPRESENTING COMPLAINT: Patient reports increased knee pain on stairs, otherwise well.\nEXAMINATION: BP 129/83 mmHg, weight 76 kg, BMI 26.2 (overweight). Knees painful on passive flexion, mild crepitus, no effusion.\nIMPRESSION: Osteoarthritis knees, overweight. Vitamin D level to be rechecked. Advised on diet and activity due to BMI ≥23.\nARRANGEMENTS: Continue current analgesics, advise physiotherapy referral. Influenza vaccine offered and given today 2025‑10‑20. Return if: severe knee pain preventing weight bearing, swelling with warmth, fever >39°C, signs of infection."
+    },
+    {
+      "memory_id": "X0577-m11",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: winter check‑up, assess response to therapy.\nPRESENTING COMPLAINT: Patient says knee pain slightly better with regular paracetamol, still uses topical gel.\nEXAMINATION: BP 127/81 mmHg, weight 75 kg, BMI 25.9 (overweight). Knees mildly tender, full ROM, no effusion.\nIMPRESSION: Osteoarthritis knees, overweight. Vitamin D repleted? Labs pending.\nARRANGEMENTS: Order fasting lipid profile, fasting blood sugar, repeat serum vitamin D. Continue paracetamol 500 mg TDS SOS, topical diclofenac gel BD, calcium 500 mg + vitamin D3 400 IU OD, cholecalciferol 1000 IU OD. Advise maintain activity, avoid prolonged kneeling. Return if: worsening pain, knee swelling, fever >39°C, night sweats."
+    },
+    {
+      "memory_id": "X0577-m12",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 4.9 mmol/L (ref <5.2), LDL 2.9 mmol/L (ref <2.6), HDL 1.3 mmol/L (ref >1.0), Triglycerides 1.6 mmol/L (ref <1.7). Fasting blood sugar: 92 mg/dL (ref 70‑99). Serum 25‑hydroxyvitamin D: 28 ng/mL (ref 30‑100) – still slightly low."
+    },
+    {
+      "memory_id": "X0577-m13",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: spring follow‑up, review labs and symptoms.\nPRESENTING COMPLAINT: Patient reports knee pain unchanged, occasional paracetamol use.\nEXAMINATION: BP 128/82 mmHg, weight 74 kg, BMI 25.5 (overweight). Knees mildly tender, no effusion.\nIMPRESSION: Osteoarthritis knees, overweight. Fasting lipids improved, vitamin D still suboptimal.\nARRANGEMENTS: Increase vitamin D3 to cholecalciferol 2000 IU OD, continue other meds. Advise weight reduction goal 2 kg, low‑impact aerobic exercise. Return if: worsening pain, knee swelling with redness, fever >39°C, inability to climb stairs."
+    },
+    {
+      "memory_id": "X0577-m14",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Paracetamol 500 mg TDS SOS\nTopical diclofenac gel BD\nCalcium carbonate 500 mg + vitamin D3 400 IU OD\nCholecalciferol 2000 IU OD"
+    },
+    {
+      "memory_id": "X0577-m15",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 32 ng/mL (ref 30‑100) – now sufficient."
+    },
+    {
+      "memory_id": "X0577-m16",
+      "date": "2026-07-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: mid‑year review of osteoarthritis.\nPRESENTING COMPLAINT: Patient states knee pain stable, able to walk 3 km without discomfort.\nEXAMINATION: BP 130/80 mmHg, weight 73 kg, BMI 25.2 (overweight). Knees mildly tender on medial side, full ROM, no effusion.\nIMPRESSION: Osteoarthritis knees, overweight. Vitamin D adequate.\nARRANGEMENTS: Continue current regimen, reinforce quadriceps strengthening. Weight‑bearing X‑ray both knees scheduled today. Return if: sudden increase in pain, locking of knee, swelling with warmth, fever >39°C."
+    },
+    {
+      "memory_id": "X0577-m17",
+      "date": "2026-07-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Weight‑bearing X‑ray both knees: Joint space narrowing unchanged from prior film, mild osteophytes, no new lesions. Stable osteoarthritis."
+    },
+    {
+      "memory_id": "X0577-m18",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: autumn review, influenza vaccine offered.\nPRESENTING COMPLAINT: Patient reports occasional knee ache after long standing, otherwise well.\nEXAMINATION: BP 129/81 mmHg, weight 72 kg, BMI 24.8 (overweight, just below obese cut‑off). Knees mildly tender, no effusion.\nIMPRESSION: Osteoarthritis knees, overweight. Lipids and sugars within target.\nARRANGEMENTS: Continue paracetamol 500 mg TDS SOS, topical diclofenac gel BD, calcium 500 mg + vitamin D3 400 IU OD, cholecalciferol 2000 IU OD. Influenza vaccine given today 2026‑10‑05. Advise maintain weight, continue exercises. Return if: worsening pain, knee swelling, fever >39°C, night pain disturbing sleep."
+    }
+  ]
+}

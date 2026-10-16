@@ -1,0 +1,104 @@
+{
+  "patient_id": "P09",
+  "name": "Deepa Krishnan",
+  "age": 55,
+  "sex": "F",
+  "primary_doctor": "D02",
+  "conditions": [
+    "Paroxysmal atrial fibrillation",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "P09-m01",
+      "date": "2025-07-28",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2025-07-28: 'Doctor, my heart suddenly starts racing and pounding for a few minutes and then settles by itself. This has happened about four times since June. I am a homemaker and I live with my son's family in Jayanagar. What should I do?'"
+    },
+    {
+      "memory_id": "P09-m02",
+      "date": "2025-08-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: Haemoglobin 12.9 g/dL (reference 12.0-15.5 g/dL). Platelet count 232 x10^3/uL (reference 150-400). Serum creatinine 0.8 mg/dL (reference 0.5-1.1 mg/dL). eGFR 84 mL/min/1.73m² (reference above 60). Serum potassium 4.2 mmol/L (reference 3.5-5.1). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P09-m03",
+      "date": "2025-08-12",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "The patient is a fifty-five-year-old woman with paroxysmal atrial fibrillation and hypertension. She describes episodes of racing palpitations since June 2025, each lasting a few minutes and settling on their own. She has no chest pain and no fainting. Her heart rhythm was regular during this consultation, and her blood pressure was 150 over 92 millimetres of mercury. Her baseline blood tests from the eighth of August show normal kidney function. Because of her risk of stroke, I have started apixaban 5 milligrams twice daily. I have also started bisoprolol 2.5 milligrams once daily to control her heart rate and telmisartan 40 milligrams once daily to lower her blood pressure. She has been counselled about the warning signs of bleeding and about not missing doses. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P09-m04",
+      "date": "2025-08-12",
+      "type": "prescription",
+      "author": "D02",
+      "text": "Apixaban 5 milligrams twice daily, started 2025-08-12 for stroke prevention in paroxysmal atrial fibrillation."
+    },
+    {
+      "memory_id": "P09-m05",
+      "date": "2025-08-12",
+      "type": "prescription",
+      "author": "D02",
+      "text": "Bisoprolol 2.5 milligrams once daily, started 2025-08-12 for heart rate control."
+    },
+    {
+      "memory_id": "P09-m06",
+      "date": "2025-08-12",
+      "type": "prescription",
+      "author": "D02",
+      "text": "Telmisartan 40 milligrams once daily, started 2025-08-12 for hypertension."
+    },
+    {
+      "memory_id": "P09-m07",
+      "date": "2025-08-12",
+      "type": "allergy",
+      "author": "D02",
+      "text": "Allergy: sulfonamide antibiotics. 'Septran' (co-trimoxazole) in 2012 caused a widespread blistering rash needing hospital admission (suspected Stevens-Johnson syndrome). Recorded 2025-08-12. Patient advised to tell every doctor and pharmacist, and given a written note to carry at all times."
+    },
+    {
+      "memory_id": "P09-m08",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o PAF, HTN. On apixaban (Eliquis) 5 mg BD since Aug, cardiology review done. One episode of palpitations in Sept, self-settled. c/o nil bleeding, nil giddiness.\nO: BP 136/84 mmHg, pulse 74/min, regular. Wt 66 kg. O/E: CVS and RS NAD.\nA: 1. PAF, quiet. 2. HTN, improving on telmisartan.\nP: 1. Cont apixaban (Eliquis) 5 mg BD. 2. Cont bisoprolol 2.5 mg OD. 3. Cont telmisartan 40 mg OD. 4. Hb and RFT done today.\nAdv: Salt under 5 g/day, walk 30 min daily, limit tea and coffee, avoid alcohol binges. R/V in 3 months."
+    },
+    {
+      "memory_id": "P09-m09",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: Haemoglobin 12.4 g/dL (reference 12.0-15.5 g/dL). Serum creatinine 0.9 mg/dL (reference 0.5-1.1 mg/dL). Serum potassium 4.3 mmol/L (reference 3.5-5.1). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P09-m10",
+      "date": "2026-02-16",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "The patient returned for her six-month review. She reports no further episodes of palpitations since the previous consultation, and she takes apixaban twice daily, bisoprolol once daily and telmisartan once daily without difficulty. She has had no bleeding from the gums, nose, urine or stools. Her heart rhythm was regular on examination, and her blood pressure was 128 over 80 millimetres of mercury. Blood tests were taken today and the results are in her file. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P09-m11",
+      "date": "2026-02-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: Haemoglobin 12.6 g/dL (reference 12.0-15.5 g/dL). Serum creatinine 0.9 mg/dL (reference 0.5-1.1 mg/dL). eGFR 78 mL/min/1.73m² (reference above 60). Serum potassium 4.4 mmol/L (reference 3.5-5.1). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P09-m12",
+      "date": "2026-06-09",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2026-06-09: 'Doctor, I am planning to travel to Kerala in July to visit my sister for ten days. Can I carry my tablets in my hand luggage? And do I need to take extra if the journey is long?'"
+    },
+    {
+      "memory_id": "P09-m13",
+      "date": "2026-10-08",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o PAF on apixaban, HTN. c/o burning on passing urine x 3 days, frequency, lower abdominal discomfort. No fever, no loin pain. No visible blood in urine.\nO: Temp 37.2°C, pulse 72/min regular, BP 128/80 mmHg. O/E: mild suprapubic tenderness; no renal angle tenderness. CVS and RS NAD.\nA: 1. Lower UTI, likely. 2. PAF, rate controlled, on apixaban. 3. HTN, controlled on telmisartan.\nP: 1. Urine routine and culture sent today. 2. Start antibiotic for UTI today; drug and duration to be confirmed on the culture report. 3. Cont apixaban (Eliquis) 5 mg BD, bisoprolol 2.5 mg OD, telmisartan 40 mg OD. 4. Fluids about 2.5 L/day; pass urine regularly.\nAdv: Drink plenty of water, do not hold urine, avoid tea and coffee for now, wipe front to back. R/V in 1 wk with the culture report."
+    }
+  ]
+}

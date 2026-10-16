@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0263",
+  "name": "Javed Ahmed",
+  "age": 77,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic kidney disease",
+    "Generalised anxiety disorder",
+    "Iron-deficiency anaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0263-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease, generalised anxiety disorder, iron-deficiency anaemia. Patient reports fatigue, occasional dyspnoea on exertion, mild worry. BP 138/86, pulse 78, SpO2 96% room air. Lung fields clear, no edema. Hb 9.2 g/dL, MCV 72 fL, ferritin 12 ng/mL. Serum creatinine 1.6 mg/dL, eGFR 45 mL/min/1.73m2, urine ACR 85 mg/g. GAD-7 score 12."
+    },
+    {
+      "memory_id": "X0263-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n escitalopram 5 mg OD\n buspirone 5 mg BD\n ferrous sulfate 200 mg OD"
+    },
+    {
+      "memory_id": "X0263-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.6 mg/dL (0.6-1.2)\neGFR 45 mL/min/1.73m2 (>60)\nUrine albumin-creatinine ratio 85 mg/g (<30)\nHaemoglobin 9.2 g/dL (13-17)\nSerum ferritin 12 ng/mL (30-400)\nMCV 72 fL (80-100)\nTSH 2.1 mIU/L (0.4-4.0)\nGAD-7 12 (0-21)"
+    },
+    {
+      "memory_id": "X0263-m04",
+      "date": "2025-04-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling more tired lately, mild shortness of breath when climbing stairs. Anxiety seems a bit worse, worrying about finances. No new meds, taking iron tablets as prescribed but sometimes forget doses."
+    },
+    {
+      "memory_id": "X0263-m05",
+      "date": "2025-05-01",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Allergy: rash after taking ibuprofen for headache - maculopapular rash on trunk, resolved with antihistamine. Avoid NSAIDs."
+    },
+    {
+      "memory_id": "X0263-m06",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stable. Generalised anxiety disorder partially controlled. Iron-deficiency anaemia improving. Symptoms: less fatigue, occasional dyspnoea on exertion, worry decreased. BP 132/84, pulse 76, SpO2 97%. Lung clear, no edema. Hb 10.1 g/dL, MCV 74 fL, ferritin 18 ng/mL. Creatinine 1.5 mg/dL, eGFR 48, urine ACR 78 mg/g. GAD-7 9. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0263-m07",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD (increased for mild fluid retention)\n sodium bicarbonate 500 mg BD\n escitalopram 5 mg OD\n buspirone 5 mg BD\n ferrous sulfate 200 mg OD\n ferrous sulfate 200 mg on alternate days"
+    },
+    {
+      "memory_id": "X0263-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.5 mg/dL\neGFR 48 mL/min/1.73m2\nUrine ACR 78 mg/g\nHaemoglobin 10.1 g/dL\nSerum ferritin 18 ng/mL\nMCV 74 fL\nTSH 2.0 mIU/L\nGAD-7 9"
+    },
+    {
+      "memory_id": "X0263-m09",
+      "date": "2025-07-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-05 10:30 with Dr Suresh Menon (D05) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0263-m10",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stable, mild improvement in eGFR. Generalised anxiety disorder well controlled. Iron-deficiency anaemia progressing. Symptoms: minimal fatigue, no dyspnoea, anxiety controlled. BP 128/80, pulse 74, SpO2 98%. Lung clear, no edema. Hb 11.0 g/dL, MCV 76 fL, ferritin 25 ng/mL. Creatinine 1.4 mg/dL, eGFR 52, urine ACR 70 mg/g. GAD-7 6 (well controlled)."
+    },
+    {
+      "memory_id": "X0263-m11",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 OD\n sodium bicarbonate 500 mg BD\n escitalopram 5 mg OD\n buspirone 5 mg BD\n ferrous sulfate 200 mg OD\n ferrous sulfate 200 mg on alternate days"
+    },
+    {
+      "memory_id": "X0263-m12",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.4 mg/dL\neGFR 52 mL/min/1.73m2\nUrine ACR 70 mg/g\nHaemoglobin 11.0 g/dL\nSerum ferritin 25 ng/mL\nMCV 76 fL\nTSH 1.9 mIU/L\nGAD-7 6"
+    },
+    {
+      "memory_id": "X0263-m13",
+      "date": "2026-01-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stable. Generalised anxiety disorder well controlled. Iron-deficiency anaemia near correction. Patient reports occasional mild headache, no dyspnoea. BP 130/82, pulse 75, SpO2 97%. Lung clear, no edema. Hb 11.8 g/dL, MCV 78 fL, ferritin 32 ng/mL. Creatinine 1.3 mg/dL, eGFR 56, urine ACR 65 mg/g. GAD-7 4."
+    },
+    {
+      "memory_id": "X0263-m14",
+      "date": "2026-01-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 OD\n sodium bicarbonate 500 mg BD\n escitalopram 5 mg OD\n buspirone 5 mg BD (dose reduced to 2.5 mg BD due to mild sedation)\n ferrous sulfate 200 mg OD\n ferrous sulfate 200 mg on alternate days"
+    },
+    {
+      "memory_id": "X0263-m15",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.3 mg/dL\neGFR 56 mL/min/1.73m2\nUrine ACR 65 mg/g\nHaemoglobin 11.8 g/dL\nSerum ferritin 32 ng/mL\nMCV 78 fL\nTSH 1.8 mIU/L\nGAD-7 4"
+    },
+    {
+      "memory_id": "X0263-m16",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stable, eGFR slowly rising. Generalised anxiety disorder well controlled. Iron-deficiency anaemia corrected. Patient feels energetic, no dyspnoea, anxiety minimal. BP 128/80, pulse 73, SpO2 98%. Lung clear, no edema. Hb 12.8 g/dL, MCV 80 fL, ferritin 45 ng/mL. Creatinine 1.2 mg/dL, eGFR 60, urine ACR 60 mg/g. GAD-7 2."
+    },
+    {
+      "memory_id": "X0263-m17",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 OD (reduced as edema resolved)\n sodium bicarbonate 500 mg BD\n escitalopram 5 mg OD\n buspirone 2.5 mg BD\n ferrous sulfate 200 mg OD (continue for maintenance)\n ferrous sulfate 200 mg on alternate days (stopped)"
+    },
+    {
+      "memory_id": "X0263-m18",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stable at stage 3a. Generalised anxiety disorder well controlled. Iron-deficiency anaemia maintained. Patient reports good energy, no dyspnoea, anxiety minimal. BP 126/78, pulse 72, SpO2 99%. Lung clear, no edema. Hb 13.0 g/dL, MCV 82 fL, ferritin 50 ng/mL. Creatinine 1.15 mg/dL, eGFR 62, urine ACR 55 mg/g. GAD-7 1 (well controlled)."
+    }
+  ]
+}

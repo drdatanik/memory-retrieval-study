@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0597",
+  "name": "Shaheen Qureshi",
+  "age": 68,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0597-m01",
+      "date": "2025-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Front desk booked patient's appointment with Dr Priya Natarajan for 2025-04-05 at 10:30 am for routine follow‑up of vitamin D deficiency."
+    },
+    {
+      "memory_id": "X0597-m02",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient attends for review of vitamin D deficiency and general well‑being.\nEXAMINATION: BP 128/78 mmHg, weight 62 kg, height 158 cm, BMI 24.8 (overweight). No pallor, thyroid normal, lungs clear.\nIMPRESSION: Vitamin D deficiency, overweight. Advised on diet and activity.\nARRANGEMENTS: Start cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU daily. Order serum 25‑OH vitamin D, calcium, phosphate. Return if new bone pain, muscle weakness, fever >39°C, or persistent vomiting."
+    },
+    {
+      "memory_id": "X0597-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 60000 IU oral once weekly for 8 weeks, then cholecalciferol 1000 IU oral daily."
+    },
+    {
+      "memory_id": "X0597-m04",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 14 ng/mL (ref 30‑100). Serum calcium 9.1 mg/dL (ref 8.6‑10.3). Serum phosphate 3.2 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0597-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up after loading dose of vitamin D; reports mild knee discomfort.\nEXAMINATION: BP 130/80 mmHg, weight 61.5 kg, BMI 24.6 (overweight). Advised diet and activity.\nEXAMINATION: No joint swelling, muscles normal.\nIMPRESSION: Vitamin D deficiency improving, overweight. Continue maintenance dose.\nARRANGEMENTS: Change to cholecalciferol 1000 IU oral daily. Repeat serum 25‑OH vitamin D, calcium, phosphate in 3 months. Return if worsening pain, new fractures, fever >39°C, or unexplained weight loss."
+    },
+    {
+      "memory_id": "X0597-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 1000 IU oral daily."
+    },
+    {
+      "memory_id": "X0597-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 22 ng/mL (ref 30‑100). Serum calcium 9.2 mg/dL (ref 8.6‑10.3). Serum phosphate 3.3 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0597-m08",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review; patient feels better, no bone pain.\nEXAMINATION: BP 128/76 mmHg, weight 61 kg, BMI 24.4 (overweight). Advised diet and activity.\nEXAMINATION: Lungs clear, abdomen soft.\nIMPRESSION: Vitamin D deficiency borderline, overweight. Annual metabolic screen.\nARRANGEMENTS: Continue cholecalciferol 1000 IU daily. Order fasting lipid profile, fasting blood sugar, plus serum 25‑OH vitamin D, calcium, phosphate. Offer influenza vaccine today (autumn). Return if chest pain, breathlessness, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0597-m09",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 28 ng/mL (ref 30‑100). Serum calcium 9.3 mg/dL (ref 8.6‑10.3). Serum phosphate 3.4 mg/dL (ref 2.5‑4.5). Fasting LDL 110 mg/dL (ref <100), HDL 48 mg/dL (ref >40), triglycerides 150 mg/dL (ref <150). Fasting blood sugar 92 mg/dL (ref 70‑100)."
+    },
+    {
+      "memory_id": "X0597-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Review after lipid results; patient reports occasional fatigue.\nEXAMINATION: BP 132/82 mmHg, weight 60.8 kg, BMI 24.3 (overweight). Advised diet and activity.\nEXAMINATION: No cardiac murmurs, lungs clear.\nIMPRESSION: Vitamin D deficiency near target, mild hyperlipidaemia, overweight. Continue vitamin D, consider lifestyle for lipids.\nARRANGEMENTS: Keep cholecalciferol 1000 IU daily. Repeat serum 25‑OH vitamin D, calcium, phosphate in 3 months. Lipid panel repeat in 6 months. Return if new chest pain, dyspnoea, fever >39°C, or jaundice."
+    },
+    {
+      "memory_id": "X0597-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 1000 IU oral daily."
+    },
+    {
+      "memory_id": "X0597-m12",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 31 ng/mL (ref 30‑100). Serum calcium 9.4 mg/dL (ref 8.6‑10.3). Serum phosphate 3.5 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0597-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow‑up; patient feels well, no symptoms.\nEXAMINATION: BP 130/80 mmHg, weight 60.5 kg, BMI 24.2 (overweight). Advised diet and activity.\nEXAMINATION: Abdomen soft, no organomegaly.\nIMPRESSION: Vitamin D sufficient, overweight. No intervention needed.\nARRANGEMENTS: Continue cholecalciferol 1000 IU daily. Repeat serum 25‑OH vitamin D, calcium, phosphate in 3 months. Return if bone pain, muscle weakness, fever >39°C, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0597-m14",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 34 ng/mL (ref 30‑100). Serum calcium 9.5 mg/dL (ref 8.6‑10.3). Serum phosphate 3.6 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0597-m15",
+      "date": "2026-07-25",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Check‑up; patient reports mild thirst, otherwise well.\nEXAMINATION: BP 128/78 mmHg, weight 60.2 kg, BMI 24.1 (overweight). Advised diet and activity.\nEXAMINATION: No edema, lungs clear.\nIMPRESSION: Vitamin D adequate, overweight. No new issues.\nARRANGEMENTS: Continue cholecalciferol 1000 IU daily. Offer influenza vaccine today (autumn season). Return if polyuria, unexplained weight loss, fever >39°C, or vision changes."
+    },
+    {
+      "memory_id": "X0597-m16",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Annual review; patient asymptomatic.\nEXAMINATION: BP 126/76 mmHg, weight 60 kg, BMI 24.0 (borderline normal). Advised maintain activity.\nEXAMINATION: Cardiovascular and respiratory systems normal.\nIMPRESSION: Vitamin D sufficient, overweight resolved, stable health.\nARRANGEMENTS: Continue cholecalciferol 1000 IU daily. Repeat serum 25‑OH vitamin D, calcium, phosphate yearly. Return if new bone pain, fractures, fever >39°C, or persistent diarrhoea."
+    }
+  ]
+}

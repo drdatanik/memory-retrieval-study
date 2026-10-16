@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0490",
+  "name": "Kiran Agarwal",
+  "age": 69,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Coronary artery disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0490-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Coronary artery disease\n  Status: Stable, occasional exertional chest discomfort.\n  Plan: Continue aspirin, atorvastatin, metoprolol, isosorbide mononitrate; GTN SOS; lifestyle advice.\n- Dyslipidaemia\n  Status: LDL 130 mg/dL (above target).\n  Plan: Atorvastatin 40 mg HS; repeat lipid in 3 months.\n- Hypertension\n  Status: BP 138/86 mmHg.\n  Plan: Metoprolol succinate 25 mg OD; monitor.\n- Weight 68 kg, waist 84 cm (female cutoff 80 cm).\n  Diet: Breakfast – whole grain toast, egg; Lunch – vegetable dal, brown rice; Dinner – grilled fish, salad.\nDue: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0490-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 40 mg HS\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS"
+    },
+    {
+      "memory_id": "X0490-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 130 mg/dL (≤100), HDL 48 mg/dL (≥40), Triglycerides 162 mg/dL (<150).\nHbA1c 6.2% (4.0‑5.6)."
+    },
+    {
+      "memory_id": "X0490-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "12‑lead ECG: Normal sinus rhythm, rate 78 bpm. No ST‑segment changes. No pathologic Q waves."
+    },
+    {
+      "memory_id": "X0490-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I feel a mild pressure in my chest when I climb stairs to my flat, but it goes away after resting.\""
+    },
+    {
+      "memory_id": "X0490-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Coronary artery disease\n  Status: No angina at rest; mild exertional discomfort unchanged.\n  Plan: Increase metoprolol to 50 mg OD; continue other meds.\n- Dyslipidaemia\n  Status: LDL 95 mg/dL (near target).\n  Plan: Continue atorvastatin 40 mg HS; repeat lipid in 3 months.\n- Hypertension\n  Status: BP 132/80 mmHg.\n  Plan: Metoprolol 50 mg OD; review.\n- Weight 67.5 kg, waist 83 cm.\n  Diet: Breakfast – oats with milk; Lunch – mixed veg curry, quinoa; Dinner – chicken stew, steamed veg.\nDue: HbA1c 2025-10-10."
+    },
+    {
+      "memory_id": "X0490-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 40 mg HS\nMetoprolol succinate 50 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS"
+    },
+    {
+      "memory_id": "X0490-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 95 mg/dL (≤100), HDL 50 mg/dL (≥40), Triglycerides 148 mg/dL (<150).\nHbA1c 6.0% (4.0‑5.6)."
+    },
+    {
+      "memory_id": "X0490-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Transthoracic echocardiogram: Left ventricular ejection fraction 58%. Mild concentric LVH. No wall motion abnormalities. No significant valvular disease."
+    },
+    {
+      "memory_id": "X0490-m10",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Coronary artery disease\n  Status: No angina; exercise tolerance improved.\n  Plan: Continue current meds; consider adding low‑dose aspirin if not already (already on).\n- Dyslipidaemia\n  Status: LDL 82 mg/dL (at target).\n  Plan: Continue atorvastatin 40 mg HS; repeat lipid annually.\n- Hypertension\n  Status: BP 128/78 mmHg.\n  Plan: Maintain metoprolol 50 mg OD.\n- Weight 66.8 kg, waist 81 cm (just above female cutoff).\n  Diet: Breakfast – idli with sambar; Lunch – brown rice, lentil dal, salad; Dinner – grilled paneer, veg.\nDue: HbA1c 2026-01-12."
+    },
+    {
+      "memory_id": "X0490-m11",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 40 mg HS\nMetoprolol succinate 50 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS"
+    },
+    {
+      "memory_id": "X0490-m12",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 82 mg/dL (≤100), HDL 52 mg/dL (≥40), Triglycerides 138 mg/dL (<150).\nHbA1c 5.9% (4.0‑5.6)."
+    },
+    {
+      "memory_id": "X0490-m13",
+      "date": "2026-02-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-02-22 09:00 to 2026-02-22 10:30 per patient request."
+    },
+    {
+      "memory_id": "X0490-m14",
+      "date": "2026-02-22",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Coronary artery disease\n  Status: No chest pain; occasional palpitations noted.\n  Plan: Hold metoprolol dose; check heart rate.\n- Dyslipidaemia\n  Status: LDL 80 mg/dL (target).\n  Plan: Continue atorvastatin 40 mg HS.\n- Hypertension\n  Status: BP 118/76 mmHg, HR 52 bpm.\n  Plan: Reduce metoprolol to 25 mg OD; monitor.\n- Weight 66.2 kg, waist 80 mm (at cutoff).\n  Diet: Breakfast – vegetable upma; Lunch – millet khichdi, curd; Dinner – fish curry, steamed broccoli.\nDue: HbA1c 2026-05-22."
+    },
+    {
+      "memory_id": "X0490-m15",
+      "date": "2026-02-22",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 40 mg HS\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS"
+    },
+    {
+      "memory_id": "X0490-m16",
+      "date": "2026-06-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Coronary artery disease\n  Status: Asymptomatic; exercise tolerance good.\n  Plan: Continue current regimen; annual review.\n- Dyslipidaemia\n  Status: LDL 78 mg/dL (target).\n  Plan: Continue atorvastatin 40 mg HS; repeat lipid annually.\n- Hypertension\n  Status: BP 122/78 mmHg, HR 68 bpm.\n  Plan: Maintain metoprolol 25 mg OD.\n- Weight 65.5 kg, waist 79 cm (below cutoff).\n  Diet: Breakfast – multigrain toast, avocado; Lunch – quinoa salad with chickpeas; Dinner – lentil soup, grilled vegetables.\nDue: HbA1c 2026-09-30."
+    }
+  ]
+}

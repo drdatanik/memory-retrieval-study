@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0357",
+  "name": "Deepak Saxena",
+  "age": 46,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Benign prostatic hyperplasia",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0357-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow-up of BPH and IBS.\nPRESENTING COMPLAINT: Patient reports mild urinary frequency and occasional abdominal bloating, no worsening.\nEXAMINATION: BP 128/78 mmHg, weight 78 kg, height 1.70 m, BMI 27.0 (obese). Abdomen soft, non-tender, no masses. Prostate examination not performed today.\nIMPRESSION: BPH stable on current meds. IBS controlled with mebeverine and ispaghula. Advised weight reduction as BMI obese; counselled on reduced carbohydrate intake and daily 30‑minute walk.\nARRANGEMENTS: Continue tamsulosin 0.4 mg at night, finasteride 5 mg daily, mebeverine 135 mg twice daily, ispaghula husk 5 g daily, loperamide 2 mg as needed. Return if new urinary retention, severe abdominal pain, fever >39°C, or blood in stools. Patient to repeat list."
+    },
+    {
+      "memory_id": "X0357-m02",
+      "date": "2025-05-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 1.2 ng/mL (ref 0‑4). CBC: Hb 13.8 g/dL, WBC 6.2×10⁹/L, Plt 240×10⁹/L. Urine routine: normal. Fasting glucose 92 mg/dL (ref 70‑100). Lipids: Cholesterol 185 mg/dL, HDL 42, LDL 110, TG 140."
+    },
+    {
+      "memory_id": "X0357-m03",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of labs and symptom check.\nPRESENTING COMPLAINT: Patient says urinary flow improved, occasional bloating after meals.\nEXAMINATION: BP 130/80, weight 77 kg, BMI 26.5 (overweight). Abdomen mild tenderness in left lower quadrant, no guarding.\nIMPRESSION: BPH responding to meds; PSA normal. IBS mild; consider adding fibre. Advised weight loss as BMI overweight; diet low‑fat, increase activity.\nARRANGEMENTS: Continue current meds. Add ispaghula husk 5 g BD if bloating persists. Return if worsening urinary symptoms, severe abdominal pain, fever >39°C, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0357-m04",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 1.3 ng/mL. CBC: Hb 13.6, WBC 6.0, Plt 235. Urine routine: normal. Fasting glucose 90 mg/dL. Lipids: Cholesterol 180, HDL 44, LDL 108, TG 130."
+    },
+    {
+      "memory_id": "X0357-m05",
+      "date": "2025-10-25",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review and influenza vaccination.\nPRESENTING COMPLAINT: Patient reports good urinary control, occasional loose stools after spicy food.\nEXAMINATION: BP 128/78, weight 76 kg, BMI 26.2 (overweight). Abdomen soft, no tenderness.\nIMPRESSION: BPH stable. IBS mild; lipid and glucose within target. Advised weight reduction as BMI overweight; increase vegetables, limit fried foods.\nARRANGEMENTS: Continue tamsulosin 0.4 mg HS, finasteride 5 mg OD, mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Influenza vaccine given today 2025-10-25. Return if new urinary retention, severe abdominal pain, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0357-m06",
+      "date": "2025-11-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Ultrasound KUB with post‑void residual: Prostate volume 28 mL, no focal lesion. Post‑void residual 15 mL (normal <50). No hydronephrosis. Impression: Benign prostatic hyperplasia, no obstructive uropathy."
+    },
+    {
+      "memory_id": "X0357-m07",
+      "date": "2025-12-01",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Dr S. Rao, Urology, for evaluation of persistent lower urinary tract symptoms despite medical therapy. Include PSA, ultrasound results, and medication list."
+    },
+    {
+      "memory_id": "X0357-m08",
+      "date": "2026-01-15",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Urology review: Symptoms mild, prostate size benign. Recommend continuing current meds, consider repeat PSA in 6 months. No surgical intervention needed at present."
+    },
+    {
+      "memory_id": "X0357-m09",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: post‑referral check and medication review.\nPRESENTING COMPLAINT: Patient reports no change in urinary symptoms, occasional abdominal discomfort after meals.\nEXAMINATION: BP 129/79, weight 75 kg, BMI 25.9 (overweight). Abdomen soft, mild tenderness in suprapubic area.\nIMPRESSION: BPH stable per urology advice. IBS symptoms mild; consider trial of loperamide PRN. Advised weight reduction as BMI overweight; reduce portion sizes, walk 30 min daily.\nARRANGEMENTS: Continue tamsulosin 0.4 mg HS, finasteride 5 mg OD, mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Return if worsening urinary pain, fever >39°C, severe diarrhoea, or blood in stools."
+    },
+    {
+      "memory_id": "X0357-m10",
+      "date": "2026-03-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 1.4 ng/mL. CBC: Hb 13.7, WBC 5.9, Plt 238. Urine routine: normal. Fasting glucose 88 mg/dL. Lipids: Cholesterol 178, HDL 45, LDL 106, TG 125."
+    },
+    {
+      "memory_id": "X0357-m11",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow-up and symptom assessment.\nPRESENTING COMPLAINT: Patient says urinary flow good, occasional bloating after lentils.\nEXAMINATION: BP 127/77, weight 74 kg, BMI 25.6 (overweight). Abdomen soft, non‑tender.\nIMPRESSION: BPH controlled. IBS mild; consider reducing legume intake. Advised weight reduction as BMI overweight; increase fruit, avoid fried snacks.\nARRANGEMENTS: Continue current meds. Add mebeverine 135 mg TDS if bloating persists. Return if new urinary retention, severe abdominal pain, fever >39°C, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0357-m12",
+      "date": "2026-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'I have been feeling more urgency to urinate in the mornings and mild lower abdominal cramp after breakfast. Otherwise fine.'"
+    },
+    {
+      "memory_id": "X0357-m13",
+      "date": "2026-06-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: address new urinary urgency and abdominal cramp.\nPRESENTING COMPLAINT: Patient reports morning urgency and mild cramp after breakfast, no fever or bleeding.\nEXAMINATION: BP 130/80, weight 73 kg, BMI 25.2 (overweight). Abdomen mild suprapubic tenderness, no distension.\nIMPRESSION: Possible BPH progression with mild irritation; IBS may contribute to cramp. Advised weight reduction as BMI overweight; avoid large meals, increase water intake.\nARRANGEMENTS: Increase tamsulosin to 0.4 mg BD, continue finasteride 5 mg OD, mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Return if worsening pain, fever >39°C, haematuria, or inability to pass urine."
+    },
+    {
+      "memory_id": "X0357-m14",
+      "date": "2026-07-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "tamsulosin 0.4 mg twice daily\nfinasteride 5 mg once daily\nmebeverine 135 mg twice daily\nispaghula husk 5 g once daily\nloperamide 2 mg as needed"
+    },
+    {
+      "memory_id": "X0357-m15",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-08-15 to 2026-08-10 at 10:00 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0357-m16",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review and influenza vaccination.\nPRESENTING COMPLAINT: Patient reports improved urinary frequency, occasional bloating after heavy meals.\nEXAMINATION: BP 126/76, weight 72 kg, BMI 24.9 (overweight). Abdomen soft, no tenderness.\nIMPRESSION: BPH stable on increased tamsulosin. IBS controlled; lipid and glucose within target. Advised weight maintenance as BMI overweight; continue balanced diet and regular walk.\nARRANGEMENTS: Continue tamsulosin 0.4 mg BD, finasteride 5 mg OD, mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Influenza vaccine given today 2026-09-30. Return if new urinary retention, severe abdominal pain, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0357-m17",
+      "date": "2026-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 1.5 ng/mL (ref 0‑4). CBC: Hb 13.9, WBC 6.1, Plt 242. Urine routine: normal. Fasting glucose 90 mg/dL. Lipids: Cholesterol 175, HDL 46, LDL 104, TG 120."
+    }
+  ]
+}

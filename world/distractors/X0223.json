@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0223",
+  "name": "Nasir Siddiqui",
+  "age": 76,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0223-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic obstructive pulmonary disease, moderate severity.\nPatient reports progressive dyspnoea on exertion, occasional wheeze, and morning cough with clear sputum. No fever. On examination: respiratory rate 22, SpO2 92% on room air, use of accessory muscles, diffuse wheezing bilaterally, no crackles. Former smoker, 30 pack-years, stopped 2010. Inhaler technique checked: correct. Spirometry shows FEV1 1.2 L (45% predicted), FVC 2.5 L, FEV1/FVC 0.48; no prior test for comparison. Asthma Control Test not applicable."
+    },
+    {
+      "memory_id": "X0223-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Tiotropium bromide 18 mcg inhaler, one puff OD.\nSalbutamol 100 mcg metered-dose inhaler, two puffs SOS.\nBudesonide-formoterol 200/6 mcg inhaler, two puffs BD."
+    },
+    {
+      "memory_id": "X0223-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.20 L (45% predicted), FVC 2.50 L, FEV1/FVC ratio 0.48 (48%)."
+    },
+    {
+      "memory_id": "X0223-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray (PA): Hyperinflated lungs, flattened diaphragms, increased retrosternal airspace. No focal consolidation, pleural effusion, or pneumothorax. Imaging consistent with emphysematous changes."
+    },
+    {
+      "memory_id": "X0223-m05",
+      "date": "2025-04-06",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 at 09:30 with Dr Suresh Menon (D05) in Pulmonology clinic."
+    },
+    {
+      "memory_id": "X0223-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic obstructive pulmonary disease, moderate severity with recent exacerbation.\nPatient reports increased dyspnoea walking 50 m, nighttime cough, and use of salbutamol inhaler four times daily over past week. No fever, sputum now mucoid. Examination: respiratory rate 24, SpO2 90% on room air, use of accessory muscles, diffuse wheezing, prolonged expiration. Former smoker, 30 pack-years, stopped 2010. Inhaler technique checked: correct. Spirometry: FEV1 1.05 L (39% predicted, down 0.15 L from last), FVC 2.30 L, FEV1/FVC 0.46 (46%). Asthma Control Test not applicable."
+    },
+    {
+      "memory_id": "X0223-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Tiotropium bromide 18 mcg inhaler, one puff OD (unchanged).\nSalbutamol 100 mcg metered-dose inhaler, two puffs SOS (unchanged).\nBudesonide-formoterol 200/6 mcg inhaler, two puffs BD (unchanged).\nPrednisolone 5 mg tablets, 10 mg OD for 5 days then stop."
+    },
+    {
+      "memory_id": "X0223-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.05 L (39% predicted), FVC 2.30 L, FEV1/FVC ratio 0.46 (46%)."
+    },
+    {
+      "memory_id": "X0223-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray (PA): No new infiltrate. Persistent hyperinflation, unchanged from prior study. No pleural effusion."
+    },
+    {
+      "memory_id": "X0223-m10",
+      "date": "2025-07-11",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel the budesonide-formoterol inhaler is hard to actuate; I sometimes miss a dose. Could you check my technique again?"
+    },
+    {
+      "memory_id": "X0223-m11",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic obstructive pulmonary disease, moderate severity, stable.\nPatient reports return to baseline dyspnoea on exertion, using salbutamol SOS only twice weekly, no night symptoms. Satisfied with inhaler technique after re‑training. Examination: respiratory rate 20, SpO2 93% on room air, mild use of accessory muscles, diffuse wheezing, good air entry. Former smoker, 30 pack-years, stopped 2010. Inhaler technique checked: correct. Spirometry: FEV1 1.10 L (41% predicted, up 0.05 L from last), FVC 2.40 L, FEV1/FVC 0.46 (46%). Asthma Control Test not applicable."
+    },
+    {
+      "memory_id": "X0223-m12",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Tiotropium bromide 18 mcg inhaler, one puff OD (unchanged).\nSalbutamol 100 mcg metered-dose inhaler, two puffs SOS (unchanged).\nBudesonide-formoterol 200/6 mcg inhaler, two puffs BD (unchanged).\nRoflumilast 500 mcg tablet, OD added."
+    },
+    {
+      "memory_id": "X0223-m13",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.10 L (41% predicted), FVC 2.40 L, FEV1/FVC ratio 0.46 (46%)."
+    },
+    {
+      "memory_id": "X0223-m14",
+      "date": "2025-10-16",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray (PA): Lungs remain hyperinflated, no new opacities, cardiac silhouette unchanged. No evidence of pneumonia or pneumothorax."
+    },
+    {
+      "memory_id": "X0223-m15",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic obstructive pulmonary disease, moderate severity, stable on current regimen.\nPatient denies exacerbations since last visit, reports good exercise tolerance, uses salbutamol SOS less than once weekly. No side effects from roflumilast noted. Examination: respiratory rate 19, SpO2 94% on room air, minimal accessory muscle use, wheezing only at lung bases. Former smoker, 30 pack-years, stopped 2010. Inhaler technique checked: correct. Spirometry: FEV1 1.12 L (42% predicted, up 0.02 L from last), FVC 2.42 L, FEV1/FVC 0.46 (46%). Asthma Control Test not applicable."
+    },
+    {
+      "memory_id": "X0223-m16",
+      "date": "2026-02-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Tiotropium bromide 18 mcg inhaler, one puff OD (unchanged).\nSalbutamol 100 mcg metered-dose inhaler, two puffs SOS (unchanged).\nBudesonide-formoterol 200/6 mcg inhaler, two puffs BD (unchanged).\nRoflumilast 500 mcg tablet, OD stopped."
+    },
+    {
+      "memory_id": "X0223-m17",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.12 L (42% predicted), FVC 2.42 L, FEV1/FVC ratio 0.46 (46%)."
+    }
+  ]
+}

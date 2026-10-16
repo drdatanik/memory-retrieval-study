@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0152",
+  "name": "Jyoti Shah",
+  "age": 22,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Chronic urticaria",
+    "Benign positional vertigo",
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0152-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in activities of daily living; lectures college classes, walks to campus without assistance.\ncognition: Mini-Cog score 4/5 (negative screen).\nfalls: No falls in the last 12 months; gait normal; timed up-and-go 8 seconds (below cut‑off).\nmedicines: 5 regular (levocetirizine 5 mg OD, cetirizine 10 mg HS, betahistine 16 mg BD, silymarin 140 mg TDS, rosuvastatin 5 mg OD); polypharmacy – please review against Beers criteria.\nmood: Reports stable mood, enjoys teaching, denies anxiety or low mood.\ncarers: Mother, Mrs. Sita Rao – relationship mother.\ngoals: \"I want to stay symptom‑free so I can continue lecturing and travelling.\""
+    },
+    {
+      "memory_id": "X0152-m02",
+      "date": "2025-04-16",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg OD\ncetirizine 10 mg HS\nbetahistine 16 mg BD\nmeclizine 25 mg SOS\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0152-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.2 g/dL (12-16), WBC 6.8 x10^9/L (4-10), eosinophils 0.4 x10^9/L (0.0-0.5).\nTSH 2.1 mIU/L (0.4-4.0), Free T4 1.2 ng/dL (0.9-1.7)."
+    },
+    {
+      "memory_id": "X0152-m04",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Dix-Hallpike test: positive on right side, eliciting torsional nystagmus.\nAudiometry: bilateral thresholds within normal limits (0-25 dB HL)."
+    },
+    {
+      "memory_id": "X0152-m05",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine increased to 10 mg OD\ncetirizine continued 10 mg HS\nbetahistine 16 mg BD\nmeclizine 25 mg SOS\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0152-m06",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages lectures and household chores; occasional mild wheal episodes.\ncognition: Mini-Cog not repeated (annual screen due).\nfalls: No falls; gait steady; timed up-and-go 9 seconds.\nmedicines: 5 regular (levocetirizine 10 mg OD, cetirizine 10 mg HS, betahistine 16 mg BD, silymarin 140 mg TDS, rosuvastatin 5 mg OD); polypharmacy – review against Beers criteria.\nmood: Reports mild frustration with skin flares, otherwise affect stable.\ncarers: Mother, Mrs. Sita Rao – relationship mother.\ngoals: \"I aim to reduce hives so I can focus on research work.\""
+    },
+    {
+      "memory_id": "X0152-m07",
+      "date": "2025-09-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 38 U/L (≤40), AST 34 U/L (≤40).\nLipids: Total cholesterol 180 mg/dL (<200), LDL 100 mg/dL (<130), HDL 55 mg/dL (>40), Triglycerides 120 mg/dL (<150).\nPlatelet count: 250 x10^9/L (150-400)."
+    },
+    {
+      "memory_id": "X0152-m08",
+      "date": "2025-11-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin continued 140 mg TDS\nrosuvastatin increased to 10 mg OD\nlevocetirizine 10 mg OD\ncetirizine 10 mg HS\nbetahistine 16 mg BD\nmeclizine 25 mg SOS"
+    },
+    {
+      "memory_id": "X0152-m09",
+      "date": "2026-02-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via app: \"Over the past week I’ve had daily hives on arms and face, itchy, worse in the evenings. Vertigo episodes unchanged.\""
+    },
+    {
+      "memory_id": "X0152-m10",
+      "date": "2026-03-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Continues teaching; skin lesions cause discomfort but no limitation in mobility.\ncognition: Mini-Cog not due yet.\nfalls: No falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 5 regular (levocetirizine 10 mg OD, cetirizine 10 mg HS, betahistine 16 mg BD, silymarin 140 mg TDS, rosuvastatin 10 mg OD); polypharmacy – review against Beers criteria.\nmood: Notes irritability due to pruritus, denies depression.\ncarers: Mother, Mrs. Sita Rao – relationship mother.\ngoals: \"I want clear skin to feel confident in lectures.\""
+    },
+    {
+      "memory_id": "X0152-m11",
+      "date": "2026-03-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cetirizine increased to 20 mg HS\nlevocetirizine continued 10 mg OD\nbetahistine increased to 24 mg BD\nmeclizine 25 mg SOS\nsilymarin 140 mg TDS\nrosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0152-m12",
+      "date": "2026-06-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: follow‑up visit rescheduled from 2026-07-15 to 2026-10-05 for annual review."
+    },
+    {
+      "memory_id": "X0152-m13",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; no work absences; skin largely clear with occasional mild wheals.\ncognition: Mini-Cog score 4/5 (negative screen).\nfalls: No falls in past year; gait normal; timed up-and-go 8 seconds.\nmedicines: 5 regular (levocetirizine 10 mg OD, cetirizine 20 mg HS, betahistine 24 mg BD, silymarin 140 mg TDS, rosuvastatin 10 mg OD); polypharmacy – review against Beers criteria.\nmood: Reports improved mood, enjoys teaching.\ncarers: Mother, Mrs. Sita Rao – relationship mother.\ngoals: \"I hope to stay flare‑free and continue my academic career.\""
+    }
+  ]
+}

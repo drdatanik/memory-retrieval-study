@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0296",
+  "name": "Venkateswarlu Kamineni",
+  "age": 27,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0296-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all activities of daily living; works full-time as a tailor; reports no difficulty with climbing stairs or prolonged standing.\ncognition: Mini-Cog score 4/5 (normal); recalls three items and clock draw intact.\nfalls: No falls in the last 12 months; gait steady; timed up-and-go 8 seconds (normal).\nmedicines: 0 regular; no polypharmacy.\nmood: Reports good mood, denies anxiety or depression.\ncarers: Self (patient).\ngoals: \"I want to stay healthy to continue my tailoring work without fatigue.\""
+    },
+    {
+      "memory_id": "X0296-m02",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 12 ng/mL (ref 30-100). Serum calcium: 9.1 mg/dL (ref 8.5-10.5). Serum phosphate: 3.0 mg/dL (ref 2.5-4.5)."
+    },
+    {
+      "memory_id": "X0296-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cholecalciferol 60000 IU once weekly for 8 weeks"
+    },
+    {
+      "memory_id": "X0296-m04",
+      "date": "2025-05-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for follow-up visit on 2025-06-10 at 10:00 AM with Dr Nandini Kulkarni."
+    },
+    {
+      "memory_id": "X0296-m05",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; tailor work tolerated well, notes less fatigue after work.\ncognition: Mini-Cog score 4/5 (normal); recall and clock draw intact.\nfalls: No falls in last 12 months; gait smooth; timed up-and-go 8 seconds (normal).\nmedicines: 1 regular (cholecalciferol); no polypharmacy.\nmood: Mood stable, denies anxiety or depression.\ncarers: Self (patient).\ngoals: \"I want to keep my energy up for long tailoring days.\""
+    },
+    {
+      "memory_id": "X0296-m06",
+      "date": "2025-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 18 ng/mL (ref 30-100). Serum calcium: 9.2 mg/dL (ref 8.5-10.5). Serum phosphate: 3.1 mg/dL (ref 2.5-4.5)."
+    },
+    {
+      "memory_id": "X0296-m07",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cholecalciferol 60000 IU once weekly for remaining 2 weeks"
+    },
+    {
+      "memory_id": "X0296-m08",
+      "date": "2025-07-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for final check on 2025-08-05 at 09:30 AM with Dr Nandini Kulkarni."
+    },
+    {
+      "memory_id": "X0296-m09",
+      "date": "2025-08-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; tailor reports good stamina, no muscle aches.\ncognition: Mini-Cog score 4/5 (normal); recall and clock draw intact.\nfalls: No falls in last 12 months; gait normal; timed up-and-go 8 seconds (normal).\nmedicines: 1 regular (cholecalciferol); no polypharmacy.\nmood: Mood good, denies anxiety or depression.\ncarers: Self (patient).\ngoals: \"I feel strong and ready for busy tailoring season.\""
+    },
+    {
+      "memory_id": "X0296-m10",
+      "date": "2025-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 32 ng/mL (ref 30-100). Serum calcium: 9.3 mg/dL (ref 8.5-10.5). Serum phosphate: 3.2 mg/dL (ref 2.5-4.5)."
+    },
+    {
+      "memory_id": "X0296-m11",
+      "date": "2025-08-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cholecalciferol 1000 IU once daily"
+    },
+    {
+      "memory_id": "X0296-m12",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; tailor work continues without fatigue.\ncognition: Mini-Cog score 4/5 (normal); recall and clock draw intact.\nfalls: No falls in last 12 months; gait steady; timed up-and-go 8 seconds (normal).\nmedicines: 1 regular (cholecalciferol 1000 IU OD); no polypharmacy.\nmood: Mood stable, denies anxiety or depression.\ncarers: Self (patient).\ngoals: \"I want to maintain this health to keep working.\""
+    },
+    {
+      "memory_id": "X0296-m13",
+      "date": "2025-11-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 28 ng/mL (ref 30-100). Serum calcium: 9.2 mg/dL (ref 8.5-10.5). Serum phosphate: 3.0 mg/dL (ref 2.5-4.5)."
+    },
+    {
+      "memory_id": "X0296-m14",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; tailor reports no limitations.\ncognition: Mini-Cog score 3/5 (positive screen ≤2); plan for full cognitive assessment.\nfalls: No falls in last 12 months; gait normal; timed up-and-go 8 seconds (normal).\nmedicines: 1 regular (cholecalciferol 1000 IU OD); no polypharmacy.\nmood: Mood good, denies anxiety or depression.\ncarers: Self (patient).\ngoals: \"I want to stay fit for my tailoring business.\""
+    },
+    {
+      "memory_id": "X0296-m15",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 25 ng/mL (ref 30-100). Serum calcium: 9.1 mg/dL (ref 8.5-10.5). Serum phosphate: 2.9 mg/dL (ref 2.5-4.5)."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0171",
+  "name": "Arumugam Kannan",
+  "age": 78,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0171-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Major depressive disorder, moderate episode.\nPatient reports low mood, loss of interest, early morning insomnia, reduced appetite, fatigue, and feelings of worthlessness for the past 8 weeks. He denies suicidal thoughts. On examination he appears tearful, psychomotor activity is mildly slowed, speech is normal, and affect is congruently sad. Smoking status: never smoked; pack-years 0. PHQ-9 score from today's labs is 18 indicating moderate depression. TSH and vitamin B12 are within normal limits."
+    },
+    {
+      "memory_id": "X0171-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Sertraline 50 mg tablet, take one tablet orally once daily, review in 8 weeks."
+    },
+    {
+      "memory_id": "X0171-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 18 (0-27).\nTSH: 2.1 µIU/mL (0.4-4.0).\nVitamin B12: 340 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0171-m04",
+      "date": "2025-07-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Major depressive disorder, partial response.\nPatient notes improved mood and better sleep but still experiences low energy, occasional tearfulness, and difficulty concentrating. Appetite has improved slightly. Examination shows mildly slowed speech, affect still somewhat constricted. Smoking status: never smoked; pack-years 0. PHQ-9 score decreased to 12 (mild). TSH and B12 remain normal."
+    },
+    {
+      "memory_id": "X0171-m05",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram 10 mg tablet, take one tablet orally once daily; continue sertraline 50 mg OD."
+    },
+    {
+      "memory_id": "X0171-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 12 (0-27).\nTSH: 2.0 µIU/mL (0.4-4.0).\nVitamin B12: 355 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0171-m07",
+      "date": "2025-11-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Major depressive disorder, inadequate response to dual antidepressants.\nPatient reports persistent low mood, anhedonia, early waking, and fatigue despite sertraline and escitalopram. He also mentions increased appetite and weight gain of 2 kg. Examination reveals psychomotor retardation, mild tremor in hands, and a flat affect. Smoking status: never smoked; pack-years 0. PHQ-9 score is 16 (moderate). TSH normal, B12 low-normal."
+    },
+    {
+      "memory_id": "X0171-m08",
+      "date": "2025-11-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Mirtazapine 15 mg tablet, take one tablet orally at bedtime; continue sertraline 50 mg OD and escitalopram 10 mg OD."
+    },
+    {
+      "memory_id": "X0171-m09",
+      "date": "2025-11-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 16 (0-27).\nTSH: 2.2 µIU/mL (0.4-4.0).\nVitamin B12: 210 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0171-m10",
+      "date": "2026-06-09",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Major depressive disorder, improved with triple therapy.\nPatient describes markedly better mood, increased interest in hobbies, improved sleep, and energy levels. Appetite has normalized; weight stable. He reports occasional mild anxiety but no suicidal ideation. Examination shows normal psychomotor activity, appropriate affect, and no tremor. Smoking status: never smoked; pack-years 0. PHQ-9 score is 8 (minimal). TSH and B12 within normal ranges."
+    },
+    {
+      "memory_id": "X0171-m11",
+      "date": "2026-06-09",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Escitalopram increased to 20 mg tablet, take one tablet orally once daily; mirtazapine reduced to 7.5 mg tablet at bedtime; sertraline continued 50 mg OD."
+    },
+    {
+      "memory_id": "X0171-m12",
+      "date": "2026-06-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 8 (0-27).\nTSH: 1.9 µIU/mL (0.4-4.0).\nVitamin B12: 380 pg/mL (200-900)."
+    }
+  ]
+}

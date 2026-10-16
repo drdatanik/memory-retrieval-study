@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0544",
+  "name": "Harjit Ahluwalia",
+  "age": 84,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Psoriasis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0544-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, uses a walking stick outdoors only.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls in last 12 months; gait slow but steady; timed up-and-go 11 seconds (normal).\nmedicines: 3 regular (clobetasol BD, calcipotriol OD, methotrexate weekly). polypharmacy screen not triggered.\nmood: reports good spirits, denies depression.\ncarers: son Rajesh, lives nearby.\ngoal: \"Stay able to tend my coffee plants and walk without help.\""
+    },
+    {
+      "memory_id": "X0544-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "clobetasol 0.05% cream apply BD to plaques\ncalcipotriol ointment apply OD to plaques\nmethotrexate 7.5 mg PO once weekly\nfolic acid 5 mg PO daily"
+    },
+    {
+      "memory_id": "X0544-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 28 U/L (7-56)\nAST 22 U/L (8-48)\nALKP 78 U/L (40-129)\nGGT 30 U/L (9-64)\nBilirubin 0.9 mg/dL (0.2-1.2)\nHemoglobin 13.8 g/dL (13-17)\nWBC 6.2 x10^9/L (4-10)\nPlatelets 210 x10^9/L (150-400)\nSerum creatinine 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0544-m04",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message: Itching on elbows worse after bath, red patches spreading. Asking if cream strength okay."
+    },
+    {
+      "memory_id": "X0544-m05",
+      "date": "2025-05-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-06-05 at 10:00 with Dr Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0544-m06",
+      "date": "2025-06-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independent, occasional knee pain after walking.\ncognition: Mini-Cog 4/5 (stable).\nfalls: 0 falls last year; gait mildly antalgic left; timed up-and-go 12 seconds (borderline risk).\nmedicines: 3 regular (same). polypharmacy not present.\nmood: feels frustrated about skin flare.\ncarers: son Rajesh, assists with grocery.\ngoal: \"Keep my garden and walk without pain.\""
+    },
+    {
+      "memory_id": "X0544-m07",
+      "date": "2025-06-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "clobetasol 0.05% cream BD to active lesions\ncalcipotriol ointment OD continue\nmethotrexate increased to 10 mg PO once weekly\nfolic acid 5 mg PO daily"
+    },
+    {
+      "memory_id": "X0544-m08",
+      "date": "2025-06-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 34 U/L (7-56)\nAST 26 U/L (8-48)\nALKP 82 U/L (40-129)\nGGT 35 U/L (9-64)\nBilirubin 0.8 mg/dL (0.2-1.2)\nHemoglobin 13.5 g/dL (13-17)\nWBC 5.9 x10^9/L (4-10)\nPlatelets 205 x10^9/L (150-400)\nSerum creatinine 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0544-m09",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Resting ECG: sinus rhythm 72 bpm, no ST-T changes, no QRS prolongation. Normal study."
+    },
+    {
+      "memory_id": "X0544-m10",
+      "date": "2025-08-01",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Dermatology, Victoria Hospital, for refractory plaque psoriasis needing phototherapy or biologic consideration. Include recent labs and medication list."
+    },
+    {
+      "memory_id": "X0544-m11",
+      "date": "2025-08-20",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Dermatology reviewed: patient suitable for narrowband UVB; start twice weekly. Continue topicals, hold methotrexate if LFT rises. Return in 8 weeks."
+    },
+    {
+      "memory_id": "X0544-m12",
+      "date": "2025-09-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independent, reports less itching after UVB start.\ncognition: Mini-Cog 4/5 (annual screen negative).\nfalls: 0 falls last year; gait normal; timed up-and-go 10 seconds (good).\nmedicines: 2 regular topicals only (methotrexate held). polypharmacy not applicable.\nmood: pleased with skin improvement.\ncarers: son Rajesh, helps with transport to UVB.\ngoal: \"Enjoy my coffee estate walks without skin discomfort.\""
+    },
+    {
+      "memory_id": "X0544-m13",
+      "date": "2025-09-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "clobetasol 0.05% cream BD to residual plaques\ncalcipotriol ointment OD continue\nmethotrexate held (temporarily)"
+    },
+    {
+      "memory_id": "X0544-m14",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 31 U/L (7-56)\nAST 24 U/L (8-48)\nALKP 80 U/L (40-129)\nGGT 33 U/L (9-64)\nBilirubin 0.8 mg/dL (0.2-1.2)\nHemoglobin 13.6 g/dL (13-17)\nWBC 6.0 x10^9/L (4-10)\nPlatelets 208 x10^9/L (150-400)\nSerum creatinine 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0544-m15",
+      "date": "2025-12-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message: New aching in both knees, worse in mornings. Wondering if methotrexate could help joint pain."
+    },
+    {
+      "memory_id": "X0544-m16",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independent, mild knee stiffness after rest.\ncognition: Mini-Cog 4/5 (stable).\nfalls: 0 falls last year; gait mildly antalgic both knees; timed up-and-go 13 seconds (raised fall risk).\nmedicines: 2 regular topicals; methotrexate restarted 7.5 mg weekly.\nPolypharmacy not present; discuss Beers review if adding more.\nmood: accepts mild discomfort, stays active.\ncarers: son Rajesh, assists with stair climbing.\ngoal: \"Keep moving and supervise the estate without aid.\""
+    },
+    {
+      "memory_id": "X0544-m17",
+      "date": "2026-02-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "clobetasol 0.05% cream BD to plaques\ncalcipotriol ointment OD continue\nmethotrexate 7.5 mg PO once weekly\nfolic acid 5 mg PO daily"
+    },
+    {
+      "memory_id": "X0544-m18",
+      "date": "2026-04-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-20 to 2026-04-15 at 09:30 with Dr Kulkarni (D06) per patient request."
+    }
+  ]
+}

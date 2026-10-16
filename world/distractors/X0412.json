@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0412",
+  "name": "Sarita Bhatia",
+  "age": 87,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Chronic kidney disease",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0412-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent with ADLs, uses walking stick for outdoor walks. cognition: Mini-Cog 3/5 (negative screen). falls: 0 falls in last 12 months, gait slow but steady, timed up-and-go 13 seconds -> raised fall risk, plan: supervised leg strengthening exercises and supportive footwear. medicines: 8 regular (polypharmacy) – review against Beers criteria recommended. mood: reports occasional low mood, denies hopelessness. carers: daughter Priya, primary caregiver. goals: \"I want to stay able to visit my jewellery shop and meet friends.\"."
+    },
+    {
+      "memory_id": "X0412-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.8 g/dL (12-16). Serum ferritin 12 ng/mL (15-150). MCV 78 fL (80-100). Serum creatinine 1.4 mg/dL (0.6-1.2). eGFR 38 mL/min/1.73m2 (>60). Urine albumin-creatinine ratio 45 mg/g (<30)."
+    },
+    {
+      "memory_id": "X0412-m03",
+      "date": "2025-04-18",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Ferrous sulfate 200 mg PO OD for 3 months\nTelmisartan 40 mg PO OD\nDapagliflozin 10 mg PO OD\nFurosemide 20 mg PO OD\nSodium bicarbonate 500 mg PO BD\nSalbutamol MDI 2 puffs SOS\nBudesonide-formoterol 200/6 mcg inhaler 2 puffs BD\nMontelukast 10 mg PO HS"
+    },
+    {
+      "memory_id": "X0412-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, occasional joint pain limiting prolonged standing. cognition: Mini-Cog 4/5 (negative). falls: 1 fall at home (tripped over rug) in last 6 months, gait unsteady, timed up-and-go 14 seconds -> raised fall risk, plan: home hazard removal, balance class, check footwear. medicines: 8 regular – polypharmacy, Beers review pending. mood: low mood improved, denies anhedonia. carers: daughter Priya. goals: \"I wish to walk to the market without fear of falling.\"."
+    },
+    {
+      "memory_id": "X0412-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 10.6 g/dL (12-16). Serum ferritin 18 ng/mL (15-150). MCV 80 fL (80-100). Serum creatinine 1.35 mg/dL (0.6-1.2). eGFR 40 mL/min/1.73m2 (>60). Urine albumin-creatinine ratio 38 mg/g (<30)."
+    },
+    {
+      "memory_id": "X0412-m06",
+      "date": "2025-07-18",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Ferrous sulfate 200 mg PO OD continue\nTelmisartan 40 mg PO OD\nDapagliflozin 10 mg PO OD\nFurosemide 20 mg PO OD\nSodium bicarbonate 500 mg PO BD\nSalbutamol MDI 2 puffs SOS\nBudesonide-formoterol 200/6 mcg inhaler 2 puffs BD\nMontelukast 10 mg PO HS"
+    },
+    {
+      "memory_id": "X0412-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, uses stick for longer walks. cognition: Mini-Cog 3/5 (negative). falls: 0 falls in last 6 months, gait steady, timed up-and-go 12 seconds -> borderline fall risk, continue exercises. medicines: 8 regular – polypharmacy, Beers review scheduled. mood: stable, enjoys social activities. carers: daughter Priya. goals: \"I want to keep my shop open for another year.\"."
+    },
+    {
+      "memory_id": "X0412-m08",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.2 g/dL (12-16). Serum ferritin 22 ng/mL (15-150). MCV 82 fL (80-100). Serum creatinine 1.30 mg/dL (0.6-1.2). eGFR 42 mL/min/1.73m2 (>60). Urine albumin-creatinine ratio 35 mg/g (<30)."
+    },
+    {
+      "memory_id": "X0412-m09",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Ferrous sulfate 200 mg PO OD\nTelmisartan 40 mg PO OD\nDapagliflozin 10 mg PO OD\nFurosemide 20 mg PO OD\nSodium bicarbonate 500 mg PO BD\nSalbutamol MDI 2 puffs SOS\nBudesonide-formoterol 200/6 mcg inhaler 2 puffs BD\nMontelukast 10 mg PO HS"
+    },
+    {
+      "memory_id": "X0412-m10",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, occasional dyspnea on exertion. cognition: Mini-Cog 2/5 (positive screen) -> plan full MoCA assessment. falls: 0 falls last 12 months, gait slightly slow, timed up-and-go 13 seconds -> raised fall risk, continue strength training. medicines: 8 regular – polypharmacy, Beers review completed, no potentially inappropriate meds. mood: reports feeling anxious about memory, denies depression. carers: daughter Priya. goals: \"I hope to remember my grandchildren’s names clearly.\"."
+    },
+    {
+      "memory_id": "X0412-m11",
+      "date": "2026-01-12",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Spirometry with reversibility: FEV1 1.65 L (55% predicted), FVC 2.30 L (70% predicted), FEV1/FVC 0.72. Post-bronchodilator FEV1 1.78 L (8% improvement). Consistent with mild obstructive airway disease, reversible component consistent with asthma."
+    },
+    {
+      "memory_id": "X0412-m12",
+      "date": "2026-01-18",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Ferrous sulfate 200 mg PO OD\nTelmisartan 40 mg PO OD\nDapagliflozin 10 mg PO OD\nFurosemide 20 mg PO OD\nSodium bicarbonate 500 mg PO BD\nSalbutamol MDI 2 puffs SOS\nBudesonide-formoterol 200/6 mcg inhaler 2 puffs BD\nMontelukast 10 mg PO HS\nAdd: inhaled corticosteroid fluticasone 250 mcg BD for asthma control"
+    },
+    {
+      "memory_id": "X0412-m13",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, mild dyspnea on climbing stairs. cognition: MoCA 24/30 (mild impairment). falls: 0 falls last 12 months, gait steady, timed up-and-go 11 seconds -> normal fall risk. medicines: 9 regular – polypharmacy, discuss simplification. mood: anxious about cognition, enjoys family time. carers: daughter Priya. goals: \"I want to stay mentally sharp to teach my granddaughter jewellery making.\"."
+    },
+    {
+      "memory_id": "X0412-m14",
+      "date": "2026-04-12",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Dr. S. Rao, Nephrology, Vikram Hospital for progressive CKD (eGFR 38-42, albuminuria). Request advice on further renal protection, possible SGLT2 inhibitor optimization, and preparation for stage 4 CKD."
+    },
+    {
+      "memory_id": "X0412-m15",
+      "date": "2026-04-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked with Dr. Nandini Kulkarni (D06) for 2026-07-10 at 10:30 AM for routine geriatric review. Patient reminded to bring medication list and recent labs."
+    }
+  ]
+}

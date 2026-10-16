@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0575",
+  "name": "Razia Ahmed",
+  "age": 33,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Hypothyroidism",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0575-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Stable hypothyroidism and epilepsy.\nSymptoms: she reports no fatigue, weight change, heat or cold intolerance, and no seizure activity in the past month. Examination: vital signs normal, thyroid gland non‑enlarged, no nodules, neurologic exam normal without focal deficits.\nSpirometry: FEV1 2.8 L (92% predicted), FVC 3.2 L, FEV1/FVC 0.88; change since prior test +0.1 L.\nInhaler technique: not applicable – no inhaler prescribed.\nSmoking status: never smoker.\nAssessment: thyroid function adequate, seizure control good. Plan: continue levothyroxine 50 mcg OD, levetiracetam 500 mg BD, lamotrigine 50 mg BD; repeat TSH and free T4 in 3 months; review in 3 months."
+    },
+    {
+      "memory_id": "X0575-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 50 mcg orally once daily for 3 months.\nLevetiracetam 500 mg orally twice daily for 3 months.\nLamotrigine 50 mg orally twice daily for 3 months."
+    },
+    {
+      "memory_id": "X0575-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (reference 0.4‑4.0).\nFree T4 12.5 pmol/L (reference 9.0‑19.0).\nSerum Sodium 138 mmol/L (reference 135‑145).\nSerum Creatinine 0.82 mg/dL (reference 0.57‑1.00)."
+    },
+    {
+      "memory_id": "X0575-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Subclinical hypothyroidism needing dose increase; epilepsy unchanged.\nSymptoms: mild fatigue and slight weight gain over past 2 months, no new seizures, no aura. Examination: weight up 1.5 kg, thyroid non‑tender, no enlargement, neurologic exam normal.\nSpirometry: FEV1 2.9 L (95% predicted), FVC 3.3 L, FEV1/FVC 0.88; change since last test +0.1 L.\nInhaler technique: not applicable.\nSmoking status: never smoker.\nAssessment: TSH elevated, free T4 low‑normal; increase levothyroxine. Seizure control remains excellent.\nPlan: raise levothyroxine to 75 mcg OD; keep levetiracetam and lamotrigine unchanged; repeat TSH/free T4 in 6 weeks; review in 3 months."
+    },
+    {
+      "memory_id": "X0575-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 75 mcg orally once daily for 3 months.\nLevetiracetam 500 mg orally twice daily for 3 months.\nLamotrigine 50 mg orally twice daily for 3 months."
+    },
+    {
+      "memory_id": "X0575-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.8 mIU/L (reference 0.4‑4.0).\nFree T4 11.9 pmol/L (reference 9.0‑19.0).\nSerum Sodium 137 mmol/L (reference 135‑145).\nSerum Creatinine 0.80 mg/dL (reference 0.57‑1.00)."
+    },
+    {
+      "memory_id": "X0575-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Hypothyroidism now euthyroid on increased dose; epilepsy stable.\nSymptoms: reports improved energy, weight stable, no seizure episodes, no medication side‑effects. Examination: vitals normal, thyroid non‑enlarged, neurologic exam normal.\nSpirometry: FEV1 2.9 L (96% predicted), FVC 3.3 L, FEV1/FVC 0.88; change since last test 0.0 L.\nInhaler technique: not applicable.\nSmoking status: never smoker.\nAssessment: TSH within target range, free T4 mid‑normal; seizure control good.\nPlan: continue current levothyroxine 75 mcg OD, levetiracetam 500 mg BD, lamotrigine 50 mg BD; repeat labs in 3 months; review in 3 months."
+    },
+    {
+      "memory_id": "X0575-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 75 mcg orally once daily for 3 months.\nLevetiracetam 500 mg orally twice daily for 3 months.\nLamotrigine 50 mg orally twice daily for 3 months."
+    },
+    {
+      "memory_id": "X0575-m09",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.6 mIU/L (reference 0.4‑4.0).\nFree T4 13.2 pmol/L (reference 9.0‑19.0).\nSerum Sodium 138 mmol/L (reference 135‑145).\nSerum Creatinine 0.81 mg/dL (reference 0.57‑1.00)."
+    },
+    {
+      "memory_id": "X0575-m10",
+      "date": "2026-02-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up pulmonology appointment booked for 2026-04-20 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0575-m11",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Mild over‑reduction of levothyroxine leading to borderline low TSH; epilepsy unchanged.\nSymptoms: occasional mild palpitations, no weight loss, no seizure activity, reports feeling slightly jittery. Examination: pulse 92 bpm regular, thyroid non‑enlarged, no tremor, neurologic exam normal.\nSpirometry: FEV1 2.8 L (93% predicted), FVC 3.2 L, FEV1/FVC 0.88; change since last test –0.1 L.\nInhaler technique: not applicable.\nSmoking status: never smoker.\nAssessment: TSH slightly suppressed, free T4 upper‑normal; reduce levothyroxine to avoid subclinical hyperthyroidism. Seizure control remains excellent.\nPlan: decrease levothyroxine to 50 mcg OD; keep levetiracetam and lamotrigine unchanged; repeat TSH/free T4 in 6 weeks; review in 3 months."
+    },
+    {
+      "memory_id": "X0575-m12",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 50 mcg orally once daily for 3 months.\nLevetiracetam 500 mg orally twice daily for 3 months.\nLamotrigine 50 mg orally twice daily for 3 months."
+    },
+    {
+      "memory_id": "X0575-m13",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 0.8 mIU/L (reference 0.4‑4.0).\nFree T4 16.4 pmol/L (reference 9.0‑19.0).\nSerum Sodium 138 mmol/L (reference 135‑145).\nSerum Creatinine 0.79 mg/dL (reference 0.57‑1.00)."
+    }
+  ]
+}

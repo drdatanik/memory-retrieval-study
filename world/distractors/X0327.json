@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0327",
+  "name": "Savitha Shastry",
+  "age": 33,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Rheumatoid arthritis",
+    "Vitamin D deficiency",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0327-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis, vitamin D deficiency, hypertension.\nSymptoms: morning stiffness in hands >1 hour, fatigue, occasional joint swelling; blood pressure 148/92 mmHg; BMI 24. Examination: tender swollen MCP and PIP joints bilaterally, no lung crepitations. Labs ordered: ESR, CRP, RF, anti-CCP, LFT, serum 25‑OH‑vit D, calcium, phosphate, creatinine/eGFR, potassium."
+    },
+    {
+      "memory_id": "X0327-m02",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 38 mm/hr (0‑20); CRP 12 mg/L (<5); RF positive 45 IU/mL (<14); anti‑CCP 210 U/mL (<20); LFT: ALT 28 U/L (≤35), AST 26 U/L (≤34), ALP 78 U/L (40‑129), bilirubin 0.9 mg/dL (0.2‑1.2). Serum 25‑OH‑vit D 14 ng/mL (30‑100); calcium 8.9 mg/dL (8.5‑10.5); phosphate 2.6 mg/dL (2.5‑4.5). Creatinine 0.9 mg/dL (0.5‑1.1), eGFR 78 mL/min/1.73m2 (>60); potassium 4.2 mmol/L (3.5‑5.0)."
+    },
+    {
+      "memory_id": "X0327-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate 10 mg orally once weekly\nfolic acid 5 mg orally once weekly\nhydroxychloroquine 200 mg orally once daily\nprednisolone 5 mg orally once daily\ncholecalciferol 60000 IU orally once weekly for 8 weeks, then 1000 IU orally daily\namlodipine 5 mg orally once daily\ntelmisartan 40 mg orally once daily\nlosartan 50 mg orally once daily\nhydrochlorothiazide 12.5 mg orally once daily"
+    },
+    {
+      "memory_id": "X0327-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis, vitamin D deficiency, hypertension.\nSymptoms: reduced morning stiffness to 30 min, joint tenderness decreased; BP 132/84 mmHg. Examination: mild tenderness in wrists, no active synovitis. Lung fields clear. Inhaler technique not applicable. Advised to continue current meds, check labs."
+    },
+    {
+      "memory_id": "X0327-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 22 mm/hr (0‑20); CRP 6 mg/L (<5); RF 30 IU/mL (<14); anti‑CCP 95 U/mL (<20). LFT: ALT 24, AST 22, ALP 76, bilirubin 0.8. Serum 25‑OH‑vit D 28 ng/mL (30‑100); calcium 9.1 mg/dL; phosphate 2.8 mg/dL. Creatinine 0.88, eGFR 80; potassium 4.1."
+    },
+    {
+      "memory_id": "X0327-m06",
+      "date": "2025-07-13",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate 10 mg orally once weekly\nfolic acid 5 mg orally once weekly\nhydroxychloroquine 200 mg orally once daily\nprednisolone 2.5 mg orally once daily\ncholecalciferol 1000 IU orally once daily\namlodipine 5 mg orally once daily\ntelmisartan 40 mg orally once daily\nlosartan 50 mg orally once daily\nhydrochlorothiazide 12.5 mg orally once daily"
+    },
+    {
+      "memory_id": "X0327-m07",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis, vitamin D deficiency, hypertension.\nSymptoms: joint pain minimal, morning stiffness <15 min; BP 128/80 mmHg. Examination: no joint swelling, lungs clear. Inhaler technique not applicable. Patient reports good adherence. Plan: continue meds, repeat labs."
+    },
+    {
+      "memory_id": "X0327-m08",
+      "date": "2025-10-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 18 mm/hr (0‑20); CRP 4 mg/L (<5); RF 18 IU/mL (<14); anti‑CCP 22 U/mL (<20). LFT: ALT 20, AST 19, ALP 74, bilirubin 0.7. Serum 25‑OH‑vit D 32 ng/mL (30‑100); calcium 9.2 mg/dL; phosphate 2.9 mg/dL. Creatinine 0.86, eGFR 82; potassium 4.0."
+    },
+    {
+      "memory_id": "X0327-m09",
+      "date": "2025-10-18",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate 10 mg orally once weekly\nfolic acid 5 mg orally once weekly\nhydroxychloroquine 200 mg orally once daily\nprednisolone 2.5 mg orally once daily\ncholecalciferol 1000 IU orally once daily\namlodipine 5 mg orally once daily\ntelmisartan 40 mg orally once daily\nlosartan 50 mg orally once daily\nhydrochlorothiazide 12.5 mg orally once daily"
+    },
+    {
+      "memory_id": "X0327-m10",
+      "date": "2025-11-01",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Rheumatology, Dr. Priya Nair (MMC Rheumatology Centre) for evaluation of disease‑modifying therapy optimisation in rheumatoid arthritis. Patient currently on methotrexate, hydroxychloroquine, low‑dose prednisolone. Request advice on possible addition of sulfasalazine or biologic if needed."
+    },
+    {
+      "memory_id": "X0327-m11",
+      "date": "2025-12-01",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Rheumatology review: disease activity low (DAS28‑CRP 2.1). Continue current regimen; add sulfasalazine 500 mg twice daily, increase to 1g BD after 2 weeks if tolerated. Monitor LFT. No biologic indicated at this time. Return to pulmonology for routine follow‑up."
+    },
+    {
+      "memory_id": "X0327-m12",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis, vitamin D deficiency, hypertension.\nSymptoms: joint discomfort mild, morning stiffness <10 min; BP 126/78 mmHg. Examination: no synovitis, lungs clear. Inhaler technique not applicable. Patient started sulfasalazine 500 mg BD two weeks ago, tolerating well. Plan: uptitrate sulfasalazine to 1g BD, continue other meds, repeat labs in 6 weeks."
+    },
+    {
+      "memory_id": "X0327-m13",
+      "date": "2026-02-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 16 mm/hr (0‑20); CRP 3 mg/L (<5); RF 12 IU/mL (<14); anti‑CCP 10 U/mL (<20). LFT: ALT 21, AST 20, ALP 75, bilirubin 0.7. Serum 25‑OH‑vit D 34 ng/mL (30‑100); calcium 9.3 mg/dL; phosphate 3.0 mg/dL. Creatinine 0.85, eGFR 83; potassium 4.0."
+    },
+    {
+      "memory_id": "X0327-m14",
+      "date": "2026-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Suresh Menon (Pulmonology) for 2026-11-02 at 09:30 am. Patient to bring medication list and recent labs."
+    }
+  ]
+}

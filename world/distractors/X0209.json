@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0209",
+  "name": "Padma Shastry",
+  "age": 26,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0209-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: heartburn and regurgitation for 2 months. PRESENTING COMPLAINT: Burning retrosternal pain after meals, sour taste, occasional nocturnal cough. EXAMINATION: BP 118/76 mmHg, weight 58 kg, height 162 cm, BMI 22.1 (normal). Abdomen soft, no tenderness. IMPRESSION: Gastro‑oesophageal reflux disease, uncomplicated. ARRANGEMENTS: Start pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, antacid gel SOS. Lifestyle: small frequent meals, avoid lying down within 2 h of food, limit caffeine and spicy food. Return if: worsening pain, vomiting, weight loss, dysphagia, or melena."
+    },
+    {
+      "memory_id": "X0209-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0209-m03",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for follow‑up on 2025-07-10 at 10:00 with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0209-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (reference: negative)."
+    },
+    {
+      "memory_id": "X0209-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up. PRESENTING COMPLAINT: Heartburn improved to mild occasional after meals, no nocturnal symptoms. EXAMINATION: BP 120/78 mmHg, weight 58.5 kg, BMI 22.3 (normal). Abdomen benign. IMPRESSION: GERD responding well to PPI. ARRANGEMENTS: Continue pantoprazole 40 mg OD, domperidone 10 mg BD, antacid gel SOS. Reinforce diet and weight maintenance. Return if: worsening pain, vomiting, dysphagia, anaemia, or melena."
+    },
+    {
+      "memory_id": "X0209-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0209-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 6‑month review. PRESENTING COMPLAINT: No heartburn for past 4 weeks, occasional bloating after heavy meals. EXAMINATION: BP 119/77 mmHg, weight 60 kg, BMI 22.8 (normal). Abdomen soft. IMPRESSION: GERD in remission on current therapy. ARRANGEMENTS: Continue pantoprazole 40 mg OD, domperidone 10 mg BD, antacid gel SOS. Advise regular exercise, balanced diet, limit alcohol. Return if: recurrent heartburn, vomiting, weight loss, dysphagia, or melena."
+    },
+    {
+      "memory_id": "X0209-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0209-m09",
+      "date": "2026-02-14",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Upper GI endoscopy performed due to persistent epigastric discomfort despite PPI. Findings: Mild erythema of antrum, no ulcer, no Barrett’s mucosa. Biopsy negative for H. pylori and dysplasia."
+    },
+    {
+      "memory_id": "X0209-m10",
+      "date": "2026-02-14",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referred to Dr S. Rao, Gastroenterology, for evaluation of refractory dyspepsia. Include recent endoscopy report and medication list."
+    },
+    {
+      "memory_id": "X0209-m11",
+      "date": "2026-03-01",
+      "type": "referral_outcome",
+      "author": "patient",
+      "text": "Gastroenterologist reviewed endoscopy; advised to continue PPI, consider low‑dose domperidone only if nausea persists, and to avoid NSAIDs. No further intervention needed."
+    },
+    {
+      "memory_id": "X0209-m12",
+      "date": "2026-08-18",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual check‑up. PRESENTING COMPLAINT: No reflux symptoms, occasional bloating after large meals. EXAMINATION: BP 122/80 mmHg, weight 61 kg, height 162 cm, BMI 23.3 (overweight per Asian cut‑off). Abdomen soft. IMPRESSION: GERD asymptomatic; overweight. ARRANGEMENTS: Continue pantoprazole 20 mg OD (step‑down), stop domperidone, antacid gel SOS. Advise calorie‑controlled diet, 150 min/week brisk walking, weight target 58 kg. Return if: heartburn returns, vomiting, dysphagia, melena, or severe abdominal pain."
+    },
+    {
+      "memory_id": "X0209-m13",
+      "date": "2026-08-18",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 20 mg OD before breakfast\nAntacid gel SOS"
+    }
+  ]
+}

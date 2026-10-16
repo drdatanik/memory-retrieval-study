@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0036",
+  "name": "Narasimha Vemula",
+  "age": 31,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Psoriasis",
+    "Dyslipidaemia",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0036-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild itching on elbows and knees, able to work full days supervising coffee estate, walks 2 km daily.\ncognition: Mini-Cog 4/5 (recall 3 items, clock draw normal).\nfalls: no falls in last 12 months, gait normal, timed up-and-go 9 seconds.\nmedicines: 0 regular (new patient).\nmood: denies low mood or anxiety.\ncarers: wife Priya, spouse.\ngoal: \"I want clear skin and to keep working without flare‑ups.\""
+    },
+    {
+      "memory_id": "X0036-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "clobetasol 0.05% cream apply BD to affected areas\ncalcipotriol ointment apply OD to affected areas\nmethotrexate 7.5 mg PO once weekly\nfolic acid 5 mg PO daily"
+    },
+    {
+      "memory_id": "X0036-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 28 U/L (7‑35), AST 24 U/L (8‑40), ALP 78 U/L (40‑129), GGT 32 U/L (0‑51).\nCBC: Hb 14.8 g/dL (13‑17), WBC 6.2 x10^9/L (4‑10), Platelets 210 x10^9/L (150‑400).\nSerum creatinine: 0.9 mg/dL (0.6‑1.2).\nFasting lipid profile: LDL 138 mg/dL (<100), HDL 38 mg/dL (>40), Triglycerides 162 mg/dL (<150).\nCK: 110 U/L (30‑200).\nSerum vitamin B12: 210 pg/mL (200‑900).\nMCV: 92 fL (80‑100).\nHemoglobin: 14.8 g/dL (as above)."
+    },
+    {
+      "memory_id": "X0036-m04",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: skin lesions improved, occasional mild scaling; able to supervise estate, walks 3 km.\ncognition: not repeated this visit (annual due).\nfalls: no falls, gait steady, timed up-and-go 8 seconds.\nmedicines: 4 regular (clobetasol, calcipotriol, methotrexate, folic acid).\nmood: reports occasional frustration with skin, denies depression.\ncarers: wife Priya, spouse.\ngoal: \"I want the plaques to disappear completely.\""
+    },
+    {
+      "memory_id": "X0036-m05",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate increased to 10 mg PO once weekly\nfolic acid 5 mg PO daily unchanged\nclobetasol 0.05% cream BD\ncalcipotriol ointment OD"
+    },
+    {
+      "memory_id": "X0036-m06",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 34 U/L, AST 28 U/L, ALP 80 U/L, GGT 35 U/L.\nCBC: Hb 14.6 g/dL, WBC 6.0, Platelets 205.\nSerum creatinine: 0.9 mg/dL.\nFasting lipid profile: LDL 130 mg/dL, HDL 40 mg/dL, Triglycerides 150 mg/dL.\nCK: 115 U/L.\nSerum vitamin B12: 225 pg/mL.\nMCV: 91 fL.\nHemoglobin: 14.6 g/dL."
+    },
+    {
+      "memory_id": "X0036-m07",
+      "date": "2025-10-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Resting ECG: sinus rhythm 78 bpm, no ST‑T changes, left ventricular voltage within normal limits. No arrhythmias."
+    },
+    {
+      "memory_id": "X0036-m08",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: mild flare on scalp, manageable with topical steroids; work unaffected.\ncognition: Mini-Cog 3/5 (recall 2, clock draw mildly abnormal).\nfalls: no falls, gait normal, timed up-and-go 9 seconds.\nmedicines: 4 regular (clobetasol, calcipotriol, methotrexate, folic acid).\nmood: notes stress from estate work, denies depression.\ncarers: wife Priya, spouse.\ngoal: \"I want to keep my skin clear enough to feel comfortable in meetings.\""
+    },
+    {
+      "memory_id": "X0036-m09",
+      "date": "2025-11-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "atorvastatin 10 mg HS stopped\nrosuvastatin 10 mg OD started\nfenofibrate 145 mg OD continued\nmethotrexate 10 mg PO weekly unchanged\nfolic acid 5 mg OD\nclobetasol 0.05% cream BD\ncalcipotriol ointment OD"
+    },
+    {
+      "memory_id": "X0036-m10",
+      "date": "2025-12-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 30 U/L, AST 26 U/L, ALP 78 U/L, GGT 33 U/L.\nCBC: Hb 14.5 g/dL, WBC 5.9, Platelets 200.\nSerum creatinine: 0.9 mg/dL.\nFasting lipid profile: LDL 110 mg/dL, HDL 42 mg/dL, Triglycerides 130 mg/dL.\nCK: 108 U/L.\nSerum vitamin B12: 240 pg/mL.\nMCV: 90 fL.\nHemoglobin: 14.5 g/dL."
+    },
+    {
+      "memory_id": "X0036-m11",
+      "date": "2026-02-15",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Dermatology, Sparsh Hospital, for recalcitrant plaque psoriasis despite topical and methotrexate therapy. Request assessment for biologic therapy."
+    },
+    {
+      "memory_id": "X0036-m12",
+      "date": "2026-03-01",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Dermatology review: patient exhibits moderate plaque psoriasis PASI 8. Recommend trial of apremilast 30 mg BD after liver labs reviewed. Continue methotrexate with folic acid. Return in 8 weeks."
+    },
+    {
+      "memory_id": "X0036-m13",
+      "date": "2026-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve started apremilast as advised. Skin looks less red but I have mild diarrhea and nausea. Also feel a bit tired in the mornings."
+    },
+    {
+      "memory_id": "X0036-m14",
+      "date": "2026-04-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-05-10 at 10:00 with Dr Nandini Kulkarni (D06) to review apremilast tolerability and labs."
+    },
+    {
+      "memory_id": "X0036-m15",
+      "date": "2026-06-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: skin lesions markedly thinner, occasional mild itching; able to work full days, walks 3.5 km.\ncognition: Mini-Cog 2/5 (recall 1, clock draw abnormal) – positive screen, plan for full MoCA assessment.\nfalls: no falls in last 12 months, gait slightly slower, timed up-and-go 11 seconds (raised fall risk) – advise strength exercises and supportive footwear.\nmedicines: 6 regular (apremilast, methotrexate, folic acid, rosuvastatin, fenofibrate, clobetasol/calcipotriol topical). Five or more = polypharmacy – request Beers criteria review.\nmood: reports mild fatigue, denies depression.\ncarers: wife Priya, spouse.\ngoal: \"I want to stay active and keep my skin under control without side effects.\""
+    },
+    {
+      "memory_id": "X0036-m16",
+      "date": "2026-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 32 U/L, AST 27 U/L, ALP 80 U/L, GGT 34 U/L.\nCBC: Hb 14.4 g/dL, WBC 5.8, Platelets 198.\nSerum creatinine: 0.9 mg/dL.\nFasting lipid profile: LDL 105 mg/dL, HDL 44 mg/dL, Triglycerides 125 mg/dL.\nCK: 105 U/L.\nSerum vitamin B12: 260 pg/mL.\nMCV: 90 fL.\nHemoglobin: 14.4 g/dL."
+    },
+    {
+      "memory_id": "X0036-m17",
+      "date": "2026-09-30",
+      "type": "prescription",
+      "author": "D06",
+      "text": "apremilast reduced to 20 mg BD due to GI upset\nmethotrexate 10 mg PO weekly unchanged\nfolic acid 5 mg OD\nrosuvastatin 10 mg OD\nfenofibrate 145 mg OD\nclobetasol 0.05% cream BD\ncalcipotriol ointment OD"
+    },
+    {
+      "memory_id": "X0036-m18",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: skin clear except minimal residual scaling on elbows; work unaffected, walks 4 km.\ncognition: MoCA 26/30 (normal).\nfalls: no falls, gait normal, timed up-and-go 9 seconds.\nmedicines: 6 regular (apremilast 20 mg BD, methotrexate, folic acid, rosuvastatin, fenofibrate, topical steroids). Polypharmacy noted, Beers review pending.\nmood: feels well, denies depression.\ncarers: wife Priya, spouse.\ngoal: \"I want to keep my skin clear and feel energetic for my estate work.\""
+    }
+  ]
+}

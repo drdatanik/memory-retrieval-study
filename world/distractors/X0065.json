@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0065",
+  "name": "Selvam Krishnaswamy",
+  "age": 20,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Epilepsy",
+    "Generalised anxiety disorder",
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0065-m01",
+      "date": "2025-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Patient booked routine follow-up with Dr Priya Natarajan (D03) for 2025-04-15 at 10:00 AM."
+    },
+    {
+      "memory_id": "X0065-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review of epilepsy, anxiety and chronic urticaria.\nEXAMINATION: BP 118/72 mmHg, weight 68 kg, height 1.70 m, BMI 23.5 (overweight). Cardiovascular and respiratory systems normal. Skin shows mild dermographism, no active wheals.\nIMPRESSION: Stable epilepsy on levetiracetam and lamotrigine. Generalised anxiety disorder controlled on escitalopram 5 mg OD and buspirone 5 mg BD. Chronic urticaria mild, on levocetirizine 5 mg OD and cetirizine 10 mg HS.\nARRANGEMENTS: Continue current medications. Order fasting lipid profile, fasting blood sugar, serum sodium, serum creatinine, TSH, haemoglobin, CBC with eosinophils and thyroid function test. Schedule EEG. Advise weight reduction through balanced diet and regular activity. Return if seizures worsen, panic attacks, chest pain, breathlessness, fever >39°C or blood in stools."
+    },
+    {
+      "memory_id": "X0065-m03",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levetiracetam 500 mg BD\nLamotrigine 50 mg BD\nEscitalopram 5 mg OD\nBuspirone 5 mg BD\nLevocetirizine 5 mg OD\nCetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0065-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium 138 mmol/L (135-145). Serum creatinine 0.9 mg/dL (0.6-1.2). Fasting blood sugar 92 mg/dL (70-100). Lipids: Total cholesterol 165 mg/dL (<200), HDL 48 mg/dL (>40), LDL 95 mg/dL (<130), triglycerides 110 mg/dL (<150). TSH 2.1 mIU/L (0.4-4.0). Haemoglobin 14.5 g/dL (13.0-17.0). CBC shows eosinophils 3% (1-6). Thyroid function: Free T4 1.2 ng/dL (0.9-1.7), Free T3 3.2 pg/mL (2.3-4.2)."
+    },
+    {
+      "memory_id": "X0065-m05",
+      "date": "2025-05-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Electroencephalogram (EEG) performed with 16-channel montage during awake and hyperventilation phases. Background rhythm shows symmetric 8-10 Hz alpha activity, no focal slowing. No epileptiform discharges, spikes or sharp waves detected. No photic driving abnormalities. Interpretation: No evidence of epileptiform activity; study consistent with well-controlled epilepsy on current regimen."
+    },
+    {
+      "memory_id": "X0065-m06",
+      "date": "2025-07-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past few weeks I have felt more nervous and restless, with trouble concentrating at work. I also noticed a mild increase in itchy wheals on my arms, especially in the evenings, which respond partially to cetirizine. My sleep is okay but I wake up feeling tense. I am worried my anxiety meds might need adjustment."
+    },
+    {
+      "memory_id": "X0065-m07",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Increased anxiety symptoms and mild urticaria flare.\nEXAMINATION: BP 120/74 mmHg, weight 68.5 kg, BMI 23.7 (overweight). No tachycardia. Skin shows scattered small wheals on forearms, no angioedema. Neurologic exam normal.\nIMPRESSION: Generalised anxiety disorder with modest symptom escalation; likely needing antidepressant dose titration. Chronic urticaria mild, responsive to antihistamines but requiring increased daytime control. Epilepsy remains seizure-free.\nARRANGEMENTS: Increase escitalopram to 10 mg OD; continue buspirone 5 mg BD. Increase levocetirizine to 10 mg OD; keep cetirizine 10 mg HS for breakthrough. Reinforce seizure precautions. Return if seizures develop, severe panic, difficulty breathing, swelling of lips/tongue, or widespread rash."
+    },
+    {
+      "memory_id": "X0065-m08",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levetiracetam 500 mg BD\nLamotrigine 50 mg BD\nEscitalopram 10 mg OD\nBuspirone 5 mg BD\nLevocetirizine 10 mg OD\nCetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0065-m09",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium 137 mmol/L (135-145). Serum creatinine 0.9 mg/dL (0.6-1.2). Fasting blood sugar 95 mg/dL (70-100). Lipids unchanged. TSH 2.0 mIU/L (0.4-4.0). Haemoglobin 14.3 g/dL (13.0-17.0). CBC eosinophils 2% (1-6). Thyroid: Free T4 1.1 ng/dL (0.9-1.7), Free T3 3.1 pg/mL (2.3-4.2)."
+    },
+    {
+      "memory_id": "X0065-m10",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Repeat EEG performed to ensure ongoing stability. Awake recording shows posterior dominant rhythm 9 Hz, symmetric. No epileptiform discharges, spikes or slow waves. Hyperventilation and photic stimulation did not provoke abnormalities. Interpretation: No epileptiform activity; epilepsy remains well controlled on current levetiracetam and lamotrigine regimen."
+    },
+    {
+      "memory_id": "X0065-m11",
+      "date": "2025-11-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Patient requested to move routine follow-up from 2025-11-15 to 2025-11-12 at 09:30 AM due to work schedule; appointment rescheduled accordingly."
+    },
+    {
+      "memory_id": "X0065-m12",
+      "date": "2025-11-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review; patient reports stable mood and infrequent urticaria.\nEXAMINATION: BP 119/71 mmHg, weight 68 kg, BMI 23.5 (overweight). Skin clear, no wheals. No neurologic deficits.\nIMPRESSION: Anxiety well controlled on escitalopram 10 mg OD and buspirone 5 mg BD. Chronic urticaria minimal, current antihistamine regimen adequate. Epilepsy seizure-free for >6 months.\nARRANGEMENTS: Continue current medications. Annual fasting lipid profile, fasting blood sugar, serum sodium, creatinine, TSH, haemoglobin, CBC eosinophils, thyroid function tests ordered. Influenza vaccine offered and administered today (0.5 mL IM). Return if seizures, worsening anxiety, chest pain, breathlessness, fever >39°C or bleeding."
+    },
+    {
+      "memory_id": "X0065-m13",
+      "date": "2025-11-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levetiracetam 500 mg BD\nLamotrigine 50 mg BD\nEscitalopram 10 mg OD\nBuspirone 5 mg BD\nLevocetirizine 10 mg OD\nCetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0065-m14",
+      "date": "2026-02-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium 138 mmol/L (135-145). Serum creatinine 0.9 mg/dL (0.6-1.2). Fasting blood sugar 93 mg/dL (70-100). Lipids: Total cholesterol 160 mg/dL, HDL 50 mg/dL, LDL 92 mg/dL, triglycerides 105 mg/dL. TSH 2.2 mIU/L (0.4-4.0). Haemoglobin 14.4 g/dL (13.0-17.0). CBC eosinophils 2% (1-6). Thyroid: Free T4 1.2 ng/dL (0.9-1.7), Free T3 3.2 pg/mL (2.3-4.2)."
+    },
+    {
+      "memory_id": "X0065-m15",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Annual health review; patient asymptomatic.\nEXAMINATION: BP 118/70 mmHg, weight 67.5 kg, BMI 23.4 (overweight). No abnormal findings.\nIMPRESSION: Epilepsy, generalized anxiety disorder and chronic urticaria all stable on current therapy. No adverse effects noted.\nARRANGEMENTS: Continue existing medications. Order fasting lipid profile, fasting blood sugar, serum sodium, creatinine, TSH, haemoglobin, CBC eosinophils, thyroid function tests. Provide advice on diet and activity to maintain BMI <23. Return if seizures, mood changes, severe rash, chest pain, breathlessness, fever >39°C or bleeding."
+    },
+    {
+      "memory_id": "X0065-m16",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levetiracetam 500 mg BD\nLamotrigine 50 mg BD\nEscitalopram 10 mg OD\nBuspirone 5 mg BD\nLevocetirizine 10 mg OD\nCetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0065-m17",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Patient booked follow-up visit with Dr Priya Natarajan (D03) for 2026-10-05 at 11:00 AM for routine review."
+    }
+  ]
+}

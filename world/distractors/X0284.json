@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0284",
+  "name": "Yasmeen Baig",
+  "age": 67,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Non-alcoholic fatty liver disease",
+    "Osteoarthritis of the knee",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0284-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, walks with mild knee pain, able to climb stairs with support.\ncognition: Mini-Cog score 4/5 (negative).\nfalls: 0 falls in last 12 months, gait steady, timed up-and-go 10 seconds (normal).\nmedicines: 6 regular. polypharmacy: consider review against Beers criteria.\nmood: reports occasional low mood, denies depression or anhedonia.\ncarers: husband Arvind Kulkarni, spouse.\ngoals: \"I want to keep working part-time and manage my liver and joint issues without steroids.\""
+    },
+    {
+      "memory_id": "X0284-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 5 mg OD\nmethotrexate 10 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD\nparacetamol 650 mg SOS\ntopical diclofenac gel\ncalcium with vitamin D3 OD"
+    },
+    {
+      "memory_id": "X0284-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 32 U/L (7-56)\nAST 28 U/L (8-48)\nTotal bilirubin 0.9 mg/dL (0.2-1.2)\nAlbumin 4.2 g/dL (3.5-5.0)\nPlatelet count 210 ×10⁹/L (150-400)\nFasting cholesterol 185 mg/dL (<200)\nTriglycerides 120 mg/dL (<150)\nHDL 48 mg/dL (>40)\nLDL 105 mg/dL (<130)"
+    },
+    {
+      "memory_id": "X0284-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Weight-bearing X-ray both knees: mild joint space narrowing, small osteophytes at medial tibial plateaus, no significant effusion."
+    },
+    {
+      "memory_id": "X0284-m05",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Penicillin: rash and pruritus within 30 minutes of ingestion."
+    },
+    {
+      "memory_id": "X0284-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, occasional knee pain after prolonged standing, uses topical gel.\ncognition: Mini-Cog not repeated this visit (screened at baseline).\nfalls: 0 falls in last 12 months, gait steady, timed up-and-go 11 seconds (normal).\nmedicines: 7 regular. polypharmacy: consider review against Beers criteria.\nmood: mood stable, denies anxiety or depressive symptoms.\ncarers: husband Arvind Kulkarni, spouse.\ngoals: \"I aim to reduce steroid use and stay active for my grandchildren.\""
+    },
+    {
+      "memory_id": "X0284-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 5 mg OD\nmethotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD\nparacetamol 650 mg SOS\ntopical diclofenac gel\ncalcium with vitamin D3 OD"
+    },
+    {
+      "memory_id": "X0284-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 38 U/L (7-56)\nAST 30 U/L (8-48)\nESR 22 mm/hr (0-20) slightly elevated\nCRP 6 mg/L (<5) mildly elevated\nPlatelet count 205 ×10⁹/L (150-400)\nFasting cholesterol 190 mg/dL (<200)\nTriglycerides 130 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0284-m09",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, knee pain improved with topical gel, walks 20 mins daily.\ncognition: Mini-Cog not due yet.\nfalls: 0 falls in last 12 months, gait steady, timed up-and-go 10 seconds (normal).\nmedicines: 8 regular. polypharmacy: consider review against Beers criteria.\nmood: reports good mood, enjoys gardening.\ncarers: husband Arvind Kulkarni, spouse.\ngoals: \"I want to maintain my current activity level and avoid further joint damage.\""
+    },
+    {
+      "memory_id": "X0284-m10",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 5 mg OD\nmethotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD (taper to 2.5 mg OD starting next week)\nparacetamol 650 mg SOS\ntopical diclofenac gel\ncalcium with vitamin D3 OD\nvitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0284-m11",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 35 U/L (7-56)\nAST 28 U/L (8-48)\nSerum vitamin D 22 ng/mL (30-100) insufficient\nFasting cholesterol 188 mg/dL (<200)\nTriglycerides 125 mg/dL (<150)\nHDL 50 mg/dL (>40)\nLDL 102 mg/dL (<130)"
+    },
+    {
+      "memory_id": "X0284-m12",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, knee pain minimal, able to squat with support.\ncognition: Mini-Cog score 3/5 (negative).\nfalls: 0 falls in last 12 months, gait steady, timed up-and-go 9 seconds (normal).\nmedicines: 7 regular. polypharmacy: consider review against Beers criteria.\nmood: mood stable, denies anxiety.\ncarers: husband Arvind Kulkarni, spouse.\ngoals: \"I hope to stay off steroids completely and keep my liver healthy.\""
+    },
+    {
+      "memory_id": "X0284-m13",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 5 mg OD\nmethotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone discontinued\nparacetamol 650 mg SOS\ntopical diclofenac gel\ncalcium with vitamin D3 OD\nvitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0284-m14",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 30 U/L (7-56)\nAST 26 U/L (8-48)\nESR 12 mm/hr (0-20)\nCRP 2 mg/L (<5)\nPlatelet count 210 ×10⁹/L (150-400)\nFasting cholesterol 180 mg/dL (<200)\nTriglycerides 110 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0284-m15",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-07-30 at 10:00 with Dr Nandini Kulkarni (D06) for routine follow-up."
+    },
+    {
+      "memory_id": "X0284-m16",
+      "date": "2026-07-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, no knee pain, walks 30 mins daily without aid.\ncognition: Mini-Cog not due yet.\nfalls: 0 falls in last 12 months, gait steady, timed up-and-go 9 seconds (normal).\nmedicines: 6 regular. polypharmacy: consider review against Beers criteria.\nmood: mood good, reports increased energy.\ncarers: husband Arvind Kulkarni, spouse.\ngoals: \"I want to continue my current regimen and enjoy travel with my family.\""
+    },
+    {
+      "memory_id": "X0284-m17",
+      "date": "2026-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 28 U/L (7-56)\nAST 24 U/L (8-48)\nSerum vitamin D 34 ng/mL (30-100) sufficient\nFasting cholesterol 175 mg/dL (<200)\nTriglycerides 105 mg/dL (<150)\nHDL 52 mg/dL (>40)\nLDL 98 mg/dL (<130)"
+    }
+  ]
+}

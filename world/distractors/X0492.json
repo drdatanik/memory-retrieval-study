@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0492",
+  "name": "Tapas Ghosh",
+  "age": 55,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0492-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent with ADLs, walks 2 km daily, uses cane occasionally.\ncognition: Mini-Cog 3/5 (recall 1, clock draw normal) – negative screen.\nfalls: 0 falls in last 12 months, gait steady, timed up-and-go 10 sec (normal).\nmedicines: 0 regular.\nmood: reports good spirits, denies depression.\ncarers: spouse, Priya Kulkarni.\ngoal: \"Stay active and pain‑free to enjoy gardening.\""
+    },
+    {
+      "memory_id": "X0492-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 8.9 mg/dL (ref 3.5‑7.2).\nSerum creatinine: 1.1 mg/dL (ref 0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0492-m03",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "allopurinol 100 mg OD\nStart today; review in 8 weeks."
+    },
+    {
+      "memory_id": "X0492-m04",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs unchanged, mild toe pain after long walks.\ncognition: not repeated (annual due Apr 2026).\nfalls: 0 falls, gait slightly antalgic left, timed up‑and‑go 11 sec (borderline).\nmedicines: 1 regular (allopurinol).\nmood: frustrated by intermittent pain.\ncarers: spouse, Priya Kulkarni.\ngoal: \"Reduce flare frequency to walk without pain.\""
+    },
+    {
+      "memory_id": "X0492-m05",
+      "date": "2025-07-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 7.2 mg/dL (ref 3.5‑7.2).\nSerum creatinine: 1.0 mg/dL (ref 0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0492-m06",
+      "date": "2025-07-25",
+      "type": "prescription",
+      "author": "D06",
+      "text": "allopurinol 200 mg OD\nfebuxostat 40 mg OD\ncolchicine 0.5 mg BD for flare (max 3 days)\nReview in 6 weeks."
+    },
+    {
+      "memory_id": "X0492-m07",
+      "date": "2025-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up visit with Dr Nandini Kulkarni on 2025-10-10 at 10:30."
+    },
+    {
+      "memory_id": "X0492-m08",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: walks 1.5 km with mild discomfort, ADLs independent.\ncognition: not due yet.\nfalls: 0 falls, gait normal, timed up‑and‑go 10 sec.\nmedicines: 3 regular (allopurinol, febuxostat, colchicine PRN).\nmood: satisfied with reduced flare frequency.\ncarers: spouse, Priya Kulkarni.\ngoal: \"Maintain current regimen and stay active.\""
+    },
+    {
+      "memory_id": "X0492-m09",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 6.5 mg/dL (ref 3.5‑7.2).\nSerum creatinine: 1.0 mg/dL (ref 0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0492-m10",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, walks 2 km daily, no aid.\ncognition: Mini‑Cog 2/5 (recall 0, clock draw abnormal) – positive screen, plan full cognitive assessment.\nfalls: 0 falls, gait normal, timed up‑and‑go 9 sec.\nmedicines: 2 regular (allopurinol, febuxostat).\nmood: reports good mood, denies depression.\ncarers: spouse, Priya Kulkarni.\ngoal: \"Keep uric acid under control and avoid hospital visits.\""
+    },
+    {
+      "memory_id": "X0492-m11",
+      "date": "2026-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 5.8 mg/dL (ref 3.5‑7.2).\nSerum creatinine: 0.9 mg/dL (ref 0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0492-m12",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "allopurinol 300 mg OD\nStop febuxostat\ncolchicine 0.5 mg BD for flare (max 3 days)\nReview in 8 weeks."
+    }
+  ]
+}

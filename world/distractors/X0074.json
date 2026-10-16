@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0074",
+  "name": "Varsha Jadhav",
+  "age": 77,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0074-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Chronic abdominal bloating, alternating diarrhoea and constipation, symptoms present 3–4 days/week.\n  - Plan: Start mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS for diarrhoea. Advise low‑FODMAP diet: breakfast – oatmeal with lactose‑free milk; lunch – rice with steamed carrots; dinner – grilled fish with zucchini. Review in 8 weeks.\n- Weight: 62 kg\n- Waist: 84 cm (female cut‑off 80 cm – slightly increased)\n- Due: HbA1c – not applicable (no glucose‑lowering therapy)"
+    },
+    {
+      "memory_id": "X0074-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg – 1-0-1 – after food\nispaghula husk 5 g – 1-0-0 – with water before breakfast\nloperamide 2 mg – 0-0-1 SOS – after food if loose stools"
+    },
+    {
+      "memory_id": "X0074-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.8 g/L (12‑16), WBC 6.2 ×10⁹/L (4‑10), Plt 210 ×10⁹/L (150‑400)\nStool routine: No ova, cysts, or occult blood\n tTG‑IgA: <4 U/mL (negative <7)"
+    },
+    {
+      "memory_id": "X0074-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past week I’ve had more bloating after meals and two episodes of watery diarrhoea. The ispaghula husk seems to help a little but I still feel uncomfortable."
+    },
+    {
+      "memory_id": "X0074-m05",
+      "date": "2025-06-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0074-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Bloating reduced to 1‑2 days/week, diarrhoea episodes down to once weekly. Patient reports mild constipation on days without loperamide.\n  - Plan: Continue mebeverine 135 mg BD. Reduce ispaghula husk to 3 g OD. Add loperamide 2 mg BD only if >3 loose stools/day. Diet: breakfast – poha with peanuts; lunch – khichdi with curd; dinner – chapati with bottle‑gourd sabzi. Review in 3 months.\n- Weight: 61.5 kg\n- Waist: 83 cm (still above 80 cm cut‑off)\n- Due: HbA1c – not applicable (no glucose‑lowering therapy)"
+    },
+    {
+      "memory_id": "X0074-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg – 1-0-1 – after food\nispaghula husk 3 g – 1-0-0 – with water before breakfast\nloperamide 2 mg – 0-0-1 SOS – after food if loose stools"
+    },
+    {
+      "memory_id": "X0074-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.0 g/L (12‑16), WBC 5.8 ×10⁹/L (4‑10), Plt 205 ×10⁹/L (150‑400)\nStool routine: Normal flora, no parasites"
+    },
+    {
+      "memory_id": "X0074-m09",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: Liver normal size, no focal lesion. Gallbladder wall thickness 2 mm (normal). No biliary dilation. Both kidneys normal. No significant bowel wall thickening visualized."
+    },
+    {
+      "memory_id": "X0074-m10",
+      "date": "2025-09-01",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dr Suman Rao, Gastroenterology, Vikram Hospital, for opinion on refractory IBS symptoms and to rule out microscopic colitis. Include recent labs and ultrasound report."
+    },
+    {
+      "memory_id": "X0074-m11",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Gastroenterology opinion: Symptoms consistent with IBS‑M. Recommend low‑FODMAP diet trial for 6 weeks, consider rifaximin 550 mg BD for 14 days if bloating persists. No endoscopic abnormalities noted; colonoscopy not required at this time."
+    },
+    {
+      "memory_id": "X0074-m12",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Following the gastroenterologist’s advice I started a strict low‑FODMAP diet. Bloating has improved markedly; I have only occasional mild discomfort after lunch. No diarrhoea episodes in the last two weeks."
+    },
+    {
+      "memory_id": "X0074-m13",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Patient reports good symptom control on low‑FODMAP diet, bloating 1 day/week, bowel movements regular. No need for loperamide in past month.\n  - Plan: Continue mebeverine 135 mg BD. Continue ispaghula husk 3 g OD. Discontinue loperamide SOS (keep as rescue). Reinforce low‑FODMAP diet: breakfast – idli with coconut chutney; lunch – rice with lentil soup and carrots; dinner – roti with pumpkin sabzi. Review in 3 months.\n- Weight: 61 kg\n- Waist: 82 cm (approaching cut‑off)\n- Due: HbA1c – not applicable (no glucose‑lowering therapy)"
+    },
+    {
+      "memory_id": "X0074-m14",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg – 1-0-1 – after food\nispaghula husk 3 g – 1-0-0 – with water before breakfast\nloperamide 2 mg – 0-0-1 SOS – after food if loose stools"
+    },
+    {
+      "memory_id": "X0074-m15",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.9 g/L (12‑16), WBC 6.0 ×10⁹/L (4‑10), Plt 208 ×10⁹/L (150‑400)\nStool routine: No pathogens, normal consistency\n tTG‑IgA: <3 U/mL (negative <7)"
+    },
+    {
+      "memory_id": "X0074-m16",
+      "date": "2026-04-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original 2026-04-10 09:00 am moved to 2026-04-15 11:30 am with Dr Karthik Hegde (D04) due to clinic schedule change."
+    },
+    {
+      "memory_id": "X0074-m17",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Stable on low‑FODMAP diet and mebeverine. Occasional mild bloating after heavy meals, no diarrhoea. Patient reports improved quality of life.\n  - Plan: Continue mebeverine 135 mg BD. Continue ispaghula husk 3 g OD. Keep loperamide 2 mg SOS as needed. Reinforce diet: breakfast – upma with vegetables; lunch – millet pulao with raita; dinner – chapati with paneer‑palak. Review in 4 months.\n- Weight: 60.5 kg\n- Waist: 81 cm (just above female cut‑off)\n- Due: HbA1c – not applicable (no glucose‑lowering therapy)"
+    },
+    {
+      "memory_id": "X0074-m18",
+      "date": "2026-07-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg – 1-0-1 – after food\nispaghula husk 3 g – 1-0-0 – with water before breakfast\nloperamide 2 mg – 0-0-1 SOS – after food if loose stools"
+    }
+  ]
+}

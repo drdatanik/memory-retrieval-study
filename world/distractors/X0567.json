@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0567",
+  "name": "Debashish Chatterjee",
+  "age": 89,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Obesity",
+    "Iron-deficiency anaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0567-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity and iron-deficiency anemia.\nThe patient reports progressive weight gain over the past year, fatigue, and occasional shortness of breath on exertion. He notes no joint pain or chest discomfort. On examination, BMI is 34.2 kg/m², waist circumference 112 cm, mild pallor of conjunctiva, and no cyanosis. Lung fields are clear, cardiac rhythm regular.\nSmoking status: never."
+    },
+    {
+      "memory_id": "X0567-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg with each main meal\nFerrous sulfate 200 mg OD"
+    },
+    {
+      "memory_id": "X0567-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 6.2 mmol/L (<5.2), LDL 4.1 (<3.4), HDL 0.9 (>1.0), Triglycerides 2.2 (<1.7).\nFasting glucose 6.8 mmol/L (3.9-5.5).\nHbA1c 6.2% (4.0-5.6).\nLiver function: ALT 38 U/L (<40), AST 34 (<40), ALP 84 (<120), GGT 32 (<50), Bilirubin 10 (<21).\nWaist circumference 112 cm.\nHaemoglobin 10.8 g/dL (13.0-17.0).\nSerum ferritin 12 ng/mL (30-400).\nMCV 78 fL (80-100)."
+    },
+    {
+      "memory_id": "X0567-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity and iron-deficiency anemia.\nThe patient feels somewhat better; fatigue less pronounced, weight stable at 92 kg. He reports mild abdominal discomfort after meals. Exam: BMI 33.8, waist 110 cm, conjunctival pallor slightly improved, lungs clear.\nSmoking status: never."
+    },
+    {
+      "memory_id": "X0567-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg with each main meal\nFerrous sulfate 200 mg on alternate days"
+    },
+    {
+      "memory_id": "X0567-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.9 mmol/L, LDL 3.8, HDL 0.95, Triglycerides 2.0.\nFasting glucose 6.4 mmol/L.\nHbA1c 6.0%.\nLiver function: ALT 36, AST 32, ALP 80, GGT 30, Bilirubin 9.\nWaist circumference 110 cm.\nHaemoglobin 11.8 g/dL.\nSerum ferritin 18 ng/mL.\nMCV 80 fL."
+    },
+    {
+      "memory_id": "X0567-m07",
+      "date": "2025-10-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-11-15 at 10:00 AM with Dr Suresh Menon."
+    },
+    {
+      "memory_id": "X0567-m08",
+      "date": "2025-11-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity and iron-deficiency anemia.\nPatient reports increased bloating and loose stools since starting orlistat; weight unchanged at 91.5 kg. Fatigue minimal. Exam: BMI 33.6, waist 109 cm, pallor markedly improved, lungs clear.\nSmoking status: never."
+    },
+    {
+      "memory_id": "X0567-m09",
+      "date": "2025-11-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat stopped\nFerrous sulfate 200 mg OD"
+    },
+    {
+      "memory_id": "X0567-m10",
+      "date": "2026-02-28",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.7 mmol/L, LDL 3.6, HDL 1.0, Triglycerides 1.8.\nFasting glucose 6.2 mmol/L.\nHbA1c 5.9%.\nLiver function: ALT 34, AST 31, ALP 78, GGT 28, Bilirubin 8.\nWaist circumference 108 cm.\nHaemoglobin 13.2 g/dL.\nSerum ferritin 45 ng/mL.\nMCV 86 fL."
+    },
+    {
+      "memory_id": "X0567-m11",
+      "date": "2026-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity and iron-deficiency anemia.\nPatient tolerates diet well, weight 90 kg, reports no GI symptoms. Energy good. Exam: BMI 32.9, waist 106 cm, no pallor, lungs clear.\nSmoking status: never."
+    },
+    {
+      "memory_id": "X0567-m12",
+      "date": "2026-06-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate stopped\nNo obesity medication prescribed"
+    }
+  ]
+}

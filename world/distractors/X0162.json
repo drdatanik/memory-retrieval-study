@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0162",
+  "name": "Bhagyalakshmi Kamineni",
+  "age": 33,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0162-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: newly diagnosed based on clinical risk (overweight, sedentary).\n  - Plan: start silymarin 140 mg TDS, rosuvastatin 5 mg OD; lifestyle advice; weight 68 kg, waist 88 cm (>80 cm female cutoff); diet: breakfast whole‑grain toast with egg white, lunch mixed veg salad with lean protein, dinner light dal and rice, avoid fried foods.\n- Dyslipidaemia\n  - Status: pending lipid profile.\n  - Plan: await fasting lipid results; consider statin dose after labs.\nDue: HbA1c repeat in 3 months."
+    },
+    {
+      "memory_id": "X0162-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0162-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 48 U/L (7‑35), AST 42 U/L (8‑33), GGT 62 U/L (9‑48)\nTriglycerides 165 mg/dL (<150), HDL 48 mg/dL (>50 female), LDL 132 mg/dL (<100), total cholesterol 210 mg/dL (<200)\nPlatelet count 210 ×10⁹/L (150‑400)"
+    },
+    {
+      "memory_id": "X0162-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: improved liver enzymes after 3 months of silymarin and rosuvastatin.\n  - Plan: continue current meds; reinforce diet; weight 66 kg, waist 86 cm (>80).\n- Dyslipidaemia\n  - Status: LDL remains elevated at 132 mg/dL.\n  - Plan: increase rosuvastatin to 10 mg OD; repeat lipids in 6 weeks.\nDue: HbA1c repeat in 3 months."
+    },
+    {
+      "memory_id": "X0162-m05",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0162-m06",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 38 U/L, AST 34 U/L, GGT 48 U/L\nTriglycerides 140 mg/dL, HDL 50 mg/dL, LDL 108 mg/dL, total cholesterol 190 mg/dL\nPlatelet count 205 ×10⁹/L"
+    },
+    {
+      "memory_id": "X0162-m07",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: liver enzymes within normal range; mild steatosis suspected.\n  - Plan: continue silymarin 140 mg TDS; consider tapering if stable; weight 64 kg, waist 84 cm (>80).\n- Dyslipidaemia\n  - Status: LDL at goal (<100).\n  - Plan: maintain rosuvastatin 10 mg OD; repeat lipids annually.\nDue: HbA1c repeat in 3 months."
+    },
+    {
+      "memory_id": "X0162-m08",
+      "date": "2025-10-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0162-m09",
+      "date": "2025-10-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: hepatic steatosis grade 1, no focal lesion, spleen normal, portal vein patent."
+    },
+    {
+      "memory_id": "X0162-m10",
+      "date": "2026-01-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-22 at 10:30 am with Dr Karthik Hegde (D04) for follow‑up."
+    },
+    {
+      "memory_id": "X0162-m11",
+      "date": "2026-01-22",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: stable; patient reports mild fatigue, no abdominal pain.\n  - Plan: stop silymarin due to prolonged use; continue rosuvastatin; advise balanced diet, regular walk; weight 63 kg, waist 82 cm (>80).\n- Dyslipidaemia\n  - Status: LDL 95 mg/dL on current statin.\n  - Plan: maintain rosuvastatin 10 mg OD; repeat lipids in 6 months.\nDue: HbA1c repeat in 3 months."
+    },
+    {
+      "memory_id": "X0162-m12",
+      "date": "2026-01-25",
+      "type": "prescription",
+      "author": "D04",
+      "text": "rosuvastatin 10 mg OD\nsilymarin stopped"
+    },
+    {
+      "memory_id": "X0162-m13",
+      "date": "2026-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 30 U/L, AST 28 U/L, GGT 40 U/L\nTriglycerides 130 mg/dL, HDL 52 mg/dL, LDL 94 mg/dL, total cholesterol 185 mg/dL\nPlatelet count 200 ×10⁹/L"
+    },
+    {
+      "memory_id": "X0162-m14",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: liver enzymes normal, patient asymptomatic.\n  - Plan: continue rosuvastatin 10 mg OD; lifestyle reinforcement; weight 62 kg, waist 80 cm (at cutoff).\n- Dyslipidaemia\n  - Status: LDL at target.\n  - Plan: annual lipid review; consider statin taper if LDL stays <70.\nDue: HbA1c repeat in 3 months."
+    }
+  ]
+}

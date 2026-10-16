@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0532",
+  "name": "Nasreen Siddiqui",
+  "age": 68,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0532-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, manages vegetable stall, walks unaided.\ncognition: Mini-Cog 4/5 (negative).\nfalls: no falls in past 12 months; gait steady; TUG 10 seconds (normal).\nmedicines: 3 regular (salbutamol MDI SOS, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS); polypharmacy not present.\nmood: reports good spirits, denies anxiety.\ncarers: Lakshmi, daughter.\ngoal: \"I want to keep working at the market without breathlessness.\""
+    },
+    {
+      "memory_id": "X0532-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "salbutamol metered-dose inhaler 2 puffs SOS\nbudesonide-formoterol 200/6 mcg inhaler 2 puffs BD\nmontelukast sodium 10 mg tablet HS"
+    },
+    {
+      "memory_id": "X0532-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 2.1 L (68% predicted), FVC 2.8 L (82% predicted), FEV1/FVC 0.75. Post-bronchodilator FEV1 2.4 L (78% predicted), improvement 14% (significant reversibility)."
+    },
+    {
+      "memory_id": "X0532-m04",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been using my rescue inhaler about 3-4 times a week, especially after climbing stairs at the market. Nighttime cough twice weekly."
+    },
+    {
+      "memory_id": "X0532-m05",
+      "date": "2025-05-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-07-10 at 10:00 with Dr Nandini Kulkarni (D06) for asthma follow-up."
+    },
+    {
+      "memory_id": "X0532-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still independent, occasional shortness of breath on exertion at stall.\ncognition: Mini-Cog 4/5 (negative).\nfalls: none; gait slightly slower; TUG 11 seconds (borderline).\nmedicines: 3 regular; polypharmacy not present.\nmood: mild frustration about inhaler use.\ncarers: Lakshmi, daughter.\ngoal: \"I’d like to cut down my rescue inhaler to less than twice a week.\""
+    },
+    {
+      "memory_id": "X0532-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "salbutamol metered-dose inhaler 2 puffs SOS\nbudesonide-formoterol 200/6 mcg inhaler 1 puff BD (step down)\nmontelukast sodium 10 mg tablet HS"
+    },
+    {
+      "memory_id": "X0532-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Asthma Control Test (ACT) score: 18/25 (partially controlled)."
+    },
+    {
+      "memory_id": "X0532-m09",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Peak flow monitoring over 2 weeks: morning average 340 L/min (80% personal best), evening average 310 L/min (73% personal best), diurnal variability 15%."
+    },
+    {
+      "memory_id": "X0532-m10",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports improved exercise tolerance, able to walk to market without stopping.\ncognition: Mini-Cog 4/5 (negative).\nfalls: none; gait normal; TUG 10 seconds.\nmedicines: 3 regular; polypharmacy not present.\nmood: satisfied with current regimen.\ncarers: Lakshmi, daughter.\ngoal: \"I want to keep my asthma under control so I can work full days.\""
+    },
+    {
+      "memory_id": "X0532-m11",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "salbutamol metered-dose inhaler 2 puffs SOS\nbudesonide-formoterol 200/6 mcg inhaler 2 puffs BD (step up)\nmontelukast sodium 10 mg tablet HS"
+    },
+    {
+      "memory_id": "X0532-m12",
+      "date": "2025-12-10",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Dr S. Rao, Pulmonology, Victoria Hospital, for Persistent asthma symptoms despite step-up therapy; request spirometry with reversibility and consideration of biologic therapy."
+    },
+    {
+      "memory_id": "X0532-m13",
+      "date": "2026-01-20",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Pulmonary review: Spirometry shows FEV1 2.2 L (70% predicted), post-BD 2.5 L (80% predicted), improvement 14%. No indication for biologics; recommend continuing current inhaled corticosteroid/long-acting beta-agonist and montelukast, ensure inhaler technique."
+    },
+    {
+      "memory_id": "X0532-m14",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: able to work full market days, occasional wheeze after exertion.\ncognition: Mini-Cog 4/5 (negative).\nfalls: none; gait normal; TUG 10 seconds.\nmedicines: 3 regular; polypharmacy not present.\nmood: content.\ncarers: Lakshmi, daughter.\ngoal: \"I want to stay active and avoid hospital visits.\""
+    },
+    {
+      "memory_id": "X0532-m15",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "salbutamol metered-dose inhaler 2 puffs SOS\nbudesonide-formoterol 200/6 mcg inhaler 2 puffs BD\nmontelukast sodium 10 mg tablet HS"
+    },
+    {
+      "memory_id": "X0532-m16",
+      "date": "2026-04-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 2.3 L (73% predicted), FVC 2.9 L (85% predicted), FEV1/FVC 0.79. Post-bronchodilator FEV1 2.5 L (79% predicted), improvement 9% (borderline reversibility)."
+    },
+    {
+      "memory_id": "X0532-m17",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, market work unchanged, no limitation.\ncognition: Mini-Cog 4/5 (negative) (annual screen).\nfalls: none in past year; gait normal; TUG 10 seconds.\nmedicines: 3 regular; polypharmacy not present.\nmood: positive.\ncarers: Lakshmi, daughter.\ngoal: \"I wish to continue selling vegetables and enjoy time with my grandchildren.\""
+    }
+  ]
+}

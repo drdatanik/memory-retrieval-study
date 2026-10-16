@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0542",
+  "name": "Nitin Gaikwad",
+  "age": 25,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Chronic urticaria",
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0542-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Persistent daily wheals with pruritus, mild angioedema none.\n  - Plan: Start levocetirizine 5 mg once daily in the morning; add cetirizine 10 mg at bedtime for breakthrough symptoms. Advise non‑sedating antihistamine regimen, avoid known triggers, keep symptom diary.\n- Gastro‑oesophageal reflux disease\n  - Status: Heartburn twice weekly, occasional regurgitation, no dysphagia or weight loss.\n  - Plan: Pantoprazole 40 mg before breakfast daily; domperidone 10 mg before meals twice daily; antacid gel as needed SOS. Lifestyle: small frequent meals, avoid late‑night eating, elevate head of bed.\n- Due: HbA1c not applicable (no glucose‑lowering therapy).\n- Weight: 68 kg; Waist: 84 cm (male, below 90 cm cut‑off)."
+    },
+    {
+      "memory_id": "X0542-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levocetirizine 5 mg 1-0-0 after food; duration 3 months.\nCetirizine 10 mg 0-0-1 after food; duration 3 months.\nPantoprazole 40 mg 1-0-0 before food; duration 3 months.\nDomperidone 10 mg 1-0-1 before food; duration 3 months.\nAntacid gel SOS; duration as needed."
+    },
+    {
+      "memory_id": "X0542-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 14.2 g/dL (13‑17), WBC 6.8 ×10⁹/L (4‑10), neutrophils 58%, lymphocytes 34%, eosinophils 6% (0‑5) – mild eosinophilia.\nThyroid function: TSH 2.1 µIU/mL (0.4‑4.0), free T4 12.5 pmol/L (12‑22).\nH. pylori stool antigen: Negative."
+    },
+    {
+      "memory_id": "X0542-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Wheals reduced to 2‑3 days/week, mild itching, no angioedema.\n  - Plan: Continue levocetirizine 5 mg OD; cetirizine HS only if breakthrough symptoms persist. Review symptom diary.\n- Gastro‑oesophageal reflux disease\n  - Status: Heartburn once weekly, no regurgitation.\n  - Plan: Pantoprazole 40 mg OD before breakfast; domperidone 10 mg BD before meals; antacid gel SOS. Encourage weight maintenance.\n- Due: HbA1c not applicable (no glucose‑lowering therapy).\n- Weight: 67 kg; Waist: 83 cm (male, <90 cm)."
+    },
+    {
+      "memory_id": "X0542-m05",
+      "date": "2025-07-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed the hives are much less frequent now – only a couple of times a week and they’re not as itchy. Heartburn has also improved; I only need the antacid gel after spicy meals. Thanks for the meds."
+    },
+    {
+      "memory_id": "X0542-m06",
+      "date": "2025-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025‑10‑15 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0542-m07",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Occasional wheals (<1 day/week), mild pruritus, no angioedema.\n  - Plan: Stop cetirizine HS; continue levocetirizine 5 mg OD. Advise to restart cetirizine only if symptoms flare.\n- Gastro‑oesophageal reflux disease\n  - Status: Heartburn <1 episode/week, no regurgitation.\n  - Plan: Continue pantoprazole 40 mg OD before breakfast; reduce domperidone to 10 mg OD before breakfast; antacid gel SOS.\n- Due: HbA1c not applicable (no glucose‑lowering therapy).\n- Weight: 66 kg; Waist: 82 cm (male, <90 cm)."
+    },
+    {
+      "memory_id": "X0542-m08",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levocetirizine 5 mg 1-0-0 after food; duration 3 months.\nPantoprazole 40 mg 1-0-0 before food; duration 3 months.\nDomperidone 10 mg 1-0-0 before food; duration 3 months.\nAntacid gel SOS; duration as needed."
+    },
+    {
+      "memory_id": "X0542-m09",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 14.0 g/dL (13‑17), WBC 6.5 ×10⁹/L (4‑10), neutrophils 60%, lymphocytes 33%, eosinophils 4% (0‑5) – within normal.\nThyroid function: TSH 1.9 µIU/mL (0.4‑4.0), free T4 12.8 pmol/L (12‑22)."
+    },
+    {
+      "memory_id": "X0542-m10",
+      "date": "2026-01-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: No wheals for past 2 weeks, occasional mild itching after stress.\n  - Plan: Continue levocetirizine 5 mg OD PRN; stop if symptom‑free for 1 month.\n- Gastro‑oesophageal reflux disease\n  - Status: Mild heartburn after large meals, no regurgitation.\n  - Plan: Pantoprazole 40 mg OD before breakfast; domperidone 10 mg OD before breakfast; antacid gel SOS. Advise smaller meals.\n- Due: HbA1c not applicable (no glucose‑lowering therapy).\n- Weight: 65 kg; Waist: 81 cm (male, <90 cm)."
+    },
+    {
+      "memory_id": "X0542-m11",
+      "date": "2026-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original visit on 2026‑04‑10 moved to 2026‑04‑12 at 09:00 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0542-m12",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Symptom‑free for 4 weeks, no wheals or itching.\n  - Plan: Stop levocetirizine; advise to restart only if rash returns.\n- Gastro‑oesophageal reflux disease\n  - Status: Heartburn rare (<1 episode/month), no regurgitation.\n  - Plan: Pantoprazole reduced to 20 mg OD before breakfast; domperidone stopped; antacid gel SOS. Reinforce diet advice.\n- Due: HbA1c not applicable (no glucose‑lowering therapy).\n- Weight: 64 kg; Waist: 80 cm (male, <90 cm)."
+    },
+    {
+      "memory_id": "X0542-m13",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pantoprazole 20 mg 1-0-0 before food; duration 3 months.\nAntacid gel SOS; duration as needed."
+    },
+    {
+      "memory_id": "X0542-m14",
+      "date": "2026-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.8 g/dL (13‑17), WBC 6.2 ×10⁹/L (4‑10), neutrophils 61%, lymphocytes 32%, eosinophils 3% (0‑5).\nThyroid function: TSH 2.0 µIU/mL (0.4‑4.0), free T4 12.6 pmol/L (12‑22).\nLipid profile: Total cholesterol 4.8 mmol/L (<5.2), LDL 2.9 mmol/L (<3.0), HDL 1.2 mmol/L (>1.0), triglycerides 1.1 mmol/L (<1.7)."
+    }
+  ]
+}

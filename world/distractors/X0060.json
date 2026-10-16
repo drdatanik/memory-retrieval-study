@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0060",
+  "name": "Parminder Brar",
+  "age": 69,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Chronic kidney disease",
+    "Asthma",
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0060-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks unaided around home, reports mild dyspnea on exertion.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal), no immediate concern.\nfalls: No falls in past 12 months; gait steady; timed up-and-go 10 seconds (within normal).\nmedicines: 9 regular (telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD, salbutamol MDI SOS, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS, melatonin 3 mg HS, trazodone 50 mg HS) – polypharmacy, review against Beers criteria advised.\nmood: Denies low mood or anxiety, reports good sleep with melatonin.\ncarers: Daughter, Priya (primary caregiver).\ngoals: \"I want to stay active and keep my kidney function stable.\""
+    },
+    {
+      "memory_id": "X0060-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.32 mg/dL (ref 0.57-1.00). eGFR 48 mL/min/1.73m2 (ref >60). Urine albumin-creatinine ratio 85 mg/g (ref <30). Haemoglobin 12.4 g/dL (ref 12.0-15.5)."
+    },
+    {
+      "memory_id": "X0060-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n salbutamol MDI SOS\n budesonide-formoterol 200/6 inhaler BD\n montelukast 10 mg HS\n melatonin 3 mg HS\n trazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0060-m04",
+      "date": "2025-04-08",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Penicillin – rash and pruritus after amoxicillin course 2 years ago. Avoid all beta-lactams."
+    },
+    {
+      "memory_id": "X0060-m05",
+      "date": "2025-04-09",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Spirometry with reversibility: FEV1 2.1 L (68% predicted), FVC 2.8 L (80% predicted), FEV1/FVC 0.75. Post-bronchodilator FEV1 increase 12% (0.25 L), consistent with asthma showing reversible obstruction."
+    },
+    {
+      "memory_id": "X0060-m06",
+      "date": "2025-05-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: \"I’ve been waking up at 3 am feeling restless; melatonin isn’t helping as much lately. I’m also using my rescue inhaler more often, about twice a week.\""
+    },
+    {
+      "memory_id": "X0060-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent in ADLs, notes increased shortness of breath on climbing stairs.\ncognition: Mini-Cog repeated 4/5, stable.\nfalls: No new falls; gait slightly slower; timed up-and-go 12 seconds (borderline raised fall risk) – advise home exercise program and supportive footwear.\nmedicines: 9 regular – polypharmacy, Beers review due.\nmood: Reports occasional low mood, denies hopelessness.\ncarers: Daughter, Priya (primary caregiver).\ngoals: \"I wish to breathe easier and keep my kidneys from worsening.\""
+    },
+    {
+      "memory_id": "X0060-m08",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.38 mg/dL (ref 0.57-1.00). eGFR 45 mL/min/1.73m2. Urine albumin-creatinine ratio 92 mg/g. Haemoglobin 12.1 g/dL. TSH 2.1 µIU/mL (ref 0.4-4.5)."
+    },
+    {
+      "memory_id": "X0060-m09",
+      "date": "2025-07-14",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide increased to 40 mg OD\n sodium bicarbonate 500 mg BD\n salbutamol MDI SOS\n budesonide-formoterol 200/6 inhaler BD\n montelukast 10 mg HS\n melatonin 3 mg HS\n trazodone 50 mg HS\n add: ferrous sulfate 325 mg OD for mild anemia"
+    },
+    {
+      "memory_id": "X0060-m10",
+      "date": "2025-08-01",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Pulmonology, Dr S. Reddy, for uncontrolled asthma symptoms and increased rescue inhaler use. Request spirometry review and asthma action plan."
+    },
+    {
+      "memory_id": "X0060-m11",
+      "date": "2025-08-20",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Pulmonology review: Asthma remains moderate; budesonide-formoterol continued, add tiotropium inhaler 2.5 µg OD. Action plan provided. No changes to CKD meds."
+    },
+    {
+      "memory_id": "X0060-m12",
+      "date": "2025-09-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for follow‑up with Dr Kulkarni on 2025-10-05 at 10:30 am. (Booked 2025-09-05)."
+    },
+    {
+      "memory_id": "X0060-m13",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports improved breathing after adding tiotropium; still mild fatigue.\ncognition: Mini-Cog 4/5, stable.\nfalls: No falls; timed up-and-go 11 seconds (borderline) – continue strength exercises.\nmedicines: 10 regular (includes ferrous sulfate) – polypharmacy, Beers review pending.\nmood: Mood improved, denies depression.\ncarers: Daughter, Priya (primary caregiver).\ngoals: \"I want to maintain my independence and keep my kidney numbers steady.\""
+    }
+  ]
+}

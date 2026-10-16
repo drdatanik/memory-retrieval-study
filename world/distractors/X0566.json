@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0566",
+  "name": "Naveen Tiwari",
+  "age": 43,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Glaucoma",
+    "Type 2 diabetes",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0566-m01",
+      "date": "2025-04-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Glaucoma\n  - Status: IOP right 22 mmHg, left 21 mmHg; asymptomatic.\n  - Plan: Continue timolol 0.5% eye drops BD and latanoprost 0.005% eye drops HS; reinforce proper instillation technique.\n- Type 2 diabetes\n  - Status: Weight 78 kg, waist 92 cm (>90 cm cut‑off). HbA1c 7.8% (from prior).\n  - Plan: Metformin 500 mg 1-0-1 after food; Glimepiride 1 mg 1-0-0 before breakfast; Sitagliptin 100 mg 1-0-0 after food; Empagliflozin 10 mg 1-0-0 before food. Reinforce diet: breakfast – whole grain roti with dal; lunch – vegetable curry with brown rice; dinner – light soup and salad.\n- Vitamin D deficiency\n  - Status: Serum 25‑OH‑D 18 ng/mL (deficient).\n  - Plan: Cholecalciferol 60000 IU once weekly for 8 weeks, then re‑check.\nDue: HbA1c repeat in 3 months (2025-07-12)."
+    },
+    {
+      "memory_id": "X0566-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "timolol 0.5% eye drops BD\nlatanoprost 0.005% eye drops HS\nmetformin 500 mg 1-0-1 after food\nglimepiride 1 mg 1-0-0 before breakfast\nsitagliptin 100 mg 1-0-0 after food\nempagliflozin 10 mg 1-0-0 before food\ncholecalciferol 60000 IU once weekly for 8 weeks"
+    },
+    {
+      "memory_id": "X0566-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (4.0‑5.6)\nFasting plasma glucose 138 mg/dL (70‑99)\nSerum 25‑hydroxyvitamin D 18 ng/mL (30‑100)\nSerum calcium 9.2 mg/dL (8.5‑10.5)\nSerum phosphate 3.4 mg/dL (2.5‑4.5)\nUrine albumin‑creatinine ratio 22 mg/g (<30)"
+    },
+    {
+      "memory_id": "X0566-m04",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "cholecalciferol 1000 IU 1-0-0 after food (maintenance)"
+    },
+    {
+      "memory_id": "X0566-m05",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Glaucoma\n  - Status: IOP right 24 mmHg, left 23 mmHg; mild peripheral visual field defect on screening.\n  - Plan: Add brimonidine 0.2% eye drops BD; schedule ophthalmology referral for possible surgical evaluation.\n- Type 2 diabetes\n  - Status: Weight 79 kg, waist 93 cm. HbA1c 8.0% (from lab).\n  - Plan: Continue current regimen; reinforce low‑glycemic diet: breakfast – oats with milk; lunch – mixed veg with quinoa; dinner – grilled fish with steamed greens.\n- Vitamin D deficiency\n  - Status: Serum 25‑OH‑D 28 ng/mL (insufficient).\n  - Plan: Continue cholecalciferol 1000 IU OD; re‑check in 3 months.\nDue: HbA1c repeat in 3 months (2025-10-15)."
+    },
+    {
+      "memory_id": "X0566-m06",
+      "date": "2025-07-15",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Dr. S. Rao, Glaucoma Service, Narayana Nethralaya for evaluation of progressive IOP and visual field changes. Include recent IOP measurements and visual field screening results."
+    },
+    {
+      "memory_id": "X0566-m07",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 8.0% (4.0‑5.6)\nFasting plasma glucose 142 mg/dL (70‑99)\nSerum 25‑hydroxyvitamin D 28 ng/mL (30‑100)\nSerum calcium 9.3 mg/dL (8.5‑10.5)\nSerum phosphate 3.5 mg/dL (2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0566-m08",
+      "date": "2025-08-20",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Ophthalmology review: IOP remains elevated; visual field shows early nasal step. Recommend trabeculectomy if medical therapy fails. Continue current drops; schedule surgery consult in 4 weeks."
+    },
+    {
+      "memory_id": "X0566-m09",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Glaucoma\n  - Status: IOP right 23 mmHg, left 22 mmHg on timolol, latanoprost, brimonidine; asymptomatic.\n  - Plan: Maintain triple therapy; reinforce adherence.\n- Type 2 diabetes\n  - Status: Weight 80 kg, waist 94 cm. HbA1c 8.2%.\n  - Plan: Add pioglitazone 15 mg 1-0-0 after food; counsel on weight‑neutral diet: breakfast – multigrain toast with egg white; lunch – legume salad with olive oil; dinner – paneer bhurji with cucumber raita.\n- Vitamin D deficiency\n  - Status: Serum 25‑OH‑D 32 ng/mL (sufficient).\n  - Plan: Continue cholecalciferol 1000 IU OD; re‑check in 6 months.\nDue: HbA1c repeat in 3 months (2026-01-20)."
+    },
+    {
+      "memory_id": "X0566-m10",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pioglitazone 15 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0566-m11",
+      "date": "2025-11-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dilated fundus exam: Mild non‑proliferative diabetic retinopathy, microaneurysms temporal to macula both eyes. No macular edema. Optic discs: cup‑disc ratio 0.6 right, 0.5 left; glaucomatous appearance suspicious."
+    },
+    {
+      "memory_id": "X0566-m12",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Glaucoma\n  - Status: IOP right 21 mmHg, left 20 mmHg; stable.\n  - Plan: Continue current glaucoma drops; reinforce technique.\n- Type 2 diabetes\n  - Status: Weight 78 kg, waist 90 cm (at cut‑off). HbA1c 7.9%.\n  - Plan: Hold pioglitazone due to mild edema; increase empagliflozin to 25 mg 1-0-0 before food; reinforce diet: breakfast – idli with sambar; lunch – vegetable khichdi; dinner – grilled chicken with steamed broccoli.\n- Vitamin D deficiency\n  - Status: Serum 25‑OH‑D 35 ng/mL (sufficient).\n  - Plan: Continue cholecalciferol 1000 IU OD; re‑check in 6 months.\nDue: HbA1c repeat in 3 months (2026-05-10)."
+    },
+    {
+      "memory_id": "X0566-m13",
+      "date": "2026-02-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-06-05 09:30 with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0566-m14",
+      "date": "2026-03-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.9% (4.0‑5.6)\nFasting plasma glucose 135 mg/dL (70‑99)\nLipid profile: Total cholesterol 185 mg/dL (<200), HDL 42 mg/dL (>40), LDL 100 mg/dL (<130), Triglycerides 150 mg/dL (<150)\nUrine albumin‑creatinine ratio 18 mg/g (<30)"
+    },
+    {
+      "memory_id": "X0566-m15",
+      "date": "2026-04-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have noticed occasional blurring of vision in the evenings after starting empagliflozin 25 mg. It clears after a few minutes. No pain or redness."
+    },
+    {
+      "memory_id": "X0566-m16",
+      "date": "2026-06-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Glaucoma\n  - Status: IOP right 20 mmHg, left 19 mmHg; asymptomatic.\n  - Plan: Continue timolol, latanoprost, brimonidine; emphasize proper drop spacing.\n- Type 2 diabetes\n  - Status: Weight 77 kg, waist 88 cm (<90 cm). HbA1c 7.6%.\n  - Plan: Empagliflozin 25 mg 1-0-0 before food continued; sitagliptin unchanged; metformin unchanged. Diet advice: breakfast – dalia with milk; lunch – mixed veg with brown rice; dinner – fish curry with salad.\n- Vitamin D deficiency\n  - Status: Serum 25‑OH‑D 38 ng/mL (sufficient).\n  - Plan: Continue cholecalciferol 1000 IU OD; re‑check in 12 months.\nDue: HbA1c repeat in 3 months (2026-09-05)."
+    },
+    {
+      "memory_id": "X0566-m17",
+      "date": "2026-07-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Visual field test (Humphrey 24‑2): Mild nasal step defect in right eye, consistent with early glaucomatous change; left eye within normal limits. Stable since previous test."
+    },
+    {
+      "memory_id": "X0566-m18",
+      "date": "2026-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original slot 2026-10-10 10:00 moved to 2026-10-11 14:30 with Dr Karthik Hegde (D04) for review of glaucoma progression and diabetes control."
+    }
+  ]
+}

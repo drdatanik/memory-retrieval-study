@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0590",
+  "name": "Hetal Vyas",
+  "age": 41,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Chronic urticaria",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0590-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria:\n  - Status: persistent daily wheals with mild itching, currently on levocetirizine 5 mg OD and cetirizine 10 mg HS.\n  - Plan: continue antihistamines, consider adding montelukast if breakthrough, review eosinophil count.\n- Epilepsy:\n  - Status: seizure-free for past 3 months on levetiracetam 500 mg BD and lamotrigine 50 mg BD.\n  - Plan: maintain current regimen, check serum sodium and creatinine, schedule EEG.\n- Due: Next HbA1c due 2025-07-05 (every 3 months)."
+    },
+    {
+      "memory_id": "X0590-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levocetirizine 5 mg OD after food\ncetirizine 10 mg HS after food\nlevetiracetam 500 mg BD after food\nlamotrigine 50 mg BD after food"
+    },
+    {
+      "memory_id": "X0590-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.2 x10^9/L, Neutrophils 4.0, Lymphocytes 1.8, Eosinophils 0.4 (0.0-0.5), Hb 12.8 g/dL, Platelets 210 x10^9/L\nTSH 2.1 mIU/L (0.4-4.0), Free T4 1.2 ng/dL (0.8-1.8)"
+    },
+    {
+      "memory_id": "X0590-m04",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "patient",
+      "text": "Allergy to aspirin: develops widespread urticaria and angioedema within 30 minutes of ingestion; requires antihistamine treatment."
+    },
+    {
+      "memory_id": "X0590-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking the antihistamines as prescribed and have not had a seizure in the last three months. My urticaria is still present daily but less intense than before. I work long hours and sometimes miss doses; I need reminder strategies."
+    },
+    {
+      "memory_id": "X0590-m06",
+      "date": "2025-05-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: Background activity normal for age. No epileptiform discharges or focal abnormalities seen. No evidence of seizure focus."
+    },
+    {
+      "memory_id": "X0590-m07",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria:\n  - Status: wheals reduced to 3-4 days per week, mild itching, eosinophils slightly up.\n  - Plan: add montelukast 10 mg HS, continue levocetirizine and cetirizine, recheck CBC in 6 weeks.\n- Epilepsy:\n  - Status: seizure-free, medication adherence good.\n  - Plan: keep levetiracetam and lamotrigine unchanged, check serum sodium and creatinine.\n- Due: Next HbA1c due 2025-09-10."
+    },
+    {
+      "memory_id": "X0590-m08",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levocetirizine 5 mg OD after food\ncetirizine 10 mg HS after food\nmontelukast 10 mg HS after food\nlevetiracetam 500 mg BD after food\nlamotrigine 50 mg BD after food"
+    },
+    {
+      "memory_id": "X0590-m09",
+      "date": "2025-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.0, Neutrophils 3.8, Lymphocytes 1.9, Eosinophils 0.5 (0.0-0.5), Hb 12.9, Platelets 208\nTSH 2.0 mIU/L (0.4-4.0), Free T4 1.22 ng/dL (0.8-1.8)\nSerum sodium 138 mmol/L (135-145), Serum creatinine 0.78 mg/dL (0.5-0.9)"
+    },
+    {
+      "memory_id": "X0590-m10",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-09-15 at 10:30 AM with Dr Karthik Hegde (D04) for follow-up review."
+    },
+    {
+      "memory_id": "X0590-m11",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria:\n  - Status: further improvement, wheals 1-2 days per week, mild itching, eosinophils normal.\n  - Plan: continue current antihistamines and montelukast, consider tapering cetirizine if symptom-free for 4 weeks.\n- Epilepsy:\n  - Status: seizure-free, no side effects reported.\n  - Plan: continue levetiracetam 500 mg BD and lamotrigine 50 mg BD, check labs annually.\n- Due: Next HbA1c due 2025-12-15."
+    },
+    {
+      "memory_id": "X0590-m12",
+      "date": "2025-09-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levocetirizine 5 mg OD after food\ncetirizine 10 mg HS after food\nmontelukast 10 mg HS after food\nlevetiracetam 500 mg BD after food\nlamotrigine 50 mg BD after food"
+    },
+    {
+      "memory_id": "X0590-m13",
+      "date": "2025-12-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 5.9, Neutrophils 3.7, Lymphocytes 1.9, Eosinophils 0.3, Hb 13.0, Platelets 212\nTSH 2.2 mIU/L (0.4-4.0), Free T4 1.18 ng/dL (0.8-1.8)\nSerum sodium 139 mmol/L, Serum creatinine 0.80 mg/dL\nLipid profile: Total cholesterol 180 mg/dL (<200), HDL 48 mg/dL (>40), LDL 100 mg/dL (<130), Triglycerides 110 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0590-m14",
+      "date": "2026-03-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria:\n  - Status: asymptomatic for past 6 weeks on current regimen, no wheals.\n  - Plan: attempt tapering cetirizine to 5 mg HS, monitor for recurrence; continue levocetirizine and montelukast.\n- Epilepsy:\n  - Status: seizure-free, medication well tolerated.\n  - Plan: reduce lamotrigine to 25 mg BD to assess minimal effective dose, keep levetiracetam unchanged.\n- Due: Next HbA1c due 2026-06-05."
+    },
+    {
+      "memory_id": "X0590-m15",
+      "date": "2026-03-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levocetirizine 5 mg OD after food\ncetirizine 5 mg HS after food\nmontelukast 10 mg HS after food\nlevetiracetam 500 mg BD after food\nlamotrigine 25 mg BD after food"
+    },
+    {
+      "memory_id": "X0590-m16",
+      "date": "2026-09-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria:\n  - Status: remained symptom-free after cetirizine taper, occasional mild flare after stress, controlled with levocetirizine and montelukast.\n  - Plan: continue levocetirizine 5 mg OD and montelukast 10 mg HS, keep cetirizine as needed for breakthrough.\n- Epilepsy:\n  - Status: seizure-free on levetiracetam 500 mg BD and lamotrigine 25 mg BD.\n  - Plan: maintain current doses, annual EEG considered if clinically indicated.\n- Due: Next HbA1c due 2026-12-20."
+    }
+  ]
+}

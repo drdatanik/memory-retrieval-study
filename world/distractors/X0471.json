@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0471",
+  "name": "Usha Verma",
+  "age": 20,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Rheumatoid arthritis",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0471-m01",
+      "date": "2025-04-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Mild intermittent asthma with occupational exposure.\nPatient reports occasional wheezing after long drives, no night symptoms. Uses salbutamol inhaler 2-3 times per week. No smoking, never smoker. Exam: mild expiratory wheeze bilaterally, normal spirometry: FEV1 2.8 L (92% pred), FVC 3.2 L, FEV1/FVC 0.88; change from prior +0.1 L. ACT score 20 (well controlled). Technique checked: correct. Comorbidities: rheumatoid arthritis on methotrexate, folic acid, hydroxychloroquine, low-dose prednisolone; vitamin B12 deficiency on methylcobalamin."
+    },
+    {
+      "memory_id": "X0471-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol metered-dose inhaler 2 puffs PRN every 4-6 hours for wheeze."
+    },
+    {
+      "memory_id": "X0471-m03",
+      "date": "2025-05-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.8 g/L (13.0-17.5), MCV 98 fL (80-100), Serum vitamin B12 150 pg/mL (200-900) low. ESR 28 mm/hr (0-20) elevated. CRP 12 mg/L (<5) elevated. Rheumatoid factor 45 IU/ml (<14) positive. Anti-CCP 32 U/ml (<7) positive. Liver function: ALT 22 U/L (7-56), AST 20 U/L (10-40), ALP 78 U/L (40-129), GGT 30 U/L (0-51), bilirubin 0.8 mg/dL (0.2-1.2)."
+    },
+    {
+      "memory_id": "X0471-m04",
+      "date": "2025-06-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable asthma, improving B12.\nPatient uses inhaler <2 times/week, no nocturnal symptoms. Spirometry: FEV1 2.9 L (95% pred), FVC 3.3 L, FEV1/FVC 0.88; ΔFEV1 +0.1 L since last. ACT 22 (well controlled). Technique checked: correct. B12 deficiency symptomatic improvement; methylcobalamin started. RA symptoms mild, no joint swelling noted. Smoking status never."
+    },
+    {
+      "memory_id": "X0471-m05",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Methylcobalamin 1500 mcg OD.\nMethotrexate 10 mg once weekly continued.\nFolic acid 5 mg once weekly continued.\nHydroxychloroquine 200 mg OD continued.\nPrednisolone 5 mg OD continued."
+    },
+    {
+      "memory_id": "X0471-m06",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.5 g/L (13.0-17.5), MCV 89 fL (80-100), Serum vitamin B12 420 pg/mL (200-900) normal. ESR 14 mm/hr (0-20) normal. CRP 4 mg/L (<5) normal. RF 12 IU/ml (<14) borderline. Anti-CCP 5 U/ml (<7) normal. LFT: ALT 18, AST 16, ALP 70, GGT 22, bilirubin 0.7 all within normal limits."
+    },
+    {
+      "memory_id": "X0471-m07",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Well-controlled asthma, RA stable.\nNo wheeze, rescue inhaler use 0-1 times/week. Spirometry: FEV1 3.0 L (98% pred), FVC 3.4 L, FEV1/FVC 0.88; ΔFEV1 +0.1 L. ACT 24 (well controlled). Technique checked: correct. Inspiratory flow adequate for DPI if used. RA: no active synovitis, methotrexate tolerated. B12 replete. Smoking never."
+    },
+    {
+      "memory_id": "X0471-m08",
+      "date": "2025-08-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Continue salbutamol metered-dose inhaler 2 puffs PRN.\nContinue methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD.\nContinue methylcobalamin 1500 mcg OD."
+    },
+    {
+      "memory_id": "X0471-m09",
+      "date": "2025-09-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: \"Doctor, my wrists and knees have been aching more lately, especially after work. I feel stiff in the mornings. Should I increase my RA meds?\""
+    },
+    {
+      "memory_id": "X0471-m10",
+      "date": "2025-09-20",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Rheumatology for evaluation of worsening rheumatoid arthritis symptoms despite current DMARD regimen. Request assessment of disease activity and possible therapy escalation."
+    },
+    {
+      "memory_id": "X0471-m11",
+      "date": "2025-10-05",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Rheumatology review: Disease activity moderate (DAS28 3.8). Advised to increase methotrexate to 15 mg weekly, continue folic acid, consider adding low-dose prednisolone taper if needed. Patient educated on side effects. Follow-up in 8 weeks."
+    },
+    {
+      "memory_id": "X0471-m12",
+      "date": "2025-11-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.4 g/L, MCV 90 fL, Serum vitamin B12 460 pg/mL. ESR 10 mm/hr, CRP 3 mg/L. RF 10 IU/ml, Anti-CCP 4 U/ml. LFT: ALT 20, AST 18, ALP 68, GGT 20, bilirubin 0.6."
+    },
+    {
+      "memory_id": "X0471-m13",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Post-rheumatology advice: methotrexate increased.\nAsthma: no symptoms, inhaler use 0 times/week. Spirometry: FEV1 3.1 L (101% pred), FVC 3.5 L, FEV1/FVC 0.89; ΔFEV1 +0.1 L. ACT 25 (well controlled). Technique checked: correct. RA: methotrexate increased to 15 mg weekly per rheumatology, folic acid unchanged. Joint aches improved, morning stiffness <30 min. B12 normal. Smoking never."
+    },
+    {
+      "memory_id": "X0471-m14",
+      "date": "2025-12-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Methotrexate 15 mg once weekly.\nFolic acid 5 mg once weekly.\nHydroxychloroquine 200 mg OD.\nPrednisolone 5 mg OD (continue).\nSalbutamol metered-dose inhaler 2 puffs PRN.\nMethylcobalamin 1500 mcg OD."
+    },
+    {
+      "memory_id": "X0471-m15",
+      "date": "2026-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up pulmonology review for 2026-04-15 at 10:30 am with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0471-m16",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma well controlled, RA stable.\nNo wheeze, rescue inhaler nil. Spirometry: FEV1 3.2 L (104% pred), FVC 3.6 L, FEV1/FVC 0.89; ΔFEV1 +0.1 L since last visit. ACT 25 (well controlled). Technique checked: correct. RA: methotrexate 15 mg weekly tolerated, no active synovitis, mild morning stiffness <15 min. B12 replete. Smoking never. Plan: continue current meds, next review in 4 months."
+    }
+  ]
+}

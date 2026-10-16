@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0389",
+  "name": "Abraham Varghese",
+  "age": 60,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Type 2 diabetes",
+    "Osteoarthritis of the knee",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0389-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow‑up of type 2 diabetes, osteoarthritis knee and IBS. Reports stable knee pain, occasional abdominal bloating, good adherence to meds. EXAMINATION: BP 138/86 mmHg, weight 78 kg, height 1.68 m, BMI 27.6 (obese). Joints: mild tenderness bilateral knees, no effusion. Abdomen soft, non‑tender. IMPRESSION: 1) Type 2 diabetes, HbA1c pending. 2) Osteoarthritis knees, overweight. 3) IBS, controlled. ARRANGEMENTS: Continue metformin 500 mg BD, glimepiride 1 mg OD ac, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Paracetamol 650 mg SOS for knee pain, topical diclofenac gel BD, calcium‑vit D3 OD. Mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Order fasting lipid profile, HbA1c, fasting glucose, urine ACR, serum vitamin D, CBC, stool routine, tTG‑IgA. Weight‑bearing X‑ray both knees. Return if: chest pain, breathlessness, fever >39°C, worsening knee swelling, bloody stools, severe abdominal pain."
+    },
+    {
+      "memory_id": "X0389-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg tablets – Take one tablet twice daily\nGlimepiride 1 mg tablet – Take one tablet each morning before breakfast\nSitagliptin 100 mg tablet – Take one tablet daily\nEmpagliflozin 10 mg tablet – Take one tablet daily\nParacetamol 650 mg tablets – Take one tablet as needed for pain, max 3 g/day\nTopical diclofenac gel 1% – Apply to knees twice daily\nCalcium 500 mg + Vitamin D3 400 IU tablet – Take one tablet daily\nMebeverine 135 mg tablets – Take one tablet twice daily\nIspaghula husk 5 g sachet – Take one sachet daily with water\nLoperamide 2 mg capsules – Take one capsule after loose stool, max 4/day"
+    },
+    {
+      "memory_id": "X0389-m03",
+      "date": "2025-05-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (ref 4.0‑5.6)\nFasting plasma glucose 156 mg/dL (ref 70‑100)\nUrine albumin‑creatinine ratio 22 mg/g (ref <30)\nSerum vitamin D 18 ng/mL (ref 30‑100)\nCBC: WBC 6.2×10⁹/L, Hb 13.8 g/dL, Plt 210×10⁹/L\nStool routine: ova & cysts negative, normal consistency\ntTG‑IgA <2 U/mL (negative)\nLipid profile: Total cholesterol 210 mg/dL, LDL 130 mg/dL, HDL 38 mg/dL, TG 160 mg/dL"
+    },
+    {
+      "memory_id": "X0389-m04",
+      "date": "2025-06-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Weight‑bearing anteroposterior X‑ray of both knees. Findings: Mild joint space narrowing medially, osteophyte formation at tibial plateaus, no significant effusion or fracture. Impression: Early osteoarthritis changes bilaterally, consistent with clinical symptoms."
+    },
+    {
+      "memory_id": "X0389-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Review of labs and knee X‑ray; reports increased fasting glucose and mild knee discomfort on stairs. EXAMINATION: BP 142/90 mmHg, weight 79 kg, BMI 28.0 (obese). Knees: mild tenderness, crepitus, no warmth. Abdomen: soft, no masses. IMPRESSION: 1) Type 2 diabetes – HbA1c 7.8% indicates suboptimal control. 2) Osteoarthritis knees – radiographic early changes. 3) Vitamin D deficiency. 4) Mild dyslipidemia. ARRANGEMENTS: Increase metformin to 500 mg TID. Add insulin glargine 10 units at bedtime, titrate. Continue glimepiride, sitagliptin, empagliflozin. Start vitamin D3 2000 IU daily. Advise weight reduction, low‑impact exercise. Repeat HbA1c in 3 months. Return if: polyuria, polydipsia, unexplained weight loss, severe knee pain, swelling, fever."
+    },
+    {
+      "memory_id": "X0389-m06",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg tablets – Take one tablet three times daily\nGlimepiride 1 mg tablet – Take one tablet each morning before breakfast\nSitagliptin 100 mg tablet – Take one tablet daily\nEmpagliflozin 10 mg tablet – Take one tablet daily\nInsulin glargine 100 units/mL – Inject 10 units subcutaneously at bedtime, adjust per fasting glucose\nVitamin D3 2000 IU capsules – Take one capsule daily\nParacetamol 650 mg tablets – Take as needed\nTopical diclofenac gel 1% – Apply BD\nCalcium 500 mg + Vitamin D3 400 IU tablet – Take daily\nMebeverine 135 mg tablets – Take BD\nIspaghula husk 5 g sachet – Take daily\nLoperamide 2 mg capsules – Take PRN"
+    },
+    {
+      "memory_id": "X0389-m07",
+      "date": "2025-09-05",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Dr S. Rao, Ophthalmology, Narayana Nethralaya, for dilated fundus examination to screen for diabetic retinopathy. Patient advised to bring recent HbA1c and BP records."
+    },
+    {
+      "memory_id": "X0389-m08",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Ophthalmology report: Dilated fundus exam shows mild microaneurysms in temporal periphery, no macular edema, no proliferative changes. Recommend tight glycemic control and repeat exam in 12 months. No laser treatment needed now."
+    },
+    {
+      "memory_id": "X0389-m09",
+      "date": "2025-11-03",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more tired lately and my knees hurt after long walks. Also my stomach feels upset after eating spicy food."
+    },
+    {
+      "memory_id": "X0389-m10",
+      "date": "2026-02-14",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up after patient‑reported fatigue and knee pain; reviews recent labs. EXAMINATION: BP 136/84 mmHg, weight 77 kg, BMI 27.3 (overweight). Knees: mild tenderness, no effusion. Abdomen: soft, no distress. IMPRESSION: 1) Type 2 diabetes – HbA1c 7.2% (improved). 2) Osteoarthritis knees – stable. 3) Vitamin D 32 ng/mL (now sufficient). 4) IBS – symptoms diet‑related. ARRANGEMENTS: Continue metformin 500 mg TID, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD, insulin glargine 8 units nightly (reduced). Keep vitamin D3 2000 IU daily. Advise low‑impact aerobic activity, avoid high‑impact knee strain. Repeat HbA1c and lipid profile in 6 months. Return if: worsening fatigue, visual changes, chest pain, severe knee swelling, bloody stools."
+    },
+    {
+      "memory_id": "X0389-m11",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-08-15 at 10:30 AM with Dr Priya Natarajan for routine diabetes and osteoarthritis review. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0389-m12",
+      "date": "2026-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.9% (ref 4.0‑5.6)\nFasting plasma glucose 128 mg/dL (ref 70‑100)\nUrine albumin‑creatinine ratio 18 mg/g (ref <30)\nSerum vitamin D 35 ng/mL (ref 30‑100)\nLipid profile: Total cholesterol 195 mg/dL, LDL 118 mg/dL, HDL 42 mg/dL, TG 140 mg/dL\nCBC: WBC 5.8×10⁹/L, Hb 14.0 g/dL, Plt 205×10⁹/L"
+    }
+  ]
+}

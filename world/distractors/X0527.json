@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0527",
+  "name": "Manisha Chavan",
+  "age": 85,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Coronary artery disease",
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0527-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Coronary artery disease and obesity.\nPatient reports occasional chest heaviness on climbing stairs and mild dyspnea while tailoring for long hours. On examination, blood pressure 138/84 mmHg, pulse 78/min regular, BMI 32.1 kg/m2, waist circumference 102 cm, lungs clear bilaterally, no cardiac murmurs. Spirometry: FEV1 2.8 L (92% predicted), FVC 3.2 L, FEV1/FVC 0.88; no prior test for comparison. Smoking status: never. Asthma Control Test not applicable. Technique checked: N/A."
+    },
+    {
+      "memory_id": "X0527-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 40 mg HS\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS\nOrlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0527-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 138 mg/dL (ref <100), HDL 42 mg/dL (ref >40), TG 165 mg/dL (ref <150).\nFasting glucose: 98 mg/dL (ref 70-100).\nHbA1c: 5.9% (ref 4-5.6).\nLiver function: ALT 28 U/L (ref 7-35), AST 24 U/L (ref 8-33), ALP 78 U/L (ref 40-129), GGT 32 U/L (ref 9-36), bilirubin 0.9 mg/dL (ref 0.2-1.2)."
+    },
+    {
+      "memory_id": "X0527-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "ECG: Sinus rhythm, rate 76 bpm. No ST‑segment depression or elevation. No pathological Q waves. Mild left ventricular voltage criteria for hypertrophy. No arrhythmias."
+    },
+    {
+      "memory_id": "X0527-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel a bit of tightness in my chest when I reach for the top shelf at work, and I get short of breath after walking to the market. My tailoring work involves long periods of standing."
+    },
+    {
+      "memory_id": "X0527-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Coronary artery disease and obesity – stable.\nPatient denies angina at rest; reports occasional mild discomfort after brisk walk, relieved by rest. Blood pressure 136/82 mmHg, pulse 80/min, BMI 31.8 kg/m2, waist 100 cm. Lungs clear. Spirometry: FEV1 2.9 L (95% predicted), FVC 3.3 L, FEV1/FVC 0.88; ΔFEV1 +0.1 L since last visit. Smoking status: never. Asthma Control Test not applicable. Technique checked: N/A."
+    },
+    {
+      "memory_id": "X0527-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 40 mg HS\nMetoprolol succinate 50 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS\nOrlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0527-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 112 mg/dL (ref <100), HDL 44 mg/dL (ref >40), TG 148 mg/dL (ref <150).\nFasting glucose: 95 mg/dL (ref 70-100).\nHbA1c: 5.7% (ref 4-5.6).\nLiver function: ALT 26 U/L, AST 22 U/L, ALP 75 U/L, GGT 30 U/L, bilirubin 0.8 mg/dL."
+    },
+    {
+      "memory_id": "X0527-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Treadmill test (Bruce protocol): Exercise terminated at stage 3 due to fatigue, achieving 6.5 METs. No ST‑segment depression >1 mm, no chest pain. Heart rate peaked at 132 bpm. Blood pressure response normal. No arrhythmias."
+    },
+    {
+      "memory_id": "X0527-m10",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Coronary artery disease and obesity – stable.\nPatient notes reduced waist circumference after dietary changes; no angina, occasional mild dyspnea on exertion. Blood pressure 134/80 mmHg, pulse 78/min, BMI 31.2 kg/m2, waist 96 cm. Lungs clear. Spirometry: FEV1 2.9 L (96% predicted), FVC 3.3 L, FEV1/FVC 0.88; ΔFEV1 0.0 L. Smoking status: never. Asthma Control Test not applicable. Technique checked: N/A."
+    },
+    {
+      "memory_id": "X0527-m11",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 40 mg HS\nMetoprolol succinate 50 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS\nOrlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0527-m12",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 105 mg/dL (ref <100), HDL 45 mg/dL (ref >40), TG 140 mg/dL (ref <150).\nFasting glucose: 93 mg/dL (ref 70-100).\nHbA1c: 5.6% (ref 4-5.6).\nLiver function: ALT 24 U/L, AST 21 U/L, ALP 73 U/L, GGT 28 U/L, bilirubin 0.7 mg/dL.\nWaist circumference: 96 cm (target <80 cm for women)."
+    },
+    {
+      "memory_id": "X0527-m13",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Coronary artery disease and obesity – stable with mild exertional dyspnea.\nPatient reports occasional shortness of breath climbing two flights of stairs, relieved by rest. No chest pain. Blood pressure 132/78 mmHg, pulse 76/min, BMI 30.9 kg/m2, waist 94 cm. Lungs clear. Spirometry: FEV1 3.0 L (98% predicted), FVC 3.4 L, FEV1/FVC 0.88; ΔFEV1 +0.1 L. Smoking status: never. Asthma Control Test not applicable. Technique checked: N/A."
+    },
+    {
+      "memory_id": "X0527-m14",
+      "date": "2026-01-15",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Cardiology for evaluation of exertional dyspnea and optimization of coronary artery disease management. Request ECG, echocardiogram, and cardiology opinion on medical therapy."
+    },
+    {
+      "memory_id": "X0527-m15",
+      "date": "2026-02-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Cardiology review: Echocardiogram shows LVEF 58%, mild left ventricular hypertrophy, no wall motion abnormalities. Exercise tolerance good. Recommend continuation of current medical therapy, add low‑dose ACE inhibitor if blood pressure tolerates. No intervention required."
+    },
+    {
+      "memory_id": "X0527-m16",
+      "date": "2026-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Suresh Menon (D05) on 2026-07-10 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0527-m17",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Coronary artery disease and obesity – stable.\nPatient remains asymptomatic at rest, reports mild dyspnea only on vigorous activity. Blood pressure 130/76 mmHg, pulse 74/min, BMI 30.5 kg/m2, waist 92 cm. Lungs clear. Spirometry: FEV1 3.0 L (99% predicted), FVC 3.4 L, FEV1/FVC 0.88; ΔFEV1 0.0 L. Smoking status: never. Asthma Control Test not applicable. Technique checked: N/A. Plan: continue current medications, repeat lipid profile in 3 months, encourage weight‑loss goal."
+    }
+  ]
+}

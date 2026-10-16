@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0200",
+  "name": "Sanjeev Gupta",
+  "age": 38,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Sciatica",
+    "Obesity",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0200-m01",
+      "date": "2025-04-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports low back pain radiating to left leg, worse on prolonged standing; able to walk 2 km with mild discomfort; ADLs independent.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal); no concerns.\nfalls: denies falls in past 12 months; gait steady; timed up-and-go 9 seconds (normal).\nmedicines: 6 regular (pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD, orlistat 120 mg TID, cholecalciferol 60000 IU weekly x8, then 1000 IU OD); polypharmacy – review against Beers criteria advised.\nmood: denies low mood or anxiety; sleep interrupted by pain.\ncarers: mother, Mrs. Lakshmi Rao, provides occasional grocery help.\ngoal: \"I want to walk without pain and return to delivering mail comfortably.\""
+    },
+    {
+      "memory_id": "X0200-m02",
+      "date": "2025-04-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pregabalin 75 mg twice daily\nDiclofenac 50 mg twice daily after food\nMethylcobalamin 1500 mcg once daily\nOrlistat 120 mg with each main meal\nCholecalciferol 60000 IU once weekly for 8 doses, then 1000 IU once daily"
+    },
+    {
+      "memory_id": "X0200-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 14 ng/mL (ref 30-100)\nSerum calcium: 9.2 mg/dL (ref 8.5-10.5)\nSerum phosphate: 3.4 mg/dL (ref 2.5-4.5)\nFasting glucose: 92 mg/dL (ref 70-99)\nHbA1c: 5.6% (ref 4-5.6)\nTotal cholesterol: 210 mg/dL (ref <200)\nTriglycerides: 165 mg/dL (ref <150)\nHDL: 38 mg/dL (ref >40)\nLDL: 130 mg/dL (ref <100)\nALT: 28 U/L (ref 7-56)\nAST: 24 U/L (ref 10-40)\nALP: 78 U/L (ref 40-129)\nGGT: 32 U/L (ref 9-64)"
+    },
+    {
+      "memory_id": "X0200-m04",
+      "date": "2025-05-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "MRI lumbar spine: L4-L5 disc bulge with mild left foraminal narrowing; no cord compression.\nStraight leg raise test: positive at 40 degrees on left.\nX-ray lumbar spine: decreased lumbar lordosis, no acute fracture."
+    },
+    {
+      "memory_id": "X0200-m05",
+      "date": "2025-05-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: back pain improved; able to stand 30 min without aggravation; still occasional leg tingling.\ncognition: Mini-Cog repeated 4/5; stable.\nfalls: no falls; gait smooth; timed up-and-go 8 seconds.\nmedicines: 5 regular (pregabalin 75 mg BD, methylcobalamin 1500 mcg OD, orlistat 120 mg TID, cholecalciferol 1000 IU OD, diclofenac stopped); polypharmacy – consider Beers review.\nmood: reports better sleep; denies depression.\ncarers: mother, Mrs. Lakshmi Rao, assists with medication box.\ngoal: \"I wish to resume my full delivery route without leg numbness.\""
+    },
+    {
+      "memory_id": "X0200-m06",
+      "date": "2025-05-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pregabalin 75 mg twice daily\nMethylcobalamin 1500 mcg once daily\nOrlistat 120 mg with each main meal\nCholecalciferol 1000 IU once daily"
+    },
+    {
+      "memory_id": "X0200-m07",
+      "date": "2025-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 32 ng/mL (ref 30-100) – improved after loading.\nSerum calcium: 9.4 mg/dL\nSerum phosphate: 3.6 mg/dL\nFasting glucose: 90 mg/dL\nHbA1c: 5.5%\nTotal cholesterol: 200 mg/dL\nTriglycerides: 150 mg/dL\nHDL: 40 mg/dL\nLDL: 115 mg/dL\nALT: 26 U/L\nAST: 22 U/L"
+    },
+    {
+      "memory_id": "X0200-m08",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Cholecalciferol 1000 IU once daily (maintenance)"
+    },
+    {
+      "memory_id": "X0200-m09",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: weight 92 kg (down from 98 kg); waist 102 cm; reports easier ambulation, less back pain.\ncognition: Mini-Cog 4/5.\nfalls: no falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 5 regular (pregabalin 75 mg BD, methylcobalamin 1500 mcg OD, orlistat 120 mg TID, cholecalciferol 1000 IU OD); polypharmacy – discuss Beers review.\nmood: feels more energetic; denies low mood.\ncarers: mother, Mrs. Lakshmi Rao, helps with meal prep.\ngoal: \"I want to keep losing weight and be pain-free on my rounds.\""
+    },
+    {
+      "memory_id": "X0200-m10",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Orlistat 120 mg with each main meal\nPregabalin 75 mg twice daily\nMethylcobalamin 1500 mcg once daily\nCholecalciferol 1000 IU once daily"
+    },
+    {
+      "memory_id": "X0200-m11",
+      "date": "2025-11-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 35 ng/mL\nSerum calcium: 9.3 mg/dL\nSerum phosphate: 3.5 mg/dL\nFasting glucose: 88 mg/dL\nHbA1c: 5.4%\nTotal cholesterol: 190 mg/dL\nTriglycerides: 140 mg/dL\nHDL: 42 mg/dL\nLDL: 110 mg/dL\nALT: 24 U/L\nAST: 21 U/L\nWaist circumference: 100 cm"
+    },
+    {
+      "memory_id": "X0200-m12",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: back pain minimal; able to walk 4 km without discomfort; weight 88 kg; waist 96 cm.\ncognition: Mini-Cog 3/5 (recall 2 items, clock draw abnormal) – positive screen; plan for detailed neurocognitive assessment.\nfalls: no falls in past year; gait steady; timed up-and-go 9 seconds.\nmedicines: 4 regular (pregabalin 75 mg BD, methylcobalamin 1500 mcg OD, orlistat 120 mg TID, cholecalciferol 1000 IU OD); not polypharmacy.\nmood: reports occasional frustration with forgetfulness; denies depression.\ncarers: mother, Mrs. Lakshmi Rao, reminds him to take meds.\ngoal: \"I hope to stay sharp and keep working as long as possible.\""
+    },
+    {
+      "memory_id": "X0200-m13",
+      "date": "2026-02-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Pregabalin 75 mg twice daily\nMethylcobalamin 1500 mcg once daily\nOrlistat 120 mg with each main meal\nCholecalciferol 1000 IU once daily"
+    },
+    {
+      "memory_id": "X0200-m14",
+      "date": "2026-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-06-15 at 10:00 with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0200-m15",
+      "date": "2026-06-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 36 ng/mL\nSerum calcium: 9.3 mg/dL\nSerum phosphate: 3.5 mg/dL\nFasting glucose: 86 mg/dL\nHbA1c: 5.3%\nTotal cholesterol: 185 mg/dL\nTriglycerides: 130 mg/dL\nHDL: 44 mg/dL\nLDL: 105 mg/dL\nALT: 22 U/L\nAST: 20 U/L"
+    },
+    {
+      "memory_id": "X0200-m16",
+      "date": "2026-10-11",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: weight 85 kg; waist 92 cm; reports no back pain, able to perform full postal route without difficulty.\ncognition: Follow-up MoCA score 26/30; normal.\nfalls: no falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 4 regular (pregabalin 75 mg BD, methylcobalamin 1500 mcg OD, orlistat 120 mg TID, cholecalciferol 1000 IU OD).\nmood: stable; enjoys work.\ncarers: mother, Mrs. Lakshmi Rao, continues to assist with shopping.\ngoal: \"I am grateful to be healthy and independent; I aim to keep delivering mail for many years.\""
+    }
+  ]
+}

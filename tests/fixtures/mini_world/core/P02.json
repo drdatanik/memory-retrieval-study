@@ -1,0 +1,38 @@
+{
+  "patient_id": "P02",
+  "name": "Anil Kumar",
+  "age": 71,
+  "sex": "M",
+  "primary_doctor": "D01",
+  "conditions": ["Atrial fibrillation", "Hypertension"],
+  "memories": [
+    {
+      "memory_id": "P02-m01",
+      "date": "2025-05-02",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o AF, dx 2024. c/o palpitations on exertion; no syncope. O: BP 132/80, pulse 96 irregular. A: AF, rate borderline controlled. HTN, near target. P: 1. Metoprolol (Metolar) 25 mg BD. 2. Continue warfarin per INR clinic. Adv: limit caffeine. R/V in 3 months."
+    },
+    {
+      "memory_id": "P02-m02",
+      "date": "2025-05-02",
+      "type": "investigation",
+      "author": "D01",
+      "text": "ECG: atrial fibrillation, ventricular rate 96/min, no acute ST-T changes. Unchanged from 2024 tracing."
+    },
+    {
+      "memory_id": "P02-m03",
+      "date": "2025-11-18",
+      "type": "referral",
+      "author": "D01",
+      "text": "Referred to cardiology for rate-control and anticoagulation review. Routine, within 6 weeks."
+    },
+    {
+      "memory_id": "P02-m04",
+      "date": "2026-01-20",
+      "type": "referral_outcome",
+      "author": "D01",
+      "text": "Cardiology letter dated 2026-01-14: rate control adequate on current dose; continue warfarin and metoprolol; repeat echo in 12 months."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0126",
+  "name": "Jaswinder Ahluwalia",
+  "age": 68,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Benign prostatic hyperplasia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0126-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign prostatic hyperplasia with LUTS\n  Status: Nocturia 2-3 times/night, weak stream, weight 78 kg, waist 92 cm (>90 cm cut-off).\n  Plan: Start tamsulosin 0.4 mg at bedtime, finasteride 5 mg OD; advise fluid restriction after 18:00, double voiding.\n- Asymptomatic elevated PSA? Not yet assessed.\n  Status: Baseline labs pending.\n  Plan: Order PSA, urine routine, ultrasound KUB with PVR.\nDue: HbA1c not indicated (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0126-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Tamsulosin 0.4 mg HS\nFinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0126-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 4.2 ng/mL (ref 0‑4)\nUrine routine: Nil abnormal\nMicroscopy: 0‑2 pus cells/hpf"
+    },
+    {
+      "memory_id": "X0126-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Ultrasound KUB: Prostate volume 38 mL, no post‑void residual (>5 mL considered abnormal). No hydronephrosis."
+    },
+    {
+      "memory_id": "X0126-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I wake up to pass urine twice at night and feel my stream is slow."
+    },
+    {
+      "memory_id": "X0126-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign prostatic hyperplasia with LUTS\n  Status: Nocturia reduced to 1‑2 times/night, stream better, weight 77 kg, waist 91 cm.\n  Plan: Continue tamsulosin 0.4 mg HS, finasteride 5 mg OD; reinforce fluid timing.\n- PSA trend\n  Status: PSA 4.0 ng/mL (slight decrease).\n  Plan: Repeat PSA in 3 months.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0126-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Tamsulosin 0.4 mg HS\nFinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0126-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 4.0 ng/mL (ref 0‑4)\nUrine routine: Normal"
+    },
+    {
+      "memory_id": "X0126-m09",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign prostatic hyperplasia with LUTS\n  Status: Nocturia 1‑2/night, occasional urgency, weight 76 kg, waist 90 cm (at cut‑off).\n  Plan: Continue meds; consider dose adjustment if symptoms worsen.\n- Elevated PSA\n  Status: PSA 5.8 ng/mL (rise from 4.0).\n  Plan: Refer to urology for prostate MRI evaluation; repeat urine culture.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0126-m10",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Tamsulosin 0.4 mg HS\nFinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0126-m11",
+      "date": "2025-10-02",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Urology, Sakra World Hospital for elevated PSA (5.8 ng/mL) and prostate assessment. Request MRI pelvis and prostate-specific antigen trend."
+    },
+    {
+      "memory_id": "X0126-m12",
+      "date": "2025-11-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Urology opinion: MRI shows benign prostatic hyperplasia, no suspicious lesions. PSA rise attributed to BPH. Recommend continue current meds, repeat PSA in 6 months, monitor symptoms."
+    },
+    {
+      "memory_id": "X0126-m13",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign prostatic hyperplasia with LUTS\n  Status: Nocturia 1‑2/night, stream satisfactory, weight 75 kg, waist 89 cm (<90 cm).\n  Plan: Maintain tamsulosin 0.4 mg HS, finasteride 5 mg OD; encourage pelvic floor exercises.\n- PSA stable\n  Status: PSA 5.6 ng/mL (unchanged).\n  Plan: Repeat PSA in 6 months per urology advice.\nDue: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0126-m14",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Tamsulosin 0.4 mg HS\nFinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0126-m15",
+      "date": "2026-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 5.5 ng/mL (ref 0‑4)\nUrine routine: Normal\nMicroscopy: 0‑1 pus cells/hpf"
+    },
+    {
+      "memory_id": "X0126-m16",
+      "date": "2026-07-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-10-07 at 10:30 am with Dr Karthik Hegde (D04)."
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0006",
+  "name": "Gopinath Kaimal",
+  "age": 82,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Atrial fibrillation",
+    "Gastro-oesophageal reflux",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0006-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Problems:\n- Atrial fibrillation: Status stable on apixaban 5 mg BD, bisoprolol 2.5 mg OD, warfarin (INR target 2-3). Plan: Continue anticoagulation, check INR in 2 weeks, ECG today.\n- Gastro-oesophageal reflux: Status mild, pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, antacid gel SOS. Plan: Continue, review symptoms.\n- COPD: Status stable, tiotropium inhaler OD, salbutamol inhaler SOS, budesonide-formoterol 200/6 inhaler BD. Plan: Continue, check spirometry and chest X-ray today, SpO2 at rest.\nWeight 68 kg, waist 92 cm (male cut‑off 90 cm – borderline). Diet: Breakfast – low‑salt, whole grain; Lunch – vegetable‑rich, limited fried foods; Dinner – light, early.\nDue: HbA1c not indicated; next review in 3 months."
+    },
+    {
+      "memory_id": "X0006-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Apixaban 5 mg BD\nBisoprolol 2.5 mg OD\nWarfarin 3 mg OD (adjust per INR)\nPantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nTiotropium inhaler 18 mcg OD\nSalbutamol inhaler 100 mcg SOS\nBudesonide-formoterol 200/6 inhaler 2 puffs BD"
+    },
+    {
+      "memory_id": "X0006-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.4 (target 2-3)\nSerum creatinine 1.1 mg/dL (eGFR 62 mL/min/1.73m²)\nTSH 2.1 µIU/mL (0.4-4.0)\nSpirometry: FEV1 1.68 L (55% pred), FEV1/FVC 0.62\nChest X‑ray: Hyperinflated lungs, no consolidation.\nH. pylori stool antigen: Negative"
+    },
+    {
+      "memory_id": "X0006-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Problems:\n- Atrial fibrillation: INR 2.4 within target, heart rate 78 bpm. Plan: Continue warfarin 3 mg OD, repeat INR in 4 weeks.\n- Gastro‑oesophageal reflux: No heartburn, pantoprazole effective. Plan: Continue current dose.\n- COPD: Reports mild dyspnea on climbing stairs, SpO2 92% room air. Plan: Increase budesonide‑formoterol to 2 puffs BD, reinforce inhaler technique, repeat spirometry.\nWeight 67.5 kg, waist 90 cm (at cut‑off). Diet advice unchanged.\nDue: Next review in 3 months; lipid profile due annually."
+    },
+    {
+      "memory_id": "X0006-m05",
+      "date": "2025-07-11",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Budesonide-formoterol 200/6 inhaler 2 puffs BD (increased from 1 puff BD)"
+    },
+    {
+      "memory_id": "X0006-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.6 (target 2-3)\nSerum creatinine 1.0 mg/dL (eGFR 66)\nTSH 2.0 µIU/mL\nSpirometry: FEV1 1.73 L (57% pred), FEV1/FVC 0.64 (slight improvement)"
+    },
+    {
+      "memory_id": "X0006-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Problems:\n- Atrial fibrillation: Patient notes occasional palpitations, ECG planned. INR 2.6 stable. Plan: Continue warfarin, apixaban held (not prescribed), bisoprolol unchanged.\n- Gastro‑oesophageal reflux: No dyspepsia, pantoprazole effective.\n- COPD: Stable, no exacerbations, inhaler technique good.\nWeight 67 kg, waist 89 cm (now below male cut‑off). Diet: Continue low‑salt, avoid large evening meals.\nPlan: Order lipid profile (annual), ECG today, repeat INR & creatinine in 4 weeks.\nDue: Next visit in 3 months."
+    },
+    {
+      "memory_id": "X0006-m08",
+      "date": "2025-10-03",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG: Rhythm atrial fibrillation with controlled ventricular rate 78 bpm, no ST‑T changes, no signs of ischemia. QRS duration normal."
+    },
+    {
+      "memory_id": "X0006-m09",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile:\nTotal cholesterol 4.8 mmol/L (<5.2)\nLDL 2.9 mmol/L (<2.6) – slightly high\nHDL 1.2 mmol/L (>1.0)\nTriglycerides 1.4 mmol/L (<1.7)"
+    },
+    {
+      "memory_id": "X0006-m10",
+      "date": "2025-12-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘I had a brief nosebleed this morning after blowing my nose. It stopped after a few minutes. No other bleeding.’"
+    },
+    {
+      "memory_id": "X0006-m11",
+      "date": "2025-12-16",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Problems:\n- Atrial fibrillation: Epistaxis raises concern for over‑anticoagulation. INR checked today 3.2 (above target). Plan: Reduce warfarin dose to 2 mg OD, repeat INR in 3 days, assess for any GI bleeding.\n- Gastro‑oesophageal reflux: No symptoms.\n- COPD: Stable.\nWeight 66.8 kg, waist 88 cm. Diet unchanged.\nDue: Next review in 6 weeks."
+    },
+    {
+      "memory_id": "X0006-m12",
+      "date": "2025-12-17",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Warfarin 2 mg OD (reduced from 3 mg OD)"
+    },
+    {
+      "memory_id": "X0006-m13",
+      "date": "2025-12-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.3 (target 2-3)\nSerum creatinine 1.0 mg/dL (eGFR 65)"
+    },
+    {
+      "memory_id": "X0006-m14",
+      "date": "2026-03-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Problems:\n- Atrial fibrillation: INR stable 2.3, no further bleeding. Plan: Continue warfarin 2 mg OD, apixaban not used, bisoprolol unchanged.\n- Gastro‑oesophageal reflux: Well controlled on pantoprazole.\n- COPD: No exacerbations, inhaler adherence good.\nWeight 66.5 kg, waist 87 cm (below cut‑off). Diet: Continue low‑salt, small frequent meals.\nPlan: Repeat INR, creatinine, TSH, spirometry today.\nDue: Next visit in 3 months."
+    },
+    {
+      "memory_id": "X0006-m15",
+      "date": "2026-03-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.4 (target 2-3)\nSerum creatinine 1.0 mg/dL (eGFR 64)\nTSH 2.2 µIU/mL\nSpirometry: FEV1 1.70 L (56% pred), FEV1/FVC 0.63 (stable)"
+    },
+    {
+      "memory_id": "X0006-m16",
+      "date": "2026-06-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-06-15 at 10:30 AM with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0006-m17",
+      "date": "2026-06-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Problems:\n- Atrial fibrillation: INR 2.5, heart rate 80 bpm, no symptoms. Plan: Continue warfarin 2 mg OD, bisoprolol 2.5 mg OD.\n- Gastro‑oesophageal reflux: No reflux symptoms, pantoprazole effective.\n- COPD: Mild wheeze on exertion, SpO2 94% room air. Plan: Continue tiotropium, salbutamol SOS, budesonide‑formoterol 2 puffs BD, check inhaler technique.\nWeight 66.0 kg, waist 86 cm (below cut‑off). Diet: Continue low‑salt, avoid large evening meals.\nPlan: Order INR, creatinine, TSH, lipid profile (annual) today.\nDue: Next review in 3 months."
+    },
+    {
+      "memory_id": "X0006-m18",
+      "date": "2026-06-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.5 (target 2-3)\nSerum creatinine 1.0 mg/dL (eGFR 63)\nTSH 2.1 µIU/mL\nLipid profile:\nTotal cholesterol 4.7 mmol/L\nLDL 2.8 mmol/L (slightly above target)\nHDL 1.3 mmol/L\nTriglycerides 1.3 mmol/L"
+    }
+  ]
+}

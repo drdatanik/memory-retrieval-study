@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0435",
+  "name": "Ashok Mishra",
+  "age": 86,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Atrial fibrillation",
+    "COPD",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0435-m01",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.3 (target 2-3). Serum creatinine 102 µmol/L (reference 62-115). TSH 2.1 mIU/L (reference 0.4-4.0)."
+    },
+    {
+      "memory_id": "X0435-m02",
+      "date": "2025-04-09",
+      "type": "investigation",
+      "author": "D05",
+      "text": "ECG: Sinus rhythm with atrial fibrillation, ventricular rate 78 bpm. No ST-T changes. QRS duration 96 ms."
+    },
+    {
+      "memory_id": "X0435-m03",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation, COPD and asthma stable.\nPatient reports mild dyspnoea on exertion, no nocturnal wheeze. On examination: respiratory rate 18, SpO2 94% on room air, bilateral wheeze end-expiration, regular irregular pulse 78 bpm.\nSpirometry: FEV1 1.20 L (55% predicted), FVC 2.10 L (78% predicted), FEV1/FVC 0.57; change from previous (none) +0.00 L.\nAsthma Control Test score 22 (well controlled).\nInhaler technique: tiotropium HandiHaler inspiratory flow checked 45 L/min, adequate; salbutamol MDI technique checked: correct; budesonide-formoterol DPI technique checked: correct.\nSmoking status: former, stopped 2008, pack-years 30.\nPlan: Continue apixaban 5 mg BD, bisoprolol 2.5 mg OD, warfarin 3 mg OD (INR 2-3). Tiotropium OD, salbutamol MDI SOS, budesonide-formoterol 200/6 BD, montelukast 10 mg HS. Review in 3 months."
+    },
+    {
+      "memory_id": "X0435-m04",
+      "date": "2025-05-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past week I have needed my salbutamol inhaler three times a day due to increased wheeze after climbing stairs. No chest pain or palpitations."
+    },
+    {
+      "memory_id": "X0435-m05",
+      "date": "2025-07-13",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray: Lungs hyperinflated, flattened diaphragms, no focal consolidation or pleural effusion. Cardiac size within normal limits."
+    },
+    {
+      "memory_id": "X0435-m06",
+      "date": "2025-07-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.10 L (50% predicted), FVC 2.00 L (74% predicted), FEV1/FVC 0.55; change since last test -0.10 L."
+    },
+    {
+      "memory_id": "X0435-m07",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "COPD exacerbation, asthma partially controlled.\nPatient notes increased wheeze and salbutamol use three times daily, mild dyspnoea walking 50 m. Exam: respiratory rate 22, SpO2 92% room air, diffuse wheezing, cardiac rhythm irregularly irregular, rate 84 bpm.\nSpirometry: FEV1 1.10 L (50% predicted), FVC 2.00 L (74% predicted), FEV1/FVC 0.55; change since last test -0.10 L.\nAsthma Control Test score 16 (not well controlled).\nInhaler technique: tiotropium HandiHaler flow 38 L/min (suboptimal), counselled to inspire more slowly and deeply; salbutamol MDI technique corrected: coordinate actuation with inhalation; budesonide-formoterol DPI technique checked: correct.\nSmoking status: former, stopped 2008, pack-years 30.\nPlan: Increase budesonide-formoterol to 200/6 BD (already), add short course prednisolone 40 mg OD for 5 days, continue tiotropium OD, salbutamol MDI SOS, montelukast 10 HS. Continue apixaban 5 mg BD, bisoprolol 2.5 mg OD, warfarin 3 mg OD (INR 2-3). Review in 6 weeks."
+    },
+    {
+      "memory_id": "X0435-m08",
+      "date": "2025-08-01",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Cardiology for atrial fibrillation management and anticoagulation review. Patient 86-year-old male with persistent AF on apixaban and warfarin, borderline renal function. Request opinion on long-term anticoagulation strategy and rate control."
+    },
+    {
+      "memory_id": "X0435-m09",
+      "date": "2025-08-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Cardiology outpatient review: Patient reviewed, ECG shows controlled ventricular rate 78 bpm on bisoprolol. Recommend continuing apixaban 5 mg BD, discontinue warfarin due to bleeding risk and borderline renal function. No need for ablation at this time. Follow up in 3 months."
+    },
+    {
+      "memory_id": "X0435-m10",
+      "date": "2025-10-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 1.9 (slightly low). Serum creatinine 108 µmol/L (reference 62-115). TSH 2.0 mIU/L (reference 0.4-4.0)."
+    },
+    {
+      "memory_id": "X0435-m11",
+      "date": "2025-10-19",
+      "type": "investigation",
+      "author": "D05",
+      "text": "ECG: Atrial fibrillation with controlled ventricular rate 80 bpm, bisoprolol 2.5 mg OD. No acute ischemic changes."
+    },
+    {
+      "memory_id": "X0435-m12",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation on apixaban only, COPD stable, asthma well controlled.\nPatient denies recent wheeze, uses salbutamol less than twice weekly. No chest pain. Exam: SpO2 95% room air, respiratory rate 16, bilateral mild wheeze, irregularly irregular pulse 78 bpm.\nSpirometry: FEV1 1.25 L (57% predicted), FVC 2.15 L (80% predicted), FEV1/FVC 0.58; change since last test +0.15 L.\nAsthma Control Test score 23 (well controlled).\nInhaler technique: tiotropium HandiHaler flow 48 L/min (adequate), salbutamol MDI technique checked: correct, budesonide-formoterol DPI technique checked: correct.\nSmoking status: former, stopped 2008, pack-years 30.\nPlan: Continue apixaban 5 mg BD, bisoprolol 2.5 mg OD, discontinue warfarin. Continue tiotropium OD, salbutamol MDI SOS, budesonide-formoterol 200/6 BD, montelukast 10 mg HS. Review in 3 months."
+    },
+    {
+      "memory_id": "X0435-m13",
+      "date": "2025-11-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Warfarin stopped. Apixaban 5 mg BD continued. Bisoprolol 2.5 mg OD continued. Tiotropium inhaler OD. Salbutamol inhaler SOS. Budesonide-formoterol 200/6 inhaler BD. Montelukast 10 mg HS."
+    },
+    {
+      "memory_id": "X0435-m14",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.30 L (59% predicted), FVC 2.20 L (81% predicted), FEV1/FVC 0.59; change since last test +0.05 L."
+    },
+    {
+      "memory_id": "X0435-m15",
+      "date": "2026-01-25",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "COPD and asthma stable, atrial fibrillation on apixaban.\nPatient reports no dyspnoea at rest, occasional wheeze on exertion relieved by salbutamol. Exam: SpO2 96% room air, respiratory rate 14, mild expiratory wheeze, irregularly irregular pulse 80 bpm.\nSpirometry: FEV1 1.30 L (59% predicted), FVC 2.20 L (81% predicted), FEV1/FVC 0.59; change since last test +0.05 L.\nAsthma Control Test score 24 (well controlled).\nInhaler technique: tiotropium HandiHaler flow 50 L/min (good), salbutamol MDI technique checked: correct, budesonide-formoterol DPI technique checked: correct.\nSmoking status: former, stopped 2008, pack-years 30.\nPlan: Continue current medications. Review in 3 months."
+    },
+    {
+      "memory_id": "X0435-m16",
+      "date": "2026-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up pulmonology appointment booked for 2026-04-30 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0435-m17",
+      "date": "2026-04-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation, COPD, asthma all stable.\nPatient denies worsening dyspnoea, uses salbutamol less than twice weekly. No adverse effects from apixaban. Exam: SpO2 96% room air, respiratory rate 14, clear lungs to auscultation, irregularly irregular pulse 78 bpm.\nSpirometry: FEV1 1.35 L (61% predicted), FVC 2.25 L (83% predicted), FEV1/FVC 0.60; change since last test +0.05 L.\nAsthma Control Test score 24 (well controlled).\nInhaler technique: tiotropium HandiHaler flow 52 L/min (good), salbutamol MDI technique checked: correct, budesonide-formoterol DPI technique checked: correct.\nSmoking status: former, stopped 2008, pack-years 30.\nPlan: Continue apixaban 5 mg BD, bisoprolol 2.5 mg OD, tiotropium OD, salbutamol MDI SOS, budesonide-formoterol 200/6 BD, montelukast 10 mg HS. Review in 4 months."
+    }
+  ]
+}

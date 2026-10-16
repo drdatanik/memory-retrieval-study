@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0371",
+  "name": "Arumugam Ramasamy",
+  "age": 83,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Glaucoma",
+    "Insomnia",
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0371-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: glaucoma, insomnia, and gastro‑oesophageal reflux disease.\nPatient reports mild blurring of vision, trouble initiating sleep, and occasional post‑prandial heartburn. Examination shows normal visual acuity, relaxed eyelids, no conjunctival injection; abdomen soft, no tenderness. He is a never‑smoker, pack‑years 0. Intra‑ocular pressure will be checked, and spirometry is not required as there is no asthma/COPD. Plan: start topical glaucoma therapy, melatonin and trazodone for sleep, PPI for reflux, and arrange baseline labs."
+    },
+    {
+      "memory_id": "X0371-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops 1 drop BD\nlatanoprost 0.005% eye drops 1 drop HS\nmelatonin 3 mg HS\ntrazodone 50 mg HS\npantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0371-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intra‑ocular pressure: right eye 18 mmHg (10‑21), left eye 19 mmHg (10‑21).\nTSH: 2.1 mIU/L (0.4‑4.5).\nHaemoglobin: 13.8 g/dL (13.0‑17.0).\nH. pylori stool antigen: negative (reference: negative)."
+    },
+    {
+      "memory_id": "X0371-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: stable glaucoma, insomnia improved, GERD controlled.\nPatient says vision unchanged, sleeps 5‑6 hours with melatonin/trazodone, heartburn rare after using pantoprazole. Eyes: IOP 18/19 mmHg, no conjunctival redness. Abdomen benign. No medication side‑effects noted. He remains a never‑smoker. Continue current meds, consider reducing trazodone if daytime drowsiness appears."
+    },
+    {
+      "memory_id": "X0371-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops 1 drop BD\nlatanoprost 0.005% eye drops 1 drop HS\nmelatonin 3 mg HS\ntrazodone 25 mg HS (dose reduced)\npantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0371-m06",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Optic disc assessment and visual field test (Humphrey 24‑2).\nDiscs: cup‑to‑disc ratio 0.6 right, 0.5 left, within normal limits for age. Visual fields: full, no defects. No glaucomatous progression detected."
+    },
+    {
+      "memory_id": "X0371-m07",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up pulmonology appointment booked for 2025-09-20 at 10:30 am."
+    },
+    {
+      "memory_id": "X0371-m08",
+      "date": "2025-09-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: glaucoma stable, insomnia well controlled, GERD in remission.\nPatient reports good sleep (6‑7 hrs), no daytime sedation, no heartburn for 4 weeks. IOP 17/18 mmHg. Visual fields unchanged. No adverse effects. He remains a never‑smoker. Continue current regimen; consider tapering trazodone further if sleep remains solid."
+    },
+    {
+      "memory_id": "X0371-m09",
+      "date": "2025-09-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops 1 drop BD\nlatanoprost 0.005% eye drops 1 drop HS\nmelatonin 3 mg HS\ntrazodone 12.5 mg HS (further reduced)\npantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0371-m10",
+      "date": "2025-11-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intra‑ocular pressure: right eye 17 mmHg (10‑21), left eye 18 mmHg (10‑21).\nTSH: 2.0 mIU/L (0.4‑4.5).\nHaemoglobin: 13.9 g/dL (13.0‑17.0).\nH. pylori stool antigen: negative."
+    },
+    {
+      "memory_id": "X0371-m11",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: glaucoma stable, insomnia worsened after trazodone taper, GERD asymptomatic.\nPatient reports difficulty staying asleep, waking after 4‑5 hrs, feeling fatigued. No heartburn. IOP 17/18 mmHg. He denies new ocular symptoms. He remains a never‑smoker. Plan: discontinue trazodone due to residual daytime grogginess, increase melatonin to 5 mg HS, add sleep hygiene counselling."
+    },
+    {
+      "memory_id": "X0371-m12",
+      "date": "2026-02-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops 1 drop BD\nlatanoprost 0.005% eye drops 1 drop HS\nmelatonin 5 mg HS\npantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0371-m13",
+      "date": "2026-03-20",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Upper GI endoscopy performed for alarm symptom of unexplained weight loss (not present) – performed due to persistent mild epigastric discomfort despite PPI.\nFindings: mild gastritis, no ulcer, no Barrett’s epithelium. H. pylori rapid test negative. Biopsy negative for malignancy."
+    },
+    {
+      "memory_id": "X0371-m14",
+      "date": "2026-04-15",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Gastroenterology, Bangalore Medical Centre, for opinion on refractory gastritis and to rule out microscopic colitis. Include recent endoscopy report and PPI trial details."
+    },
+    {
+      "memory_id": "X0371-m15",
+      "date": "2026-05-01",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Gastroenterology review: gastritis likely NSAID‑related (patient denies NSAIDs). Recommend continue PPI, consider low‑dose amitriptyline for visceral hypersensitivity, repeat H. pylori stool antigen in 3 months. No further endoscopic intervention needed."
+    },
+    {
+      "memory_id": "X0371-m16",
+      "date": "2026-06-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"Since stopping trazodone and increasing melatonin, I’m sleeping about 6 hours a night and feel more refreshed in the morning. No heartburn issues.\" – message via clinic app."
+    },
+    {
+      "memory_id": "X0371-m17",
+      "date": "2026-08-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: glaucoma stable, insomnia improved on melatonin alone, GERD controlled.\nPatient reports sleep 6‑6.5 hrs, no nocturnal awakenings, feeling rested. IOP 16/17 mmHg. Visual fields unchanged. No medication side‑effects. He remains a never‑smoker. Continue melatonin 5 mg HS, timolol and latanoprost, pantoprazole as needed."
+    },
+    {
+      "memory_id": "X0371-m18",
+      "date": "2026-09-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops 1 drop BD\nlatanoprost 0.005% eye drops 1 drop HS\nmelatonin 5 mg HS\npantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\nantacid gel SOS"
+    }
+  ]
+}

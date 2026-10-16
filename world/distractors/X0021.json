@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0021",
+  "name": "Nasir Sheikh",
+  "age": 74,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Benign prostatic hyperplasia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0021-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "74-year-old male with BPH presents for routine follow-up.\nPRESENTING COMPLAINT: He reports mild nocturia twice nightly and a weak stream, no dysuria or hematuria.\nEXAMINATION: BP 138/86 mmHg, weight 78 kg, BMI 27.6 (obese). Abdomen soft, no suprapubic tenderness. Prostate exam not performed today.\nIMPRESSION: Benign prostatic hyperplasia, symptoms mild and stable. Obesity noted.\nARRANGEMENTS: Continue tamsulosin 0.4 mg at bedtime and finasteride 5 mg daily. Order PSA and urine routine. Advise reduced fluid intake after 6 pm, regular walks, and weight reduction diet. Return if acute urinary retention, visible blood in urine, fever above 39°C, or severe lower abdominal pain."
+    },
+    {
+      "memory_id": "X0021-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tamsulosin 0.4 mg HS\nFinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0021-m03",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 4.2 ng/mL (ref 0-4.0). Urine routine: pus cells 2-4/hpf, no bacteria, no blood."
+    },
+    {
+      "memory_id": "X0021-m04",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "74-year-old male with BPH returns for symptom review after rising PSA.\nPRESENTING COMPLAINT: Nocturia unchanged, weak stream, no new urinary symptoms.\nEXAMINATION: BP 140/88 mmHg, weight 77.5 kg, BMI 27.4 (obese). Abdomen soft, no tenderness.\nIMPRESSION: BPH stable; PSA mildly elevated at 4.2 ng/mL, likely benign enlargement.\nARRANGEMENTS: Increase tamsulosin to 0.4 mg HS twice daily. Keep finasteride 5 mg OD. Repeat PSA in 8 weeks. Advise same lifestyle measures. Return if acute retention, hematuria, fever >39°C, or severe flank pain."
+    },
+    {
+      "memory_id": "X0021-m05",
+      "date": "2025-08-03",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tamsulosin 0.4 mg BID\nFinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0021-m06",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "74-year-old male with BPH for annual review and influenza vaccination.\nPRESENTING COMPLAINT: Nocturia 2-3 times/night, weak stream, no incontinence.\nEXAMINATION: BP 138/84 mmHg, weight 77 kg, BMI 27.3 (obese). Abdomen soft.\nIMPRESSION: BPH stable. Fasting lipid profile: total cholesterol 180 mg/dL, HDL 45, LDL 100, triglycerides 130 (all within target). Fasting blood sugar 92 mg/dL (normal). PSA 4.0 ng/mL (borderline). Obesity persists.\nARRANGEMENTS: Continue tamsulosin 0.4 mg BID, finasteride 5 mg OD. Influenza vaccine given today 2025-10-20. Advise low‑salt diet, regular aerobic activity, weight loss goal. Return if acute urinary retention, visible blood, fever >39°C, or severe lower abdominal pain."
+    },
+    {
+      "memory_id": "X0021-m07",
+      "date": "2025-10-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: TC 180 mg/dL (<200), HDL 45 (>40), LDL 100 (<130), TG 130 (<150). Fasting blood sugar: 92 mg/dL (70-100)."
+    },
+    {
+      "memory_id": "X0021-m08",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "74-year-old male with BPH reports worsening urinary symptoms.\nPRESENTING COMPLAINT: Nocturia 4 times/night, intermittent stream, feeling of incomplete emptying.\nEXAMINATION: BP 142/90 mmHg, weight 78 kg, BMI 27.6 (obese). Suprapubic dullness noted.\nIMPRESSION: BPH progression suggested by symptoms and mild suprapubic fullness. PSA stable at 4.0 ng/mL.\nARRANGEMENTS: Discontinue finasteride 5 mg OD due to possible decreased libido. Start tamsulosin 0.4 mg HS only. Order repeat PSA and urine routine. Advise pelvic floor exercises, limit caffeine. Return if acute retention, hematuria, fever >39°C, or severe lower abdominal pain."
+    },
+    {
+      "memory_id": "X0021-m09",
+      "date": "2026-01-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tamsulosin 0.4 mg HS\nFinasteride: stopped"
+    },
+    {
+      "memory_id": "X0021-m10",
+      "date": "2026-02-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 4.1 ng/mL (ref 0-4.0). Urine routine: normal."
+    },
+    {
+      "memory_id": "X0021-m11",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "74-year-old male with BPH for follow‑up after stopping finasteride.\nPRESENTING COMPLAINT: Nocturia 3 times/night, stream improved but still weak.\nEXAMINATION: BP 140/88 mmHg, weight 77.5 kg, BMI 27.4 (obese). Abdomen soft.\nIMPRESSION: BPH symptoms moderately improved off finasteride; PSA 4.1 ng/mL unchanged.\nARRANGEMENTS: Restart finasteride 5 mg OD at reduced dose 2.5 mg OD to balance side effects. Continue tamsulosin 0.4 mg HS. Repeat PSA in 3 months. Advise maintain weight, daily walk. Return if acute retention, hematuria, fever >39°C, or severe flank pain."
+    },
+    {
+      "memory_id": "X0021-m12",
+      "date": "2026-04-07",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tamsulosin 0.4 mg HS\nFinasteride 2.5 mg OD"
+    },
+    {
+      "memory_id": "X0021-m13",
+      "date": "2026-06-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-07-05 10:00 to 2026-07-05 14:00 per patient request."
+    },
+    {
+      "memory_id": "X0021-m14",
+      "date": "2026-08-14",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "74-year-old male with BPH for routine review.\nPRESENTING COMPLAINT: Nocturia 2 times/night, good stream, no incontinence.\nEXAMINATION: BP 136/82 mmHg, weight 76.5 kg, BMI 27.1 (obese). Abdomen soft.\nIMPRESSION: BPH well controlled on current regimen. PSA 4.0 ng/mL (stable). Obesity class persists.\nARRANGEMENTS: Continue tamsulosin 0.4 mg HS and finasteride 2.5 mg OD. Advise maintain activity, monitor weight. Return if acute retention, hematuria, fever >39°C, or severe lower abdominal pain."
+    },
+    {
+      "memory_id": "X0021-m15",
+      "date": "2026-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Ultrasound KUB: prostate volume 38 mL, mild bilateral hydronephrosis, post‑void residual 45 mL (normal <50). No calculi."
+    }
+  ]
+}

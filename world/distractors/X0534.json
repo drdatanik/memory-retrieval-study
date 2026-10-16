@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0534",
+  "name": "Nitin Bhosale",
+  "age": 55,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Dyslipidaemia",
+    "Obesity",
+    "Heart failure with reduced ejection fraction"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0534-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia: status: LDL 130 mg/dL, TG 180 mg/dL, HDL 38 mg/dL; plan: start atorvastatin 10 mg HS, repeat lipid panel in 3 months.\n- Obesity: status: weight 92 kg, waist 102 cm (>90 cm cut-off); plan: orlistat 120 mg TID with meals, diet advice: breakfast - reduced carbs, lunch - moderate protein, dinner - light, review weight monthly.\n- Heart failure with reduced ejection fraction: status: known HFrEF EF 35%, NYHA II, on sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD, furosemide 40 mg OD, dapagliflozin 10 mg OD; plan: continue, monitor weight and symptoms, check electrolytes and renal function in 4 weeks.\n- Due: HbA1c due 2025-07-05."
+    },
+    {
+      "memory_id": "X0534-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Atorvastatin 10 mg HS\nOrlistat 120 mg with breakfast, lunch, dinner\nSacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg OD\nFurosemide 40 mg OD\nDapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0534-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 130 mg/dL (70-130), HDL 38 mg/dL (>40 low), TG 180 mg/dL (<150 high).\nLiver function: ALT 28 U/L (≤40), AST 26 U/L (≤40), ALP 78 U/L (≤120), GGT 32 U/L (≤50).\nCreatine kinase: 120 U/L (≤200).\nFasting glucose: 102 mg/dL (70-100 borderline).\nHbA1c: 6.2% (4-5.6 high)."
+    },
+    {
+      "memory_id": "X0534-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia: status: LDL 110 mg/dL, TG 165 mg/dL, HDL 40 mg/dL; plan: LDL not at goal (<70), switch to rosuvastatin 10 mg OD, repeat lipid panel in 3 months.\n- Obesity: status: weight 90 kg, waist 100 cm; plan: continue orlistat, diet reinforcement: breakfast - high fibre, lunch - lean protein, dinner - vegetables, aim 0.5 kg loss/month.\n- Heart failure: status: weight stable, no dyspnea on exertion, NYHA II; plan: continue current HF regimen, check electrolytes and renal function.\n- Due: HbA1c due 2025-10-10."
+    },
+    {
+      "memory_id": "X0534-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Rosuvastatin 10 mg OD\nOrlistat 120 mg with breakfast, lunch, dinner\nSacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg OD\nFurosemide 40 mg OD\nDapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0534-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 110 mg/dL (70-130), HDL 40 mg/dL (≥40), TG 165 mg/dL (150-200 borderline).\nLiver function: ALT 30 U/L, AST 28 U/L, ALP 80 U/L, GGT 34 U/L.\nCreatine kinase: 115 U/L.\nFasting glucose: 98 mg/dL.\nHbA1c: 6.0%."
+    },
+    {
+      "memory_id": "X0534-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia: status: LDL 92 mg/dL, TG 210 mg/dL, HDL 42 mg/dL; plan: TG high, add fenofibrate 145 mg OD, repeat lipid panel and LFT in 6 weeks.\n- Obesity: status: weight 88 kg, waist 98 cm; plan: continue orlistat, advise breakfast - oats with fruit, lunch - dal with vegetables, dinner - soup and salad, target 85 kg by next visit.\n- Heart failure: status: mild ankle swelling after long walks, NYHA II; plan: continue meds, monitor weight daily, consider uptitrating bisoprolol if tolerated.\n- Due: HbA1c due 2026-01-02."
+    },
+    {
+      "memory_id": "X0534-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate 145 mg OD\nOrlistat 120 mg with breakfast, lunch, dinner\nSacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg OD\nFurosemide 40 mg OD\nDapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0534-m09",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 92 mg/dL (<100 good), HDL 42 mg/dL (≥40), TG 210 mg/dL (150-200 high).\nLiver function: ALT 34 U/L, AST 32 U/L, ALP 85 U/L, GGT 38 U/L.\nCreatine kinase: 130 U/L.\nFasting glucose: 95 mg/dL.\nHbA1c: 5.9%."
+    },
+    {
+      "memory_id": "X0534-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia: status: LDL 88 mg/dL, TG 180 mg/dL, HDL 44 mg/dL; plan: lipids improved, continue rosuvastatin and fenofibrate, repeat lipid panel in 3 months.\n- Obesity: status: weight 86 kg, waist 95 cm; plan: continue orlistat, diet: breakfast - multigrain toast, lunch - vegetable curry with roti, dinner - grilled fish, aim 84 kg.\n- Heart failure: status: increased fatigue, mild orthopnea, weight up 2 kg; plan: increase bisoprolol to 5 mg OD, monitor BP and HR, check electrolytes and creatinine in 2 weeks.\n- Due: HbA1c due 2026-04-15."
+    },
+    {
+      "memory_id": "X0534-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate 145 mg OD\nOrlistat 120 mg with breakfast, lunch, dinner\nSacubitril/valsartan 24/26 mg BD\nBisoprolol 5 mg OD\nSpironolactone 25 mg OD\nFurosemide 40 mg OD\nDapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0534-m12",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 88 mg/dL (<100), HDL 44 mg/dL (≥40), TG 180 mg/dL (150-200 borderline).\nLiver function: ALT 36 U/L, AST 34 U/L, ALP 90 U/L, GGT 40 U/L.\nCreatine kinase: 125 U/L.\nSerum creatinine: 1.1 mg/dL (0.6-1.2).\nSerum potassium: 4.5 mmol/L (3.5-5.0).\nNT-proBNP: 350 pg/mL (<300 mild elevation).\nFasting glucose: 92 mg/dL.\nHbA1c: 5.8%."
+    },
+    {
+      "memory_id": "X0534-m13",
+      "date": "2026-01-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Echocardiogram: LVEF 38% (mildly reduced from baseline 35%), LVOT normal, no significant valvular disease, LV diastolic dysfunction grade I. Estimated pulmonary artery systolic pressure 30 mmHg. NYHA class II."
+    },
+    {
+      "memory_id": "X0534-m14",
+      "date": "2026-04-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have noticed swelling in both ankles over the past week, especially after evening walks. My shoes feel tight by night. No new dyspnea or chest pain."
+    },
+    {
+      "memory_id": "X0534-m15",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-05-18 at 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0534-m16",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia: status: LDL 84 mg/dL, TG 150 mg/dL, HDL 46 mg/dL; plan: lipids at target, continue rosuvastatin and fenofibrate, repeat lipid panel annually.\n- Obesity: status: weight 84 kg, waist 90 cm (male cut-off 90 cm, borderline); plan: continue orlistat, reinforce diet, aim maintain weight.\n- Heart failure: status: ankle swelling resolved after bisoprolol uptitration, weight stable, NYHA II; plan: continue current HF regimen, monitor for edema, check electrolytes and renal function in 3 months.\n- Due: HbA1c due 2027-01-05 (outside window)."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0524",
+  "name": "Rukmini Murthy",
+  "age": 79,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Chronic urticaria",
+    "Sciatica",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0524-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, walks 30 min daily, uses no aid. cognition: Mini‑Cog 4/5 (normal). falls: 0 in last 12 months, gait normal, timed up‑and‑go 9 sec (not raised risk). medicines: 5 regular (levocetirizine 5 mg OD, pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD, sertraline 50 mg OD) – polypharmacy, review against Beers criteria advised. mood: reports low mood, PHQ‑9 estimated 8 (mild). carers: daughter Priya, lives nearby. goals: \"I want to stay active and continue working part‑time.\""
+    },
+    {
+      "memory_id": "X0524-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg OD – continue\npregabalin 75 mg BD – continue\ndiclofenac 50 mg BD after food – continue\nmethylcobalamin 1500 mcg OD – continue\nsertraline 50 mg OD – continue"
+    },
+    {
+      "memory_id": "X0524-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.2 g/dL (12‑16), WBC 6.8×10⁹/L (4‑10), platelets 210×10⁹/L (150‑400), eosinophils 6 % (1‑4).\nThyroid function: TSH 2.1 mIU/L (0.4‑4.5), Free T4 1.2 ng/dL (0.8‑1.8)."
+    },
+    {
+      "memory_id": "X0524-m04",
+      "date": "2025-06-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past three weeks I have had more frequent hives, especially in the evenings, with intense itching that wakes me. I think stress from work may be worsening it."
+    },
+    {
+      "memory_id": "X0524-m05",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still independent, walks 35 min, no new pain. cognition: Mini‑Cog not repeated (annual screen due next year). falls: 0 in last 12 months, gait normal, TUG 9 sec. medicines: 6 regular (added cetirizine 10 mg HS) – polypharmacy, Beers review pending. mood: reports improved mood, PHQ‑9 ~5. carers: daughter Priya. goals: \"I would like to reduce the itching and keep walking without pain.\""
+    },
+    {
+      "memory_id": "X0524-m06",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg OD – continue\ncetirizine 10 mg HS – add\npregabalin 100 mg BD – increase from 75 mg\ndiclofenac 50 mg BD after food – continue\nmethylcobalamin 1500 mcg OD – continue\nsertraline 50 mg OD – continue"
+    },
+    {
+      "memory_id": "X0524-m07",
+      "date": "2025-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ‑9 score 5 (0‑4 mild, 5‑9 mild).\nTSH 2.3 mIU/L (0.4‑4.5).\nVitamin B12 190 pg/mL (200‑900) – low borderline."
+    },
+    {
+      "memory_id": "X0524-m08",
+      "date": "2025-10-20",
+      "type": "investigation",
+      "author": "D06",
+      "text": "MRI lumbar spine: mild posterior disc bulge at L4‑L5 causing slight nerve root compression; no significant stenosis. Correlation with left‑sided sciatica."
+    },
+    {
+      "memory_id": "X0524-m09",
+      "date": "2025-11-05",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to physiotherapy for core strengthening and lumbar stabilization exercises to address sciatica and improve functional mobility."
+    },
+    {
+      "memory_id": "X0524-m10",
+      "date": "2025-12-10",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Physiotherapy report: patient attended 8 sessions, reports 40 % reduction in leg pain, improved straight‑leg raise. Advised to continue home exercise program and follow‑up in 3 months."
+    },
+    {
+      "memory_id": "X0524-m11",
+      "date": "2026-02-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-15 at 10:00 with Dr Kulkarni (Geriatrics)."
+    },
+    {
+      "memory_id": "X0524-m12",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: walks 40 min daily, reports less leg pain after physio. cognition: Mini‑Cog 4/5 (still normal). falls: 0 in last 12 months, gait normal, TUG 8 sec. medicines: 6 regular (levocetirizine, cetirizine, pregabalin 100 mg BD, diclofenac, methylcobalamin, sertraline) – polypharmacy, Beers review due. mood: PHQ‑9 4, reports good sleep. carers: daughter Priya. goals: \"I want to stay pain‑free and continue my part‑time consulting work.\""
+    },
+    {
+      "memory_id": "X0524-m13",
+      "date": "2026-05-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg OD – continue\ncetirizine 10 mg HS – continue\npregabalin 100 mg BD – continue\ndiclofenac 50 mg BD after food – continue\nmethylcobalamin 1500 mcg OD – continue\nsertraline 50 mg OD – continue\nvitamin D3 1000 IU OD – add (for low B12 borderline)"
+    },
+    {
+      "memory_id": "X0524-m14",
+      "date": "2026-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.0 g/dL, WBC 6.5×10⁹/L, eosinophils 4 % (within normal).\nThyroid function: TSH 2.0 mIU/L, Free T4 1.1 ng/dL.\nVitamin B12 225 pg/mL (now normal after supplementation)."
+    }
+  ]
+}

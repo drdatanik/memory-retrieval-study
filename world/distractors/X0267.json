@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0267",
+  "name": "Lalitha Kamath",
+  "age": 30,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Hypothyroidism",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0267-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, not well controlled. Patient reports daytime cough twice weekly, nighttime awakenings once, occasional wheeze on exertion. Exam: mild expiratory wheeze bilaterally, normal spirometry shows FEV1 2.20 L (68% pred), FVC 2.80 L (85% pred), FEV1/FVC 0.79. Hypothyroidism stable on levothyroxine 50 mcg OD, TSH 4.2 mIU/L. ACT score 16."
+    },
+    {
+      "memory_id": "X0267-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol metered-dose inhaler 2 puffs SOS; Budesonide-formoterol 200/6 inhaler 2 puffs BD; Montelukast 10 mg HS; Levothyroxine 50 mcg OD."
+    },
+    {
+      "memory_id": "X0267-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (ref 0.4-4.0); Free T4 11.2 pmol/L (ref 9.0-19.0)."
+    },
+    {
+      "memory_id": "X0267-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray PA: lungs clear, no infiltrates, cardiac silhouette normal."
+    },
+    {
+      "memory_id": "X0267-m05",
+      "date": "2025-04-06",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-06-10 at 10:00 AM with Dr Suresh Menon."
+    },
+    {
+      "memory_id": "X0267-m06",
+      "date": "2025-04-10",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Allergy: Penicillin - rash and pruritus within 30 minutes of ingestion."
+    },
+    {
+      "memory_id": "X0267-m07",
+      "date": "2025-04-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'I’ve been using my salbutamol inhaler about 3-4 times a week, feels okay but I still get tight chest when climbing stairs.'"
+    },
+    {
+      "memory_id": "X0267-m08",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, partly controlled. Patient reports daytime symptoms 2-3 days/week, nighttime awakenings 0-1/week, uses SABA 3 times/week. Exam: occasional wheeze at bases. Spirometry: FEV1 2.45 L (76% pred, +0.25 L since last), FVC 2.95 L (90% pred), FEV1/FVC 0.83. ACT score 19 (borderline). Hypothyroidism: TSH 3.8 mIU/L."
+    },
+    {
+      "memory_id": "X0267-m09",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol metered-dose inhaler 2 puffs SOS; Budesonide-formoterol 200/6 inhaler 2 puffs BD; Montelukast 10 mg HS; Levothyroxine 75 mcg OD."
+    },
+    {
+      "memory_id": "X0267-m10",
+      "date": "2025-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 3.8 mIU/L (ref 0.4-4.0); Free T4 12.5 pmol/L (ref 9.0-19.0)."
+    },
+    {
+      "memory_id": "X0267-m11",
+      "date": "2025-06-10",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Endocrinology for optimisation of levothyroxine dosage and review of subclinical hypothyroidism."
+    },
+    {
+      "memory_id": "X0267-m12",
+      "date": "2025-07-15",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Endocrinology letter: Patient euthyroid on levothyroxine 75 mcg OD, TSH 3.6. Continue same dose, repeat TSH in 6 months."
+    },
+    {
+      "memory_id": "X0267-m13",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma, well controlled. Patient reports daytime symptoms ≤2 days/week, no night awakenings, SABA use ≤2 times/week. Exam: clear lungs. Spirometry: FEV1 2.70 L (84% pred, +0.25 L since last), FVC 3.10 L (95% pred), FEV1/FVC 0.87. ACT score 22. Hypothyroidism stable on levothyroxine 75 mcg OD."
+    },
+    {
+      "memory_id": "X0267-m14",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol metered-dose inhaler 2 puffs SOS; Budesonide-formoterol 200/6 inhaler 2 puffs BD; Montelukast 10 mg HS; Levothyroxine 75 mcg OD."
+    },
+    {
+      "memory_id": "X0267-m15",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 3.6 mIU/L (ref 0.4-4.0); Free T4 12.8 pmol/L (ref 9.0-19.0)."
+    }
+  ]
+}

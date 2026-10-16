@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0461",
+  "name": "Balasubramanian Sundaram",
+  "age": 63,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Epilepsy",
+    "Vitamin B12 deficiency",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0461-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of epilepsy, vitamin B12 deficiency and hypothyroidism.\nPRESENTING COMPLAINT: Patient reports no seizures in the past month, mild fatigue, no neck pain or heat intolerance.\nEXAMINATION: BP 128/78 mmHg, weight 72 kg, height 1.68 m, BMI 25.5 (obese). Cardiovascular and respiratory exams normal, no tremor, gait steady.\nIMPRESSION: Epilepsy well controlled on levetiracetam and lamotrigine. Vitamin B12 deficiency being replaced. Hypothyroidism stable; TSH to be checked. Advised weight reduction diet and daily walking.\nARRANGEMENTS: Order fasting lipid profile, fasting blood sugar, serum B12, MCV, Hb, TSH, free T4, serum Na, creatinine. Continue current meds. Influenza vaccine not due (spring). Return if: seizure activity, fever >39°C, chest pain, palpitations, severe fatigue, swelling of legs, or dark urine."
+    },
+    {
+      "memory_id": "X0461-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levetiracetam 500 mg twice daily\nLamotrigine 50 mg twice daily\nMethylcobalamin 1500 mcg once daily\nLevothyroxine 50 mcg once daily"
+    },
+    {
+      "memory_id": "X0461-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 210 pg/mL (ref 200‑900)\nMCV: 92 fL (ref 80‑100)\nHaemoglobin: 13.8 g/dL (ref 13.0‑17.0)\nTSH: 4.2 mIU/L (ref 0.4‑4.0)\nFree T4: 12.0 pmol/L (ref 9.0‑19.0)\nSerum sodium: 138 mmol/L (ref 135‑145)\nSerum creatinine: 0.9 mg/dL (ref 0.6‑1.2)"
+    },
+    {
+      "memory_id": "X0461-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 3‑month review of epilepsy, B12 deficiency and hypothyroidism.\nPRESENTING COMPLAINT: No seizure breakthrough, occasional mild tiredness, denies palpitations or heat intolerance.\nEXAMINATION: BP 130/80 mmHg, weight 71.5 kg, BMI 25.3 (obese). No goiter, normal cardiac rhythm, fine tremor absent.\nIMPRESSION: Seizure control satisfactory. B12 level low‑normal, continue replacement. TSH slightly elevated, indicating suboptimal thyroid replacement; increase levothyroxine. Advise continued calorie control and brisk walk 30 mins daily.\nARRANGEMENTS: Repeat TSH, free T4, B12, MCV, Hb, Na, creatinine. Increase levothyroxine to 75 mcg OD. Influenza vaccine not due. Return if: new seizures, worsening fatigue, weight gain, palpitations, heat intolerance, leg swelling, or urine changes."
+    },
+    {
+      "memory_id": "X0461-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levetiracetam 500 mg twice daily\nLamotrigine 50 mg twice daily\nMethylcobalamin 1500 mcg once daily\nLevothyroxine 75 mcg once daily"
+    },
+    {
+      "memory_id": "X0461-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 225 pg/mL\nMCV: 91 fL\nHaemoglobin: 13.9 g/dL\nTSH: 5.1 mIU/L\nFree T4: 11.8 pmol/L\nSerum sodium: 137 mmol/L\nSerum creatinine: 0.9 mg/dL"
+    },
+    {
+      "memory_id": "X0461-m07",
+      "date": "2025-10-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have felt a bit light‑headed when I stand up quickly, especially after my morning dose of levetiracetam. No loss of consciousness."
+    },
+    {
+      "memory_id": "X0461-m08",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of recent light‑headedness and ongoing chronic disease management.\nPRESENTING COMPLAINT: Patient describes episodic dizziness on standing, no syncope, denies chest pain or palpitations.\nEXAMINATION: BP 122/70 mmHg (standing), weight 71 kg, BMI 25.2 (obese). No orthostatic hypotension >20 mmHg drop, pulse regular.\nIMPRESSION: Mild orthostatic dizziness possibly related to levetiracetam; epilepsy otherwise controlled. B12 and thyroid labs pending. Advise adequate hydration, rise slowly, and monitor symptoms.\nARRANGEMENTS: Check serum sodium, creatinine, and consider lowering levetiracetam dose. Give influenza vaccine today (2025-10-20) as patient is >60 yr. Return if: dizziness worsens, fainting, seizure, fever >39°C, palpitations, chest pain, or swelling of ankles."
+    },
+    {
+      "memory_id": "X0461-m09",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levetiracetam 250 mg twice daily\nLamotrigine 50 mg twice daily\nMethylcobalamin 1500 mcg once daily\nLevothyroxine 75 mcg once daily"
+    },
+    {
+      "memory_id": "X0461-m10",
+      "date": "2026-01-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "EEG: Background activity normal, no epileptiform discharges. No evidence of focal abnormality."
+    },
+    {
+      "memory_id": "X0461-m11",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 240 pg/mL\nMCV: 90 fL\nHaemoglobin: 14.0 g/dL\nTSH: 3.8 mIU/L\nFree T4: 12.5 pmol/L\nSerum sodium: 138 mmol/L\nSerum creatinine: 0.9 mg/dL"
+    },
+    {
+      "memory_id": "X0461-m12",
+      "date": "2026-04-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review of epilepsy, B12 deficiency, hypothyroidism and preventive care.\nPRESENTING COMPLAINT: No seizures, dizziness resolved, feels well, no cold intolerance.\nEXAMINATION: BP 126/78 mmHg, weight 70.5 kg, BMI 25.0 (obese). No thyroid enlargement, normal heart sounds.\nIMPRESSION: Epilepsy stable on reduced levetiracetam. B12 now within low‑normal range, continue replacement. TSH within target on levothyroxine 75 mcg. Order fasting lipid profile and fasting blood sugar as per annual schedule. Advise maintain weight, regular exercise.\nARRANGEMENTS: Order fasting lipids and FBS. Continue current meds. Influenza vaccine status: given 2025-10-20 (autumn). Return if: seizure, new neurological symptoms, unexplained weight change, palpitations, chest pain, breathlessness, or leg swelling."
+    },
+    {
+      "memory_id": "X0461-m13",
+      "date": "2026-04-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levetiracetam 250 mg twice daily\nLamotrigine 50 mg twice daily\nMethylcobalamin 1500 mcg once daily\nLevothyroxine 75 mcg once daily"
+    },
+    {
+      "memory_id": "X0461-m14",
+      "date": "2026-04-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up visit for 2026-04-10 at 10:00 am with Dr Priya Natarajan (D03) for review of lipid and FBS results."
+    },
+    {
+      "memory_id": "X0461-m15",
+      "date": "2026-08-30",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of lipid and FBS results and ongoing chronic disease management.\nPRESENTING COMPLAINT: Patient reports feeling good, no seizures, no dizziness, denies chest pain or breathlessness.\nEXAMINATION: BP 124/76 mmHg, weight 70 kg, BMI 24.8 (overweight). No thyroid enlargement, normal cardiovascular exam.\nIMPRESSION: Lipids: total cholesterol 4.8 mmol/L (ref <5.2), LDL 2.9 mmol/L (ref <2.6) – slightly elevated, HDL 1.2 mmol/L (ref >1.0). FBS 5.6 mmol/L (ref 3.9‑5.5) – mildly elevated. Continue lifestyle advice, consider statin if LDL persists >2.6 after 3 months. Epilepsy, B12, thyroid stable.\nARRANGEMENTS: Repeat lipid profile and FBS in 3 months. Reinforce diet low in saturated fats, increase physical activity. Influenza vaccine not due (summer). Return if: chest pain, palpitations, breathlessness, seizure activity, unexplained weight loss/gain, or leg edema."
+    }
+  ]
+}

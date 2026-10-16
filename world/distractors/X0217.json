@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0217",
+  "name": "Sherly Pereira",
+  "age": 78,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Atrial fibrillation"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0217-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine follow‑up for atrial fibrillation.\n\nPRESENTING COMPLAINT: The patient reports feeling well, no palpitations or dizziness since last visit.\n\nEXAMINATION: Blood pressure 138/82 mmHg, pulse 78 bpm regular, weight 58 kg, height 1.55 m, BMI 24.1 (overweight). Cardiovascular exam shows regular rhythm, no murmurs. Lungs clear.\n\nIMPRESSION: Stable atrial fibrillation on apixaban, bisoprolol and warfarin. INR within target 2–3. No new symptoms.\n\nARRANGEMENTS: Continue current medications. Advise low‑salt diet, regular walking 30 min daily. Return if chest pain, sudden breathlessness, fever >39 °C, or blood in stools."
+    },
+    {
+      "memory_id": "X0217-m02",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Apixaban 5 mg BD; Bisoprolol 2.5 mg OD; Warfarin 3 mg OD (INR target 2–3). Continue 6 months."
+    },
+    {
+      "memory_id": "X0217-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.4 (therapeutic 2–3). Serum creatinine 0.9 mg/dL (0.6–1.2). TSH 2.1 mIU/L (0.4–4.5). Hemoglobin 13.2 g/dL (12–16). WBC 6.8×10⁹/L (4–10). Platelets 210×10⁹/L (150–400)."
+    },
+    {
+      "memory_id": "X0217-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of slightly elevated INR and medication tolerance.\n\nPRESENTING COMPLAINT: Patient notes occasional mild bruising, no bleeding episodes.\n\nEXAMINATION: Blood pressure 142/86 mmHg, pulse 80 bpm regular, weight 57 kg, height 1.55 m, BMI 23.8 (overweight). Cardiovascular exam regular rhythm, no murmurs. Skin shows mild ecchymosis on forearms.\n\nIMPRESSION: Atrial fibrillation with supratherapeutic INR likely due to warfarin sensitivity. No anemia.\n\nARRANGEMENTS: Reduce warfarin to 2 mg OD, re‑check INR in 5 days. Continue apixaban and bisoprolol. Advise to avoid NSAIDs and report any bruising or bleeding. Return if chest pain, sudden breathlessness, fever >39 °C, or blood in stools."
+    },
+    {
+      "memory_id": "X0217-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Apixaban 5 mg BD; Bisoprolol 2.5 mg OD; Warfarin 2 mg OD (INR target 2–3). Continue 6 months."
+    },
+    {
+      "memory_id": "X0217-m06",
+      "date": "2025-09-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked influenza vaccination appointment for 2025-10-01 at 10:00 am with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0217-m07",
+      "date": "2025-10-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual influenza vaccine visit and routine atrial fibrillation review.\n\nPRESENTING COMPLAINT: Patient presents for flu vaccine; feels well, no cardiac symptoms.\n\nEXAMINATION: Blood pressure 139/84 mmHg, pulse 78 bpm regular, weight 57 kg, height 1.55 m, BMI 23.8 (overweight). Cardiovascular regular rhythm, lungs clear.\n\nIMPRESSION: Stable atrial fibrillation on apixaban, bisoprolol, warfarin (INR 2.2). Influenza vaccine indicated due to age >60 and chronic illness.\n\nARRANGEMENTS: Administered inactivated influenza vaccine (0.5 mL IM) today. Continue current meds. Advise diet low in salt, walk 30 min daily. Return if chest pain, sudden breathlessness, fever >39 °C, or blood in stools."
+    },
+    {
+      "memory_id": "X0217-m08",
+      "date": "2025-12-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 4.8 mmol/L (<5.2), LDL 2.9 mmol/L (<2.6 borderline high), HDL 1.3 mmol/L (>1.0), Triglycerides 1.6 mmol/L (<1.7). Fasting glucose 5.6 mmol/L (3.9–5.5 borderline). Serum creatinine 0.9 mg/dL (0.6–1.2). TSH 2.0 mIU/L (0.4–4.5)."
+    },
+    {
+      "memory_id": "X0217-m09",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of annual lipid and glucose results; discuss cardiovascular risk.\n\nPRESENTING COMPLAINT: Patient asks about cholesterol numbers; denies chest pain or dyspnea.\n\nEXAMINATION: Blood pressure 140/85 mmHg, pulse 79 bpm regular, weight 56 kg, height 1.55 m, BMI 23.3 (overweight). Cardiovascular regular rhythm, lungs clear.\n\nIMPRESSION: Atrial fibrillation stable. LDL mildly elevated, fasting glucose at upper limit of normal. Continue anticoagulation and rate control.\n\nARRANGEMENTS: Increase bisoprolol to 5 mg OD for better rate control and possible BP benefit. Continue apixaban and warfarin (dose unchanged). Advise Mediterranean diet, reduce refined carbs, walk 30‑45 min daily. Return if chest pain, sudden breathlessness, fever >39 °C, or blood in stools."
+    },
+    {
+      "memory_id": "X0217-m10",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Apixaban 5 mg BD; Bisoprolol 5 mg OD; Warfarin 3 mg OD (INR target 2–3). Continue 6 months."
+    },
+    {
+      "memory_id": "X0217-m11",
+      "date": "2026-03-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Resting ECG shows atrial fibrillation with ventricular rate 78 bpm, no ST‑segment changes, left atrial enlargement noted. No acute ischemic changes."
+    },
+    {
+      "memory_id": "X0217-m12",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Post‑ECG review and medication check.\n\nPRESENTING COMPLAINT: Patient feels well, no palpitations or syncope.\n\nEXAMINATION: Blood pressure 138/82 mmHg, pulse 78 bpm regular, weight 55 kg, height 1.55 m, BMI 22.9 (normal range). Cardiovascular regular rhythm, lungs clear.\n\nIMPRESSION: Atrial fibrillation controlled on apixaban, bisoprolol 5 mg, warfarin INR 2.3. ECG shows chronic atrial fibrillation changes only.\n\nARRANGEMENTS: Continue current meds. Maintain weight, low‑salt diet, aerobic activity 30 min most days. Return if chest pain, sudden breathlessness, fever >39 °C, or blood in stools."
+    },
+    {
+      "memory_id": "X0217-m13",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Apixaban 5 mg BD; Bisoprolol 5 mg OD; Warfarin 3 mg OD (INR target 2–3). Continue 6 months."
+    },
+    {
+      "memory_id": "X0217-m14",
+      "date": "2026-06-30",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to cardiology for opinion on atrial fibrillation management and possible anticoagulation optimisation. Include recent ECG, INR logs, and medication list."
+    },
+    {
+      "memory_id": "X0217-m15",
+      "date": "2026-08-15",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Cardiology outpatient note: Confirms chronic atrial fibrillation, rate‑controlled on bisoprolol 5 mg. Recommends continuing apixaban 5 mg BD (prefer DOAC) and consider warfarin cessation if INR stable; suggests monitoring renal function. No need for ablation at present."
+    },
+    {
+      "memory_id": "X0217-m16",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual review including influenza vaccine status and cardiovascular risk.\n\nPRESENTING COMPLAINT: Patient reports good health, no cardiac symptoms, received flu vaccine last autumn.\n\nEXAMINATION: Blood pressure 140/88 mmHg, pulse 80 bpm regular, weight 55 kg, height 1.55 m, BMI 22.9 (normal). Cardiovascular regular rhythm, lungs clear.\n\nIMPRESSION: Atrial fibrillation stable on apixaban 5 mg BD, bisoprolol 5 mg OD, warfarin 3 mg OD (INR 2.4). Influenza vaccine given 2025-10-01. Lipids and glucose within acceptable limits.\n\nARRANGEMENTS: Continue current medications. Encourage salt restriction, regular walking, annual lipid and glucose check. Return if chest pain, sudden breathlessness, fever >39 °C, or blood in stools."
+    }
+  ]
+}

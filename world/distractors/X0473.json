@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0473",
+  "name": "Selvi Ramasamy",
+  "age": 33,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0473-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: new onset generalized anxiety.\nPRESENTING COMPLAINT: Reports excessive worry, restlessness, difficulty sleeping for 2 months.\nEXAMINATION: BP 128/82 mmHg, weight 68 kg, height 1.58 m, BMI 27.2 (obese). Pulse regular, no tremor, mental status alert.\nIMPRESSION: Generalised anxiety disorder. Plan to start escitalopram 5 mg OD and buspirone 5 mg BD. Order TSH and haemoglobin to rule out thyroid or anaemia contributors.\nARRANGEMENTS: Prescription given today. Lab requisition for TSH and Hb. Advise regular aerobic activity 30 min daily and balanced diet low in refined sugars. Influenza vaccine not due (season outside). Return if: worsening anxiety, panic attacks, suicidal thoughts, chest pain, breathlessness, fever >39°C."
+    },
+    {
+      "memory_id": "X0473-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 5 mg OD\nBuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0473-m03",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0)\nHaemoglobin 13.2 g/dL (12.0-15.5)"
+    },
+    {
+      "memory_id": "X0473-m04",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow-up on anxiety treatment.\nPRESENTING COMPLAINT: Persistent worry, mild improvement in sleep.\nEXAMINATION: BP 130/84 mmHg, weight 67.5 kg, height 1.58 m, BMI 27.0 (obese). No focal neurological deficits.\nIMPRESSION: Partial response to current regimen. Increase escitalopram to 10 mg OD to achieve better symptom control. Continue buspirone 5 mg BD.\nARRANGEMENTS: Prescription updated. Repeat TSH and Hb in 3 months. Advise continue daily walk and reduce caffeine. Influenza vaccine not due. Return if: worsening anxiety, agitation, suicidal ideation, chest pain, breathlessness, fever >39°C."
+    },
+    {
+      "memory_id": "X0473-m05",
+      "date": "2025-07-22",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg OD\nBuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0473-m06",
+      "date": "2025-07-25",
+      "type": "investigation",
+      "author": "D03",
+      "text": "GAD-7 score 12 (moderate anxiety). Baseline score at presentation was 15."
+    },
+    {
+      "memory_id": "X0473-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine review and autumn influenza vaccination.\nPRESENTING COMPLAINT: Anxiety markedly improved, occasional worry only.\nEXAMINATION: BP 128/80 mmHg, weight 67 kg, height 1.58 m, BMI 26.8 (obese). Lungs clear, heart regular.\nIMPRESSION: Good response to escitalopram 10 mg OD and buspirone 5 mg BD. Continue current doses.\nARRANGEMENTS: Influenza vaccine administered today (0.5 mL IM). Labs: TSH and Hb repeated. Advise maintain regular exercise and balanced diet. Return if: worsening anxiety, panic attacks, suicidal thoughts, chest pain, breathlessness, fever >39°C."
+    },
+    {
+      "memory_id": "X0473-m08",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg OD\nBuspirone stopped"
+    },
+    {
+      "memory_id": "X0473-m09",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4-4.0)\nHaemoglobin 13.0 g/dL (12.0-15.5)"
+    },
+    {
+      "memory_id": "X0473-m10",
+      "date": "2026-01-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: return of anxiety symptoms after stopping buspirone.\nPRESENTING COMPLAINT: Increased worry, irritability, mild insomnia over past 3 weeks.\nEXAMINATION: BP 132/86 mmHg, weight 68 kg, height 1.58 m, BMI 27.2 (obese). No acute distress.\nIMPRESSION: Generalised anxiety disorder relapse likely due to buspirone discontinuation. Restart buspirone 5 mg BD while maintaining escitalopram 10 mg OD.\nARRANGEMENTS: Prescription updated. Repeat TSH and Hb in 6 weeks. Advise stress‑reduction techniques and regular aerobic activity. Influenza vaccine not due. Return if: worsening anxiety, agitation, suicidal thoughts, chest pain, breathlessness, fever >39°C."
+    },
+    {
+      "memory_id": "X0473-m11",
+      "date": "2026-01-14",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg OD\nBuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0473-m12",
+      "date": "2026-01-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-04-05 at 10:00 AM with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0473-m13",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: scheduled follow‑up.\nPRESENTING COMPLAINT: Anxiety well controlled, reports feeling calm and sleeping well.\nEXAMINATION: BP 128/80 mmHg, weight 67.5 kg, height 1.58 m, BMI 27.0 (obese). No tremor, affect appropriate.\nIMPRESSION: Stable on escitalopram 10 mg OD and buspirone 5 mg BD. Continue same regimen.\nARRANGEMENTS: Repeat TSH and Hb today. Advise maintain exercise routine and balanced diet. Influenza vaccine not due (outside season). Return if: worsening anxiety, panic attacks, suicidal thoughts, chest pain, breathlessness, fever >39°C."
+    },
+    {
+      "memory_id": "X0473-m14",
+      "date": "2026-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4-4.0)\nHaemoglobin 13.1 g/dL (12.0-15.5)\nFasting lipid profile: Cholesterol 4.8 mmol/L (<5.2), HDL 1.4 mmol/L (>1.0), LDL 2.6 mmol/L (<3.0), Triglycerides 1.2 mmol/L (<1.7)"
+    },
+    {
+      "memory_id": "X0473-m15",
+      "date": "2026-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review and autumn influenza vaccination.\nPRESENTING COMPLAINT: Anxiety remains mild, no functional impairment.\nEXAMINATION: BP 126/78 mmHg, weight 66 kg, height 1.58 m, BMI 26.4 (obese). Lungs clear, heart regular.\nIMPRESSION: Generalised anxiety disorder well controlled on escitalopram 10 mg OD and buspirone 5 mg BD. Continue medication.\nARRANGEMENTS: Influenza vaccine administered today (0.5 mL IM). Labs: TSH and Hb checked, results normal. Advise continue regular physical activity and healthy diet. Return if: worsening anxiety, agitation, suicidal thoughts, chest pain, breathlessness, fever >39°C."
+    }
+  ]
+}

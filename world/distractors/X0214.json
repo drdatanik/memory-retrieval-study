@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0214",
+  "name": "Bhagyalakshmi Gorantla",
+  "age": 84,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Vitamin D deficiency",
+    "Hypothyroidism",
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0214-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin D deficiency\n- Status: On cholecalciferol 60000 IU once weekly for 8 weeks; symptomatic fatigue mild.\n- Plan: Continue loading for 8 weeks, then switch to maintenance 1000 IU OD; recheck 25‑OH‑D in 3 months.\nHypothyroidism\n- Status: Levothyroxine 50 mcg OD; TSH pending.\n- Plan: Keep dose; repeat TSH 6‑8 weeks after any change.\nGeneralised anxiety disorder\n- Status: Escitalopram 5 mg OD, buspirone 5 mg BD; GAD‑7 to be done.\n- Plan: Continue current regimen; monitor side effects.\nWeight 62 kg, waist 84 cm (female cut‑off 80 cm – slightly increased).\nDiet advice\n- Breakfast: Whole grain toast with egg, avoid sugary cereals.\n- Lunch: Dal, rice, vegetable curry, limit fried items.\n- Dinner: Light soup, salad, early dinner by 7 pm.\nDue: HbA1c not applicable – next due -"
+    },
+    {
+      "memory_id": "X0214-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "cholecalciferol 60000 IU once weekly for 8 weeks\nlevothyroxine 50 mcg OD 1-0-0 after food\nescitalopram 5 mg OD 1-0-0 after food\nbuspirone 5 mg BD 1-0-1 after food"
+    },
+    {
+      "memory_id": "X0214-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 14 ng/mL (ref 20‑50)\nSerum calcium: 9.2 mg/dL (ref 8.6‑10.3)\nSerum phosphate: 2.8 mg/dL (ref 2.5‑4.5)\nTSH: 5.8 mIU/L (ref 0.4‑4.5)\nFree T4: 11.2 pmol/L (ref 9.0‑17.0)\nGAD‑7 score: 9 (mild anxiety)\nHemoglobin: 12.4 g/dL (ref 12.0‑15.5)"
+    },
+    {
+      "memory_id": "X0214-m04",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "cholecalciferol 1000 IU OD 1-0-0 after food (maintenance)\nlevothyroxine 50 mcg OD 1-0-0 after food\nescitalopram 5 mg OD 1-0-0 after food\nbuspirone 5 mg BD 1-0-1 after food"
+    },
+    {
+      "memory_id": "X0214-m05",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin D deficiency\n- Status: Completed loading; now on cholecalciferol 1000 IU OD; 25‑OH‑D pending.\n- Plan: Continue maintenance; recheck level in 3 months.\nHypothyroidism\n- Status: Levothyroxine 50 mcg OD; TSH still elevated.\n- Plan: Increase levothyroxine to 75 mcg OD; repeat TSH in 6‑8 weeks.\nGeneralised anxiety disorder\n- Status: Escitalopram 5 mg OD, buspirone 5 mg BD; GAD‑7 9.\n- Plan: Continue meds; consider CBT referral if symptoms persist.\nWeight 61.8 kg, waist 83 cm (still >80 cm).\nDiet advice\n- Breakfast: Oats with milk, nuts, no added sugar.\n- Lunch: Chapati, lentil soup, steamed veg, limit oil.\n- Dinner: Grilled fish or paneer, salad, early by 7 pm.\nDue: HbA1c not applicable – next due -"
+    },
+    {
+      "memory_id": "X0214-m06",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levothyroxine 75 mcg OD 1-0-0 after food\ncholecalciferol 1000 IU OD 1-0-0 after food\nescitalopram 5 mg OD 1-0-0 after food\nbuspirone 5 mg BD 1-0-1 after food"
+    },
+    {
+      "memory_id": "X0214-m07",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 4.2 mIU/L (ref 0.4‑4.5) – improved\nFree T4: 12.5 pmol/L (ref 9.0‑17.0)\nSerum 25‑hydroxyvitamin D: 28 ng/mL (ref 20‑50)\nSerum calcium: 9.4 mg/dL (ref 8.6‑10.3)\nSerum phosphate: 3.0 mg/dL (ref 2.5‑4.5)\nGAD‑7 score: 7 (mild)\nHemoglobin: 12.6 g/dL (ref 12.0‑15.5)"
+    },
+    {
+      "memory_id": "X0214-m08",
+      "date": "2025-08-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin D deficiency\n- Status: 25‑OH‑D 28 ng/mL, sufficient; on cholecalciferol 1000 IU OD.\n- Plan: Continue maintenance; recheck in 6 months.\nHypothyroidism\n- Status: Levothyroxine 75 mcg OD; TSH now within target.\n- Plan: Keep dose; repeat TSH in 6 months (annual).\nGeneralised anxiety disorder\n- Status: Escitalopram 5 mg OD, buspirone 5 mg BD; GAD‑7 7.\n- Plan: Continue meds; reinforce relaxation techniques.\nWeight 61.5 kg, waist 82 cm (still >80 cm).\nDiet advice\n- Breakfast: Idli with sambar, avoid chutney with excess oil.\n- Lunch: Brown rice, dal, vegetable stir‑fry, limit fried.\n- Dinner: Soup, salad, early dinner.\nDue: HbA1c not applicable – next due -"
+    },
+    {
+      "memory_id": "X0214-m09",
+      "date": "2025-08-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levothyroxine 75 mcg OD 1-0-0 after food\ncholecalciferol 1000 IU OD 1-0-0 after food\nescitalopram 5 mg OD 1-0-0 after food\nbuspirone 5 mg BD 1-0-1 after food"
+    },
+    {
+      "memory_id": "X0214-m10",
+      "date": "2026-02-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-01 10:30 AM with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0214-m11",
+      "date": "2026-04-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin D deficiency\n- Status: On cholecalciferol 1000 IU OD; last 25‑OH‑D 28 ng/mL (sufficient).\n- Plan: Continue maintenance; recheck in 12 months.\nHypothyroidism\n- Status: Levothyroxine 75 mcg OD; TSH 4.0 mIU/L (target).\n- Plan: Keep dose; repeat TSH in 12 months.\nGeneralised anxiety disorder\n- Status: Escitalopram 5 mg OD, buspirone 5 mg BD; GAD‑7 6.\n- Plan: Continue meds; encourage mindfulness.\nWeight 61.2 kg, waist 81 cm (just above cut‑off).\nDiet advice\n- Breakfast: Vegetable upma, limited oil.\n- Lunch: Quinoa, lentil curry, steamed greens.\n- Dinner: Light khichdi, salad, early by 7 pm.\nDue: HbA1c not applicable – next due -"
+    },
+    {
+      "memory_id": "X0214-m12",
+      "date": "2026-04-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 4.0 mIU/L (ref 0.4‑4.5)\nFree T4: 12.8 pmol/L (ref 9.0‑17.0)\nSerum 25‑hydroxyvitamin D: 30 ng/mL (ref 20‑50)\nSerum calcium: 9.5 mg/dL (ref 8.6‑10.3)\nSerum phosphate: 3.1 mg/dL (ref 2.5‑4.5)\nGAD‑7 score: 6 (mild)\nHemoglobin: 12.5 g/dL (ref 12.0‑15.5)\nLipid profile: Total cholesterol 180 mg/dL (<200), HDL 48 mg/dL (>40), LDL 100 mg/dL (<130), Triglycerides 130 mg/dL (<150)"
+    }
+  ]
+}

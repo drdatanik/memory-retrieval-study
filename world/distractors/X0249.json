@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0249",
+  "name": "Kamala Kannan",
+  "age": 85,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0249-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "85‑year‑old woman presents with chronic insomnia.\nPRESENTING COMPLAINT: She reports difficulty falling asleep, frequent night awakenings and non‑restorative sleep for the past 6 months, affecting her daytime alertness while driving.\nEXAMINATION: BP 138/84 mmHg, weight 58 kg, height 1.55 m, BMI 24.1 (overweight). Cardiovascular and respiratory exams are normal; no focal neurological deficits.\nIMPRESSION: Chronic insomnia, likely exacerbated by age‑related changes. TSH, haemoglobin, fasting lipid profile and fasting blood sugar are ordered to rule out contributory medical causes.\nARRANGEMENTS: Start melatonin 3 mg at bedtime and trazodone 50 mg at bedtime. Advise weight‑appropriate diet and regular light activity as BMI ≥23. Return if chest pain, breathlessness, fever >39 °C, or worsening confusion."
+    },
+    {
+      "memory_id": "X0249-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0249-m03",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.0)\nHaemoglobin 12.8 g/dL (12.0‑15.5)\nFasting lipid profile: Total cholesterol 5.2 mmol/L (<5.2), LDL 3.0 mmol/L (<2.6 borderline), HDL 1.2 mmol/L (>1.0), Triglycerides 1.4 mmol/L (<1.7)\nFasting blood sugar 5.6 mmol/L (3.9‑5.5) – slightly elevated"
+    },
+    {
+      "memory_id": "X0249-m04",
+      "date": "2025-04-22",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Insomnia Severity Index score: 18 (moderate insomnia). I still feel tired in the mornings and sometimes worry about driving while drowsy."
+    },
+    {
+      "memory_id": "X0249-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up for insomnia after medication change.\nPRESENTING COMPLAINT: Patient reports improved sleep onset but still wakes 2‑3 times per night; daytime fatigue less severe.\nEXAMINATION: BP 136/82 mmHg, weight 59 kg, BMI 24.5 (overweight). No new cardiac or pulmonary findings.\nIMPRESSION: Partial response to trazodone 50 mg HS; consider dose adjustment. Labs from April show normal TSH and Hb, fasting glucose mildly high but stable, lipids within target.\nARRANGEMENTS: Increase trazodone to 75 mg HS, continue melatonin 3 mg HS. Reinforce diet and activity advice due to BMI ≥23. Return if new palpitations, severe dizziness, falls, or worsening mood."
+    },
+    {
+      "memory_id": "X0249-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 75 mg HS"
+    },
+    {
+      "memory_id": "X0249-m07",
+      "date": "2025-07-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4‑4.0)\nHaemoglobin 13.0 g/dL (12.0‑15.5)"
+    },
+    {
+      "memory_id": "X0249-m08",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of insomnia treatment and side effects.\nPRESENTING COMPLAINT: Patient notes morning grogginess and mild dizziness after taking trazodone 75 mg HS; sleep maintenance still imperfect.\nEXAMINATION: BP 134/80 mmHg, weight 60 kg, BMI 25.0 (obese). No postural hypotension detected.\nIMPRESSION: Trazodone likely contributing to daytime sedation; Hb and TSH remain normal. Obesity warrants lifestyle reinforcement.\nARRANGEMENTS: Reduce trazodone to 50 mg HS, keep melatonin 3 mg HS. Advise reduced calorie intake and regular walking as BMI ≥23. Return if fainting, chest pain, shortness of breath, or confusion."
+    },
+    {
+      "memory_id": "X0249-m09",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0249-m10",
+      "date": "2025-10-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-01-10 at 09:30 with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0249-m11",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine review of insomnia and cardiovascular risk.\nPRESENTING COMPLAINT: Patient reports satisfactory sleep with occasional night awakenings; no daytime sedation.\nEXAMINATION: BP 132/78 mmHg, weight 59.5 kg, BMI 24.8 (overweight). Cardiovascular exam normal.\nIMPRESSION: Insomnia well‑controlled on melatonin 3 mg HS and trazodone 50 mg HS. TSH, haemoglobin, fasting lipid profile and fasting blood sugar are within target ranges; influenza vaccine offered due to age >60.\nARRANGEMENTS: Continue current regimen. Give inactivated influenza vaccine today (0.5 mL IM). Reinforce diet and activity advice as BMI ≥23. Return if fever >39 °C, new chest pain, palpitations, or unexplained bleeding."
+    },
+    {
+      "memory_id": "X0249-m12",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0249-m13",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4‑4.0)\nHaemoglobin 12.9 g/dL (12.0‑15.5)\nFasting lipid profile: Total cholesterol 5.0 mmol/L (<5.2), LDL 2.8 mmol/L (<2.6 borderline), HDL 1.3 mmol/L (>1.0), Triglycerides 1.3 mmol/L (<1.7)\nFasting blood sugar 5.4 mmol/L (3.9‑5.5) – within normal"
+    },
+    {
+      "memory_id": "X0249-m14",
+      "date": "2026-07-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Mid‑year check‑up for insomnia and general health.\nPRESENTING COMPLAINT: Patient describes occasional early‑morning awakening (≈3 am) but feels rested; no medication side effects.\nEXAMINATION: BP 130/76 mmHg, weight 59 kg, BMI 24.5 (overweight). No abnormal findings.\nIMPRESSION: Insomnia stable; labs from April show normal thyroid, haemoglobin, lipids and glucose. Continue current sleep regimen.\nARRANGEMENTS: No medication change. Advise maintain weight‑appropriate diet and regular activity as BMI ≥23. Return if new chest pain, severe dyspnoea, fever >39 °C, or sudden confusion."
+    }
+  ]
+}

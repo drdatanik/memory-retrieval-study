@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0583",
+  "name": "Selvam Ramasamy",
+  "age": 71,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0583-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Dyslipidaemia. Asymptomatic, BMI 27, BP 128/82, cardiovascular exam normal. Plans: fasting lipid profile, LFT, CK; start atorvastatin 10 mg HS; lifestyle advice."
+    },
+    {
+      "memory_id": "X0583-m02",
+      "date": "2025-04-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Atorvastatin 10 mg HS"
+    },
+    {
+      "memory_id": "X0583-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 3.8 mmol/L (ref <2.6), HDL 1.2 mmol/L (ref >1.0), TG 2.2 mmol/L (ref <1.7). LFT: ALT 22 U/L (ref 7-56), AST 20 U/L (ref 10-40). CK 210 U/L (ref 30-200)."
+    },
+    {
+      "memory_id": "X0583-m04",
+      "date": "2025-05-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have felt mild muscle soreness in my thighs after climbing stairs, not painful, no dark urine."
+    },
+    {
+      "memory_id": "X0583-m05",
+      "date": "2025-06-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Dyslipidaemia, stable. Muscle discomfort noted, CK mildly elevated on prior labs. Exam: no muscle tenderness, power normal. Plan: repeat lipids, LFT, CK; continue atorvastatin, advise hydration."
+    },
+    {
+      "memory_id": "X0583-m06",
+      "date": "2025-06-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Atorvastatin 10 mg HS"
+    },
+    {
+      "memory_id": "X0583-m07",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 2.9 mmol/L, HDL 1.3 mmol/L, TG 1.8 mmol/L. LFT: ALT 24 U/L, AST 21 U/L. CK 340 U/L (ref 30-200)."
+    },
+    {
+      "memory_id": "X0583-m08",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Dyslipidaemia. CK risen to 340 U/L, patient reports ongoing thigh discomfort. Exam: no weakness. Assessment: statin-associated myalgia likely. Plan: stop atorvastatin, start rosuvastatin 10 mg OD, recheck CK in 4 weeks."
+    },
+    {
+      "memory_id": "X0583-m09",
+      "date": "2025-07-21",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Atorvastatin stopped. Rosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0583-m10",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 2.2 mmol/L, HDL 1.4 mmol/L, TG 1.5 mmol/L. LFT: ALT 20 U/L, AST 19 U/L. CK 180 U/L (ref 30-200)."
+    },
+    {
+      "memory_id": "X0583-m11",
+      "date": "2025-09-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Dyslipidaemia. Lipids improved, CK normal, no muscle symptoms. Exam normal. Plan: consider adding fenofibrate if TG remains >1.7; continue rosuvastatin, repeat lipids in 3 months."
+    },
+    {
+      "memory_id": "X0583-m12",
+      "date": "2025-09-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Rosuvastatin 10 mg OD. Fenofibrate 145 mg OD added."
+    },
+    {
+      "memory_id": "X0583-m13",
+      "date": "2026-02-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-12-01 at 10:00 with Dr Suresh Menon (D05) for lipid review."
+    }
+  ]
+}

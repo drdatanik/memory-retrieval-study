@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0519",
+  "name": "Sindhu Namboodiri",
+  "age": 26,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0519-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome and subclinical hypothyroidism.\nPatient reports intermittent abdominal bloating, alternating constipation and diarrhoea for 6 months, mild fatigue, weight stable. Abdomen soft, mild tenderness in left lower quadrant, no masses. Vital signs normal. Smoking status: never. No inhaler prescribed. Technique not applicable."
+    },
+    {
+      "memory_id": "X0519-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 50 mcg oral daily\nMebeverine 135 mg oral twice daily\nIspaghula husk 5 g oral once daily\nLoperamide 2 mg oral as needed for diarrhea"
+    },
+    {
+      "memory_id": "X0519-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (0.4-4.0) – slightly high\nFree T4 11.2 pmol/L (10-22) – normal\nHb 13.4 g/dL (12-16)\nWBC 6.8 x10^9/L (4-10)\nPlatelets 210 x10^9/L (150-400)\nStool routine: ova and cysts negative, no occult blood\ntTG-IgA < 2 U/mL (<7) – negative"
+    },
+    {
+      "memory_id": "X0519-m04",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking the medicines as prescribed. Bloating is better but I still get loose stools after spicy food. Energy levels are okay, no new symptoms."
+    },
+    {
+      "memory_id": "X0519-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome stable; hypothyroidism improving.\nPatient reports reduced bloating, occasional diarrhoea after meals, less fatigue. Exam: abdomen non-tender, no organomegaly. Smoking status: never. No inhaler prescribed. Technique not applicable."
+    },
+    {
+      "memory_id": "X0519-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 75 mcg oral daily\nMebeverine 135 mg oral twice daily\nIspaghula husk 5 g oral once daily\nLoperamide 2 mg oral as needed for diarrhea"
+    },
+    {
+      "memory_id": "X0519-m07",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.8 mIU/L (0.4-4.0) – normal\nFree T4 12.5 pmol/L (10-22) – normal"
+    },
+    {
+      "memory_id": "X0519-m08",
+      "date": "2025-07-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-10-05 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0519-m09",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome persistent; euthyroid on levothyroxine 75 mcg.\nPatient reports ongoing post‑prandial diarrhoea, occasional constipation, mild abdominal discomfort. Exam: benign. Smoking status: never. No inhaler prescribed. Technique not applicable."
+    },
+    {
+      "memory_id": "X0519-m10",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 100 mcg oral daily\nMebeverine 135 mg oral twice daily\nIspaghula husk 5 g oral once daily\nLoperamide 2 mg oral as needed for diarrhea"
+    },
+    {
+      "memory_id": "X0519-m11",
+      "date": "2025-10-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4-4.0) – normal\nFree T4 13.0 pmol/L (10-22) – normal\nHb 13.6 g/dL (12-16)\nWBC 7.0 x10^9/L (4-10)\nPlatelets 205 x10^9/L (150-400)"
+    },
+    {
+      "memory_id": "X0519-m12",
+      "date": "2025-10-10",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Dr K. Rao, Gastroenterology, Vikram Hospital for evaluation of refractory IBS symptoms, including possible dietary triggers and need for colonoscopy."
+    },
+    {
+      "memory_id": "X0519-m13",
+      "date": "2025-11-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Gastroenterologist reviewed: symptoms consistent with IBS‑D. Recommended low‑FODMAP trial, rifaximin 550 mg TID for 14 days if bloating persists. Colonoscopy normal. Advised continue current symptomatic meds."
+    },
+    {
+      "memory_id": "X0519-m14",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Irritable bowel syndrome partially controlled; euthyroid.\nPatient tried low‑FODMAP for 4 weeks with modest improvement; reports occasional urgency. Abdomen soft, no tenderness. Smoking status: never. No inhaler prescribed. Technique not applicable."
+    },
+    {
+      "memory_id": "X0519-m15",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levothyroxine 100 mcg oral daily\nMebeverine 135 mg oral twice daily\nIspaghula husk 5 g oral once daily\nLoperamide 2 mg oral as needed for diarrhea"
+    },
+    {
+      "memory_id": "X0519-m16",
+      "date": "2026-01-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0) – normal\nFree T4 12.8 pmol/L (10-22) – normal"
+    },
+    {
+      "memory_id": "X0519-m17",
+      "date": "2026-06-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "ECG: sinus rhythm 78 bpm, no ST‑T changes, normal intervals. No evidence of ischemia or hypertrophy."
+    },
+    {
+      "memory_id": "X0519-m18",
+      "date": "2026-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Next routine review booked for 2026-10-15 at 09:00 AM with Dr Suresh Menon (D05)."
+    }
+  ]
+}

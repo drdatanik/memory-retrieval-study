@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0254",
+  "name": "Balwinder Sandhu",
+  "age": 84,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0254-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  - Status: New onset, GAD-7 to be checked, patient reports worry, restlessness, mild insomnia.\n  - Plan: Start escitalopram 5 mg OD after breakfast, buspirone 5 mg BD with meals; order TSH, haemoglobin, GAD-7; advise balanced diet: breakfast - whole grain toast with egg, lunch - dal‑rice with vegetables, dinner - light soup and salad; weight 68 kg, waist 88 cm (<90 cm cut‑off); review in 8 weeks.\n- Due: No glucose‑lowering therapy; HbA1c not required."
+    },
+    {
+      "memory_id": "X0254-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "escitalopram 5 mg OD\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0254-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.0)\nHaemoglobin 13.8 g/dL (13.0‑17.0)"
+    },
+    {
+      "memory_id": "X0254-m04",
+      "date": "2025-04-08",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "GAD-7 score: 9 (mild anxiety)"
+    },
+    {
+      "memory_id": "X0254-m05",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  - Status: Improved, GAD-7 6, reports less worry, better sleep; mild gastrointestinal upset with buspirone.\n  - Plan: Continue escitalopram 5 mg OD after breakfast; reduce buspirone to 2.5 mg BD with meals to ease GI upset; repeat TSH and haemoglobin in 3 months; diet advice: breakfast - oats with fruit, lunch - chapati‑dal‑vegetable, dinner - khichdi with curd; weight 67.5 kg, waist 86 cm (<90 cm).\n- Due: No glucose‑lowering therapy; HbA1c not required."
+    },
+    {
+      "memory_id": "X0254-m06",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "escitalopram 5 mg OD\nbuspirone 2.5 mg BD"
+    },
+    {
+      "memory_id": "X0254-m07",
+      "date": "2025-09-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.3 mIU/L (0.4‑4.0)\nHaemoglobin 13.6 g/dL (13.0‑17.0)"
+    },
+    {
+      "memory_id": "X0254-m08",
+      "date": "2025-09-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "GAD-7 score: 5 (minimal anxiety)"
+    },
+    {
+      "memory_id": "X0254-m09",
+      "date": "2025-09-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-11-20 at 10:00 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0254-m10",
+      "date": "2025-11-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  - Status: Stable, GAD-7 4, occasional mild dizziness on buspirone.\n  - Plan: Hold buspirone for 2 weeks to assess dizziness; continue escitalopram 5 mg OD after breakfast; if dizziness resolves, restart buspirone 2.5 mg BD; repeat TSH and haemoglobin in 3 months; diet advice: breakfast - idli with sambar, lunch - rice‑rasam‑vegetable, dinner - roti‑curd; weight 67 kg, waist 85 cm (<90 cm).\n- Due: No glucose‑lowering therapy; HbA1c not required."
+    },
+    {
+      "memory_id": "X0254-m11",
+      "date": "2025-11-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "escitalopram 5 mg OD\nbuspirone 0 mg (hold)"
+    },
+    {
+      "memory_id": "X0254-m12",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4‑4.0)\nHaemoglobin 13.9 g/dL (13.0‑17.0)"
+    },
+    {
+      "memory_id": "X0254-m13",
+      "date": "2026-02-22",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "GAD-7 score: 3 (normal)"
+    },
+    {
+      "memory_id": "X0254-m14",
+      "date": "2026-05-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Generalised anxiety disorder\n  - Status: Anxiety worsened after stopping buspirone, GAD-7 8, reports tension and irritability.\n  - Plan: Restart buspirone 5 mg BD with meals; continue escitalopram 5 mg OD after breakfast; add brief relaxation counseling; repeat TSH and haemoglobin in 3 months; diet advice: breakfast - poha with peanuts, lunch - bisi bele bath with curd, dinner - vegetable pulao; weight 68 kg, waist 87 cm (<90 cm).\n- Due: No glucose‑lowering therapy; HbA1c not required."
+    },
+    {
+      "memory_id": "X0254-m15",
+      "date": "2026-05-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "escitalopram 5 mg OD\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0254-m16",
+      "date": "2026-08-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.2 mIU/L (0.4‑4.0)\nHaemoglobin 13.7 g/dL (13.0‑17.0)"
+    }
+  ]
+}

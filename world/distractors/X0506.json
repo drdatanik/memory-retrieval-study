@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0506",
+  "name": "Sarita Verma",
+  "age": 44,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Allergic rhinitis",
+    "Iron-deficiency anaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0506-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis: persistent sneezing, nasal congestion, worse in mornings. Status: active. Plan: start cetirizine 10 mg HS, fluticasone nasal spray 1 spray each nostril OD, montelukast 10 mg HS; advise avoidance of dust, keep windows closed; review in 3 months.\n- Iron-deficiency anaemia: fatigue, mild pallor. Status: active. Plan: start ferrous sulfate 200 mg OD with breakfast; check CBC, ferritin, MCV, skin prick test, total IgE; review in 3 months.\n- Weight 68 kg, waist 84 cm (female cutoff 80 cm, slightly increased). Diet: breakfast - whole grain toast with egg; lunch - rice, dal, vegetables; dinner - light soup, chapati; avoid junk.\n- Due: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0506-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nFerrous sulfate 200 mg OD"
+    },
+    {
+      "memory_id": "X0506-m03",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Skin prick test: positive to house dust mite (3+ wheal).\nTotal serum IgE: 210 IU/mL (ref <100).\nHaemoglobin: 9.8 g/dL (ref 12-16).\nSerum ferritin: 12 ng/mL (ref 15-150).\nMCV: 72 fL (ref 80-100)."
+    },
+    {
+      "memory_id": "X0506-m04",
+      "date": "2025-04-09",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Allergic rhinitis – allergy to house dust mite. Reaction: sneezing, nasal itching, clear rhinorrhea on exposure. Documented for avoidance and treatment planning."
+    },
+    {
+      "memory_id": "X0506-m05",
+      "date": "2025-04-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Started cetirizine at night; less daytime sneezing but some nasal congestion remains. Fluticasone spray causes mild throat irritation. Ferrous sulfate causes constipation; taking with water and fiber helps a bit. Montelukast no side effects noticed."
+    },
+    {
+      "memory_id": "X0506-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis: symptoms improved, occasional congestion. Status: active but controlled. Plan: continue cetirizine HS, fluticasone OD, consider tapering montelukast if symptoms stay mild.\n- Iron-deficiency anaemia: Hb up to 11.2 g/dL, ferritin 28 ng/mL. Status: improving. Plan: change ferrous sulfate to 200 mg on alternate days; repeat CBC and ferritin in 6 weeks.\n- Weight 67 kg, waist 82 cm (still slightly above cutoff). Diet advice: breakfast - oats with milk; lunch - mixed veg rice; dinner - dalia, curd.\n- Due: HbA1c 2025-10-10."
+    },
+    {
+      "memory_id": "X0506-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nFerrous sulfate 200 mg on alternate days"
+    },
+    {
+      "memory_id": "X0506-m08",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 5.6% (ref 4-5.6).\nLipid profile: Total cholesterol 180 mg/dL (<200), HDL 48 mg/dL (>40), LDL 100 mg/dL (<130), Triglycerides 130 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0506-m09",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-02 09:30 with Dr Karthik Hegde (D04) for routine follow-up. Patient confirmed via SMS."
+    },
+    {
+      "memory_id": "X0506-m10",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis: well controlled, only occasional mild congestion. Status: active, controlled. Plan: stop montelukast; continue cetirizine HS and fluticasone OD; review in 4 months.\n- Iron-deficiency anaemia: Hb 12.4 g/dL, ferritin 45 ng/mL. Status: resolved. Plan: stop ferrous sulfate; advise iron-rich diet; check CBC in 3 months to ensure stability.\n- Weight 66 kg, waist 80 cm (at cutoff). Diet: maintain balanced meals, reduce refined carbs.\n- Due: HbA1c 2026-01-02."
+    },
+    {
+      "memory_id": "X0506-m11",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD"
+    },
+    {
+      "memory_id": "X0506-m12",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 12.6 g/dL (ref 12-16).\nSerum ferritin: 48 ng/mL (ref 15-150).\nMCV: 86 fL (ref 80-100)."
+    },
+    {
+      "memory_id": "X0506-m13",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis: symptoms minimal, uses cetirizine PRN during high pollen days. Status: active, mild. Plan: continue cetirizine 10 mg HS as needed; fluticasone nasal spray only if congestion persists.\n- No anaemia: Hb 13.0 g/dL, ferritin 70 ng/mL.\n- Weight 65 kg, waist 78 cm (within normal). Diet: continue balanced diet, regular walks.\n- Due: HbA1c 2026-07-15."
+    },
+    {
+      "memory_id": "X0506-m14",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS PRN"
+    }
+  ]
+}

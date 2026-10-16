@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0102",
+  "name": "Meenakshi Balan",
+  "age": 34,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Type 2 diabetes",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0102-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Type 2 diabetes\n  - Status: newly diagnosed, asymptomatic, random glucose 182 mg/dL\n  - Plan: start metformin 500 mg BD, glimepiride 1 mg OD before breakfast, sitagliptin 100 mg OD, empagliflozin 10 mg OD; lifestyle modification; weight 68 kg, waist 84 cm (female cut‑off 80 cm, above); diet: breakfast – low‑glycemic roti with egg white, lunch – dal‑rice with veg, dinner – light soup & salad; exercise 30 min walk daily\n- Allergic rhinitis\n  - Status: intermittent sneezing, nasal congestion, worse in mornings\n  - Plan: cetirizine 10 mg HS, fluticasone nasal spray 1 spray each nostril OD, montelukast 10 mg HS; avoid dust, use mask at work\n- Due: HbA1c repeat in 3 months (2025-07-05)"
+    },
+    {
+      "memory_id": "X0102-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg BD after meals\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0102-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8%\nFasting plasma glucose 126 mg/dL (70‑100)\nUrine albumin‑creatinine ratio 22 mg/g (<30)\nTotal serum IgE 210 IU/ml (0‑100)\nSkin prick test: positive to house dust mite, grass pollen"
+    },
+    {
+      "memory_id": "X0102-m04",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Allergic rhinitis – seasonal and perennial; reaction: sneezing, nasal itching, clear rhinorrhea; confirmed by skin prick test."
+    },
+    {
+      "memory_id": "X0102-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel tired after work, my nose is blocked most mornings, and I have noticed increased thirst and frequent urination over the past month."
+    },
+    {
+      "memory_id": "X0102-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Type 2 diabetes\n  - Status: adherent to meds, occasional post‑prandial spikes; HbA1c 7.2%\n  - Plan: increase metformin to 500 mg TID after meals; continue other agents; weight 67.5 kg, waist 83 cm (still >80); diet: breakfast – multigrain toast with avocado, lunch – vegetable khichdi, dinner – grilled fish & steamed veg; exercise 45 min brisk walk\n- Allergic rhinitis\n  - Status: improved with nasal spray, occasional breakthrough sneezing\n  - Plan: continue cetirizine HS, fluticasone OD, montelukast HS; consider intranasal antihistamine if needed\n- Due: HbA1c repeat in 3 months (2025-10-10)"
+    },
+    {
+      "memory_id": "X0102-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg TID after meals\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0102-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2%\nFasting plasma glucose 110 mg/dL\nUrine albumin‑creatinine ratio 18 mg/g\nLipid profile: total cholesterol 185 mg/dL, LDL 110 mg/dL, HDL 45 mg/dL, triglycerides 160 mg/dL"
+    },
+    {
+      "memory_id": "X0102-m09",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Type 2 diabetes\n  - Status: stable, HbA1c 6.9%; no hypoglycemia\n  - Plan: continue current regimen; weight 66.8 kg, waist 82 cm (still >80); diet: breakfast – oats with milk & nuts, lunch – brown rice sambar, dinner – paneer bhurji & salad; add resistance band exercises twice weekly\n- Allergic rhinitis\n  - Status: well controlled, minimal symptoms\n  - Plan: continue current allergic regimen; consider stopping montelukast if symptom‑free for 1 month\n- Due: HbA1c repeat in 3 months (2026-01-02)"
+    },
+    {
+      "memory_id": "X0102-m10",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dilated fundus exam: mild non‑proliferative diabetic retinopathy, microaneurysms temporal to macula, no macular edema. Recommend annual repeat."
+    },
+    {
+      "memory_id": "X0102-m11",
+      "date": "2025-10-02",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dr. S. Rao, Ophthalmology, Narayana Nethralaya, for baseline retinal evaluation and guidance on retinopathy follow‑up."
+    },
+    {
+      "memory_id": "X0102-m12",
+      "date": "2026-01-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Ophthalmology report: mild NPDR, good glycemic control advised; repeat fundus photo in 12 months. No laser needed at present."
+    },
+    {
+      "memory_id": "X0102-m13",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Type 2 diabetes\n  - Status: HbA1c 6.7%; weight 66.2 kg, waist 81 cm (just above cut‑off)\n  - Plan: consider tapering glimepiride to 0.5 mg OD before breakfast if fasting glucose stays <100; continue other meds; diet: breakfast – cheela with veg, lunch – quinoa dal, dinner – grilled chicken & steamed broccoli; add yoga twice weekly\n- Allergic rhinitis\n  - Status: symptom‑free for past 4 weeks\n  - Plan: stop montelukast; continue cetirizine HS and fluticasone OD; monitor for recurrence\n- Due: HbA1c repeat in 3 months (2026-04-15)"
+    },
+    {
+      "memory_id": "X0102-m14",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg TID after meals\nGlimepiride 0.5 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD"
+    },
+    {
+      "memory_id": "X0102-m15",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Type 2 diabetes\n  - Status: HbA1c 6.5%; weight 65.5 kg, waist 80 cm (at cut‑off)\n  - Plan: maintain current regimen; consider discontinuing empagliflozin if weight <65 kg and no side effects; diet: breakfast – idli with sambar, lunch – millet veg pulao, dinner – fish curry & salad; continue walking 45 min daily\n- Allergic rhinitis\n  - Status: asymptomatic\n  - Plan: continue cetirizine HS, fluticasone OD; review in 3 months\n- Due: HbA1c repeat in 3 months (2026-07-20); lipid profile annual due now"
+    },
+    {
+      "memory_id": "X0102-m16",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.5%\nFasting plasma glucose 95 mg/dL\nUrine albumin‑creatinine ratio 15 mg/g\nLipid profile: total cholesterol 178 mg/dL, LDL 105 mg/dL, HDL 48 mg/dL, triglycerides 140 mg/dL\nTotal serum IgE 92 IU/ml (0‑100)"
+    },
+    {
+      "memory_id": "X0102-m17",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-07-22 at 10:30 AM with Dr. Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0102-m18",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Type 2 diabetes\n  - Status: HbA1c 6.3%; weight 64.8 kg, waist 79 cm (below cut‑off)\n  - Plan: continue metformin, sitagliptin, empagliflozin; glimepiride stopped; weight target achieved; diet: breakfast – protein smoothie, lunch – brown rice & lentil stew, dinner – stir‑fried tofu & veg; maintain activity\n- Allergic rhinitis\n  - Status: well controlled on cetirizine HS and fluticasone OD\n  - Plan: continue same; review PRN\n- Due: HbA1c repeat in 3 months (2027-01-05) – beyond study window"
+    }
+  ]
+}

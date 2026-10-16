@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0559",
+  "name": "Kamala Subramanian",
+  "age": 69,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0559-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease. Patient reports retrosternal burning after meals, occasional regurgitation, and nighttime cough. On examination: mild epigastric tenderness, no hepatomegaly. Smoking status: never. Prescribed pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, and antacid gel SOS. Advised lifestyle modifications: elevate head of bed, avoid spicy/fatty meals, and weight review."
+    },
+    {
+      "memory_id": "X0559-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg OD before breakfast\\ndomperidone 10 mg BD before meals\\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0559-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (reference: <0.9 IU/mL)."
+    },
+    {
+      "memory_id": "X0559-m04",
+      "date": "2025-06-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Since starting pantoprazole, my heartburn has improved markedly; I only need antacid gel once or twice a week. No nighttime symptoms."
+    },
+    {
+      "memory_id": "X0559-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease, stable. Patient reports occasional mild heartburn after large meals, relieved by antacid gel. No alarm symptoms. Examination: soft abdomen, no tenderness. Continued current PPI dose. Advised to maintain lifestyle measures and review in 3 months."
+    },
+    {
+      "memory_id": "X0559-m06",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past month, heartburn has returned, especially after dinner, and I feel a sour taste in the mouth. Antacid gel helps but I need it almost daily."
+    },
+    {
+      "memory_id": "X0559-m07",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease, symptomatic despite standard PPI. Patient reports worsening heartburn and regurgitation, nocturnal symptoms affecting sleep. No dysphagia, weight loss, or anemia. Examination: mild epigastric tenderness. Decided to pursue upper GI endoscopy to exclude erosive esophagitis or Barrett’s changes."
+    },
+    {
+      "memory_id": "X0559-m08",
+      "date": "2025-09-20",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Upper GI endoscopy: Los Angeles grade A erosive esophagitis in distal 2 cm; no Barrett’s epithelium. Biopsy negative for H. pylori and dysplasia."
+    },
+    {
+      "memory_id": "X0559-m09",
+      "date": "2025-10-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg BD before breakfast and dinner\\ndomperidone 10 mg BD before meals\\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0559-m10",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (reference: <0.9 IU/mL)."
+    },
+    {
+      "memory_id": "X0559-m11",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease, improved on twice‑daily pantoprazole. Patient reports only occasional mild heartburn after heavy meals, no nocturnal symptoms. Examination: benign abdomen. Plan to step down therapy after confirming sustained control."
+    },
+    {
+      "memory_id": "X0559-m12",
+      "date": "2026-07-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking pantoprazole twice daily as prescribed. My symptoms are mostly gone; I only feel slight discomfort after very large meals, which resolves with an antacid."
+    },
+    {
+      "memory_id": "X0559-m13",
+      "date": "2026-08-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Gastro-oesophageal reflux disease, well controlled. Asthma Control Test not applicable. Patient on pantoprazole 40 mg BD wishes to reduce medication due to long‑term use. Technique checked: correct for inhaler (not used). Decision: taper pantoprazole to 20 mg OD and monitor for symptom recurrence."
+    },
+    {
+      "memory_id": "X0559-m14",
+      "date": "2026-09-30",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 20 mg OD before breakfast\\ndomperidone 10 mg BD before meals\\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0559-m15",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Suresh Menon (D05) on 2026-11-15 at 10:30 am."
+    }
+  ]
+}

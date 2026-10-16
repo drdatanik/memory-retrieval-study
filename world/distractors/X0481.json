@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0481",
+  "name": "Remya Kaimal",
+  "age": 64,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Glaucoma",
+    "Psoriasis",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0481-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Routine follow‑up of glaucoma, psoriasis and hypothyroidism.\nPRESENTING COMPLAINT: Patient reports stable vision, mild scalp scaling, no fatigue or weight change.\nEXAMINATION: BP 138/86 mmHg, weight 68 kg, height 1.55 m, BMI 28.3 (obese). Intraocular pressure 22 mmHg OU, anterior chamber clear. Skin shows mild erythematous plaques on elbows and knees, no pustules. Thyroid examination normal.\nIMPRESSION: Glaucoma IOP at upper limit of normal, psoriasis mild, hypothyroidism euthyroid on levothyroxine 50 mcg.\nARRANGEMENTS: Continue timolol BD, latanoprost HS, clobetasol BD, calcipotriol OD, methotrexate 7.5 mg weekly + folic acid 5 mg OD, levothyroxine 50 mcg OD. Advise low‑salt diet, 150 min/week brisk walking. Return if eye pain, sudden vision loss, joint swelling, fever >39 °C, or bleeding."
+    },
+    {
+      "memory_id": "X0481-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Timolol 0.5% eye drops – 1 drop each eye BD\nLatanoprost 0.005% eye drops – 1 drop each eye HS\nClobetasol 0.05% cream – apply BD to affected areas\nCalcipotriol ointment – apply OD to plaques\nMethotrexate 7.5 mg – take once weekly with food\nFolic acid 5 mg – take OD\nLevothyroxine 50 mcg – take OD morning"
+    },
+    {
+      "memory_id": "X0481-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: 22 mmHg OD, 22 mmHg OS (ref 10‑21). Visual field: full, no defects. Optic disc: normal cupping.\nLiver function: ALT 32 U/L (7‑56), AST 28 U/L (10‑40), bilirubin 0.9 mg/dl (0.2‑1.2), albumin 4.2 g/dl (3.5‑5.0).\nCBC: Hb 12.8 g/dl (12‑16), WBC 6.5×10⁹/L (4‑10), platelets 250×10⁹/L (150‑400).\nCreatinine: 0.9 mg/dl (0.6‑1.2).\nTSH: 4.2 mIU/L (0.4‑4.0). Free T4: 1.1 ng/dL (0.8‑1.8)."
+    },
+    {
+      "memory_id": "X0481-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 3‑month review of glaucoma, psoriasis, hypothyroidism.\nPRESENTING COMPLAINT: No new visual symptoms, mild scalp itching, feels energetic.\nEXAMINATION: BP 136/84 mmHg, weight 67 kg, BMI 27.9 (obese). IOP 21 mmHg OU. Skin: faint pink plaques on elbows, no scaling. Thyroid: non‑tender.\nIMPRESSION: Glaucoma stable, psoriasis mild, euthyroid on levothyroxine 50 mcg (TSH trending down).\nARRANGEMENTS: Continue current glaucoma drops, topical steroids, methotrexate 7.5 mg weekly + folic acid, levothyroxine 50 mcg. Advise weight‑reducing diet, aerobic activity. Return if eye pain, vision change, joint pain/swelling, fever >39 °C, or unexpected bruising."
+    },
+    {
+      "memory_id": "X0481-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Timolol 0.5% eye drops – 1 drop each eye BD\nLatanoprost 0.005% eye drops – 1 drop each eye HS\nClobetasol 0.05% cream – apply BD to affected areas\nCalcipotriol ointment – apply OD to plaques\nMethotrexate 10 mg – take once weekly with food\nFolic acid 5 mg – take OD\nLevothyroxine 75 mcg – take OD morning"
+    },
+    {
+      "memory_id": "X0481-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function: ALT 30 U/L, AST 26 U/L, bilirubin 0.8 mg/dl, albumin 4.3 g/dl.\nCBC: Hb 13.0 g/dl, WBC 6.2×10⁹/L, platelets 240×10⁹/L.\nCreatinine: 0.9 mg/dl.\nTSH: 3.8 mIU/L (0.4‑4.0). Free T4: 1.2 ng/dL (0.8‑1.8)."
+    },
+    {
+      "memory_id": "X0481-m07",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 6‑month check of glaucoma, psoriasis, hypothyroidism.\nPRESENTING COMPLAINT: Reports occasional eye irritation after drops, stable skin, no fatigue.\nEXAMINATION: BP 134/82 mmHg, weight 66 kg, BMI 27.5 (obese). IOP 21 mmHg OD, 20 mmHg OS. Anterior chambers quiet. Skin: minimal erythema on knees, no plaques. Thyroid: normal size.\nIMPRESSION: Glaucoma IOP at target, psoriasis well controlled, euthyroid on levothyroxine 75 mcg.\nARRANGEMENTS: Continue timolol BD, latanoprost HS, clobetasol BD, calcipotriol OD, methotrexate 10 mg weekly + folic acid, levothyroxine 75 mcg. Order annual lipid profile and fasting glucose. Advise maintain activity, limit saturated fat. Return if eye pain, vision loss, new joint swelling, fever >39 °C, or unexplained bruising."
+    },
+    {
+      "memory_id": "X0481-m08",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Timolol 0.5% eye drops – 1 drop each eye BD\nLatanoprost 0.005% eye drops – 1 drop each eye HS\nClobetasol 0.05% cream – apply BD to affected areas\nCalcipotriol ointment – apply OD to plaques\nMethotrexate 10 mg – take once weekly with food\nFolic acid 5 mg – take OD\nLevothyroxine 75 mcg – take OD morning"
+    },
+    {
+      "memory_id": "X0481-m09",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dl (<200 desirable), LDL 115 mg/dl (<130 optimal), HDL 45 mg/dl (>40 male, >50 female borderline), Triglycerides 160 mg/dl (<150 normal).\nFasting glucose: 98 mg/dl (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0481-m10",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 3‑month follow‑up after lipid check, glaucoma, psoriasis, hypothyroidism.\nPRESENTING COMPLAINT: Mild foreign‑body sensation in both eyes, skin lesions unchanged, feels well.\nEXAMINATION: BP 130/80 mmHg, weight 66 kg, BMI 27.2 (obese). IOP 22 mmHg OD, 21 mmHg OS. Corneal epithelium intact. Skin: faint pink patches on elbows, no scaling. Thyroid: non‑enlarged.\nIMPRESSION: IOP slightly elevated, consider adding brimonidine; psoriasis mild; euthyroid.\nARRANGEMENTS: Add brimonidine 0.2% eye drops BD OU, continue timolol BD, latanoprost HS, topical steroids, methotrexate 10 mg weekly + folic acid, levothyroxine 75 mcg. Repeat IOP in 1 month, LFT in 3 months. Return if eye pain, vision loss, joint swelling, fever >39 °C, or bruising."
+    },
+    {
+      "memory_id": "X0481-m11",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Timolol 0.5% eye drops – 1 drop each eye BD\nLatanoprost 0.005% eye drops – 1 drop each eye HS\nBrimonidine 0.2% eye drops – 1 drop each eye BD\nClobetasol 0.05% cream – apply BD to affected areas\nCalcipotriol ointment – apply OD to plaques\nMethotrexate 10 mg – take once weekly with food\nFolic acid 5 mg – take OD\nLevothyroxine 75 mcg – take OD morning"
+    },
+    {
+      "memory_id": "X0481-m12",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure (repeat): 22 mmHg OD, 21 mmHg OS.\nVisual field: full, no new defects.\nOptic disc: stable cupping.\nLiver function: ALT 31 U/L, AST 27 U/L, bilirubin 0.8 mg/dl, albumin 4.2 g/dl.\nCBC: Hb 12.9 g/dl, WBC 6.3×10⁹/L, platelets 245×10⁹/L.\nCreatinine: 0.9 mg/dl.\nTSH: 3.9 mIU/L (0.4‑4.0). Free T4: 1.2 ng/dL (0.8‑1.8)."
+    },
+    {
+      "memory_id": "X0481-m13",
+      "date": "2026-04-25",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Routine review of glaucoma, psoriasis, hypothyroidism after IOP adjustment.\nPRESENTING COMPLAINT: Eye irritation improved with brimonidine, skin lesions stable, no systemic symptoms.\nEXAMINATION: BP 128/78 mmHg, weight 65 kg, BMI 27.0 (obese). IOP 20 mmHg OD, 19 mmHg OS. Anterior chambers quiet. Skin: minimal erythema on knees, no plaques. Thyroid: normal.\nIMPRESSION: Glaucoma IOP controlled on triple therapy, psoriasis mild, euthyroid.\nARRANGEMENTS: Continue timolol BD, latanoprost HS, brimonidine BD, clobetasol BD, calcipotriol OD, methotrexate 10 mg weekly + folic acid, levothyroxine 75 mcg. Order LFT and CBC in 3 months, TSH in 6 months. Advise continue low‑salt diet, 150 min/week walk. Return if eye pain, vision loss, joint swelling, fever >39 °C, or unusual bleeding."
+    },
+    {
+      "memory_id": "X0481-m14",
+      "date": "2026-04-25",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Timolol 0.5% eye drops – 1 drop each eye BD\nLatanoprost 0.005% eye drops – 1 drop each eye HS\nBrimonidine 0.2% eye drops – 1 drop each eye BD\nClobetasol 0.05% cream – apply BD to affected areas\nCalcipotriol ointment – apply OD to plaques\nMethotrexate 10 mg – take once weekly with food\nFolic acid 5 mg – take OD\nLevothyroxine 75 mcg – take OD morning"
+    },
+    {
+      "memory_id": "X0481-m15",
+      "date": "2026-04-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function: ALT 29 U/L, AST 25 U/L, bilirubin 0.7 mg/dl, albumin 4.3 g/dl.\nCBC: Hb 13.1 g/dl, WBC 6.0×10⁹/L, platelets 250×10⁹/L.\nCreatinine: 0.9 mg/dl."
+    },
+    {
+      "memory_id": "X0481-m16",
+      "date": "2026-08-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-09-15 at 10:30 am with Dr Priya Natarajan (D03) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0481-m17",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Pre‑appointment review before scheduled visit on 2026-09-15 (patient reports keeping appointment).\nPRESENTING COMPLAINT: No new ocular or skin complaints, feels energetic, weight stable.\nEXAMINATION: BP 130/82 mmHg, weight 65 kg, BMI 27.0 (obese). IOP 20 mmHg OD, 19 mmHg OS. Skin: clear, no active plaques. Thyroid: non‑tender.\nIMPRESSION: Glaucoma well controlled, psoriasis in remission, euthyroid on levothyroxine 75 mcg.\nARRANGEMENTS: Continue current glaucoma drops, topical steroids, methotrexate 10 mg weekly + folic acid, levothyroxine 75 mcg. No new labs needed today. Remind patient to attend scheduled visit on 2026-09-15. Return if eye pain, vision loss, joint swelling, fever >39 °C, or unexplained bruising."
+    }
+  ]
+}

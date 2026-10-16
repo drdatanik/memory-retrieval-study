@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0470",
+  "name": "Mary Fernandes",
+  "age": 88,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Benign positional vertigo",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0470-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "BPV\n- Status: intermittent positional vertigo lasting <1 minute, triggered by lying down; Dix-Hallpike positive on right.\n- Plan: continue betahistine 16 mg BD; meclizine 25 mg SOS for acute episodes; advise vestibular rehabilitation exercises.\n\nMigraine\n- Status: 2-3 headache days/month, mild-moderate, responsive to sumatriptan.\n- Plan: continue propranolol 40 mg OD; sumatriptan 50 mg SOS; topiramate 25 mg HS at bedtime; naproxen 500 mg SOS for breakthrough pain.\n\nWeight: 58 kg; Waist: 78 cm (female cut‑off 80 cm).\n\nDiet advice\n- Breakfast: low‑glycaemic idli with sambar, avoid fried snacks.\n- Lunch: wheat roti, dal, vegetable curry, limited rice.\n- Dinner: light khichdi, early by 7 pm."
+    },
+    {
+      "memory_id": "X0470-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Betahistine 16 mg BD after food\nMeclizine 25 mg SOS after food\nPropranolol 40 mg OD after breakfast\nSumatriptan 50 mg SOS after food\nTopiramate 25 mg HS after food\nNaproxen 500 mg SOS after food"
+    },
+    {
+      "memory_id": "X0470-m03",
+      "date": "2025-05-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.5)\nFree T4 12.0 pmol/L (9‑19)\nLipids: Total cholesterol 180 mg/dL (<200), HDL 48 mg/dL (>40), LDL 100 mg/dL (<130), Triglycerides 130 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0470-m04",
+      "date": "2025-05-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "BPV\n- Status: vertigo episodes reduced to once weekly, mild.\n- Plan: continue betahistine 16 mg BD; add vestibular rehab twice weekly.\n\nMigraine\n- Status: 1‑2 headache days/month, well controlled.\n- Plan: maintain propranolol 40 mg OD; consider tapering topiramate if somnolence appears.\n\nWeight: 57.5 kg; Waist: 77 cm.\n\nDiet advice\n- Breakfast: oats with milk, no added sugar.\n- Lunch: mixed vegetable curry, two chapatis.\n- Dinner: steamed rice limited to ½ cup, fish curry."
+    },
+    {
+      "memory_id": "X0470-m05",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Betahistine 16 mg BD after food\nMeclizine 25 mg SOS after food\nPropranolol 40 mg OD after breakfast\nSumatriptan 50 mg SOS after food\nTopiramate 25 mg HS after food\nNaproxen 500 mg SOS after food"
+    },
+    {
+      "memory_id": "X0470-m06",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-08-15 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0470-m07",
+      "date": "2025-08-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "BPV\n- Status: vertigo absent for past 3 weeks.\n- Plan: continue betahistine 16 mg BD; consider trial off meclizine.\n\nMigraine\n- Status: headache‑free for 4 weeks.\n- Plan: continue propranolol 40 mg OD; trial off topiramate, monitor for rebound.\n\nWeight: 57 kg; Waist: 76 cm.\n\nDiet advice\n- Breakfast: poha with peanuts, no sugar.\n- Lunch: dal, sabzi, two chapatis.\n- Dinner: vegetable soup, one roti."
+    },
+    {
+      "memory_id": "X0470-m08",
+      "date": "2025-08-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Betahistine 16 mg BD after food\nMeclizine 25 mg SOS after food (use only if vertigo recurs)\nPropranolol 40 mg OD after breakfast\nSumatriptan 50 mg SOS after food\nNaproxen 500 mg SOS after food"
+    },
+    {
+      "memory_id": "X0470-m09",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D 22 ng/mL (30‑100) – insufficient\nSerum B12 250 pg/mL (200‑900)\nHbA1c 5.8 % (4‑5.6) – borderline"
+    },
+    {
+      "memory_id": "X0470-m10",
+      "date": "2025-09-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Audiometry: bilateral mild high‑frequency hearing loss (25 dB at 4‑8 kHz), otherwise normal.\nDix‑Hallpike: right‑side positive, transient torsional nystagmus."
+    },
+    {
+      "memory_id": "X0470-m11",
+      "date": "2025-09-05",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to ENT, Dr S. Rao, for evaluation of persistent positional vertigo and hearing loss. Request audiogram review and vestibular testing."
+    },
+    {
+      "memory_id": "X0470-m12",
+      "date": "2025-10-20",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "ENT report: benign positional vertigo confirmed, no central pathology. Recommend Epley maneuver; hearing loss age‑related, no intervention needed. Follow‑up in 6 months if symptoms recur."
+    },
+    {
+      "memory_id": "X0470-m13",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "BPV\n- Status: no vertigo episodes since last visit; Epley maneuver performed successfully.\n- Plan: discontinue betahistine; keep meclizine SOS only.\n\nMigraine\n- Status: occasional mild headache (1‑2 days/month), well controlled on propranolol.\n- Plan: continue propranolol 40 mg OD; restart topiramate 25 mg HS if frequency rises.\n\nWeight: 56.5 kg; Waist: 75 cm.\n\nDiet advice\n- Breakfast: upma with vegetables, limited oil.\n- Lunch: brown rice two‑thirds cup, sambar, salad.\n- Dinner: grilled chicken, steamed vegetables, one roti."
+    },
+    {
+      "memory_id": "X0470-m14",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 40 mg OD after breakfast\nSumatriptan 50 mg SOS after food\nNaproxen 500 mg SOS after food\nMeclizine 25 mg SOS after food (vertigo only)\nTopiramate 25 mg HS after food (hold, restart if needed)"
+    },
+    {
+      "memory_id": "X0470-m15",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile: Total cholesterol 175 mg/dL, HDL 50 mg/dL, LDL 95 mg/dL, Triglycerides 120 mg/dL\nLiver enzymes: ALT 22 U/L, AST 20 U/L (normal)\nRenal: Creatinine 0.9 mg/dL, eGFR 78 mL/min/1.73m2"
+    },
+    {
+      "memory_id": "X0470-m16",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "BPV\n- Status: symptom‑free.\n- Plan: no vestibular medication needed; keep meclizine SOS.\n\nMigraine\n- Status: stable, 1‑2 mild headaches/month.\n- Plan: continue propranolol 40 mg OD; consider low‑dose topiramate 25 mg HS if needed.\n\nWeight: 56 kg; Waist: 74 cm.\n\nDiet advice\n- Breakfast: idli with coconut chutney, no sugar.\n- Lunch: wheat chapati two, dal, vegetable curry.\n- Dinner: light khichdi, cucumber raita."
+    },
+    {
+      "memory_id": "X0470-m17",
+      "date": "2026-07-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-08-10 to 2026-08-17 at 09:00 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0470-m18",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "BPV\n- Status: no vertigo for over 6 months.\n- Plan: discharge vestibular medication; advise prompt return if symptoms recur.\n\nMigraine\n- Status: well controlled, headache‑free for 3 months.\n- Plan: continue propranolol 40 mg OD; taper off if remains headache‑free for another 3 months.\n\nWeight: 55.5 kg; Waist: 73 cm.\n\nDiet advice\n- Breakfast: vegetable poha, limited oil.\n- Lunch: mixed vegetable curry, two chapatis, salad.\n- Dinner: steamed fish, one cup rice, steamed greens."
+    }
+  ]
+}

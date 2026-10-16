@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0571",
+  "name": "Rupinder Brar",
+  "age": 55,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Osteoarthritis of the knee"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0571-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Osteoarthritis of both knees.\nEvidence: Patient reports bilateral knee pain worsening with stairs and prolonged standing, morning stiffness <30 minutes, occasional crepitus. Examination shows mild medial joint line tenderness, slight warmth, no effusion, full range of motion. Smoking status: never. Plan: weight‑bearing X‑ray of both knees, serum vitamin D level, start paracetamol 650 mg SOS, topical diclofenac gel BD, calcium‑vitamin D3 OD. Review in 3 months."
+    },
+    {
+      "memory_id": "X0571-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg oral SOS max 4 g/day; Diclofenac sodium 1% gel apply to affected knees twice daily; Calcium carbonate 500 mg with Vitamin D3 400 IU oral once daily. Dispense 30 days."
+    },
+    {
+      "memory_id": "X0571-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxy Vitamin D: 18 ng/mL (Reference 30‑100 ng/mL). Indicates vitamin D deficiency."
+    },
+    {
+      "memory_id": "X0571-m04",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I've been having more pain in my right knee when walking to work, especially after night shifts. The gel helps a bit but I need something stronger."
+    },
+    {
+      "memory_id": "X0571-m05",
+      "date": "2025-06-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-07-10 at 10:00 AM with Dr Suresh Menon for osteoarthritis follow‑up."
+    },
+    {
+      "memory_id": "X0571-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Osteoarthritis of knees, moderate progression.\nEvidence: Pain VAS 6/10, morning stiffness ~45 minutes, crepitus on movement, mild joint line tenderness, slight effusion of right knee. Smoking status: never. Plan: continue paracetamol SOS, increase diclofenac gel to TDS, add calcium‑vitamin D3 OD, repeat vitamin D level, arrange weight‑bearing X‑ray."
+    },
+    {
+      "memory_id": "X0571-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg oral SOS max 4 g/day; Diclofenac sodium 1% gel apply to affected knees three times daily; Calcium carbonate 500 mg with Vitamin D3 400 IU oral once daily. Dispense 30 days."
+    },
+    {
+      "memory_id": "X0571-m08",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Weight‑bearing X‑ray both knees: Joint space narrowing medially grade 2, osteophytes at tibial and femoral margins, subchondral sclerosis. No acute fracture."
+    },
+    {
+      "memory_id": "X0571-m09",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxy Vitamin D: 22 ng/mL (Reference 30‑100 ng/mL). Still insufficient; advise higher supplement."
+    },
+    {
+      "memory_id": "X0571-m10",
+      "date": "2025-09-01",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Orthopaedic Surgery, Dr K. Rao, for evaluation of possible knee arthroplasty due to progressive osteoarthritis."
+    },
+    {
+      "memory_id": "X0571-m11",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Orthopaedic review: Patient symptomatic, X‑ray shows moderate OA. Recommended trial of intra‑articular hyaluronic acid injection and physiotherapy before considering surgery."
+    },
+    {
+      "memory_id": "X0571-m12",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Osteoarthritis of knees, symptomatic despite medical therapy.\nEvidence: Pain VAS 5/10, stiffness 30 min, mild effusion left knee, crepitus bilateral. Smoking status: never. Plan: administer hyaluronic acid injection as advised, continue paracetamol SOS, topical diclofenac TDS, calcium‑vitamin D3 OD, repeat vitamin D in 3 months, review in 6 weeks."
+    },
+    {
+      "memory_id": "X0571-m13",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg oral SOS max 4 g/day; Diclofenac sodium 1% gel apply to affected knees three times daily; Calcium carbonate 500 mg with Vitamin D3 400 IU oral once daily. Dispense 30 days."
+    },
+    {
+      "memory_id": "X0571-m14",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Osteoarthritis of knees, improved after injection.\nEvidence: Pain VAS 3/10, stiffness <15 minutes, no effusion, crepitus mild. Smoking status: never. Plan: continue current regimen, advise low‑impact exercise, repeat vitamin D level, review in 3 months."
+    },
+    {
+      "memory_id": "X0571-m15",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Paracetamol 650 mg oral SOS max 4 g/day; Diclofenac sodium 1% gel apply to affected knees twice daily; Calcium carbonate 500 mg with Vitamin D3 400 IU oral once daily. Dispense 30 days."
+    },
+    {
+      "memory_id": "X0571-m16",
+      "date": "2026-02-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-20 to 2026-03-15 at 09:30 AM with Dr Suresh Menon for osteoarthritis review."
+    }
+  ]
+}

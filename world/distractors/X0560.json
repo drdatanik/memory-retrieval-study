@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0560",
+  "name": "Milind Ghorpade",
+  "age": 40,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Non-alcoholic fatty liver disease",
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0560-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all activities of daily living; manages household chores and personal care without assistance.\ncognition: Mini-Cog score 3/5, negative screen.\nfalls: No falls in the last 12 months; gait steady; timed up-and-go 13 seconds (≥12 sec) indicating raised fall risk – advise supervised leg‑strengthening exercises and supportive footwear.\nmedicines: 7 regular. Polypharmacy: review against Beers criteria.\nmood: Reports occasional irritability related to abdominal discomfort; denies depression or anxiety.\ncarers: Spouse, Priya.\ngoals: \"I want to control my gut and liver symptoms so I can stay active for my family.\""
+    },
+    {
+      "memory_id": "X0560-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD\npregabalin 75 mg BD\ndiclofenac 50 mg BD after food\nmethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0560-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.8 g/dL (13-17), WBC 6.2 x10^9/L (4-10), Platelets 210 x10^9/L (150-400).\nStool routine: Ova & cysts nil, pus cells 0-2/hpf.\ntTG-IgA: <4 U/mL (<7) – negative."
+    },
+    {
+      "memory_id": "X0560-m04",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 38 U/L (<40), AST 34 U/L (<40).\nPlatelet count: 208 x10^9/L (150-400).\nFasting lipid profile: Cholesterol 185 mg/dL (<200), Triglycerides 130 mg/dL (<150), HDL 48 mg/dL (>40), LDL 108 mg/dL (<130)."
+    },
+    {
+      "memory_id": "X0560-m05",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Straight leg raise test: Positive at 45° on left side, suggesting lumbar radiculopathy.\nPlan: Continue pregabalin, consider physiotherapy."
+    },
+    {
+      "memory_id": "X0560-m06",
+      "date": "2025-04-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for follow‑up visit on 2025-08-05 at 10:30 am with Dr Nandini Kulkarni."
+    },
+    {
+      "memory_id": "X0560-m07",
+      "date": "2025-08-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Able to perform ADLs; occasional fatigue after prolonged standing.\ncognition: Mini-Cog score 4/5 (annual screen), negative.\nfalls: One fall in past 12 months (slipped on wet floor, no injury); gait slightly antalgic left; timed up-and-go 14 seconds (≥12) – raised fall risk, advise home‑based balance training and non‑slip footwear.\nmedicines: 6 regular. Polypharmacy: review against Beers criteria.\nmood: Reports low mood linked to worsening back pain; denies suicidal ideation.\ncarers: Spouse, Priya.\ngoals: \"I wish to reduce back pain so I can help with household tasks.\""
+    },
+    {
+      "memory_id": "X0560-m08",
+      "date": "2025-08-06",
+      "type": "prescription",
+      "author": "D06",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD\npregabalin 100 BD\ndiclofenac 50 mg BD after food\nmethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0560-m09",
+      "date": "2025-08-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 45 U/L (↑), AST 42 U/L (↑).\nFasting lipid profile: Cholesterol 190 mg/dL, Triglycerides 140 mg/dL, HDL 46 mg/dL, LDL 112 mg/dL.\nPlatelet count: 200 x10^9/L."
+    },
+    {
+      "memory_id": "X0560-m10",
+      "date": "2025-08-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "MRI lumbar spine: L4‑L5 disc bulge causing mild left foraminal narrowing; no cord compression.\nPlan: Continue pregabalin, add gabapentin 300 mg TDS if needed, physiotherapy referral."
+    },
+    {
+      "memory_id": "X0560-m11",
+      "date": "2026-02-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages most chores; reports occasional abdominal bloating after meals.\ncognition: Mini-Cog score 3/5 (annual), negative.\nfalls: No falls in last 12 months; gait steady; timed up-and-go 12 seconds (≥12) – borderline raised fall risk, advise calf‑strengthening and proper shoes.\nmedicines: 8 regular. Polypharmacy: review against Beers criteria.\nmood: Describes frustration with persistent GI symptoms; denies depression.\ncarers: Spouse, Priya.\ngoals: \"I aim to keep my liver enzymes stable and avoid flare‑ups of IBS.\""
+    },
+    {
+      "memory_id": "X0560-m12",
+      "date": "2026-02-06",
+      "type": "prescription",
+      "author": "D06",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD\npregabalin 100 BD\ndiclofenac 50 mg BD after food\nmethylcobalamin 1500 mcg OD\nvitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0560-m13",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-10-05 to 2026-10-12 at 09:00 am with Dr Nandini Kulkarni (follow‑up)."
+    }
+  ]
+}

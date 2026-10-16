@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0072",
+  "name": "Simran Bains",
+  "age": 33,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypertension",
+    "Rheumatoid arthritis",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0072-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in activities of daily living; manages shop alone; walks unaided.\ncognition: Mini-Cog score 4/5 (normal); no need for further assessment.\nfalls: No falls in past 12 months; gait steady; timed up-and-go 9 seconds (normal fall risk).\nmedicines: 6 regular (amlodipine, telmisartan, methotrexate, folic acid, hydroxychloroquine, sertraline); polypharmacy – review against Beers criteria advised.\nmood: PHQ-9 score 8 indicating mild depressive symptoms; continue sertraline, monitor.\ncarers: spouse – Priya.\ngoals: \"I want to keep my shop open and feel less joint pain.\""
+    },
+    {
+      "memory_id": "X0072-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\n telmisartan 40 mg OD\n methotrexate 10 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n sertraline 50 mg OD"
+    },
+    {
+      "memory_id": "X0072-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.9 mg/dL (0.6-1.2); eGFR 88 mL/min/1.73m2 (>60).\nSerum potassium 4.2 mmol/L (3.5-5.0).\nESR 18 mm/hr (0-20).\nCRP 3 mg/L (<5).\nRheumatoid factor negative.\nAnti-CCP negative.\nLFT: ALT 22 U/L (7-56), AST 20 U/L (10-40), bilirubin 0.8 mg/dL (0.2-1.2).\nTSH 2.1 µIU/mL (0.4-4.0).\nVitamin B12 350 pg/mL (200-900).\nPHQ-9 8."
+    },
+    {
+      "memory_id": "X0072-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent; occasional knee stiffness after prolonged standing.\ncognition: Mini-Cog 4/5 (stable).\nfalls: No falls; gait mildly antalgic on right knee; timed up-and-go 10 seconds (borderline).\nmedicines: 6 regular; polypharmacy – Beers review due.\nmood: PHQ-9 6 (improved); continue sertraline.\ncarers: spouse – Priya.\ngoals: \"I want to walk the market lanes without pain.\""
+    },
+    {
+      "memory_id": "X0072-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\n telmisartan 40 mg OD\n methotrexate 10 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n sertraline 50 mg OD\n add: celecoxib 200 mg BD for 2 weeks"
+    },
+    {
+      "memory_id": "X0072-m06",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: Sinus rhythm, rate 78 bpm. No ST‑T changes. Left ventricular voltage within normal limits. No arrhythmia."
+    },
+    {
+      "memory_id": "X0072-m07",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed my right knee swelling after climbing stairs; the new celecoxib helps a bit but I still feel stiffness in the mornings."
+    },
+    {
+      "memory_id": "X0072-m08",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.95 mg/dL; eGFR 82.\nPotassium 4.3.\nESR 22 (slight rise).\nCRP 4.\nLFT: ALT 24, AST 21.\nTSH 2.0.\nVitamin B12 340.\nPHQ-9 7."
+    },
+    {
+      "memory_id": "X0072-m09",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages shop; reports increased morning stiffness in both hands and knees.\ncognition: Mini-Cog 4/5 (annual screen due next visit).\nfalls: One fall at home 3 months ago (tripped over rug); no injury; gait cautious; timed up-and-go 12 seconds (raised fall risk) – advise exercise and supportive footwear.\nmedicines: 7 regular (added celecoxib); polypharmacy – Beers review.\nmood: PHQ-9 8 (worsening); consider augmenting antidepressant.\ncarers: spouse – Priya.\ngoals: \"I want to reduce pain and avoid another fall.\""
+    },
+    {
+      "memory_id": "X0072-m10",
+      "date": "2025-12-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\n telmisartan 40 mg OD\n methotrexate 10 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n sertraline 50 mg OD\n celecoxib 200 mg BD\n add: mirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0072-m11",
+      "date": "2026-02-10",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referred to Rheumatology, Victoria Hospital, for evaluation of persistent inflammatory arthritis despite current DMARD regimen. Requested assessment for biologic therapy."
+    },
+    {
+      "memory_id": "X0072-m12",
+      "date": "2026-02-10",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Rheumatology review: Confirmed seronegative rheumatoid arthritis. Advised to continue methotrexate, add sulfasalazine 500 mg BD, and consider TNF inhibitor if inadequate response in 3 months. Returned recommendations to primary care."
+    },
+    {
+      "memory_id": "X0072-m13",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Able to shop; reports less hand swelling after starting sulfasalazine.\ncognition: Mini-Cog 4/5 (annual screen normal).\nfalls: No further falls; gait improved; timed up-and-go 11 seconds (borderline).\nmedicines: 8 regular (added sulfasalazine); polypharmacy – Beers review.\nmood: PHQ-9 5 (better); continue sertraline and mirtazapine.\ncarers: spouse – Priya.\ngoals: \"I want to stay active in my shop and keep up with my grandchildren.\""
+    },
+    {
+      "memory_id": "X0072-m14",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\n telmisartan 40 mg OD\n methotrexate 10 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n sulfasalazine 500 mg BD\n sertraline 50 mg OD\n mirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0072-m15",
+      "date": "2026-06-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.92 mg/dL; eGFR 85.\nPotassium 4.2.\nESR 18.\nCRP 3.\nLFT: ALT 23, AST 20.\nTSH 1.9.\nVitamin B12 355.\nPHQ-9 4."
+    },
+    {
+      "memory_id": "X0072-m16",
+      "date": "2026-08-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-09-05 10:30 with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0072-m17",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; reports mild knee discomfort after long walks, otherwise well.\ncognition: Mini-Cog 4/5 (stable).\nfalls: No falls in past year; gait steady; timed up-and-go 10 seconds (acceptable).\nmedicines: 8 regular; polypharmacy – Beers review noted.\nmood: PHQ-9 3 (minimal); continue current antidepressants.\ncarers: spouse – Priya.\ngoals: \"I want to keep my shop running and enjoy pain‑free days.\""
+    }
+  ]
+}

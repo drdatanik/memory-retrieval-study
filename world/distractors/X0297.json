@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0297",
+  "name": "Sukanya Roy",
+  "age": 37,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0297-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: crampy abdominal pain and bloating for 2 months. PRESENTING COMPLAINT: She reports pain in lower abdomen, worsens after meals, associated with loose stools up to 3 times/day, no blood or weight loss. EXAMINATION: BP 118/76 mmHg, weight 58 kg, height 158 cm, BMI 23.2 (overweight). Abdomen soft, mild tenderness in left iliac fossa, no guarding. IMPRESSION: Irritable bowel syndrome, likely diarrhoea-predominant. ARRANGEMENTS: Start mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Order CBC, stool routine, tTG-IgA for coeliac screen. Return if fever >39°C, vomiting, severe pain, blood in stool, or weight loss."
+    },
+    {
+      "memory_id": "X0297-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0297-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.8 g/dl (12-16), WBC 6.2 x10^9/l (4-10), Platelets 240 x10^9/l (150-400)."
+    },
+    {
+      "memory_id": "X0297-m04",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Stool routine: Colour brown, consistency loose, pus cells 0-1/hpf, RBC 0/hpf, parasites none seen."
+    },
+    {
+      "memory_id": "X0297-m05",
+      "date": "2025-04-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "tTG-IgA (coeliac screen): Negative (<4 U/ml)."
+    },
+    {
+      "memory_id": "X0297-m06",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow-up of IBS, symptoms improved. PRESENTING COMPLAINT: Reports abdominal discomfort only after spicy meals, bowel movements 1-2 formed per day, no urgency. EXAMINATION: BP 120/78 mmHg, weight 59 kg, BMI 23.6 (overweight). Abdomen non-tender. IMPRESSION: IBS, diarrhoea-predominant, partially controlled. ARRANGEMENTS: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS as needed. Repeat CBC in 3 months. Return if worsening pain, bleeding, fever >39°C, or weight loss."
+    },
+    {
+      "memory_id": "X0297-m07",
+      "date": "2025-08-11",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0297-m08",
+      "date": "2025-08-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.0 g/dl (12-16), WBC 5.9 x10^9/l (4-10), Platelets 235 x10^9/l (150-400)."
+    },
+    {
+      "memory_id": "X0297-m09",
+      "date": "2025-12-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Noticed increased bloating after eating raw cabbage and cauliflower at market; pain mild, no diarrhoea. Wondering if I should avoid these vegetables."
+    },
+    {
+      "memory_id": "X0297-m10",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: bloating after certain vegetables. PRESENTING COMPLAINT: Bloating and mild distension after raw cruciferous vegetables, otherwise well, bowel habits normal. EXAMINATION: BP 119/77 mmHg, weight 60 kg, BMI 24.0 (overweight). Abdomen soft, no tenderness. IMPRESSION: IBS with food-triggered bloating; likely fermentable carbohydrates. ARRANGEMENTS: Advise low-FODMAP trial, reduce raw cabbage/cauliflower, cooked vegetables tolerated. Increase ispaghula husk to 10 g OD for bulk. Continue mebeverine 135 mg BD, loperamide 2 mg SOS. Repeat stool routine. Return if severe pain, vomiting, fever >39°C, or bleeding."
+    },
+    {
+      "memory_id": "X0297-m11",
+      "date": "2025-12-06",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg BD\nispaghula husk 10 g OD\nloperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0297-m12",
+      "date": "2025-12-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Stool routine: Colour brown, consistency soft, pus cells 0-1/hpf, RBC 0/hpf, ova/parasites none."
+    },
+    {
+      "memory_id": "X0297-m13",
+      "date": "2026-06-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-07-20 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0297-m14",
+      "date": "2026-07-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine IBS review. PRESENTING COMPLAINT: Reports good control, occasional bloating after lentils, bowel movements 1-2 formed per day, no urgency. EXAMINATION: BP 122/80 mmHg, weight 61 kg, BMI 24.4 (overweight). Abdomen non-tender. IMPRESSION: IBS stable on current regimen. ARRANGEMENTS: Continue mebeverine 135 mg BD, ispaghula husk 10 g OD, loperamide 2 mg SOS. Advise maintain low-FODMAP as tolerated, regular exercise. Return if new alarm symptoms: weight loss, bleeding, fever >39°C, severe pain."
+    },
+    {
+      "memory_id": "X0297-m15",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: final check before festival season. PRESENTING COMPLAINT: Feels well, mild bloating after festive sweets, otherwise normal bowel pattern. EXAMINATION: BP 121/79 mmHg, weight 62 kg, BMI 24.8 (overweight). Abdomen soft. IMPRESSION: IBS under control. ARRANGEMENTS: Continue current meds, consider probiotic if symptoms worsen. Return if alarm symptoms develop."
+    }
+  ]
+}

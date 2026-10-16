@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0591",
+  "name": "Sundaram Subramanian",
+  "age": 89,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0591-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Sciatica. Patient reports sharp left lower back pain radiating to posterior thigh, worse on sitting and straight leg raise positive at 45°. Examination shows lumbar paraspinal tenderness, limited forward flexion, normal distal neurovascular status. Started on pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD. Advised lumbar spine X-ray and MRI if no improvement. Review in 3 months."
+    },
+    {
+      "memory_id": "X0591-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pregabalin 75 mg twice daily\n diclofenac 50 mg twice daily after food\n methylcobalamin 1500 mcg once daily"
+    },
+    {
+      "memory_id": "X0591-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.8 g/dl (13-17), Total leucocyte count 7.2 x10^9/l (4-10), Platelets 210 x10^9/l (150-400), ESR 22 mm/hr (0-20), Serum vitamin B12 210 pg/ml (200-900)."
+    },
+    {
+      "memory_id": "X0591-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Sciatica, partially responsive. Pain decreased from 8/10 to 5/10, still aggravated by prolonged sitting. Straight leg raise now 55°. No new neuro deficits. Inhaler technique not applicable. Smoking status: former, stopped 2010, 15 pack-years. Continue current meds, consider uptitrating pregabalin. Plan repeat ESR and B12 in 2 months."
+    },
+    {
+      "memory_id": "X0591-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pregabalin 100 mg twice daily\n diclofenac 50 mg twice daily after food\n methylcobalamin 1500 mcg once daily"
+    },
+    {
+      "memory_id": "X0591-m06",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Sciatica, worsening. Pain now 7/10 with nocturnal aggravation, straight leg raise 40°. Tenderness over L4-L5 spine. No bowel/bladder symptoms. Reviewed inhaler technique N/A. Smoking former, stopped 2010. Advised MRI lumbar spine to rule out disc protrusion. Continue meds, add short course of oral steroids if MRI shows compression."
+    },
+    {
+      "memory_id": "X0591-m07",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking the medicines as prescribed but the pain in my lower back shoots down my leg especially when I drive the auto-rickshaw for long hours. It wakes me up at night and I feel tingling in my foot. I am worried it might be getting worse and I cannot miss work."
+    },
+    {
+      "memory_id": "X0591-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pregabalin 100 mg twice daily\n diclofenac 50 mg twice daily after food\n methylcobalamin 1500 mcg once daily\n prednisolone 10 mg once daily for 5 days"
+    },
+    {
+      "memory_id": "X0591-m09",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Sciatica, improved after steroid course. Pain now 4/10, occasional nocturnal discomfort. Straight leg raise 60°. MRI lumbar spine shows L4-L5 disc bulge without cord compression. No new neuro deficits. Smoking former, stopped 2010, 15 pack-years. Inhaler technique N/A. Continue neuropathic analgesic, consider tapering diclofenac due to gastritis risk."
+    },
+    {
+      "memory_id": "X0591-m10",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pregabalin 100 mg twice daily\n methylcobalamin 1500 mcg once daily\n diclofenac stopped"
+    },
+    {
+      "memory_id": "X0591-m11",
+      "date": "2026-01-15",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Diclofenac - developed epigastric burning and mild rash after 2 weeks of use; deemed intolerance, medication discontinued."
+    },
+    {
+      "memory_id": "X0591-m12",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up pulmonology review scheduled for 2026-07-10 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0591-m13",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Sciatica, stable. Pain 3/10, intermittent, straight leg raise 70°. No medication side effects. Pregabalin continued at 100 mg BD, methylcobalamin 1500 mcg OD. Smoking former, stopped 2010, 15 pack-years. No inhaler use. Advised to continue exercises and weight management. Next review in 4 months if symptoms worsen."
+    }
+  ]
+}

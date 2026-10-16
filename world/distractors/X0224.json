@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0224",
+  "name": "Kalpana Chowdary",
+  "age": 40,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Sciatica",
+    "Chronic kidney disease",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0224-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks to office, no assistance needed.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls in last 12 months; gait: steady; timed up-and-go 10 seconds.\nmedicines: 8 regular. Polypharmacy – review against Beers criteria.\nmood: Reports occasional low back pain affecting mood, denies depression.\ncarers: Spouse, Mr. Rohan Patel.\ngoal: \"I want to manage my pain and kidney health to keep working.\""
+    },
+    {
+      "memory_id": "X0224-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pregabalin 75 mg BD\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD\n telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n cholecalciferol 60000 IU once weekly for 8 weeks"
+    },
+    {
+      "memory_id": "X0224-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.4 mg/dL (0.6‑1.2)\neGFR 48 mL/min/1.73m2 (>60)\nUrine albumin‑creatinine ratio 120 mg/g (<30)\nHaemoglobin 12.8 g/dL (12‑16)\nSerum 25‑OH vitamin D 18 ng/mL (30‑100)\nSerum calcium 9.1 mg/dL (8.5‑10.5)\nSerum phosphate 3.8 mg/dL (2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0224-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Straight leg raise test: Positive at 40° left, 45° right.\nLumbar spine X‑ray: Mild degenerative changes at L4‑L5, no frank fracture.\nMRI lumbar spine: Disc bulge L4‑L5 impinging on left S1 nerve root."
+    },
+    {
+      "memory_id": "X0224-m05",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:00 am with Dr Nandini Kulkarni."
+    },
+    {
+      "memory_id": "X0224-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Improved walking tolerance, occasional leg pain after prolonged standing.\ncognition: Mini‑Cog not repeated (annual due Apr 2026).\nfalls: 0 falls in last 12 months; gait: steady; timed up‑and‑go 10 seconds.\nmedicines: 8 regular. Polypharmacy – review against Beers criteria.\nmood: Reports better sleep, denies anxiety.\ncarers: Spouse, Mr. Rohan Patel.\ngoal: \"I wish to reduce medication burden while keeping pain under control.\""
+    },
+    {
+      "memory_id": "X0224-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pregabalin 100 mg BD (increased from 75 mg)\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD\n telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n cholecalciferol 1000 IU OD (after loading)"
+    },
+    {
+      "memory_id": "X0224-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.3 mg/dL (0.6‑1.2)\neGFR 52 mL/min/1.73m2 (>60)\nUrine albumin‑creatinine ratio 95 mg/g (<30)\nHaemoglobin 13.0 g/dL (12‑16)\nSerum 25‑OH vitamin D 28 ng/mL (30‑100)\nSerum calcium 9.2 mg/dL (8.5‑10.5)\nSerum phosphate 3.9 mg/dL (2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0224-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Lumbar spine X‑ray (follow‑up): No change in degenerative disc disease.\nStraight leg raise test: Improved to 50° left, 55° right."
+    },
+    {
+      "memory_id": "X0224-m10",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports occasional numbness in left foot after long walks.\ncognition: Mini‑Cog not repeated (next due Apr 2026).\nfalls: 0 falls in last 12 months; gait: slightly antalgic left; timed up‑and‑go 11 seconds.\nmedicines: 8 regular. Polypharmacy – review against Beers criteria.\nmood: Mild frustration with persisting neuropathic symptoms.\ncarers: Spouse, Mr. Rohan Patel.\ngoal: \"I want to be able to walk to the market without foot numbness.\""
+    },
+    {
+      "memory_id": "X0224-m11",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pregabalin 100 mg BD\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD\n telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n cholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0224-m12",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH vitamin D 32 ng/mL (30‑100)\nSerum calcium 9.3 mg/dL (8.5‑10.5)\nSerum phosphate 4.0 mg/dL (2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0224-m13",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D06",
+      "text": "MRI lumbar spine (repeat): Disc bulge L4‑L5 unchanged.\nNo new compressive lesion."
+    },
+    {
+      "memory_id": "X0224-m14",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages household chores, occasional left‑leg heaviness after stairs.\ncognition: Mini‑Cog 4/5 (negative) – annual screen completed.\nfalls: 0 falls in last 12 months; gait: steady; timed up‑and‑go 10 seconds.\nmedicines: 8 regular. Polypharmacy – review against Beers criteria.\nmood: Denies depression, reports satisfactory pain control.\ncarers: Spouse, Mr. Rohan Patel.\ngoal: \"I aim to stay active and avoid worsening kidney function.\""
+    },
+    {
+      "memory_id": "X0224-m15",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pregabalin 100 mg BD\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD\n telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n cholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0224-m16",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.25 mg/dL (0.6‑1.2)\neGFR 55 mL/min/1.73m2 (>60)\nUrine albumin‑creatinine ratio 80 mg/g (<30)\nHaemoglobin 13.2 g/dL (12‑16)"
+    },
+    {
+      "memory_id": "X0224-m17",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-10 to 2026-04-17 at 09:30 am with Dr Nandini Kulkarni."
+    }
+  ]
+}

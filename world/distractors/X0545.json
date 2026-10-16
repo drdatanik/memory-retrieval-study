@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0545",
+  "name": "Anoop Chandran",
+  "age": 51,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Hypertension",
+    "Generalised anxiety disorder",
+    "Osteoporosis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0545-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: hypertension and anxiety follow-up.\nPRESENTING COMPLAINT: Mr reports occasional headaches and mild palpitations; feels nervous most days.\nEXAMINATION: BP 148/92 mmHg, pulse 78, weight 82 kg, height 1.70 m, BMI 28.4 (obese). Advised on low‑salt diet and daily walking.\nIMPRESSION: Uncontrolled hypertension; generalised anxiety disorder; osteoporosis risk.\nARRANGEMENTS: Start amlodipine 5 mg OD, telmisartan 40 mg OD, escitalopram 5 mg OD, buspirone 5 mg BD, alendronate 70 mg weekly, calcium 500 mg BD with vitamin D3. Order fasting lipid profile, fasting blood sugar, serum creatinine/eGFR, potassium, TSH, haemoglobin. Return if chest pain, breathlessness, fever >39°C, or bloody stools."
+    },
+    {
+      "memory_id": "X0545-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "amlodipine 5 mg OD\n telmisartan 40 mg OD\n escitalopram 5 mg OD\n buspirone 5 mg BD\n alendronate 70 mg once weekly\n calcium 500 mg BD with vitamin D3"
+    },
+    {
+      "memory_id": "X0545-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 210 mg/dL (<200 desirable), HDL 38 mg/dL (>40 desirable), LDL 130 mg/dL (<100 optimal), triglycerides 165 mg/dL (<150 normal).\nFasting blood sugar: 92 mg/dL (70‑99 normal).\nSerum creatinine: 1.0 mg/dL (0.6‑1.2), eGFR 78 mL/min/1.73m2 (>60 normal).\nSerum potassium: 4.3 mmol/L (3.5‑5.0).\nTSH: 2.1 µIU/mL (0.4‑4.0).\nHaemoglobin: 14.2 g/dL (13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0545-m04",
+      "date": "2025-06-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "ECG: Sinus rhythm, rate 76 bpm. No ST‑T changes. Left ventricular voltage within normal limits. No pathological Q waves. Overall normal ECG."
+    },
+    {
+      "memory_id": "X0545-m05",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine check‑up.\nPRESENTING COMPLAINT: Denies headaches; occasional mild anxiety.\nEXAMINATION: BP 138/86 mmHg, weight 81.5 kg, BMI 28.2 (obese). Advised to continue diet and activity.\nIMPRESSION: Hypertension improving; anxiety controlled; lipids borderline high.\nARRANGEMENTS: Increase amlodipine to 5 mg BD. Continue other meds. Repeat lipid profile and renal panel in 6 weeks. Return if chest pain, palpitations, severe anxiety, or swelling of legs."
+    },
+    {
+      "memory_id": "X0545-m06",
+      "date": "2025-08-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "amlodipine 5 mg BD\n telmisartan 40 mg OD\n escitalopram 5 mg OD\n buspirone 5 mg BD\n alendronate 70 mg once weekly\n calcium 500 mg BD with vitamin D3"
+    },
+    {
+      "memory_id": "X0545-m07",
+      "date": "2025-09-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling restless at night and worry about traffic. My mind races when I try to sleep."
+    },
+    {
+      "memory_id": "X0545-m08",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: autumn review and influenza vaccine.\nPRESENTING COMPLAINT: Reports better sleep, less worry.\nEXAMINATION: BP 132/80 mmHg, weight 81 kg, BMI 28.0 (obese). Advised on diet and activity.\nIMPRESSION: Hypertension at target; anxiety mild; osteoporosis prophylaxis ongoing.\nARRANGEMENTS: Give influenza vaccine today (05‑Nov‑2025). Continue current meds. Check lipids and renal function in 3 months. Return if fever >39°C, shortness of breath, chest pain, or unexplained bruising."
+    },
+    {
+      "memory_id": "X0545-m09",
+      "date": "2025-12-01",
+      "type": "investigation",
+      "author": "D03",
+      "text": "DEXA scan (lumbar spine): T‑score –2.4 at L1‑L4. Hip T‑score –2.1. Diagnosis: osteoporosis.\nFRAX 10‑yr major osteoporotic fracture risk 18% (without BMD)."
+    },
+    {
+      "memory_id": "X0545-m10",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 9.4 mg/dL (8.5‑10.5).\nSerum 25‑OH vitamin D: 22 ng/mL (30‑100 sufficient).\nSerum creatinine: 1.0 mg/dL, eGFR 77 mL/min/1.73m2.\nSerum potassium: 4.4 mmol/L."
+    },
+    {
+      "memory_id": "X0545-m11",
+      "date": "2026-03-15",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr S. Rao, Endocrinology, Vikram Hospital, for osteoporosis management considering low vitamin D and persistent low BMD despite alendronate. Please advise on further therapy and supplementation."
+    },
+    {
+      "memory_id": "X0545-m12",
+      "date": "2026-04-01",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Letter from Dr S. Rao: Vitamin D deficiency confirmed. Recommend cholecalciferol 60,000 IU weekly for 8 weeks then maintenance 2000 IU daily. Continue alendronate. Repeat DEXA in 12 months. No need for anabolic agent at present."
+    },
+    {
+      "memory_id": "X0545-m13",
+      "date": "2026-06-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: post‑referral review.\nPRESENTING COMPLAINT: Denies new symptoms; takes vitamin D as prescribed.\nEXAMINATION: BP 130/78 mmHg, weight 80.5 kg, BMI 27.9 (overweight). Advised on continued activity.\nIMPRESSION: Hypertension well controlled; anxiety stable; osteoporosis managed with vitamin D repletion.\nARRANGEMENTS: Continue amlodipine 5 mg BD, telmisartan 40 mg OD, escitalopram 5 mg OD, buspirone 5 mg BD, alendronate 70 mg weekly, calcium 500 mg BD with vitamin D3, cholecalciferol 2000 IU daily. Review lipids and renal panel in 4 months. Return if chest pain, palpitations, severe sadness, or unexplained fractures."
+    },
+    {
+      "memory_id": "X0545-m14",
+      "date": "2026-07-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 02‑Aug‑2026 at 10:30 AM with Dr Priya Natarajan (D03) for routine follow‑up."
+    }
+  ]
+}

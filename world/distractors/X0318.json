@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0318",
+  "name": "Rukhsana Syed",
+  "age": 30,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0318-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma: status: intermittent wheeze, uses salbutamol SOS 2-3 times/week, night symptoms absent. Plan: start budesonide-formoterol 200/6 inhaler 2 puffs BD, montelukast 10 mg HS, continue salbutamol MDI SOS. Review inhaler technique.\n- Diet: Breakfast: Indian breakfast with limited oil, include whole grain and protein. Lunch: balanced meal with vegetables, lean protein, moderate carbs. Dinner: light, avoid heavy fried foods after 8 pm. Snacks: fruit or nuts, avoid sugary snacks.\n- Weight: 68 kg, Waist: 78 cm (female cutoff 80 cm, within limit).\n- Due: Not applicable (no glucose-lowering therapy)."
+    },
+    {
+      "memory_id": "X0318-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Budesonide-formoterol 200/6 mcg inhaler – 2 puffs BD\nMontelukast 10 mg – 1 tablet HS\nSalbutamol MDI – 2 puffs SOS"
+    },
+    {
+      "memory_id": "X0318-m03",
+      "date": "2025-04-07",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Started new inhalers as prescribed. Felt slight throat irritation after first use of budesonide-formoterol, but improved after rinsing mouth. Using salbutamol only before morning walk. No night awakenings."
+    },
+    {
+      "memory_id": "X0318-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma: status: improved, salbutamol use down to 0-1 times/week, no night symptoms, ACT score 22 (good control). Plan: continue current regimen, check inhaler technique, consider step-down if stable for 3 months.\n- Diet: Breakfast: oats with milk and fruit. Lunch: chapati, dal, vegetable curry. Dinner: vegetable khichdi, curd. Snacks: roasted chana, avoid biscuits.\n- Weight: 67 kg, Waist: 76 cm (within limit).\n- Due: Not applicable."
+    },
+    {
+      "memory_id": "X0318-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Budesonide-formoterol 200/6 mcg inhaler – 2 puffs BD\nMontelukast 10 mg – 1 tablet HS\nSalbutamol MDI – 2 puffs SOS"
+    },
+    {
+      "memory_id": "X0318-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Eosinophil count: 0.3 x10^9/L (Ref: 0.0-0.5)\nTotal IgE: 120 IU/mL (Ref: <100) – mildly elevated\nFasting glucose: 92 mg/dL (Ref: 70-100)\nHbA1c: 5.6% (Ref: 4.0-5.6)"
+    },
+    {
+      "memory_id": "X0318-m07",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Spirometry with reversibility: FEV1 2.85 L (88% predicted), FVC 3.60 L (92% predicted), FEV1/FVC 79%. Post-bronchodilator FEV1 increase 12% and 0.30 L, indicating reversible airflow obstruction consistent with asthma."
+    },
+    {
+      "memory_id": "X0318-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma: status: spirometry shows reversible obstruction, symptoms well-controlled, ACT 24. Plan: maintain current therapy, reinforce spacer use with budesonide-formoterol, schedule annual review.\n- Diet: Breakfast: idli with sambar, chutney. Lunch: brown rice, lentil soup, steamed veg. Dinner: grilled fish, salad. Snacks: apple, avoid fried snacks.\n- Weight: 66.5 kg, Waist: 75 cm (within limit).\n- Due: Not applicable."
+    },
+    {
+      "memory_id": "X0318-m09",
+      "date": "2025-10-05",
+      "type": "referral",
+      "author": "D04",
+      "text": "To: Dr. S. Rao, Pulmonologist, Jayanagar. Reason: Persistent mild eosinophilia and borderline IgE despite good asthma control, to rule out allergic bronchopulmonary aspergillosis. Requested: serum Aspergillus IgG, HRCT chest if indicated. Please advise on further management."
+    },
+    {
+      "memory_id": "X0318-m10",
+      "date": "2026-01-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "From Dr. S. Rao: Serum Aspergillus IgG negative, HRCT chest normal. No evidence of ABPA. Continue current asthma therapy. Recommend annual influenza vaccination and consider allergy testing if symptoms worsen."
+    },
+    {
+      "memory_id": "X0318-m11",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma: status: asymptomatic, ACT 25, no rescue inhaler use in past month. Plan: consider tapering budesonide-formoterol to 1 puff BD after 3 months if stable, continue montelukast HS, salbutamol SOS. Ensure vaccination.\n- Diet: Breakfast: poha with peanuts, lemon. Lunch: quinoa salad with chickpeas. Dinner: vegetable stir-fry with tofu, steamed rice. Snacks: carrot sticks, avoid sugary drinks.\n- Weight: 66 kg, Waist: 74 cm (within limit).\n- Due: Not applicable."
+    },
+    {
+      "memory_id": "X0318-m12",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Budesonide-formoterol 200/6 mcg inhaler – 1 puff BD\nMontelukast 10 mg – 1 tablet HS\nSalbutamol MDI – 2 puffs SOS"
+    },
+    {
+      "memory_id": "X0318-m13",
+      "date": "2026-08-03",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original visit scheduled for 2026-08-10 moved to 2026-08-03 at 10:30 AM with Dr. Karthik Hegde (D04) for routine asthma review."
+    }
+  ]
+}

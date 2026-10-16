@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0186",
+  "name": "Kannan Ramasamy",
+  "age": 84,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Hypertension",
+    "Iron-deficiency anaemia",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0186-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 148/92 mmHg, on amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, HCTZ 12.5 mg OD. Plan: continue, check labs. Iron-deficiency anaemia: Hb 9.2 g/dL, fatigued. Plan: start ferrous sulfate 200 mg OD and 200 mg alternate days. Hypothyroidism: TSH 6.8 mIU/L, free T4 0.9 ng/dL. Plan: levothyroxine 50 mcg OD, repeat TSH in 6 weeks. Weight 68 kg, waist 92 cm (>90 cm cut‑off). Diet: breakfast – whole grain roti with egg white; lunch – dal, vegetable, small rice; dinner – light soup, salad. Due: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0186-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.2 g/dL (13.0‑17.0). Ferritin 12 ng/mL (30‑400). MCV 78 fL (80‑100). Serum creatinine 1.1 mg/dL (0.6‑1.2), eGFR 58 mL/min/1.73m2 (>60). Serum potassium 4.3 mmol/L (3.5‑5.0). TSH 6.8 mIU/L (0.4‑4.0). Free T4 0.9 ng/dL (0.9‑1.7). Lipids: cholesterol 210 mg/dL (<200), triglycerides 160 mg/dL (<150), HDL 38 mg/dL (>40), LDL 130 mg/dL (<100)."
+    },
+    {
+      "memory_id": "X0186-m03",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Amlodipine 5 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD\nLevothyroxine 50 mcg OD\nFerrous sulfate 200 mg OD\nFerrous sulfate 200 mg on alternate days"
+    },
+    {
+      "memory_id": "X0186-m04",
+      "date": "2025-05-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: Feeling less tired but occasional constipation. No new swelling or palpitations. Taking iron tablets as advised, sometimes miss the alternate dose."
+    },
+    {
+      "memory_id": "X0186-m05",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 138/84 mmHg, good. Continue current regimen. Iron-deficiency anaemia: Hb 10.8 g/dL, improved but still low; ferritin 18 ng/mL. Plan: continue ferrous sulfate OD + alternate days, reassess in 3 months. Hypothyroidism: TSH 5.2 mIU/L (still high), free T4 1.0 ng/dL. Plan: increase levothyroxine to 75 mcg OD, repeat TSH in 6‑8 weeks. Weight 67.5 kg, waist 90 cm (at cut‑off). Diet: breakfast – oats with milk; lunch – chapati, sambar, salad; dinner – khichdi, curd. Due: HbA1c 2025-10-05; lipid repeat yearly."
+    },
+    {
+      "memory_id": "X0186-m06",
+      "date": "2025-07-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 10.8 g/dL (13.0‑17.0). Ferritin 18 ng/mL (30‑400). MCV 80 fL (80‑100). Serum creatinine 1.0 mg/dL, eGFR 62 mL/min/1.73m2. Potassium 4.2 mmol/L. TSH 5.2 mIU/L (0.4‑4.0). Free T4 1.0 ng/dL (0.9‑1.7)."
+    },
+    {
+      "memory_id": "X0186-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levothyroxine 75 mcg OD\nAll other medicines unchanged."
+    },
+    {
+      "memory_id": "X0186-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 140/88 mmHg, slight rise. Consider adding low‑dose statin for lipids. Iron-deficiency anaemia: Hb 11.6 g/dL, ferritin 22 ng/mL. Plan: continue iron, check again in 3 months. Hypothyroidism: TSH 3.9 mIU/L (now within range), free T4 1.2 ng/dL. Plan: keep levothyroxine 75 mcg OD, repeat TSH in 6 months. Weight 67 kg, waist 89 cm (<90). Diet: breakfast – idli with chutney; lunch – vegetable curry, roti; dinner – dal rice, buttermilk. Due: HbA1c 2026-01-05; lipid panel due."
+    },
+    {
+      "memory_id": "X0186-m09",
+      "date": "2025-10-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.0 mg/dL, eGFR 63 mL/min/1.73m2. Potassium 4.3 mmol/L. Lipids: cholesterol 205 mg/dL, triglycerides 150 mg/dL, HDL 39 mg/dL, LDL 128 mg/dL. HbA1c 6.2% (4.0‑5.6)."
+    },
+    {
+      "memory_id": "X0186-m10",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Atorvastatin 10 mg OD\nAll other medicines unchanged."
+    },
+    {
+      "memory_id": "X0186-m11",
+      "date": "2026-01-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 136/82 mmHg on current regimen, good. Iron-deficiency anaemia: Hb 12.4 g/dL, ferritin 28 ng/mL (approaching normal). Plan: continue ferrous sulfate OD only, stop alternate‑day dose. Hypothyroidism: TSH 2.1 mIU/L, free T4 1.3 ng/dL. Plan: maintain levothyroxine 75 mcg OD, repeat TSH in 6 months. Weight 66.5 kg, waist 88 cm. Diet: breakfast – poha with peanuts; lunch – rice, rasam, veg; dinner – chapati, curd. Due: HbA1c 2026-04-05."
+    },
+    {
+      "memory_id": "X0186-m12",
+      "date": "2026-01-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.4 g/dL (13.0‑17.0). Ferritin 28 ng/mL (30‑400). MCV 84 fL (80‑100). Serum creatinine 0.9 mg/dL, eGFR 66 mL/min/1.73m2. Potassium 4.1 mmol/L. TSH 2.1 mIU/L (0.4‑4.0). Free T4 1.3 ng/dL (0.9‑1.7)."
+    },
+    {
+      "memory_id": "X0186-m13",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levothyroxine 100 mcg OD\nFerrous sulfate 200 mg OD\nAll other medicines unchanged."
+    },
+    {
+      "memory_id": "X0186-m14",
+      "date": "2026-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG: Sinus rhythm, rate 78 bpm. No ST‑T changes. Left ventricular voltage within normal limits. No arrhythmia. Interpretation: Normal ECG for age."
+    },
+    {
+      "memory_id": "X0186-m15",
+      "date": "2026-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original visit scheduled for 2026-04-15 moved to 2026-04-20 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0186-m16",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 134/80 mmHg, at goal. Continue amlodipine, telmisartan, losartan, HCTZ, atorvastatin. Iron-deficiency anaemia: Hb 13.0 g/dL (normal), ferritin 35 ng/mL (normal). Plan: stop ferrous sulfate, monitor CBC in 3 months. Hypothyroidism: TSH 1.8 mIU/L, free T4 1.4 ng/dL. Plan: keep levothyroxine 100 mcg OD, repeat TSH in 12 months. Weight 66 kg, waist 86 cm. Diet: breakfast – upma with veg; lunch – millet rotis, curd; dinner – vegetable stew, rice. Due: HbA1c 2026-10-05; lipid panel due yearly."
+    }
+  ]
+}

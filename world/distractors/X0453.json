@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0453",
+  "name": "Sheeba D'Souza",
+  "age": 83,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0453-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Visit for fatigue and poor sleep.\nPRESENTING COMPLAINT: The patient reports persistent low energy, daytime sleepiness, and difficulty falling asleep despite feeling tired.\nEXAMINATION: BP 138/84 mmHg, weight 55 kg, height 1.55 m gives BMI 22.9 (normal). Cardiovascular and respiratory exams are unremarkable; pallor noted on conjunctiva.\nIMPRESSION: Iron‑deficiency anaemia likely contributing to fatigue; insomnia worsened by age‑related changes. Annual fasting lipid profile and fasting blood sugar ordered as per protocol.\nARRANGEMENTS: Order Hb, ferritin, MCV, TSH, Insomnia Severity Index, lipid profile and glucose. Start ferrous sulfate 200 mg OD, melatonin 3 mg HS, trazodone 50 mg HS. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0453-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg OD\nMelatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0453-m03",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg on alternate days\nMelatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0453-m04",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 10.8 g/dL (12‑16)\nSerum ferritin 12 ng/mL (15‑150)\nMCV 78 fL (80‑100)\nTSH 2.1 mIU/L (0.4‑4.0)\nInsomnia Severity Index score 14 (0‑28, higher worse)\nFasting lipids: Cholesterol 5.2 mmol/L (<5.2), HDL 1.2 (>1.0), LDL 3.0 (<2.6), TG 1.8 (<1.7)\nFasting glucose 6.1 mmol/L (3.9‑5.6)"
+    },
+    {
+      "memory_id": "X0453-m05",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Visit for routine follow‑up and influenza vaccination.\nPRESENTING COMPLAINT: Patient feels slightly better energy but still reports early‑morning awakening.\nEXAMINATION: BP 136/82, weight 57 kg, height 1.55 m → BMI 23.7 (overweight). Advice on balanced diet and regular walking given.\nIMPRESSION: Iron‑deficiency anaemia improving but still suboptimal; insomnia mild. Annual lipids and glucose checked previously; now within target except LDL slightly high.\nARRANGEMENTS: Repeat Hb, ferritin, MCV. Continue ferrous sulfate on alternate days, melatonin 3 mg HS, trazodone 50 mg HS. Influenza vaccine administered today (01‑Sep‑2025). Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0453-m06",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-11-12 at 10:30 with Dr Priya Natarajan (D03) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0453-m07",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Visit for worsening fatigue and restless nights.\nPRESENTING COMPLAINT: Patient notes increased tiredness, difficulty concentrating, and frequent awakenings.\nEXAMINATION: BP 140/86, weight 58 kg, height 1.55 m → BMI 24.1 (overweight). Advice on reduced salt intake and light aerobic activity reiterated.\nIMPRESSION: Persistent iron‑deficiency anaemia; insomnia severity risen. Plan to increase iron supplementation and review sleep hygiene.\nARRANGEMENTS: Order Hb, ferritin, MCV, TSH, ISI. Change ferrous sulfate to 200 mg OD. Continue melatonin 3 mg HS, increase trazodone to 75 mg HS. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0453-m08",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.4 g/dL (12‑16)\nSerum ferritin 18 ng/mL (15‑150)\nMCV 80 fL (80‑100)\nTSH 2.0 mIU/L (0.4‑4.0)\nInsomnia Severity Index score 12 (0‑28)\nFasting lipids: Cholesterol 5.0 (<5.2), HDL 1.3 (>1.0), LDL 2.9 (<2.6), TG 1.6 (<1.7)\nFasting glucose 5.8 mmol/L (3.9‑5.6)"
+    },
+    {
+      "memory_id": "X0453-m09",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Visit for routine review of anaemia and sleep.\nPRESENTING COMPLAINT: Patient reports steadier energy, fewer night awakenings, but still desires better sleep.\nEXAMINATION: BP 138/84, weight 57 kg, height 1.55 m → BMI 23.7 (overweight). Advice on Mediterranean‑style diet and 30‑minute walks.\nIMPRESSION: Haemoglobin approaching normal; ferritin still low‑normal. Insomnia improved but residual. Annual lipid and glucose checked; within targets.\nARRANGEMENTS: Repeat Hb, ferritin, MCV. Keep ferrous sulfate 200 mg OD, melatonin 3 mg HS, trazodone 75 mg HS. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0453-m10",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg OD\nMelatonin 3 mg HS\nTrazodone 75 mg HS"
+    },
+    {
+      "memory_id": "X0453-m11",
+      "date": "2026-06-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg OD\nMelatonin 3 mg HS\nTrazodone 75 mg HS\n(Added: Vitamin C 500 mg OD to enhance iron absorption)"
+    },
+    {
+      "memory_id": "X0453-m12",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-09-10 to 2026-09-17 at 14:00 with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0453-m13",
+      "date": "2026-09-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Visit for autumn influenza vaccination and check‑up.\nPRESENTING COMPLAINT: Patient feels well, reports good energy and sleep quality.\nEXAMINATION: BP 135/80, weight 56 kg, height 1.55 m → BMI 23.3 (overweight). Advice on maintaining activity and hydration.\nIMPRESSION: Iron stores adequate; haemoglobin stable. Insomnia Severity Index score 8 (mild). Annual lipids and glucose within normal limits.\nARRANGEMENTS: Influenza vaccine administered today (20‑Sep‑2026). Continue current meds. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0453-m14",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Final visit for medication review before winter.\nPRESENTING COMPLAINT: Patient denies new symptoms, wishes to continue current regimen.\nEXAMINATION: BP 134/78, weight 55 kg, height 1.55 m → BMI 22.9 (normal). No specific diet advice needed.\nIMPRESSION: Iron‑deficiency anaemia in remission; insomnia well controlled. No further labs required at this time.\nARRANGEMENTS: Continue ferrous sulfate 200 mg OD, melatonin 3 mg HS, trazodone 75 mg HS. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    }
+  ]
+}

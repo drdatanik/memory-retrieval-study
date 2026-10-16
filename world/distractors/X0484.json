@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0484",
+  "name": "Kamala Ramasamy",
+  "age": 51,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Coronary artery disease",
+    "Insomnia",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0484-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild fatigue after walking 200 m, manages household chores independently.\ncognition: Mini‑Cog score 4/5 (recall 3 items, clock draw normal).\nfalls: no falls in past 12 m, gait steady, timed up‑and‑go 9 seconds (normal).\nmedicines: 9 regular – aspirin 75 mg OD, atorvastatin 40 mg HS, metoprolol 25 mg OD, isosorbide 20 mg OD, melatonin 3 mg HS, trazodone 50 mg HS, methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD.\nmood: denies low mood or anxiety, PHQ‑2 0.\ncarers: daughter Priya, lives nearby.\ngoal: \"I want to stay active and keep working without chest pain.\""
+    },
+    {
+      "memory_id": "X0484-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "aspirin 75 mg OD\natorvastatin 40 mg HS\nmetoprolol succinate 25 mg OD\nisosorbide mononitrate 20 mg OD\nsublingual GTN SOS\nmelatonin 3 mg HS\ntrazodone 50 mg HS\nmethotrexate 10 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0484-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 138 mg/dL (ref <100), HDL 48 mg/dL (ref >40), triglycerides 162 mg/dL (ref <150).\nTSH 2.1 mIU/L (ref 0.4‑4.0).\nHaemoglobin 13.2 g/dL (ref 12‑16).\nESR 18 mm/hr (ref 0‑20).\nCRP 3 mg/L (ref <5).\nRheumatoid factor 12 IU/mL (ref <14).\nAnti‑CCP 5 U/mL (ref <7).\nALT 22 U/L (ref 7‑35), AST 20 U/L (ref 8‑30)."
+    },
+    {
+      "memory_id": "X0484-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Resting ECG: sinus rhythm 78 bpm, no ST‑segment changes, no Q waves. Left ventricular voltage within normal limits."
+    },
+    {
+      "memory_id": "X0484-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been waking up at 3 am most nights and feel tired in the mornings. My joints feel stiff after sitting for an hour."
+    },
+    {
+      "memory_id": "X0484-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: walks 400 m without chest discomfort, able to climb two flights of stairs.\ncognition: Mini‑Cog 4/5 (recall 3, clock draw normal).\nfalls: no falls, gait smooth, timed up‑and‑go 8.5 seconds.\nmedicines: 9 regular – aspirin, atorvastatin, metoprolol increased to 37.5 mg OD, isosorbide, melatonin, trazodone, methotrexate, folic acid, hydroxychloroquine.\nmood: reports occasional irritability, PHQ‑2 1.\ncarers: daughter Priya.\ngoal: \"I want to keep my blood pressure stable and sleep through the night.\""
+    },
+    {
+      "memory_id": "X0484-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metoprolol succinate 37.5 mg OD\n(all other medicines unchanged)"
+    },
+    {
+      "memory_id": "X0484-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 122 mg/dL, HDL 50 mg/dL, triglycerides 148 mg/dL.\nTSH 2.0 mIU/L.\nHaemoglobin 13.0 g/dL."
+    },
+    {
+      "memory_id": "X0484-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Treadmill test (Bruce protocol): exercised 6 minutes, achieved 85% of predicted max HR, no chest pain, no ST‑depression, BP response normal."
+    },
+    {
+      "memory_id": "X0484-m10",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: walks 500 m, does light gardening without dyspnoea.\ncognition: Mini‑Cog 4/5 (recall 3, clock draw normal).\nfalls: no falls, gait normal, timed up‑and‑go 8.0 seconds.\nmedicines: 10 regular – aspirin, atorvastatin, metoprolol 37.5 mg OD, isosorbide, melatonin increased to 5 mg HS, trazodone 50 mg HS, methotrexate, folic acid, hydroxychloroquine, prednisolone.\nmood: denies depression, PHQ‑2 0.\ncarers: daughter Priya.\ngoal: \"I want to keep my joints less stiff and avoid steroids long term.\""
+    },
+    {
+      "memory_id": "X0484-m11",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "melatonin 5 mg HS\n(all other medicines unchanged)"
+    },
+    {
+      "memory_id": "X0484-m12",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 22 mm/hr (ref 0‑20).\nCRP 6 mg/L (ref <5).\nRheumatoid factor 18 IU/mL (ref <14).\nAnti‑CCP 12 U/mL (ref <7).\nLFT: ALT 28 U/L, AST 24 U/L, ALP 85 U/L, bilirubin 0.9 mg/dL."
+    },
+    {
+      "memory_id": "X0484-m13",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Transthoracic echocardiogram: LVEF 60%, mild left atrial enlargement, no valvular stenosis or regurgitation, no wall motion abnormalities."
+    },
+    {
+      "memory_id": "X0484-m14",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: walks 600 m, reports occasional knee pain after prolonged standing.\ncognition: Mini‑Cog 4/5 (recall 3, clock draw normal).\nfalls: one minor slip at home without injury in past 3 months, gait slightly antalgic on right, timed up‑and‑go 10.5 seconds (borderline).\nmedicines: 9 regular – aspirin, atorvastatin, metoprolol 37.5 mg OD, isosorbide, melatonin 5 mg HS, trazodone 50 mg HS, methotrexate, folic acid, hydroxychloroquine, prednisolone tapered to 2.5 mg OD.\nmood: reports better sleep, PHQ‑2 0.\ncarers: daughter Priya.\ngoal: \"I want to reduce steroid use and stay pain‑free.\""
+    },
+    {
+      "memory_id": "X0484-m15",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "prednisolone 2.5 mg OD\n(all other medicines unchanged)"
+    },
+    {
+      "memory_id": "X0484-m16",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function test: ALT 21 U/L, AST 19 U/L, ALP 78 U/L, bilirubin 0.8 mg/dL, albumin 4.2 g/dL."
+    },
+    {
+      "memory_id": "X0484-m17",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2027-02-10 09:30 with Dr Nandini Kulkarni for routine follow‑up. Patient reminded to bring recent labs and medication list."
+    }
+  ]
+}

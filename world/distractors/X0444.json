@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0444",
+  "name": "Vikas Kapoor",
+  "age": 44,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0444-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports managing hotel shifts, no difficulty with ADLs.\ncognition: Mini-Cog 4/5 (negative screen).\nfalls: no falls in past 12 months; gait steady; TUG 9 seconds (normal).\nmedicines: 2 regular (melatonin 3 mg HS, trazodone 50 mg HS); polypharmacy screen not applicable.\nmood: denies depression or anxiety; reports occasional frustration with sleep.\ncarers: Priya, spouse.\ngoal: \"I want to sleep through the night and feel rested for work.\""
+    },
+    {
+      "memory_id": "X0444-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "melatonin 3 mg PO HS\n trazodone 50 mg PO HS"
+    },
+    {
+      "memory_id": "X0444-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (0.4-4.0) – slightly high\n Haemoglobin 13.8 g/dL (13.0-17.0) – normal"
+    },
+    {
+      "memory_id": "X0444-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues hotel duties, no new limitations.\ncognition: Mini-Cog 4/5 (negative screen).\nfalls: no falls; gait good; TUG 10 seconds (normal).\nmedicines: 2 regular (melatonin 3 mg HS, trazodone 25 mg HS) – dose reduced; review against Beers not needed.\nmood: reports improved sleep, less irritability.\ncarers: Priya, spouse.\ngoal: \"I’d like to wake up without grogginess.\""
+    },
+    {
+      "memory_id": "X0444-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.0 mIU/L (0.4-4.0) – upper limit normal\n Haemoglobin 14.0 g/dL (13.0-17.0) – normal"
+    },
+    {
+      "memory_id": "X0444-m06",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up with Dr Kulkarni (D06) for 2025-10-15 at 10:00."
+    },
+    {
+      "memory_id": "X0444-m07",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: hotel manager reports occasional daytime sedation affecting afternoon meetings.\ncognition: Mini-Cog 4/5 (negative screen).\nfalls: no falls; gait slightly slow; TUG 11 seconds (borderline).\nmedicines: 1 regular (melatonin 3 mg HS); trazodone stopped due to sedation; polypharmacy not applicable.\nmood: feels better awake, reports mild anxiety about work performance.\ncarers: Priya, spouse.\ngoal: \"I want to stay alert during work hours while sleeping well at night.\""
+    },
+    {
+      "memory_id": "X0444-m08",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "melatonin 5 mg PO HS"
+    },
+    {
+      "memory_id": "X0444-m09",
+      "date": "2026-01-08",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: manages hotel smoothly, no fatigue noted.\ncognition: Mini-Cog 4/5 (negative screen).\nfalls: no falls; gait normal; TUG 9 seconds (normal).\nmedicines: 1 regular (melatonin 5 mg HS); polypharmacy not applicable.\nmood: reports stable mood, satisfied with sleep.\ncarers: Priya, spouse.\ngoal: \"I want to keep sleeping well and maintain my energy for work.\""
+    },
+    {
+      "memory_id": "X0444-m10",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 3.8 mIU/L (0.4-4.0) – normal\n Haemoglobin 13.9 g/dL (13.0-17.0) – normal"
+    },
+    {
+      "memory_id": "X0444-m11",
+      "date": "2026-04-14",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: occasional early‑morning awakenings, but able to return to sleep.\ncognition: Mini-Cog 4/5 (negative screen).\nfalls: no falls; gait steady; TUG 10 seconds (normal).\nmedicines: 1 regular (melatonin 5 mg HS); polypharmacy not applicable.\nmood: mild frustration with early waking, otherwise good.\ncarers: Priya, spouse.\ngoal: \"I’d like to sleep straight through to my wake‑up time.\""
+    },
+    {
+      "memory_id": "X0444-m12",
+      "date": "2026-04-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.1 mIU/L (0.4-4.0) – slightly high\n Haemoglobin 14.1 g/dL (13.0-17.0) – normal"
+    },
+    {
+      "memory_id": "X0444-m13",
+      "date": "2026-07-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: hotel duties performed without difficulty; energy levels good.\ncognition: Mini-Cog 4/5 (negative screen).\nfalls: no falls; gait normal; TUG 9 seconds (normal).\nmedicines: 1 regular (melatonin 5 mg HS); polypharmacy not applicable.\nmood: reports contentment, sleep quality rated good.\ncarers: Priya, spouse.\ngoal: \"I want to continue sleeping well and feel ready for each day.\""
+    },
+    {
+      "memory_id": "X0444-m14",
+      "date": "2026-07-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 3.9 mIU/L (0.4-4.0) – normal\n Haemoglobin 14.0 g/dL (13.0-17.0) – normal"
+    }
+  ]
+}

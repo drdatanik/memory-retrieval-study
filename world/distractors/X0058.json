@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0058",
+  "name": "Ammini Unnithan",
+  "age": 22,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0058-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia: Patient reports difficulty falling asleep, frequent awakenings, daytime fatigue. Insomnia Severity Index score pending. Plan: Start melatonin 3 mg at bedtime and trazodone 50 mg at bedtime. Counsel sleep hygiene.\n- Weight: 58 kg, waist 78 cm (female cut‑off 80 cm). Within normal.\nDue: HbA1c in 3 months (though not on glucose‑lowering meds, routine). Next visit in 3 months."
+    },
+    {
+      "memory_id": "X0058-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0058-m03",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.1 mIU/L (0.4‑4.0)\nHaemoglobin: 12.8 g/dL (12.0‑15.5)"
+    },
+    {
+      "memory_id": "X0058-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia: Patient reports improved sleep onset, still 2‑3 awakenings per night. ISI score 12 (moderate). Plan: Continue current regimen, consider slight trazodone increase if awakenings persist.\n- Weight: 59 kg, waist 80 cm (at cut‑off). Advise modest calorie reduction, avoid late‑night snacks.\nDue: HbA1c in 3 months. Next visit in 3 months."
+    },
+    {
+      "memory_id": "X0058-m05",
+      "date": "2025-07-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Insomnia Severity Index score: 12 (moderate). Sleep latency ~30 min, awakenings 2‑3 times, early morning awakening once."
+    },
+    {
+      "memory_id": "X0058-m06",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.0 mIU/L (0.4‑4.0)\nHaemoglobin: 13.0 g/dL (12.0‑15.5)"
+    },
+    {
+      "memory_id": "X0058-m07",
+      "date": "2025-10-08",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia: Patient reports better sleep maintenance, only 1‑2 awakenings. ISI score 8 (mild). Plan: Trazodone increase to 75 mg HS to further consolidate sleep; melatonin unchanged.\n- Weight: 60 kg, waist 81 cm (slightly above cut‑off). Reinforce evening walk, limit carbs after 7 pm.\nDue: HbA1c in 3 months. Next visit in 3 months."
+    },
+    {
+      "memory_id": "X0058-m08",
+      "date": "2025-10-08",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nTrazodone 75 mg HS"
+    },
+    {
+      "memory_id": "X0058-m09",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.2 mIU/L (0.4‑4.0)\nHaemoglobin: 12.9 g/dL (12.0‑15.5)"
+    },
+    {
+      "memory_id": "X0058-m10",
+      "date": "2026-01-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia: Patient reports good sleep, ISI score 6 (mild). Plan: Taper trazodone to 50 mg HS, continue melatonin.\n- Weight: 61 kg, waist 82 cm. Advise reduce sugary drinks, increase protein.\nDue: HbA1c in 3 months. Next visit in 3 months.\n- Appointment: Schedule follow‑up for 2026-04-10."
+    },
+    {
+      "memory_id": "X0058-m11",
+      "date": "2026-01-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-10 at 10:00 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0058-m12",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia: Patient reports stable sleep, ISI score 5 (mild). Plan: Continue melatonin 3 mg HS, trazodone 50 mg HS.\n- Weight: 62 kg, waist 83 cm. Encourage regular aerobic activity 30 min daily.\nDue: HbA1c in 3 months. Next visit in 3 months."
+    }
+  ]
+}

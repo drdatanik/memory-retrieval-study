@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0443",
+  "name": "Ravindra Pulipati",
+  "age": 29,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0443-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "NAFLD diagnosed based on elevated liver enzymes and hepatic steatosis on ultrasound. Patient asymptomatic, BMI 22, non‑alcoholic, no significant alcohol intake. Examination: mild right upper quadrant tenderness, otherwise normal. LFT shows ALT 68 U/L, AST 45 U/L, platelets 210×10⁹/L. Lipid profile: LDL 130 mg/dL, triglycerides 180 mg/dL."
+    },
+    {
+      "memory_id": "X0443-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Silymarin 140 mg tablet, take one tablet three times daily. Rosuvastatin 5 mg tablet, take one tablet once daily at bedtime."
+    },
+    {
+      "memory_id": "X0443-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 68 U/L (7‑35), AST 45 U/L (8‑40), ALP 78 U/L (40‑129), GGT 32 U/L (0‑51). Total bilirubin 0.9 mg/dL (0.2‑1.2). Platelets 210×10⁹/L (150‑400). Lipids: Cholesterol 190 mg/dL (<200), HDL 42 mg/dL (>40), LDL 130 mg/dL (<100), Triglycerides 180 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0443-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Abdominal ultrasound: liver size 14.5 cm, diffuse increased echogenicity consistent with steatosis. No focal lesion, spleen normal, portal vein patent. No ascites."
+    },
+    {
+      "memory_id": "X0443-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Follow‑up NAFLD. Patient reports occasional fatigue, no abdominal pain. Continues silymarin and rosuvastatin. Examination: BMI 22, liver edge not palpable, no jaundice. LFT shows ALT 55 U/L, AST 38 U/L. Lipids improved."
+    },
+    {
+      "memory_id": "X0443-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 55 U/L (7‑35), AST 38 U/L (8‑40), ALP 80 U/L (40‑129), GGT 30 U/L (0‑51). Platelets 208×10⁹/L. Lipids: Cholesterol 178 mg/dL, HDL 44 mg/dL, LDL 110 mg/dL, Triglycerides 140 mg/dL."
+    },
+    {
+      "memory_id": "X0443-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Rosuvastatin dose increased to 10 mg tablet once daily at bedtime. Silymarin unchanged 140 mg TDS."
+    },
+    {
+      "memory_id": "X0443-m08",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "NAFLD review. Patient feels well, no new symptoms. Medication adherence good. Examination: BMI 22, no hepatomegaly. LFT: ALT 48 U/L, AST 34 U/L. Lipids within target."
+    },
+    {
+      "memory_id": "X0443-m09",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 48 U/L (7‑35), AST 34 U/L (8‑40), ALP 77 U/L (40‑129), GGT 28 U/L (0‑51). Platelets 212×10⁹/L. Lipids: Cholesterol 170 mg/dL, HDL 45 mg/dL, LDL 95 mg/dL, Triglycerides 125 mg/dL."
+    },
+    {
+      "memory_id": "X0443-m10",
+      "date": "2025-10-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-08 at 09:30 with Dr Suresh Menon for NAFLD follow‑up."
+    },
+    {
+      "memory_id": "X0443-m11",
+      "date": "2026-01-08",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "NAFLD follow‑up. Patient mentions mild early‑morning fatigue, otherwise well. Continues silymarin and rosuvastatin 10 mg. Examination: BMI 22, liver not palpable, no jaundice. LFT shows ALT 52 U/L, AST 36 U/L."
+    },
+    {
+      "memory_id": "X0443-m12",
+      "date": "2026-01-08",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling a bit tired in the mornings for the past week, but it improves after breakfast. No other complaints."
+    },
+    {
+      "memory_id": "X0443-m13",
+      "date": "2026-01-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 52 U/L (7‑35), AST 36 U/L (8‑40), ALP 79 U/L (40‑129), GGT 31 U/L (0‑51). Platelets 210×10⁹/L. Lipids: Cholesterol 172 mg/dL, HDL 44 mg/dL, LDL 100 mg/dL, Triglycerides 130 mg/dL."
+    },
+    {
+      "memory_id": "X0443-m14",
+      "date": "2026-01-08",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Continue silymarin 140 mg TDS. Continue rosuvastatin 10 mg OD at bedtime."
+    },
+    {
+      "memory_id": "X0443-m15",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "NAFLD review. Patient reports fatigue resolved, feels energetic. Medication adherence excellent. Examination: BMI 22, no hepatomegaly. LFT: ALT 38 U/L, AST 28 U/L. Lipids optimal."
+    },
+    {
+      "memory_id": "X0443-m16",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 38 U/L (7‑35), AST 28 U/L (8‑40), ALP 75 U/L (40‑129), GGT 26 U/L (0‑51). Platelets 215×10⁹/L. Lipids: Cholesterol 165 mg/dL, HDL 46 mg/dL, LDL 88 mg/dL, Triglycerides 110 mg/dL."
+    },
+    {
+      "memory_id": "X0443-m17",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Continue silymarin 140 mg TDS. Continue rosuvastatin 10 mg OD at bedtime."
+    }
+  ]
+}

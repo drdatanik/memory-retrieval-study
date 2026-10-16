@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0548",
+  "name": "Srinivas Bollineni",
+  "age": 78,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0548-m01",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I am a 78‑year‑old male software engineer living in Whitefield. Lately I feel tired, have mild thigh weakness and worry about falling while walking to the market. My daughter helps with groceries. I want to stay active and independent."
+    },
+    {
+      "memory_id": "X0548-m02",
+      "date": "2025-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-04-12 at 10:00 with Dr Nandini Kulkarni (D06) for initial geriatric assessment."
+    },
+    {
+      "memory_id": "X0548-m03",
+      "date": "2025-04-12",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports mild fatigue and thigh weakness; walks unaided for ~200 m, uses cane occasionally. cognition: Mini‑Cog 3/5 (recall 2, clock draw normal) – negative screen. falls: No falls in last 12 m; gait steady; TUG 11 s (normal). medicines: 0 regular. mood: Mood good, denies depression. carers: Daughter Priya, primary helper. goals: \"I want to keep walking without fear and continue teaching coding workshops.\""
+    },
+    {
+      "memory_id": "X0548-m04",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cholecalciferol 60000 IU once weekly for 8 weeks, then cholecalciferol 1000 IU OD."
+    },
+    {
+      "memory_id": "X0548-m05",
+      "date": "2025-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "25‑hydroxyvitamin D 18 ng/mL (ref 20‑50); serum calcium 9.2 mg/dL (8.8‑10.5); serum phosphate 3.4 mg/dL (2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0548-m06",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Fatigue improved, can walk 300 m without aid; mild thigh weakness persists. cognition: Mini‑Cog not repeated (first year). falls: No falls; gait smooth; TUG 10 s. medicines: 1 regular (cholecalciferol). mood: Mood stable. carers: Daughter Priya. goals: \"I wish to regain strength for my volunteer tech mentoring.\""
+    },
+    {
+      "memory_id": "X0548-m07",
+      "date": "2025-06-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cholecalciferol 60000 IU once weekly for 4 more weeks, then cholecalciferol 1000 IU OD."
+    },
+    {
+      "memory_id": "X0548-m08",
+      "date": "2025-09-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "25‑hydroxyvitamin D 28 ng/mL; calcium 9.4 mg/dL; phosphate 3.5 mg/dL."
+    },
+    {
+      "memory_id": "X0548-m09",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Strength better, walks 400 m unaided; occasional thigh tightness after stairs. cognition: Mini‑Cog not due yet. falls: No falls; gait normal; TUG 9 s. medicines: 1 regular. mood: Mood good. carers: Daughter Priya. goals: \"I want to stay fit enough to travel to Mysore next year.\""
+    },
+    {
+      "memory_id": "X0548-m10",
+      "date": "2025-09-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cholecalciferol 1000 IU OD."
+    },
+    {
+      "memory_id": "X0548-m11",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "25‑hydroxyvitamin D 32 ng/mL; calcium 9.5 mg/dL; phosphate 3.6 mg/dL."
+    },
+    {
+      "memory_id": "X0548-m12",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports no fatigue, walks 500 m comfortably; mild thigh stiffness after long walks resolved with stretching. cognition: Mini‑Cog not repeated. falls: No falls; gait steady; TUG 9 s. medicines: 1 regular. mood: Mood positive. carers: Daughter Priya. goals: \"I aim to keep my coding club active and stay independent.\""
+    },
+    {
+      "memory_id": "X0548-m13",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cholecalciferol 1000 IU OD."
+    },
+    {
+      "memory_id": "X0548-m14",
+      "date": "2026-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-15 09:00 to 2026-04-15 11:00 due to patient's travel request; still with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0548-m15",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Walks 600 m without aid; reports good energy; no thigh pain. cognition: Mini‑Cog 3/5 (recall 2, clock draw normal) – negative screen (annual). falls: No falls in last 12 m; gait normal; TUG 8 s. medicines: 1 regular. mood: Mood cheerful. carers: Daughter Priya. goals: \"I want to continue mentoring young engineers and enjoy gardening.\""
+    },
+    {
+      "memory_id": "X0548-m16",
+      "date": "2026-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "25‑hydroxyvitamin D 35 ng/mL; calcium 9.5 mg/dL; phosphate 3.6 mg/dL."
+    },
+    {
+      "memory_id": "X0548-m17",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cholecalciferol 1000 IU OD."
+    },
+    {
+      "memory_id": "X0548-m18",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Maintains 600 m walk; occasional mild calf tightness after exertion, relieved by rest. cognition: Mini‑Cog not due yet. falls: No falls; gait stable; TUG 9 s. medicines: 1 regular. mood: Mood content. carers: Daughter Priya. goals: \"I wish to stay healthy enough to attend my granddaughter’s graduation next year.\""
+    }
+  ]
+}

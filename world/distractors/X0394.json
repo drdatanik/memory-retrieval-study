@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0394",
+  "name": "Kaushik Chakraborty",
+  "age": 73,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Migraine",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0394-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: frequency 4-5 days/month, moderate severity, some disability. Plan: continue propranolol 40 mg OD, sumatriptan 50 mg SOS, topiramate 25 mg HS, naproxen 500 mg SOS SOS. Vitamin D deficiency: asymptomatic. Plan: cholecalciferol 60000 IU once weekly for 8 weeks then 1000 IU OD. Due: HbA1c in 3 months, weight/waist check."
+    },
+    {
+      "memory_id": "X0394-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "propranolol 40 mg OD after food\nsumatriptan 50 mg SOS after food\ntopiramate 25 mg HS after food\nnaproxen 500 mg SOS after food\ncholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD after food"
+    },
+    {
+      "memory_id": "X0394-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 12 ng/mL (ref 20-50)\nSerum calcium: 9.2 mg/dL (ref 8.5-10.5)\nSerum phosphate: 2.8 mg/dL (ref 2.5-4.5)"
+    },
+    {
+      "memory_id": "X0394-m04",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I get throbbing headaches on the right side, usually after work, lasting 4-6 hours. Light and noise bother me. I’ve been taking naproxen when it’s bad."
+    },
+    {
+      "memory_id": "X0394-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: frequency down to 2 days/month, mild, good response. Vitamin D: completed loading course, now on maintenance. Plan: continue current migraine prophylaxis, vitamin D 1000 IU OD. Due: HbA1c in 3 months, weight/waist."
+    },
+    {
+      "memory_id": "X0394-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "propranolol 40 mg OD after food\nsumatriptan 50 mg SOS after food\ntopiramate 25 mg HS after food\nnaproxen 500 mg SOS after food\ncholecalciferol 1000 IU OD after food"
+    },
+    {
+      "memory_id": "X0394-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 28 ng/mL (ref 20-50)"
+    },
+    {
+      "memory_id": "X0394-m08",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-05 at 10:30 AM with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0394-m09",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: stable, 1-2 episodes/month, mild. Vitamin D: adequate on maintenance. Plan: consider taper propranolol if bradycardia develops; continue other meds. Weight 78 kg, waist 92 cm (male cut‑off 90 cm) – advise reduced salt, avoid late‑night snacks. Due: HbA1c in 3 months, lipid profile yearly."
+    },
+    {
+      "memory_id": "X0394-m10",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "propranolol 40 mg OD after food\nsumatriptan 50 mg SOS after food\ntopiramate 25 mg HS after food\nnaproxen 500 mg SOS after food\ncholecalciferol 1000 IU OD after food"
+    },
+    {
+      "memory_id": "X0394-m11",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 9.4 mg/dL (ref 8.5-10.5)\nSerum phosphate: 3.0 mg/dL (ref 2.5-4.5)"
+    },
+    {
+      "memory_id": "X0394-m12",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: patient reports occasional breakthrough headache, uses sumatriptan 2-3 times/month. Propranolol tolerated, HR 58 bpm. Plan: reduce propranolol to 20 mg OD, monitor heart rate. Vitamin D: adequate. Due: HbA1c in 3 months, weight/waist."
+    },
+    {
+      "memory_id": "X0394-m13",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "propranolol 20 mg OD after food\nsumatriptan 50 mg SOS after food\ntopiramate 25 mg HS after food\nnaproxen 500 mg SOS after food\ncholecalciferol 1000 IU OD after food"
+    },
+    {
+      "memory_id": "X0394-m14",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 30 ng/mL (ref 20-50)"
+    },
+    {
+      "memory_id": "X0394-m15",
+      "date": "2026-10-08",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: well controlled, 0-1 mild episodes/month, sumatriptan used once in last 3 months. Propranolol 20 mg OD tolerated, HR 60 bpm. Vitamin D: sufficient. Weight 77 kg, waist 90 cm (at cut‑off). Advice: maintain Mediterranean diet, avoid alcohol excess. Due: HbA1c in 3 months, lipid profile yearly."
+    }
+  ]
+}

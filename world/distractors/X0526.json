@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0526",
+  "name": "Paresh Shah",
+  "age": 43,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Insomnia",
+    "Asthma",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0526-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia: status ongoing, patient reports difficulty falling asleep, frequent awakenings. Plan: start melatonin 3 mg HS, trazodone 50 mg HS, counsel sleep hygiene.\n- Asthma: status mild intermittent, uses salbutamol SOS. Plan: continue salbutamol SOS, start budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS.\n- Vitamin D deficiency: status deficient. Plan: cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD.\n- Weight 78 kg, waist 92 cm (male cutoff 90 cm, elevated). Advice: reduce refined carbs, increase protein.\n- Due: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0526-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nSalbutamol MDI 100 mcg SOS\nBudesonide-formoterol 200/6 mcg inhaler 1-0-1 (after food)\nMontelukast 10 mg HS\nCholecalciferol 60000 IU once weekly for 8 doses"
+    },
+    {
+      "memory_id": "X0526-m03",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0)\nHaemoglobin 14.8 g/dL (13.0-17.0)\nSerum 25‑hydroxyvitamin D 14 ng/mL (30-100)\nSerum calcium 9.2 mg/dL (8.5-10.5)\nSerum phosphate 3.4 mg/dL (2.5-4.5)"
+    },
+    {
+      "memory_id": "X0526-m04",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Insomnia Severity Index score 18 (moderate insomnia)."
+    },
+    {
+      "memory_id": "X0526-m05",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia: status improved, reports easier sleep onset, ISI down to 12. Plan: continue melatonin 3 mg HS, reduce trazodone to 25 mg HS.\n- Asthma: status well‑controlled, no night symptoms, ACT 22. Plan: continue budesonide-formoterol BD, montelukast HS, salbutamol SOS.\n- Vitamin D deficiency: status insufficient after loading. Plan: switch to cholecalciferol 1000 IU OD.\n- Weight 77 kg, waist 90 cm (at cutoff). Advice: maintain current diet, add 30‑min walk daily.\n- Due: HbA1c 2025-10-05."
+    },
+    {
+      "memory_id": "X0526-m06",
+      "date": "2025-07-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 mg HS\nSalbutamol MDI SOS\nBudesonide-formoterol 200/6 inhaler 1-0-1 (after food)\nMontelukast 10 mg HS\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0526-m07",
+      "date": "2025-07-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4-4.0)\nHaemoglobin 15.0 g/dL (13.0-17.0)\nSerum 25‑hydroxyvitamin D 28 ng/mL (30-100)\nSerum calcium 9.3 mg/dL (8.5-10.5)\nSerum phosphate 3.5 mg/dL (2.5-4.5)"
+    },
+    {
+      "memory_id": "X0526-m08",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Asthma Control Test score 22 (well controlled)."
+    },
+    {
+      "memory_id": "X0526-m09",
+      "date": "2025-07-12",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Spirometry: FEV1 2.85 L (88% predicted), FVC 3.60 L (92% predicted), FEV1/FVC 79%. Post‑bronchodilator FEV1 2.90 L (+2%). Reversibility negative. Interpretation: normal spirometry, no obstructive defect."
+    },
+    {
+      "memory_id": "X0526-m10",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia: status stable, ISI 10 (mild). Plan: continue melatonin 3 mg HS, consider tapering trazodone.\n- Asthma: status controlled, ACT 21. Plan: continue current regimen.\n- Vitamin D deficiency: status borderline sufficient. Plan: continue cholecalciferol 1000 IU OD.\n- Weight 76 kg, waist 88 cm (below cutoff). Advice: maintain activity.\n- Due: HbA1c 2026-01-05."
+    },
+    {
+      "memory_id": "X0526-m11",
+      "date": "2025-10-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 mg HS (to be tapered off in 4 weeks)\nSalbutamol MDI SOS\nBudesonide-formoterol 200/6 inhaler 1-0-1 (after food)\nMontelukast 10 mg HS\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0526-m12",
+      "date": "2025-10-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.2 mIU/L (0.4-4.0)\nHaemoglobin 14.9 g/dL (13.0-17.0)\nSerum 25‑hydroxyvitamin D 32 ng/mL (30-100)\nSerum calcium 9.4 mg/dL (8.5-10.5)\nSerum phosphate 3.6 mg/dL (2.5-4.5)"
+    },
+    {
+      "memory_id": "X0526-m13",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-05 09:30 with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0526-m14",
+      "date": "2026-01-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia: status good, ISI 8 (mild). Plan: stop trazodone, continue melatonin 3 mg HS.\n- Asthma: status controlled, ACT 20. Plan: continue budesonide-formoterol BD, consider reducing to low dose if remains stable.\n- Vitamin D deficiency: status sufficient. Plan: continue cholecalciferol 1000 IU OD.\n- Weight 75 kg, waist 86 cm. Advice: maintain.\n- Due: HbA1c 2026-04-05."
+    },
+    {
+      "memory_id": "X0526-m15",
+      "date": "2026-01-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Melatonin 3 mg HS\nSalbutamol MDI SOS\nBudesonide-formoterol 200/6 inhaler 1-0-1 (after food)\nMontelukast 10 mg HS\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0526-m16",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Insomnia: status well, ISI 6 (mild). Plan: continue melatonin 3 mg HS.\n- Asthma: status controlled, ACT 19. Plan: step down budesonide-formoterol to 100/6 inhaler BD.\n- Vitamin D deficiency: status sufficient. Plan: continue cholecalciferol 1000 IU OD.\n- Weight 74 kg, waist 84 cm. Advice: maintain.\n- Due: HbA1c 2026-07-05."
+    }
+  ]
+}

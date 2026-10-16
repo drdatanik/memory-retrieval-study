@@ -1,0 +1,139 @@
+{
+  "patient_id": "P01",
+  "name": "Sunita Rao",
+  "age": 58,
+  "sex": "F",
+  "primary_doctor": "D01",
+  "conditions": [
+    "Type 2 diabetes",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "P01-m01",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 8.9 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P01-m02",
+      "date": "2025-04-08",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM x 6 yrs (dx 2019), HTN. C/o occasional tiredness in the afternoons. No polyuria, no hypoglycaemia. Taking metformin (Glycomet) 500 mg BD, telmisartan (Telma) 40 mg OD, atorvastatin (Atorva) 10 mg OD.\nO: BP 138/86 mmHg, pulse 76/min, wt 67 kg. O/E: no pedal oedema. HbA1c 8.9 %.\nA: 1. T2DM, control poor. 2. HTN, above target.\nP: 1. Metformin 500 mg BD, no change today; review at next visit. 2. Continue telmisartan 40 mg OD. 3. Continue atorvastatin 10 mg OD. 4. Home BP and sugar log.\nAdv: Cut sugar in tea, avoid sweets; walk 30 min most days; reduce salt. R/V in 3 months."
+    },
+    {
+      "memory_id": "P01-m03",
+      "date": "2025-05-20",
+      "type": "investigation",
+      "author": "D01",
+      "text": "Dilated fundus examination of both eyes, done as part of the diabetes review. Findings: mild non-proliferative diabetic retinopathy in both eyes. Patient counselled on sugar and blood pressure control to slow progression. Annual dilated review advised. Findings explained to the patient by Dr Anjali Mehta."
+    },
+    {
+      "memory_id": "P01-m04",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 8.1 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P01-m05",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: T2DM follow-up. Tolerating metformin 500 mg BD, no GI upset reported. Home fasting sugars mostly 140 to 170 mg/dL. Walking when she can.\nO: BP 134/84 mmHg, pulse 74/min, wt 66 kg. HbA1c 8.1 %, down from 8.9 %.\nA: 1. T2DM, improving, not at target. 2. HTN, partly controlled.\nP: 1. Increase metformin to 1000 mg BD. 2. Continue telmisartan 40 mg OD. 3. Continue atorvastatin 10 mg OD.\nAdv: Walk 20 min daily after dinner; keep rice to one katori per meal. R/V in 3 months."
+    },
+    {
+      "memory_id": "P01-m06",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: metformin increased from 500 mg BD to 1000 mg BD (2 x 500 mg tablets, with breakfast and dinner). All other medicines unchanged."
+    },
+    {
+      "memory_id": "P01-m07",
+      "date": "2025-10-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 7.6 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P01-m08",
+      "date": "2025-10-14",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: T2DM follow-up. Occasional bloating after dinner, otherwise well. No hypoglycaemia. Walking most days now.\nO: BP 130/82 mmHg, pulse 72/min, wt 65 kg. HbA1c 7.6 %, improving.\nA: 1. T2DM, improving, not yet at target. 2. HTN, near target.\nP: 1. Continue metformin 1000 mg BD with meals. 2. Continue telmisartan 40 mg OD. 3. Continue atorvastatin 10 mg OD. 4. Keep home sugar log.\nAdv: Reduce maida and fried snacks; walk 20 min daily, longer on weekends. R/V in 3 months."
+    },
+    {
+      "memory_id": "P01-m09",
+      "date": "2026-01-13",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 7.4 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P01-m10",
+      "date": "2026-01-13",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: T2DM follow-up. Loose stools on and off since the metformin increase, around 2 to 3 times a week, no blood, no fever. Eating full meals. Otherwise well.\nO: BP 136/86 mmHg, pulse 78/min, wt 66 kg. HbA1c 7.4 %.\nA: 1. T2DM, improving. 2. Intermittent loose stools, possibly metformin-related, monitoring. 3. HTN, borderline.\nP: 1. Continue metformin 1000 mg BD with food; report if loose stools become persistent. 2. Continue telmisartan 40 mg OD and atorvastatin 10 mg OD. 3. Stool examination if symptoms persist.\nAdv: Curd with meals, adequate fluids; walk 20 min daily. R/V in 3 months."
+    },
+    {
+      "memory_id": "P01-m11",
+      "date": "2026-04-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 7.9 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P01-m12",
+      "date": "2026-04-14",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Persistent diarrhoea and GI upset for about 3 months on metformin, 3 to 4 loose stools a day at times, cramps after meals. Weight down 1 kg. No blood in stools, no fever.\nO: BP 140/88 mmHg, pulse 80/min, wt 65 kg. HbA1c 7.9 %, up from 7.4 %.\nA: 1. T2DM, control worse; metformin not tolerated (GI upset). 2. HTN, above target.\nP: 1. Stop metformin 1000 mg BD. 2. Start sitagliptin (Januvia) 100 mg OD from today. 3. Continue telmisartan 40 mg OD. 4. Continue atorvastatin 10 mg OD. 5. Oral fluids and light diet; review if loose stools return.\nAdv: Walk 20 min daily; drink plenty of water; avoid sugary drinks. R/V in 4 months."
+    },
+    {
+      "memory_id": "P01-m13",
+      "date": "2026-04-14",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: metformin 1000 mg BD STOPPED, because of persistent diarrhoea and GI upset on this dose."
+    },
+    {
+      "memory_id": "P01-m14",
+      "date": "2026-04-14",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: sitagliptin (Januvia) 100 mg OD STARTED, once daily, in place of metformin for glucose control. Telmisartan 40 mg OD and atorvastatin 10 mg OD continued."
+    },
+    {
+      "memory_id": "P01-m15",
+      "date": "2026-08-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 7.1 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P01-m16",
+      "date": "2026-08-18",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: GI symptoms resolved since starting sitagliptin, no loose stools since. No hypoglycaemia. Walking 20 min daily.\nO: BP 132/84 mmHg, pulse 74/min, wt 65 kg. HbA1c 7.1 %, down from 7.9 %.\nA: 1. T2DM, improving on sitagliptin. 2. HTN, near target.\nP: 1. Continue sitagliptin (Januvia) 100 mg OD. 2. Continue telmisartan 40 mg OD. 3. Continue atorvastatin 10 mg OD. 4. No change today.\nAdv: Continue daily walks; keep sweets for festivals only. R/V in 3 months."
+    },
+    {
+      "memory_id": "P01-m17",
+      "date": "2026-08-18",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up with Dr Anjali Mehta (D01) booked for 2026-11-17 at 10:00. Please bring your home BP and sugar readings and all current medicine strips. Arrive 10 minutes before the appointment for registration."
+    },
+    {
+      "memory_id": "P01-m18",
+      "date": "2026-09-29",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient: 'Dr Mehta, I am walking 20 minutes every day now, as you suggested. My daughter's wedding is in December 2026 and I am feeling quite stressed with all the arrangements. I would prefer to take all my tablets together in the morning, as it is easier for me to remember. Thank you.'"
+    }
+  ]
+}

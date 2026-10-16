@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0240",
+  "name": "Anoop Warrier",
+  "age": 21,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Depression",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0240-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, works as software engineer, reports no difficulty climbing stairs or walking to office.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal).\nfalls: No falls in past 12 months; gait normal; timed up-and-go 8 seconds (within normal limits).\nmedicines: 0 regular.\nmood: Reports low mood, anhedonia, PHQ-9 to be checked.\ncarers: Mother, Mrs. Rao, provides emotional support.\ngoals: \"I want to feel better and keep up with my work.\""
+    },
+    {
+      "memory_id": "X0240-m02",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 14 (moderate depression).\nTSH: 2.1 mIU/L (ref 0.4-4.0).\nVitamin B12: 210 pg/mL (ref 200-900)."
+    },
+    {
+      "memory_id": "X0240-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 50 mg OD\nescitalopram 10 mg OD\nmirtazapine 15 HS\nsalbutamol MDI SOS\nbudesonide-formoterol 200/6 inhaler BD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0240-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Using salbutamol inhaler 3-4 times daily for wheeze; feels chest tight after long coding sessions. Mood low, still needing extra effort to get out of bed."
+    },
+    {
+      "memory_id": "X0240-m05",
+      "date": "2025-05-12",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Able to work full days but notes occasional shortness of breath on exertion; uses salbutamol before stairs.\ncognition: Mini-Cog 4/5.\nfalls: No falls; gait steady; timed up-and-go 9 seconds.\nmedicines: 6 regular (sertraline, escitalopram, mirtazapine, salbutamol SOS, budesonide-formoterol BD, montelukast).\nmood: PHQ-9 13, reports persistent low mood.\ncarers: Mother, Mrs. Rao, helps with medication reminders.\ngoals: \"I want to breathe easier and enjoy my weekends.\""
+    },
+    {
+      "memory_id": "X0240-m06",
+      "date": "2025-05-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 2.8 L (80% predicted), FVC 3.6 L (85%); post-bronchodilator FEV1 3.2 L (92%) – positive reversibility.\nAsthma Control Test: 18/25 (partly controlled)."
+    },
+    {
+      "memory_id": "X0240-m07",
+      "date": "2025-05-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Increase budesonide-formoterol to 200/6 inhaler BID\nAdd tiotropium inhaler 2 puffs OD\nContinue salbutamol SOS\nContinue antidepressants unchanged"
+    },
+    {
+      "memory_id": "X0240-m08",
+      "date": "2025-08-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports improved exercise tolerance; can jog 2 km without wheeze; still occasional mild dyspnea on stairs.\ncognition: Mini-Cog 4/5 (annual screen due).\nfalls: No falls in past year; gait normal; timed up-and-go 8 seconds.\nmedicines: 7 regular (sertraline, escitalopram, mirtazapine, salbutamol SOS, budesonide-formoterol BID, tiotropium OD, montelukast).\nmood: PHQ-9 9 (mild depression).\ncarers: Mother, Mrs. Rao, encourages exercise.\ngoals: \"I want to stop using the rescue inhaler daily.\""
+    },
+    {
+      "memory_id": "X0240-m09",
+      "date": "2025-08-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9: 9\nTSH: 2.3 mIU/L\nVitamin B12: 225 pg/mL"
+    },
+    {
+      "memory_id": "X0240-m10",
+      "date": "2025-08-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Stop tiotropium (no added benefit)\nReduce budesonide-formoterol to 200/6 inhaler BD\nContinue salbutamol SOS\nContinue antidepressants unchanged\nAdd vitamin D3 1000 IU OD (low sunlight exposure)"
+    },
+    {
+      "memory_id": "X0240-m11",
+      "date": "2025-11-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling drowsy in mornings since starting vitamin D; also notice increased appetite and weight gain of 2 kg over past month. Mood stable, but worried about daytime sleepiness affecting work."
+    },
+    {
+      "memory_id": "X0240-m12",
+      "date": "2025-11-07",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Able to concentrate at work but notes morning grogginess; uses alarm twice.\ncognition: Mini-Cog 4/5.\nfalls: No falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 7 regular (sertraline, escitalopram, mirtazapine, salbutamol SOS, budesonide-formoterol BD, montelukast, vitamin D3).\nmood: PHQ-9 8, reports mild anhedonia.\ncarers: Mother, Mrs. Rao, notes patient sleeps later.\ngoals: \"I want to wake up refreshed and be productive in the mornings.\""
+    },
+    {
+      "memory_id": "X0240-m13",
+      "date": "2025-11-07",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: Sinus rhythm 78 bpm, normal axis, no ST-T changes. No evidence of ischemia or hypertrophy."
+    },
+    {
+      "memory_id": "X0240-m14",
+      "date": "2025-11-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Stop vitamin D3\nReduce mirtazapine to 7.5 mg HS\nContinue sertraline 50 mg OD\nContinue escitalopram 10 mg OD\nContinue salbutamol SOS\nContinue budesonide-formoterol BD\nContinue montelukast HS"
+    },
+    {
+      "memory_id": "X0240-m15",
+      "date": "2026-02-14",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow-up visit with Dr Nandini Kulkarni for 2026-02-15 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0240-m16",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports good energy levels; no morning grogginess; works full day without naps.\ncognition: Mini-Cog 4/5.\nfalls: No falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 6 regular (sertraline, escitalopram, mirtazapine 7.5 mg HS, salbutamol SOS, budesonide-formoterol BD, montelukast).\nmood: PHQ-9 6 (mild).\ncarers: Mother, Mrs. Rao, supportive.\ngoals: \"I want to maintain this balance and keep improving my asthma control.\""
+    },
+    {
+      "memory_id": "X0240-m17",
+      "date": "2026-02-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.0 mIU/L\nVitamin B12: 240 pg/mL"
+    },
+    {
+      "memory_id": "X0240-m18",
+      "date": "2026-10-10",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Pulmonology review: Spirometry shows FEV1 3.0 L (88% predicted) with good reversibility. Asthma well controlled on current regimen. Continue budesonide-formoterol BD and montelukast. No change needed."
+    }
+  ]
+}

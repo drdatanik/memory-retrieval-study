@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0374",
+  "name": "Asif Syed",
+  "age": 69,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0374-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: New diagnosis, BP 148/92 mmHg, asymptomatic.\n  - Plan: Start lifestyle measures and medication; check weight and waist.\n- Weight: 78 kg\n- Waist circumference: 94 cm (above male cut‑off of 90 cm).\n- Diet advice:\n  - Breakfast: Whole grain toast with egg white, no added salt.\n  - Lunch: Steamed rice, dal, vegetable curry, limit pickle.\n  - Dinner: Grilled fish, salad, avoid fried items.\n- Due: HbA1c test due 2025-07-05."
+    },
+    {
+      "memory_id": "X0374-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg OD 1-0-0 after food\nlosartan 50 mg OD 0-0-1 after food\nhydrochlorothiazide 12.5 mg OD 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0374-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.0 mg/dL (0.6‑1.2)\neGFR 78 mL/min/1.73m2 (>60)\nSerum potassium 4.3 mmol/L (3.5‑5.0)\nLipid profile: Total cholesterol 190 mg/dL (<200), LDL 115 mg/dL (<130), HDL 42 mg/dL (>40), Triglycerides 160 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0374-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "12‑lead ECG: Sinus rhythm, rate 78 bpm. No ST‑T changes. No left ventricular hypertrophy. Normal ECG."
+    },
+    {
+      "memory_id": "X0374-m05",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D04",
+      "text": "No known drug allergies reported."
+    },
+    {
+      "memory_id": "X0374-m06",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 09:30 with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0374-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 138/84 mmHg on current meds, mild peripheral edema noted.\n  - Plan: Continue current meds, add low‑dose telmisartan for edema, advise weight check.\n- Weight: 79 kg\n- Waist circumference: 95 cm.\n- Diet advice:\n  - Breakfast: Oats with skim milk, no salt.\n  - Lunch: Brown rice, sambar, steamed veggies, limit papad.\n  - Dinner: Chapati, lentil soup, cucumber raita.\n- Due: HbA1c test due 2025-10-10."
+    },
+    {
+      "memory_id": "X0374-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg OD 1-0-0 after food\nlosartan 50 mg OD 0-0-1 after food\nhydrochlorothiazide 12.5 mg OD 1-0-0 after food\ntelmisartan 20 mg OD 0-0-1 after food"
+    },
+    {
+      "memory_id": "X0374-m09",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have noticed mild swelling in my ankles after walking, especially in the evenings. No shortness of breath."
+    },
+    {
+      "memory_id": "X0374-m10",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 132/80 mmHg, edema resolved.\n  - Plan: Maintain current regimen, repeat labs, encourage daily walk.\n- Weight: 78.5 kg\n- Waist circumference: 94 cm.\n- Diet advice:\n  - Breakfast: Idli with coconut chutney, avoid salted pickle.\n  - Lunch: Quinoa, dal, mixed vegetable curry.\n- Dinner: Grilled chicken, salad, curd.\n- Due: HbA1c test due 2026-01-12."
+    },
+    {
+      "memory_id": "X0374-m11",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.98 mg/dL (0.6‑1.2)\neGFR 80 mL/min/1.73m2\nSerum potassium 4.4 mmol/L (3.5‑5.0)\nLipid profile: Total cholesterol 185 mg/dL, LDL 110 mg/dL, HDL 44 mg/dL, Triglycerides 150 mg/dL."
+    },
+    {
+      "memory_id": "X0374-m12",
+      "date": "2025-12-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel occasional headaches in the mornings, but they go away after breakfast. No visual disturbances."
+    },
+    {
+      "memory_id": "X0374-m13",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 136/86 mmHg, occasional morning headaches.\n  - Plan: Continue meds, check BP home log, consider dose adjustment if headaches persist.\n- Weight: 79 kg\n- Waist circumference: 95 cm.\n- Diet advice:\n  - Breakfast: Whole wheat toast, boiled egg, avoid salted butter.\n  - Lunch: Millet rice, sambar, steamed greens.\n- Dinner: Fish curry, salad, limit fried papad.\n- Due: HbA1c test due 2026-04-15."
+    },
+    {
+      "memory_id": "X0374-m14",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg OD 1-0-0 after food\nlosartan 50 mg OD 0-0-1 after food\nhydrochlorothiazide 12.5 mg OD 1-0-0 after food\ntelmisartan 40 mg OD 0-0-1 after food"
+    },
+    {
+      "memory_id": "X0374-m15",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 128/78 mmHg, no headaches, good adherence.\n  - Plan: Continue current meds, repeat lipids, encourage maintenance of weight.\n- Weight: 77.5 kg\n- Waist circumference: 92 cm (now below cut‑off).\n- Diet advice:\n  - Breakfast: Poha with peanuts, no added salt.\n  - Lunch: Brown rice, dal, vegetable stew.\n- Dinner: Chapati, lentil, curd.\n- Due: HbA1c test due 2026-07-20."
+    },
+    {
+      "memory_id": "X0374-m16",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.95 mg/dL (0.6‑1.2)\neGFR 82 mL/min/1.73m2\nSerum potassium 4.2 mmol/L (3.5‑5.0)\nLipid profile: Total cholesterol 178 mg/dL, LDL 105 mg/dL, HDL 46 mg/dL, Triglycerides 140 mg/dL."
+    },
+    {
+      "memory_id": "X0374-m17",
+      "date": "2026-07-25",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 130/82 mmHg, stable.\n  - Plan: Continue regimen, annual ECG, remind about flu vaccine.\n- Weight: 78 kg\n- Waist circumference: 93 cm.\n- Diet advice:\n  - Breakfast: Upma with veggies, avoid salted cashews.\n  - Lunch: Wheat chapati, dal, vegetable curry.\n- Dinner: Grilled paneer, salad, buttermilk.\n- Due: HbA1c test due 2026-10-25."
+    },
+    {
+      "memory_id": "X0374-m18",
+      "date": "2026-07-25",
+      "type": "investigation",
+      "author": "D04",
+      "text": "12‑lead ECG: Sinus rhythm, rate 76 bpm. No ischemic changes. Left ventricular voltage within normal limits. Normal ECG."
+    }
+  ]
+}

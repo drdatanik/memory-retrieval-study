@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0070",
+  "name": "Kannan Annamalai",
+  "age": 35,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Sciatica",
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0070-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Sciatica: status – moderate low back pain radiating to left leg, straight leg raise positive. Plan – continue pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD; advise lumbar extension exercises; review in 8 weeks.\n- Gout: status – asymptomatic, serum uric acid pending. Plan – start allopurinol 100 mg OD; monitor creatinine and uric acid in 4 weeks.\n- Weight: 78 kg; waist circumference 92 cm (male cutoff 90 cm) – central obesity. Diet advice – breakfast: whole grain roti with egg white; lunch: dal, vegetable curry, small rice portion; dinner: light soup, salad.\n- Due: next HbA1c due 2025-07-05."
+    },
+    {
+      "memory_id": "X0070-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg BD\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD\n allopurinol 100 mg OD"
+    },
+    {
+      "memory_id": "X0070-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8% (ref 4.0-5.6)\n Fasting glucose 118 mg/dL (ref 70-99)\n Serum uric acid 8.2 mg/dL (ref 3.5-7.2)\n Serum creatinine 0.9 mg/dL (ref 0.6-1.2)\n Total cholesterol 210 mg/dL (ref <200)\n HDL cholesterol 38 mg/dL (ref >40)\n LDL cholesterol 124 mg/dL (ref <100)\n Triglycerides 165 mg/dL (ref <150)"
+    },
+    {
+      "memory_id": "X0070-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Sciatica: status – pain reduced to mild, straight leg raise negative. Plan – continue current meds; add hot fomentation twice daily; review in 3 months.\n- Gout: status – asymptomatic, uric acid 6.5 mg/dL. Plan – continue allopurinol 100 mg OD; check labs in 3 months.\n- Weight: 77 kg; waist 90 cm (at cutoff). Diet advice – breakfast: oats with milk; lunch: chapati, sambar, salad; dinner: grilled fish, steamed veg.\n- Due: next HbA1c due 2025-10-10."
+    },
+    {
+      "memory_id": "X0070-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg BD\n diclofenac 75 mg BD after food\n methylcobalamin 1500 mcg OD\n allopurinol 100 mg OD"
+    },
+    {
+      "memory_id": "X0070-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.6% (ref 4.0-5.6)\n Serum uric acid 6.5 mg/dL (ref 3.5-7.2)\n Serum creatinine 0.88 mg/dL (ref 0.6-1.2)"
+    },
+    {
+      "memory_id": "X0070-m07",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D04",
+      "text": "MRI lumbar spine: L4-L5 disc bulge causing mild indentation of the thecal sac, no cord compression. Mild degenerative changes at L3-L4. No significant nerve root edema."
+    },
+    {
+      "memory_id": "X0070-m08",
+      "date": "2025-10-03",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Orthopaedics, Sri Jayadeva Institute of Cardiovascular Sciences, for opinion on lumbar disc bulge and persistent sciatica. Requested clinical correlation and possible physiotherapy referral."
+    },
+    {
+      "memory_id": "X0070-m09",
+      "date": "2025-10-20",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Orthopaedic opinion: conservative management advised. Continue medications, physiotherapy core strengthening, avoid heavy lifting. Repeat MRI in 6 months if symptoms worsen. No surgical indication at present."
+    },
+    {
+      "memory_id": "X0070-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Sciatica: status – mild occasional discomfort, well controlled. Plan – continue pregabalin, diclofenac, methylcobalamin; reinforce physiotherapy.\n- Gout: status – acute flare in left first metatarsophalangeal joint 2 days ago, pain 8/10. Allopurinol stopped due to mild rash. Started febuxostat 40 mg OD and colchicine 0.5 mg BD for flare. Plan – monitor uric acid, creatinine, liver enzymes in 2 weeks.\n- Weight: 76 kg; waist 88 cm (improved). Diet advice – breakfast: idli with sambar; lunch: roti, leafy veg, curd; dinner: dalia, steamed veg.\n- Due: next HbA1c due 2026-04-15."
+    },
+    {
+      "memory_id": "X0070-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg BD\n diclofenac 75 mg BD after food\n methylcobalamin 1500 mcg OD\n febuxostat 40 mg OD\n colchicine 0.5 mg BD (during flare)"
+    },
+    {
+      "memory_id": "X0070-m12",
+      "date": "2026-04-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Patient reports sudden severe pain and swelling in left big toe since yesterday, difficulty walking, requests urgent appointment for gout flare."
+    },
+    {
+      "memory_id": "X0070-m13",
+      "date": "2026-04-22",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-23 10:30 AM with Dr Karthik Hegde (D04) for acute gout flare management."
+    }
+  ]
+}

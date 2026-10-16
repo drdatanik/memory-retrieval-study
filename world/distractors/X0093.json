@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0093",
+  "name": "Sudha Bollineni",
+  "age": 39,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0093-m01",
+      "date": "2025-04-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been having crampy abdominal pain and bloating after meals for the past few months, sometimes relieved by passing gas. I also get throbbing headaches on one side, lasting a few hours, with nausea. I work as a florist and stand for long hours. I take over‑the‑counter antispasmodics occasionally but they do not help much. I would like a review of my symptoms and advice on long‑term management."
+    },
+    {
+      "memory_id": "X0093-m02",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of IBS and migraine symptoms.\nPRESENTING COMPLAINT: Crampy lower abdominal pain, bloating, occasional diarrhoea; episodic unilateral throbbing headache with photophobia and nausea.\nEXAMINATION: Abdomen soft, non‑tender, no masses. Blood pressure 118/72 mmHg, weight 58 kg, BMI 22.9 (normal). Neurological exam normal.\nIMPRESSION: Irritable bowel syndrome, predominantly mixed pattern. Migraine, episodic, well controlled on current prophylaxis.\nARRANGEMENTS: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Continue propranolol 40 mg OD for migraine prevention, sumatriptan 50 mg SOS, topiramate 25 mg HS, naproxen 500 mg SOS. Order CBC, stool routine, tTG‑IgA. Return if: worsening abdominal pain, vomiting, blood in stool, headache with fever >39°C, visual changes, or weakness."
+    },
+    {
+      "memory_id": "X0093-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Mebeverine 135 mg tablet – take one tablet twice daily.\nIspaghula husk 5 g sachet – take one sachet once daily with water.\nLoperamide 2 mg capsule – take one capsule after loose stool, max 8 mg/day.\nPropranolol 40 mg tablet – take one tablet once daily.\nSumatriptan 50 mg tablet – take one tablet at migraine onset, repeat after 2 hours if needed, max 200 mg/24h.\nTopiramate 25 mg tablet – take one tablet at bedtime.\nNaproxen 500 mg tablet – take one tablet after food, max 1 g/day, SOS."
+    },
+    {
+      "memory_id": "X0093-m04",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.2 g/dl (12-16), WBC 6.4 x10^9/l (4-10), Platelets 215 x10^9/l (150-400).\nStool routine: Ova and parasites nil, pus cells 0-2/hpf, RBC nil.\ntTG‑IgA: <2 U/ml (negative <7)."
+    },
+    {
+      "memory_id": "X0093-m05",
+      "date": "2025-04-14",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Neurological examination performed. Patient alert, oriented. Cranial nerves II‑XII intact. Muscle strength 5/5 bilaterally. Tone normal. Reflexes 2+ symmetric. Sensation intact to light touch and pinprick. Gait steady. No pronator drift. No dysmetria. No nystagmus. Findings consistent with a normal neurological exam."
+    },
+    {
+      "memory_id": "X0093-m06",
+      "date": "2025-04-16",
+      "type": "investigation",
+      "author": "D03",
+      "text": "CT head (non‑contrast) performed. No acute intracranial hemorrhage, infarct, or mass lesion. Ventricular system and sulci normal. No evidence of chronic ischemic changes. Report: Normal study."
+    },
+    {
+      "memory_id": "X0093-m07",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up on IBS and migraine.\nPRESENTING COMPLAINT: Abdominal bloating reduced, occasional loose stools after fatty meals. Headache frequency down to 1‑2 per month, mild, responsive to sumatriptan.\nEXAMINATION: Abdomen soft, mild tenderness in left lower quadrant. BP 120/74, weight 59 kg, BMI 23.1 (overweight per Asian cut‑off).\nIMPRESSION: IBS symptoms improved but still triggered by diet. Migraine well controlled. BMI overweight – advise diet and activity.\nARRANGEMENTS: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Continue propranolol 40 mg OD, topiramate 25 mg HS; stop naproxen SOS due to GI irritation, replace with paracetamol 500 mg SOS if needed. Reinforce low‑FODMAP diet, regular walks 30 min daily. Return if: worsening pain, vomiting, blood in stool, headache with neurological deficit, or BP >160/100."
+    },
+    {
+      "memory_id": "X0093-m08",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Mebeverine 135 mg tablet – take one tablet twice daily.\nIspaghula husk 5 g sachet – take one sachet once daily.\nLoperamide 2 mg capsule – take one capsule after loose stool, max 8 mg/day.\nPropranolol 40 mg tablet – take one tablet once daily.\nTopiramate 25 mg tablet – take one tablet at bedtime.\nParacetamol 500 mg tablet – take one tablet after food, max 3 g/day, SOS for headache."
+    },
+    {
+      "memory_id": "X0093-m09",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dl (<200 desirable), LDL 110 mg/dl (<130), HDL 48 mg/dl (>40), Triglycerides 150 mg/dl (<150 borderline).\nFasting blood glucose: 92 mg/dl (70-99)."
+    },
+    {
+      "memory_id": "X0093-m10",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of IBS, migraine and cardiovascular risk.\nPRESENTING COMPLAINT: Occasional abdominal discomfort after festive meals, no diarrhoea. Headaches rare, only mild tension‑type.\nEXAMINATION: Abdomen non‑tender. BP 122/76, weight 60 kg, BMI 23.8 (overweight).\nIMPRESSION: IBS stable. Migraine infrequent. Lipids within target, glucose normal. Overweight persists – reinforce lifestyle.\nARRANGEMENTS: Continue current IBS and migraine meds. Advise Mediterranean‑style diet, aerobic activity 150 min/week, weight goal 5‑7% reduction. Return if: severe abdominal pain, vomiting, blood in stool, new neurologic symptoms, chest pain, or dyspnea on exertion."
+    },
+    {
+      "memory_id": "X0093-m11",
+      "date": "2025-12-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Mebeverine 135 mg tablet – take one tablet twice daily.\nIspaghula husk 5 g sachet – take one sachet once daily.\nLoperamide 2 mg capsule – take one capsule after loose stool, max 8 mg/day.\nPropranolol 40 mg tablet – take one tablet once daily.\nTopiramate 25 mg tablet – take one tablet at bedtime.\nParacetamol 500 mg tablet – take one tablet after food, max 3 g/day, SOS."
+    },
+    {
+      "memory_id": "X0093-m12",
+      "date": "2026-02-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.0 g/dl (12-16), WBC 6.2 x10^9/l (4-10), Platelets 208 x10^9/l (150-400).\nStool routine: No ova/cysts, pus cells 0-1/hpf, RBC nil."
+    },
+    {
+      "memory_id": "X0093-m13",
+      "date": "2026-03-01",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Abdominal ultrasound performed. Liver size normal, echotexture homogeneous. No focal lesions. Gallbladder wall normal, no stones. Common bile duct 5 mm. Pancreas unremarkable. Both kidneys normal size, no calculi. No free fluid. Impression: Normal study."
+    },
+    {
+      "memory_id": "X0093-m14",
+      "date": "2026-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-08 at 10:30 AM with Dr Priya Natarajan (D03) for routine follow‑up. Patient confirmed via SMS."
+    },
+    {
+      "memory_id": "X0093-m15",
+      "date": "2026-04-08",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine follow‑up.\nPRESENTING COMPLAINT: No abdominal pain or bloating for past month. Headaches absent.\nEXAMINATION: Abdomen soft, non‑tender. BP 119/73, weight 58 kg, BMI 22.4 (normal).\nIMPRESSION: IBS in remission. Migraine absent. Weight normal – commend lifestyle efforts.\nARRANGEMENTS: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Continue propranolol 40 mg OD, topiramate 25 mg HS. Paracetamol SOS as needed. Reinforce maintenance diet and activity. Return if: abdominal pain, vomiting, blood in stool, headache with neurologic signs, chest pain, or breathlessness."
+    },
+    {
+      "memory_id": "X0093-m16",
+      "date": "2026-04-08",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Mebeverine 135 mg tablet – take one tablet twice daily.\nIspaghula husk 5 g sachet – take one sachet once daily.\nLoperamide 2 mg capsule – take one capsule after loose stool, max 8 mg/day.\nPropranolol 40 mg tablet – take one tablet once daily.\nTopiramate 25 mg tablet – take one tablet at bedtime.\nParacetamol 500 mg tablet – take one tablet after food, max 3 g/day, SOS."
+    },
+    {
+      "memory_id": "X0093-m17",
+      "date": "2026-09-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 185 mg/dl (<200), LDL 106 mg/dl (<130), HDL 50 mg/dl (>40), Triglycerides 140 mg/dl (<150).\nFasting blood glucose: 89 mg/dl (70-99)."
+    }
+  ]
+}

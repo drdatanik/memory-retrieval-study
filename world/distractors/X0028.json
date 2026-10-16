@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0028",
+  "name": "Zubeda Pasha",
+  "age": 63,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Type 2 diabetes",
+    "Psoriasis",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0028-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, works night shifts as a nurse, reports occasional fatigue.\ncognition: Mini-Cog 4/5 (recall 3, clock draw normal).\nfalls: 0 falls in past 12 months, gait steady, TUG 10 seconds (normal).\nmedicines: 9 regular (metformin, glimepiride, sitagliptin, empagliflozin, clobetasol, calcipotriol, methotrexate, folic acid, methylcobalamin) – polypharmacy, review against Beers.\nmood: PHQ‑2 negative, no depression.\ncarers: spouse (husband), supportive.\ngoal: \"Stay healthy enough to keep working and enjoy time with my grandchildren.\""
+    },
+    {
+      "memory_id": "X0028-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD\n glimepiride 1 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n clobetasol 0.05% cream BD topically\n calcipotriol ointment OD topically\n methotrexate 7.5 mg once weekly\n folic acid 5 mg OD\n methylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0028-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 8.2% (4.0‑5.6)\n Fasting plasma glucose 162 mg/dL (70‑99)\n Urine albumin‑creatinine ratio 45 mg/g (<30)\n Dilated fundus exam: mild non‑proliferative diabetic retinopathy\n ALT 38 U/L (≤40), AST 34 U/L (≤40)\n WBC 6.2 ×10⁹/L, Hb 11.2 g/dL, Plt 210 ×10⁹/L\n Serum creatinine 0.9 mg/dL (0.6‑1.1)\n Serum vitamin B12 180 pg/mL (200‑900)\n MCV 102 fL (80‑100)"
+    },
+    {
+      "memory_id": "X0028-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still working night shifts, reports mild foot tingling after long stands.\ncognition: Mini-Cog 4/5.\nfalls: 0 falls, gait slightly wide base, TUG 11 seconds (borderline).\nmedicines: 9 regular, polypharmacy – note to review glimepiride for hypoglycemia risk.\nmood: PHQ‑2 negative.\ncarers: husband.\ngoal: \"Keep my glucose steady and avoid lows that make me shaky.\""
+    },
+    {
+      "memory_id": "X0028-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD\n glimepiride 0.5 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n clobetasol 0.05% cream BD topically\n calcipotriol ointment OD topically\n methotrexate 7.5 mg once weekly\n folic acid 5 mg OD\n methylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0028-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.5% (4.0‑5.6)\n Fasting plasma glucose 130 mg/dL (70‑99)\n Urine albumin‑creatinine ratio 30 mg/g (<30)\n ALT 36 U/L, AST 33 U/L\n WBC 6.0 ×10⁹/L, Hb 12.5 g/dL, Plt 205 ×10⁹/L\n Serum creatinine 0.9 mg/dL\n Serum vitamin B12 460 pg/mL (200‑900)\n MCV 98 fL (80‑100)"
+    },
+    {
+      "memory_id": "X0028-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports occasional hypoglycemia (sweating, shakiness) before breakfast, now self‑managing with snack.\ncognition: Mini-Cog 4/5.\nfalls: 0 falls, gait normal, TUG 10 seconds.\nmedicines: 8 regular after stopping glimepiride, polypharmacy continues – schedule med review.\nmood: PHQ‑2 negative.\ncarers: husband.\ngoal: \"Avoid low sugars and keep my energy for work.\""
+    },
+    {
+      "memory_id": "X0028-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n clobetasol 0.05% cream BD topically\n calcipotriol ointment OD topically\n methotrexate 7.5 mg once weekly\n folic acid 5 mg OD\n methylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0028-m09",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (4.0‑5.6)\n Fasting plasma glucose 138 mg/dL (70‑99)\n Urine albumin‑creatinine ratio 28 mg/g (<30)\n ALT 35 U/L, AST 32 U/L\n WBC 5.9 ×10⁹/L, Hb 13.0 g/dL, Plt 200 ×10⁹/L\n Serum creatinine 0.9 mg/dL\n Serum vitamin B12 500 pg/mL (200‑900)\n MCV 96 fL (80‑100)"
+    },
+    {
+      "memory_id": "X0028-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: notes increased thirst and mild fatigue, still working but feels drained after shifts.\ncognition: Mini-Cog 4/5.\nfalls: 0 falls, gait steady, TUG 10 seconds.\nmedicines: 8 regular, polypharmacy – consider intensifying diabetes control.\nmood: PHQ‑2 negative.\ncarers: husband.\ngoal: \"Get my sugars back on target without adding pills that cause lows.\""
+    },
+    {
+      "memory_id": "X0028-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 1000 mg BD\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n clobetasol 0.05% cream BD topically\n calcipotriol ointment OD topically\n methotrexate 7.5 mg once weekly\n folic acid 5 mg OD\n methylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0028-m12",
+      "date": "2026-01-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.4% (4.0‑5.6)\n Fasting plasma glucose 124 mg/dL (70‑99)\n Urine albumin‑creatinine ratio 26 mg/g (<30)\n ALT 34 U/L, AST 31 U/L\n WBC 5.8 ×10⁹/L, Hb 13.4 g/dL, Plt 198 ×10⁹/L\n Serum creatinine 0.9 mg/dL\n Serum vitamin B12 520 pg/mL (200‑900)\n MCV 95 fL (80‑100)"
+    },
+    {
+      "memory_id": "X0028-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: doing well, no hypoglycemia, reports less fatigue, continues night shifts.\ncognition: Mini-Cog 4/5 (annual screen).\nfalls: 0 falls, gait normal, TUG 9 seconds.\nmedicines: 8 regular, polypharmacy – meds appropriate, no Beers flag.\nmood: PHQ‑2 negative.\ncarers: husband.\ngoal: \"Maintain current control and stay active at work.\""
+    },
+    {
+      "memory_id": "X0028-m14",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 1000 mg BD\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n clobetasol 0.05% cream BD topically\n calcipotriol ointment OD topically\n methotrexate 7.5 mg once weekly\n folic acid 5 mg OD\n methylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0028-m15",
+      "date": "2026-04-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2% (4.0‑5.6)\n Fasting plasma glucose 118 mg/dL (70‑99)\n Urine albumin‑creatinine ratio 24 mg/g (<30)\n ALT 33 U/L, AST 30 U/L\n WBC 5.7 ×10⁹/L, Hb 13.6 g/dL, Plt 195 ×10⁹/L\n Serum creatinine 0.9 mg/dL\n Serum vitamin B12 540 pg/mL (200‑900)\n MCV 94 fL (80‑100)"
+    },
+    {
+      "memory_id": "X0028-m16",
+      "date": "2026-08-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up geriatric appointment booked for 2026-10-01 at 10:30 am with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0028-m17",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, no falls, reports good energy, continues nursing job.\ncognition: Mini-Cog 4/5.\nfalls: 0 falls in past year, gait normal, TUG 9 seconds.\nmedicines: 8 regular, polypharmacy – meds reviewed, no high‑risk drugs per Beers.\nmood: PHQ‑2 negative.\ncarers: husband.\ngoal: \"Stay healthy to keep working and enjoy family time.\""
+    }
+  ]
+}

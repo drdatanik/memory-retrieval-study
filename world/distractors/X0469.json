@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0469",
+  "name": "Sunanda Salunkhe",
+  "age": 38,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Chronic urticaria",
+    "Vitamin B12 deficiency",
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0469-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up of chronic urticaria and fatigue.\nPRESENTING COMPLAINT: Patient reports daily hives for the past six months, mild fatigue, no weight change.\nEXAMINATION: BP 128/82 mmHg, weight 70 kg, height 1.60 m, BMI 27.3 (obese). Skin shows scattered wheals, no pallor or lymphadenopathy.\nIMPRESSION: Chronic urticaria, suspected vitamin B12 deficiency, newly noted dyslipidaemia.\nARRANGEMENTS: Start levocetirizine 5 mg OD, methylcobalamin 1500 mcg OD, atorvastatin 10 mg HS. Order CBC with eosinophils, thyroid function test, serum B12, MCV, haemoglobin, fasting lipid profile, liver function test, creatine kinase. Advise low‑salt diet, regular brisk walks 30 min daily. Return if hives worsen, swelling of lips/eyes, fever >39 °C, dark urine, or unexplained bleeding."
+    },
+    {
+      "memory_id": "X0469-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levocetirizine 5 mg tablet – take one tablet orally once daily."
+    },
+    {
+      "memory_id": "X0469-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methylcobalamin 1500 mcg tablet – take one tablet orally once daily."
+    },
+    {
+      "memory_id": "X0469-m04",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Atorvastatin 10 mg tablet – take one tablet orally at bedtime."
+    },
+    {
+      "memory_id": "X0469-m05",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.8 g/L (12‑16), WBC 6.2 x10^9/L (4‑10), eosinophils 0.6 x10^9/L (0‑0.5) slightly high. TFT: TSH 2.1 mIU/L (0.4‑4.0), FT4 12.5 pmol/L (9‑19). Serum B12 180 pg/mL (200‑900) low. MCV 92 fL (80‑100). Lipids: LDL 138 mg/dL (<100), HDL 42 mg/dL (>40), TG 210 mg/dL (<150). LFT: ALT 28 U/L (<40), AST 24 U/L (<40). CK 110 U/L (<200)."
+    },
+    {
+      "memory_id": "X0469-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of urticaria, B12 deficiency and lipids after initial treatment.\nPRESENTING COMPLAINT: Hives reduced to twice weekly, fatigue improved, no new symptoms.\nEXAMINATION: BP 126/80, weight 69.5 kg, BMI 27.1 (obese). Skin shows occasional wheals, no jaundice.\nIMPRESSION: Chronic urticaria improving, vitamin B12 deficiency persisting, LDL still high.\nARRANGEMENTS: Continue levocetirizine 5 mg OD, continue methylcobalamin 1500 mcg OD, increase atorvastatin to 20 mg HS. Advise maintain activity, repeat lipid profile in 3 months. Return if hives daily, angio‑edema, muscle pain, dark urine, or fever >39 °C."
+    },
+    {
+      "memory_id": "X0469-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Atorvastatin 20 mg tablet – take one tablet orally at bedtime."
+    },
+    {
+      "memory_id": "X0469-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up and lipid check.\nPRESENTING COMPLAINT: Urticaria now once weekly, fatigue mild, no medication side‑effects.\nEXAMINATION: BP 124/78, weight 69 kg, BMI 26.9 (overweight). Skin clear of wheals.\nIMPRESSION: Chronic urticaria well controlled, B12 deficiency improving, lipids improved but TG borderline.\nARRANGEMENTS: Continue levocetirizine 5 mg OD, continue methylcobalamin 1500 mcg OD, keep atorvastatin 20 mg HS. Order repeat fasting lipid profile, LFT, CK, CBC with eosinophils, serum B12. Advise diet low in refined carbs, continue walks. Return if hives daily, swelling, muscle weakness, CK >5× ULN, or fever >39 °C."
+    },
+    {
+      "memory_id": "X0469-m09",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.2 g/L, WBC 5.8 x10^9/L, eosinophils 0.4 x10^9/L (normal). TFT: TSH 2.0, FT4 12.8. Serum B12 260 pg/mL (low‑normal). MCV 91 fL. Lipids: LDL 110 mg/dL, HDL 44 mg/dL, TG 148 mg/dL. LFT: ALT 26, AST 22. CK 105."
+    },
+    {
+      "memory_id": "X0469-m10",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review after lipid lab and discussion of triglyceride management.\nPRESENTING COMPLAINT: No hives for 3 weeks, feels energetic, no muscle aches.\nEXAMINATION: BP 122/76, weight 68.5 kg, BMI 26.7 (overweight). Skin clear.\nIMPRESSION: Urticaria in remission, B12 deficiency normalized, TG borderline high.\nARRANGEMENTS: Continue levocetirizine PRN, continue methylcobalamin 1500 mcg OD, keep atorvastatin 20 mg HS, add fenofibrate 145 mg OD. Advise limit alcohol, maintain exercise. Return if hives return, severe abdominal pain, unexplained bleeding, or fever >39 °C."
+    },
+    {
+      "memory_id": "X0469-m11",
+      "date": "2026-02-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Fenofibrate 145 mg tablet – take one tablet orally with breakfast daily."
+    },
+    {
+      "memory_id": "X0469-m12",
+      "date": "2026-06-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: mid‑year review of lipids and symptoms.\nPRESENTING COMPLAINT: No hives, feels well, occasional mild fatigue after long work hours.\nEXAMINATION: BP 123/77, weight 68 kg, BMI 26.5 (overweight). Skin clear.\nIMPRESSION: Urticaria controlled, B12 sufficient, lipids within target.\nARRANGEMENTS: Continue levocetirizine PRN, continue methylcobalamin 1500 mcg OD, continue atorvastatin 20 mg HS, continue fenofibrate 145 mg OD. Advise maintain balanced diet, regular activity. Return if hives daily, muscle pain, dark urine, jaundice, or fever >39 °C."
+    },
+    {
+      "memory_id": "X0469-m13",
+      "date": "2026-06-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.5 g/L, WBC 6.0 x10^9/L, eosinophils 0.3 x10^9/L. TFT: TSH 2.1, FT4 12.9. Serum B12 340 pg/mL (normal). MCV 90 fL. Lipids: LDL 92 mg/dL, HDL 46 mg/dL, TG 132 mg/dL. LFT: ALT 24, AST 20. CK 98."
+    },
+    {
+      "memory_id": "X0469-m14",
+      "date": "2026-09-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-10-08 at 10:30 am with Dr Priya Natarajan (D03)."
+    }
+  ]
+}

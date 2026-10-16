@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0447",
+  "name": "Selvi Sundaram",
+  "age": 89,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Gout",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0447-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Hypertension and gout stable.\nEvidence: Blood pressure 148/92 mmHg, serum uric acid 7.8 mg/dL (target <6), serum creatinine 1.1 mg/dL. Patient reports occasional knee pain and mild headache, denies dyspnea or wheeze. Examination: lungs clear to auscultation, no edema, pulses regular. Inhaler: salbutamol metered-dose inhaler used as needed for occasional wheeze; technique checked: correct. Spirometry: FEV1 2.1 L (85% predicted), FVC 2.6 L, FEV1/FVC 0.81; change from prior not applicable. Asthma Control Test score 22 (well controlled). Smoking status: never smoker."
+    },
+    {
+      "memory_id": "X0447-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "allopurinol 100 mg OD\nfebuxostat 40 mg OD\ncolchicine 0.5 mg BD during flares\namlodipine 5 mg OD\ntelmisartan 40 mg OD"
+    },
+    {
+      "memory_id": "X0447-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 7.2 mg/dL (ref 2.4-6.0)\nSerum creatinine 1.0 mg/dL (ref 0.5-1.1)\neGFR 62 mL/min/1.73m2 (ref >60)"
+    },
+    {
+      "memory_id": "X0447-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Hypertension controlled, gout asymptomatic.\nEvidence: BP 132/84 mmHg, uric acid 6.4 mg/dL, creatinine 1.0 mg/dL. No joint pain, reports good sleep, denies cough or shortness of breath. Lung exam: clear bilaterally, no wheeze. Inhaler: salbutamol MDI as needed; technique checked: correct. Spirometry: FEV1 2.2 L (88% predicted), FVC 2.7 L, FEV1/FVC 0.82; ΔFEV1 +0.1 L since last. Asthma Control Test score 23 (well controlled). Smoking status: never smoker."
+    },
+    {
+      "memory_id": "X0447-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "allopurinol 150 mg OD\nfebuxostat 40 mg OD\ncolchicine 0.5 mg BD during flares\namlodipine 5 mg OD\ntelmisartan 40 mg OD"
+    },
+    {
+      "memory_id": "X0447-m06",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-09-15 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0447-m07",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Stable hypertension and gout; mild hyperuricemia.\nEvidence: BP 130/82 mmHg, uric acid 6.8 mg/dL, creatinine 1.0 mg/dL. Patient reports occasional toe tenderness after walking, no respiratory symptoms. Lung exam: clear, good air entry. Inhaler: salbutamol MDI PRN; technique checked: correct. Spirometry: FEV1 2.2 L (88% predicted), FVC 2.7 L, FEV1/FVC 0.82; ΔFEV1 0.0 L. Asthma Control Test score 22 (well controlled). Smoking status: never smoker."
+    },
+    {
+      "memory_id": "X0447-m08",
+      "date": "2025-09-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "ECG: Sinus rhythm 78 bpm, no ST‑T changes, left ventricular voltage within normal limits. No evidence of ischemia or arrhythmia."
+    },
+    {
+      "memory_id": "X0447-m09",
+      "date": "2025-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 6.8 mg/dL (ref 2.4-6.0)\nSerum creatinine 1.0 mg/dL (ref 0.5-1.1)\nSerum potassium 4.4 mmol/L (ref 3.5-5.0)"
+    },
+    {
+      "memory_id": "X0447-m10",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Hypertension at goal, gout controlled with occasional flare.\nEvidence: BP 128/80 mmHg, uric acid 6.2 mg/dL, creatinine 0.9 mg/dL. One mild gout flare in last month treated with colchicine. No dyspnea, cough, or wheeze. Lungs clear. Inhaler: salbutamol MDI as needed; technique checked: correct. Spirometry: FEV1 2.3 L (92% predicted), FVC 2.8 L, FEV1/FVC 0.82; ΔFEV1 +0.1 L. Asthma Control Test score 24 (well controlled). Smoking status: never smoker."
+    },
+    {
+      "memory_id": "X0447-m11",
+      "date": "2025-12-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "allopurinol 150 mg OD\nfebuxostat 40 mg OD\ncolchicine 0.5 mg BD during flares\namlodipine 5 mg OD\nlosartan 50 mg OD"
+    },
+    {
+      "memory_id": "X0447-m12",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 5.9 mg/dL (ref 2.4-6.0)\nSerum creatinine 0.9 mg/dL (ref 0.5-1.1)\neGFR 68 mL/min/1.73m2 (ref >60)\nSerum potassium 4.5 mmol/L (ref 3.5-5.0)"
+    },
+    {
+      "memory_id": "X0447-m13",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Hypertension well controlled, gout asymptomatic.\nEvidence: BP 124/78 mmHg, uric acid 5.6 mg/dL, creatinine 0.9 mg/dL. No joint pain, reports good exercise tolerance. Lung exam: clear, no wheeze. Inhaler: salbutamol MDI PRN; technique checked: correct. Spirometry: FEV1 2.3 L (92% predicted), FVC 2.8 L, FEV1/FVC 0.82; ΔFEV1 0.0 L. Asthma Control Test score 23 (well controlled). Smoking status: never smoker."
+    },
+    {
+      "memory_id": "X0447-m14",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "allopurinol 150 mg OD\nfebuxostat stopped\ncolchicine 0.5 mg BD during flares\namlodipine 5 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0447-m15",
+      "date": "2026-07-20",
+      "type": "investigation",
+      "author": "D05",
+      "text": "ECG: Normal sinus rhythm 80 bpm, no ischemic changes, voltage criteria for left ventricular hypertrophy not met. Stable compared to prior."
+    },
+    {
+      "memory_id": "X0447-m16",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 5.4 mg/dL (ref 2.4-6.0)\nSerum creatinine 0.9 mg/dL (ref 0.5-1.1)\neGFR 70 mL/min/1.73m2 (ref >60)\nSerum potassium 4.6 mmol/L (ref 3.5-5.0)"
+    },
+    {
+      "memory_id": "X0447-m17",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Hypertension and gout stable, no acute issues.\nEvidence: BP 122/76 mmHg, uric acid 5.2 mg/dL, creatinine 0.9 mg/dL. Patient reports overall well‑being, no respiratory complaints. Lung exam: clear bilaterally. Inhaler: salbutamol MDI as needed; technique checked: correct. Spirometry: FEV1 2.4 L (96% predicted), FVC 2.9 L, FEV1/FVC 0.83; ΔFEV1 +0.1 L. Asthma Control Test score 24 (well controlled). Smoking status: never smoker."
+    }
+  ]
+}

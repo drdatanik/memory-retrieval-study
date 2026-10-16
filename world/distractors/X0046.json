@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0046",
+  "name": "Chandrashekar Kamath",
+  "age": 39,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Allergic rhinitis",
+    "Obesity",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0046-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis: persistent sneezing, nasal congestion. Status: active. Plan: start cetirizine 10 mg HS, fluticasone nasal spray 1 spray each nostril OD, montelukast 10 mg HS.\n- Obesity: BMI 32 kg/m2, waist 102 cm (>90 cm cutoff). Status: active. Plan: start orlistat 120 mg TID with main meals, diet advice: breakfast - reduced carbs, lunch - portion control, dinner - light.\n- Vitamin B12 deficiency: symptomatic fatigue. Status: active. Plan: start methylcobalamin 1500 mcg OD.\nDue: HbA1c repeat 2025-07-05."
+    },
+    {
+      "memory_id": "X0046-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nOrlistat 120 mg TID with meals\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0046-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose: 98 mg/dL (70-100)\nHbA1c: 6.2% (4-5.6) – prediabetes\nLipid profile: TG 180 mg/dL (<150), HDL 38 mg/dL (>40), LDL 130 mg/dL (<100), VLDL 36 mg/dL\nLiver function: ALT 28 U/L (<40), AST 24 U/L (<40), ALP 78 U/L (40-129), GGT 32 U/L (<50)\nSerum vitamin B12: 180 pg/mL (200-900) – low\nMCV: 92 fL (80-100)\nHemoglobin: 13.8 g/dL (13-17)\nTotal serum IgE: 210 IU/mL (<100) – elevated"
+    },
+    {
+      "memory_id": "X0046-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Skin prick test: positive to house dust mite (3+), grass pollen (2+), negative to cat dander. Interpretation: consistent with allergic rhinitis."
+    },
+    {
+      "memory_id": "X0046-m05",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 09:30 with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0046-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis: symptoms improved, occasional nasal congestion. Status: active. Plan: continue cetirizine HS, fluticasone OD, montelukast HS.\n- Obesity: weight 92 kg (down from 95 kg), waist 99 cm. Mild epigastric discomfort after meals. Status: active. Plan: stop orlistat due to GI intolerance, reinforce diet: breakfast - high fibre, lunch - balanced plate, dinner - soup & salad.\n- Vitamin B12 deficiency: fatigue better. Status: active. Plan: continue methylcobalamin 1500 mcg OD.\nDue: HbA1c repeat 2025-10-10."
+    },
+    {
+      "memory_id": "X0046-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nMethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0046-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose: 95 mg/dL (70-100)\nHbA1c: 5.9% (4-5.6) – improved\nSerum vitamin B12: 340 pg/mL (200-900) – normal\nMCV: 89 fL (80-100)\nHemoglobin: 14.0 g/dL (13-17)"
+    },
+    {
+      "memory_id": "X0046-m09",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Nasal congestion much less, only occasional sneezing. Orlistat caused loose stools and stomach cramps, so I stopped it. Feeling more energetic after B12 tablets."
+    },
+    {
+      "memory_id": "X0046-m10",
+      "date": "2025-10-02",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dietetics, Sri Jayadeva Institute of Nutrition, for individualized weight management plan and dietary education."
+    },
+    {
+      "memory_id": "X0046-m11",
+      "date": "2025-10-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Dietitian reports patient attended two sessions, prescribed 1500 kcal/day diet with high protein, advised to avoid fried foods, and to maintain food diary. Patient motivated, follow-up in 6 weeks."
+    },
+    {
+      "memory_id": "X0046-m12",
+      "date": "2026-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose: 92 mg/dL (70-100)\nHbA1c: 5.7% (4-5.6) – normal\nLipid profile: TG 130 mg/dL (<150), HDL 42 mg/dL (>40), LDL 100 mg/dL (<100), VLDL 26 mg/dL\nLiver function: ALT 22 U/L (<40), AST 20 U/L (<40), ALP 75 U/L (40-129), GGT 30 U/L (<50)\nSerum vitamin B12: 410 pg/mL (200-900) – normal\nMCV: 88 fL (80-100)\nHemoglobin: 14.2 g/dL (13-17)"
+    }
+  ]
+}

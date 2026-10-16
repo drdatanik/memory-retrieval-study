@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0477",
+  "name": "Basavaraj Bhat",
+  "age": 69,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0477-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: hypertension follow-up. PRESENTING COMPLAINT: Patient reports occasional headaches, otherwise well. EXAMINATION: BP 148/92 mmHg, weight 78 kg, height 1.68 m, BMI 27.6 (obese). Advised diet and activity. IMPRESSION: Hypertension, stage 2. No signs of end-organ damage. ARRANGEMENTS: Continue amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD. Order fasting lipid profile, fasting blood sugar, serum creatinine/eGFR, potassium, ECG. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0477-m02",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 210 mg/dL (<200 desirable), LDL 130 mg/dL (<100), HDL 38 mg/dL (>40 low), triglycerides 165 mg/dL (<150). Fasting blood sugar: 92 mg/dL (70-100). Serum creatinine: 1.1 mg/dL (0.6-1.2). eGFR: 62 mL/min/1.73m2 (>60 normal). Serum potassium: 4.3 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0477-m03",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Resting ECG: Sinus rhythm, rate 78 bpm. No ST-T changes. Left ventricular voltage within normal limits. No Q waves. Normal ECG."
+    },
+    {
+      "memory_id": "X0477-m04",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 5 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0477-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: hypertension review. PRESENTING COMPLAINT: Patient says headaches less frequent, no new symptoms. EXAMINATION: BP 142/88 mmHg, weight 77.5 kg, BMI 27.5 (obese). Advised low-salt diet and walking. IMPRESSION: Hypertension, stage 1, borderline controlled. ARRANGEMENTS: Increase amlodipine to 10 mg OD; keep telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD. Repeat serum creatinine/eGFR and potassium in 6 weeks. Return if chest pain, palpitations, swelling of feet, or dizziness."
+    },
+    {
+      "memory_id": "X0477-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 1.08 mg/dL (0.6-1.2). eGFR: 64 mL/min/1.73m2. Serum potassium: 4.1 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0477-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 10 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0477-m08",
+      "date": "2025-10-18",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: hypertension check and vaccine. PRESENTING COMPLAINT: Patient feels well, occasional ankle swelling after long work days. EXAMINATION: BP 138/86 mmHg, weight 77 kg, BMI 27.3 (overweight). Advised diet, activity, weight reduction. IMPRESSION: Hypertension, controlled; mild peripheral edema likely dependent. ARRANGEMENTS: Stop hydrochlorothiazide due to low potassium trend; continue amlodipine 10 mg OD, telmisartan 40 mg OD, losartan 50 mg OD. Give inactivated influenza vaccine today (0.5 mL IM). Return if chest pain, dyspnea, fever >39°C, or sudden weight gain."
+    },
+    {
+      "memory_id": "X0477-m09",
+      "date": "2025-10-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 1.05 mg/dL (0.6-1.2). eGFR: 66 mL/min/1.73m2. Serum potassium: 3.8 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0477-m10",
+      "date": "2025-10-18",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 10 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD"
+    },
+    {
+      "memory_id": "X0477-m11",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: hypertension follow-up. PRESENTING COMPLAINT: No headaches, denies swelling, feels energetic. EXAMINATION: BP 132/80 mmHg, weight 76.5 kg, BMI 27.1 (overweight). Advised maintain lifestyle. IMPRESSION: Hypertension, well controlled. ARRANGEMENTS: Restart hydrochlorothiazide at 6.25 mg OD to maintain electrolyte balance; keep amlodipine 10 mg OD, telmisartan 40 mg OD, losartan 50 mg OD. Repeat creatinine/eGFR and potassium in 8 weeks. Return if chest pain, palpitations, muscle weakness, or unexplained fatigue."
+    },
+    {
+      "memory_id": "X0477-m12",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 1.02 mg/dL (0.6-1.2). eGFR: 68 mL/min/1.73m2. Serum potassium: 4.0 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0477-m13",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 10 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 6.25 mg OD"
+    },
+    {
+      "memory_id": "X0477-m14",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review and preventive care. PRESENTING COMPLAINT: Patient reports occasional mild fatigue after work, otherwise well. EXAMINATION: BP 130/78 mmHg, weight 76 kg, BMI 26.9 (overweight). Advised continue activity, reduce salt. IMPRESSION: Hypertension, controlled. Annual labs: lipids improved, glucose normal, renal stable. ARRANGEMENTS: Continue current regimen. Offer influenza vaccine for next autumn (to be given Oct 2026). Return if chest pain, breathlessness, fever >39°C, or ankle swelling worsening."
+    },
+    {
+      "memory_id": "X0477-m15",
+      "date": "2026-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dL (<200), LDL 110 mg/dL (<100), HDL 42 mg/dL (>40), triglycerides 140 mg/dL (<150). Fasting blood sugar: 88 mg/dL (70-100). Serum creatinine: 1.00 mg/dL (0.6-1.2). eGFR: 70 mL/min/1.73m2. Serum potassium: 4.2 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0477-m16",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 10 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 6.25 mg OD"
+    },
+    {
+      "memory_id": "X0477-m17",
+      "date": "2026-04-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Repeat ECG: Sinus rhythm, rate 76 bpm. No ischemic changes. Left ventricular hypertrophy criteria not met. Stable compared to prior ECG."
+    },
+    {
+      "memory_id": "X0477-m18",
+      "date": "2026-10-11",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 15-Nov-2026 at 10:30 AM with Dr Priya Natarajan (D03) for hypertension follow‑up. Patient confirmed via clinic app."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0352",
+  "name": "Mary Rodrigues",
+  "age": 66,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Non-alcoholic fatty liver disease",
+    "Atrial fibrillation"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0352-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports independent with ADLs, mild fatigue after housework.\ncognition: Mini-Cog 4/5 (normal).\nfalls: no falls in last 12 months; gait normal; timed up-and-go 9 seconds (normal).\nmedicines: 4 regular (silymarin, rosuvastatin, apixaban, bisoprolol).\nmood: feels well, occasional worry about health.\ncarers: Priya Kulkarni, daughter.\ngoal: \"I want to keep gardening and stay active.\""
+    },
+    {
+      "memory_id": "X0352-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 45 U/L (ref 7-35), AST 38 U/L (ref 8-33).\nPlatelet count: 210 x10^9/L (ref 150-400).\nFasting Lipid Profile: Total cholesterol 210 mg/dL (<200), LDL 130 mg/dL (<100), HDL 45 mg/dL (>40), Triglycerides 180 mg/dL (<150).\nAbdominal Ultrasound: mild hepatic steatosis, spleen normal."
+    },
+    {
+      "memory_id": "X0352-m03",
+      "date": "2025-04-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "rosuvastatin 10 mg OD\nsilymarin 140 mg TDS\napixaban 5 mg BD\nbisoprolol 2.5 mg OD"
+    },
+    {
+      "memory_id": "X0352-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: manages housework, notes mild shortness of breath on exertion.\ncognition: Mini-Cog not due yet (last Apr 2025).\nfalls: one fall at home without injury in past 4 months; gait slightly unsteady; timed up-and-go 13 seconds (raised fall risk) – advise strength exercises and supportive footwear.\nmedicines: 5 regular (silymarin, rosuvastatin 10 mg, apixaban, bisoprolol, warfarin not started) – polypharmacy, review against Beers criteria.\nmood: reports occasional low mood, enjoys time with grandchildren.\ncarers: Priya Kulkarni, daughter.\ngoal: \"I want to continue cooking for my family.\""
+    },
+    {
+      "memory_id": "X0352-m05",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 10 mg OD\nwarfarin 5 mg OD (INR target 2-3)\nbisoprolol 2.5 mg OD\napixaban stopped"
+    },
+    {
+      "memory_id": "X0352-m06",
+      "date": "2025-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR: 2.4 (target 2-3).\nSerum Creatinine: 0.9 mg/dL (ref 0.5-1.1).\nTSH: 2.1 mIU/L (ref 0.4-4.0)."
+    },
+    {
+      "memory_id": "X0352-m07",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: atrial fibrillation with controlled ventricular rate ~78 bpm, no acute ischemic changes."
+    },
+    {
+      "memory_id": "X0352-m08",
+      "date": "2025-09-10",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Cardiology for atrial fibrillation management and anticoagulation optimization. Include recent ECG and INR results."
+    },
+    {
+      "memory_id": "X0352-m09",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "lab",
+      "text": "Cardiology review: patient stable on warfarin with INR 2.4, rate-controlled AF. Continue current regimen, repeat ECG in 6 months."
+    },
+    {
+      "memory_id": "X0352-m10",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked with Dr Nandini Kulkarni for 2025-11-05 at 10:30 AM. Patient to bring INR log."
+    },
+    {
+      "memory_id": "X0352-m11",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, able to walk to market.\ncognition: Mini-Cog not due yet.\nfalls: no new falls; gait steady; timed up-and-go 10 seconds (normal).\nmedicines: 4 regular (silymarin, rosuvastatin 10 mg, warfarin, bisoprolol).\nmood: feels good, enjoys family time.\ncarers: Priya Kulkarni, daughter.\ngoal: \"I want to stay independent and manage my health without hospital visits.\""
+    },
+    {
+      "memory_id": "X0352-m12",
+      "date": "2025-11-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 38 U/L (ref 7-35), AST 32 U/L (ref 8-33).\nPlatelet count: 205 x10^9/L (ref 150-400).\nFasting Lipid Profile: Total cholesterol 190 mg/dL (<200), LDL 110 mg/dL (<100), HDL 48 mg/dL (>40), Triglycerides 150 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0352-m13",
+      "date": "2026-02-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Abdominal Ultrasound: mild hepatic steatosis unchanged, spleen normal, no focal lesion."
+    },
+    {
+      "memory_id": "X0352-m14",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent with household chores, reports occasional knee pain.\ncognition: Mini-Cog 3/5 (normal) – annual screen performed.\nfalls: no falls in last 12 months; gait normal; timed up-and-go 9 seconds (normal).\nmedicines: 4 regular (silymarin, rosuvastatin 10 mg, warfarin, bisoprolol).\nmood: reports feeling well, enjoys gardening.\ncarers: Priya Kulkarni, daughter.\ngoal: \"I want to keep gardening and stay active.\""
+    },
+    {
+      "memory_id": "X0352-m15",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR: 2.6 (target 2-3).\nSerum Creatinine: 0.9 mg/dL (ref 0.5-1.1).\nTSH: 2.0 mIU/L (ref 0.4-4.0)."
+    },
+    {
+      "memory_id": "X0352-m16",
+      "date": "2026-07-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original 2026-08-01 moved to 2026-08-10 at 14:00 due to clinic schedule."
+    },
+    {
+      "memory_id": "X0352-m17",
+      "date": "2026-08-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: manages ADLs, notes mild fatigue after long walks.\ncognition: Mini-Cog not due yet.\nfalls: one fall at home without injury in past 3 months; gait slightly unsteady; timed up-and-go 12 seconds (raised fall risk) – advise balance exercises and proper footwear.\nmedicines: 4 regular (silymarin, rosuvastatin 10 mg, warfarin, bisoprolol).\nmood: occasional low mood, enjoys family gatherings.\ncarers: Priya Kulkarni, daughter.\ngoal: \"I want to stay independent and manage my health without hospital visits.\""
+    }
+  ]
+}

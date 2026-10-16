@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0483",
+  "name": "Latha Warrier",
+  "age": 20,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0483-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign positional vertigo with episodic positional dizziness.\nPatient reports brief spinning sensations on lying down or turning head, lasting <1 minute, associated nausea. No hearing loss or tinnitus. Dix-Hallpike test positive on right side with torsional nystagmus. Audiometry shows bilateral mild high‑frequency sensorineural loss. She is a non‑smoker, never smoked. Inhaler not prescribed. Technique not applicable."
+    },
+    {
+      "memory_id": "X0483-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "betahistine 16 mg twice daily\nmeclizine 25 mg as needed for vertigo\nsalbutamol metered‑dose inhaler 2 puffs as needed for wheeze"
+    },
+    {
+      "memory_id": "X0483-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Audiometry: Right ear 25 dB HL at 4 kHz, 30 dB at 6 kHz; Left ear 20 dB HL at 4 kHz, 25 dB at 6 kHz. Speech discrimination 96% bilaterally. Consistent with mild high‑frequency sensorineural loss."
+    },
+    {
+      "memory_id": "X0483-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dix‑Hallpike test: Right side positive, torsional up‑beating nystagmus lasting 8 seconds. Left side negative."
+    },
+    {
+      "memory_id": "X0483-m05",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025‑07‑10 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0483-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign positional vertigo, improved; occasional mild wheeze.\nVertigo episodes reduced to 1‑2 per week, shorter duration. Patient uses meclizine only occasionally. Reports occasional chest tightness on exertion, relieved by salbutamol. Spirometry shows FEV1 2.85 L (92% predicted), FVC 3.40 L (95%), FEV1/FVC 0.84, unchanged from baseline. Asthma Control Test score 22 (well controlled). Inhaler technique checked: correct. Smoking status: never smoked."
+    },
+    {
+      "memory_id": "X0483-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "betahistine 24 mg twice daily\nmeclizine 25 mg as needed\nsalbutamol metered‑dose inhaler 2 puffs as needed"
+    },
+    {
+      "memory_id": "X0483-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Repeat audiometry: Right ear 22 dB HL at 4 kHz, 28 dB at 6 kHz; Left ear 18 dB HL at 4 kHz, 22 dB at 6 kHz. Stable mild high‑frequency loss."
+    },
+    {
+      "memory_id": "X0483-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry: FEV1 2.85 L (92% pred), FVC 3.40 L (95% pred), FEV1/FVC 0.84. Change in FEV1 since last test: +0.02 L."
+    },
+    {
+      "memory_id": "X0483-m10",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling much better; vertigo rare now. Only occasional mild wheeze when I climb stairs, which improves with my inhaler. No side effects from betahistine."
+    },
+    {
+      "memory_id": "X0483-m11",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign positional vertigo, well controlled; asthma mild intermittent.\nVertigo free for past 6 weeks. No need for meclizine. Asthma symptoms absent, salbutamol used <2 times/week. Spirometry: FEV1 2.92 L (94% pred), FVC 3.45 L (96% pred), FEV1/FVC 0.85, +0.07 L increase since last visit. Asthma Control Test 24 (well controlled). Inhaler technique correct. Smoking status: never smoked."
+    },
+    {
+      "memory_id": "X0483-m12",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "betahistine stopped\nmeclizine 25 mg as needed only\nsalbutamol metered‑dose inhaler 2 puffs as needed"
+    },
+    {
+      "memory_id": "X0483-m13",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Audiometry: Right ear 20 dB HL at 4 kHz, 26 dB at 6 kHz; Left ear 16 dB HL at 4 kHz, 20 dB at 6 kHz. No significant change from baseline."
+    },
+    {
+      "memory_id": "X0483-m14",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry: FEV1 2.92 L (94% pred), FVC 3.45 L (96% pred), FEV1/FVC 0.85. Change in FEV1 since last test: +0.07 L."
+    },
+    {
+      "memory_id": "X0483-m15",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Next review appointment booked for 2026‑02‑14 at 09:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0483-m16",
+      "date": "2026-02-14",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to ENT specialist for vestibular rehabilitation assessment. Patient has resolved positional vertigo; request advice on vestibular therapy and any further work‑up for persistent mild high‑frequency hearing loss."
+    },
+    {
+      "memory_id": "X0483-m17",
+      "date": "2026-05-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "ENT report: Benign positional vertigo confirmed, no central pathology. Audiology shows stable mild high‑frequency sensorineural loss, likely age‑related. Recommended vestibular rehabilitation exercises twice daily for 6 weeks; no further intervention needed."
+    }
+  ]
+}

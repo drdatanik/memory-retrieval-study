@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0384",
+  "name": "Usha Agarwal",
+  "age": 62,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Benign positional vertigo",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0384-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in activities of daily living, continues to drive her auto-rickshaw, reports occasional brief vertigo episodes lasting seconds.\ncognition: Mini-Cog score 4 out of 5 (three-word recall intact, clock drawing normal).\nfalls: No falls in the last 12 months; gait steady; timed up-and-go 10 seconds.\nmedicines: 4 regular – betahistine 16 mg BD, meclizine 25 mg SOS, levetiracetam 500 mg BD, lamotrigine 50 mg BD.\nmood: Reports good mood, denies depression or anxiety.\ncarers: Ramesh, husband.\ngoals: \"I want to keep driving safely and manage my vertigo.\""
+    },
+    {
+      "memory_id": "X0384-m02",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 138 mmol/L (reference 135-145).\nSerum creatinine: 0.9 mg/L (reference 0.6-1.1).\nBoth within normal limits."
+    },
+    {
+      "memory_id": "X0384-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Betahistine 16 mg tablet – take one tablet twice daily.\nMeclizine 25 mg tablet – take one tablet as needed for vertigo, max three times daily.\nLevetiracetam 500 mg tablet – take one tablet twice daily.\nLamotrigine 50 mg tablet – take one tablet twice daily."
+    },
+    {
+      "memory_id": "X0384-m04",
+      "date": "2025-04-06",
+      "type": "investigation",
+      "author": "D06",
+      "text": "EEG: Awake and asleep recording shows no epileptiform discharges; background activity normal for age. No seizure activity captured."
+    },
+    {
+      "memory_id": "X0384-m05",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past three weeks I have had two brief spinning sensations when turning my head quickly while driving. Each lasted less than a minute and resolved on its own. No loss of consciousness or headache."
+    },
+    {
+      "memory_id": "X0384-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still drives auto-rickshaw; notes vertigo episodes reduced to once per week, mild.\ncognition: Mini-Cog not repeated (annual screen due next visit).\nfalls: No falls in past 12 months; gait smooth; timed up-and-go 9 seconds.\nmedicines: 4 regular – betahistine 16 mg BD, meclizine 25 mg SOS, levetiracetam 500 mg BD, lamotrigine 50 mg BD.\nmood: Reports occasional frustration with vertigo but overall content.\ncarers: Ramesh, husband.\ngoals: \"I aim to reduce vertigo to rare episodes and continue working.\""
+    },
+    {
+      "memory_id": "X0384-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 137 mmol/L (reference 135-145).\nSerum creatinine: 0.9 mg/L (reference 0.6-1.1).\nStable from previous."
+    },
+    {
+      "memory_id": "X0384-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Levetiracetam dose increased to 750 mg tablet twice daily due to occasional breakthrough sensation reported.\nAll other medications unchanged: betahistine 16 mg BD, meclizine 25 mg SOS, lamotrigine 50 mg BD."
+    },
+    {
+      "memory_id": "X0384-m09",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up visit booked for 15 October 2025 at 10:00 am with Dr Nandini Kulkarni (D06). Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0384-m10",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Driving continues; vertigo episodes now infrequent, only occasional mild light‑headedness.\ncognition: Mini-Cog score 3/5 (two-word recall delayed, clock drawing normal) – positive screen (<=2? actually 3 >2, so negative). Falls: No falls in past 12 months; gait steady; timed up-and-go 10 seconds.\nmedicines: 5 regular – betahistine 16 mg BD, meclizine 25 mg SOS, levetiracetam 750 mg BD, lamotrigine 50 mg BD, vitamin D3 1000 IU daily (added for bone health).\nPolypharmacy noted (5 medicines); request review against Beers criteria.\nmood: Reports good sleep and mood.\ncarers: Ramesh, husband.\ngoals: \"I want to stay independent and avoid any falls.\""
+    },
+    {
+      "memory_id": "X0384-m11",
+      "date": "2025-10-16",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Audiometry: Pure‑tone averages 25 dB HL in left ear, 28 dB HL in right ear (mild high‑frequency loss). No conductive component. Results consistent with age‑related changes; no pathology contributing to vertigo."
+    },
+    {
+      "memory_id": "X0384-m12",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Continues auto‑rickshaw work; reports no vertigo spells in past two months.\ncognition: Mini-Cog repeated (annual) – score 4/5 (three-word recall intact, clock drawing normal).\nfalls: No falls in last 12 months; gait smooth; timed up-and-go 9 seconds.\nmedicines: 4 regular – betahistine 16 mg BD, meclizine 25 mg SOS, levetiracetam 750 mg BD, lamotrigine 50 mg BD (vitamin D3 stopped after normal levels).\nmood: Stable, denies depression.\ncarers: Ramesh, husband.\ngoals: \"My goal is to remain seizure‑free and keep working without interruption.\""
+    }
+  ]
+}

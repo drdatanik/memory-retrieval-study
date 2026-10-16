@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0230",
+  "name": "Lilly Thomas",
+  "age": 84,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0230-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Chronic, symptoms of bloating and diarrhoea 3-4 days/week, weight 58 kg, waist 82 cm (above female cut‑off 80 cm).\n  - Plan: Start mebeverine 135 mg BD (1-0-1, before food), ispaghula husk 5 g OD (1-0-0, after food), loperamide 2 mg SOS as needed. Advise small frequent meals, avoid spicy/fried foods, increase soluble fibre. Review in 3 months.\n- Diet advice\n  - Breakfast: Idli with coconut chutney, avoid chutney with heavy oil.\n  - Lunch: Rice with dal and steamed vegetables, limit ghee.\n  - Dinner: Light khichdi, early dinner by 7 pm."
+    },
+    {
+      "memory_id": "X0230-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg BD (1-0-1, before food)\nispaghula husk 5 g OD (1-0-0, after food)\nloperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0230-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.4 g/dl (12-16), WBC 6.2 x10^9/L (4-10), Plt 210 x10^9/L (150-400).\nStool routine: Ova and cyst negative, pus cells 0-1/hpf.\ntTG-IgA: <4 U/ml (negative <7)."
+    },
+    {
+      "memory_id": "X0230-m04",
+      "date": "2025-04-08",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking the medicines as prescribed. Bloating is better but I still get loose stools after eating out. No abdominal pain."
+    },
+    {
+      "memory_id": "X0230-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Improved bloating, occasional diarrhoea 1-2 days/week, weight 57.5 kg, waist 81 cm.\n  - Plan: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD. Reduce loperamide to SOS only if >3 loose stools/day. Reinforce low‑FODMAP diet, avoid caffeine. Review in 3 months.\n- Diet advice\n  - Breakfast: Poha with peanuts, limit oil.\n  - Lunch: Chapati with vegetable curry, use minimal oil.\n  - Dinner: Curd rice, early by 6:30 pm."
+    },
+    {
+      "memory_id": "X0230-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg BD (1-0-1, before food)\nispaghula husk 5 g OD (1-0-0, after food)\nloperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0230-m07",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.8% (4-5.6) – slightly elevated.\nLipid profile: Total cholesterol 190 mg/dl (<200), HDL 48 mg/dl (>40), LDL 110 mg/dl (<130), Triglycerides 150 mg/dl (<150)."
+    },
+    {
+      "memory_id": "X0230-m08",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-10-05 at 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0230-m09",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Stable, weight 57 kg, waist 80 cm (at cut‑off).\n  - Plan: Continue current regimen. Add probiotic sachet OD after breakfast. Reinforce hydration. Review in 3 months.\n- Diet advice\n  - Breakfast: Upma with vegetables, probiotic after.\n  - Lunch: Rice with sambar and steamed veg, limit oil.\n  - Dinner: Vegetable dalia, early."
+    },
+    {
+      "memory_id": "X0230-m10",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg BD (1-0-1, before food)\nispaghula husk 5 g OD (1-0-0, after food)\nloperamide 2 mg SOS\nProbiotic sachet 1 g OD (after breakfast)"
+    },
+    {
+      "memory_id": "X0230-m11",
+      "date": "2025-10-07",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: Liver normal size, no focal lesion. Gallbladder wall thickness 2 mm (normal). No biliary dilatation. Kidneys unremarkable."
+    },
+    {
+      "memory_id": "X0230-m12",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Increased diarrhoea 4 days/week, weight 56 kg, waist 79 cm.\n  - Plan: Stop loperamide (ineffective). Start rifaximin 400 mg BD for 2 weeks. Continue mebeverine and ispaghula. Review after course.\n- Diet advice\n  - Breakfast: Dosa with minimal oil, chutney on side.\n  - Lunch: Khichdi with curd.\n  - Dinner: Light soup and toast, early."
+    },
+    {
+      "memory_id": "X0230-m13",
+      "date": "2026-01-15",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Gastroenterology for evaluation of refractory IBS‑diarrhoea, consider colonic transit study and possible bile acid malabsorption testing."
+    },
+    {
+      "memory_id": "X0230-m14",
+      "date": "2026-02-20",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Gastroenterology review: Colonoscopy normal. SeHCAT test abnormal suggestive of bile acid malabsorption. Advised colesevelam 625 mg OD with dinner. Continue current IBS meds."
+    },
+    {
+      "memory_id": "X0230-m15",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Improved after colesevelam, diarrhoea 1-2 days/week, weight 56.5 kg, waist 80 cm.\n  - Plan: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, colesevelam 625 mg OD with dinner. Stop rifaximin (completed). Review in 3 months.\n- Diet advice\n  - Breakfast: Idli with sambar, minimal oil.\n  - Lunch: Rice with rasam and steamed veg.\n  - Dinner: Chapati with vegetable curry, early."
+    },
+    {
+      "memory_id": "X0230-m16",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg BD (1-0-1, before food)\nispaghula husk 5 g OD (1-0-0, after food)\ncolesevelam 625 mg OD (with dinner)"
+    },
+    {
+      "memory_id": "X0230-m17",
+      "date": "2026-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.6 g/dl, WBC 6.0 x10^9/L, Plt 205 x10^9/L.\nStool routine: No ova/cyst, pus cells 0-1/hpf.\ntTG-IgA: <4 U/ml (negative)."
+    },
+    {
+      "memory_id": "X0230-m18",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Well controlled, weight 57 kg, waist 80 cm.\n  - Plan: Continue current meds. Annual lipid profile due. Review in 6 months.\n- Diet advice\n  - Breakfast: Poha with peanuts, limited oil.\n  - Lunch: Chapati with dal and vegetable.\n  - Dinner: Curd rice, early."
+    }
+  ]
+}

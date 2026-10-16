@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0231",
+  "name": "Revathi Iyer",
+  "age": 82,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Glaucoma",
+    "Psoriasis",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0231-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable glaucoma, psoriasis, and epilepsy.\nShe reports no eye pain, redness, or visual blur; skin plaques are limited to elbows and knees with mild scaling; she has had no seizures in the past month and takes her medications regularly. On examination, visual acuity is 6/9 bilaterally, intraocular pressure measured 22 mm Hg OU, skin shows mild erythematous plaques, neurological exam is non‑focal. Smoking status: never. She denies any new medications or intercurrent illness."
+    },
+    {
+      "memory_id": "X0231-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops BD\nlatanoprost 0.005% eye drops HS\nclobetasol 0.05% cream BD topical\ncalcipotriol ointment OD topical\nmethotrexate 7.5 mg once weekly\nfolic acid 5 mg OD\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0231-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: 22 mm Hg (REF 10‑21) OU\nLFT: ALT 28 U/L (REF ≤40), AST 24 U/L (REF ≤35), ALP 78 U/L (REF 30‑120)\nCBC: Hb 12.8 g/dL (REF 12‑16), WBC 6.2×10⁹/L (REF 4‑10), Plt 210×10⁹/L (REF 150‑400)\nSerum creatinine: 0.9 mg/dL (REF 0.6‑1.1)\nEEG: no epileptiform activity"
+    },
+    {
+      "memory_id": "X0231-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma uncontrolled, psoriasis mild, epilepsy stable.\nShe notes occasional morning blurring of vision; skin lesions unchanged; no seizures. Exam: IOP 28 mm Hg OD, 26 mm Hg OS; visual field shows mild nasal step OD; skin plaques mild; neurological exam normal. Smoking status: never. She admits occasional missed eye drops due to travel."
+    },
+    {
+      "memory_id": "X0231-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops BD\nlatanoprost 0.005% eye drops HS\nclobetasol 0.05% cream BD topical\ncalcipotriol ointment OD topical\nmethotrexate 5 mg once weekly\nfolic acid 5 mg OD\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0231-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: 28 mm Hg OD, 26 mm Hg OS (REF 10‑21)\nLFT: ALT 22 U/L, AST 20 U/L, ALP 75 U/L\nCBC: Hb 13.0 g/dL, WBC 5.8×10⁹/L, Plt 205×10⁹/L\nSerum creatinine: 0.9 mg/dL"
+    },
+    {
+      "memory_id": "X0231-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma improved, psoriasis flare, epilepsy stable.\nShe reports clearer vision; skin plaques increased on scalp and back with itching; no seizures. Exam: IOP 20 mm Hg OU; visual field stable; scalp erythema with scale; neurological exam normal. Smoking status: never. She uses lubricating drops for comfort."
+    },
+    {
+      "memory_id": "X0231-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops BD\nlatanoprost 0.005% eye drops HS\nclobetasol 0.05% cream BD topical\ncalcipotriol ointment OD topical\nmethotrexate 5 mg once weekly\nfolic acid 5 mg OD\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0231-m09",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: 20 mm Hg OU (REF 10‑21)\nVisual field: MD -1.2 dB OD, -0.9 dB OS (within normal limits)\nOptic disc: CDR 0.4 OU (REF <0.5)"
+    },
+    {
+      "memory_id": "X0231-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma stable, psoriasis controlled, epilepsy breakthrough.\nShe reports no visual change; skin lesions flat, no new plaques; had two brief focal seizures over past week. Exam: IOP 19 mm Hg OU; skin clear; neurological exam non‑focal. Smoking status: never. She admits missing levetiracetam doses during night shifts."
+    },
+    {
+      "memory_id": "X0231-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops BD\nlatanoprost 0.005% eye drops HS\nclobetasol 0.05% cream BD topical\ncalcipotriol ointment OD topical\nmethotrexate 5 mg once weekly\nfolic acid 5 mg OD\nlevetiracetam 750 mg BD\nlamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0231-m12",
+      "date": "2026-01-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 138 mmol/L (REF 135‑145)\nSerum creatinine: 0.9 mg/dL (REF 0.6‑1.1)\nCBC: Hb 12.9 g/dL, WBC 6.0×10⁹/L, Plt 208×10⁹/L"
+    },
+    {
+      "memory_id": "X0231-m13",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-22 at 10:00 with Dr Suresh Menon (D05) for routine review."
+    },
+    {
+      "memory_id": "X0231-m14",
+      "date": "2026-04-22",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma stable, psoriasis mild, epilepsy well controlled.\nShe denies visual symptoms; skin lesions faint, no itching; seizure‑free for 8 weeks. Exam: IOP 18 mm Hg OU; skin slight pink patches; neurological exam normal. Smoking status: never. She reports good adherence to all meds."
+    },
+    {
+      "memory_id": "X0231-m15",
+      "date": "2026-04-22",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops BD\nlatanoprost 0.005% eye drops HS\nclobetasol 0.05% cream BD topical\ncalcipotriol ointment OD topical\nmethotrexate 5 mg once weekly\nfolic acid 5 mg OD\nlevetiracetam 750 mg BD\nlamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0231-m16",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "All conditions stable.\nShe reports clear vision, skin lesions minimal, no seizures. Exam: IOP 17 mm Hg OU; visual field unchanged; skin almost clear; neurological exam normal. Smoking status: never. She plans to continue current regimen and return in 4 months."
+    }
+  ]
+}

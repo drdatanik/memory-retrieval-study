@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0189",
+  "name": "Anitha Kotha",
+  "age": 42,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0189-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Review of asthma control and routine check-up.\nEXAMINATION: BP 122/78 mmHg, weight 62 kg, height 158 cm, BMI 24.8 (overweight). Respiratory exam: mild expiratory wheeze bilaterally, good air entry.\nIMPRESSION: Asthma, intermittent symptoms. Overweight per Asian cut‑offs. Advised on balanced diet and regular walking. Fasting lipid profile and fasting blood sugar ordered for baseline cardiovascular risk.\nARRANGEMENTS: Salbutamol MDI 2 puffs SOS, Budesonide‑Formoterol 200/6 inhaler 2 puffs BD, Montelukast 10 mg HS. Spirometry with reversibility and Asthma Control Test scheduled. Return if: worsening wheeze, night awakenings >2/week, exercise limitation, fever >39°C, or any chest pain."
+    },
+    {
+      "memory_id": "X0189-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Salbutamol metered-dose inhaler 100 mcg, 2 puffs SOS\nBudesonide‑Formoterol 200/6 mcg inhaler, 2 puffs twice daily\nMontelukast sodium 10 mg tablet, take at bedtime"
+    },
+    {
+      "memory_id": "X0189-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 185 mg/dL (<200 desirable), HDL 48 mg/dL (>40 good), LDL 110 mg/dL (<130 optimal), Triglycerides 130 mg/dL (<150 normal).\nFasting blood sugar: 92 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0189-m04",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up on lipid and glucose results; asthma stable.\nEXAMINATION: BP 119/76 mmHg, weight 61.5 kg, BMI 24.6 (overweight). No wheeze, good aeration.\nIMPRESSION: Lipids and glucose within target. Asthma well‑controlled. Continue current inhaled therapy; reinforce weight‑management advice (diet, 30 min brisk walk daily).\nARRANGEMENTS: No medication change. Spirometry scheduled for next visit. Return if: increased reliever use, nocturnal symptoms, fever >39°C, breathlessness at rest, or chest tightness."
+    },
+    {
+      "memory_id": "X0189-m05",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Asthma review and influenza vaccination.\nEXAMINATION: BP 121/77 mmHg, weight 61 kg, BMI 24.4 (overweight). Mild intermittent wheeze on forced expiration.\nIMPRESSION: Asthma controlled. Overweight – advise reduced refined carbs, increase vegetable intake, aim for 5 000 steps/day. Annual fasting lipid profile and fasting blood sugar ordered.\nARRANGEMENTS: Influenza vaccine (0.5 mL IM) given today 2025‑10‑02. Continue salbutamol SOS, budesonide‑formoterol BD, montelukast HS. Return if: peak flow drop >20%, worsening cough, fever >39°C, haemoptysis, or chest pain."
+    },
+    {
+      "memory_id": "X0189-m06",
+      "date": "2025-10-04",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Influenza vaccine inactivated, 0.5 mL IM, single dose given 2025‑10‑02."
+    },
+    {
+      "memory_id": "X0189-m07",
+      "date": "2025-11-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 178 mg/dL, HDL 50 mg/dL, LDL 105 mg/dL, Triglycerides 122 mg/dL.\nFasting blood sugar: 88 mg/dL."
+    },
+    {
+      "memory_id": "X0189-m08",
+      "date": "2026-01-18",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine asthma check; review of lipids and glucose.\nEXAMINATION: BP 120/75 mmHg, weight 60.8 kg, BMI 24.3 (overweight). Chest clear.\nIMPRESSION: Metabolic parameters stable. Asthma asymptomatic. Continue current regimen; encourage strength training twice weekly.\nARRANGEMENTS: No prescription change. Spirometry with reversibility planned for spring. Return if: increased night symptoms, exercise intolerance, fever >39°C, blood in sputum, or sudden dyspnea."
+    },
+    {
+      "memory_id": "X0189-m09",
+      "date": "2026-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry with reversibility: Pre‑bronchodilator FEV1 2.85 L (88% predicted), FVC 3.40 L (92% predicted), FEV1/FVC 84%. Post‑salbutamol FEV1 3.10 L (96% predicted), increase 8.8% and 0.25 L (>12% and >200 mL significant). Asthma Control Test score 22/25 (well controlled)."
+    },
+    {
+      "memory_id": "X0189-m10",
+      "date": "2026-05-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Review of spirometry results; asthma control.\nEXAMINATION: BP 118/74 mmHg, weight 60.5 kg, BMI 24.2 (overweight). No wheeze.\nIMPRESSION: Spirometry shows reversible airflow obstruction consistent with asthma; post‑bronchodilator improvement >12% confirms diagnosis. Asthma well controlled per ACT. Continue current therapy; remind about inhaler technique.\nARRANGEMENTS: No medication adjustment. Return if: daytime symptoms >2/week, night waking, reliever use >2 × /week, fever >39°C, or chest pain."
+    },
+    {
+      "memory_id": "X0189-m11",
+      "date": "2026-08-22",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-10-07 at 10:30 am with Dr Priya Natarajan (D03) for asthma review and influenza vaccination. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0189-m12",
+      "date": "2026-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 180 mg/dL, HDL 49 mg/dL, LDL 110 mg/dL, Triglycerides 135 mg/dL.\nFasting blood sugar: 90 mg/dL."
+    },
+    {
+      "memory_id": "X0189-m13",
+      "date": "2026-10-07",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Asthma review and annual influenza vaccination.\nEXAMINATION: BP 122/78 mmHg, weight 60 kg, BMI 24.1 (overweight). Chest clear.\nIMPRESSION: Asthma stable, lipids and glucose within target. Overweight – advise Mediterranean‑style diet, limit sugary snacks, aim for 7 500 steps daily.\nARRANGEMENTS: Influenza vaccine (0.5 mL IM) given today 2026-10-07. Continue salbutamol SOS, budesonide‑formoterol BD, montelukast HS. Return if: worsening wheeze, nocturnal symptoms >2/night, fever >39°C, blood in sputum, or chest pain."
+    }
+  ]
+}

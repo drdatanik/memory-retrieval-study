@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0286",
+  "name": "Hitesh Modi",
+  "age": 41,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Insomnia",
+    "Migraine",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0286-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Insomnia: ongoing, reports difficulty falling asleep, melatonin and trazodone continued. Plan: reinforce sleep hygiene, consider CBT-I if no improvement.\nMigraine: 2-3 episodes/month on propranolol prophylaxis, sumatriptan effective. Plan: continue prophylaxis, monitor for side effects.\nAllergic rhinitis: perennial symptoms, nasal spray and antihistamine used. Plan: continue intranasal steroid, add montelukast if needed.\nWeight 78 kg, waist circumference 92 cm (>90 cm cut‑off for male) – central obesity. Diet advice: breakfast – high‑protein, low‑glycemic; lunch – mixed vegetables with lean protein; dinner – light, avoid carbs after 8 pm.\nDue: HbA1c repeat in 3 months (2025-07-05)."
+    },
+    {
+      "memory_id": "X0286-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "melatonin 3 mg HS\n trazodone 50 mg HS\n propranolol 40 mg OD\n sumatriptan 50 mg SOS\n topiramate 25 mg HS\n naproxen 500 mg SOS\n cetirizine 10 mg HS\n fluticasone nasal spray 1 spray each nostril OD\n montelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0286-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 µIU/mL (Ref 0.4‑4.0) – mildly elevated.\n Haemoglobin 13.8 g/dL (Ref 13.0‑17.0).\n HbA1c 6.0 % (Ref <5.7) – pre‑diabetic range.\n Lipid profile: Total cholesterol 210 mg/dL (<200), LDL 130 mg/dL (<100), HDL 38 mg/dL (>40), Triglycerides 180 mg/dL (<150).\n Total serum IgE 120 IU/mL (Ref <100) – elevated."
+    },
+    {
+      "memory_id": "X0286-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Skin prick test: positive reaction to house dust mite (3+), grass pollen (2+), negative to cat dander. Consistent with allergic rhinitis.\n Plan: continue allergen avoidance, consider immunotherapy if symptoms persist."
+    },
+    {
+      "memory_id": "X0286-m05",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "CT head (non‑contrast): no acute infarct, hemorrhage, or mass lesion. Normal ventricular size. No abnormal enhancement. \n Interpretation: study rules out structural cause for migraine; migraine likely primary."
+    },
+    {
+      "memory_id": "X0286-m06",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Insomnia: reports improved sleep latency after melatonin increase to 5 mg HS; trazodone unchanged. No daytime fatigue.\nMigraine: only 1 mild episode in past month, sumatriptan used once. Propranolol well tolerated, HR 62 bpm.\nAllergic rhinitis: nasal congestion worse in mornings; cetirizine causing mild daytime drowsiness. Plan: switch to levocetirizine 5 mg HS, continue fluticasone, add montelukast 10 mg HS.\nWeight 77 kg, waist 90 cm (at cut‑off). Diet advice: breakfast – Greek yogurt with nuts; lunch – quinoa salad with chickpeas; dinner – steamed fish with vegetables, avoid fried foods.\nDue: HbA1c repeat in 3 months (2025-10-20)."
+    },
+    {
+      "memory_id": "X0286-m07",
+      "date": "2025-07-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling sleepier in the mornings since I started cetirizine. It’s making it hard to stay alert during my morning mail route. Can we try something else?"
+    },
+    {
+      "memory_id": "X0286-m08",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "melatonin 5 mg HS\n trazodone 50 mg HS\n propranolol 40 mg OD\n sumatriptan 50 mg SOS\n topiramate 25 mg HS\n naproxen 500 mg SOS\n levocetirizine 5 mg HS\n fluticasone nasal spray 1 spray each nostril OD\n montelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0286-m09",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Insomnia: sleep latency back to baseline (~30 min) despite melatonin 5 mg; trazodone effective. Plan: keep melatonin 3 mg HS, increase trazodone to 75 mg HS.\nMigraine: 0 episodes in last 6 weeks, propranolol continued. No adverse effects.\nAllergic rhinitis: symptoms well controlled on levocetirizine, fluticasone, montelukast. No drowsiness.\nWeight 76 kg, waist 88 cm (<90) – improved central obesity. Diet advice: maintain current pattern, add evening walk 30 min.\nDue: HbA1c repeat in 3 months (2026-02-05). Lipid profile due annually (next 2026-04-05)."
+    },
+    {
+      "memory_id": "X0286-m10",
+      "date": "2025-11-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 3.8 µIU/mL (Ref 0.4‑4.0) – euthyroid.\n Haemoglobin 14.0 g/dL (Ref 13.0‑17.0).\n HbA1c 5.8 % (Ref <5.7) – borderline, improved from 6.0%.\n Lipid profile: Total cholesterol 195 mg/dL (<200), LDL 115 mg/dL (<100), HDL 42 mg/dL (>40), Triglycerides 150 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0286-m11",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Insomnia: reports occasional early‑morning awakening; trazodone 75 mg HS helpful. Plan: continue current regimen.\nMigraine: no headaches for 3 months, propranolol 40 mg OD continued.\nAllergic rhinitis: asymptomatic, continues levocetirizine, fluticasone, montelukast.\nWeight 75 kg, waist 86 cm. Diet advice: breakfast – oatmeal with berries; lunch – lentil soup with whole‑grain roll; dinner – grilled chicken with salad.\nDue: HbA1c repeat in 3 months (2026-05-15)."
+    },
+    {
+      "memory_id": "X0286-m12",
+      "date": "2026-02-15",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Allergy: penicillin – rash (maculopapular) noted after a course for sinusitis in 2023. Avoid penicillin and beta‑lactams; use alternatives if needed."
+    },
+    {
+      "memory_id": "X0286-m13",
+      "date": "2026-06-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Insomnia: stable on melatonin 3 mg HS and trazodone 75 mg HS; reports 6‑7 hrs sleep nightly.\nMigraine: remains headache‑free; propranolol continued.\nAllergic rhinitis: asymptomatic, continues current meds.\nWeight 74 kg, waist 84 cm. Diet advice: maintain balanced meals, limit refined sugars.\nDue: HbA1c repeat in 3 months (2026-09-30). Lipid profile due annually (next 2026-04-05 – already done)."
+    },
+    {
+      "memory_id": "X0286-m14",
+      "date": "2026-06-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-09-30 10:00 AM with Dr Karthik Hegde (D04) for routine follow‑up. Patient confirmed via clinic app."
+    }
+  ]
+}

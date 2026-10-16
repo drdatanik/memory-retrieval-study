@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0360",
+  "name": "Parminder Dhillon",
+  "age": 74,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Benign positional vertigo",
+    "Atrial fibrillation"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0360-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild dizziness on turning head, no difficulty with ADLs. cognition: Mini-Cog 4/5 (recall 3, clock draw normal). falls: 0 falls in last 12 months, gait steady, TUG 10 seconds (normal). medicines: 5 regular (betahistine 16 mg BD, meclizine 25 mg SOS, apixaban 5 mg BD, bisoprolol 2.5 mg OD, warfarin 3 mg OD). mood: denies low mood or anxiety. carers: daughter Priya, lives nearby. goals: \"I want to stay independent and continue my lab work.\""
+    },
+    {
+      "memory_id": "X0360-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg twice daily\nmeclizine 25 mg as needed for vertigo\napixaban 5 mg twice daily\nbisoprolol 2.5 mg once daily\nwarfarin 3 mg once daily; target INR 2-3"
+    },
+    {
+      "memory_id": "X0360-m03",
+      "date": "2025-04-07",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: sinus rhythm, heart rate 78 bpm, no ST-T changes, PR interval 160 ms, QRS 92 ms. No atrial fibrillation noted at this moment; likely paroxysmal."
+    },
+    {
+      "memory_id": "X0360-m04",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Dix-Hallpike test: positive on right side with transient torsional nystagmus lasting <10 seconds, consistent with right posterior canal BPPV."
+    },
+    {
+      "memory_id": "X0360-m05",
+      "date": "2025-04-09",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Audiometry (pure tone average): bilateral mild high-frequency hearing loss (25 dB at 4 kHz), otherwise within normal limits; no significant asymmetry."
+    },
+    {
+      "memory_id": "X0360-m06",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.4 (target 2-3)\nSerum creatinine 0.9 mg/dL (eGFR >60)\nTSH 2.1 mIU/L (reference 0.4-4.0)"
+    },
+    {
+      "memory_id": "X0360-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: occasional vertigo episodes, now 1-2 per week, lasting <1 minute; ADLs unaffected. cognition: Mini-Cog 4/5. falls: 0 falls, gait slightly cautious, TUG 11 seconds (borderline). medicines: 5 regular. mood: reports frustration with dizziness, no depression. carers: daughter Priya. goals: \"I want to reduce dizzy spells and keep working part-time.\""
+    },
+    {
+      "memory_id": "X0360-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine increased to 24 mg twice daily\nmeclizine 25 mg as needed\napixaban 5 mg twice daily\nbisoprolol 2.5 mg once daily\nwarfarin dose changed to 4 mg once daily; target INR 2-3"
+    },
+    {
+      "memory_id": "X0360-m09",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 3.2 (slightly above target)\nSerum creatinine 0.9 mg/dL\nTSH 2.0 mIU/L"
+    },
+    {
+      "memory_id": "X0360-m10",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: vertigo frequency down to <1 episode per week after betahistine increase; reports mild imbalance on fast turns. cognition: Mini-Cog 5/5. falls: 0 falls, gait normal, TUG 10 seconds. medicines: 5 regular. mood: feels better, no anxiety. carers: daughter Priya. goals: \"I would like to stop taking warfarin if possible and rely on apixaban alone.\""
+    },
+    {
+      "memory_id": "X0360-m11",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 24 mg twice daily\nmeclizine 25 mg as needed\napixaban 5 mg twice daily\nbisoprolol 2.5 mg once daily\nwarfarin stopped"
+    },
+    {
+      "memory_id": "X0360-m12",
+      "date": "2025-10-13",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: sinus rhythm, heart rate 80 bpm, no P wave abnormalities, PR 168 ms, QRS 90 ms. No atrial fibrillation detected; rate-controlled on bisoprolol."
+    },
+    {
+      "memory_id": "X0360-m13",
+      "date": "2025-10-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 1.1 (off warfarin)\nSerum creatinine 0.9 mg/dL\nTSH 2.2 mIU/L"
+    },
+    {
+      "memory_id": "X0360-m14",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports occasional light-headedness on standing, no vertigo; able to perform lab work without restriction. cognition: Mini-Cog 5/5. falls: 0 falls, gait normal, TUG 9 seconds. medicines: 4 regular (betahistine, meclizine SOS, apixaban, bisoprolol). mood: stable, enjoys gardening. carers: daughter Priya. goals: \"I want to maintain my current health and avoid any falls.\""
+    },
+    {
+      "memory_id": "X0360-m15",
+      "date": "2026-02-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 24 mg twice daily\nmeclizine 25 mg as needed\napixaban 5 mg twice daily\nbisoprolol 2.5 mg once daily"
+    },
+    {
+      "memory_id": "X0360-m16",
+      "date": "2026-02-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.9 mg/dL\nTSH 2.1 mIU/L"
+    },
+    {
+      "memory_id": "X0360-m17",
+      "date": "2026-06-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-12-01 at 10:30 am with Dr Nandini Kulkarni (Geriatric Medicine). Patient reminded to bring medication list and any recent BP readings."
+    },
+    {
+      "memory_id": "X0360-m18",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: no vertigo or dizziness reported; independent in all ADLs, walks daily in Whitefield park. cognition: Mini-Cog 5/5. falls: 0 falls in past year, gait normal, TUG 9 seconds. medicines: 4 regular. mood: content, no depressive symptoms. carers: daughter Priya. goals: \"I wish to stay healthy and continue enjoying my hobbies.\""
+    }
+  ]
+}

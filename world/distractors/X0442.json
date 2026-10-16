@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0442",
+  "name": "Vilas Ghorpade",
+  "age": 51,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Type 2 diabetes",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0442-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Type 2 diabetes\n  - Status: HbA1c 8.2%, fasting glucose 156 mg/dL, weight 78 kg, waist 92 cm (above male cutoff 90 cm)\n  - Plan: Continue metformin 500 mg BD, glimepiride 1 mg OD before breakfast, sitagliptin 100 mg OD, empagliflozin 10 mg OD; advise reduced carbohydrate intake, increase walking to 30 min daily; review in 3 months.\n- Migraine\n  - Status: 2 episodes/month, using sumatriptan SOS; propranolol 40 mg OD ongoing; topiramate not started.\n  - Plan: Continue propranolol 40 mg OD; consider adding topiramate if frequency >4/month; advise regular sleep, hydration.\n- Diet advice: Breakfast – whole grain toast with egg, limited sugar; Lunch – vegetable dal, brown rice portion controlled; Dinner – light soup, salad, avoid fried foods.\n- Due: HbA1c repeat 2025-07-05."
+    },
+    {
+      "memory_id": "X0442-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg – 1-0-1 – after meals\nGlimepiride 1 mg – 1-0-0 – before breakfast\nSitagliptin 100 mg – 1-0-0 – after breakfast\nEmpagliflozin 10 mg – 1-0-0 – before breakfast\nPropranolol 40 mg – 1-0-0 – after breakfast\nSumatriptan 50 mg – 0-0-0 – SOS\nTopiramat e 25 mg – 0-0-1 – at bedtime\nNaproxen 500 mg – 0-0-0 – SOS"
+    },
+    {
+      "memory_id": "X0442-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 8.0% (4.0-5.6)\nFasting plasma glucose 148 mg/dL (70-99)\nUrine albumin‑creatinine ratio 22 mg/g (<30)\nSerum creatinine 0.9 mg/dL (0.6-1.2)\neGFR 78 mL/min/1.73m2 (>60)"
+    },
+    {
+      "memory_id": "X0442-m04",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Type 2 diabetes\n  - Status: HbA1c 7.6%, fasting glucose 140 mg/dL, weight 77 kg, waist 90 cm (at cutoff)\n  - Plan: Continue metformin, sitagliptin, empagliflozin; reduce glimepiride to 0.5 mg OD before breakfast due to mild hypoglycemia episodes; reinforce low‑glycemic diet, add resistance band exercises twice weekly.\n- Migraine\n  - Status: 1 episode/month, sumatriptan used twice; propranolol continued.\n  - Plan: Keep propranolol 40 mg OD; start topiramate 25 mg HS for prophylaxis; counsel on trigger avoidance.\n- Diet advice: Breakfast – oatmeal with nuts, no added sugar; Lunch – mixed vegetable curry, quinoa ½ cup; Dinner – grilled fish, steamed broccoli, small chapati.\n- Due: HbA1c repeat 2025-10-01."
+    },
+    {
+      "memory_id": "X0442-m05",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg – 1-0-1 – after meals\nGlimepiride 0.5 mg – 1-0-0 – before breakfast\nSitagliptin 100 mg – 1-0-0 – after breakfast\nEmpagliflozin 10 mg – 1-0-0 – before breakfast\nPropranolol 40 mg – 1-0-0 – after breakfast\nSumatriptan 50 mg – 0-0-0 – SOS\nTopiramate 25 mg – 0-0-1 – at bedtime\nNaproxen 500 mg – 0-0-0 – SOS"
+    },
+    {
+      "memory_id": "X0442-m06",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Total cholesterol 190 mg/dL (<200)\nLDL cholesterol 115 mg/dL (<100)\nHDL cholesterol 38 mg/dL (>40 low)\nTriglycerides 165 mg/dL (<150)\nVLDL 33 mg/dL"
+    },
+    {
+      "memory_id": "X0442-m07",
+      "date": "2025-09-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Type 2 diabetes\n  - Status: HbA1c 7.3%, fasting glucose 132 mg/dL, weight 76 kg, waist 88 cm (below cutoff)\n  - Plan: Maintain current regimen; add fenugreek supplement 5 g BD with meals; encourage yoga 3 times/week.\n- Migraine\n  - Status: 0 episodes in past 6 weeks on propranolol + topiramate.\n  - Plan: Continue both prophylactics; keep sumatriptan SOS; review in 3 months.\n- Diet advice: Breakfast – idli with sambar, coconut chutney limited; Lunch – brown rice ⅓ cup, sambar, salad; Dinner – vegetable khichdi, curd.\n- Due: HbA1c repeat 2025-12-20."
+    },
+    {
+      "memory_id": "X0442-m08",
+      "date": "2025-09-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg – 1-0-1 – after meals\nGlimepiride 0.5 mg – 1-0-0 – before breakfast\nSitagliptin 100 mg – 1-0-0 – after breakfast\nEmpagliflozin 10 mg – 1-0-0 – before breakfast\nPropranolol 40 mg – 1-0-0 – after breakfast\nTopiramate 25 mg – 0-0-1 – at bedtime\nSumatriptan 50 mg – 0-0-0 – SOS\nNaproxen 500 mg – 0-0-0 – SOS"
+    },
+    {
+      "memory_id": "X0442-m09",
+      "date": "2025-11-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.1% (4.0-5.6)\nFasting plasma glucose 124 mg/dL (70-99)\nUrine albumin‑creatinine ratio 18 mg/g (<30)\nSerum creatinine 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0442-m10",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Type 2 diabetes\n  - Status: HbA1c 6.9%, fasting glucose 118 mg/dL, weight 75 kg, waist 86 cm\n  - Plan: HbA1c at target; consider tapering glimepiride to 0.25 mg OD before breakfast if no hypoglycemia; continue metformin, sitagliptin, empagliflozin; reinforce lifestyle.\n- Migraine\n  - Status: No headaches for 2 months.\n  - Plan: Continue propranolol 40 mg OD and topiramate 25 mg HS; keep sumatriptan SOS; advise stress‑management.\n- Diet advice: Breakfast – multigrain toast, avocado slice, egg white; Lunch – lentil soup, millet ½ cup, steamed veg; Dinner – grilled chicken, quinoa salad.\n- Due: HbA1c repeat 2026-04-10."
+    },
+    {
+      "memory_id": "X0442-m11",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg – 1-0-1 – after meals\nGlimepiride 0.25 mg – 1-0-0 – before breakfast\nSitagliptin 100 mg – 1-0-0 – after breakfast\nEmpagliflozin 10 mg – 1-0-0 – before breakfast\nPropranolol 40 mg – 1-0-0 – after breakfast\nTopiramate 25 mg – 0-0-1 – at bedtime\nSumatriptan 50 mg – 0-0-0 – SOS\nNaproxen 500 mg – 0-0-0 – SOS"
+    },
+    {
+      "memory_id": "X0442-m12",
+      "date": "2026-02-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-03-01 10:00 to 2026-03-03 14:00 with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0442-m13",
+      "date": "2026-03-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Type 2 diabetes\n  - Status: HbA1c 6.8%, fasting glucose 115 mg/dL, weight 74 kg, waist 84 cm\n  - Plan: Glimepiride held due to occasional light‑headedness; restart at 0.25 mg OD before breakfast after snack; continue other agents; add weekly walking goal 5 km.\n- Migraine\n  - Status: 1 mild episode treated with naproxen.\n  - Plan: Continue prophylactic regimen; use naproxen SOS for breakthrough; maintain headache diary.\n- Diet advice: Breakfast – poha with peanuts, no sugar; Lunch – chapati 1, dal, vegetable stir‑fry; Dinner – fish curry, brown rice ⅓ cup, cucumber raita.\n- Due: HbA1c repeat 2026-06-15."
+    },
+    {
+      "memory_id": "X0442-m14",
+      "date": "2026-03-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg – 1-0-1 – after meals\nGlimepiride 0.25 mg – 1-0-0 – before breakfast\nSitagliptin 100 mg – 1-0-0 – after breakfast\nEmpagliflozin 10 mg – 1-0-0 – before breakfast\nPropranolol 40 mg – 1-0-0 – after breakfast\nTopiramate 25 mg – 0-0-1 – at bedtime\nSumatriptan 50 mg – 0-0-0 – SOS\nNaproxen 500 mg – 0-0-0 – SOS"
+    },
+    {
+      "memory_id": "X0442-m15",
+      "date": "2026-05-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.7% (4.0-5.6)\nFasting plasma glucose 112 mg/dL (70-99)\nUrine albumin‑creatinine ratio 15 mg/g (<30)\nTotal cholesterol 185 mg/dL\nLDL 110 mg/dL\nHDL 40 mg/dL\nTriglycerides 150 mg/dL"
+    },
+    {
+      "memory_id": "X0442-m16",
+      "date": "2026-07-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Type 2 diabetes\n  - Status: HbA1c 6.6%, fasting glucose 108 mg/dL, weight 73 kg, waist 82 cm (now below male cutoff)\n  - Plan: Empagliflozin increased to 25 mg OD for added cardio‑renal benefit; continue metformin, sitagliptin; glimepiride remains 0.25 mg OD; reinforce low‑salt diet.\n- Migraine\n  - Status: No headaches in past 8 weeks.\n  - Plan: Continue propranolol 40 mg OD and topiramate 25 mg HS; keep sumatriptan SOS; review in 4 months.\n- Diet advice: Breakfast – wheat dalia with milk, almonds; Lunch – brown rice ⅓ cup, sambar, salad; Dinner – lentil stew, roti, steamed beans.\n- Due: HbA1c repeat 2026-10-20."
+    },
+    {
+      "memory_id": "X0442-m17",
+      "date": "2026-07-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg – 1-0-1 – after meals\nGlimepiride 0.25 mg – 1-0-0 – before breakfast\nSitagliptin 100 mg – 1-0-0 – after breakfast\nEmpagliflozin 25 mg – 1-0-0 – before breakfast\nPropranolol 40 mg – 1-0-0 – after breakfast\nTopiramate 25 mg – 0-0-1 – at bedtime\nSumatriptan 50 mg – 0-0-0 – SOS\nNaproxen 500 mg – 0-0-0 – SOS"
+    },
+    {
+      "memory_id": "X0442-m18",
+      "date": "2026-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.5% (4.0-5.6)\nFasting plasma glucose 105 mg/dL (70-99)\nUrine albumin‑creatinine ratio 12 mg/g (<30)\nTotal cholesterol 180 mg/dL\nLDL 105 mg/dL\nHDL 42 mg/dL\nTriglycerides 140 mg/dL"
+    }
+  ]
+}

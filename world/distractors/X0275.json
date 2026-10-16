@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0275",
+  "name": "Lilly D'Souza",
+  "age": 73,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic kidney disease",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0275-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3b and rheumatoid arthritis. Evidence: serum creatinine 1.8 mg/dL, eGFR 38 mL/min/1.73m2, urine ACR 120 mg/g, hemoglobin 11.2 g/dL; ESR 28 mm/hr, CRP 6 mg/L, RF positive, anti-CCP 45 U/ml. Patient reports morning joint stiffness, mild dyspnea on exertion, no cough. Examination: bilateral basal crackles, tender swollen MCP and PIP joints, no deformities. BP 138/84, pulse 78."
+    },
+    {
+      "memory_id": "X0275-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n methotrexate 10 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n prednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0275-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.8 mg/dL (0.6-1.2)\neGFR 38 mL/min/1.73m2 (>60)\nUrine ACR 120 mg/g (<30)\nHemoglobin 11.2 g/dL (12-16)\nESR 28 mm/hr (<20)\nCRP 6 mg/L (<5)\nRF positive\nAnti-CCP 45 U/ml (<20)\nALT 22 U/L (7-56)\nAST 20 U/L (10-40)\nALP 78 U/L (40-129)\nBilirubin 0.9 mg/dL (0.2-1.2)"
+    },
+    {
+      "memory_id": "X0275-m04",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve had more stiffness in my hands this morning, especially the right wrist, and I feel a bit short of breath when I walk to the market. My feet are a little swollen by evening."
+    },
+    {
+      "memory_id": "X0275-m05",
+      "date": "2025-05-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3b, rheumatoid arthritis stable. Spirometry: FEV1 2.10 L (78% predicted), FVC 2.55 L (80%), FEV1/FVC 0.82; change in FEV1 since last test +0.05 L. Asthma Control Test not applicable. Technique checked: correct. Smoking status: never. Patient reports improved dyspnea, mild joint pain. Examination: lungs clear, mild bilateral pedal edema, joints mildly tender, no active synovitis."
+    },
+    {
+      "memory_id": "X0275-m06",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD\n sodium bicarbonate 500 mg BD\n methotrexate 10 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n prednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0275-m07",
+      "date": "2025-05-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.7 mg/dL (0.6-1.2)\neGFR 41 mL/min/1.73m2 (>60)\nUrine ACR 110 mg/g (<30)\nHemoglobin 11.5 g/dL (12-16)\nESR 24 mm/hr (<20)\nCRP 4 mg/L (<5)"
+    },
+    {
+      "memory_id": "X0275-m08",
+      "date": "2025-08-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray: lungs show mild increased interstitial markings at bases, no pleural effusion, cardiac silhouette normal. No overt consolidation or malignancy."
+    },
+    {
+      "memory_id": "X0275-m09",
+      "date": "2025-08-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3b, rheumatoid arthritis with mild flare. Chest X-ray shows mild interstitial changes, likely related to chronic fluid overload. Spirometry: FEV1 2.08 L (77% pred), FVC 2.52 L (79%), FEV1/FVC 0.83; change in FEV1 –0.02 L. Technique checked: correct. Asthma Control Test not applicable. Smoking status: never. Patient reports increased morning stiffness and slight increase in dyspnea on stairs."
+    },
+    {
+      "memory_id": "X0275-m10",
+      "date": "2025-08-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD\n sodium bicarbonate 500 mg BD\n methotrexate 10 mg once weekly\n folic acid 5 mg once weekly\n hydroxychloroquine 200 mg OD\n prednisolone 10 mg OD"
+    },
+    {
+      "memory_id": "X0275-m11",
+      "date": "2025-11-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-11-15 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0275-m12",
+      "date": "2025-11-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3b progressing, rheumatoid arthritis controlled on current meds. Spirometry: FEV1 2.05 L (76% pred), FVC 2.48 L (78%), FEV1/FVC 0.83; change in FEV1 –0.03 L from last visit. Technique checked: correct. Asthma Control Test not applicable. Smoking status: never. Patient reports stable joint pain, mild dyspnea on exertion, no new swelling."
+    },
+    {
+      "memory_id": "X0275-m13",
+      "date": "2025-11-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 2.0 mg/dL (0.6-1.2)\neGFR 34 mL/min/1.73m2 (>60)\nUrine ACR 138 mg/g (<30)\nHemoglobin 10.8 g/dL (12-16)\nESR 22 mm/hr (<20)\nCRP 3 mg/L (<5)"
+    },
+    {
+      "memory_id": "X0275-m14",
+      "date": "2026-04-20",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Nephrology for evaluation of progressive CKD (eGFR decline from 41 to 34 mL/min/1.73m2 over 6 months, rising creatinine). Patient on maximal tolerated RAS blockade and SGLT2 inhibitor, requires assessment for possible dialysis planning and further workup."
+    },
+    {
+      "memory_id": "X0275-m15",
+      "date": "2026-05-05",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Nephrology opinion: CKD stage 4, continue current regimen, monitor electrolytes, consider erythropoietin if Hb falls <10 g/dL, prepare for possible renal replacement therapy within 12 months. No immediate need for dialysis."
+    }
+  ]
+}

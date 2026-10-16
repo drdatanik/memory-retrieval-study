@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0592",
+  "name": "Anoop Chandran",
+  "age": 40,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0592-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all activities of daily living; walks to college campus, teaches lectures without assistance.\ncognition: Mini-Cog score 4/5; no memory complaints.\nfalls: No falls in the last 12 months; gait normal; timed up-and-go 8 seconds.\nmedicines: 3 regular; atorvastatin 10 mg HS, rosuvastatin 10 mg OD, fenofibrate 145 mg OD.\nmood: Reports good mood, enjoys work and family time.\ncarers: Spouse, Priya Kulkarni.\ngoals: \"I want to keep my cholesterol under control and stay active for my lectures.\""
+    },
+    {
+      "memory_id": "X0592-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "atorvastatin 10 mg HS\nrosuvastatin 10 mg OD\nfenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0592-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 138 mg/dL (optimal <100), HDL 42 mg/dL (>40), triglycerides 162 mg/dL (<150).\nLiver function: ALT 22 U/L (7-56), AST 20 U/L (10-40), ALKP 68 U/L (30-120), GGT 24 U/L (0-51).\nCreatine kinase: 84 U/L (30-200)."
+    },
+    {
+      "memory_id": "X0592-m04",
+      "date": "2025-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-15 at 10:30 with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0592-m05",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; continues lecturing, walks 3 km daily.\ncognition: Mini-Cog 4/5; no decline.\nfalls: No falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 3 regular; atorvastatin 10 mg HS, rosuvastatin 10 mg OD, fenofibrate 145 mg OD.\nmood: Stable, satisfied with work.\ncarers: Spouse, Priya Kulkarni.\ngoals: \"I want to keep my cholesterol under control and stay active for my lectures.\""
+    },
+    {
+      "memory_id": "X0592-m06",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "atorvastatin increased to 20 mg HS\nrosuvastatin 10 mg OD\nfenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0592-m07",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 112 mg/dL (<130), HDL 44 mg/dL (>40), triglycerides 148 mg/dL (<150).\nLiver function: ALT 24 U/L, AST 21 U/L, ALKP 70 U/L, GGT 25 U/L.\nCreatine kinase: 92 U/L."
+    },
+    {
+      "memory_id": "X0592-m08",
+      "date": "2025-10-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling mild muscle aches in my shoulders and thighs over the past week, especially after climbing stairs. No dark urine."
+    },
+    {
+      "memory_id": "X0592-m09",
+      "date": "2025-10-25",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; reports mild proximal muscle aches, no limitation in lecturing.\ncognition: Mini-Cog 4/5; no change.\nfalls: No falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 3 regular; atorvastatin 20 mg HS, rosuvastatin 10 mg OD, fenofibrate 145 mg OD.\nmood: Unchanged, concerned about aches.\ncarers: Spouse, Priya Kulkarni.\ngoals: \"I want to keep my cholesterol under control and stay active for my lectures.\""
+    },
+    {
+      "memory_id": "X0592-m10",
+      "date": "2025-10-25",
+      "type": "prescription",
+      "author": "D06",
+      "text": "atorvastatin stopped\nrosuvastatin increased to 20 mg OD\nfenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0592-m11",
+      "date": "2025-10-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Creatine kinase: 210 U/L (elevated).\nLiver function: ALT 28 U/L, AST 22 U/L, ALKP 72 U/L, GGT 27 U/L.\nFasting lipid profile: LDL 108 mg/dL, HDL 45 mg/dL, triglycerides 140 mg/dL."
+    },
+    {
+      "memory_id": "X0592-m12",
+      "date": "2026-02-06",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-02-10 09:00 to 2026-02-10 14:30 with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0592-m13",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; muscle aches resolved, no discomfort.\ncognition: Mini-Cog 4/5; stable.\nfalls: No falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 2 regular; rosuvastatin 20 mg OD, fenofibrate 145 mg OD.\nmood: Good, relieved.\ncarers: Spouse, Priya Kulkarni.\ngoals: \"I want to keep my cholesterol under control and stay active for my lectures.\""
+    },
+    {
+      "memory_id": "X0592-m14",
+      "date": "2026-02-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "rosuvastatin 20 mg OD\nfenofibrate 145 mg OD\natorvastatin 5 mg HS (reintroduced low dose)"
+    },
+    {
+      "memory_id": "X0592-m15",
+      "date": "2026-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 92 mg/dL (<100), HDL 48 mg/dL (>40), triglycerides 122 mg/dL (<150).\nLiver function: ALT 20 U/L, AST 18 U/L, ALKP 65 U/L, GGT 22 U/L.\nCreatine kinase: 78 U/L (normal)."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0514",
+  "name": "Indu Nair",
+  "age": 23,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Obesity",
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0514-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: abdominal bloating 2-3 days/week, stool frequency variable, no alarm symptoms.\n  - Plan: continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; advise low‑FODMAP diet, small frequent meals.\n- Obesity\n  - Status: weight 78 kg, waist 92 cm (male cut‑off 90 cm, female 80 cm – elevated).\n  - Plan: start orlistat 120 mg with each main meal, encourage brisk walk 30 min daily, review diet.\n- Gastro‑oesophageal reflux\n  - Status: heartburn after meals, occasional regurgitation, no dysphagia.\n  - Plan: pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, antacid gel SOS; avoid late night meals, elevate head of bed.\n- Due: HbA1c repeat 2025-07-05 (3 months)."
+    },
+    {
+      "memory_id": "X0514-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg BD after food\nispaghula husk 5 g OD with water\nloperamide 2 mg SOS after loose stools\npantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\norlistat 120 mg with each main meal\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0514-m03",
+      "date": "2025-05-01",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Allergy: aspirin – develops generalized maculopapular rash within 2 hours of ingestion; no respiratory symptoms. Avoid NSAIDs; use paracetamol for analgesia."
+    },
+    {
+      "memory_id": "X0514-m04",
+      "date": "2025-06-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.8 g/dl (12-16), WBC 6.2 x10^9/l (4-10), Plt 210 x10^9/l (150-400).\nStool routine: ova/cyst nil, pus cells 0-1/hpf.\ntTG‑IgA: <2 U/ml (<7 negative)."
+    },
+    {
+      "memory_id": "X0514-m05",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: bloating reduced to 1 day/week, stool consistency improved with ispaghula.\n  - Plan: continue mebeverine BD, ispaghula husk OD, loperamide PRN; reinforce low‑FODMAP, avoid carbonated drinks.\n- Obesity\n  - Status: weight 76.5 kg, waist 90 cm (borderline).\n  - Plan: continue orlistat with meals, add protein‑rich breakfast, aim 5% weight loss in 3 months.\n- Gastro‑oesophageal reflux\n  - Status: heartburn 2 days/week, relieved by pantoprazole.\n  - Plan: continue pantoprazole OD, domperidone BD, antacid SOS; avoid spicy food, coffee after 4 pm.\n- Due: HbA1c repeat 2025-10-01."
+    },
+    {
+      "memory_id": "X0514-m06",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg BD after food\nispaghula husk 5 g OD with water\nloperamide 2 mg SOS after loose stools\npantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\norlistat 120 mg with each main meal\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0514-m07",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose: 92 mg/dl (70-99).\nHbA1c: 5.6% (3.8-6.0).\nLipid profile: Total cholesterol 180 mg/dl (<200), LDL 100 mg/dl (<130), HDL 48 mg/dl (>40), Triglycerides 150 mg/dl (<150).\nLiver function: ALT 22 U/ml (7-56), AST 20 U/ml (8-48), ALP 70 U/ml (40-129), GGT 28 U/ml (9-64), Bilirubin 0.9 mg/dl (0.2-1.2)."
+    },
+    {
+      "memory_id": "X0514-m08",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I still feel bloated after lunch, especially after eating chapati and curry. Heartburn occurs if I skip my pantoprazole. My weight seems stuck around 76 kg."
+    },
+    {
+      "memory_id": "X0514-m09",
+      "date": "2025-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-10-15 at 10:30 am with Dr Karthik Hegde (D04) in Endocrinology OPD."
+    },
+    {
+      "memory_id": "X0514-m10",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: bloating persists after high‑fiber meals; stool frequency normal.\n  - Plan: add simethicone 40 mg TDS after meals, trial lactose‑free diet for 2 weeks.\n- Obesity\n  - Status: weight 75.8 kg, waist 89 cm (improved).\n  - Plan: continue orlistat, start supervised circuit training twice weekly, review diet diary.\n- Gastro‑oesophageal reflux\n  - Status: heartburn ≤1 day/week, well controlled.\n  - Plan: continue pantoprazole OD, domperidone BD, antacid SOS; avoid lying down within 2 h of meals.\n- Due: HbA1c repeat 2026-01-15."
+    },
+    {
+      "memory_id": "X0514-m11",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "mebeverine 135 mg BD after food\nispaghula husk 5 g OD with water\nloperamide 2 mg SOS after loose stools\nsimethicone 40 mg TDS after meals\npantoprazole 40 mg OD before breakfast\ndomperidone 10 mg BD before meals\norlistat 120 mg with each main meal\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0514-m12",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 5.5% (3.8-6.0).\nLipid profile: Total cholesterol 175 mg/dl, LDL 98 mg/dl, HDL 50 mg/dl, Triglycerides 140 mg/dl.\nLiver enzymes unchanged from prior."
+    },
+    {
+      "memory_id": "X0514-m13",
+      "date": "2026-04-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Upper GI endoscopy: erythematous antrum, no ulcer, biopsy negative for H. pylori, no Barrett’s mucosa. Conclusion: mild gastritis, no malignant lesion."
+    },
+    {
+      "memory_id": "X0514-m14",
+      "date": "2026-04-01",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Referral to Gastroenterology reviewed. Endoscopy shows mild gastritis, H. pylori negative. Recommend continue PPI, consider low‑dose amitriptyline for functional dyspepsia if symptoms persist. No further invasive work‑up needed."
+    },
+    {
+      "memory_id": "X0514-m15",
+      "date": "2026-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: bloating ≤2 days/month, stool regular, no abdominal pain.\n  - Plan: continue mebeverine BD, ispaghula husk OD, loperamide PRN; maintain low‑FODMAP, regular exercise.\n- Obesity\n  - Status: weight 73.2 kg, waist 85 cm (within female cut‑off).\n  - Plan: continue orlistat, aim another 2 kg loss, add resistance training.\n- Gastro‑oesophageal reflux\n  - Status: asymptomatic, no heartburn.\n  - Plan: taper pantoprazole to 20 mg OD, continue domperidone BD, antacid SOS; monitor for rebound.\n- Due: HbA1c repeat 2026-10-01."
+    },
+    {
+      "memory_id": "X0514-m16",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: moved from 2026-10-05 to 2026-09-30 at 09:00 am with Dr Karthik Hegde (D04) for routine review."
+    }
+  ]
+}

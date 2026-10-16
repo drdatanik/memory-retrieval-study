@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0419",
+  "name": "Rosamma Varghese",
+  "age": 79,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0419-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy, well controlled on current regimen.\nPatient reports no seizures, no aura, no postictal confusion. She feels energetic and continues her lectures without difficulty. Examination: alert, oriented, cranial nerves normal, motor strength 5/5 bilaterally, coordination intact, gait steady. No focal neurologic deficits. Smoking status: never smoker. No inhaler prescribed. Technique checked: not applicable."
+    },
+    {
+      "memory_id": "X0419-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levetiracetam 500 mg oral BD\nLamotrigine 50 mg oral BD"
+    },
+    {
+      "memory_id": "X0419-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 132 mmol/L (Ref 135-145)\nSerum Creatinine: 0.9 mg/dL (Ref 0.6-1.1)"
+    },
+    {
+      "memory_id": "X0419-m04",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D05",
+      "text": "EEG: Background activity normal for age. No epileptiform discharges, no spikes or sharp waves. No evidence of seizure activity during recording."
+    },
+    {
+      "memory_id": "X0419-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy, possible medication-related hyponatremia.\nPatient reports mild fatigue and occasional mild headache over past month, no seizures. Exam: vitals stable, mild dry mucous membranes, otherwise normal neuro exam. Smoking status: never smoker. No inhaler prescribed. Technique checked: not applicable."
+    },
+    {
+      "memory_id": "X0419-m06",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levetiracetam 250 mg oral BD\nLamotrigine 50 mg oral BD"
+    },
+    {
+      "memory_id": "X0419-m07",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 134 mmol/L (Ref 135-145)\nSerum Creatinine: 0.9 mg/dL (Ref 0.6-1.1)"
+    },
+    {
+      "memory_id": "X0419-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy, stable on adjusted regimen.\nPatient denies seizures, reports improved energy, no headache. Exam: alert, oriented, normal neuro exam, hydration adequate. Smoking status: never smoker. No inhaler prescribed. Technique checked: not applicable."
+    },
+    {
+      "memory_id": "X0419-m09",
+      "date": "2025-11-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up pulmonology appointment booked for 15-Jan-2027 at 09:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0419-m10",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy, mild renal function change noted.\nPatient reports occasional mild dizziness post-medication, no seizures. Exam: BP 138/82, pulse 78, lungs clear, neuro exam normal. Serum creatinine slightly elevated on recent labs. Smoking status: never smoker. No inhaler prescribed. Technique checked: not applicable."
+    },
+    {
+      "memory_id": "X0419-m11",
+      "date": "2026-03-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 136 mmol/L (Ref 135-145)\nSerum Creatinine: 1.2 mg/dL (Ref 0.6-1.1)"
+    },
+    {
+      "memory_id": "X0419-m12",
+      "date": "2026-06-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy, breakthrough seizure reported.\nPatient experienced one generalized tonic-clonic seizure two weeks ago, no injury, postictal confusion resolved within 30 minutes. No aura reported. Exam: normal vitals, neuro exam intact. Smoking status: never smoker. No inhaler prescribed. Technique checked: not applicable."
+    },
+    {
+      "memory_id": "X0419-m13",
+      "date": "2026-06-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levetiracetam 250 mg oral BD\nLamotrigine 100 mg oral BD"
+    },
+    {
+      "memory_id": "X0419-m14",
+      "date": "2026-09-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy, seizure-free on adjusted regimen.\nPatient reports no further seizures, feels well, continues lecturing. Exam: alert, oriented, normal neuro exam, no side effects. Smoking status: never smoker. No inhaler prescribed. Technique checked: not applicable."
+    },
+    {
+      "memory_id": "X0419-m15",
+      "date": "2026-09-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed to 20-Oct-2026 at 10:30 AM with Dr Suresh Menon (D05) for routine epilepsy review."
+    }
+  ]
+}

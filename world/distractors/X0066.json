@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0066",
+  "name": "Nilesh Solanki",
+  "age": 37,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Benign positional vertigo",
+    "Obesity",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0066-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 92 kg, waist 102 cm (>90 cm cut-off).\n  - Plan: Start orlistat 120 mg with each main meal; advise reduced calorie diet, 150 min/week walk; re‑check weight and waist in 8 weeks.\n- Benign positional vertigo\n  - Status: Episodes of positional vertigo lasting <1 min, Dix‑Hallpike pending.\n  - Plan: Start betahistine 16 mg twice daily; meclizine 25 mg SOS for acute vertigo; schedule Dix‑Hallpike and audiometry.\n- Vitamin D deficiency\n  - Status: Serum 25‑OH‑D 18 ng/mL (deficient).\n  - Plan: Cholecalciferol 60 000 IU once weekly for 8 weeks, then 1000 IU daily; re‑check level after 3 months.\nDue: Next HbA1c check 2025-07-05."
+    },
+    {
+      "memory_id": "X0066-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Orlistat 120 mg 1-1-1 after food\nBetahistine 16 mg 1-0-1 after food\nMeclizine 25 mg SOS\nCholecalciferol 60 000 IU once weekly for 8 weeks, then 1000 IU OD after food"
+    },
+    {
+      "memory_id": "X0066-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 92 mg/dL (70‑100)\nHbA1c 5.6% (4‑5.6)\nTotal cholesterol 180 mg/dL (<200)\nLDL 110 mg/dL (<130)\nHDL 45 mg/dL (>40)\nTriglycerides 150 mg/dL (<150)\nALT 28 U/L (<40)\nAST 24 U/L (<40)\nALP 70 U/L (<120)\nGGT 30 U/L (<50)\nBilirubin 0.9 mg/dL (<1.2)\nSerum 25‑OH‑D 18 ng/mL (30‑100)\nCalcium 9.1 mg/dL (8.5‑10.5)\nPhosphate 3.4 mg/dL (2.5‑4.5)\nWeight 92 kg\nWaist circumference 102 cm (male cut‑off 90 cm)"
+    },
+    {
+      "memory_id": "X0066-m04",
+      "date": "2025-05-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dix‑Hallpike test: Positive for right posterior canal BPPV. Vertigo and torsional nystagmus provoked, lasting <1 minute. No abnormal auditory findings."
+    },
+    {
+      "memory_id": "X0066-m05",
+      "date": "2025-05-22",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Pure tone audiometry: Bilateral mild high‑frequency hearing loss. Thresholds 25‑30 dB at 4‑8 kHz, speech discrimination >90% bilaterally. No conductive component."
+    },
+    {
+      "memory_id": "X0066-m06",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 90 kg (‑2 kg), waist 100 cm (‑2 cm).\n  - Plan: Continue orlistat 120 mg TID with meals; add brisk walk 30 min daily; review in 8 weeks.\n- Vitamin D deficiency\n  - Status: 25‑OH‑D 28 ng/mL (still insufficient).\n  - Plan: Switch to cholecalciferol 2000 IU OD after food; re‑check level in 3 months.\n- Benign positional vertigo\n  - Status: Episodes reduced to 1‑2 per week, mild.\n  - Plan: Continue betahistine 16 mg BD; meclizine SOS; consider vestibular rehab if no further improvement.\nDue: Next HbA1c check 2025-10-05."
+    },
+    {
+      "memory_id": "X0066-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Orlistat 120 mg 1-1-1 after food\nBetahistine 16 mg 1-0-1 after food\nMeclizine 25 mg SOS\nCholecalciferol 2000 IU OD after food"
+    },
+    {
+      "memory_id": "X0066-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 88 kg (‑2 kg), waist 98 cm (‑2 cm).\n  - Plan: Continue orlistat; advise Mediterranean diet; re‑check in 3 months.\n- Vitamin D deficiency\n  - Status: 25‑OH‑D 32 ng/mL (now sufficient).\n  - Plan: Continue cholecalciferol 1000 IU OD; re‑check in 6 months.\n- Benign positional vertigo\n  - Status: Episodes ≤1 per week, mild.\n  - Plan: Continue betahistine 16 mg BD; meclizine SOS; discharge vestibular rehab if stable.\nDue: Next HbA1c check 2026-01-05."
+    },
+    {
+      "memory_id": "X0066-m09",
+      "date": "2025-10-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 90 mg/dL (70‑100)\nHbA1c 5.5% (4‑5.6)\nTotal cholesterol 175 mg/dL (<200)\nLDL 105 mg/dL (<130)\nHDL 48 mg/dL (>40)\nTriglycerides 140 mg/dL (<150)\nALT 26 U/L (<40)\nAST 22 U/L (<40)\nALP 68 U/L (<120)\nGGT 28 U/L (<50)\nBilirubin 0.8 mg/dL (<1.2)\nSerum 25‑OH‑D 32 ng/mL (30‑100)\nCalcium 9.2 mg/dL (8.5‑10.5)\nPhosphate 3.5 mg/dL (2.5‑4.5)\nWeight 88 kg\nWaist circumference 98 cm (male cut‑off 90 cm)"
+    },
+    {
+      "memory_id": "X0066-m10",
+      "date": "2026-01-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 86 kg (‑2 kg), waist 96 cm (‑2 cm).\n  - Plan: Continue orlistat; add resistance training twice weekly; review in 3 months.\n- Vitamin D deficiency\n  - Status: 25‑OH‑D 35 ng/mL (adequate).\n  - Plan: Continue cholecalciferol 1000 IU OD; re‑check in 6 months.\n- Benign positional vertigo\n  - Status: Rare episodes (<1 per month).\n  - Plan: Continue betahistine 16 mg BD; meclizine SOS; consider tapering if asymptomatic for 3 months.\nDue: Next HbA1c check 2026-04-05."
+    },
+    {
+      "memory_id": "X0066-m11",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Orlistat 120 mg 1-1-1 after food\nBetahistine 16 mg 1-0-1 after food\nMeclizine 25 mg SOS\nCholecalciferol 1000 IU OD after food"
+    },
+    {
+      "memory_id": "X0066-m12",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 84 kg (‑2 kg), waist 94 cm (‑2 cm).\n  - Plan: Continue orlistat; advise maintain current diet and activity; re‑check in 6 months.\n- Vitamin D deficiency\n  - Status: 25‑OH‑D 38 ng/mL (adequate).\n  - Plan: Continue cholecalciferol 1000 IU OD; re‑check in 12 months.\n- Benign positional vertigo\n  - Status: Asymptomatic for 2 months.\n  - Plan: Stop betahistine; keep meclizine SOS only; observe for recurrence.\nDue: Next HbA1c check 2026-07-05."
+    },
+    {
+      "memory_id": "X0066-m13",
+      "date": "2026-04-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Orlistat 120 mg 1-1-1 after food\nMeclizine 25 mg SOS\nCholecalciferol 1000 IU OD after food\nBetahistine discontinued"
+    },
+    {
+      "memory_id": "X0066-m14",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-08-20 10:30 with Dr Karthik Hegde (D04) for routine follow‑up. (Booking date 2026-07-05)"
+    }
+  ]
+}

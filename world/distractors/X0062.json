@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0062",
+  "name": "Kalpana Vemula",
+  "age": 29,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0062-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: New onset, daily wheals with occasional lip angioedema, worse at night.\n  - Plan: Start levocetirizine 5 mg OD; counsel on non‑sedating antihistamine, avoid known triggers, keep symptom diary. Order CBC with eosinophils and thyroid function test.\n- Weight: 58 kg\n- Waist circumference: 78 cm (female cut‑off 80 cm) – within normal.\n- Due: HbA1c not required (no glucose‑lowering therapy)"
+    },
+    {
+      "memory_id": "X0062-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levocetirizine 5 mg OD after food"
+    },
+    {
+      "memory_id": "X0062-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.8 g/dL (12‑16), WBC 6.2 x10^9/L (4‑10), eosinophils 5% (1‑4) – mild eosinophilia.\nTFT: TSH 2.1 mIU/L (0.4‑4.0), Free T4 12.5 pmol/L (9‑19)."
+    },
+    {
+      "memory_id": "X0062-m04",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past three weeks the hives have become more intense, especially after dinner. I wake up with swollen lips twice a week. The levocetirizine helps a little but I still need to scratch at night."
+    },
+    {
+      "memory_id": "X0062-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Persistent wheals, nocturnal lip angioedema, eosinophilia now mild.\n  - Plan: Add cetirizine 10 mg HS (after food) while continuing levocetirizine 5 mg OD. Advise cold compresses, continue symptom diary. Review in 3 months.\n- Weight: 59 kg\n- Waist circumference: 79 cm (within normal).\n- Due: HbA1c not required (no glucose‑lowering therapy)"
+    },
+    {
+      "memory_id": "X0062-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levocetirizine 5 mg OD after food\ncetirizine 10 mg HS after food"
+    },
+    {
+      "memory_id": "X0062-m07",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.0 g/dL, WBC 5.9 x10^9/L, eosinophils 3% (reference 1‑4) – normal.\nTFT: TSH 2.0 mIU/L (0.4‑4.0), Free T4 12.3 pmol/L (9‑19)."
+    },
+    {
+      "memory_id": "X0062-m08",
+      "date": "2026-01-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Thyroid ultrasound: Bilateral lobes normal size, homogeneous echotexture, no nodules or cysts. No evidence of autoimmune thyroiditis."
+    },
+    {
+      "memory_id": "X0062-m09",
+      "date": "2026-02-14",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Dermatology for evaluation of chronic urticaria inadequately controlled on double antihistamine therapy. Consideration of omalizumab or other biologics. Please assess and advise on further management."
+    },
+    {
+      "memory_id": "X0062-m10",
+      "date": "2026-04-01",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Dermatology review: Patient exhibits chronic inducible urticaria with dermatographism. Recommend trial of omalizumab 300 mg SC every 4 weeks, continue cetirizine HS and levocetirizine OD. Review response in 6 weeks. Continue antihistamines; if no improvement, consider cyclosporine."
+    },
+    {
+      "memory_id": "X0062-m11",
+      "date": "2026-06-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Karthik Hegde (D04) on 2026-09-30 at 10:30 AM for review of urticaria control and medication tolerance."
+    },
+    {
+      "memory_id": "X0062-m12",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Marked improvement; occasional mild wheals, no angioedema in past 8 weeks. Patient reports mild sedation with levocetirizine.\n  - Plan: Stop levocetirizine 5 mg OD due to daytime drowsiness. Continue cetirizine 10 mg HS. Advise to monitor symptoms; if wheals recur >2 days/week, consider initiating omalizumab as per dermatology advice.\n- Weight: 60 kg\n- Waist circumference: 80 cm (at female cut‑off).\n- Due: HbA1c not required (no glucose‑lowering therapy)"
+    },
+    {
+      "memory_id": "X0062-m13",
+      "date": "2026-09-30",
+      "type": "prescription",
+      "author": "D04",
+      "text": "cetirizine 10 mg HS after food"
+    }
+  ]
+}

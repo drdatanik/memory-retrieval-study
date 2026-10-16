@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0370",
+  "name": "Jacob Varghese",
+  "age": 39,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Obesity",
+    "Benign positional vertigo",
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0370-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 95 kg, waist 102 cm (>90 cm cut‑off for men).\n  - Plan: Continue orlistat 120 mg with each main meal; aim for 500 kcal deficit daily; start brisk walk 30 min 5×/week.\n- Benign positional vertigo\n  - Status: Episodes triggered by lying flat, lasting <1 min, negative Dix‑Hallpike on right.\n  - Plan: Start betahistine 16 mg BD; meclizine 25 mg SOS for acute vertigo.\n- Non‑alcoholic fatty liver disease\n  - Status: ALT 48 U/L (↑), AST 44 U/L (↑), mild hepatomegaly on exam.\n  - Plan: Start silymarin 140 mg TDS; rosuvastatin 5 mg OD; repeat LFT and ultrasound in 3 months.\n- Breakfast: Replace sugary cereal with oats + nuts; no added sugar.\n- Lunch: Whole‑grain roti, dal, plenty of vegetables; limit rice to 1 cup.\n- Dinner: Grilled fish or paneer, salad, avoid fried foods.\n- Due: HbA1c repeat 2025-07-15."
+    },
+    {
+      "memory_id": "X0370-m02",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "orlistat 120 mg – 1-0-1 – with meals\nbetahistine 16 mg – 1-0-1 – after food\nmeclizine 25 mg – SOS – after food\nsilymarin 140 mg – 1-1-1 – after food\nrosuvastatin 5 mg – 1-0-0 – after food"
+    },
+    {
+      "memory_id": "X0370-m03",
+      "date": "2025-04-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 98 mg/dL (70‑100)\nHbA1c 6.2% (4.0‑5.6)\nLipid profile: Total cholesterol 210 mg/dL (<200), HDL 38 mg/dL (>40), LDL 130 mg/dL (<100), TG 180 mg/dL (<150)\nLFT: ALT 48 U/L (≤40), AST 44 U/L (≤40), ALP 92 U/L (≤120), GGT 55 U/L (≤50)\nPlatelet count 225 ×10⁹/L (150‑400)"
+    },
+    {
+      "memory_id": "X0370-m04",
+      "date": "2025-05-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dix‑Hallpike test: Positive on left side (torsional nystagmus). Audiometry: Bilateral pure‑tone average 22 dB HL, normal."
+    },
+    {
+      "memory_id": "X0370-m05",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 92 kg, waist 99 cm (>90).\n  - Plan: Continue orlistat; add metformin 500 mg BD after meals for insulin resistance; reinforce diet.\n- Benign positional vertigo\n  - Status: Vertigo frequency reduced to 1‑2 episodes/week after betahistine; meclizine used SOS.\n  - Plan: Continue betahistine 16 mg BD; consider vestibular rehab if no further improvement.\n- Non‑alcoholic fatty liver disease\n  - Status: ALT 42 U/L, AST 38 U/L (improving).\n  - Plan: Continue silymarin and rosuvastatin; repeat LFT and ultrasound in 8 weeks.\n- Breakfast: Oats with skim milk, walnuts, no sugar.\n- Lunch: Multigrain roti, chickpea curry, steamed broccoli.\n- Dinner: Grilled chicken, quinoa salad, avoid desserts.\n- Due: HbA1c repeat 2025-09-10."
+    },
+    {
+      "memory_id": "X0370-m06",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "orlistat 120 mg – 1-0-1 – with meals\nmetformin 500 mg – 1-0-1 – after food\nbetahistine 16 mg – 1-0-1 – after food\nmeclizine 25 mg – SOS – after food\nsilymarin 140 mg – 1-1-1 – after food\nrosuvastatin 5 mg – 1-0-0 – after food"
+    },
+    {
+      "memory_id": "X0370-m07",
+      "date": "2025-06-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.0% (4.0‑5.6)\nFasting glucose 94 mg/dL (70‑100)\nLipid profile: Total cholesterol 202 mg/dL, HDL 40 mg/dL, LDL 124 mg/dL, TG 165 mg/dL\nLFT: ALT 42 U/L, AST 38 U/L, ALP 90 U/L, GGT 52 U/L"
+    },
+    {
+      "memory_id": "X0370-m08",
+      "date": "2025-07-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: Hepatic steatosis grade II, spleen normal, portal vein diameter 10 mm. No focal lesion."
+    },
+    {
+      "memory_id": "X0370-m09",
+      "date": "2025-08-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 89 kg, waist 96 cm (>90).\n  - Plan: Continue orlistat and metformin; aim for further 3 kg loss; add weekly resistance training.\n- Benign positional vertigo\n  - Status: Vertigo episodes <1/week, mild; meclizine used ≤2 times/month.\n  - Plan: Continue betahistine; taper meclizine PRN.\n- Non‑alcoholic fatty liver disease\n  - Status: ALT 36 U/L, AST 34 U/L (within normal). Ultrasound shows grade I steatosis.\n  - Plan: Continue silymarin; consider tapering rosuvastatin if lipids persist.\n- Dyslipidaemia (noted under NAFLD)\n  - Status: Total cholesterol 190 mg/dL, HDL 42 mg/dL, LDL 115 mg/dL, TG 140 mg/dL.\n  - Plan: Continue rosuvastatin 5 mg OD; repeat lipid profile in 3 months.\n- Breakfast: Oats, flaxseed, skim milk.\n- Lunch: Whole‑grain roti, lentil soup, salad.\n- Dinner: Baked fish, brown rice, steamed vegetables.\n- Due: HbA1c repeat 2025-12-15."
+    },
+    {
+      "memory_id": "X0370-m10",
+      "date": "2025-08-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "orlistat 120 mg – 1-0-1 – with meals\nmetformin 500 mg – 1-0-1 – after food\nbetahistine 16 mg – 1-0-1 – after food\nmeclizine 25 mg – SOS – after food\nsilymarin 140 mg – 1-1-1 – after food\nrosuvastatin 5 mg – 1-0-0 – after food"
+    },
+    {
+      "memory_id": "X0370-m11",
+      "date": "2025-08-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile: Total cholesterol 190 mg/dL (<200), HDL 42 mg/dL (>40), LDL 115 mg/dL (<130), TG 140 mg/dL (<150)\nLFT: ALT 36 U/L (≤40), AST 34 U/L (≤40), ALP 88 U/L (≤120), GGT 50 U/L (≤50)\nHbA1c 5.9% (4.0‑5.6)\nFasting glucose 92 mg/dL (70‑100)"
+    },
+    {
+      "memory_id": "X0370-m12",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve had two brief spinning sensations when turning my head left while getting out of bed this week. They lasted about 20 seconds each and resolved without medication. No nausea."
+    },
+    {
+      "memory_id": "X0370-m13",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-11-12 at 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0370-m14",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 86 kg, waist 92 cm (>90).\n  - Plan: Continue orlistat; discontinue metformin as HbA1c now normal; maintain activity.\n- Benign positional vertigo\n  - Status: No vertigo spells in past 6 weeks; off betahistine for 2 weeks with no recurrence.\n  - Plan: Stop betahistine; keep meclizine SOS only.\n- Non‑alcoholic fatty liver disease\n  - Status: ALT 30 U/L, AST 28 U/L; ultrasound shows minimal steatosis.\n  - Plan: Continue silymarin; stop rosuvastatin as lipids normal.\n- Dyslipidaemia\n  - Status: Total cholesterol 178 mg/dL, HDL 44 mg/dL, LDL 100 mg/dL, TG 120 mg/dL.\n  - Plan: No lipid‑lowering drug needed; repeat lipid profile in 6 months.\n- Breakfast: Oats, apple slices, almonds.\n- Lunch: Millet roti, vegetable kurma, curd.\n- Dinner: Grilled tofu, quinoa, mixed greens.\n- Due: HbA1c repeat 2026-05-10."
+    },
+    {
+      "memory_id": "X0370-m15",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.6% (4.0‑5.6)\nFasting glucose 88 mg/dL (70‑100)\nLipid profile: Total cholesterol 175 mg/dL, HDL 45 mg/dL, LDL 98 mg/dL, TG 115 mg/dL\nLFT: ALT 28 U/L, AST 26 U/L, ALP 85 U/L, GGT 48 U/L"
+    }
+  ]
+}

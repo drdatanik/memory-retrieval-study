@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0068",
+  "name": "Jaspreet Chadha",
+  "age": 22,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Polycystic ovary syndrome",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0068-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild joint stiffness in mornings, able to attend online classes, no difficulty with ADLs.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal).\nfalls: no falls in past 12 months; gait steady; timed up-and-go 9 seconds (normal).\nmedicines: 6 regular (metformin 500 mg BD, combined oral contraceptive pill OD, methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD) – polypharmacy, review against Beers criteria advised.\nmood: denies low mood or anxiety; PHQ-2 not performed today.\ncarers: mother, Mrs Lakshmi Rao, provides occasional grocery help.\ngoal: \"I want to keep studying and stay pain‑free to finish my degree.\""
+    },
+    {
+      "memory_id": "X0068-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg tablet, take orally twice daily after meals.\ncombined oral contraceptive pill (ethinylestradiol 0.03 mg + levonorgestrel 0.15 mg), take one tablet daily.\nmethotrexate 10 mg tablet, take orally once weekly on same day each week.\nfolic acid 5 mg tablet, take orally once weekly, same day as methotrexate.\nhydroxychloroquine 200 mg tablet, take orally once daily.\nprednisolone 5 mg tablet, take orally once daily in the morning."
+    },
+    {
+      "memory_id": "X0068-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum testosterone: 48 ng/dL (ref 15‑70).\nLH:FSH ratio: 2.8 (LH 12 IU/L, FSH 4.3 IU/L) (ref <2.5 suggests PCOS).\nHbA1c: 5.6% (ref 4‑5.6).\nESR: 22 mm/hr (ref 0‑20).\nCRP: 8 mg/L (ref <5).\nRheumatoid factor: 28 IU/mL (ref <14).\nAnti‑CCP: 45 U/mL (ref <20).\nALT: 28 U/L (ref 7‑35).\nAST: 24 U/L (ref 10‑40).\nALP: 78 U/L (ref 30‑120)."
+    },
+    {
+      "memory_id": "X0068-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Pelvic ultrasound (transabdominal): bilateral ovaries enlarged, volume 10 mL each, multiple peripheral follicles (>12 per ovary), endometrial thickness 5 mm. No ovarian cyst >3 cm. Impression: polycystic ovarian morphology consistent with PCOS."
+    },
+    {
+      "memory_id": "X0068-m05",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Allergy: sulfamethoxazole‑trimethoprim – rash and pruritus within 30 minutes of first dose, resolved with antihistamine."
+    },
+    {
+      "memory_id": "X0068-m06",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more tired lately and my wrists ache after typing notes for my online lectures."
+    },
+    {
+      "memory_id": "X0068-m07",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: notes increased wrist pain, difficulty typing for >30 minutes; still manages household chores.\ncognition: Mini-Cog not repeated (last <12 months).\nfalls: no falls; gait slightly antalgic left wrist; timed up-and-go 10 seconds.\nmedicines: 6 regular – polypharmacy, continue current regimen, consider methotrexate dose review if LFTs rise.\nmood: reports occasional frustration, denies depression.\ncarers: mother, Mrs Lakshmi Rao.\ngoal: \"I want to reduce wrist pain so I can study longer without breaks.\""
+    },
+    {
+      "memory_id": "X0068-m08",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate dose increased to 15 mg once weekly.\nfolic acid unchanged 5 mg once weekly.\nall other medicines unchanged."
+    },
+    {
+      "memory_id": "X0068-m09",
+      "date": "2025-07-20",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Hand X‑ray (both wrists): periarticular osteopenia, mild joint space narrowing at distal radioulnar joints, no erosions. Consistent with early rheumatoid arthritis changes."
+    },
+    {
+      "memory_id": "X0068-m10",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports improved wrist pain after methotrexate increase, able to type 45 minutes comfortably.\ncognition: Mini-Cog score 3/5 (recall 2 items, clock draw mild abnormality) – positive screen, plan for full MoCA assessment.\nfalls: no falls; gait normal; timed up-and-go 9 seconds.\nmedicines: 6 regular – polypharmacy, continue, discuss steroid taper.\nmood: reports better mood, denies anxiety.\ncarers: mother, Mrs Lakshmi Rao.\ngoal: \"I want to finish my final semester without medication side‑effects.\""
+    },
+    {
+      "memory_id": "X0068-m11",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum testosterone: 42 ng/dL (ref 15‑70).\nLH:FSH ratio: 2.4 (LH 11 IU/L, FSH 4.6 IU/L).\nHbA1c: 5.5% (ref 4‑5.6).\nESR: 14 mm/hr (ref 0‑20).\nCRP: 4 mg/L (ref <5).\nRheumatoid factor: 22 IU/mL (ref <14).\nAnti‑CCP: 30 U/mL (ref <20).\nALT: 22 U/L (ref 7‑35).\nAST: 20 U/L (ref 10‑40)."
+    },
+    {
+      "memory_id": "X0068-m12",
+      "date": "2026-01-10",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Dr S. Patel, Endocrinology, for evaluation of persistent hyperandrogenism and menstrual irregularity despite OCPC. Request serum androgen panel and advice on OCPC continuation."
+    },
+    {
+      "memory_id": "X0068-m13",
+      "date": "2026-02-15",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Endocrinology review: serum testosterone 44 ng/dL, DHEAS normal. Advised OCPC can be continued; consider adding spironolactone if hirsutism worsens. No immediate action needed."
+    },
+    {
+      "memory_id": "X0068-m14",
+      "date": "2026-09-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports occasional flare of right knee pain after prolonged standing; otherwise functional.\ncognition: MoCA performed 26/30 (normal).\nfalls: no falls; gait normal; timed up-and-go 8 seconds.\nmedicines: 5 regular (prednisolone tapered to 2.5 mg OD, plan to stop) – now below polypharmacy threshold.\nmood: stable.\ncarers: mother, Mrs Lakshmi Rao.\ngoal: \"I want to stay active and pain‑free as I start work as a freelance tutor.\""
+    },
+    {
+      "memory_id": "X0068-m15",
+      "date": "2026-09-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "prednisolone reduced to 2.5 mg once daily.\nplan to discontinue prednisolone in 4 weeks if symptoms remain controlled.\nall other medicines unchanged."
+    },
+    {
+      "memory_id": "X0068-m16",
+      "date": "2026-09-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Nandini Kulkarni (D06) on 2026-10-02 at 10:30 am. Patient to bring medication list and pain diary."
+    }
+  ]
+}

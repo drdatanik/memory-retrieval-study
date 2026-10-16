@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0274",
+  "name": "Stephen Mendonca",
+  "age": 40,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Vitamin D deficiency",
+    "Migraine",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0274-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin D deficiency\n  - Status: newly diagnosed, serum 25‑OH Vit D 12 ng/mL (low)\n  - Plan: start cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD; check calcium & phosphate.\n- Vitamin B12 deficiency\n  - Status: serum B12 180 pg/mL (low), MCV 92 fL, Hb 13.2 g/dL\n  - Plan: methylcobalamin 1500 mcg OD.\n- Migraine prophylaxis\n  - Status: episodic migraine 4‑5 days/month, on propranolol 40 mg OD\n  - Plan: continue propranolol, add sumatriptan 50 mg SOS for acute attacks; consider topiramate if needed.\n- Weight 78 kg, waist 92 cm (>90 cm cut‑off for men) – advise reduced‑carb diet.\n- Diet advice: Breakfast – multigrain toast + egg white; Lunch – mixed vegetable salad + lean protein; Dinner – lentil soup + steamed veg.\n- Due: HbA1c repeat in 3 months (2025-07-05)."
+    },
+    {
+      "memory_id": "X0274-m02",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH Vitamin D: 12 ng/mL (ref 30‑100).\nSerum Calcium: 9.1 mg/dL (ref 8.5‑10.5).\nSerum Phosphate: 2.4 mg/dL (ref 2.5‑4.5) – low.\nSerum Vitamin B12: 180 pg/mL (ref 200‑900).\nMCV: 92 fL (ref 80‑100).\nHaemoglobin: 13.2 g/dL (ref 13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0274-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "cholecalciferol 60000 IU once weekly for 8 weeks\ncholecalciferol 1000 IU OD after completion\nmethylcobalamin 1500 mcg OD\npropranolol 40 mg OD\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0274-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Hi Doctor, I’ve had 3 migraine episodes in the past two weeks, each lasting about 6 hours. Sumatriptan helped but I felt mild drowsiness. No new triggers noticed. Please advise if we need to adjust preventive meds."
+    },
+    {
+      "memory_id": "X0274-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin D deficiency\n  - Status: after 8 weeks loading, 25‑OH Vit D 28 ng/mL (suboptimal)\n  - Plan: switch to cholecalciferol 1000 IU OD; recheck in 3 months.\n- Vitamin B12 deficiency\n  - Status: B12 420 pg/mL (normal), MCV 89 fL\n  - Plan: continue methylcobalamin 1500 mcg OD.\n- Migraine\n  - Status: frequency down to 2 days/month on propranolol 40 mg OD\n  - Plan: maintain propranolol, keep sumatriptan SOS; consider taper if sustained.\n- Weight 77 kg, waist 90 cm (at cut‑off).\n- Diet advice: Breakfast – oats + nuts; Lunch – quinoa + grilled chicken + veg; Dinner – fish + stir‑fried greens.\n- Due: HbA1c repeat in 3 months (2025-10-10)."
+    },
+    {
+      "memory_id": "X0274-m06",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH Vitamin D: 28 ng/mL (ref 30‑100).\nSerum Calcium: 9.3 mg/dL (ref 8.5‑10.5).\nSerum Phosphate: 2.6 mg/dL (ref 2.5‑4.5).\nSerum Vitamin B12: 420 pg/mL (ref 200‑900).\nMCV: 89 fL (ref 80‑100).\nHaemoglobin: 13.5 g/dL (ref 13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0274-m07",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "cholecalciferol 1000 IU OD\nmethylcobalamin 1500 mcg OD\npropranolol 40 mg OD\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0274-m08",
+      "date": "2025-09-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Neurological examination: no focal deficits, normal gait, mild tenderness over temporalis bilaterally. No signs of increased intracranial pressure. CT head (performed earlier) was normal. No indication for further imaging at present."
+    },
+    {
+      "memory_id": "X0274-m09",
+      "date": "2025-09-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Doctor, I’ve noticed a mild throbbing headache on the left side after long hours at the desk. It lasts about 2 hours and responds to naproxen. No visual aura. Should I try topiramate for prevention?"
+    },
+    {
+      "memory_id": "X0274-m10",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin D deficiency\n  - Status: 25‑OH Vit D 31 ng/mL (now sufficient)\n  - Plan: continue cholecalciferol 1000 IU OD; recheck in 6 months.\n- Vitamin B12 deficiency\n  - Status: B12 500 pg/mL (good)\n  - Plan: continue methylcobalamin 1500 mcg OD.\n- Migraine\n  - Status: still 2‑3 days/month, patient reports left‑sided throbbing after work\n  - Plan: add topiramate 25 mg HS, titrate to 50 mg HS if tolerated; keep propranolol 40 mg OD.\n- Weight 76 kg, waist 88 cm (<90 cm).\n- Diet advice: Breakfast – dalia + milk; Lunch – brown rice + lentils + salad; Dinner – chapati + veg curry.\n- Due: HbA1c repeat in 3 months (2026-01-05).\n- Lipid profile due annually (next due 2026-04)."
+    },
+    {
+      "memory_id": "X0274-m11",
+      "date": "2025-10-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH Vitamin D: 31 ng/mL (ref 30‑100).\nSerum Calcium: 9.2 mg/dL (ref 8.5‑10.5).\nSerum Phosphate: 2.7 mg/dL (ref 2.5‑4.5).\nSerum Vitamin B12: 500 pg/mL (ref 200‑900).\nMCV: 88 fL (ref 80‑100).\nHaemoglobin: 13.6 g/dL (ref 13.0‑17.0).\nLipids: Total cholesterol 180 mg/dL (<200), LDL 100 mg/dL (<130), HDL 45 mg/dL (>40), triglycerides 130 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0274-m12",
+      "date": "2025-10-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "cholecalciferol 1000 IU OD\nmethylcobalamin 1500 mcg OD\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0274-m13",
+      "date": "2025-12-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-12-10 at 10:30 AM with Dr Karthik Hegde (D04) for follow‑up review."
+    },
+    {
+      "memory_id": "X0274-m14",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin D deficiency\n  - Status: stable on 1000 IU OD, last Vit D 32 ng/mL\n  - Plan: continue same dose.\n- Vitamin B12 deficiency\n  - Status: B12 540 pg/mL\n  - Plan: continue methylcobalamin 1500 mcg OD.\n- Migraine\n  - Status: reduced to 1‑2 days/month on propranolol 40 mg OD + topiramate 25 mg HS\n  - Plan: maintain current regimen; consider tapering topiramate after 6 months if sustained.\n- Weight 75 kg, waist 86 cm.\n- Diet advice: Breakfast – idli + sambar; Lunch – millet rotli + curd + veg; Dinner – grilled fish + steamed broccoli.\n- Due: HbA1c repeat in 3 months (2026-03-10)."
+    },
+    {
+      "memory_id": "X0274-m15",
+      "date": "2026-06-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Vitamin D deficiency\n  - Status: Vit D 35 ng/mL (adequate)\n  - Plan: continue cholecalciferol 1000 IU OD; recheck in 12 months.\n- Vitamin B12 deficiency\n  - Status: B12 580 pg/mL\n  - Plan: continue methylcobalamin 1500 mcg OD.\n- Migraine\n  - Status: 0‑1 day/month, patient reports excellent control\n  - Plan: consider tapering propranolol to 20 mg OD after discussion; keep topiramate 25 mg HS.\n- Weight 74 kg, waist 84 cm.\n- Diet advice: Breakfast – poha + peanuts; Lunch – chapati + paneer + salad; Dinner – lentil soup + veg.\n- Due: HbA1c repeat in 3 months (2026-09-15).\n- Lipid profile due annually (next due 2027-04)."
+    },
+    {
+      "memory_id": "X0274-m16",
+      "date": "2026-06-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH Vitamin D: 35 ng/mL (ref 30‑100).\nSerum Calcium: 9.3 mg/dL (ref 8.5‑10.5).\nSerum Phosphate: 2.8 mg/dL (ref 2.5‑4.5).\nSerum Vitamin B12: 580 pg/mL (ref 200‑900).\nMCV: 87 fL (ref 80‑100).\nHaemoglobin: 13.8 g/dL (ref 13.0‑17.0).\nLipids: Total cholesterol 175 mg/dL, LDL 95 mg/dL, HDL 48 mg/dL, triglycerides 120 mg/dL."
+    }
+  ]
+}

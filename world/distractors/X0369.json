@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0369",
+  "name": "Ajay Sharma",
+  "age": 90,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Atrial fibrillation",
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0369-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "90-year-old man with atrial fibrillation and generalised anxiety disorder presents for routine review.\nPRESENTING COMPLAINT: He reports feeling well, no palpitations, mild occasional worry.\nEXAMINATION: BP 138/80 mmHg, pulse 78 bpm irregularly irregular, weight 55 kg, height 1.60 m, BMI 21.4 (normal). Cardiovascular exam shows irregular rhythm without murmurs. Lungs clear.\nIMPRESSION: Atrial fibrillation on apixaban 5 mg BD and bisoprolol 2.5 mg OD; generalised anxiety disorder on escitalopram 5 mg OD and buspirone 5 mg BD. No bleeding or thromboembolic events.\nARRANGEMENTS: Order fasting lipid profile, fasting blood sugar, serum creatinine, TSH, INR, and ECG. Continue current meds. Arrange influenza vaccine in autumn. Return if chest pain, sudden dyspnea, palpitations with dizziness, unexplained bleeding, fever >39°C, or worsening anxiety with suicidal thoughts."
+    },
+    {
+      "memory_id": "X0369-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Apixaban 5 mg twice daily\nBisoprolol 2.5 mg once daily\nEscitalopram 5 mg once daily\nBuspirone 5 mg twice daily"
+    },
+    {
+      "memory_id": "X0369-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 1.1 (target 2-3 if on warfarin)\nSerum creatinine 98 µmol/L (ref 62-106)\nTSH 2.1 mIU/L (ref 0.4-4.0)\nHaemoglobin 13.2 g/dL (ref 13.0-17.0)\nFasting glucose 5.6 mmol/L (ref 3.9-5.5)\nTotal cholesterol 4.8 mmol/L (<5.2)\nLDL cholesterol 2.9 mmol/L (<2.6)\nHDL cholesterol 1.2 mmol/L (>1.0)\nTriglycerides 1.4 mmol/L (<1.7)"
+    },
+    {
+      "memory_id": "X0369-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "12-lead ECG shows atrial fibrillation with average ventricular rate 78 bpm. No acute ST‑segment changes. QRS duration 92 ms. No evidence of prior infarct."
+    },
+    {
+      "memory_id": "X0369-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling a bit nervous lately, worrying about my health and finances. Sleep is okay but I wake up thinking about bills."
+    },
+    {
+      "memory_id": "X0369-m06",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "90-year-old man returns for atrial fibrillation and anxiety follow‑up.\nPRESENTING COMPLAINT: No new cardiac symptoms; reports mild increase in worry over the past month.\nEXAMINATION: BP 140/82 mmHg, pulse 80 bpm irregular, weight 55 kg, BMI 21.4. No edema.\nIMPRESSION: Atrial fibrillation stable on apixaban and bisoprolol. Anxiety slightly worsened; consider adjusting buspirone.\nARRANGEMENTS: Increase bisoprolol to 5 mg once daily for rate control. Keep apixaban unchanged. Continue escitalopram 5 mg OD, increase buspirone to 7.5 mg BD. Repeat INR, creatinine, TSH, lipid, glucose in 8 weeks. Return if palpitations with syncope, bleeding, fever >39°C, or worsening anxiety with panic attacks."
+    },
+    {
+      "memory_id": "X0369-m07",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Apixaban 5 mg twice daily\nBisoprolol 5 mg once daily\nEscitalopram 5 mg once daily\nBuspirone 7.5 mg twice daily"
+    },
+    {
+      "memory_id": "X0369-m08",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 1.2\nSerum creatinine 100 µmol/L\nTSH 2.0 mIU/L\nHaemoglobin 13.0 g/dL\nFasting glucose 5.8 mmol/L\nTotal cholesterol 5.0 mmol/L\nLDL cholesterol 3.0 mmol/L\nHDL cholesterol 1.1 mmol/L\nTriglycerides 1.5 mmol/L"
+    },
+    {
+      "memory_id": "X0369-m09",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked influenza vaccination for 2025-10-12 at 10:00 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0369-m10",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "90-year-old man receives seasonal influenza vaccine and reviews anticoagulation.\nPRESENTING COMPLAINT: Well, no adverse effects from vaccine.\nEXAMINATION: BP 138/80 mmHg, pulse 78 bpm irregular, weight 55 kg, BMI 21.4.\nIMPRESSION: Influenza vaccine given today. Patient remains on apixaban; considering switch to warfarin for easier INR monitoring given age.\nARRANGEMENTS: Stop apixaban today. Start warfarin 5 mg once daily, aim INR 2‑3. Continue bisoprolol 5 mg OD, escitalopram 5 mg OD, buspirone 7.5 mg BD. Arrange INR check in 3 days. Return if bruising, bleeding, melena, fever >39°C, or sudden shortness of breath."
+    },
+    {
+      "memory_id": "X0369-m11",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Warfarin 5 mg once daily\nBisoprolol 5 mg once daily\nEscitalopram 5 mg once daily\nBuspirone 7.5 mg twice daily"
+    },
+    {
+      "memory_id": "X0369-m12",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "90-year-old man reviews warfarin therapy and anxiety.\nPRESENTING COMPLAINT: No bleeding, reports feeling calmer.\nEXAMINATION: BP 136/78 mmHg, pulse 80 bpm irregular, weight 55 kg, BMI 21.4.\nIMPRESSION: Warfarin therapeutic (INR 2.4). Anxiety improved on current regimen.\nARRANGEMENTS: Continue warfarin 5 mg OD, bisoprolol 5 mg OD, escitalopram 5 mg OD, buspirone 7.5 mg BD. Repeat INR, creatinine, TSH, haemoglobin in 6 weeks. Return if melena, hematemesis, sudden weakness, fever >39°C, or worsening anxiety."
+    },
+    {
+      "memory_id": "X0369-m13",
+      "date": "2026-02-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.4 (target 2‑3)\nSerum creatinine 102 µmol/L\nTSH 2.2 mIU/L\nHaemoglobin 13.1 g/dL"
+    },
+    {
+      "memory_id": "X0369-m14",
+      "date": "2026-06-01",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Transthoracic echocardiogram shows left atrial diameter 4.6 cm (mildly enlarged), left ventricular ejection fraction 60%. Mild mitral valve calcification, no significant stenosis or regurgitation. No left ventricular hypertrophy. No pericardial effusion."
+    },
+    {
+      "memory_id": "X0369-m15",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "90-year-old man annual review of atrial fibrillation and anxiety.\nPRESENTING COMPLAINT: Feels well, occasional mild worry.\nEXAMINATION: BP 138/80 mmHg, pulse 78 bpm irregular, weight 55 kg, BMI 21.4.\nIMPRESSION: Atrial fibrillation on warfarin with stable INR 2.2‑2.6. Generalised anxiety disorder controlled on escitalopram and buspirone. Influenza vaccine given 2025‑10‑12; due for 2026‑2027 season.\nARRANGEMENTS: Continue warfarin 5 mg OD (adjust per INR), bisoprolol 5 mg OD, escitalopram 5 mg OD, buspirone 7.5 mg BD. Order fasting lipid profile, fasting glucose, serum creatinine, TSH, and INR today. Return if chest pain, syncope, bleeding, fever >39°C, or worsening anxiety with panic attacks."
+    }
+  ]
+}

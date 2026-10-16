@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0283",
+  "name": "Amit Tiwari",
+  "age": 82,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Glaucoma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0283-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary open-angle glaucoma, bilateral.\nPatient reports mild bilateral eye discomfort, worse in the morning, no visual loss. On examination, conjunctivae are quiet, corneas clear, anterior chambers deep. Intraocular pressure measured by applanation tonometry: right 22 mmHg, left 24 mmHg. Optic discs show mild cupping (vertical cup-to-disc ratio 0.4). Visual fields pending. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0283-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops – one drop in each eye twice daily\nlatanoprost 0.005% eye drops – one drop in each eye at bedtime"
+    },
+    {
+      "memory_id": "X0283-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure (IOP): Right eye 22 mmHg (reference 10-21), Left eye 24 mmHg (reference 10-21).\nCentral corneal thickness: Right 540 µm, Left 545 µm.\nNo acute changes noted."
+    },
+    {
+      "memory_id": "X0283-m04",
+      "date": "2025-04-07",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been using the drops as prescribed. My eyes feel a bit gritty in the mornings but improve after a few minutes. No redness or pain."
+    },
+    {
+      "memory_id": "X0283-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary open-angle glaucoma, bilateral, stable.\nPatient denies worsening eye discomfort; reports occasional morning gritty sensation that resolves with blinking. Examination: IOP right 20 mmHg, left 22 mmHg. Corneas clear, chambers deep. Optic discs unchanged (cup-to-disc ratio 0.4 each). No new visual field defects noted on confrontation. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0283-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops – one drop in each eye twice daily\nlatanoprost 0.005% eye drops – one drop in each eye at bedtime\nbrimonidine tartrate 0.1% eye drops – one drop in each eye three times daily (added for IOP control)"
+    },
+    {
+      "memory_id": "X0283-m07",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure after 3 months: Right eye 18 mmHg (reference 10-21), Left eye 19 mmHg (reference 10-21).\nBrimonidine allergy screen: negative."
+    },
+    {
+      "memory_id": "X0283-m08",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary open-angle glaucoma, bilateral, mild progression suspected.\nPatient notes increased difficulty reading fine print, especially in low light. No pain. Examination: IOP right 21 mmHg, left 23 mmHg. Optic discs show slight increase in cupping (vertical cup-to-disc ratio 0.45 OD, 0.47 OS). Conjunctivae quiet. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0283-m09",
+      "date": "2025-10-12",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Optic disc assessment via stereoscopic fundus photography: Right disc vertical cup-to-disc ratio 0.45, left 0.47. Rim thinning noted inferotemporally both eyes. No disc haemorrhages. Retinal nerve fibre layer analysis suggestive of early glaucomatous change."
+    },
+    {
+      "memory_id": "X0283-m10",
+      "date": "2025-10-13",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Dr. Lavanya Natarajan, Glaucoma Specialist, Narayana Nethralaya, Bengaluru. Reason: Suspected glaucomatous progression despite maximal topical therapy; need for possible surgical intervention or adjunctive therapy. Please assess IOP, visual fields, and consider laser trabeculoplasty or filtering surgery."
+    },
+    {
+      "memory_id": "X0283-m11",
+      "date": "2025-11-01",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Referral outcome: Specialist reviewed case. IOP remains borderline high; visual fields show early paracentral scotoma OD. Recommended selective laser trabeculoplasty (SLT) in both eyes, continue current meds, and schedule follow-up in 8 weeks. No immediate surgery needed."
+    },
+    {
+      "memory_id": "X0283-m12",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary open-angle glaucoma, bilateral, post‑SLT, stable.\nPatient reports no new visual symptoms; occasional morning gritty feeling unchanged. Examination: IOP right 16 mmHg, left 17 mmHg. Optic discs unchanged from previous photography (cup-to-disc ratio 0.45 OD, 0.47 OS). Conjunctivae quiet. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0283-m13",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Visual field testing (Humphrey 24-2): Mean deviation -0.8 dB OD, -0.6 dB OS (within age‑adjusted normal limits). Pattern standard deviation normal. No clinically significant defect detected."
+    },
+    {
+      "memory_id": "X0283-m14",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for glaucoma review with Dr Suresh Menon on 2026-07-15 at 10:30 AM. Patient reminded to bring eye drop bottles and continue current therapy."
+    },
+    {
+      "memory_id": "X0283-m15",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Primary open-angle glaucoma, bilateral, well controlled.\nPatient asymptomatic; denies ocular discomfort. Examination: IOP right 15 mmHg, left 16 mmHg. Optic discs stable (cup-to-disc ratio 0.45 OD, 0.47 OS). Visual field testing within normal limits. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0283-m16",
+      "date": "2026-10-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops – one drop in each eye twice daily\nlatanoprost 0.005% eye drops – one drop in each eye at bedtime\nbrimonidine tartrate 0.1% eye drops – one drop in each eye three times daily"
+    }
+  ]
+}

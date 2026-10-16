@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0056",
+  "name": "Sanjeev Kapoor",
+  "age": 50,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Psoriasis",
+    "Atrial fibrillation",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0056-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, drives auto-rickshaw daily, no assistance needed.\ncognition: Mini-Cog 4/5 (negative), no cognitive concerns.\nfalls: 0 falls in last 12 months, gait steady, TUG 10 s (normal).\nmedicines: 8 regular (clobetasol cream BD, calcipotriol ointment OD, methotrexate 7.5 mg weekly, folic acid 5 mg OD, apixaban 5 mg BD, bisoprolol 2.5 mg OD, levetiracetam 500 mg BD, lamotrigine 50 mg BD) – polypharmacy, review Beers.\nmood: Reports good mood, denies sadness or anxiety.\ncarers: Main carer: spouse, relationship spouse.\ngoals: \"I want to keep driving my auto-rickshaw without pain.\""
+    },
+    {
+      "memory_id": "X0056-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 28 U/L (0-40), AST 26 U/L (0-35), Bilirubin 0.8 mg/dL (0.2-1.2), ALP 70 U/L (30-120). Hb 14.2 g/dL (13-17), WBC 6.8 x10^9/L (4-10), Platelets 210 x10^9/L (150-400). Creatinine 0.9 mg/dL (0.6-1.2)."
+    },
+    {
+      "memory_id": "X0056-m03",
+      "date": "2025-04-19",
+      "type": "prescription",
+      "author": "D06",
+      "text": "clobetasol 0.05% cream apply BD to affected areas\ncalcipotriol ointment apply OD to plaques\nmethotrexate 7.5 mg PO once weekly\nfolic acid 5 mg PO daily\napixaban 5 mg PO BD\nbisoprolol 2.5 mg PO OD\nlevetiracetam 500 mg PO BD\nlamotrigine 50 mg PO BD"
+    },
+    {
+      "memory_id": "X0056-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still drives auto-rickshaw, reports occasional knee discomfort after long walks.\ncognition: Mini-Cog 4/5 (negative) – stable.\nfalls: 0 falls last 12 months, gait slightly antalgic on right, TUG 11 s (normal).\nmedicines: 8 regular – polypharmacy, continue review.\nmood: Mild frustration about knee pain, denies depression.\ncarers: Main carer: spouse, relationship spouse.\ngoals: \"I want to keep working without knee pain limiting my shifts.\""
+    },
+    {
+      "memory_id": "X0056-m05",
+      "date": "2025-07-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.4 (target 2-3) – on apixaban? Actually INR measured due to occasional warfarin thought; value within range.\nTSH 2.1 mIU/L (0.4-4.0).\nCreatinine 0.9 mg/dL (0.6-1.2)."
+    },
+    {
+      "memory_id": "X0056-m06",
+      "date": "2025-07-24",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: Sinus rhythm, rate 78 bpm. No new ST-T changes. Prior atrial fibrillation not seen; likely controlled on apixaban."
+    },
+    {
+      "memory_id": "X0056-m07",
+      "date": "2025-08-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed a small red patch on my elbow that’s itchy and slightly scaly. It’s been there for about two weeks."
+    },
+    {
+      "memory_id": "X0056-m08",
+      "date": "2025-08-15",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Dermatology, Sunrise Specialist Centre, for evaluation of refractory plaque psoriasis and possible biologic therapy. Include recent labs and medication list."
+    },
+    {
+      "memory_id": "X0056-m09",
+      "date": "2025-09-05",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Dermatology review: Plaque psoriasis moderate, PASI 8. Continue topical steroids and methotrexate. Add phototherapy twice weekly. No biologic needed at this time."
+    },
+    {
+      "memory_id": "X0056-m10",
+      "date": "2025-09-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "clobetasol 0.05% cream BD topical\ncalcipotriol ointment OD topical\nmethotrexate 7.5 mg PO weekly\nfolic acid 5 mg PO daily\napixaban 5 mg PO BD\nbisoprolol 2.5 mg PO OD\nlevetiracetam 500 mg PO BD\nlamotrigine 50 mg PO BD\nadd: phototherapy sessions twice weekly (prescribed as order)"
+    },
+    {
+      "memory_id": "X0056-m11",
+      "date": "2025-12-03",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Driving auto-rickshaw, reports reduced elbow itch after phototherapy; knee pain unchanged.\ncognition: Mini-Cog 4/5 (negative) – annual screen done, stable.\nfalls: 0 falls last 12 months, gait steady, TUG 10 s (normal).\nmedicines: 8 regular – polypharmacy, discuss possible methotrexate dose reduction if LFTs rise.\nmood: Reports improved mood with skin improvement.\ncarers: Main carer: spouse, relationship spouse.\ngoals: \"I want to keep my skin clear enough to work without embarrassment.\""
+    },
+    {
+      "memory_id": "X0056-m12",
+      "date": "2025-12-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 32 U/L (0-40), AST 30 U/L (0-35), Bilirubin 0.9 mg/dL (0.2-1.2), ALP 72 U/L (30-120). Hb 13.8 g/dL (13-17), WBC 6.5 x10^9/L (4-10), Platelets 205 x10^9/L (150-400). Creatinine 0.9 mg/dL (0.6-1.2). Serum Sodium 138 mmol/L (135-145)."
+    },
+    {
+      "memory_id": "X0056-m13",
+      "date": "2025-12-18",
+      "type": "investigation",
+      "author": "D06",
+      "text": "EEG: Background rhythm normal, no epileptiform discharges. No spikes or sharp waves. Stable epilepsy medication effect."
+    },
+    {
+      "memory_id": "X0056-m14",
+      "date": "2026-03-14",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-03-20 10:30 AM with Dr Nandini Kulkarni (D06) for routine follow-up."
+    },
+    {
+      "memory_id": "X0056-m15",
+      "date": "2026-03-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Driving auto-rickshaw, reports occasional palpitations after long rides; otherwise ADLs independent.\ncognition: Mini-Cog 4/5 (negative) – stable.\nfalls: 0 falls last 12 months, gait steady, TUG 10 s (normal).\nmedicines: Currently on apixaban, bisoprolol, levetiracetam, lamotrigine, methotrexate, folic acid, topicals. Discuss stroke prevention in AF.\nmood: Reports mild anxiety about palpitations.\ncarers: Main carer: spouse, relationship spouse.\ngoals: \"I want to feel my heart steady while working.\""
+    },
+    {
+      "memory_id": "X0056-m16",
+      "date": "2026-03-27",
+      "type": "prescription",
+      "author": "D06",
+      "text": "warfarin 5 mg PO OD (INR target 2-3)\nbisoprolol 2.5 mg PO OD\nlevetiracetam 500 mg PO BD\nlamotrigine 50 mg PO BD\nmethotrexate 7.5 mg PO weekly\nfolic acid 5 mg PO daily\nclobetasol 0.05% cream BD topical\ncalcipotriol ointment OD topical\nstop apixaban"
+    },
+    {
+      "memory_id": "X0056-m17",
+      "date": "2026-06-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.6 (target 2-3). TSH 1.9 mIU/L (0.4-4.0). Creatinine 0.9 mg/dL (0.6-1.2)."
+    },
+    {
+      "memory_id": "X0056-m18",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Driving auto-rickshaw, no palpitations on warfarin, reports good exercise tolerance.\ncognition: Mini-Cog 4/5 (negative) – stable.\nfalls: 0 falls last 12 months, gait steady, TUG 9 s (normal).\nmedicines: 8 regular – polypharmacy, continue warfarin, monitor INR.\nmood: Reports good mood, no depression.\ncarers: Main carer: spouse, relationship spouse.\ngoals: \"I want to keep working and stay healthy for my family.\""
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0154",
+  "name": "Chandrashekar Naik",
+  "age": 68,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Osteoarthritis of the knee",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0154-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome: Status: symptomatic, reports abdominal bloating and diarrhoea 2-3 days/week. Plan: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; review stool routine and tTG-IgA.\n- Osteoarthritis knee: Status: mild pain on stairs, VAS 3/10. Plan: Continue paracetamol 650 mg SOS, topical diclofenac gel BD, calcium‑vit D3 OD; arrange weight‑bearing X‑ray both knees and serum vitamin D.\n- Migraine: Status: 2 episodes/month, responsive to sumatriptan. Plan: Continue propranolol 40 mg OD, topiramate 25 mg HS, naproxen 500 mg SOS; arrange neurological exam and CT head.\n- Weight: 78 kg; Waist: 92 cm (male cut‑off 90 cm) – advise reduced carbohydrate intake.\n- Due: HbA1c not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0154-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Mebeverine 135 mg – 1‑0‑1 – after food\nIspaghula husk 5 g – 1‑0‑0 – with water\nLoperamide 2 mg – 0‑0‑1 – after food SOS\nParacetamol 650 mg – 0‑0‑1 – after food SOS\nTopical diclofenac gel – apply BD to knees\nCalcium carbonate 500 mg + Vitamin D3 400 IU – 1‑0‑0 – after food\nPropranolol 40 mg – 1‑0‑0 – after food\nTopiramate 25 mg – 0‑0‑1 – at bedtime\nNaproxen 500 mg – 0‑0‑1 – after food SOS\nSumatriptan 50 mg – 0‑0‑1 – at onset SOS"
+    },
+    {
+      "memory_id": "X0154-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.8 g/dL (13‑17), WBC 6.2×10⁹/L (4‑10), Plt 210×10⁹/L (150‑400).\nStool routine: No ova, cysts, or pus cells; pH 6.0.\ntTG‑IgA: 4 U/mL (<7 negative)."
+    },
+    {
+      "memory_id": "X0154-m04",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Weight‑bearing X‑ray both knees: Mild joint space narrowing medial compartment, no significant osteophytes. Impression: Early osteoarthritic changes, bilateral symmetric."
+    },
+    {
+      "memory_id": "X0154-m05",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH Vitamin D: 22 ng/mL (30‑100 sufficient). Insufficient."
+    },
+    {
+      "memory_id": "X0154-m06",
+      "date": "2025-04-18",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Neurological examination: No focal deficits, normal gait, mild pericranial tenderness. No migraine‑related abnormal signs."
+    },
+    {
+      "memory_id": "X0154-m07",
+      "date": "2025-04-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "CT head (plain): No acute hemorrhage, infarct, or mass lesion. Normal study."
+    },
+    {
+      "memory_id": "X0154-m08",
+      "date": "2025-05-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'Doctor, my bloating has worsened after eating wheat bread; I have loose stools twice today. Knee pain is okay. Migraine stayed at two episodes this month.'"
+    },
+    {
+      "memory_id": "X0154-m09",
+      "date": "2025-05-10",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dr Sumanth Rao, Gastroenterology, St. Martha’s Hospital. Reason: Persistent IBS‑type symptoms, need to rule out microscopic colitis and consider dietitian review."
+    },
+    {
+      "memory_id": "X0154-m10",
+      "date": "2025-05-25",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Gastroenterology report: Colonoscopy normal, biopsies show no microscopic colitis. Patient advised low‑FODMAP trial; continue mebeverine. No further action needed."
+    },
+    {
+      "memory_id": "X0154-m11",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome: Status: Improved on low‑FODMAP, bloating down 1‑2 days/week. Plan: Continue mebeverine, ispaghula, loperamide SOS; repeat tTG‑IgA if symptoms worsen.\n- Osteoarthritis knee: Status: Pain VAS 2/10 after paracetamol SOS. Plan: Continue current regimen; add calcium‑vit D3 OD if not already; repeat vitamin D in 3 months.\n- Migraine: Status: 1 episode/month, sumatriptan effective. Plan: Continue propranolol, topiramate 25 mg HS; consider increase topiramate to 50 mg HS if breakthrough.\n- Weight: 77 kg; Waist: 90 cm (at cut‑off).\n- Due: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0154-m12",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Topiramate increase to 50 mg – 0‑0‑1 – at bedtime\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0154-m13",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile: Total cholesterol 190 mg/dL (<200 desirable), LDL 110 mg/dL (<130), HDL 45 mg/dL (>40), Triglycerides 130 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0154-m14",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome: Status: Well controlled, no diarrhoea for 3 weeks. Plan: Continue current meds; consider tapering loperamide SOS.\n- Osteoarthritis knee: Status: Mild discomfort after prolonged standing, VAS 2/10. Plan: Continue paracetamol SOS, topical diclofenac, calcium‑vit D3; repeat X‑ray in 12 months.\n- Migraine: Status: Free of episodes for 6 weeks on topiramate 50 mg HS. Plan: Maintain prophylactic dose.\n- Weight: 76 kg; Waist: 88 cm (below male cut‑off).\n- Due: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0154-m15",
+      "date": "2025-10-06",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-12 09:30 with Dr Karthik Hegde (D04) for routine follow‑up. Patient confirmed via SMS."
+    },
+    {
+      "memory_id": "X0154-m16",
+      "date": "2026-01-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome: Status: Symptom‑free, occasional bloating after festive meals. Plan: Continue mebeverine BD, ispaghula husk OD; loperamide stopped.\n- Osteoarthritis knee: Status: Stiffness morning, improves with movement; VAS 2/10. Plan: Continue paracetamol SOS, topical diclofenac, calcium‑vit D3 OD; check vitamin D level.\n- Migraine: Status: No headaches for 3 months. Plan: Continue propranolol 40 mg OD, topiramate 50 mg HS.\n- Weight: 75 kg; Waist: 86 cm.\n- Due: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0154-m17",
+      "date": "2026-01-14",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Calcium carbonate 500 mg + Vitamin D3 400 IU – 1‑0‑0 – after food (continued)\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0154-m18",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome: Status: Remains asymptomatic. Plan: Continue mebeverine BD, ispaghula husk OD; PRN loperamide only if needed.\n- Osteoarthritis knee: Status: Mild aching after long walks, VAS 2/10. Plan: Continue current regimen; repeat serum vitamin D.\n- Migraine: Status: No headaches, topiramate 50 mg HS well tolerated. Plan: Continue prophylactic therapy.\n- Weight: 74 kg; Waist: 84 cm.\n- Due: HbA1c not applicable."
+    }
+  ]
+}

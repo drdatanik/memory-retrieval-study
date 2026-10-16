@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0088",
+  "name": "Rohini Mhatre",
+  "age": 45,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Non-alcoholic fatty liver disease",
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0088-m01",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for initial consultation with Dr Nandini Kulkarni (D06) on 2025-04-07 at 10:00 am. Patient to bring prior reports and list of current medications."
+    },
+    {
+      "memory_id": "X0088-m02",
+      "date": "2025-04-07",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports mild lower back pain radiating to left thigh, aggravated by prolonged sitting; able to perform ADLs independently.\ncognition: Mini-Cog score 4/5 (negative).\nfalls: No falls in last 12 months; gait steady; timed up-and-go 10 seconds (normal).\nmedicines: 0 regular.\nmood: No depressive symptoms reported; affect stable.\ncarers: Husband Rajesh, spouse.\ngoals: \"I want to stay active and manage my liver and back pain so I can continue working.\""
+    },
+    {
+      "memory_id": "X0088-m03",
+      "date": "2025-04-08",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 5 mg OD\npregabalin 75 mg BD\ndiclofenac 50 mg BD after food\nmethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0088-m04",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 38 U/L (7-35), AST 32 U/L (8-33).\nPlatelet count: 210 x10^9/L (150-400).\nFasting Lipid Profile: Cholesterol 210 mg/dL (<200), Triglycerides 165 mg/dL (<150), HDL 48 mg/dL (>40), LDL 130 mg/dL (<100).\nAbdominal Ultrasound: Mild hepatic steatosis, no focal lesion, spleen normal."
+    },
+    {
+      "memory_id": "X0088-m05",
+      "date": "2025-04-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Started new meds yesterday. Notice mild nausea after diclofenac, but back pain improved slightly. Liver feels fine. No new symptoms."
+    },
+    {
+      "memory_id": "X0088-m06",
+      "date": "2025-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment scheduled with Dr Nandini Kulkarni (D06) on 2025-07-07 at 09:30 am. Patient advised to fast for lipid profile."
+    },
+    {
+      "memory_id": "X0088-m07",
+      "date": "2025-07-07",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Back pain reduced to occasional ache; able to walk 30 mins without discomfort. Liver discomfort none.\ncognition: Not due for annual Mini-Cog yet.\nfalls: No falls in last 12 months; gait normal; timed up-and-go 9 seconds.\nmedicines: 5 regular (silymarin, rosuvastatin, pregabalin, diclofenac, methylcobalamin). Polypharmacy – review against Beers criteria advised.\nmood: Mood stable, no anxiety reported.\ncarers: Husband Rajesh, spouse.\ngoals: \"I want to keep working without pain and maintain liver health.\""
+    },
+    {
+      "memory_id": "X0088-m08",
+      "date": "2025-07-08",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pregabalin increased to 150 mg BD\nrosuvastatin continued 5 mg OD\nsilymarin continued 140 mg TDS\ndiclofenac continued 50 mg BD after food\nmethylcobalamin continued 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0088-m09",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 34 U/L, AST 30 U/L.\nFasting Lipid Profile: Cholesterol 202 mg/dL, Triglycerides 158 mg/dL, HDL 50 mg/dL, LDL 124 mg/dL.\nPlatelet count: 208 x10^9/L."
+    },
+    {
+      "memory_id": "X0088-m10",
+      "date": "2025-07-12",
+      "type": "investigation",
+      "author": "D06",
+      "text": "MRI Lumbar Spine: L4-L5 disc bulge causing mild left-sided nerve root compression, no canal stenosis. No malignant changes."
+    },
+    {
+      "memory_id": "X0088-m11",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Nandini Kulkarni (D06) on 2025-10-07 at 11:00 am. Patient to bring pain diary."
+    },
+    {
+      "memory_id": "X0088-m12",
+      "date": "2025-10-07",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports occasional sciatica flare after long drives; otherwise functional.\ncognition: Annual Mini-Cog performed; score 3/5 (negative).\nfalls: One fall reported last month while getting out of auto-rickshaw, no injury; gait slightly antalgic left; timed up-and-go 13 seconds (raised fall risk) – advise exercise and proper footwear.\nmedicines: 5 regular (silymarin, rosuvastatin, pregabalin 150 mg BD, diclofenac, methylcobalamin). Polypharmacy – review Beers criteria.\nmood: Mild frustration about pain; otherwise affect normal.\ncarers: Husband Rajesh, spouse.\ngoals: \"I want to reduce flare-ups and stay independent.\""
+    },
+    {
+      "memory_id": "X0088-m13",
+      "date": "2025-10-08",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 5 mg OD\npregabalin 150 mg BD\ndiclofenac stopped due to gastric upset\nmethylcobalamin 1500 mcg OD\nadd: etoricoxib 60 mg OD for breakthrough pain"
+    },
+    {
+      "memory_id": "X0088-m14",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Abdominal Ultrasound: Steatosis unchanged, liver size normal, no focal lesions.\nLiver Function Test: ALT 36 U/L, AST 33 U/L.\nPlatelet count: 210 x10^9/L."
+    },
+    {
+      "memory_id": "X0088-m15",
+      "date": "2026-01-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Visit scheduled with Dr Nandini Kulkarni (D06) on 2026-01-07 at 10:15 am for medication review and fall prevention."
+    },
+    {
+      "memory_id": "X0088-m16",
+      "date": "2026-01-07",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Improved mobility; able to climb stairs without pain; occasional mild back ache after long sitting.\ncognition: Not due for yearly Mini-Cog.\nfalls: No further falls in past 3 months; gait normal; timed up-and-go 11 seconds (borderline) – continue strengthening exercises.\nmedicines: 5 regular (silymarin, rosuvastatin, pregabalin 150 mg BD, methylcobalamin, etoricoxib 60 mg OD). Polypharmacy – review Beers criteria.\nmood: Mood good; reports satisfaction with pain control.\ncarers: Husband Rajesh, spouse.\ngoals: \"I want to maintain current function and avoid medication side effects.\""
+    },
+    {
+      "memory_id": "X0088-m17",
+      "date": "2026-01-08",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 5 mg OD\npregabalin 150 mg BD\nmethylcobalamin 1500 mcg OD\n etoricoxib 60 mg OD\n add: vitamin D3 1000 IU OD for bone health"
+    },
+    {
+      "memory_id": "X0088-m18",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 32 U/L, AST 30 U/L.\nFasting Lipid Profile: Cholesterol 195 mg/dL, Triglycerides 150 mg/dL, HDL 52 mg/dL, LDL 118 mg/dL.\nPlatelet count: 212 x10^9/L.\nVitamin D 25-OH: 28 ng/mL (sufficient >20)."
+    }
+  ]
+}

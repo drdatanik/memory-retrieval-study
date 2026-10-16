@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0315",
+  "name": "Sanjeev Mishra",
+  "age": 38,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic urticaria",
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0315-m01",
+      "date": "2025-04-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Patient booked an initial consultation with Dr Suresh Menon for evaluation of chronic urticaria and gout. Appointment scheduled for 15 April 2025 at 10:00 AM."
+    },
+    {
+      "memory_id": "X0315-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria and gout.\nPatient reports daily pruritic wheals lasting <24 hrs, occasional angioedema of lips, and recurrent podagra attacks over the past year. Examination shows scattered erythematous wheals on trunk and limbs, mild tenderness in first metatarsophalangeal joints, no tophi. Smoking status: never. No respiratory symptoms."
+    },
+    {
+      "memory_id": "X0315-m03",
+      "date": "2025-04-16",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levocetirizine 5 mg OD\nallopurinol 100 mg OD"
+    },
+    {
+      "memory_id": "X0315-m04",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.2 x10^9/L, neutrophils 4.1, lymphocytes 1.6, monocytes 0.3, eosinophils 0.2 (normal 0.04-0.4). Hb 13.8 g/dL, platelets 210 x10^9/L.\nThyroid: TSH 2.1 mIU/L (0.4-4.0), FT4 13.2 pmol/L (9-18).\nSerum uric acid 7.8 mg/dL (male <7.0). Serum creatinine 0.92 mg/dL (0.6-1.2)."
+    },
+    {
+      "memory_id": "X0315-m05",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria and gout.\nPatient notes reduced wheal frequency to 3-4 days/week, mild residual itching; no new angioedema. Gout: one mild flare in left knee treated with colchicine 0.5 mg BD for 3 days, resolved. Examination: few scattered wheals, no joint swelling or tenderness. Smoking status: never."
+    },
+    {
+      "memory_id": "X0315-m06",
+      "date": "2025-08-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "X-ray right foot: soft tissue swelling over the first metatarsophalangeal joint, no bony erosion. No visible tophaceous changes. Impression: compatible with early gouty changes, no advanced tophi."
+    },
+    {
+      "memory_id": "X0315-m07",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "allopurinol 200 mg OD\nlevocetirizine 5 mg OD (continue)"
+    },
+    {
+      "memory_id": "X0315-m08",
+      "date": "2025-09-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I woke up with severe pain and swelling in my right big toe today. It hurts to walk. I think it's another gout flare. Can I get something for it?"
+    },
+    {
+      "memory_id": "X0315-m09",
+      "date": "2025-09-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "colchicine 0.5 mg BD for 5 days\nallopurinol 200 mg OD\nlevocetirizine 5 mg OD"
+    },
+    {
+      "memory_id": "X0315-m10",
+      "date": "2025-11-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 5.9 x10^9/L, neutrophils 3.8, lymphocytes 1.5, monocytes 0.2, eosinophils 0.18. Hb 14.0 g/dL, platelets 205 x10^9/L.\nSerum uric acid 5.6 mg/dL (<7.0 target). Serum creatinine 0.88 mg/dL."
+    },
+    {
+      "memory_id": "X0315-m11",
+      "date": "2026-01-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria and gout.\nPatient reports urticaria now 1-2 days/week, mild itching, no angioedema. Gout: asymptomatic, no flares since last colchicine course. Examination: minimal residual wheals, no joint tenderness. Smoking status: never. Advise continue levocetirizine and allopurinol."
+    },
+    {
+      "memory_id": "X0315-m12",
+      "date": "2026-03-01",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Dermatology for evaluation of refractory chronic urticaria despite antihistamine trial. Consider biologic therapy (omalizumab). Please assess and advise."
+    },
+    {
+      "memory_id": "X0315-m13",
+      "date": "2026-04-15",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Dermatology review: Chronic urticaria persistent, autologous serum skin test positive. Recommend trial of omalizumab 300 mg SC every 4 weeks. Review in 8 weeks."
+    },
+    {
+      "memory_id": "X0315-m14",
+      "date": "2026-07-18",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria and gout.\nPatient started omalizumab 300 mg SC monthly per dermatology advice, two doses received. Reports marked reduction in wheals to <2 days/week, improved quality of life. Gout remains asymptomatic on allopurinol 200 mg OD. Examination: few faint wheals, no joint tenderness. Smoking status: never. Plan: continue omalizumab, monitor response."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0057",
+  "name": "Sumathi Kamath",
+  "age": 61,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Coronary artery disease",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0057-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine follow‑up for coronary artery disease and irritable bowel syndrome.\nPRESENTING COMPLAINT: She reports occasional mild chest discomfort on exertion, relieved by rest, and intermittent bloating with loose stools twice weekly.\nEXAMINATION: BP 138/84 mmHg, pulse 78/min, weight 68 kg, height 158 cm, BMI 27.2 (obese). Cardiovascular examination is regular without murmurs. Abdomen is soft, non‑tender, no masses.\nIMPRESSION: Stable CAD on current meds; IBS with mixed pattern. Lipids and glucose to be checked.\nARRANGEMENTS: Continue aspirin 75 mg OD, atorvastatin 40 mg HS, metoprolol 25 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS. For IBS: mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Order fasting lipid profile, fasting blood sugar, CBC, stool routine, tTG‑IgA. Advise low‑salt diet, 150 min/week brisk walking, weight target <63 kg. Return if chest pain at rest, breathlessness >20 min, fever >39°C, rectal bleeding, or worsening abdominal pain."
+    },
+    {
+      "memory_id": "X0057-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 40 mg HS\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nGTN 0.3 mg SL SOS\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0057-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 190 mg/dL (<200), Triglycerides 140 mg/dL (<150), HDL 48 mg/dL (>40), LDL 112 mg/dL (<100 borderline high). Fasting blood sugar 98 mg/dL (70‑99). CBC: Hb 12.8 g/dL (12‑16), WBC 6.2 x10^9/L (4‑10), Platelets 210 x10^9/L (150‑400). Stool routine: Ova nil, pus cells 0‑1/hpf. tTG‑IgA: Negative (<7 U/mL)."
+    },
+    {
+      "memory_id": "X0057-m04",
+      "date": "2025-04-18",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Resting ECG: Sinus rhythm, rate 72/min. No ST‑segment depression or elevation. No pathological Q waves. Mild left ventricular voltage within normal limits. No arrhythmias."
+    },
+    {
+      "memory_id": "X0057-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up after lipid results and symptom review.\nPRESENTING COMPLAINT: She notes reduced exertional chest discomfort (once weekly) and improved bowel pattern (soft stools once daily). No new symptoms.\nEXAMINATION: BP 132/80 mmHg, pulse 76/min, weight 66.5 kg, BMI 26.6 (overweight). Cardiovascular regular. Abdomen soft, no tenderness.\nIMPRESSION: LDL remains above target; consider intensifying statin. IBS controlled. Advise weight reduction.\nARRANGEMENTS: Increase atorvastatin to 40 mg HS (continue). Add ezetimibe 10 mg OD if LDL >100 after 4 weeks. Continue other CAD meds. IBS regimen unchanged. Repeat lipid profile in 8 weeks. Return if chest pain at rest, palpitations, fainting, severe abdominal pain, or bloody stools."
+    },
+    {
+      "memory_id": "X0057-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Atorvastatin 40 mg HS\nEzetimibe 10 mg OD"
+    },
+    {
+      "memory_id": "X0057-m07",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 176 mg/dL, Triglycerides 128 mg/dL, HDL 50 mg/dL, LDL 94 mg/dL (<100 target). Fasting blood sugar 95 mg/dL."
+    },
+    {
+      "memory_id": "X0057-m08",
+      "date": "2025-08-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Exercise treadmill test (Bruce protocol): She reached stage 3 (3 METs) before limiting fatigue. No ST‑segment depression >1 mm. No arrhythmia. Blood pressure rose appropriately to 160/90 mmHg at peak. Test interpreted as negative for inducible ischemia."
+    },
+    {
+      "memory_id": "X0057-m09",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Six‑month review.\nPRESENTING COMPLAINT: She reports occasional mild epigastric discomfort after meals, no chest pain. Bowels regular.\nEXAMINATION: BP 128/78 mmHg, pulse 74/min, weight 65 kg, BMI 26.0 (overweight). Cardiovascular regular. Abdomen soft, mild tenderness in left lower quadrant, no guarding.\nIMPRESSION: LDL at goal. IBS symptoms mild, likely diet‑related. No cardiac ischemia on recent treadmill.\nARRANGEMENTS: Continue aspirin 75 mg OD, atorvastatin 40 mg HS, ezetimibe 10 mg OD, metoprolol 25 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS. IBS: mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Advise low‑fat diet, avoid trigger foods, maintain activity. Repeat lipid profile and fasting sugar in 4 months. Return if chest pain, dyspnea on exertion, syncope, worsening abdominal pain, vomiting, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0057-m10",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 40 mg HS\nEzetimibe 10 mg OD\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nGTN 0.3 mg SL SOS\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0057-m11",
+      "date": "2025-11-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 172 mg/dL, Triglycerides 124 mg/dL, HDL 51 mg/dL, LDL 90 mg/dL. Fasting blood sugar 96 mg/dL."
+    },
+    {
+      "memory_id": "X0057-m12",
+      "date": "2025-11-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Transthoracic echocardiogram: Left ventricular end‑diastolic diameter 4.8 cm (normal). Left ventricular ejection fraction 60% (normal). Mild concentric left ventricular hypertrophy. No valvular stenosis or regurgitation. No pericardial effusion. No regional wall motion abnormality."
+    },
+    {
+      "memory_id": "X0057-m13",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Winter check‑up.\nPRESENTING COMPLAINT: She reports occasional mild frontal headache and sensation of light‑headedness on standing, especially after morning walk. No chest pain. Bowels normal.\nEXAMINATION: BP 118/70 mmHg (lower than usual), pulse 72/min, weight 64.2 kg, BMI 25.6 (overweight). Cardiovascular regular. Abdomen soft, non‑tender.\nIMPRESSION: Orthostatic hypotension possibly related to isosorbide mononitrate in setting of lower BP. LDL well controlled.\nARRANGEMENTS: Discontinue isosorbide mononitrate. Continue aspirin 75 mg OD, atorvastatin 40 mg HS, ezetimibe 10 mg OD, metoprolol 25 mg OD, GTN SOS. Advise rise slowly from sitting/standing, adequate hydration, salt modest increase if symptomatic. IBS meds unchanged. Repeat BP in 2 weeks, lipid profile in 3 months. Return if chest pain, palpitations, fainting, fall, worsening headache, or abdominal pain with vomiting."
+    },
+    {
+      "memory_id": "X0057-m14",
+      "date": "2026-02-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Discontinue isosorbide mononitrate 20 mg OD\nContinue aspirin 75 mg OD\nAtorvastatin 40 mg HS\nEzetimibe 10 mg OD\nMetoprolol succinate 25 mg OD\nGTN 0.3 mg SL SOS\nMebeverine 135 mg BD\nIspaghula husk 5 g OD\nLoperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0057-m15",
+      "date": "2026-03-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-04-15 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0057-m16",
+      "date": "2026-05-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review after BP monitoring.\nPRESENTING COMPLAINT: She denies dizziness since stopping isosorbide; occasional mild shoulder discomfort after lifting groceries, non‑cardiac. Bowels regular.\nEXAMINATION: BP 124/76 mmHg, pulse 76/min, weight 63.8 kg, BMI 25.5 (overweight). Cardiovascular regular. Abdomen soft.\nIMPRESSION: Orthostatic symptoms resolved. LDL remains at target. No new cardiac symptoms.\nARRANGEMENTS: Continue aspirin 75 mg OD, atorvastatin 40 mg HS, ezetimibe 10 mg OD, metoprolol 25 mg OD, GTN SOS. IBS regimen unchanged. Encourage strength training twice weekly, maintain weight <63 kg. Repeat lipid profile and fasting sugar in 6 months. Return if chest pain, exertional dyspnea, palpitations, syncope, abdominal pain with vomiting or bleeding, or new neurologic symptoms."
+    },
+    {
+      "memory_id": "X0057-m17",
+      "date": "2026-06-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 168 mg/dL, Triglycerides 118 mg/dL, HDL 52 mg/dL, LDL 88 mg/dL. Fasting blood sugar 97 mg/dL. Vitamin D 22 ng/mL (insufficient; advise supplementation 1000 IU daily)."
+    }
+  ]
+}

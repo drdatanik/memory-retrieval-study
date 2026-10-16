@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0238",
+  "name": "Pooja Tiwari",
+  "age": 76,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Chronic urticaria",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0238-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Abdominal bloating and alternating diarrhoea/constipation, mebeverine and ispaghula husk partially helpful.\n  - Plan: Continue mebeverine 135 mg BD after food; ispaghula husk 5 g OD with water; add loperamide 2 mg SOS after loose stools; advise low‑FODMAP diet: breakfast – rice‑flakes with banana; lunch – khichdi with curd; dinner – steamed vegetables and rice.\n- Chronic urticaria\n  - Status: Daily wheals, mild pruritus, currently on levocetirizine 5 mg OD.\n  - Plan: Continue levocetirizine 5 mg OD after food; add cetirizine 10 mg HS if nocturnal breakthrough.\n- Vitamin B12 deficiency\n  - Status: Fatigue, last B12 180 pg/mL (low).\n  - Plan: Start methylcobalamin 1500 mcg OD after breakfast.\n- Weight: 68 kg; Waist: 88 cm (female cut‑off 80 cm – central obesity).\n- Due: Next HbA1c due 2025-07-05."
+    },
+    {
+      "memory_id": "X0238-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Mebeverine 135 mg BD after food\nIspaghula husk 5 g OD with water\nLoperamide 2 mg SOS after loose stools\nLevocetirizine 5 mg OD after food\nCetirizine 10 mg HS\nMethylcobalamin 1500 mcg OD after breakfast"
+    },
+    {
+      "memory_id": "X0238-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.2% (44 mmol/mol) (ref 4-5.6)\nCBC: Hb 12.8 g/dL (13-17), WBC 6.2x10^9/L, Platelets 210x10^9/L\nEosinophils 0.3x10^9/L (0.02-0.5)\nSerum B12 190 pg/mL (200-900)\nMCV 92 fL (80-100)\nTSH 2.1 µIU/mL (0.4-4.0), FT4 1.2 ng/dL (0.9-1.7)\ntTG‑IgA <4 U/mL (<7 negative)\nStool routine: ova nil, pus cells 0-2/hpf"
+    },
+    {
+      "memory_id": "X0238-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Bloating reduced, stool frequency 2-3/day, occasional urgency; loperamide used twice/week.\n  - Plan: Continue mebeverine 135 mg BD after food; ispaghula husk 5 g OD; loperamide 2 mg SOS; add probiotic capsule OD; diet: breakfast – poha with peanuts; lunch – dal‑rice with curd; dinner – chapati with vegetable sabzi.\n- Chronic urticaria\n  - Status: Wheals 3-4 days/week, mild itch; cetirizine HS used 3 nights/week.\n  - Plan: Continue levocetirizine 5 mg OD after food; cetirizine 10 mg HS PRN; consider trial of fexofenadine if breakthrough persists.\n- Vitamin B12 deficiency\n  - Status: Improved energy, B12 260 pg/mL on supplement.\n  - Plan: Continue methylcobalamin 1500 mcg OD; re‑check B12 in 3 months.\n- Weight: 67 kg; Waist: 86 cm.\n- Due: Next HbA1c due 2025-10-10."
+    },
+    {
+      "memory_id": "X0238-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Mebeverine 135 mg BD after food\nIspaghula husk 5 g OD with water\nLoperamide 2 mg SOS after loose stools\nLevocetirizine 5 mg OD after food\nCetirizine 10 mg HS PRN\nMethylcobalamin 1500 mcg OD after breakfast\nProbiotic capsule OD"
+    },
+    {
+      "memory_id": "X0238-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.0% (42 mmol/mol)\nSerum B12 260 pg/mL\nTSH 2.0 µIU/mL\nLipid profile: Cholesterol 185 mg/dL (<200), Triglycerides 120 mg/dL (<150), HDL 48 mg/dL (>40), LDL 105 mg/dL (<130)"
+    },
+    {
+      "memory_id": "X0238-m07",
+      "date": "2025-10-08",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Irritable bowel syndrome\n  - Status: Symptom-free 5 days/week, occasional mild bloating after heavy meals.\n  - Plan: Continue mebeverine 135 mg BD after food; ispaghula husk 5 g OD; loperamide 2 mg SOS; consider tapering probiotic.\n- Chronic urticaria\n  - Status: Wheals 1-2 days/week, well controlled with levocetirizine; cetirizine HS used only twice/month.\n  - Plan: Continue levocetirizine 5 mg OD after food; cetirizine 10 mg HS PRN; aim to withdraw cetirizine if symptom-free for 1 month.\n- Vitamin B12 deficiency\n  - Status: B12 340 pg/mL, Hb 13.2 g/dL.\n  - Plan: Continue methylcobalamin 1500 mcg OD; plan to stop after 6 months if levels stay >400.\n- Weight: 66 kg; Waist: 84 cm.\n- Due: Next HbA1c due 2026-01-08."
+    },
+    {
+      "memory_id": "X0238-m08",
+      "date": "2025-10-08",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Mebeverine 135 mg BD after food\nIspaghula husk 5 g OD with water\nLoperamide 2 mg SOS after loose stools\nLevocetirizine 5 mg OD after food\nCetirizine 10 mg HS PRN\nMethylcobalamin 1500 mcg OD after breakfast"
+    },
+    {
+      "memory_id": "X0238-m09",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.9% (41 mmol/mol)\nCBC: Hb 13.2 g/dL, WBC 6.0x10^9/L, Platelets 205x10^9/L\nEosinophils 0.2x10^9/L\nSerum B12 340 pg/mL\nTSH 2.2 µIU/mL\nLipid profile: Cholesterol 180 mg/dL, Triglycerides 115 mg/dL, HDL 50 mg/dL, LDL 102 mg/dL"
+    },
+    {
+      "memory_id": "X0238-m10",
+      "date": "2026-01-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been getting itchy wheals almost every day for the past two weeks, especially in the evenings. I took cetirizine at night but it barely helps. My stomach feels fine, no diarrhoea. I am worried the urticaria is getting worse again."
+    },
+    {
+      "memory_id": "X0238-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Daily wheals with moderate pruritus, levocetirizine OD insufficient, cetirizine HS used nightly.\n  - Plan: Increase levocetirizine to 5 mg BD after food; continue cetirizine 10 mg HS; add montelukast 10 mg HS if no improvement in 2 weeks.\n- Irritable bowel syndrome\n  - Status: Asymptomatic, no bloating or altered bowel habit.\n  - Plan: Continue mebeverine 135 mg BD after food; ispaghula husk 5 g OD; loperamide 2 mg SOS.\n- Vitamin B12 deficiency\n  - Status: B12 280 pg/mL (slight dip), Hb 12.9 g/dL.\n  - Plan: Continue methylcobalamin 1500 mcg OD; re‑check B12 in 6 weeks.\n- Weight: 68 kg; Waist: 89 cm (central obesity).\n- Due: Next HbA1c due 2026-04-15."
+    },
+    {
+      "memory_id": "X0238-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Mebeverine 135 mg BD after food\nIspaghula husk 5 g OD with water\nLoperamide 2 mg SOS after loose stools\nLevocetirizine 5 mg BD after food\nCetirizine 10 mg HS\nMontelukast 10 mg HS\nMethylcobalamin 1500 mcg OD after breakfast"
+    },
+    {
+      "memory_id": "X0238-m13",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum B12 285 pg/mL\nTSH 2.1 µIU/mL\nHbA1c 6.1% (43 mmol/mol)"
+    },
+    {
+      "memory_id": "X0238-m14",
+      "date": "2026-04-14",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked with Dr Karthik Hegde (D04) for 2026-04-20 at 10:30 AM for routine follow‑up."
+    },
+    {
+      "memory_id": "X0238-m15",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Wheals reduced to 2-3 days/week, mild itch; levocetirizine BD and cetirizine HS helpful.\n  - Plan: Continue levocetirizine 5 mg BD after food; cetirizine 10 mg HS; consider tapering montelukast after 1 month if stable.\n- Irritable bowel syndrome\n  - Status: Remains asymptomatic.\n  - Plan: Continue mebeverine 135 mg BD after food; ispaghula husk 5 g OD; loperamide 2 mg SOS.\n- Vitamin B12 deficiency\n  - Status: B12 320 pg/mL, Hb 13.0 g/dL.\n  - Plan: Continue methylcobalamin 1500 mcg OD; plan to discontinue after total 8 months if levels stay >350.\n- Weight: 67 kg; Waist: 87 cm.\n- Due: Next HbA1c due 2026-07-20."
+    },
+    {
+      "memory_id": "X0238-m16",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Mebeverine 135 mg BD after food\nIspaghula husk 5 g OD with water\nLoperamide 2 mg SOS after loose stools\nLevocetirizine 5 mg BD after food\nCetirizine 10 mg HS\nMontelukast 10 mg HS\nMethylcobalamin 1500 mcg OD after breakfast"
+    },
+    {
+      "memory_id": "X0238-m17",
+      "date": "2026-07-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.0% (42 mmol/mol)\nLipid profile: Cholesterol 178 mg/dL, Triglycerides 110 mg/dL, HDL 52 mg/dL, LDL 100 mg/d\nSerum B12 340 pg/mL\nTSH 2.0 µIU/mL"
+    },
+    {
+      "memory_id": "X0238-m18",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic urticaria\n  - Status: Wheals 1 day/week, mild; levocetirizine BD and cetirizine HS adequate.\n  - Plan: Continue levocetirizine 5 mg BD after food; cetirizine 10 mg HS; attempt to stop montelukast today.\n- Irritable bowel syndrome\n  - Status: Symptom-free.\n  - Plan: Continue mebeverine 135 mg BD after food; ispaghula husk 5 g OD; loperamide 2 mg SOS.\n- Vitamin B12 deficiency\n  - Status: B12 360 pg/mL, Hb 13.3 g/dL.\n  - Plan: Stop methylcobalamin today; check B12 in 3 months.\n- Weight: 66 kg; Waist: 85 cm (still above female cut‑off).\n- Due: Next HbA1c due 2027-01-05 (beyond observation window)."
+    }
+  ]
+}

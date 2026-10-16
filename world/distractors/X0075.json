@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0075",
+  "name": "Sunanda Phadke",
+  "age": 66,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Osteoporosis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0075-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia and osteoporosis.\nPatient reports fatigue, mild dyspnea on exertion, and back pain. Exam: pallor, tender lumbar spine, otherwise normal.\nSpirometry: FEV1 2.8 L (92% predicted), FVC 3.2 L, FEV1/FVC 0.88; unchanged.\nTechnique checked: not applicable (no inhaler).\nSmoking: never.\nPlan: check CBC, ferritin, MCV, calcium, vitamin D; start ferrous sulfate 200 mg OD, alendronate 70 mg weekly, calcium 500 mg BD with vitamin D3 800 IU; review in 6 weeks."
+    },
+    {
+      "memory_id": "X0075-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg OD\nAlendronate 70 mg once weekly\nCalcium carbonate 500 mg BD\nVitamin D3 800 IU OD"
+    },
+    {
+      "memory_id": "X0075-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.2 g/dL (ref 12-16)\nSerum ferritin 12 ng/mL (ref 30-300)\nMCV 78 fL (ref 80-100)\nSerum calcium 9.0 mg/dL (ref 8.5-10.5)\nSerum 25-OH vitamin D 18 ng/mL (ref 30-100)"
+    },
+    {
+      "memory_id": "X0075-m04",
+      "date": "2025-05-03",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-05-10 at 10:00 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0075-m05",
+      "date": "2025-05-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia and osteoporosis.\nFatigue improved, constipation noted. Exam: mild pallor, no new back pain.\nSpirometry: FEV1 2.8 L (92% pred), FVC 3.2 L, ratio 0.88; delta FEV1 0 L.\nTechnique checked: not applicable.\nSmoking: never.\nAssessment: Hb rising but still low; iron intolerance prompting dose change.\nPlan: switch ferrous sulfate to 200 mg on alternate days; continue osteoporosis meds; recheck labs in 8 weeks."
+    },
+    {
+      "memory_id": "X0075-m06",
+      "date": "2025-05-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg on alternate days\nAlendronate 70 mg once weekly\nCalcium carbonate 500 mg BD\nVitamin D3 800 IU OD"
+    },
+    {
+      "memory_id": "X0075-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.8 g/dL (ref 12-16)\nSerum ferritin 45 ng/mL (ref 30-300)\nMCV 82 fL (ref 80-100)\nSerum calcium 9.2 mg/dL (ref 8.5-10.5)\nSerum 25-OH vitamin D 28 ng/mL (ref 30-100)"
+    },
+    {
+      "memory_id": "X0075-m08",
+      "date": "2025-08-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: Feeling less tired but still some fatigue. Asking if I should increase vitamin D dose as my level still low."
+    },
+    {
+      "memory_id": "X0075-m09",
+      "date": "2025-08-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia and osteoporosis.\nFatigue much better, occasional mild tiredness. Exam: no pallor, spine non-tender.\nSpirometry: FEV1 2.9 L (95% pred), FVC 3.3 L, ratio 0.88; delta FEV1 +0.1 L.\nTechnique checked: not applicable.\nSmoking: never.\nAssessment: Anaemia improving; vitamin D still suboptimal.\nPlan: increase vitamin D3 to 2000 IU daily; continue iron alternate days; repeat labs in 10 weeks."
+    },
+    {
+      "memory_id": "X0075-m10",
+      "date": "2025-08-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg on alternate days\nAlendronate 70 mg once weekly\nCalcium carbonate 500 mg BD\nVitamin D3 2000 IU OD"
+    },
+    {
+      "memory_id": "X0075-m11",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.5 g/dL (ref 12-16)\nSerum ferritin 78 ng/mL (ref 30-300)\nMCV 86 fL (ref 80-100)\nSerum calcium 9.3 mg/dL (ref 8.5-10.5)\nSerum 25-OH vitamin D 35 ng/mL (ref 30-100)"
+    },
+    {
+      "memory_id": "X0075-m12",
+      "date": "2025-11-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Routine review appointment booked for 2025-12-03 at 09:30 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0075-m13",
+      "date": "2025-12-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia resolved; osteoporosis stable.\nNo fatigue, back pain mild. Exam: normal.\nSpirometry: FEV1 2.9 L (95% pred), FVC 3.3 L, ratio 0.88; delta FEV1 0 L.\nTechnique checked: not applicable.\nSmoking: never.\nAssessment: Hb normal, ferritin adequate; vitamin D sufficient.\nPlan: stop ferrous sulfate; continue alendronate weekly, calcium 500 mg BD with vitamin D3 1000 IU maintenance; review in 6 months."
+    },
+    {
+      "memory_id": "X0075-m14",
+      "date": "2025-12-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Alendronate 70 mg once weekly\nCalcium carbonate 500 mg BD\nVitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0075-m15",
+      "date": "2026-06-20",
+      "type": "investigation",
+      "author": "D05",
+      "text": "DEXA scan lumbar spine T-score -2.1 (osteoporosis); hip T-score -1.8 (osteopenia). No significant change from prior scan."
+    }
+  ]
+}

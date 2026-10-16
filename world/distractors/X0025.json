@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0025",
+  "name": "Falguni Shah",
+  "age": 75,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0025-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Visit for obesity management.\nPRESENTING COMPLAINT: She reports gradual weight gain over the past year, feeling heaviness and mild knee discomfort on walking.\nEXAMINATION: BP 138/84 mmHg, weight 82 kg, height 1.58 m => BMI 32.8 (obese). Waist circumference 102 cm. General appearance well‑nourished, no distress. Cardiovascular and respiratory exams normal.\nIMPRESSION: Obesity, BMI class II. No overt metabolic syndrome yet; plan to check fasting lipid profile and glucose.\nARRANGEMENTS: Start orlistat 120 mg with each main meal. Advise reduced‑calorie diet and increase walking to 30 minutes daily. Return if new joint pain, severe abdominal pain, vomiting, or fever >39°C. Influenza vaccine not due yet (outside autumn). Asked patient to repeat the return‑if list."
+    },
+    {
+      "memory_id": "X0025-m02",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Orlistat 120 mg PO TID with breakfast, lunch, and dinner. Continue for 12 weeks, review then."
+    },
+    {
+      "memory_id": "X0025-m03",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 210 mg/dL (ref <200), LDL 130 mg/dL (ref <100), HDL 38 mg/dL (ref >40), Triglycerides 165 mg/dL (ref <150).\nFasting glucose 102 mg/dL (ref 70‑99).\nHbA1c 5.9% (ref 4‑5.6%).\nALT 28 U/L (ref 7‑56), AST 24 U/L (ref 10‑40), ALP 78 U/L (ref 40‑129), GGT 32 U/L (ref 9‑64).\nWaist circumference 102 cm."
+    },
+    {
+      "memory_id": "X0025-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been taking the orlistat with meals as prescribed. Over the past two weeks I’ve noticed oily spotting after fatty meals and occasional mild abdominal cramping, but no vomiting or severe pain. My weight hasn’t changed much yet; I’m still around 82 kg. I’ve tried to walk a bit more but my knee feels sore after longer walks."
+    },
+    {
+      "memory_id": "X0025-m05",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up on obesity and orlistat tolerance.\nPRESENTING COMPLAINT: Patient reports oily stools and mild cramping after fatty meals, otherwise stable weight.\nEXAMINATION: BP 136/82 mmHg, weight 81.5 kg, height 1.58 m => BMI 32.6 (obese). Waist 101 cm. Abdomen soft, no tenderness. No signs of dehydration.\nIMPRESSION: Obesity, BMI class II. Orlistat associated gastrointestinal side effects expected; lipid panel shows modest improvement.\nARRANGEMENTS: Continue orlistat 120 mg TID with meals. Advise low‑fat diet to reduce oily spotting, maintain walking 20‑30 min daily as tolerated. Return if severe abdominal pain, persistent vomiting, signs of electrolyte loss, or fever >39°C. Influenza vaccine not yet due. Asked patient to repeat return‑if list."
+    },
+    {
+      "memory_id": "X0025-m06",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Orlistat 120 mg PO TID with meals. Continue, review in 3 months."
+    },
+    {
+      "memory_id": "X0025-m07",
+      "date": "2025-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dL (ref <200), LDL 110 mg/dL (ref <100), HDL 42 mg/dL (ref >40), Triglycerides 138 mg/dL (ref <150).\nFasting glucose 98 mg/dL (ref 70‑99).\nHbA1c 5.6% (ref 4‑5.6%).\nALT 22 U/L, AST 20 U/L, ALP 74 U/L, GGT 28 U/L.\nWaist circumference 100 cm."
+    },
+    {
+      "memory_id": "X0025-m08",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-11-01 at 10:30 AM with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0025-m09",
+      "date": "2025-11-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine obesity review; influenza vaccine discussion.\nPRESENTING COMPLAINT: Patient stable, reports mild oily spotting only after high‑fat meals, weight unchanged.\nEXAMINATION: BP 134/80 mmHg, weight 81.0 kg, height 1.58 m => BMI 32.4 (obese). Waist 100 cm. Cardiovascular and respiratory exams normal.\nIMPRESSION: Obesity, BMI class II. Lipids now within target; glucose and HbA1c normal. Orlistat tolerated.\nARRANGEMENTS: Continue orlistat 120 mg TID with meals. Give inactivated influenza vaccine today (01‑Nov‑2025). Advise balanced diet, aim for 150 min weekly walking. Return if new chest pain, breathlessness, fever >39°C, or gastrointestinal bleeding. Asked patient to repeat return‑if list."
+    },
+    {
+      "memory_id": "X0025-m10",
+      "date": "2025-11-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Orlistat 120 mg PO TID with meals. Continue."
+    },
+    {
+      "memory_id": "X0025-m11",
+      "date": "2026-03-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Annual review labs:\nFasting lipid profile: Total cholesterol 185 mg/dL (ref <200), LDL 106 mg/dL (ref <100), HDL 44 mg/dL (ref >40), Triglycerides 130 mg/dL (ref <150).\nFasting glucose 96 mg/dL (ref 70‑99).\nHbA1c 5.5% (ref 4‑5.6%).\nALT 18 U/L, AST 18 U/L, ALP 70 U/L, GGT 24 U/L.\nWaist circumference 99 cm."
+    },
+    {
+      "memory_id": "X0025-m12",
+      "date": "2026-07-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Weight check and lifestyle review.\nPRESENTING COMPLAINT: Patient notes gradual weight increase of about 1.5 kg over last 4 months, feeling more fatigued.\nEXAMINATION: BP 138/86 mmHg, weight 82.5 kg, height 1.58 m => BMI 33.0 (obese). Waist 102 cm. No edema, lungs clear.\nIMPRESSION: Obesity, BMI class II. Weight regain likely due to dietary lapses; labs remain stable.\nARRANGEMENTS: Reinforce orlistat 120 mg TID with meals, strict low‑fat diet, increase activity to brisk walking 30‑40 min daily. Consider reviewing diet with nutritionist if no improvement in 2 months. Return if new joint swelling, severe abdominal pain, vomiting, or fever >39°C. Influenza vaccine not due (outside autumn). Asked patient to repeat return‑if list."
+    },
+    {
+      "memory_id": "X0025-m13",
+      "date": "2026-07-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Orlistat 120 mg PO TID with meals. Continue, review in 2 months."
+    }
+  ]
+}

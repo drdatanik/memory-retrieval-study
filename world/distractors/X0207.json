@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0207",
+  "name": "Asif Pasha",
+  "age": 38,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Insomnia",
+    "Migraine",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0207-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia, migraine, depression. Patient reports difficulty falling asleep, frequent throbbing headaches, low mood, fatigue. Examination: tired appearance, normal vitals, no focal neurology. PHQ-9 12, ISI 18, TSH 4.2, Hb 13.8. Plan: start melatonin, trazodone, propranolol, sumatriptan, topiramate, naproxen, sertraline; educate on sleep hygiene; follow-up in 6 weeks."
+    },
+    {
+      "memory_id": "X0207-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nPropranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nSertraline 50 mg OD"
+    },
+    {
+      "memory_id": "X0207-m03",
+      "date": "2025-04-10",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Penicillin allergy: rash and pruritus within 30 minutes of oral amoxicillin at age 22. Avoid all beta-lactams."
+    },
+    {
+      "memory_id": "X0207-m04",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.1 mIU/L (0.4-4.0) slightly high\nHaemoglobin 13.7 g/dL (13.0-17.0)\nVitamin B12 210 pg/mL (200-900) low-normal"
+    },
+    {
+      "memory_id": "X0207-m05",
+      "date": "2025-06-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Still waking 2-3 times night, headaches 4 days/week, feeling down most days. Melatonin helps a bit but trazodone causes morning grogginess."
+    },
+    {
+      "memory_id": "X0207-m06",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia, migraine, depression. Symptoms: sleep onset latency 45 min, headaches 4/week, PHQ-9 14. Exam unchanged. ISI 20 (borderline). TSH 4.1, Hb 13.7, B12 210. Plan: reduce trazodone to 25 mg HS, add mirtazapine 15 mg HS for sleep and depression, keep sertraline 50 mg OD, continue migraine prophylaxis."
+    },
+    {
+      "memory_id": "X0207-m07",
+      "date": "2025-07-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 HS\nMirtazapine 15 HS\nPropranolol 40 OD\nSumatriptan 50 SOS\nTopiramate 25 HS\nNaproxen 500 SOS\nSertraline 50 OD"
+    },
+    {
+      "memory_id": "X0207-m08",
+      "date": "2025-08-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 3.9 mIU/L (0.4-4.0)\nHaemoglobin 13.8 g/dL (13.0-17.0)\nVitamin B12 225 pg/mL (200-900)"
+    },
+    {
+      "memory_id": "X0207-m09",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Neurological examination: normal cranial nerves, no meningism, normal gait. Non-contrast CT head: no acute bleed, no mass lesion, normal ventricles."
+    },
+    {
+      "memory_id": "X0207-m10",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up pulmonology review booked for 2025-10-12 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0207-m11",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia, migraine, depression. Patient reports improved sleep (latency 20 min), headaches 2/week, mood better. PHQ-9 9, ISI 13. Exam: calm, vitals stable. Plan: continue current meds, consider tapering topiramate if migraine control sustained."
+    },
+    {
+      "memory_id": "X0207-m12",
+      "date": "2025-11-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 HS\nMirtazapine 15 HS\nPropranolol 40 OD\nSumatriptan 50 SOS\nTopiramate 12.5 HS\nNaproxen 500 SOS\nSertraline 50 OD"
+    },
+    {
+      "memory_id": "X0207-m13",
+      "date": "2025-12-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 3.8 mIU/L (0.4-4.0)\nHaemoglobin 13.9 g/dL (13.0-17.0)\nVitamin B12 240 pg/mL (200-900)"
+    },
+    {
+      "memory_id": "X0207-m14",
+      "date": "2026-02-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Sleeping through most nights, only occasional headache, feeling much more energetic and hopeful. Medications well tolerated, no side effects."
+    },
+    {
+      "memory_id": "X0207-m15",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia, migraine, depression. Stable: sleep latency <15 min, headaches <1/week, PHQ-9 6, ISI 9. Exam normal. Plan: maintain regimen, consider gradual sertraline taper after 6 months if remission continues."
+    }
+  ]
+}

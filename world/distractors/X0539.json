@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0539",
+  "name": "Annie D'Souza",
+  "age": 19,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Migraine",
+    "Chronic urticaria",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0539-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine with chronic tension-type features and episodic urticaria. Patient reports throbbing bifrontal headaches 4 days/week, associated photophobia, and daily pruritic wheals on trunk and limbs. Examination: afebrile, BP 118/72, pulse 78, no focal neurology; skin shows scattered wheals, no angioedema. Neurological exam normal. Plan: start prophylactic propranolol, acute sumatriptan, levocetirizine for urticaria, and check vitamin D."
+    },
+    {
+      "memory_id": "X0539-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nLevocetirizine 5 mg OD\nCetirizine 10 mg HS\nCholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD"
+    },
+    {
+      "memory_id": "X0539-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 12 ng/mL (ref 20-50)\nSerum calcium: 8.9 mg/dL (ref 8.5-10.5)\nSerum phosphate: 2.4 mg/dL (ref 2.5-4.5)\nCBC: WBC 6.2 x10^9/L, Hb 13.2 g/dL, platelets 210 x10^9/L, eosinophils 0.4 x10^9/L (5%)\nTSH: 2.1 µIU/mL (ref 0.4-4.0)\nFree T4: 1.2 ng/dL (ref 0.8-1.8)"
+    },
+    {
+      "memory_id": "X0539-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been taking the medicines as prescribed. The hives are much less itchy and I only get a small bump now and then. Headaches still happen about three times a week, sometimes I need sumatriptan. No side effects noticed."
+    },
+    {
+      "memory_id": "X0539-m05",
+      "date": "2025-06-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine: frequency reduced to 2-3 days/week, mild‑moderate intensity, sumatriptan used twice in past month. Urticaria: occasional wheals, no angioedema. Vitamin D still low on recent labs. Examination: vitals stable, skin clear, no neurological deficits. Assessment: migraine partially controlled (ACT score 16), urticaria improving, vitamin D deficiency persistent. Plan: continue propranolol, increase topiramate to 50 mg HS for migraine prophylaxis, keep levocetirizine, continue vitamin D repletion."
+    },
+    {
+      "memory_id": "X0539-m06",
+      "date": "2025-06-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 50 mg HS\nNaproxen 500 mg SOS\nLevocetirizine 5 mg OD\nCetirizine 10 mg HS\nCholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD"
+    },
+    {
+      "memory_id": "X0539-m07",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 28 ng/mL (ref 20-50)\nSerum calcium: 9.2 mg/dL (ref 8.5-10.5)\nSerum phosphate: 2.8 mg/dL (ref 2.5-4.5)\nCBC: WBC 5.9 x10^9/L, Hb 13.0 g/dL, platelets 205 x10^9/L, eosinophils 0.3 x10^9/L (4%)\nTSH: 1.9 µIU/mL (ref 0.4-4.0)\nFree T4: 1.1 ng/dL (ref 0.8-1.8)"
+    },
+    {
+      "memory_id": "X0539-m08",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine: headache days down to 1-2/week, ACT score 20 (well controlled). Urticaria: rare wheals, no distress. Vitamin D now sufficient. Examination: vitals normal, skin clear, no neurological findings. Assessment: migraine well controlled, urticaria controlled, vitamin D replete. Plan: taper high‑dose vitamin D to maintenance 1000 IU OD, reduce topiramate to 25 mg HS due to mild paresthesia, continue propranolol and levocetirizine."
+    },
+    {
+      "memory_id": "X0539-m09",
+      "date": "2025-08-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nLevocetirizine 5 mg OD\nCetirizine 10 mg HS\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0539-m10",
+      "date": "2025-09-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-10-05 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0539-m11",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine: headache frequency 0-1 day/week, sumatriptan used once in past month, ACT score 22 (well controlled). Urticaria: no wheals for 6 weeks. Vitamin D: maintained on 1000 IU OD. Examination: vitals BP 115/70, pulse 76, skin clear, neuro normal. Assessment: migraine well controlled, urticaria in remission, vitamin D adequate. Plan: discontinue topiramate due to persisting tingling, continue propranolol, levocetirizine, sumatriptan SOS, naproxen SOS, vitamin D maintenance."
+    },
+    {
+      "memory_id": "X0539-m12",
+      "date": "2025-10-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 40 mg OD\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS\nLevocetirizine 5 mg OD\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0539-m13",
+      "date": "2026-03-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 32 ng/mL (ref 20-50)\nSerum calcium: 9.3 mg/dL (ref 8.5-10.5)\nSerum phosphate: 2.9 mg/dL (ref 2.5-4.5)\nCBC: WBC 6.0 x10^9/L, Hb 13.1 g/dL, platelets 208 x10^9/L, eosinophils 0.2 x10^9/L (3%)\nTSH: 2.0 µIU/mL (ref 0.4-4.0)\nFree T4: 1.2 ng/dL (ref 0.8-1.8)"
+    },
+    {
+      "memory_id": "X0539-m14",
+      "date": "2026-04-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine: stable, headache <1 day/week, ACT 23. Urticaria: no lesions. Vitamin D: sufficient on maintenance. Examination: vitals BP 112/68, pulse 74, skin clear, neuro normal. Assessment: all conditions well controlled. Plan: consider lowering propranolol to 20 mg OD if hypotension develops, otherwise continue current regimen."
+    },
+    {
+      "memory_id": "X0539-m15",
+      "date": "2026-04-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 20 mg OD\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS\nLevocetirizine 5 mg OD\nCholecalciferol 1000 IU OD"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0083",
+  "name": "Varsha Joshi",
+  "age": 87,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Benign positional vertigo",
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0083-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign positional vertigo and gastro-oesophageal reflux.\nPatient reports recurrent brief spinning episodes on turning head to the right, associated nausea, and heartburn after meals lasting 30‑60 minutes. Examination shows horizontal nystagmus with right‑ward gaze, mild epigastric tenderness, otherwise clear lungs. Spirometry: FEV1 2.8 L (92% predicted), FVC 3.2 L (95%), FEV1/FVC 0.88; unchanged from baseline. Smoking status: never."
+    },
+    {
+      "memory_id": "X0083-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Betahistine 16 mg BD\nMeclizine 25 mg SOS\nPantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0083-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Not detected (negative). Reference range: Negative."
+    },
+    {
+      "memory_id": "X0083-m04",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dix-Hallpike test: Positive for right posterior canal BPPV; torsional up‑beating nystagmus observed."
+    },
+    {
+      "memory_id": "X0083-m05",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Audiometry (pure tone average): Mild high‑frequency hearing loss bilaterally (25‑30 dB at 4‑8 kHz), consistent with presbycusis; speech discrimination >90%."
+    },
+    {
+      "memory_id": "X0083-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign positional vertigo improved; gastro‑oesophageal reflux controlled.\nVertigo episodes now ~1 per month, brief, no spontaneous nystagmus. Heartburn occasional after spicy food, relieved by antacid gel. Spirometry: FEV1 2.9 L (94% predicted), FVC 3.3 L (96%), FEV1/FVC 0.88; change +0.1 L since last visit. Smoking status: never."
+    },
+    {
+      "memory_id": "X0083-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Betahistine 16 mg BD\nMeclizine 25 mg SOS (use only if vertigo)\nPantoprazole 40 mg OD before breakfast\nDomperidone 5 mg BD before meals\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0083-m08",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Not detected (negative). Reference range: Negative."
+    },
+    {
+      "memory_id": "X0083-m09",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Occasional heartburn after eating biryani; I take antacid gel and it helps. No vertigo spells in the past two weeks."
+    },
+    {
+      "memory_id": "X0083-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign positional vertigo stable; gastro‑oesophageal reflux well controlled.\nVertigo rare (<1 episode/month), no associated nausea. Heartburn <1 per week, resolves with pantoprazole. Spirometry: FEV1 2.9 L (94% predicted), FVC 3.3 L (96%), FEV1/FVC 0.88; no change since last visit. Smoking status: never."
+    },
+    {
+      "memory_id": "X0083-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Betahistine 16 mg BD\nMeclizine 25 mg SOS\nPantoprazole 20 mg OD before breakfast\nDomperidone 5 mg BD before meals\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0083-m12",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-05-10 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0083-m13",
+      "date": "2026-05-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign positional vertigo and gastro‑oesophageal reflux unchanged.\nPatient reports no vertigo attacks since last visit; occasional mild heartburn after heavy meals, relieved by antacid gel. Spirometry: FEV1 2.9 L (94% predicted), FVC 3.3 L (96%), FEV1/FVC 0.88; stable. Smoking status: never."
+    },
+    {
+      "memory_id": "X0083-m14",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Not detected (negative). Reference range: Negative."
+    }
+  ]
+}

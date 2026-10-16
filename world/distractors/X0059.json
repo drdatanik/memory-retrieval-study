@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0059",
+  "name": "Kaushik Sen",
+  "age": 68,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Psoriasis",
+    "Insomnia",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0059-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis, insomnia, COPD. Patient reports mild scalp plaques, difficulty sleeping, and exertional dyspnea on walking uphill. Examination shows erythematous scaly plaques on elbows and knees, mild wheeze bilaterally, BMI 27. Spirometry performed today shows FEV1 1.45 L (55% predicted), FVC 2.60 L (78% predicted), FEV1/FVC 0.56. Smoking status: former, stopped 2010, 20 pack-years."
+    },
+    {
+      "memory_id": "X0059-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Clobetasol 0.05% cream apply BD to affected areas; Calcipotriol ointment apply OD to plaques; Methotrexate 7.5 mg PO once weekly with Folic acid 5 mg OD; Melatonin 3 mg HS; Trazodone 50 mg HS; Tiotropium inhaler OD (18 mcg); Salbutamol inhaler SOS (2 puffs as needed); Budesonide-formoterol 200/6 inhaler BD (2 puffs BD)."
+    },
+    {
+      "memory_id": "X0059-m03",
+      "date": "2025-04-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 28 U/L (≤40), AST 26 U/L (≤40), ALP 84 U/L (30-120), GGT 32 U/L (≤50), Total bilirubin 0.9 mg/dL (0.2-1.2). CBC: Hb 13.8 g/dL (13-17), WBC 6.2 x10^9/L (4-10), Plt 210 x10^9/L (150-400). Creatinine 0.92 mg/dL (0.6-1.2). TSH 2.1 mIU/L (0.4-4.0)."
+    },
+    {
+      "memory_id": "X0059-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry (post‑bronchodilator): FEV1 1.48 L (56% predicted), FVC 2.62 L (79% predicted), FEV1/FVC 0.56. No significant reversibility (<12% change)."
+    },
+    {
+      "memory_id": "X0059-m05",
+      "date": "2025-04-07",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Insomnia Severity Index score 14 (moderate insomnia). Taking melatonin and trazodone helps a little; still wake 2‑3 times night."
+    },
+    {
+      "memory_id": "X0059-m06",
+      "date": "2025-05-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-05-20 at 10:00 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0059-m07",
+      "date": "2025-05-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis stable, slight improvement of plaques. Insomnia improved, reports sleeping 5‑6 hours. COPD: mild increase in wheeze, uses salbutamol 2‑3 times/day. LFT shows ALT 45 U/L (mild rise). Inhaler technique checked: correct for tiotropium and budesonide‑formoterol. Plan: reduce methotrexate to 5 mg weekly, continue folic acid; continue other meds; advise salbutamol SOS only if needed."
+    },
+    {
+      "memory_id": "X0059-m08",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Clobetasol 0.05% cream BD; Calcipotriol ointment OD; Methotrexate 5 mg PO once weekly with Folic acid 5 mg OD; Melatonin 3 mg HS; Trazodone 50 mg HS; Tiotropium inhaler OD; Salbutamol inhaler SOS; Budesonide-formoterol 200/6 inhaler BD."
+    },
+    {
+      "memory_id": "X0059-m09",
+      "date": "2025-05-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 42 U/L (≤40), AST 27 U/L, ALP 86, GGT 33, Bilirubin 0.9. CBC: Hb 13.6, WBC 6.0, Plt 205. Creatinine 0.90."
+    },
+    {
+      "memory_id": "X0059-m10",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis: plaques faint, minimal scaling. Insomnia: reports sleeping 6‑7 hours, ISI score 9 (mild). COPD: dyspnea on stairs only, uses salbutamol once daily. Spirometry: FEV1 1.55 L (59% predicted, +0.07 L since last), FVC 2.68 L (81% predicted), FEV1/FVC 0.58. Inhaler technique checked: correct. Smoking status unchanged."
+    },
+    {
+      "memory_id": "X0059-m11",
+      "date": "2025-08-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Clobetasol 0.05% cream BD; Calcipotriol ointment OD; Methotrexate 5 mg PO once weekly with Folic acid 5 mg OD; Melatonin 3 mg HS; Trazodone 50 mg HS; Tiotropium inhaler OD; Salbutamol inhaler SOS; Budesonide-formoterol 200/6 inhaler BD."
+    },
+    {
+      "memory_id": "X0059-m12",
+      "date": "2025-08-12",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X‑ray: lungs hyperinflated, flattened diaphragms, no focal consolidation, no pleural effusion. Cardiac silhouette within normal limits."
+    },
+    {
+      "memory_id": "X0059-m13",
+      "date": "2025-08-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4-4.0). Hb 13.7 g/dL (13-17)."
+    },
+    {
+      "memory_id": "X0059-m14",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Mild COPD exacerbation: increased cough, wheeze, SpO2 90% on room air (baseline 94%). Uses salbutamol 4‑5 times/day. Psoriasis unchanged. Insomnia well controlled (ISI 6). Inhaler technique checked: correct. Prescribed short course oral prednisolone 40 mg daily for 5 days, then continue usual inhaled therapy."
+    },
+    {
+      "memory_id": "X0059-m15",
+      "date": "2025-11-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Clobetasol 0.05% cream BD; Calcipotriol ointment OD; Methotrexate 5 mg PO once weekly with Folic acid 5 mg OD; Melatonin 3 mg HS; Trazodone 50 mg HS; Tiotropium inhaler OD; Salbutamol inhaler SOS; Budesonide-formoterol 200/6 inhaler BD; Prednisolone 40 mg PO daily for 5 days."
+    },
+    {
+      "memory_id": "X0059-m16",
+      "date": "2025-11-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 30 U/L (≤40), AST 24 U/L, ALP 82, GGT 31, Bilirubin 0.8. CBC: Hb 13.5, WBC 5.8, Plt 200. Creatinine 0.88."
+    },
+    {
+      "memory_id": "X0059-m17",
+      "date": "2026-04-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Annual review. Psoriasis: clear skin, occasional mild itch. Insomnia: ISI 5 (normal). COPD: stable dyspnea on exertion, SpO2 94% at rest. Spirometry: FEV1 1.58 L (60% predicted, +0.03 L since last), FVC 2.70 L (82% predicted), FEV1/FVC 0.59. Inhaler technique checked: correct. Smoking status: former, stopped 2010, 20 pack-years."
+    },
+    {
+      "memory_id": "X0059-m18",
+      "date": "2026-04-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Clobetasol 0.05% cream BD; Calcipotriol ointment OD; Methotrexate 5 mg PO once weekly with Folic acid 5 mg OD; Melatonin 3 mg HS; Trazodone 50 mg HS; Tiotropium inhaler OD; Salbutamol inhaler SOS; Budesonide-formoterol 200/6 inhaler BD."
+    }
+  ]
+}

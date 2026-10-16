@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0149",
+  "name": "Jyoti Modi",
+  "age": 84,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0149-m01",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I’ve been having crampy abdominal pain after meals, alternating diarrhoea and constipation for the past 3 months. I also feel tired and have noticed some tingling in my feet. I work long hours at the jewellery shop and sometimes skip meals.\""
+    },
+    {
+      "memory_id": "X0149-m02",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "84-year-old woman with abdominal discomfort and fatigue.\nPRESENTING COMPLAINT: She reports crampy lower abdominal pain after eating, alternating loose stools and constipation, plus fatigue and mild foot tingling.\nEXAMINATION: BP 138/84 mmHg, weight 55 kg, height 1.55 m, BMI 22.9 (normal). Abdomen soft, mild tenderness in left lower quadrant, no masses. Neurological exam shows mild decreased sensation to vibration in both great toes.\nIMPRESSION: Irritable bowel syndrome, likely diarrhoea-predominant. Vitamin B12 deficiency suspected given fatigue and tingling.\nARRANGEMENTS: Start mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS for diarrhoea. Start methylcobalamin 1500 mcg OD. Order CBC, stool routine, tTG-IgA, serum B12 and MCV. Return if: worsening pain, blood in stools, fever >39°C, vomiting, or new neurological symptoms."
+    },
+    {
+      "memory_id": "X0149-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\nmethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0149-m04",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 11.2 g/dL (12-16), MCV 98 fL (80-100), WBC 6.2 x10^9/L (4-11), Plt 210 x10^9/L (150-400).\nSerum vitamin B12: 150 pg/mL (200-900).\ntTG-IgA: negative (<4 U/mL).\nStool routine: no ova, cysts, or occult blood."
+    },
+    {
+      "memory_id": "X0149-m05",
+      "date": "2025-05-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-05-10 at 10:30 with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0149-m06",
+      "date": "2025-05-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "84-year-old woman reviewing IBS and B12 therapy.\nPRESENTING COMPLAINT: Abdominal pain improved, occasional loose stools; fatigue less, tingling unchanged.\nEXAMINATION: BP 136/82 mmHg, weight 55 kg, BMI 22.9. Abdomen benign, no tenderness.\nIMPRESSION: IBS partially controlled. B12 still low despite supplementation.\nARRANGEMENTS: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide PRN. Increase methylcobalamin to 2500 mcg OD. Recheck B12 in 8 weeks. Return if: severe constipation, rectal bleeding, fever >39°C, or worsening neuropathy."
+    },
+    {
+      "memory_id": "X0149-m07",
+      "date": "2025-05-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\nmethylcobalamin 2500 mcg OD"
+    },
+    {
+      "memory_id": "X0149-m08",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 340 pg/mL (200-900).\nMCV: 92 fL (80-100).\nHb: 12.0 g/dL (12-16).\nCBC otherwise normal."
+    },
+    {
+      "memory_id": "X0149-m09",
+      "date": "2025-08-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "84-year-old woman with improved B12 levels.\nPRESENTING COMPLAINT: Mild abdominal bloating after meals, no diarrhoea; energy better, tingling resolved.\nEXAMINATION: BP 134/80 mmHg, weight 55 kg, BMI 22.9. Abdomen soft, mild fullness.\nIMPRESSION: IBS symptoms mild; B12 deficiency corrected.\nARRANGEMENTS: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide SOS only if needed. Reduce methylcobalamin to 1500 mcg OD maintenance. Return if: worsening bloating, constipation >3 days, rectal bleeding, fever >39°C."
+    },
+    {
+      "memory_id": "X0149-m10",
+      "date": "2025-08-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS\nmethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0149-m11",
+      "date": "2025-11-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "84-year-old woman for annual review.\nPRESENTING COMPLAINT: Occasional mild abdominal discomfort, bowel pattern regular; no fatigue.\nEXAMINATION: BP 132/78 mmHg, weight 56 kg, BMI 23.3 (overweight per Asian cut‑off). Advised on reduced refined carbs and daily walk.\nIMPRESSION: IBS stable. Vitamin B12 adequate. Overweight.\nARRANGEMENTS: Continue current IBS meds. Order fasting lipid profile and fasting blood sugar. Influenza vaccine given today 2025-10-20. Return if: chest pain, breathlessness, fever >39°C, black/tarry stools, or sudden weight loss."
+    },
+    {
+      "memory_id": "X0149-m12",
+      "date": "2025-11-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose: 92 mg/dL (70-99).\nLipid profile: Total cholesterol 192 mg/dL (<200), HDL 48 mg/dL (>40), LDL 112 mg/dL (<130), Triglycerides 138 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0149-m13",
+      "date": "2026-02-14",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "84-year-old woman mid‑year check.\nPRESENTING COMPLAINT: Reports occasional constipation, hard stools, feeling bloated.\nEXAMINATION: BP 130/76 mmHg, weight 56 kg, BMI 23.3. Abdomen mildly tender in left lower quadrant, no masses.\nIMPRESSION: IBS with constipation predominance.\nARRANGEMENTS: Stop loperamide (risk of worsening constipation). Increase ispaghula husk to 10 g OD. Keep mebeverine 135 mg BD. Continue methylcobalamin 1500 mcg OD. Return if: severe constipation with vomiting, rectal bleeding, fever >39°C, or sudden weight loss."
+    },
+    {
+      "memory_id": "X0149-m14",
+      "date": "2026-02-14",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg BD\nispaghula husk 10 g OD\nmethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0149-m15",
+      "date": "2026-06-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 410 pg/mL (200-900).\nMCV: 90 fL (80-100).\nHb: 12.8 g/dL (12-16).\nCBC normal."
+    },
+    {
+      "memory_id": "X0149-m16",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "84-year-old woman final visit within study period.\nPRESENTING COMPLAINT: No abdominal pain, regular bowel movements, good energy.\nEXAMINATION: BP 128/74 mmHg, weight 55 kg, BMI 22.9. Abdomen benign.\nIMPRESSION: IBS well controlled, B12 sufficient, weight normal.\nARRANGEMENTS: Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, methylcobalamin 1500 mcg OD. Influenza vaccine due; offer for autumn 2026. Return if: new abdominal pain, bleeding, fever >39°C, or worsening neuropathy."
+    }
+  ]
+}

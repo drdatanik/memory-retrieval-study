@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0133",
+  "name": "Manjeet Sandhu",
+  "age": 72,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Hypothyroidism",
+    "Allergic rhinitis",
+    "Heart failure with reduced ejection fraction"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0133-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: initial assessment of hypothyroidism, allergic rhinitis and heart failure with reduced EF.\nPRESENTING COMPLAINT: Patient reports fatigue, mild dyspnoea on exertion, nasal congestion and occasional sneezing.\nEXAMINATION: BP 138/84 mmHg, weight 62 kg, height 1.58 m, BMI 24.8 (overweight). JVP not elevated, lungs clear, cardiac rhythm regular, S1S2 normal, no murmurs, abdomen soft, no edema.\nIMPRESSION: 1) Hypothyroidism – TSH to be checked. 2) Allergic rhinitis – symptomatic. 3) Heart failure with reduced EF – NYHA class II. 4) Overweight – advise diet and activity.\nARRANGEMENTS: Start levothyroxine 50 mcg OD, cetirizine 10 mg HS, fluticasone nasal spray 1 spray each nostril OD, montelukast 10 mg HS. Initiate sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD, furosemide 40 mg OD, dapagliflozin 10 mg OD. Order TSH, free T4, lipid profile, fasting glucose, serum K, creatinine, NT-proBNP and echocardiogram. Return if chest pain, worsening dyspnoea, fever >39°C, palpitations or sudden weight gain."
+    },
+    {
+      "memory_id": "X0133-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 50 mcg OD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nSacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg OD\nFurosemide 40 mg OD\nDapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0133-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (0.4-4.0) – slightly high\nFree T4 11.2 pmol/L (12-22) – low\nTotal cholesterol 5.6 mmol/L (<5.2) – borderline\nLDL 3.4 mmol/L (<2.6) – high\nHDL 1.2 mmol/L (>1.0) – normal\nTriglycerides 1.8 mmol/L (<1.7) – slightly high\nFasting glucose 6.1 mmol/L (3.9-5.6) – impaired\nSerum potassium 4.5 mmol/L (3.5-5.0) – normal\nSerum creatinine 88 µmol/L (60-110) – normal\nNT-proBNP 312 pg/mL (<125) – elevated"
+    },
+    {
+      "memory_id": "X0133-m04",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Echocardiogram: Left ventricular ejection fraction 38% (normal >50). Left atrial diameter 3.8 cm. Mild mitral regurgitation. No significant aortic stenosis. NYHA class II consistent with symptoms."
+    },
+    {
+      "memory_id": "X0133-m05",
+      "date": "2025-04-10",
+      "type": "allergy",
+      "author": "D03",
+      "text": "Allergy to seasonal pollen – allergic rhinitis with sneezing, nasal congestion, itchy eyes."
+    },
+    {
+      "memory_id": "X0133-m06",
+      "date": "2025-04-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 09:30 with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0133-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up, review of thyroid and heart failure status.\nPRESENTING COMPLAINT: Patient feels better, less fatigue, nasal symptoms controlled with cetirizine. No new dyspnoea.\nEXAMINATION: BP 132/80 mmHg, weight 61.5 kg, BMI 24.6 (overweight). No edema, JVP normal, lungs clear.\nIMPRESSION: 1) Hypothyroidism – TSH improved but still slightly high; increase levothyroxine. 2) Allergic rhinitis – well controlled. 3) Heart failure – stable, EF unchanged. 4) Overweight – reinforce diet and activity.\nARRANGEMENTS: Increase levothyroxine to 75 mcg OD. Continue other meds. Repeat TSH, free T4, lipid panel, fasting glucose, K, creatinine, NT-proBNP. Return if worsening dyspnoea, chest pain, palpitations, fever >39°C or sudden weight gain."
+    },
+    {
+      "memory_id": "X0133-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 75 mcg OD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nSacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg OD\nFurosemide 40 mg OD\nDapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0133-m09",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 3.8 mIU/L (0.4-4.0) – now within range\nFree T4 13.5 pmol/L (12-22) – normal\nTotal cholesterol 5.4 mmol/L (<5.2) – slightly high\nLDL 3.2 mmol/L (<2.6) – high\nHDL 1.3 mmol/L (>1.0) – normal\nTriglycerides 1.7 mmol/L (<1.7) – at upper limit\nFasting glucose 5.9 mmol/L (3.9-5.6) – impaired but improved\nSerum potassium 4.4 mmol/L (3.5-5.0) – normal\nSerum creatinine 86 µmol/L (60-110) – normal\nNT-proBNP 260 pg/mL (<125) – still elevated but down"
+    },
+    {
+      "memory_id": "X0133-m10",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed my ankles feel a bit tighter after long days at the shop, but no pain. My nose is much better with the spray and tablet."
+    },
+    {
+      "memory_id": "X0133-m11",
+      "date": "2025-09-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: increased ankle swelling and slight weight gain.\nPRESENTING COMPLAINT: Patient reports 2‑kg weight gain over past month, bilateral ankle swelling, mild dyspnoea on walking uphill.\nEXAMINATION: BP 138/86 mmHg, weight 63.5 kg, BMI 25.4 (obese). Mild pitting edema up to mid‑calf bilaterally, JVP not elevated, lungs clear.\nIMPRESSION: 1) Hypothyroidism – TSH stable on current dose. 2) Allergic rhinitis – controlled. 3) Heart failure – fluid retention suggestive of worsening; consider diuretic increase. 4) Obese – reinforce diet, activity, consider weight‑loss referral.\nARRANGEMENTS: Increase furosemide to 60 mg OD, add spironolactone 25 mg BD (total 50 mg OD). Continue other meds. Order repeat electrolytes, creatinine, NT-proBNP, lipid profile and fasting glucose. Return if sudden weight gain >2 kg in 3 days, dyspnoea at rest, chest pain, or fever >39°C."
+    },
+    {
+      "memory_id": "X0133-m12",
+      "date": "2025-09-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 75 mcg OD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nSacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg BD\nFurosemide 60 mg OD\nDapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0133-m13",
+      "date": "2025-09-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.0 mIU/L (0.4-4.0) – at upper limit\nFree T4 12.8 pmol/L (12-22) – normal\nTotal cholesterol 5.5 mmol/L (<5.2) – slightly high\nLDL 3.3 mmol/L (<2.6) – high\nHDL 1.2 mmol/L (>1.0) – normal\nTriglycerides 1.9 mmol/L (<1.7) – high\nFasting glucose 6.2 mmol/L (3.9-5.6) – impaired\nSerum potassium 4.6 mmol/L (3.5-5.0) – normal\nSerum creatinine 90 µmol/L (60-110) – normal\nNT-proBNP 340 pg/mL (<125) – elevated, consistent with fluid retention"
+    },
+    {
+      "memory_id": "X0133-m14",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original follow‑up moved from 2025-01-10 to an earlier date 2025-09-20 at 10:00 due to increased ankle swelling reported by patient."
+    }
+  ]
+}

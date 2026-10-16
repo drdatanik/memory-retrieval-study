@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0157",
+  "name": "Shaheen Syed",
+  "age": 20,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Vitamin D deficiency",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0157-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 20‑year‑old female tailor reports fatigue, occasional shortness of breath on climbing stairs, and mild wheeze at night for past month. She has known asthma since childhood, currently using salbutamol inhaler as needed. No fever or chest pain.\nEXAMINATION: Vital signs: BP 110/70 mmHg, weight 48 kg, height 158 cm, BMI 19.2 (normal). Respiratory rate 18/min, mild expiratory wheeze bilaterally, no use of accessory muscles. Cardiovascular and abdominal exams normal.\nIMPRESSION: Fatigue likely related to vitamin D deficiency; asthma symptoms mild but warrant review of controller therapy.\nARRANGEMENTS: Order serum 25‑hydroxyvitamin D, calcium, phosphate. Continue salbutamol MDI SOS, start budesonide‑formoterol 200/6 inhaler two puffs BD, montelukast 10 mg HS. Initiate cholecalciferol 60,000 IU once weekly for 8 weeks then 1000 IU daily. Advise on balanced diet, sunlight exposure, and regular aerobic activity. Return if worsening dyspnoea, night symptoms increase, fever >38.5°C, or chest pain."
+    },
+    {
+      "memory_id": "X0157-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD\nBudesonide‑formoterol 200/6 inhaler 2 puffs BD\nMontelukast 10 mg HS\nSalbutamol MDI 2 puffs SOS"
+    },
+    {
+      "memory_id": "X0157-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 14 ng/mL (ref 30‑100)\nSerum calcium: 9.1 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 3.0 mg/dL (ref 2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0157-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports improved energy, less fatigue. Occasional mild wheeze after exertion, night symptoms minimal. Adheres to vitamin D loading course (last dose 2 weeks ago).\nEXAMINATION: BP 108/68 mmHg, weight 47.5 kg, BMI 19.0 (normal). Respiratory exam: clear lungs, occasional faint wheeze at lung bases, no distress.\nIMPRESSION: Vitamin D deficiency correcting; asthma well‑controlled on current controller.\nARRANGEMENTS: Repeat vitamin D level in 4 weeks. Continue budesonide‑formoterol 200/6 inhaler BD, montelukast 10 mg HS, salbutamol SOS. Switch vitamin D to maintenance 1000 IU OD after completing loading course. Advise maintain activity, weight‑bearing exercise. Return if worsening wheeze, night symptoms >2/week, or new chest tightness."
+    },
+    {
+      "memory_id": "X0157-m05",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cholecalciferol 1000 IU OD\nBudesonide‑formoterol 200/6 inhaler 2 puffs BD\nMontelukast 10 mg HS\nSalbutamol MDI 2 puffs SOS"
+    },
+    {
+      "memory_id": "X0157-m06",
+      "date": "2025-10-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry with reversibility: FEV1 2.85 L (92% predicted), FVC 3.40 L (95% predicted), FEV1/FVC 84%. Post‑bronchodilator FEV1 increase 12% (0.34 L) indicating reversible airway obstruction consistent with asthma. Asthma Control Test score 22/25 (well controlled)."
+    },
+    {
+      "memory_id": "X0157-m07",
+      "date": "2025-10-07",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient returns for review of spirometry results. She feels well, no limitation in daily tailoring work.\nEXAMINATION: BP 110/70 mmHg, weight 48 kg, BMI 19.1 (normal). Respiratory: clear to auscultation, no wheeze.\nIMPRESSION: Spirometry shows normal lung function with reversible component; asthma well controlled. Vitamin D maintenance ongoing.\nARRANGEMENTS: Continue current asthma regimen. No change to vitamin D dose. Encourage annual flu vaccine due to chronic asthma. Return if increased rescue inhaler use >2 times/week, night symptoms, or peak flow drop >20%."
+    },
+    {
+      "memory_id": "X0157-m08",
+      "date": "2025-10-09",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Budesonide‑formoterol 200/6 inhaler 2 puffs BD\nMontelukast 10 mg HS\nSalbutamol MDI 2 puffs SOS\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0157-m09",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘Over the past week I’ve noticed tightness in my chest after walking to the market and I need my salbutamol inhaler three times a day. My usual inhaler isn’t helping as much.’"
+    },
+    {
+      "memory_id": "X0157-m10",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports increased chest tightness and wheeze over past 5 days, using salbutamol 3‑4 times daily. Night symptoms present, affecting sleep. No fever.\nEXAMINATION: BP 112/72 mmHg, weight 48.2 kg, BMI 19.3 (normal). Respiratory: diffuse expiratory wheeze, mild use of accessory muscles, SpO2 94% on room air.\nIMPRESSION: Acute asthma exacerbation, likely triggered by seasonal change. Vitamin D levels adequate.\nARRANGEMENTS: Prescribe oral prednisolone 40 mg daily for 5 days, then taper. Increase budesonide‑formoterol to 2 puffs BD (already) and add a short course of high‑dose ICS if needed. Continue montelukast 10 mg HS, salbutamol SOS. Advise avoid known triggers, use spacer. Return immediately if worsening dyspnoea, inability to speak in full sentences, lips cyanotic, or SpO2 <90%."
+    },
+    {
+      "memory_id": "X0157-m11",
+      "date": "2026-02-03",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Prednisolone 40 mg OD for 5 days\nBudesonide‑formoterol 200/6 inhaler 2 puffs BD\nMontelukast 10 mg HS\nSalbutamol MDI 2 puffs SOS\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0157-m12",
+      "date": "2026-02-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 32 ng/mL (ref 30‑100)\nSerum calcium: 9.3 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 3.8 mg/dL (ref 2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0157-m13",
+      "date": "2026-04-20",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr S. K. Rao, Pulmonologist, Jayanagar Chest Clinic, for evaluation of persistent asthma symptoms despite optimal therapy. Please assess inhaler technique, consider biologic therapy, and provide updated action plan."
+    },
+    {
+      "memory_id": "X0157-m14",
+      "date": "2026-05-10",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Pulmonologist review: Inhaler technique good, asthma classified as moderate persistent. Recommends continuing budesonide‑formoterol BD, adding tiotropium inhaler 2 puffs OD as add‑on, and monitoring with FeNO. No biologics indicated at this time. Provided written asthma action plan."
+    },
+    {
+      "memory_id": "X0157-m15",
+      "date": "2026-07-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via app: ‘Following the pulmonologist’s advice I started tiotropium inhaler and my night symptoms have improved. I still use salbutamol only before heavy work.’"
+    },
+    {
+      "memory_id": "X0157-m16",
+      "date": "2026-09-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports good control, using salbutamol <2 times/week, no night symptoms. Able to work full days as tailor.\nEXAMINATION: BP 109/68 mmHg, weight 48 kg, BMI 19.1 (normal). Respiratory: clear lungs, no wheeze.\nIMPRESSION: Asthma well controlled on current regimen (budesonide‑formoterol BD, montelukast HS, tiotropium OD, salbutamol SOS). Vitamin D maintenance adequate.\nARRANGEMENTS: Continue current meds. Review inhaler technique annually. Offer influenza vaccine today due to chronic asthma. Return if exacerbation, peak flow drop >20%, or new symptoms."
+    },
+    {
+      "memory_id": "X0157-m17",
+      "date": "2026-09-07",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Budesonide‑formoterol 200/6 inhaler 2 puffs BD\nMontelukast 10 mg HS\nTiotropium inhaler 2 puffs OD\nSalbutamol MDI 2 puffs SOS\nCholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0157-m18",
+      "date": "2026-09-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for influenza vaccination on 2026-10-15 at 10:00 AM with Dr Priya Natarajan (D03). Patient to bring vaccine consent form."
+    }
+  ]
+}

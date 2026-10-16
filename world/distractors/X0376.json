@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0376",
+  "name": "Razia Sheikh",
+  "age": 59,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0376-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, manages florist shop, walks to market without aid.\ncognition: Mini-Cog 3/5 (recall 2 items, clock draw normal) – negative screen.\nfalls: no falls in last 12 months, gait steady, timed up-and-go 9 seconds – normal.\nmedicines: 0 regular (new patient).\nmood: reports occasional frustration with bloating, denies depression.\ncarers: daughter Priya, lives nearby.\ngoal: \"I want to stay active at work and enjoy my garden without tummy trouble.\""
+    },
+    {
+      "memory_id": "X0376-m02",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.2 g/dl (12-16), WBC 6.8 x10^9/l (4-10), Plt 210 x10^9/l (150-400).\nStool routine: ova/cyst nil, pus cells 0-1/hpf, negative for occult blood.\ntTG-IgA: 4 U/ml (<7 negative)."
+    },
+    {
+      "memory_id": "X0376-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "mebeverine 135 mg tablet BD\nispaghula husk 5 g powder OD\nloperamide 2 mg capsule SOS max 8/24h\ntiotropium inhaler 18 mcg OD\nsalbutamol inhaler 100 mcg SOS\nbudesonide-formoterol 200/6 mcg inhaler BD"
+    },
+    {
+      "memory_id": "X0376-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues florist work, notes mild abdominal discomfort after heavy lifting.\ncognition: Mini-Cog 3/5 – stable.\nfalls: no falls, gait normal, TUG 9 seconds.\nmedicines: 6 regular (mebeverine, ispaghula, tiotropium, salbutamol, budesonide-formoterol, loperamide PRN). Polypharmacy – request review against Beers.\nmood: reports occasional low mood linked to symptom flare.\ncarers: daughter Priya.\ngoal: \"I’d like fewer days with bloating so I can keep up with orders.\""
+    },
+    {
+      "memory_id": "X0376-m05",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.0 g/dl, WBC 7.0, Plt 205.\ntTG-IgA: 5 U/ml (negative)."
+    },
+    {
+      "memory_id": "X0376-m06",
+      "date": "2025-07-12",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Spirometry: FEV1 1.68 L (55% pred), FVC 2.90 L (78% pred), FEV1/FVC 0.58 (<0.70) – consistent with moderate COPD.\nNo significant bronchodilator response."
+    },
+    {
+      "memory_id": "X0376-m07",
+      "date": "2025-07-13",
+      "type": "prescription",
+      "author": "D06",
+      "text": "tiotropium inhaler 18 mcg OD (unchanged)\nsalbutamol inhaler 100 mcg SOS\nbudesonide-formoterol 200/6 mcg inhaler BD (increase to 2 puffs BD)\nmebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0376-m08",
+      "date": "2025-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-10-15 at 10:30 with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0376-m09",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports good energy, occasional shortness of breath on climbing stairs.\ncognition: Mini-Cog 3/5 – stable.\nfalls: no falls, gait slightly slower, TUG 10 seconds.\nmedicines: 6 regular (mebeverine, ispaghula, tiotropium, salbutamol, budesonide-formoterol, loperamide PRN). Polypharmacy – note Beers review pending.\nmood: denies depression, reports occasional anxiety about breathlessness.\ncarers: daughter Priya.\ngoal: \"I want to walk to the market without stopping for breath.\""
+    },
+    {
+      "memory_id": "X0376-m10",
+      "date": "2025-10-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.8 g/dl, WBC 6.9, Plt 200.\nStool routine: normal flora, no ova/cysts, occult blood negative."
+    },
+    {
+      "memory_id": "X0376-m11",
+      "date": "2025-10-17",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Chest X-ray: lungs hyperinflated, flattened diaphragms, no focal consolidation or pleural effusion. Cardiac size within normal limits."
+    },
+    {
+      "memory_id": "X0376-m12",
+      "date": "2025-10-18",
+      "type": "prescription",
+      "author": "D06",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\nloperamide discontinued (no SOS needed)\ntiotropium inhaler 18 mcg OD\nsalbutamol inhaler 100 mcg SOS\nbudesonide-formoterol 200/6 mcg inhaler BD (2 puffs BD)"
+    },
+    {
+      "memory_id": "X0376-m13",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: manages shop, occasional fatigue after long days.\ncognition: Mini-Cog 3/5 – stable; annual screen due.\nfalls: no falls, gait steady, TUG 9 seconds.\nmedicines: 5 regular (mebeverine, ispaghula, tiotropium, salbutamol, budesonide-formoterol). Polypharmacy threshold met – recommend Beers review.\nmood: reports feeling low on rainy days, denies hopelessness.\ncarers: daughter Priya.\ngoal: \"I’d like to keep my energy steady through the week.\""
+    },
+    {
+      "memory_id": "X0376-m14",
+      "date": "2026-01-21",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.9 g/dl, WBC 7.1, Plt 202.\ntTG-IgA: 6 U/ml (still negative)."
+    },
+    {
+      "memory_id": "X0376-m15",
+      "date": "2026-01-22",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Repeat spirometry: FEV1 1.72 L (56% pred), FVC 2.95 L (80% pred), FEV1/FVC 0.58 – unchanged moderate COPD.\nNo significant change from prior."
+    },
+    {
+      "memory_id": "X0376-m16",
+      "date": "2026-01-23",
+      "type": "prescription",
+      "author": "D06",
+      "text": "mebeverine 135 mg BD\nispaghula husk 5 g OD\ntiotropium inhaler 18 mcg OD\nsalbutamol inhaler 100 mcg SOS\nbudesonide-formoterol 200/6 mcg inhaler BD (2 puffs BD)\nadd: roflumilast 500 mg OD (for COPD exacerbation prevention)"
+    },
+    {
+      "memory_id": "X0376-m17",
+      "date": "2026-06-30",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘Doctor, my bloating has worsened over the past week, especially after eating out. I’ve been taking mebeverine regularly but it doesn’t help as much. Also I feel a bit wheezy after walking to the market.’"
+    },
+    {
+      "memory_id": "X0376-m18",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild abdominal discomfort after meals, manages shop with occasional rest.\ncognition: Mini-Cog 3/5 – stable; annual screen negative.\nfalls: no falls in last year, gait slightly antalgic, TUG 11 seconds – borderline risk; advise strengthening exercises and supportive footwear.\nmedicines: 6 regular (mebeverine, ispaghula, tiotropium, salbutamol, budesonide-formoterol, roflumilast). Polypharmacy – Beers review recommended.\nmood: denies depression, notes frustration with GI symptoms.\ncarers: daughter Priya.\ngoal: \"I want to enjoy my florist work without worrying about my stomach or breathing.\""
+    }
+  ]
+}

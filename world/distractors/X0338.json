@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0338",
+  "name": "Stephen Abraham",
+  "age": 90,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Migraine",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0338-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine\n- Status: Patient reports 4-5 headache days per month, moderate intensity, responds partially to sumatriptan SOS.\n- Plan: Continue propranolol 40 mg OD for prevention; advise sumatriptan 50 mg SOS max 2 doses/24h; consider topiramate 25 mg HS if needed.\nIrritable bowel syndrome\n- Status: Abdominal pain 2-3 days/week, bloating, alternating constipation/diarrhea; currently on mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS.\n- Plan: Continue current regimen; advise regular fluid intake and low‑FODMAP diet trial.\nWeight 68 kg, waist 92 cm (above male cut‑off 90 cm). Advise reduced saturated fat, increase walking.\nDue: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0338-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 40 mg 1-0-0 after food; Sumatriptan 50 mg SOS after food; Topiramate 25 mg 0-0-1 after food; Mebeverine 135 mg 1-0-1 after food; Ispaghula husk 5 g 1-0-0 with water; Loperamide 2 mg SOS after food."
+    },
+    {
+      "memory_id": "X0338-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hemoglobin 13.8 g/dl (13.0‑17.0); WBC 6.2 ×10⁹/l (4.0‑10.0); Platelets 210 ×10⁹/l (150‑400)."
+    },
+    {
+      "memory_id": "X0338-m04",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Stool routine: Colour brown, consistency formed, pus cells 0‑1/hpf, RBC 0‑1/hpf, no ova or cysts."
+    },
+    {
+      "memory_id": "X0338-m05",
+      "date": "2025-04-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "tTG‑IgA: <4 U/ml (negative <7)."
+    },
+    {
+      "memory_id": "X0338-m06",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Neurological examination: No focal deficits, normal gait, mild bilateral temporal tenderness, otherwise normal."
+    },
+    {
+      "memory_id": "X0338-m07",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D04",
+      "text": "CT head (non‑contrast): No acute infarct, hemorrhage or mass; ventricles normal size; reported as normal."
+    },
+    {
+      "memory_id": "X0338-m08",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine\n- Status: Headache days reduced to 2‑3/month; sumatriptan used ≤2 times/week; mild scalp tenderness.\n- Plan: Continue propranolol 40 mg OD; increase topiramate to 50 mg HS; keep sumatriptan SOS.\nIrritable bowel syndrome\n- Status: Pain 1‑2 days/week, bloating less; stool pattern improved with ispaghula.\n- Plan: Continue mebeverine 135 mg BD; reduce loperamide to SOS only; maintain ispaghula husk 5 g OD.\nWeight 67 kg, waist 90 cm (at cut‑off). Advise maintain activity.\nDue: HbA1c 2025-10-10."
+    },
+    {
+      "memory_id": "X0338-m09",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 40 mg 1-0-0 after food; Topiramate 50 mg 0-0-1 after food; Sumatriptan 50 mg SOS after food; Mebeverine 135 mg 1-0-1 after food; Ispaghula husk 5 g 1-0-0 with water; Loperamide 2 mg SOS after food."
+    },
+    {
+      "memory_id": "X0338-m10",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.0 % (4.0‑5.6); Total cholesterol 190 mg/dl (<200); HDL 45 mg/dl (>40); LDL 110 mg/dl (<130); Triglycerides 150 mg/dl (<150)."
+    },
+    {
+      "memory_id": "X0338-m11",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve had three migraine attacks in the past week, each lasting about 6 hours, and I’ve needed sumatriptan twice. My bowel symptoms are fine, just occasional bloating after meals."
+    },
+    {
+      "memory_id": "X0338-m12",
+      "date": "2025-10-08",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine\n- Status: Increased frequency – 3 attacks/week, sumatriptan use 4‑5 times/week, mild nausea.\n- Plan: Stop sumatriptan due to overuse; start propranolol increase to 60 mg OD; add amitriptyline 10 mg HS for prophylaxis (off‑label).\nIrritable bowel syndrome\n- Status: Stable, no worsening.\n- Plan: Continue current IBS meds.\nWeight 66 kg, waist 89 cm (below cut‑off).\nDue: HbA1c 2026-01-08."
+    },
+    {
+      "memory_id": "X0338-m13",
+      "date": "2025-10-08",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 60 mg 1-0-0 after food; Topiramate 50 mg 0-0-1 after food; Amitriptyline 10 mg 0-0-1 after food; Mebeverine 135 mg 1-0-1 after food; Ispaghula husk 5 g 1-0-0 with water; Loperamide 2 mg SOS after food."
+    },
+    {
+      "memory_id": "X0338-m14",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-01 10:30 am with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0338-m15",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine\n- Status: Headache days down to 1‑2/week after propranolol up‑titration and amitriptyline; no sumatriptan used in past 2 weeks.\n- Plan: Continue propranolol 60 mg OD; continue amitriptyline 10 mg HS; keep topiramate 50 mg HS.\nIrritable bowel syndrome\n- Status: No pain, regular bowel movements.\n- Plan: Continue mebeverine 135 mg BD; ispaghula husk 5 g OD; loperamide SOS only if needed.\nWeight 65 kg, waist 88 cm.\nDue: HbA1c 2026-04-20."
+    },
+    {
+      "memory_id": "X0338-m16",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 60 mg 1-0-0 after food; Amitriptyline 10 mg 0-0-1 after food; Topiramate 50 mg 0-0-1 after food; Mebeverine 135 mg 1-0-1 after food; Ispaghula husk 5 g 1-0-0 with water; Loperamide 2 mg SOS after food."
+    },
+    {
+      "memory_id": "X0338-m17",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.9 % (4.0‑5.6); CBC: Hb 13.6 g/dl, WBC 6.0 ×10⁹/l, Platelets 205 ×10⁹/l; Stool routine: no pus/RBC, normal."
+    },
+    {
+      "memory_id": "X0338-m18",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine\n- Status: Well‑controlled – ≤1 headache/month, no acute meds needed.\n- Plan: Continue propranolol 60 mg OD; consider tapering amitriptyline after 3 months if sustained.\nIrritable bowel syndrome\n- Status: Asymptomatic.\n- Plan: Continue mebeverine 135 mg BD; ispaghula husk 5 g OD; loperamide only SOS.\nWeight 64 kg, waist 86 cm.\nDue: HbA1c 2027-01-30 (beyond window, but noted)."
+    }
+  ]
+}

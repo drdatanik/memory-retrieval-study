@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0535",
+  "name": "Elsy Pereira",
+  "age": 18,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Vitamin D deficiency",
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0535-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia, vitamin D deficiency, and obesity.\nShe reports fatigue, mild dyspnoea on exertion, and occasional pica. Menstrual cycles are regular. On exam she appears pale, BMI 32 kg/m2, no lymphadenopathy, lungs clear. Spirometry not indicated. Smoking status: never. Hb 9.8 g/dL, ferritin 12 ng/mL, vitamin D 14 ng/mL. Plan: start iron replacement, vitamin D loading, lifestyle advice."
+    },
+    {
+      "memory_id": "X0535-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg oral once daily\nCholecalciferol 60000 IU oral once weekly for 8 weeks\nOrlistat 120 mg oral with each main meal"
+    },
+    {
+      "memory_id": "X0535-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.8 g/dL (12-16)\nSerum ferritin 12 ng/mL (15-150)\nMCV 78 fL (80-100)\nSerum 25‑hydroxyvitamin D 14 ng/mL (30-100)\nSerum calcium 9.1 mg/dL (8.5-10.5)\nSerum phosphate 3.4 mg/dL (2.5-4.5)\nFasting glucose 92 mg/dL (70-99)\nHbA1c 5.4% (4-5.6)\nLipids: TG 110, HDL 48, LDL 110 mg/dL\nALT 22 U/L (7-35)"
+    },
+    {
+      "memory_id": "X0535-m04",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia improving, vitamin D replete, obesity unchanged.\nShe feels less fatigued, no pica. Menstrual bleeding normal. Exam: pallor mild, BMI 31.8. Spirometry not indicated. Smoking: never. Hb 11.4 g/dL, ferritin 45 ng/mL, vitamin D 32 ng/mL. Continue iron, switch vitamin D to maintenance, reinforce diet and activity."
+    },
+    {
+      "memory_id": "X0535-m05",
+      "date": "2025-07-16",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Ferrous sulfate 200 mg oral on alternate days\nCholecalciferol 1000 IU oral once daily\nOrlistat 120 mg oral with each main meal"
+    },
+    {
+      "memory_id": "X0535-m06",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.4 g/dL (12-16)\nSerum ferritin 45 ng/mL (15-150)\nMCV 82 fL (80-100)\nSerum 25‑hydroxyvitamin D 32 ng/mL (30-100)\nFasting glucose 90 mg/dL\nHbA1c 5.3%\nLipids: TG 105, HDL 50, LDL 108 mg/dL\nALT 20 U/L"
+    },
+    {
+      "memory_id": "X0535-m07",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Iron-deficiency anemia resolved, vitamin D sufficient, obesity persisting.\nShe reports normal energy, no cravings. Menstrual flow regular. Exam: no pallor, BMI 31.5. Spirometry not indicated. Smoking: never. Hb 12.8 g/dL, ferritin 78 ng/mL, vitamin D 38 ng/mL. Stop iron, continue vitamin D maintenance, intensify weight‑management plan."
+    },
+    {
+      "memory_id": "X0535-m08",
+      "date": "2026-01-25",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity unchanged, nutritional deficiencies corrected.\nShe notes difficulty losing weight despite diet, occasional joint discomfort. Exam: BMI 31.2, blood pressure 118/72, lungs clear. Spirometry not indicated. Smoking: never. Labs: Hb 13.0 g/dL, ferritin 85 ng/mL, vitamin D 36 ng/mL, glucose 94, HbA1c 5.4%. Continue orlistat, add structured exercise referral."
+    },
+    {
+      "memory_id": "X0535-m09",
+      "date": "2026-01-26",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg oral with each main meal (continue)\nCholecalciferol 1000 IU oral once daily (continue)"
+    },
+    {
+      "memory_id": "X0535-m10",
+      "date": "2026-03-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for follow‑up review on 2026-04-30 at 10:00 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0535-m11",
+      "date": "2026-04-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Weight stable, nutritional markers good.\nShe reports modest weight loss of 1.5 kg, improved energy, no GI side‑effects from orlistat. Exam: BMI 30.8, abdomen soft, no hepatomegaly. Spirometry not indicated. Smoking: never. Hb 13.2 g/dL, ferritin 90 ng/mL, vitamin D 35 ng/mL, fasting glucose 92, HbA1c 5.3%. Continue current regimen, reinforce activity."
+    },
+    {
+      "memory_id": "X0535-m12",
+      "date": "2026-08-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Mild weight reduction maintained, labs unchanged.\nShe notes occasional knee discomfort on stairs, otherwise well. Exam: BMI 30.5, joints non‑tender, lungs clear. Spirometry not indicated. Smoking: never. Hb 13.1 g/dL, ferritin 88 ng/mL, vitamin D 34 ng/mL, glucose 93, HbA1c 5.4%. Maintain orlistat, vitamin D, advise low‑impact exercise."
+    },
+    {
+      "memory_id": "X0535-m13",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Overall stable: anemia and vitamin D corrected, obesity modestly improved.\nShe reports sustained 3 kg loss from baseline, regular menses, no fatigue. Exam: BMI 30.0, no pallor, lungs clear. Spirometry not indicated. Smoking: never. Hb 13.0 g/dL, ferritin 85 ng/mL, vitamin D 33 ng/mL, fasting glucose 91, HbA1c 5.3%. Continue current plan, review in 3 months."
+    }
+  ]
+}

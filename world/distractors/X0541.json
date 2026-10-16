@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0541",
+  "name": "George Rodrigues",
+  "age": 62,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Sciatica",
+    "Psoriasis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0541-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up of sciatica and psoriasis.\nPRESENTING COMPLAINT: The patient reports burning pain radiating from left lower buttock to foot, worse on sitting, and mild itchy plaques on elbows and knees.\nEXAMINATION: BP 138/86 mmHg, weight 78 kg, height 1.68 m, BMI 27.6 (obese). Straight leg raise positive at 45° left. Skin shows well‑demarcated erythematous plaques with silvery scale on extensor surfaces.\nIMPRESSION: Sciatica likely L4‑5 disc irritation; chronic plaque psoriasis uncontrolled. BMI obese – advise reduced calorie intake and daily walking. Order fasting lipid profile, fasting blood sugar, LFT, CBC, creatinine, MRI lumbar spine and X‑ray lumbar spine.\nARRANGEMENTS: Start pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD; topical clobetasol 0.05% cream BD, calcipotriol ointment OD, methotrexate 7.5 mg weekly with folic acid 5 mg daily. Return if new numbness, weakness, bowel/bladder change, fever >39°C, or worsening skin lesions."
+    },
+    {
+      "memory_id": "X0541-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pregabalin 75 mg twice daily\nDiclofenac sodium 50 mg twice daily after food\nMethylcobalamin 1500 mcg once daily\nClobetasol 0.05% cream apply twice daily to affected areas\nCalcipotriol ointment apply once daily to affected areas\nMethotrexate 7.5 mg orally once weekly\nFolic acid 5 mg orally once daily"
+    },
+    {
+      "memory_id": "X0541-m03",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Straight leg raise test: Left leg pain at 45° elevation, right leg negative. Suggestive of lumbar radiculopathy."
+    },
+    {
+      "memory_id": "X0541-m04",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "MRI lumbar spine: Disc protrusion at L4‑5 indenting the left traversing nerve root, no canal stenosis."
+    },
+    {
+      "memory_id": "X0541-m05",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "X‑ray lumbar spine: Mild degenerative changes at L4‑5, disc space preserved."
+    },
+    {
+      "memory_id": "X0541-m06",
+      "date": "2025-04-19",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 92 mg/dL (70‑99). Total cholesterol 198 mg/dL (<200 desirable), LDL 118 mg/dL (<100 optimal), HDL 42 mg/dL (>40 male), triglycerides 148 mg/dL (<150). ALT 28 U/L (7‑56), AST 26 U/L (10‑40), ALP 78 U/L (40‑129), GGT 32 U/L (0‑51). Hemoglobin 13.8 g/dL (13‑17), WBC 6.2 x10^9/L (4‑10), Platelets 210 x10^9/L (150‑400). Serum creatinine 0.9 mg/dL (0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0541-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of sciatica and psoriasis.\nPRESENTING COMPLAINT: Pain decreased to occasional ache, able to walk longer; topical steroids reduced plaque thickness but mild residual scaling.\nEXAMINATION: BP 134/82 mmHg, weight 77 kg, BMI 27.3 (obese). Straight leg raise now negative. Skin shows faint pink patches on elbows, no active scaling.\nIMPRESSION: Sciatica improving; psoriasis partially responsive to topicals. Methotrexate may need liver monitoring. BMI obese – reinforce diet and activity advice.\nARRANGEMENTS: Continue pregabalin 75 mg BD, reduce diclofenac to 25 mg BD after food due to gastric discomfort, maintain methylcobalamin 1500 mcg OD. Keep topical clobetasol BD, calcipotriol OD, methotrexate 7.5 mg weekly with folic acid 5 mg daily. Return if pain worsens, new weakness, fever, or skin flare."
+    },
+    {
+      "memory_id": "X0541-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pregabalin 75 mg twice daily\nDiclofenac sodium 25 mg twice daily after food\nMethylcobalamin 1500 mcg once daily\nClobetasol 0.05% cream twice daily\nCalcipotriol ointment once daily\nMethotrexate 7.5 mg once weekly\nFolic acid 5 mg once daily"
+    },
+    {
+      "memory_id": "X0541-m09",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: autumn review, vaccine update.\nPRESENTING COMPLAINT: Sciatica asymptomatic; psoriasis plaques mild, no new lesions.\nEXAMINATION: BP 130/80 mmHg, weight 76 kg, BMI 26.9 (overweight). No neurological deficit. Skin shows faint erythema on knees, no scale.\nIMPRESSION: Sciatica resolved; psoriasis mild. BMI overweight – advise continued activity. Annual metabolic screen ordered.\nARRANGEMENTS: Influenza vaccine given today 02‑Oct‑2025. Continue pregabalin 75 mg BD, diclofenac 25 mg BD after food, methylcobalamin 1500 mcg OD. Keep topical clobetasol BD, calcipotriol OD, methotrexate 7.5 mg weekly with folic acid 5 mg daily. Return if pain returns, new skin lesions, fever >39°C, or unexplained bruising."
+    },
+    {
+      "memory_id": "X0541-m10",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pregabalin 75 mg twice daily\nDiclofenac sodium 25 mg twice daily after food\nMethylcobalamin 1500 mcg once daily\nClobetasol 0.05% cream twice daily\nCalcipotriol ointment once daily\nMethotrexate 7.5 mg once weekly\nFolic acid 5 mg once daily"
+    },
+    {
+      "memory_id": "X0541-m11",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 95 mg/dL (70‑99). Total cholesterol 202 mg/dL (<200 desirable), LDL 122 mg/dL (<100 optimal), HDL 41 mg/dL (>40 male), triglycerides 152 mg/dL (<150). ALT 34 U/L (7‑56), AST 30 U/L (10‑40), ALP 82 U/L (40‑129), GGT 38 U/L (0‑51). Hemoglobin 13.6 g/dL (13‑17), WBC 6.0 x10^9/L (4‑10), Platelets 205 x10^9/L (150‑400). Serum creatinine 0.9 mg/dL (0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0541-m12",
+      "date": "2025-10-02",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Dermatology, Sakra World Hospital, for assessment of psoriasis refractory to topical therapy and consideration of phototherapy or systemic agent. Include recent labs and medication list."
+    },
+    {
+      "memory_id": "X0541-m13",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: Follow‑up visit rescheduled from 15‑Jan‑2026 to 22‑Jan‑2026 at 10:30 am with Dr Priya Natarajan (D03) for routine chronic disease review."
+    }
+  ]
+}

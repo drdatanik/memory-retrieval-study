@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0381",
+  "name": "Rukmini Shastry",
+  "age": 59,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Polycystic ovary syndrome",
+    "Irritable bowel syndrome",
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0381-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of polycystic ovary syndrome, irritable bowel syndrome and chronic kidney disease.\n\nPRESENTING COMPLAINT: She reports regular menstrual cycles on the combined oral contraceptive pill, occasional bloating and mild abdominal discomfort, and no edema or dyspnea on exertion.\n\nEXAMINATION: BP 132/84 mmHg, weight 68 kg, height 1.58 m, BMI 27.2 (obese per Asian cut‑offs). Abdomen soft, non‑tender, no masses. Pedal pulses 2+ bilaterally.\n\nIMPRESSION: PCOS well‑controlled on OC pill and metformin; IBS symptoms mild; CKD stage G3aA2 with eGFR 55 mL/min/1.73m2 and urine ACR 85 mg/g.\n\nARRANGEMENTS: Continue current medicines. Advise low‑salt diet, regular aerobic activity 150 min/week, and weight reduction target 5‑7%. Order fasting lipid profile, fasting blood sugar, HbA1c, serum testosterone, LH:FSH ratio, pelvic ultrasound, CBC, stool routine, tTG‑IgA, serum creatinine, eGFR, urine ACR and hemoglobin. Offer influenza vaccine today due to chronic kidney disease.\n\nReturn if: new chest pain, breathlessness >30 min, fever >39°C, worsening abdominal pain with vomiting, or sudden decrease in urine output."
+    },
+    {
+      "memory_id": "X0381-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg twice daily\nCombined oral contraceptive pill (ethinylestradiol 0.03 mg + levonorgestrel 0.15 mg) once daily\nMebeverine 135 mg twice daily\nIspaghula husk 5 g once daily\nLoperamide 2 mg as needed for diarrhoea (max 8 mg/24h)\nTelmisartan 40 mg once daily\nDapagliflozin 10 mg once daily\nFurosemide 20 mg once daily\nSodium bicarbonate 500 mg twice daily"
+    },
+    {
+      "memory_id": "X0381-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.2 mmol/L (<5.2 borderline), LDL 3.0 mmol/L (<2.6 high), HDL 1.2 mmol/L (>1.0 normal), Triglycerides 1.8 mmol/L (<1.7 borderline).\nFasting blood sugar: 92 mg/dL (70‑99 normal).\nHbA1c: 5.8% (4‑5.6 prediabetes).\nSerum testosterone: 48 ng/dL (15‑70 normal female).\nLH:FSH ratio: 1.8 (≤2 normal).\nPelvic ultrasound: Bilateral ovaries 9 ml volume, multiple follicles 2‑9 mm, no dominant cyst.\nCBC: Hb 12.8 g/dL (12‑16), WBC 6.2×10⁹/L (4‑10), Platelets 210×10⁹/L (150‑400).\nStool routine: No ova, cysts or occult blood.\ntTG‑IgA: Negative (<4 U/mL).\nSerum creatinine: 1.2 mg/dL (0.6‑1.1 mild ↑).\neGFR: 55 mL/min/1.73m2 (≥60 normal).\nUrine ACR: 85 mg/g (<30 normal ↑).\nHemoglobin: 12.8 g/dL (as above)."
+    },
+    {
+      "memory_id": "X0381-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of labs and blood pressure control.\n\nPRESENTING COMPLAINT: She feels well, reports occasional bloating after meals, no dysuria or edema. Menstrual cycles regular.\n\nEXAMINATION: BP 138/86 mmHg, weight 67 kg, BMI 26.8 (overweight). Abdomen soft, no tenderness. No pedal edema.\n\nIMPRESSION: BP slightly elevated; LDL remains high; eGFR stable at 54 mL/min/1.73m2; urine ACR 78 mg/g. PCOS and IBS unchanged.\n\nARRANGEMENTS: Increase telmisartan to 80 mg OD to improve BP control. Continue other meds. Reinforce low‑salt (<5 g/d) and DASH diet, encourage brisk walking 30 min daily. Repeat serum creatinine, eGFR and urine ACR in 6 weeks.\n\nReturn if: headache, visual changes, chest pain, swelling of feet, or decrease in urine output."
+    },
+    {
+      "memory_id": "X0381-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg twice daily\nCombined oral contraceptive pill once daily\nMebeverine 135 mg twice daily\nIspaghula husk 5 g once daily\nLoperamide 2 mg as needed\nTelmisartan 80 mg once daily\nDapagliflozin 10 mg once daily\nFurosemide 20 mg once daily\nSodium bicarbonate 500 mg twice daily"
+    },
+    {
+      "memory_id": "X0381-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 1.22 mg/dL (0.6‑1.1 mild ↑).\neGFR: 53 mL/min/1.73m2 (≥60 normal).\nUrine ACR: 78 mg/g (<30 normal ↑).\nHbA1c: 5.9% (4‑5.6 prediabetes).\nFasting lipid profile: Total cholesterol 5.0 mmol/L, LDL 2.9 mmol/L, HDL 1.2 mmol/L, Triglycerides 1.7 mmol/L.\nFasting blood sugar: 94 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0381-m07",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual influenza vaccine and chronic disease review.\n\nPRESENTING COMPLAINT: She denies fever, cough, or urinary symptoms. Reports good tolerance of meds, occasional mild bloating.\n\nEXAMINATION: BP 130/82 mmHg, weight 66 kg, BMI 26.4 (overweight). Lungs clear, abdomen soft, no edema.\n\nIMPRESSION: CKD stable (eGFR 52 mL/min/1.73m2, urine ACR 72 mg/g). PCOS controlled. IBS mild.\n\nARRANGEMENTS: Administered inactivated influenza vaccine (0.5 mL IM) today. Advise to continue low‑salt diet, regular exercise, and weight goal 62‑65 kg. Review in 3 months.\n\nReturn if: high fever >39°C, worsening cough with dyspnea, chest pain, or new urinary symptoms."
+    },
+    {
+      "memory_id": "X0381-m08",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg twice daily\nCombined oral contraceptive pill once daily\nMebeverine 135 mg twice daily\nIspaghula husk 5 g once daily\nLoperamide 2 mg as needed\nTelmisartan 80 mg once daily\nDapagliflozin 10 mg once daily\nFurosemide 20 mg once daily\nSodium bicarbonate 500 mg twice daily\nCholecalciferol (vitamin D3) 1000 IU once daily"
+    },
+    {
+      "memory_id": "X0381-m09",
+      "date": "2025-10-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-01-20 at 10:00 AM with Dr Priya Natarajan (D03) for routine chronic disease review."
+    },
+    {
+      "memory_id": "X0381-m10",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: increased bloating and loose stools over past 4 weeks.\n\nPRESENTING COMPLAINT: She reports abdominal bloating after meals, 3‑4 loose stools per day, no blood or mucus. No weight loss.\n\nEXAMINATION: BP 128/80 mmHg, weight 65.5 kg, BMI 26.2 (overweight). Abdomen mildly distended, hypoactive bowel sounds, no tenderness.\n\nIMPRESSION: IBS‑D flare likely exacerbated by recent dietary changes and stress. CKD and PCOS unchanged.\n\nARRANGEMENTS: Start rifaximin 550 mg twice daily for 14 days. Continue loperamide PRN for diarrhoea. Advise low‑FODMAP diet trial, adequate hydration, and stress‑reduction techniques. Review symptoms in 2 weeks.\n\nReturn if: fever >38.5°C, bloody stools, severe abdominal pain, or vomiting preventing oral intake."
+    },
+    {
+      "memory_id": "X0381-m11",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg twice daily\nCombined oral contraceptive pill once daily\nMebeverine 135 mg twice daily\nIspaghula husk 5 g once daily\nLoperamide 2 mg as needed\nRifaximin 550 mg twice daily for 14 days\nTelmisartan 80 mg once daily\nDapagliflozin 10 mg once daily\nFurosemide 20 mg once daily\nSodium bicarbonate 500 mg twice daily\nCholecalciferol 1000 IU once daily"
+    },
+    {
+      "memory_id": "X0381-m12",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 6.0% (4‑5.6 prediabetes, ↑).\nFasting lipid profile: Total cholesterol 5.1 mmol/L, LDL 3.0 mmol/L, HDL 1.1 mmol/L, Triglycerides 1.9 mmol/L.\nFasting blood sugar: 96 mg/dL (70‑99 normal).\nSerum creatinine: 1.24 mg/dL (0.6‑1.1 mild ↑).\neGFR: 51 mL/min/1.73m2 (≥60 normal).\nUrine ACR: 80 mg/g (<30 normal ↑)."
+    },
+    {
+      "memory_id": "X0381-m13",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine 3‑month review after IBS treatment.\n\nPRESENTING COMPLAINT: She reports bowel habit normalized to 1‑2 formed stools daily, bloating reduced. No urinary complaints.\n\nEXAMINATION: BP 126/78 mmHg, weight 64.8 kg, BMI 25.9 (overweight). Abdomen soft, non‑tender.\n\nIMPRESSION: IBS symptoms improved after rifaximin and low‑FODMAP diet. CKD stable (eGFR 50 mL/min/1.73m2, urine ACR 75 mg/g). PCOS unchanged.\n\nARRANGEMENTS: Continue current medicines. Reinforce low‑salt, low‑FODMAP as tolerated, and regular aerobic activity. Plan next review in 3 months.\n\nReturn if: new rectal bleeding, worsening abdominal pain with vomiting, fever >39°C, or sudden drop in urine output."
+    },
+    {
+      "memory_id": "X0381-m14",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.0 mmol/L, LDL 2.8 mmol/L, HDL 1.2 mmol/L, Triglycerides 1.6 mmol/L.\nFasting blood sugar: 93 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0381-m15",
+      "date": "2026-08-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 6‑month follow‑up of chronic conditions.\n\nPRESENTING COMPLAINT: She feels well, reports regular menstrual cycles, no bloating, normal bowel movements, and no edema.\n\nEXAMINATION: BP 124/76 mmHg, weight 64.2 kg, BMI 25.6 (overweight). Lungs clear, abdomen soft, no masses.\n\nIMPRESSION: All three conditions stable. PCOS on OC pill and metformin; IBS in remission; CKD stage G3aA2 with eGFR 49 mL/min/1.73m2, urine ACR 70 mg/g.\n\nARRANGEMENTS: Continue current regimen. Encourage maintenance of weight 62‑65 kg, low‑salt diet, and annual influenza vaccine next autumn. Schedule next review in 4 months.\n\nReturn if: chest pain, breathlessness at rest, fever >39°C, severe abdominal pain, or decrease in urine output."
+    }
+  ]
+}

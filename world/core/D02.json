@@ -1,0 +1,49 @@
+{
+  "doctor_id": "D02",
+  "name": "Dr Rohan Iyer",
+  "specialty": "Cardiology",
+  "memories": [
+    {
+      "memory_id": "D02-m01",
+      "date": "2025-04-01",
+      "type": "doctor_preference",
+      "author": "D02",
+      "text": "Dr Iyer writes every note as narrative paragraphs in full sentences, with no abbreviations. Drug frequencies are written out in words, such as 'twice daily' and 'once daily', and are never shortened."
+    },
+    {
+      "memory_id": "D02-m02",
+      "date": "2025-04-01",
+      "type": "doctor_preference",
+      "author": "D02",
+      "text": "Dr Iyer ends every note with the sentence 'Plan discussed with the patient and family.' It is the last line of the note, written after the medicines and follow-up have been set out in full."
+    },
+    {
+      "memory_id": "D02-m03",
+      "date": "2025-04-02",
+      "type": "doctor_preference",
+      "author": "D02",
+      "text": "Dr Iyer states the NYHA functional class in every heart-failure note, written as a class from I to IV, for example 'NYHA class II', in the first paragraph. The most recent ejection fraction is given in the same paragraph."
+    },
+    {
+      "memory_id": "D02-m04",
+      "date": "2025-04-03",
+      "type": "doctor_preference",
+      "author": "D02",
+      "text": "Dr Iyer prescribes a high-intensity statin for every patient with coronary artery disease. For patients with clinical coronary artery disease his LDL target is below 55 mg/dL, and he reviews the lipid profile and adjusts treatment when LDL stays above that target. For patients without coronary artery disease he accepts much higher LDL levels before starting or intensifying lipid-lowering treatment."
+    },
+    {
+      "memory_id": "D02-m05",
+      "date": "2025-04-04",
+      "type": "doctor_preference",
+      "author": "D02",
+      "text": "Dr Iyer orders an echocardiogram every 12 months for every patient with heart failure. The date and ejection fraction of the last echocardiogram are stated in the note, and the next one is written into the follow-up plan."
+    },
+    {
+      "memory_id": "D02-m06",
+      "date": "2025-04-05",
+      "type": "doctor_preference",
+      "author": "D02",
+      "text": "Example note format: An anonymous patient in his sixties attended for review of heart failure with reduced ejection fraction. He reported breathlessness on climbing one flight of stairs and mild ankle swelling by the evening, which places him in NYHA class II. His most recent echocardiogram, performed eight months ago, showed an ejection fraction of 35 per cent. His blood pressure was 118/74 mmHg and his weight was stable since the last visit. He will continue carvedilol 12.5 mg twice daily and empagliflozin 10 mg once daily. The next echocardiogram is due in four months. Plan discussed with the patient and family."
+    }
+  ]
+}

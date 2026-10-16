@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0009",
+  "name": "Gurpreet Chadha",
+  "age": 69,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Gastro-oesophageal reflux",
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0009-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of gastro‑oesophageal reflux and chronic urticaria.\nPRESENTING COMPLAINT: The patient reports occasional heartburn after meals and intermittent itchy wheals on the arms lasting <24 h, relieved by antihistamines. No dysphagia, weight loss or bleeding.\nEXAMINATION: BP 138/84 mmHg, weight 78 kg, height 1.68 m, BMI 27.6 (obese). Abdomen soft, no tenderness. Skin shows scattered erythematous papules on forearms, no angio‑edema.\nIMPRESSION: 1) GERD, symptomatic, BMI obese. 2) Chronic urticaria, mild, eosinophils within normal range on prior CBC.\nARRANGEMENTS: Continue pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, levocetirizine 5 mg OD, cetirizine 10 mg HS, antacid gel SOS. Order fasting lipid profile, fasting blood sugar, H. pylori stool antigen, CBC with eosinophils, thyroid function test. Advise weight reduction, avoid trigger foods, regular exercise. Return if: chest pain, dysphagia, vomiting blood, fever >39 °C, widespread rash or angio‑edema."
+    },
+    {
+      "memory_id": "X0009-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nLevocetirizine 5 mg OD\nCetirizine 10 mg HS\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0009-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 182 mg/dL (Ref <200), LDL 112 mg/dL (Ref <100), HDL 44 mg/dL (Ref >40), Triglycerides 158 mg/dL (Ref <150). Fasting blood sugar 94 mg/dL (Ref 70‑100). H. pylori stool antigen negative. CBC: WBC 6.9×10⁹/L, Neutrophils 59%, Lymphocytes 31%, Eosinophils 3% (Ref 1‑6%). TSH 2.0 mIU/L (Ref 0.4‑4.5), FT4 1.22 ng/dL (Ref 0.9‑1.7)."
+    },
+    {
+      "memory_id": "X0009-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of GERD symptoms and urticaria control.\nPRESENTING COMPLAINT: Heartburn reduced to twice weekly after pantoprazole; occasional nocturnal itching, wheals appear after stress, last <12 h. No alarm symptoms.\nEXAMINATION: BP 136/82 mmHg, weight 77 kg, BMI 27.3 (obese). Abdomen benign. Skin shows faint dermographism, no active wheals.\nIMPRESSION: GERD well‑controlled on current PPI; chronic urticaria intermittent, likely stress‑related.\nARRANGEMENTS: Continue pantoprazole 40 mg OD, domperidone 10 mg BD. Change antihistamine to levocetirizine 10 mg OD (increase from 5 mg) and keep cetirizine 10 mg HS for breakthrough. Advise stress‑reduction techniques, maintain weight goal. Return if: worsening heartburn, dysphagia, bleeding, rash with swelling, fever >39 °C."
+    },
+    {
+      "memory_id": "X0009-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nLevocetirizine 10 mg OD\nCetirizine 10 mg HS\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0009-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Repeat fasting lipid profile: Total cholesterol 176 mg/dL, LDL 106 mg/dL, HDL 46 mg/dL, Triglycerides 148 mg/dL. Fasting blood sugar 90 mg/dL. No significant change from previous."
+    },
+    {
+      "memory_id": "X0009-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual preventive check and medication review.\nPRESENTING COMPLAINT: No heartburn for past month; occasional mild itching on thighs, relieved by cetirizine at night. Denies dysphagia, weight loss, GI bleeding.\nEXAMINATION: BP 134/80 mmHg, weight 76 kg, BMI 26.9 (overweight). Abdomen soft. Skin: few scattered papules, no urticaria at exam.\nIMPRESSION: GERD in remission; chronic urticaria mild, well‑controlled on antihistamines. Lipids improved, FBS normal.\nARRANGEMENTS: Continue pantoprazole 40 mg OD, domperidone 10 mg BD. Keep levocetirizine 10 mg OD, cetirizine 10 mg HS. Offer influenza vaccine (date to be given in November). Advise maintain BMI <25 via diet and walk 30 min daily. Return if: chest pain, dysphagia, vomiting, fever >39 °C, widespread rash or angio‑edema."
+    },
+    {
+      "memory_id": "X0009-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nLevocetirizine 10 mg OD\nCetirizine 10 mg HS\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0009-m09",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Influenza vaccine not yet given. Repeat thyroid function: TSH 2.1 mIU/L, FT4 1.20 ng/dL (normal). CBC: eosinophils 2% (normal)."
+    },
+    {
+      "memory_id": "X0009-m10",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-20 at 09:30 with Dr Priya Natarajan (D03) for review of urticaria flare."
+    },
+    {
+      "memory_id": "X0009-m11",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: acute urticaria exacerbation.\nPRESENTING COMPLAINT: Patient reports widespread itchy wheals over trunk and limbs for 2 days, worse at night, associated with mild facial swelling, no dyspnea. Denies new foods, medications, or infections.\nEXAMINATION: BP 132/78 mmHg, weight 75 kg, BMI 26.5 (overweight). Abdomen benign. Skin: numerous erythematous raised lesions, some with central pallor, no angio‑edema noted.\nIMPRESSION: Acute flare of chronic urticaria, likely idiopathic.\nARRANGEMENTS: Increase levocetirizine to 10 mg BD, continue cetirizine 10 mg HS, add short course of oral prednisolone 20 mg OD for 3 days (to be prescribed separately). Continue pantoprazole 40 mg OD, domperidone 10 mg BD. Advise cool compresses, avoid heat, stress. Return if: difficulty breathing, swallowing, swelling of lips/tongue, fever >39 °C, painful rash."
+    },
+    {
+      "memory_id": "X0009-m12",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nLevocetirizine 10 mg BD\nCetirizine 10 mg HS\nAntacid gel SOS\nPrednisolone 20 mg OD for 3 days"
+    },
+    {
+      "memory_id": "X0009-m13",
+      "date": "2026-04-03",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: post‑flare follow‑up and routine review.\nPRESENTING COMPLAINT: Urticaria resolved after prednisolone course; occasional mild wheals on forearms, responsive to cetirizine. No heartburn for 6 weeks.\nEXAMINATION: BP 130/76 mmHg, weight 74 kg, BMI 26.2 (overweight). Abdomen soft. Skin: few scattered papules, no active wheals.\nIMPRESSION: GERD remains asymptomatic; chronic urticaria in remission, low disease activity.\nARRANGEMENTS: Continue pantoprazole 40 mg OD, domperidone 10 mg BD. Levocetirizine reduced to 5 mg OD, cetirizine 10 mg HS as needed. Offer influenza vaccine (administered today). Advise maintain weight, regular activity. Return if: chest pain, dysphagia, bleeding, fever >39 °C, widespread rash or angio‑edema."
+    },
+    {
+      "memory_id": "X0009-m14",
+      "date": "2026-04-03",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nLevocetirizine 5 mg OD\nCetirizine 10 mg HS\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0009-m15",
+      "date": "2026-08-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Annual fasting lipid profile: Total cholesterol 170 mg/dL (Ref <200), LDL 100 mg/dL (Ref <100), HDL 48 mg/dL (Ref >40), Triglycerides 140 mg/dL (Ref <150). Fasting blood sugar 88 mg/dL (Ref 70‑100). H. pylori stool antigen negative (repeat). CBC: eosinophils 2% (normal). TSH 2.0 mIU/L, FT4 1.21 ng/dL (normal)."
+    }
+  ]
+}

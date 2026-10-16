@@ -1,0 +1,42 @@
+{
+  "doctor_id": "D06",
+  "name": "Dr Nandini Kulkarni",
+  "specialty": "Geriatric Medicine",
+  "memories": [
+    {
+      "memory_id": "D06-m01",
+      "date": "2025-04-01",
+      "type": "doctor_preference",
+      "author": "D06",
+      "text": "Dr Kulkarni's notes follow a fixed geriatric order: function, cognition, falls, medicines, mood, carers, then goals. Each section has a lower-case label followed by a colon, and runs to one to three lines."
+    },
+    {
+      "memory_id": "D06-m02",
+      "date": "2025-04-02",
+      "type": "doctor_preference",
+      "author": "D06",
+      "text": "Dr Kulkarni includes a fall-risk assessment at every visit. It records falls in the last 12 months, gait, and the timed up-and-go test in seconds. A time of 12 seconds or more is recorded as raised fall risk, with a plan for exercise and footwear."
+    },
+    {
+      "memory_id": "D06-m03",
+      "date": "2025-04-02",
+      "type": "doctor_preference",
+      "author": "D06",
+      "text": "Dr Kulkarni states the total number of regular medicines at every visit, for example 'medicines: 6 regular'. Five or more is recorded as polypharmacy, with a line asking for a medicine review against the Beers criteria."
+    },
+    {
+      "memory_id": "D06-m04",
+      "date": "2025-04-03",
+      "type": "doctor_preference",
+      "author": "D06",
+      "text": "Dr Kulkarni screens cognition with the Mini-Cog at the first visit and once a year after that. A score of 2 or less out of 5 is recorded as a positive screen, with a plan for a fuller cognitive assessment."
+    },
+    {
+      "memory_id": "D06-m05",
+      "date": "2025-04-04",
+      "type": "doctor_preference",
+      "author": "D06",
+      "text": "Dr Kulkarni ends each note with the patient's stated goal of care, written in the patient's own words in quotation marks. The main carer's name and relationship to the patient are written in the carers line."
+    }
+  ]
+}

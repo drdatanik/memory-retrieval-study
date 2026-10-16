@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0448",
+  "name": "Arumugam Pandian",
+  "age": 37,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Type 2 diabetes",
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0448-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, works as postal worker, reports occasional lower back pain radiating to left leg.\ncognition: Mini-Cog 4/5 (normal).\nfalls: no falls in past 12 months; gait steady; timed up-and-go 10 seconds (normal).\nmedicines: 0 regular.\nmood: affect stable, denies depression.\ncarers: none.\ngoal: \"I want to stay pain‑free and keep delivering mail.\""
+    },
+    {
+      "memory_id": "X0448-m02",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (target <7.0%).\nFasting plasma glucose 156 mg/dL (70‑130).\nUrine albumin‑creatinine ratio 22 mg/g (<30).\nSerum creatinine 0.9 mg/dL (0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0448-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD after meals.\nglimepiride 1 mg OD before breakfast.\nsitagliptin 100 mg OD.\nempagliflozin 10 mg OD.\npregabalin 75 mg BD.\ndiclofenac 50 mg BD after food.\nmethylcobalamin 1500 mcg OD."
+    },
+    {
+      "memory_id": "X0448-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports improved back pain, still occasional leg tingling after long walks.\ncognition: Mini-Cog not repeated (annual due).\nfalls: no falls; gait normal; timed up-and-go 9 seconds.\nmedicines: 7 regular (polypharmacy) – request Beers review.\nmood: good.\ncarers: none.\ngoal: \"I want fewer leg symptoms and better sugar control.\""
+    },
+    {
+      "memory_id": "X0448-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2% (down from 7.8%).\nFasting plasma glucose 138 mg/dL.\nUrine ACR 18 mg/g.\nLDL 110 mg/dL (<100 target)."
+    },
+    {
+      "memory_id": "X0448-m06",
+      "date": "2025-07-13",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin increased to 850 mg BD.\nglimepiride unchanged 1 mg OD.\nsitagliptin 100 mg OD.\nempagliflozin 10 mg OD.\npregabalin 75 mg BD.\ndiclofenac 50 mg BD after food.\nmethylcobalamin 1500 mcg OD."
+    },
+    {
+      "memory_id": "X0448-m07",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports worsening left leg numbness after standing >30 min, mild difficulty climbing stairs.\ncognition: unchanged.\nfalls: one minor slip at home 2 months ago, no injury; gait slightly antalgic left; timed up-and-go 12 seconds (raised fall risk) – advise exercise and supportive footwear.\nmedicines: 7 regular.\nmood: frustrated about pain.\ncarers: none.\ngoal: \"I want to walk without leg numbness.\""
+    },
+    {
+      "memory_id": "X0448-m08",
+      "date": "2025-10-22",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Lumbar spine X-ray: mild degenerative changes at L4‑L5, no frank fracture or significant stenosis."
+    },
+    {
+      "memory_id": "X0448-m09",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: leg numbness intermittent, manages work with occasional rest breaks.\ncognition: Mini-Cog 3/5 (borderline) – plan full neuropsych assessment.\nfalls: no new falls; gait cautious; timed up-and-go 11 seconds (borderline) – continue exercise.\nmedicines: 7 regular.\nmood: anxious about cognition.\ncarers: none.\ngoal: \"I want to stay sharp and keep working.\""
+    },
+    {
+      "memory_id": "X0448-m10",
+      "date": "2026-01-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.9% (at target).\nFasting plasma glucose 124 mg/dL.\nUrine ACR 16 mg/g.\nLDL 102 mg/dL."
+    },
+    {
+      "memory_id": "X0448-m11",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports occasional hypoglycaemic sweats before breakfast, leg symptoms stable.\ncognition: unchanged.\nfalls: none; gait normal; timed up-and-go 10 seconds.\nmedicines: 7 regular (polypharmacy) – continue Beers review.\nmood: irritable due to hypos.\ncarers: none.\ngoal: \"I want to avoid low sugars and stay active.\""
+    },
+    {
+      "memory_id": "X0448-m12",
+      "date": "2026-04-06",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 850 mg BD.\nglimepiride stopped.\nsitagliptin 100 mg OD.\nempagliflozin 10 mg OD.\npregabalin 75 mg BD.\ndiclofenac 50 mg BD after food.\nmethylcobalamin 1500 mcg OD."
+    },
+    {
+      "memory_id": "X0448-m13",
+      "date": "2026-07-03",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-08-15 at 10:00 am with Dr Nandini Kulkarni (D06)."
+    }
+  ]
+}

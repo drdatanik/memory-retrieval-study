@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0437",
+  "name": "Bani Mitra",
+  "age": 35,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Asthma",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0437-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: asthma exacerbation and low mood.\nPRESENTING COMPLAINT: She reports wheezing on exertion, nighttime cough, and using salbutamol inhaler 4-5 times daily. She also describes low energy, poor concentration, and feeling down for the past 2 months.\nEXAMINATION: BP 122/78 mmHg, weight 62 kg, height 1.58 m, BMI 24.8 (overweight). Respiratory exam shows bilateral wheezes. No focal neurologic signs.\nIMPRESSION: Uncontrolled asthma; moderate depressive episode. Plan to optimise inhaled therapy and start antidepressant.\nARRANGEMENTS: Start salbutamol MDI SOS, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS, sertraline 50 mg OD. Order spirometry with reversibility, PHQ-9, TSH, vitamin B12. Advise on diet and activity due to BMI ≥23. Return if worsening wheeze, breathlessness, fever >39°C, or suicidal thoughts."
+    },
+    {
+      "memory_id": "X0437-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Salbutamol metered-dose inhaler 100 mcg, 2 puffs SOS.\nBudesonide-formoterol 200/6 mcg inhaler, 2 puffs BD.\nMontelukast sodium 10 mg tablet, take at bedtime.\nSertraline hydrochloride 50 mg tablet, take once daily in morning."
+    },
+    {
+      "memory_id": "X0437-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.1 mIU/L (ref 0.4-4.0).\nVitamin B12: 320 pg/mL (ref 200-900).\nFasting glucose: 92 mg/dL (ref 70-100).\nLipid profile: Total cholesterol 180 mg/dL (<200), HDL 48 mg/dL (>40), LDL 102 mg/dL (<130), triglycerides 110 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0437-m04",
+      "date": "2025-06-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: I feel better emotionally, energy improved. However I have been using my salbutamol inhaler more often, about 6-8 puffs per day, especially after climbing stairs. My inhaler technique seems fine. No new side effects from sertraline."
+    },
+    {
+      "memory_id": "X0437-m05",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry with reversibility: Pre-bronchodilator FEV1 2.10 L (68% predicted), FVC 2.80 L (80% predicted), FEV1/FVC 0.75. Post-bronchodilator FEV1 2.45 L (79% predicted), FVC 2.85 L (82% predicted), FEV1/FVC 0.86. Improvement in FEV1 >12% and 200 mL, indicating reversible airflow obstruction consistent with asthma."
+    },
+    {
+      "memory_id": "X0437-m06",
+      "date": "2025-08-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine asthma and depression follow-up.\nPRESENTING COMPLAINT: She reports reduced wheeze, nighttime cough down to 1-2 times/week, salbutamol use 1-2 puffs daily. Mood improved, PHQ-9 score 5 (mild).\nEXAMINATION: BP 118/76 mmHg, weight 63 kg, height 1.58 m, BMI 25.2 (obese). Respiratory exam clear to auscultation.\nIMPRESSION: Asthma well-controlled; depressive symptoms improved. Continue current therapy.\nARRANGEMENTS: Continue salbutamol SOS, budesonide-formoterol 200/6 BD, montelukast 10 HS, sertraline 50 OD. Advise diet and activity due to BMI ≥23. Return if increased wheeze, night symptoms, weight gain >2 kg, or worsening mood."
+    },
+    {
+      "memory_id": "X0437-m07",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow-up appointment for influenza vaccination and asthma review on 2025-10-15 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0437-m08",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: influenza vaccination and routine review.\nPRESENTING COMPLAINT: She reports no asthma symptoms, salbutamol use 0-1 puffs daily. Mood stable, PHQ-9 4.\nEXAMINATION: BP 120/78 mmHg, weight 64 kg, height 1.58 m, BMI 25.6 (obese).\nIMPRESSION: Asthma controlled; depression in remission. Influenza vaccine indicated due to chronic asthma.\nARRANGEMENTS: Administered inactivated influenza vaccine (0.5 mL IM) left deltoid today. Continue salbutamol SOS, budesonide-formoterol 200/6 BD, montelukast 10 HS, sertraline 50 OD. Advise diet and activity due to BMI ≥23. Return if fever >39°C, worsening respiratory symptoms, or new mood changes."
+    },
+    {
+      "memory_id": "X0437-m09",
+      "date": "2025-11-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram oxalate 10 mg tablet, take once daily in morning.\n(Sertraline discontinued.)\nSalbutamol metered-dose inhaler 100 mcg, 2 puffs SOS.\nBudesonide-formoterol 200/6 mcg inhaler, 2 puffs BD.\nMontelukast sodium 10 mg tablet, take at bedtime."
+    },
+    {
+      "memory_id": "X0437-m10",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 1.9 mIU/L (ref 0.4-4.0).\nVitamin B12: 345 pg/mL (ref 200-900).\nFasting lipid profile: Total cholesterol 185 mg/dL, HDL 50 mg/dL, LDL 105 mg/dL, triglycerides 115 mg/dL.\nFasting glucose: 94 mg/dL."
+    },
+    {
+      "memory_id": "X0437-m11",
+      "date": "2026-03-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: worsening asthma symptoms and weight concern.\nPRESENTING COMPLAINT: She reports increased wheeze on exertion, nighttime cough 3-4 times/week, salbutamol use 4-5 puffs daily. Mood stable, PHQ-9 6.\nEXAMINATION: BP 124/80 mmHg, weight 68 kg, height 1.58 m, BMI 27.2 (obese). Respiratory exam: bilateral end-expiratory wheezes.\nIMPRESSION: Asthma partially uncontrolled; depression stable. Need to step up inhaled therapy and consider referral.\nARRANGEMENTS: Increase budesonide-formoterol to 400/12 mcg inhaler, 2 puffs BD. Continue salbutamol SOS, montelukast 10 HS, escitalopram 10 OD. Advise diet and activity due to BMI ≥23. Refer to pulmonologist for refractory asthma. Return if worsening dyspnea, fever >39°C, or suicidal thoughts."
+    },
+    {
+      "memory_id": "X0437-m12",
+      "date": "2026-04-01",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr Suresh Kumar, Pulmonology, Vikram Hospital, Bengaluru. Reason: uncontrolled asthma despite high-dose ICS/LABA, need assessment for add-on therapy and possible biologic eligibility. Attach recent spirometry and medication list."
+    },
+    {
+      "memory_id": "X0437-m13",
+      "date": "2026-05-10",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Pulmonology review: Patient demonstrates moderate persistent asthma with reversible obstruction. Recommended add-on tiotropium inhaler 2 puffs OD, continue current ICS/LABA and montelukast. Instruct on inhaler technique, schedule follow-up in 8 weeks. No immediate biologic indicated."
+    },
+    {
+      "memory_id": "X0437-m14",
+      "date": "2026-07-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Eye exam (routine screening): Visual acuity 6/6 both eyes. Intraocular pressure 14 mmHg right, 13 mmHg left. Fundus: no diabetic retinopathy changes, optic discs healthy. No cataract progression."
+    },
+    {
+      "memory_id": "X0437-m15",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: asthma and depression review, influenza vaccination.\nPRESENTING COMPLAINT: She reports asthma symptoms well-controlled, salbutamol use 0-1 puffs daily, nighttime cough absent. Mood stable, PHQ-9 3.\nEXAMINATION: BP 122/78 mmHg, weight 66 kg, height 1.58 m, BMI 26.4 (obese).\nIMPRESSION: Asthma controlled on step-up therapy; depression in remission. Influenza vaccine due.\nARRANGEMENTS: Administered inactivated influenza vaccine (0.5 mL IM) left deltoid today. Continue salbutamol SOS, budesonide-formoterol 400/12 BD, montelukast 10 HS, escitalopram 10 OD, add tiotropium inhaler 2 puffs OD as advised. Advise diet and activity due to BMI ≥23. Return if worsening wheeze, breathlessness, fever >39°C, or mood deterioration."
+    }
+  ]
+}

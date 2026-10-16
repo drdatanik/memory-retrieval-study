@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0042",
+  "name": "Sunanda Pawar",
+  "age": 53,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Gout",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0042-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: Asymptomatic, serum uric acid 8.2 mg/dL (high), creatinine normal.\n  - Plan: Start allopurinol 100 mg OD after food; lifestyle advice: limit purine-rich foods, increase water intake.\n- Migraine\n  - Status: Episodic, 4-5 days/month, currently on propranolol 40 mg OD for prevention.\n  - Plan: Continue propranolol; add sumatriptan 50 mg SOS for acute attacks; advise migraine diary.\n- Diet advice: Breakfast – low‑purine cereal, milk, fruit; Lunch – vegetable dal, rice, lean chicken; Dinner – light soup, salad, chapati.\n- Weight 68 kg, waist 78 cm (below female cutoff 80 cm).\n- Due: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0042-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "allopurinol 100 mg OD after food\npropranolol 40 mg OD after breakfast\nsumatriptan 50 mg SOS after food"
+    },
+    {
+      "memory_id": "X0042-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Uric Acid: 8.2 mg/dL (Ref: 2.4-6.0)\nSerum Creatinine: 0.9 mg/dL (Ref: 0.5-1.1)\neGFR: >90 mL/min/1.73m2"
+    },
+    {
+      "memory_id": "X0042-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: No flares, uric acid 6.5 mg/dL (borderline), creatinine stable.\n  - Plan: Increase allopurinol to 200 mg OD after food; recheck uric acid in 6 weeks.\n- Migraine\n  - Status: 2-3 days/month on propranolol, good control.\n  - Plan: Continue propranolol; consider adding topiramate 25 mg HS if needed.\n- Diet advice: Breakfast – oats, milk, nuts; Lunch – mixed veg sambar, brown rice, fish; Dinner – dal, salad, roti.\n- Weight 67.5 kg, waist 77 cm.\n- Due: HbA1c 2025-10-10."
+    },
+    {
+      "memory_id": "X0042-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "allopurinol 200 mg OD after food\npropranolol 40 mg OD after breakfast\nsumatriptan 50 mg SOS after food"
+    },
+    {
+      "memory_id": "X0042-m06",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Uric Acid: 6.0 mg/dL (Ref: 2.4-6.0)\nSerum Creatinine: 0.9 mg/dL (Ref: 0.5-1.1)\neGFR: >90 mL/min/1.73m2"
+    },
+    {
+      "memory_id": "X0042-m07",
+      "date": "2025-08-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Neurological examination: Normal cranial nerves, no focal deficits, normal gait. No migraine-associated signs. CT head (performed elsewhere) reported normal."
+    },
+    {
+      "memory_id": "X0042-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: Asymptomatic, uric acid 5.8 mg/dL, creatinine normal.\n  - Plan: Continue allopurinol 200 mg OD; repeat uric acid in 3 months.\n- Migraine\n  - Status: 1-2 days/month, mild; patient reports occasional sleep disturbance.\n  - Plan: Start topiramate 25 mg HS; titrate up if tolerated; continue propranolol.\n- Diet advice: Breakfast – idli with sambar, orange; Lunch – vegetable curry, quinoa, paneer; Dinner – moong dal, cucumber raita, roti.\n- Weight 66.8 kg, waist 76 cm.\n- Due: HbA1c 2026-01-02."
+    },
+    {
+      "memory_id": "X0042-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "allopurinol 200 mg OD after food\npropranolol 40 mg OD after breakfast\ntopiramate 25 mg HS after dinner\nsumatriptan 50 mg SOS after food"
+    },
+    {
+      "memory_id": "X0042-m10",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 5.6 % (Ref: 4.0-5.6)\nLipid Profile:\n  Total Cholesterol: 180 mg/dL (<200)\n  HDL: 48 mg/dL (>40)\n  LDL: 100 mg/dL (<130)\n  Triglycerides: 120 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0042-m11",
+      "date": "2025-11-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling a bit dizzy after taking topiramate at night. Should I lower the dose or take it earlier?"
+    },
+    {
+      "memory_id": "X0042-m12",
+      "date": "2025-11-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-01 10:30 AM with Dr Karthik Hegde (D04). Reason: Follow‑up gout and migraine management."
+    },
+    {
+      "memory_id": "X0042-m13",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gout\n  - Status: Acute flare in left big toe for 2 days, uric acid 7.2 mg/dL (high).\n  - Plan: Start colchicine 0.5 mg BD for 3 days, then continue allopurinol 200 mg OD; advise rest, ice.\n- Migraine\n  - Status: Stable, topiramate 25 mg HS causing mild dizziness; patient took it after dinner.\n  - Plan: Shift topiramate to 25 mg after lunch; monitor dizziness.\n- Diet advice: Breakfast – poha with peas, milk; Lunch – lemon rice, curd, grilled chicken; Dinner – vegetable khichdi, salad.\n- Weight 67.2 kg, waist 77 cm.\n- Due: HbA1c 2026-05-01."
+    },
+    {
+      "memory_id": "X0042-m14",
+      "date": "2026-02-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "colchicine 0.5 mg BD after food for 3 days\nallopurinol 200 mg OD after food\npropranolol 40 mg OD after breakfast\ntopiramate 25 mg after lunch\nsumatriptan 50 mg SOS after food"
+    },
+    {
+      "memory_id": "X0042-m15",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Uric Acid: 6.4 mg/dL (Ref: 2.4-6.0) – slight elevation post‑flare\nSerum Creatinine: 0.9 mg/dL (Ref: 0.5-1.1)\neGFR: >90 mL/min/1.73m2"
+    },
+    {
+      "memory_id": "X0042-m16",
+      "date": "2026-03-05",
+      "type": "referral",
+      "author": "D04",
+      "text": "To: Rheumatology Dept, Vikram Hospital\nRe: Ms XXXX, 53F, gout with recurrent hyperuricemia despite allopurinol 200 mg OD. Request advice on urate‑lowering therapy optimisation and possible pegloticase if needed. Enclosed recent labs."
+    },
+    {
+      "memory_id": "X0042-m17",
+      "date": "2026-04-20",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "From Rheumatology: Patient advised to continue allopurinol 200 mg OD, target uric acid <6 mg/dL. If not achieved in 3 months, consider febuxostat 40 mg OD. Lifestyle reinforcement. No immediate need for pegloticase."
+    }
+  ]
+}

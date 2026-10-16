@@ -1,0 +1,122 @@
+{
+  "patient_id": "P16",
+  "name": "Imran Qureshi",
+  "age": 54,
+  "sex": "M",
+  "primary_doctor": "D01",
+  "conditions": ["Type 2 diabetes"],
+  "memories": [
+    {
+      "memory_id": "P16-m01",
+      "date": "2025-05-06",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake note (patient-reported): Owns and runs a restaurant, so works late most evenings. Eats dinner late, usually around 11 pm. Keeps the full Ramadan fasts every year. Wants advice on fitting his tablets and meals around the restaurant timings."
+    },
+    {
+      "memory_id": "P16-m02",
+      "date": "2025-05-06",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx (continued): metformin (Glycomet) 1000 mg BD with breakfast and dinner. Glimepiride (Amaryl) 2 mg OD before breakfast. Supply 90 days."
+    },
+    {
+      "memory_id": "P16-m03",
+      "date": "2025-05-06",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM on metformin and glimepiride. Eats dinner late, around 11 pm, most days. Keeps Ramadan fasts. C/o mild tiredness in the mornings. No hypoglycaemia symptoms.\nO: BP 124/80 mmHg, pulse 76/min, wt 86 kg. O/E: no ulcer, foot sensation normal.\nA: 1. T2DM, sugar control not at target.\nP: 1. Continue metformin 1000 mg BD. 2. Continue glimepiride 2 mg OD before breakfast. 3. HbA1c today.\nAdv: Shift the main meal earlier in the evening; no sugary drinks; walk 30 min after dinner, 5 days a week. R/V in 3 months."
+    },
+    {
+      "memory_id": "P16-m04",
+      "date": "2025-05-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 8.2 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P16-m05",
+      "date": "2025-11-11",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM. Still eating late on restaurant nights, dinner often after 10.30 pm. Missed glimepiride on two days last month when busy. Passing urine more at night, no thirst. No hypoglycaemia.\nO: BP 126/82 mmHg, pulse 80/min, wt 87 kg. O/E: NAD.\nA: 1. T2DM, HbA1c higher than in May, adherence an issue.\nP: 1. Continue metformin 1000 mg BD. 2. Continue glimepiride 2 mg OD before breakfast; set a phone alarm for it. 3. HbA1c sent today.\nAdv: Keep dinner before 9 pm where possible; half plate of rice with dal and vegetables; walk after dinner. R/V in 3 months."
+    },
+    {
+      "memory_id": "P16-m06",
+      "date": "2025-11-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 8.6 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P16-m07",
+      "date": "2025-12-09",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM. Feels well. No previous eye check on record. No hypoglycaemia. Still working long hours.\nO: BP 128/84 mmHg, pulse 78/min, wt 86 kg. O/E: NAD.\nA: 1. T2DM, sugar control still above target. 2. Diabetic eye screening due.\nP: 1. Continue metformin 1000 mg BD. 2. Continue glimepiride 2 mg OD before breakfast. 3. Referred to ophthalmology for diabetic eye screening; letter given to patient.\nAdv: Reduce white rice to one katori per meal; add dal, sprouts and salad; walk 30 min daily. R/V in 2 months."
+    },
+    {
+      "memory_id": "P16-m08",
+      "date": "2025-12-09",
+      "type": "referral",
+      "author": "D01",
+      "text": "Referral to ophthalmology: Dr Kamath, Narayana Nethralaya. Reason: diabetic eye screening in a patient with type 2 diabetes on metformin and glimepiride. Referred by Dr Anjali Mehta (D01) on 2025-12-09. Referral letter given to the patient."
+    },
+    {
+      "memory_id": "P16-m09",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM. Ramadan due to start in about a week; plans to keep the fasts. C/o nil hypoglycaemia. Works long hours, dinner still late.\nO: BP 122/78 mmHg, pulse 74/min, wt 85 kg. O/E: NAD.\nA: 1. T2DM. Fasting in Ramadan needs a change in glimepiride timing.\nP: 1. Metformin 1000 mg BD, taken with suhoor and with iftar. 2. Glimepiride reduced to 1 mg OD, taken with the iftar meal for the Ramadan period only. 3. Check sugar before suhoor and 2 hours after iftar. 4. Warning signs of low sugar reviewed: shaky, sweaty, confused.\nAdv: Protein-rich suhoor; avoid sweets and sweet drinks at iftar; 20 min walk after iftar. R/V in 2 months."
+    },
+    {
+      "memory_id": "P16-m10",
+      "date": "2026-02-10",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: glimepiride 2 mg OD before breakfast changed to 1 mg OD with the iftar meal, for the Ramadan fasting period only. Metformin 1000 mg BD unchanged."
+    },
+    {
+      "memory_id": "P16-m11",
+      "date": "2026-04-14",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM. Ramadan fasts completed, most days kept. Back to routine. C/o tiredness after lunch. No hypoglycaemia during the fasting month. Dinner still late on most days.\nO: BP 124/80 mmHg, pulse 76/min, wt 84 kg. O/E: NAD.\nA: 1. T2DM, control worse this quarter.\nP: 1. Glimepiride returned to 2 mg OD before breakfast from today. 2. Continue metformin 1000 mg BD. 3. HbA1c sent today.\nAdv: Three regular meals a day; walk 30 min after dinner; cut sweet tea. R/V in 4 months."
+    },
+    {
+      "memory_id": "P16-m12",
+      "date": "2026-04-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 9.1 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P16-m13",
+      "date": "2026-04-14",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: glimepiride 1 mg with the iftar meal (Ramadan dose) changed back to 2 mg OD before breakfast, from 2026-04-14. Metformin 1000 mg BD unchanged."
+    },
+    {
+      "memory_id": "P16-m14",
+      "date": "2026-08-11",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM. Works long hours at the restaurant. Dinner around 11 pm most nights. Often skips breakfast on busy days. Drinks sweet soda during service. No hypoglycaemia.\nO: BP 126/82 mmHg, pulse 80/min, wt 84 kg. O/E: NAD.\nA: 1. T2DM, HbA1c 8.9 %, slightly lower than April but still above target.\nP: 1. Continue metformin 1000 mg BD. 2. Continue glimepiride 2 mg OD before breakfast. 3. Diet plan given: 3 regular meals a day; breakfast within 1 hour of waking; take glimepiride before breakfast; no sugary drinks. 4. HbA1c in 3 months.\nAdv: Walk 30 min after dinner, 5 days a week; keep meals to fixed times. R/V in 3 months."
+    },
+    {
+      "memory_id": "P16-m15",
+      "date": "2026-08-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 8.9 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P16-m16",
+      "date": "2026-09-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient: 'Doctor, I saw a 16:8 intermittent fasting video on YouTube and want to start it this week. I plan to eat only between 12 pm and 8 pm and skip breakfast, to lose weight and bring my sugar down. Is this okay with my tablets?'"
+    }
+  ]
+}

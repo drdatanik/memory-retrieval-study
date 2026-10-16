@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0569",
+  "name": "Manjunath Murthy",
+  "age": 56,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Chronic urticaria",
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0569-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 56‑year‑old electrician reports recurrent itchy wheals over trunk and limbs for 2 years, worsened in past week, and low‑back pain radiating to left leg with numbness. EXAMINATION: BP 128/82 mmHg, weight 78 kg, height 1.68 m, BMI 27.6 (obese). Skin shows scattered erythematous wheals, no angioedema. Lumbar spine: tenderness at L4‑5, positive straight leg raise left 40°, right 55°. Neurologically intact. IMPRESSION: 1) Chronic urticaria, uncontrolled. 2) Lumbar sciatica likely discogenic. Order CBC with eosinophils, TSH, free T4, fasting lipid profile, fasting blood sugar (annual screen). Order MRI lumbar spine, lumbar X‑ray. ARRANGEMENTS: Start levocetirizine 5 mg OD, cetirizine 10 mg HS, pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD. Advise weight reduction, daily exercise, avoid known triggers. Return if: worsening wheals with swelling of lips/tongue, severe back pain with bowel/bladder incontinence, fever >39°C, or sudden vision change."
+    },
+    {
+      "memory_id": "X0569-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levocetirizine 5 mg OD; Cetirizine 10 mg HS; Pregabalin 75 mg BD; Diclofenac 50 mg BD after food; Methylcobalamin 1500 mcg OD."
+    },
+    {
+      "memory_id": "X0569-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.8 g/dl (13‑17), WBC 6.2×10⁹/L (4‑10), eosinophils 0.4×10⁹/L (0.04‑0.4). TSH 2.1 mIU/L (0.4‑4.0), free T4 12.5 pmol/L (9‑19). Fasting lipid: Cholesterol 5.2 mmol/L (<5.2), Triglycerides 1.8 mmol/L (<1.7), HDL 1.0 mmol/L (>1.0), LDL 3.2 mmol/L (<2.6). Fasting blood sugar 5.6 mmol/L (3.9‑5.5)."
+    },
+    {
+      "memory_id": "X0569-m04",
+      "date": "2025-04-19",
+      "type": "investigation",
+      "author": "D03",
+      "text": "MRI lumbar spine: L4‑5 disc protrusion causing mild left lateral recess stenosis, no cord compression. No significant degenerative change at other levels."
+    },
+    {
+      "memory_id": "X0569-m05",
+      "date": "2025-04-26",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Lumbar X‑ray (AP & lateral): Mild degenerative changes at L4‑5 with slight loss of disc height, no fracture or spondylolisthesis."
+    },
+    {
+      "memory_id": "X0569-m06",
+      "date": "2025-04-28",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"The cetirizine at night makes me feel groggy in the morning; I prefer to take only levocetirizine.\""
+    },
+    {
+      "memory_id": "X0569-m07",
+      "date": "2025-05-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levocetirizine 5 mg OD; Pregabalin 75 mg BD; Diclofenac 50 mg BD after food; Methylcobalamin 1500 mcg OD. (Cetirizine stopped due to daytime sedation)."
+    },
+    {
+      "memory_id": "X0569-m08",
+      "date": "2025-08-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up for urticaria and sciatica. Patient reports wheals reduced to twice weekly, mild itching, no angioedema. Back pain improved, occasional left‑leg numbness after long standing. EXAMINATION: BP 130/84, weight 76 kg, BMI 26.9 (overweight). Skin: few scattered wheals, no excoriation. Lumbar spine: tenderness L4‑5, straight leg raise left 50°, right 60°. IMPRESSION: Chronic urticaria partially controlled; lumbar sciatica improving. Continue current meds, add loratadine 10 mg OD as needed for breakthrough itch. Advise weight target <75 kg, daily walk. Order repeat CBC, TSH, fasting lipid, fasting blood sugar. ARRANGEMENTS: Continue levocetirizine 5 mg OD, pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD, add loratadine 10 mg OD prn. Return if: wheals >4 days/week, swelling of lips/tongue, back pain with fever, numbness worsening, or shortness of breath."
+    },
+    {
+      "memory_id": "X0569-m09",
+      "date": "2025-08-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.6 g/dl, WBC 5.9×10⁹/L, eosinophils 0.3×10⁹/L. TSH 2.0 mIU/L, free T4 12.3 pmol/L. Fasting lipid: Cholesterol 5.0 mmol/L, Triglycerides 1.6 mmol/L, HDL 1.1 mmol/L, LDL 3.0 mmol/L. Fasting blood sugar 5.4 mmol/L."
+    },
+    {
+      "memory_id": "X0569-m10",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levocetirizine 5 mg OD; Pregabalin 100 mg BD; Diclofenac 50 mg BD after food; Methylcobalamin 1500 mcg OD; Loratadine 10 mg OD prn. (Pregabalin increased from 75 mg BD to 100 mg BD for residual leg discomfort)."
+    },
+    {
+      "memory_id": "X0569-m11",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Review of urticaria and sciatica. Patient states wheals now once weekly, mild, no need for antihistamine. Back pain minimal, occasional stiffness after work. EXAMINATION: BP 128/80, weight 74 kg, BMI 26.2 (overweight). Skin: clear, no wheals. Lumbar spine: mild tenderness L4‑5, straight leg raise left 55°, right 65°. IMPRESSION: Chronic urticaria well controlled; lumbar sciatica resolved clinically. Consider tapering pregabalin. Order CBC, TSH, fasting lipid, fasting blood sugar. ARRANGEMENTS: Continue levocetirizine 5 mg OD, reduce pregabalin to 50 mg BD, continue diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD, stop loratadine. Advise maintain weight, continue core strengthening. Return if: wheals return >2 days/week, severe back pain, numbness, fever >39°C, or unexplained bruising."
+    },
+    {
+      "memory_id": "X0569-m12",
+      "date": "2025-12-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.7 g/dl, WBC 6.0×10⁹/L, eosinophils 0.2×10⁹/L. TSH 2.2 mIU/L, free T4 12.4 pmol/L. Fasting lipid: Cholesterol 4.8 mmol/L, Triglycerides 1.5 mmol/L, HDL 1.2 mmol/L, LDL 2.9 mmol/L. Fasting blood sugar 5.3 mmol/L."
+    },
+    {
+      "memory_id": "X0569-m13",
+      "date": "2026-02-20",
+      "type": "allergy",
+      "author": "D03",
+      "text": "Patient reports generalized urticaria and facial swelling after taking ibuprofen 400 mg for headache on 2026-02-18. Symptoms resolved with cetirizine 10 mg and observation. Allergy documented: NSAID (ibuprofen) – angioedema and urticaria."
+    },
+    {
+      "memory_id": "X0569-m14",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Annual review. Patient asymptomatic for urticaria, no wheals in past 3 months. Sciatica free, occasional mild back ache after long standing. EXAMINATION: BP 130/82, weight 73 kg, BMI 25.8 (overweight). Skin clear. Lumbar spine: no tenderness, straight leg raise negative. IMPRESSION: Chronic urticaria in remission; lumbar sciatica resolved. Continue levocetirizine 5 mg OD as needed, consider stopping if symptom‑free for 6 months. Continue methylcobalamin 1500 mcg OD, stop diclofenac (no pain). Order fasting lipid profile, fasting blood sugar, CBC, TSH (annual). ARRANGEMENTS: Continue levocetirizine 5 mg OD prn, methylcobalamin 1500 mcg OD. Stop pregabalin and diclofenac. Advise maintain weight, regular exercise, influenza vaccine offered (patient declined). Return if: wheals appear, angioedema, back pain with neurological deficit, fever >39°C, or unexplained weight loss."
+    },
+    {
+      "memory_id": "X0569-m15",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.8 g/dl, WBC 6.1×10⁹/L, eosinophils 0.2×10⁹/L. TSH 2.1 mIU/L, free T4 12.5 pmol/L. Fasting lipid: Cholesterol 4.6 mmol/L, Triglycerides 1.4 mmol/L, HDL 1.3 mmol/L, LDL 2.8 mmol/L. Fasting blood sugar 5.2 mmol/L."
+    },
+    {
+      "memory_id": "X0569-m16",
+      "date": "2026-06-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-07-15 at 10:00 am with Dr Priya Natarajan (D03) for routine chronic disease review."
+    },
+    {
+      "memory_id": "X0569-m17",
+      "date": "2026-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine follow‑up. Patient reports no urticaria episodes, no back pain, feels well. EXAMINATION: BP 128/80, weight 72 kg, BMI 25.5 (overweight). Skin clear. Lumbar spine: no tenderness, straight leg raise negative. IMPRESSION: Chronic urticaria and lumbar sciatica both in remission. No active treatment needed. ARRANGEMENTS: Continue levocetirizine 5 mg OD prn only if symptoms recur; methylcobalamin 1500 mcg OD continued for general wellness. No further labs required until next annual. Return if: wheals, angioedema, back pain with numbness/weakness, fever >39°C, or any new systemic symptoms."
+    }
+  ]
+}

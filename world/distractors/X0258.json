@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0258",
+  "name": "Abraham Fernandes",
+  "age": 81,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Benign positional vertigo",
+    "Sciatica",
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0258-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: episodic vertigo triggered by head movement, nausea mild, Dix-Hallpike positive on right.\n  - Plan: start betahistine 16 mg BD, meclizine 25 mg SOS for acute episodes, advise vestibular rehab, review in 8 weeks.\n- Sciatica\n  - Status: right leg pain radiating below knee, straight leg raise positive 60°, paresthesia in L5 distribution.\n  - Plan: start pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD, arrange lumbar MRI, review in 6 weeks.\n- Obesity\n  - Status: weight 92 kg, waist 102 cm (>90 cm cut-off), BMI 31.2.\n  - Plan: start orlistat 120 mg with each main meal, diet advice: breakfast - high protein, low carb; lunch - portion-controlled veg; dinner - light soup, check liver enzymes in 3 months, review weight monthly.\nDue: HbA1c 2025-07-10"
+    },
+    {
+      "memory_id": "X0258-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Betahistine 16 mg – 1-0-1 – after food\nMeclizine 25 mg – 0-0-1 SOS – after food\nPregabalin 75 mg – 1-0-1 – after food\nDiclofenac 50 mg – 1-0-1 – after food\nMethylcobalamin 1500 mcg – 1-0-0 – after food\nOrlistat 120 mg – 1-1-1 – with meals"
+    },
+    {
+      "memory_id": "X0258-m03",
+      "date": "2025-05-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 112 mg/dL (70-100)\nHbA1c 6.4% (4.0-5.6)\nLipid profile: Total cholesterol 210 mg/dL (<200), LDL 130 mg/dL (<100), HDL 38 mg/dL (>40), Triglycerides 165 mg/dL (<150)\nLiver function: ALT 28 U/L (<40), AST 26 U/L (<40), ALP 78 U/L (<120), GGT 32 U/L (<50), Bilirubin 0.9 mg/dL (<1.2)"
+    },
+    {
+      "memory_id": "X0258-m04",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: vertigo episodes reduced to twice weekly, meclizine used 3 times last month, no falls.\n  - Plan: continue betahistine 16 mg BD, add vestibular exercises twice daily, consider tapering meclizine if stable.\n- Sciatica\n  - Status: leg pain improved to 3/10, occasional tingling, straight leg raise 70°.\n  - Plan: continue pregabalin 75 mg BD, diclofenac 50 mg BD after food, add physiotherapy referral, review in 6 weeks.\n- Obesity\n  - Status: weight 89 kg, waist 99 cm, lost 3 kg.\n  - Plan: continue orlistat 120 mg TTD, reinforce diet: breakfast - egg whites & oats; lunch - dal & veg; dinner - grilled fish & salad, check lipids again in 3 months, monthly weight.\nDue: HbA1c 2025-09-15"
+    },
+    {
+      "memory_id": "X0258-m05",
+      "date": "2025-06-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Orlistat 120 mg – 1-1-1 – with meals (continue)\nBetahistine 16 mg – 1-0-1 – after food\nMeclizine 25 mg – 0-0-1 SOS – after food\nPregabalin 75 mg – 1-0-1 – after food\nDiclofenac 50 mg – 1-0-1 – after food\nMethylcobalamin 1500 mcg – 1-0-0 – after food"
+    },
+    {
+      "memory_id": "X0258-m06",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Lumbar spine MRI (plain) – shows L4‑L5 disc bulge with mild right foraminal narrowing, no cord compression, degenerative changes at L3‑L4. Correlation: matches clinical radiculopathy in L5 distribution."
+    },
+    {
+      "memory_id": "X0258-m07",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: vertigo frequency once weekly, mild nausea, no positional nystagmus on exam.\n  - Plan: continue betahistine 16 mg BD, consider reducing meclizine to SOS only, reinforce home Brandt‑Daroff exercises.\n- Sciatica\n  - Status: pain 2/10, improved after pregabalin, straight leg raise 80°.\n  - Plan: continue pregabalin 75 mg BD, diclofenac 50 mg BD after food, start physiotherapy (referral sent), review in 6 weeks.\n- Obesity\n  - Status: weight 87 kg, waist 96 cm.\n  - Plan: continue orlistat, diet tweak: add mid‑morning nuts snack, evening walk 30 min, check liver enzymes in 2 months.\nDue: HbA1c 2025-12-01"
+    },
+    {
+      "memory_id": "X0258-m08",
+      "date": "2025-08-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Pregabalin 75 mg – 1-0-1 – after food (continue)\nBetahistine 16 mg – 1-0-1 – after food\nMeclizine 25 mg – 0-0-1 SOS – after food\nDiclofenac 50 mg – 1-0-1 – after food\nMethylcobalamin 1500 mcg – 1-0-0 – after food\nOrlistat 120 mg – 1-1-1 – with meals"
+    },
+    {
+      "memory_id": "X0258-m09",
+      "date": "2025-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.2% (4.0-5.6)\nFasting glucose 108 mg/dL (70-100)\nLipid profile: Total cholesterol 195 mg/dL (<200), LDL 115 mg/dL (<100), HDL 40 mg/dL (>40), Triglycerides 148 mg/dL (<150)\nLiver function: ALT 30 U/L, AST 28 U/L, ALP 80 U/L, GGT 34 U/L, Bilirubin 0.8 mg/dL"
+    },
+    {
+      "memory_id": "X0258-m10",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-11-12 at 10:30 AM with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0258-m11",
+      "date": "2025-11-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: vertigo rare (<1 episode/month), meclizine used once last month.\n  - Plan: continue betahistine 16 mg BD, stop meclizine PRN, advise to resume if symptoms return.\n- Sciatica\n  - Status: leg pain 1/10, occasional stiffness, straight leg raise 85°.\n  - Plan: continue pregabalin 75 mg BD, diclofenac 50 mg BD after food, continue physiotherapy, consider tapering diclofenac if pain-free for 4 weeks.\n- Obesity\n  - Status: weight 85 kg, waist 93 cm (still >90 cm).\n  - Plan: continue orlistat, diet: replace evening rice with millet, increase protein, walk 45 min daily, re‑check lipids in 3 months.\nDue: HbA1c 2026-02-12"
+    },
+    {
+      "memory_id": "X0258-m12",
+      "date": "2025-12-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Messaged via clinic app: ‘I’ve been feeling a bit light‑headed when I stand up quickly, especially in the mornings. My ears feel a bit blocked. Should I be concerned?’"
+    },
+    {
+      "memory_id": "X0258-m13",
+      "date": "2026-01-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Pure‑tone audiometry – bilateral mild high‑frequency hearing loss (4‑8 kHz thresholds 30‑35 dB), speech discrimination 92%. No conductive component. Findings consistent with age‑related presbycusis, not explaining vertigo."
+    },
+    {
+      "memory_id": "X0258-m14",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  - Status: light‑headedness on standing improved after increasing fluid intake, no true vertigo spells.\n  - Plan: continue betahistine 16 mg BD, advise salt moderation, monitor orthostatic symptoms.\n- Sciatica\n  - Status: pain‑free for 3 weeks, straight leg raise 90°.\n  - Plan: taper diclofenac to 25 mg BD after food for 2 weeks then stop, continue pregabalin 75 mg BD, continue physiotherapy home program.\n- Obesity\n  - Status: weight 83 kg, waist 90 cm (at male cut‑off).\n  - Plan: continue orlistat, diet: add legumes, reduce saturated fat, maintain activity, check liver enzymes.\nDue: HbA1c 2026-05-01"
+    },
+    {
+      "memory_id": "X0258-m15",
+      "date": "2026-03-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function test: ALT 22 U/L (<40), AST 20 U/L (<40), ALP 75 U/L (<120), GGT 28 U/L (<50), Bilirubin 0.7 mg/dL (<1.2). Orlistat well tolerated."
+    },
+    {
+      "memory_id": "X0258-m16",
+      "date": "2026-04-20",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Physiotherapy Department, Sri Jayadeva Institute for Cardiovascular Sciences, Bengaluru. Reason: persistent lumbar radiculopathy despite medication, need core strengthening and lumbar traction. Requested 6 sessions over 8 weeks, report back on pain and functional status."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0465",
+  "name": "Stephen Mathew",
+  "age": 90,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0465-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine dyslipidaemia review.\nPRESENTING COMPLAINT: Patient comes for regular follow‑up of high cholesterol, reports no new symptoms.\nEXAMINATION: BP 138/82 mmHg, weight 68 kg, height 1.70 m, BMI 23.5 (overweight). Advised to reduce saturated fat intake and increase walking to 30 minutes daily.\nIMPRESSION: Dyslipidaemia, stable. Ordered fasting lipid profile, liver function test and creatine kinase to assess statin safety.\nARRANGEMENTS: Start atorvastatin 10 mg at bedtime. Review in 3 months. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0465-m02",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 138 mg/dL (optimal <100), HDL 42 mg/dL (>40 good), triglycerides 165 mg/dL (<150 normal). Liver function: ALT 28 U/L (7‑56), AST 24 U/L (10‑40), ALKP 78 U/L (30‑120), GGT 32 U/L (0‑51). Creatine kinase: 92 U/L (30‑200)."
+    },
+    {
+      "memory_id": "X0465-m03",
+      "date": "2025-05-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Atorvastatin 10 mg HS"
+    },
+    {
+      "memory_id": "X0465-m04",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Check lipid response and muscle symptoms.\nPRESENTING COMPLAINT: Patient notes occasional mild thigh discomfort after walks, otherwise well.\nEXAMINATION: BP 140/84 mmHg, weight 69 kg, BMI 23.8 (overweight). Advised to maintain low‑salt diet and gentle stretching.\nIMPRESSION: Dyslipidaemia, LDL still elevated. CK normal, no significant myalgia. Consider switching to rosuvastatin for better LDL reduction.\nARRANGEMENTS: Stop atorvastatin, start rosuvastatin 10 mg OD. Repeat labs in 6 weeks. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0465-m05",
+      "date": "2025-07-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 112 mg/dL, HDL 44 mg/dL, triglycerides 158 mg/dL. Liver function: ALT 30 U/L, AST 26 U/L, ALKP 80 U/L, GGT 34 U/L. Creatine kinase: 95 U/L."
+    },
+    {
+      "memory_id": "X0465-m06",
+      "date": "2025-08-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0465-m07",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have felt a slight ache in my calves when climbing stairs, but it goes away with rest. No fever or other issues."
+    },
+    {
+      "memory_id": "X0465-m08",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Resting ECG: sinus rhythm 72 bpm, no ST‑T changes, no evidence of ischemia. Normal study."
+    },
+    {
+      "memory_id": "X0465-m09",
+      "date": "2025-10-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual review and influenza vaccination.\nPRESENTING COMPLAINT: Patient comes for routine check‑up, reports mild calf ache only on exertion, otherwise fine.\nEXAMINATION: BP 138/80 mmHg, weight 70 kg, BMI 24.2 (overweight). Advised to continue balanced diet and daily walks.\nIMPRESSION: Dyslipidaemia, LDL improved but still above target. Ordered fasting lipid profile, fasting blood sugar, liver function and CK for annual screening.\nARRANGEMENTS: Continue rosuvastatin 10 mg OD. Give influenza vaccine today (01‑Oct‑2025). Review in 3 months. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0465-m10",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 105 mg/dL, HDL 45 mg/dL, triglycerides 150 mg/dL. Fasting blood sugar: 92 mg/dL (70‑99 normal). Liver function: ALT 27 U/L, AST 23 U/L, ALKP 76 U/L, GGT 30 U/L. Creatine kinase: 88 U/L."
+    },
+    {
+      "memory_id": "X0465-m11",
+      "date": "2025-11-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 10 mg OD\nFenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0465-m12",
+      "date": "2025-11-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 01‑Feb‑2026 at 10:00 am with Dr Priya Natarajan."
+    },
+    {
+      "memory_id": "X0465-m13",
+      "date": "2026-02-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Post‑holiday lipid check.\nPRESENTING COMPLAINT: Patient returns for scheduled review, feels well, no new complaints.\nEXAMINATION: BP 142/86 mmHg, weight 71 kg, BMI 24.5 (overweight). Advised to watch portion sizes and maintain activity.\nIMPRESSION: Dyslipidaemia on rosuvastatin and fenofibrate, lipids satisfactory. No medication changes needed.\nARRANGEMENTS: Continue current regimen. Influenza vaccine status: given 01‑Oct‑2025, up to date. Review in 3 months. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0465-m14",
+      "date": "2026-03-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 108 mg/dL, HDL 46 mg/dL, triglycerides 148 mg/dL. Liver function: ALT 29 U/L, AST 25 U/L, ALKP 79 U/L, GGT 33 U/L. Creatine kinase: 90 U/L."
+    },
+    {
+      "memory_id": "X0465-m15",
+      "date": "2026-04-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual dyslipidaemia review.\nPRESENTING COMPLAINT: Patient attends for routine follow‑up, denies chest pain, dyspnoea or fever.\nEXAMINATION: BP 140/84 mmHg, weight 72 kg, BMI 24.9 (overweight). Advised to reduce refined carbs and increase vegetable intake.\nIMPRESSION: Dyslipidaemia, LDL borderline high. Ordered fasting lipid profile, fasting blood sugar, liver function and CK for yearly screening.\nARRANGEMENTS: Continue rosuvastatin 10 mg OD and fenofibrate 145 mg OD. Influenza vaccine status: given 01‑Oct‑2025, still valid. Review in 6 months. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0465-m16",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Rosuvastatin 20 mg OD\nFenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0465-m17",
+      "date": "2026-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking the medicines as prescribed and feel good. No muscle pain or stomach upset."
+    },
+    {
+      "memory_id": "X0465-m18",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Autumn review and influenza vaccination.\nPRESENTING COMPLAINT: Patient comes for regular check‑up, reports feeling well, no new symptoms.\nEXAMINATION: BP 138/82 mmHg, weight 73 kg, BMI 25.2 (obese). Advised to adopt a Mediterranean‑style diet and aim for 150 minutes of weekly aerobic activity.\nIMPRESSION: Dyslipidaemia, LDL well controlled on current regimen. Ordered fasting lipid profile, fasting blood sugar, liver function and CK for annual review.\nARRANGEMENTS: Continue rosuvastatin 20 mg OD and fenofibrate 145 mg OD. Give influenza vaccine today (05‑Oct‑2026). Review in 4 months. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    }
+  ]
+}

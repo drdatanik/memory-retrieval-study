@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0561",
+  "name": "Remya Nair",
+  "age": 83,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Migraine",
+    "Osteoporosis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0561-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of migraine and osteoporosis.\nPRESENTING COMPLAINT: Patient reports occasional throbbing frontal headaches, relieved by sumatriptan, and no new bone pain.\nEXAMINATION: BP 138/82 mmHg, weight 58 kg, height 1.55 m, BMI 24.2 (overweight). Neurologic exam normal; no focal deficits. Spine tender minimally over lumbar region.\nIMPRESSION: Migraine controlled on prophylactic propranolol; osteoporosis stable on alendronate, calcium and vitamin D. Advised weight management and daily walk.\nARRANGEMENTS: Continue propranolol 40 mg OD, sumatriptan 50 mg SOS, topiramate 25 mg HS, naproxen 500 mg SOS; alendronate 70 mg weekly, calcium 500 mg BD with vitamin D3. Return if headache worsens, visual aura, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0561-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nAlendronate 70 mg once weekly\nCalcium carbonate 500 mg BD\nVitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0561-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dL (<200 desirable), LDL 110 mg/dL (<100 near optimal), HDL 48 mg/dL (>40 good), Triglycerides 130 mg/dL (<150 normal).\nFasting blood sugar: 92 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0561-m04",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "CT head (non‑contrast): No acute hemorrhage, infarct or mass lesion. Ventricles and sulci age‑appropriate. No evidence of chronic ischemic changes."
+    },
+    {
+      "memory_id": "X0561-m05",
+      "date": "2025-04-15",
+      "type": "allergy",
+      "author": "D03",
+      "text": "Allergy: Penicillin – rash and pruritus within 30 minutes of ingestion. Avoid beta‑lactam antibiotics."
+    },
+    {
+      "memory_id": "X0561-m06",
+      "date": "2025-08-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Increase in migraine frequency.\nPRESENTING COMPLAINT: Patient reports 4‑5 migraine days per month, needing sumatriptan twice weekly; mild neck stiffness.\nEXAMINATION: BP 140/84 mmHg, weight 59 kg, BMI 24.5 (overweight). Neurologic exam normal; no meningismus.\nIMPRESSION: Migraine prophylaxis may need uptitration. Osteoporosis unchanged.\nARRANGEMENTS: Increase topiramate to 50 mg HS; continue propranolol, sumatriptan, naproxen, osteoporosis meds. Advise low‑salt diet, regular aerobic activity. Return if headache becomes daily, neurological deficit, vision changes, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0561-m07",
+      "date": "2025-08-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 50 mg HS\nNaproxen 500 mg SOS\nAlendronate 70 mg once weekly\nCalcium carbonate 500 mg BD\nVitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0561-m08",
+      "date": "2025-09-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 9.2 mg/dL (8.5‑10.5 normal).\nSerum 25‑OH vitamin D: 22 ng/mL (20‑50 sufficient)."
+    },
+    {
+      "memory_id": "X0561-m09",
+      "date": "2025-11-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 05‑Dec‑2025 at 10:30 am with Dr Priya Natarajan (D03) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0561-m10",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Autumn review; influenza vaccination.\nPRESENTING COMPLAINT: Patient reports stable migraine (2‑3 days/month) with sumatriptan use; no new bone pain.\nEXAMINATION: BP 138/80 mmHg, weight 59 kg, BMI 24.5 (overweight). Lung clear, heart regular S1S2.\nIMPRESSION: Migraine controlled on current regimen. Osteoporosis stable; vitamin D sufficient. Influenza vaccine indicated due to age >60.\nARRANGEMENTS: Continue propranolol 40 mg OD, sumatriptan 50 mg SOS, topiramate 50 mg HS, naproxen 500 mg SOS; alendronate 70 mg weekly, calcium 500 mg BD with vitamin D3. Administered inactivated influenza vaccine (0.5 mL IM) today. Return if headache worsens, neurological signs, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0561-m11",
+      "date": "2026-02-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been having more throbbing headaches lately, especially after long drives. Sumatriptan helps but I need it almost every other day. Worried about medicine overuse."
+    },
+    {
+      "memory_id": "X0561-m12",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Review of increased migraine frequency and medication overuse concern.\nPRESENTING COMPLAINT: Patient reports migraine on 8‑10 days/month, using sumatriptan 4‑5 times weekly; mild nausea after doses.\nEXAMINATION: BP 142/86 mmHg, weight 60 kg, BMI 25.0 (obese). Neurologic exam normal.\nIMPRESSION: Probable medication‑overuse headache contributing to migraine burden. Osteoporosis unchanged.\nARRANGEMENTS: Stop sumatriptan SOS; start naproxen 500 mg BD for acute migraine with gastroprotection if needed; keep propranolol 40 mg OD, topiramate 50 mg HS. Continue osteoporosis meds. Counsel on limiting acute meds to <10 days/month, hydration, regular sleep. Return if headache becomes daily, neurological deficit, vision loss, chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0561-m13",
+      "date": "2026-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 185 mg/dL, LDL 105 mg/dL, HDL 50 mg/dL, Triglycerides 125 mg/dL.\nFasting blood sugar: 90 mg/dL (normal)."
+    },
+    {
+      "memory_id": "X0561-m14",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Six‑month follow‑up after medication‑overuse intervention.\nPRESENTING COMPLAINT: Patient reports migraine days reduced to 4‑5 per month, sumatriptan use nil; occasional mild headache relieved by naproxen.\nEXAMINATION: BP 139/82 mmHg, weight 59.5 kg, BMI 24.8 (overweight).\nIMPRESSION: Migraine improved after limiting acute medication; osteoporosis stable on alendronate, calcium, vitamin D.\nARRANGEMENTS: Continue propranolol 40 mg OD, topiramate 50 mg HS, naproxen 500 mg BD PRN; alendronate 70 mg weekly, calcium 500 mg BD with vitamin D3. Discuss fall prevention, weight‑bearing exercise. Return if headache worsens, neurological signs, chest pain, breathlessness, fever >39°C, or blood in stools."
+    }
+  ]
+}

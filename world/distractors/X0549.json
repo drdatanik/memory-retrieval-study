@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0549",
+  "name": "Subhash Chakraborty",
+  "age": 63,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0549-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Initial assessment for low mood and fatigue.\nPRESENTING COMPLAINT: Mr reports persistent sadness, loss of interest, low energy, and trouble sleeping for 3 months. Denies suicidal thoughts.\nEXAMINATION: BP 128/82 mmHg, weight 78 kg, height 1.70 m, BMI 27 (obese). Appearance subdued, psychomotor retardation mild.\nIMPRESSION: Moderate depressive episode. Ordered fasting lipid profile, fasting blood sugar, TSH, vitamin B12, PHQ-9.\nARRANGEMENTS: Start sertraline 50 mg OD. Advise diet low in refined carbs, increase walking to 30 min daily. Return if worsening sadness, suicidal intent, chest pain, fever >39°C, or black stools. Flu vaccine offered; patient declined today."
+    },
+    {
+      "memory_id": "X0549-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Sertraline 50 mg tablet, take one tablet once daily after breakfast. Continue for 8 weeks, then review."
+    },
+    {
+      "memory_id": "X0549-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 score 14 (moderate depression). TSH 2.1 mIU/L (0.4-4.0). Vitamin B12 320 pg/mL (200-900). Fasting cholesterol 5.2 mmol/L (<5.2 borderline). HDL 1.1 mmol/L (>1.0). Triglycerides 1.8 mmol/L (<1.7 slightly high). LDL 3.0 mmol/L (<2.6 high). Fasting glucose 6.1 mmol/L (3.9-5.5) – impaired fasting glucose."
+    },
+    {
+      "memory_id": "X0549-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up on antidepressant trial and metabolic concerns.\nPRESENTING COMPLAINT: Patient says mood better, energy up, but reports mild nausea and daytime fatigue. Sleep improved.\nEXAMINATION: BP 130/84 mmHg, weight 77.5 kg, height 1.70 m, BMI 26.8 (obese). No tremor, abdomen soft.\nIMPRESSION: Partial response to sertraline; nausea likely drug‑related. Continue monitoring lipids and glucose.\nARRANGEMENTS: Switch to escitalopram 10 mg OD. Advise taking with food, report persistent nausea. Return if worsening depression, suicidal thoughts, severe nausea, chest pain, fever >39°C, or black stools. Flu vaccine not due yet."
+    },
+    {
+      "memory_id": "X0549-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg tablet, take one tablet each morning after breakfast. Continue for 8 weeks, then review."
+    },
+    {
+      "memory_id": "X0549-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 score 9 (mild depression). TSH 2.0 mIU/L (0.4-4.0). Vitamin B12 310 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0549-m07",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Patient booked a review appointment for 2025-10-05 at 10:30 AM with Dr Priya Natarajan (D03) for chronic disease follow‑up."
+    },
+    {
+      "memory_id": "X0549-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review after medication change and pre‑vaccination visit.\nPRESENTING COMPLAINT: Patient feels mood stable, reports less nausea, but notes increased appetite and weight gain.\nEXAMINATION: BP 132/86 mmHg, weight 80.2 kg, height 1.70 m, BMI 27.7 (obese). Abdomen soft, no hepatomegaly.\nIMPRESSION: Escitalopram tolerated; weight gain noted. Ordered fasting lipid profile and fasting blood sugar as yearly review.\nARRANGEMENTS: Add mirtazapine 15 mg HS for sleep and appetite support. Counsel on balanced diet, limit sugary snacks, aim 150 min walk/week. Return if worsening depression, suicidal intent, marked sedation, chest pain, fever >39°C, or black stools. Influenza vaccine administered today (02‑Oct‑2025)."
+    },
+    {
+      "memory_id": "X0549-m09",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Mirtazapine 15 mg tablet, take one tablet at bedtime. Continue as needed, review in 4 weeks."
+    },
+    {
+      "memory_id": "X0549-m10",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Winter check‑up for metabolic parameters and depression.\nPRESENTING COMPLAINT: Patient reports steady mood, good sleep, but worries about rising weight and occasional abdominal discomfort.\nEXAMINATION: BP 134/88 mmHg, weight 81.5 kg, height 1.70 m, BMI 28.2 (obese). Abdomen mildly tender in epigastrium, no guarding.\nIMPRESSION: Stable depressive symptoms on escitalopram + mirtazapine. Lipids show elevated LDL; fasting glucose unchanged.\nARRANGEMENTS: Continue current antidepressants. Reinforce low‑saturated‑fat diet, increase aerobic activity to 180 min/week. Return if new chest pain, dyspnea, fever >39°C, vomiting, or black stools."
+    },
+    {
+      "memory_id": "X0549-m11",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting cholesterol 5.8 mmol/L (<5.2 desirable). HDL 1.0 mmol/L (>1.0). Triglycerides 2.0 mmol/L (<1.7). LDL 3.6 mmol/L (<2.6). Fasting glucose 6.2 mmol/L (3.9-5.5)."
+    },
+    {
+      "memory_id": "X0549-m12",
+      "date": "2026-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual review of depression and cardiovascular risk.\nPRESENTING COMPLAINT: Patient says mood remains good, energy adequate, no side effects. Asks about flu shot for coming season.\nEXAMINATION: BP 136/90 mmHg, weight 82.0 kg, height 1.70 m, BMI 28.4 (obese). No edema, lungs clear.\nIMPRESSION: Depression in remission (PHQ-9 4). Lipids still above target; glycemic status unchanged.\nARRANGEMENTS: Continue escitalopram 10 mg OD and mirtazapine 15 mg HS. Advise Mediterranean‑style diet, aim 200 min brisk walk weekly. Return if worsening mood, suicidal thoughts, chest pain, breathlessness, fever >39°C, or black stools. Influenza vaccine offered; patient will receive in October."
+    },
+    {
+      "memory_id": "X0549-m13",
+      "date": "2026-10-11",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Final visit within study window – pre‑winter assessment.\nPRESENTING COMPLAINT: Patient reports stable mood, good sleep, mild weight concern. No new symptoms.\nEXAMINATION: BP 138/92 mmHg, weight 82.5 kg, height 1.70 m, BMI 28.5 (obese). Abdomen soft, no masses.\nIMPRESSION: Depression well controlled. Cardiovascular risk factors persist; discuss statin if LDL remains >3.5 after lifestyle.\nARRANGEMENTS: Continue current antidepressants. Reinforce diet and exercise plan. Return if new chest pain, dyspnea, fever >39°C, vomiting, or black stools. Influenza vaccine administered today (11‑Oct‑2026)."
+    }
+  ]
+}

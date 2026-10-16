@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0205",
+  "name": "Kannan Subramanian",
+  "age": 54,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Migraine",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0205-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: follow‑up of migraine and asthma.\nPRESENTING COMPLAINT: Patient reports throbbing bilateral headaches twice weekly, mild exertional wheezing relieved by salbutamol inhaler.\nEXAMINATION: BP 128/82 mmHg, weight 78 kg, height 1.68 m, BMI 27.6 (obese). Respiratory exam shows mild bilateral expiratory wheeze; cardiovascular normal; neurological exam normal.\nIMPRESSION: 1) Migraine – continue propranolol 40 mg OD for prophylaxis. 2) Asthma – currently controlled on budesonide‑formoterol 200/6 inhaler BD and salbutamol SOS. Order fasting lipid profile and fasting blood sugar (annual screen). Order neurological examination and CT head to exclude secondary headache causes. Order spirometry with reversibility.\nARRANGEMENTS: Continue all medications. Schedule investigations today. Return if: new severe headache, visual loss, weakness, speech difficulty, fever >39°C, worsening wheeze, breathlessness at rest, or blood in sputum. Ask patient to repeat the list. Advice: reduce refined carbohydrates, increase daily walk to 30 min, avoid fried foods."
+    },
+    {
+      "memory_id": "X0205-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nSalbutamol metered‑dose inhaler SOS\nBudesonide‑formoterol 200/6 inhaler BD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0205-m03",
+      "date": "2025-04-07",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Neurological examination: cranial nerves II‑XII intact, no facial asymmetry, normal limb tone and strength, normal gait, Romberg negative."
+    },
+    {
+      "memory_id": "X0205-m04",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D03",
+      "text": "CT head (non‑contrast): no acute hemorrhage, infarct or mass; ventricles and sulci within normal limits."
+    },
+    {
+      "memory_id": "X0205-m05",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.2 mmol/L (ref <5.2), LDL 3.4 mmol/L (<2.6), HDL 1.1 mmol/L (>1.0), triglycerides 1.8 mmol/L (<1.7).\nFasting blood sugar: 6.1 mmol/L (ref 3.9‑5.6)."
+    },
+    {
+      "memory_id": "X0205-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: review of headache frequency and lipid results.\nPRESENTING COMPLAINT: Headaches reduced to once weekly; mild fatigue noted. No asthma exacerbations in past month.\nEXAMINATION: BP 130/84 mmHg, weight 77 kg, BMI 27.3 (obese). Respiratory clear. No neurological deficits.\nIMPRESSION: Migraine – prophylaxis partially effective; consider adding topiramate. Asthma – well controlled. Lipids show borderline high LDL; FBS elevated suggesting pre‑diabetes. Continue statin‑lifestyle advice.\nARRANGEMENTS: Increase topiramate to 25 mg HS (already) and add propranolol 40 mg OD unchanged. Initiate metformin 500 mg BD for pre‑diabetes. Advise low‑glycemic diet, repeat lipids and FBS in 3 months. Return if: headache >3 days continuous, visual aura, chest pain, dyspnea on exertion, fever >39°C, or hypoglycaemic symptoms. Advice: increase vegetable intake, limit sweets, walk 4 km weekly."
+    },
+    {
+      "memory_id": "X0205-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nSalbutamol metered‑dose inhaler SOS\nBudesonide‑formoterol 200/6 inhaler BD\nMontelukast 10 mg HS\nMetformin 500 mg BD"
+    },
+    {
+      "memory_id": "X0205-m08",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry with reversibility: FEV1 2.1 L (78% predicted), FVC 2.8 L (85% predicted), FEV1/FVC 0.75. Post‑bronchodilator FEV1 2.4 L (88% predicted), improvement 14% – positive reversibility consistent with asthma."
+    },
+    {
+      "memory_id": "X0205-m09",
+      "date": "2025-07-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been using my salbutamol inhaler only twice a week and my Asthma Control Test score is 22 (well controlled). Headaches are less troubling but I still feel occasional neck tension."
+    },
+    {
+      "memory_id": "X0205-m10",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: autumn review; assess flu vaccine need and metabolic parameters.\nPRESENTING COMPLAINT: No headache attacks in past 4 weeks; occasional mild nasal congestion. No wheeze.\nEXAMINATION: BP 128/80 mmHg, weight 76 kg, BMI 26.9 (overweight). Respiratory clear. No focal neurology.\nIMPRESSION: Migraine – well controlled on current regimen. Asthma – controlled. Lipids: repeat shows LDL 3.0 mmol/L, HDL 1.2 mmol/L, triglycerides 1.5 mmol/L. FBS 5.8 mmol/L (improved). Patient eligible for annual influenza vaccine due to chronic lung disease.\nARRANGEMENTS: Continue all meds. Give inactivated influenza vaccine today (0.5 mL IM). Advise maintain weight <23 kg/m2 via diet and brisk walking 30 min daily. Return if: sudden severe headache, fever >39°C, productive cough with coloured sputum, chest pain, or shortness of breath at rest. Ask patient to repeat list."
+    },
+    {
+      "memory_id": "X0205-m11",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS – discontinued due to epigastric discomfort\nSalbutamol metered‑dose inhaler SOS\nBudesonide‑formoterol 200/6 inhaler BD\nMontelukast 10 mg HS\nMetformin 500 mg BD"
+    },
+    {
+      "memory_id": "X0205-m12",
+      "date": "2025-11-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for influenza vaccination on 2025-11-01 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0205-m13",
+      "date": "2026-02-03",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: post‑vaccination follow‑up and metabolic review.\nPRESENTING COMPLAINT: Patient reports no flu‑like symptoms after vaccine; occasional mild headache after long work days.\nEXAMINATION: BP 130/82 mmHg, weight 75 kg, BMI 26.5 (overweight). Respiratory clear.\nIMPRESSION: Migraine – stable; occasional tension‑type headache likely stress‑related. Asthma – well controlled. Metformin tolerated; FBS 5.5 mmol/L, LDL 2.8 mmol/L, HDL 1.3 mmol/L, triglycerides 1.4 mmol/L – improving toward targets.\nARRANGEMENTS: Continue current meds. Encourage stress‑management techniques, maintain aerobic activity 150 min/week. Return if: new neurological deficit, fever >39°C, worsening wheeze, unexplained weight loss, or gastrointestinal bleeding. Advice: reduce saturated fat, increase whole grains."
+    },
+    {
+      "memory_id": "X0205-m14",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 4.8 mmol/L (<5.2), LDL 2.8 mmol/L (<2.6 borderline), HDL 1.3 mmol/L (>1.0), triglycerides 1.4 mmol/L (<1.7).\nFasting blood sugar: 5.5 mmol/L (ref 3.9‑5.6)."
+    }
+  ]
+}

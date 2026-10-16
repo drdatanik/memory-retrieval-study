@@ -1,0 +1,52 @@
+{
+  "patient_id": "P01",
+  "name": "Sunita Rao",
+  "age": 58,
+  "sex": "F",
+  "primary_doctor": "D01",
+  "conditions": ["Type 2 diabetes", "Hypertension"],
+  "memories": [
+    {
+      "memory_id": "P01-m01",
+      "date": "2025-04-08",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM x 6 yrs, HTN. c/o burning feet on walking; no hypoglycaemic symptoms. O: BP 138/88. O/E: monofilament sensation reduced at both great toes. A: T2DM, HbA1c 7.4%, suboptimal. HTN, near target. P: 1. Metformin (Glycomet) 500 mg BD. 2. Telmisartan (Telma) 40 mg OD. 3. Repeat HbA1c in 3 months. 4. Annual eye exam due. Adv: 30 min brisk walk 5 days a week; cut sugar in tea. R/V in 3 months."
+    },
+    {
+      "memory_id": "P01-m02",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report, sample drawn 2025-04-08.\nHbA1c: 7.4 % (ref < 5.7)\nFasting glucose: 142 mg/dL (ref 70-99)\nCreatinine: 0.9 mg/dL (ref 0.6-1.1)"
+    },
+    {
+      "memory_id": "P01-m03",
+      "date": "2025-06-12",
+      "type": "allergy",
+      "author": "D01",
+      "text": "Penicillin: rash (2019). Confirmed at intake review. Avoid penicillin-class antibiotics."
+    },
+    {
+      "memory_id": "P01-m04",
+      "date": "2025-09-02",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx: Telmisartan (Telma) 80 mg OD, increased from 40 mg OD for BP 146/92 at review on 2025-08-28. Metformin (Glycomet) 500 mg BD continued. Dispense 90 days."
+    },
+    {
+      "memory_id": "P01-m05",
+      "date": "2026-02-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, typed: legs feel tired after the walks, but the sugar readings on my meter are mostly under 140 now."
+    },
+    {
+      "memory_id": "P01-m06",
+      "date": "2026-03-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked by phone for 2026-10-20 at 10:30 with Dr Anjali Mehta (D01), diabetes review."
+    }
+  ]
+}

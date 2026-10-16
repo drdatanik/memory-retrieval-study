@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0505",
+  "name": "Basavaraj Naik",
+  "age": 87,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Benign positional vertigo",
+    "Hypothyroidism",
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0505-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Mr reports episodic spinning sensation lasting seconds, triggered by turning head to right, associated with mild nausea. He also notes fatigue and occasional joint pain in big toe. EXAMINATION: BP 138/84 mmHg, weight 68 kg, height 1.68 m, BMI 24.1 (overweight). Dix-Hallpike positive on right side. Thyroid not enlarged. First metatarsophalangeal joint mildly tender. IMPRESSION: Benign positional vertigo, likely right posterior canal BPPV; subclinical hypothyroidism; asymptomatic hyperuricemia. ARRANGEMENTS: Start betahistine 16 mg BD, meclizine 25 mg SOS for vertigo; levothyroxine 50 mcg OD; allopurinol 100 mg OD. Advise low‑purine diet, hydration, vestibular exercises. Return if vertigo worsens with vomiting, new chest pain, fever >39°C, or bloody stools."
+    },
+    {
+      "memory_id": "X0505-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Betahistine mesylate 16 mg tablet – take one tablet twice daily.\nMeclizine hydrochloride 25 mg tablet – take one tablet as needed for vertigo, max three times daily.\nLevothyroxine sodium 50 mcg tablet – take one tablet each morning on empty stomach.\nAllopurinol 100 mg tablet – take one tablet daily after food."
+    },
+    {
+      "memory_id": "X0505-m03",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Dix‑Hallpike test performed. Patient developed vertical torsional nystagmus with latency of 5 seconds, lasting <30 seconds, consistent with right posterior canal BPPV. Test positive."
+    },
+    {
+      "memory_id": "X0505-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Pure‑tone audiometry conducted. Air‑conduction thresholds within normal limits (≤25 dB HL) across 250‑8000 Hz bilaterally. No significant hearing loss detected."
+    },
+    {
+      "memory_id": "X0505-m05",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.8 mIU/L (ref 0.4‑4.0). Free T4 11.2 pmol/L (ref 10.0‑14.0). Serum uric acid 7.9 mg/dL (ref <7.0 male). Serum creatinine 0.92 mg/dL (ref 0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0505-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Vertigo episodes reduced to once weekly, mild. No new joint pain. Reports feeling less fatigued. EXAMINATION: BP 136/82 mmHg, weight 68.5 kg, BMI 24.2 (overweight). No nystagmus. Thyroid non‑tender. First MTP joint non‑tender. IMPRESSION: Vertigo improving on betahistine; hypothyroid controlled; uric acid slightly elevated but asymptomatic. ARRANGEMENTS: Increase levothyroxine to 75 mcg OD to normalize TSH. Continue betahistine, meclizine SOS, allopurinol. Counsel on weight control and low‑purine diet. Return if vertigo becomes daily with vomiting, new chest pain, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0505-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Betahistine mesylate 16 mg tablet – BD.\nMeclizine hydrochloride 25 mg tablet – SOS.\nLevothyroxine sodium 75 mcg tablet – OD.\nAllopurinol 100 mg tablet – OD."
+    },
+    {
+      "memory_id": "X0505-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (ref 0.4‑4.0). Free T4 12.5 pmol/L (ref 10.0‑14.0). Serum uric acid 7.6 mg/dL (ref <7.0). Serum creatinine 0.90 mg/dL (ref 0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0505-m09",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Acute pain and swelling in left big toe for 2 days, worse on walking. Vertigo occasional, <1 episode/week. EXAMINATION: BP 140/86 mmHg, weight 69 kg, BMI 24.4 (overweight). Left first MTP joint erythematous, warm, tender. No joint effusion. Neurologic exam normal. IMPRESSION: Acute gout flare; vertigo stable; euthyroid on levothyroxine 75 mcg. ARRANGEMENTS: Stop allopurinol, start febuxostat 40 mg OD; colchicine 0.5 mg BD for 5 days then continue BD prophylaxis if needed. Continue betahistine, meclizine SOS. Advise ice, elevation, hydration. Return if fever >38.5°C, worsening joint pain despite meds, or gastrointestinal bleed."
+    },
+    {
+      "memory_id": "X0505-m10",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Betahistine mesylate 16 mg tablet – BD.\nMeclizine hydrochloride 25 mg tablet – SOS.\nLevothyroxine sodium 75 mcg tablet – OD.\nFebuxostat 40 mg tablet – OD.\nColchicine 0.5 mg tablet – BD for 5 days, then reassess."
+    },
+    {
+      "memory_id": "X0505-m11",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 8.3 mg/dL (ref <7.0). Serum creatinine 0.94 mg/dL (ref 0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0505-m12",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Left toe pain resolved, able to wear shoes comfortably. Vertigo rare, only with sudden head movement. No fatigue. EXAMINATION: BP 138/84 mmHg, weight 69.2 kg, BMI 24.5 (overweight). Left MTP joint non‑tender, no erythema. Thyroid normal. IMPRESSION: Gout flare resolved; vertigo controlled; thyroid euthyroid. ARRANGEMENTS: Continue febuxostat 40 mg OD; discontinue colchicine. Continue betahistine, meclizine SOS, levothyroxine 75 mcg OD. Advise maintain low‑purine diet, regular aerobic activity. Return if toe pain recurs with redness, vertigo becomes frequent with vomiting, chest pain, fever >39°C, or dark stools."
+    },
+    {
+      "memory_id": "X0505-m13",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Betahistine mesylate 16 mg tablet – BD.\nMeclizine hydrochloride 25 mg tablet – SOS.\nLevothyroxine sodium 75 mcg tablet – OD.\nFebuxostat 40 mg tablet – OD."
+    },
+    {
+      "memory_id": "X0505-m14",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (ref 0.4‑4.0). Free T4 12.8 pmol/L (ref 10.0‑14.0). Serum uric acid 6.2 mg/dL (ref <7.0). Serum creatinine 0.88 mg/dL (ref 0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0505-m15",
+      "date": "2026-04-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-05-15 at 10:00 AM with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0505-m16",
+      "date": "2026-05-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports occasional vertigo (<1 episode/month) triggered by lying down, no nausea. No joint pain. Feels well. EXAMINATION: BP 136/82 mmHg, weight 70 kg, height 1.68 m, BMI 24.8 (overweight). No nystagmus. Thyroid non‑enlarged. First MTP joints non‑tender. IMPRESSION: Vertigo infrequent, likely residual BPPV; gout asymptomatic on febuxostat; thyroid stable. ARRANGEMENTS: Continue betahistine 16 mg BD, meclizine 25 mg SOS, febuxostat 40 mg OD. Increase levothyroxine to 100 mcg OD to ensure TSH remains <2.5. Counsel on weight maintenance and vestibular re‑education. Return if vertigo becomes frequent with vomiting, new chest pain, fever >39°C, or blood in stool."
+    },
+    {
+      "memory_id": "X0505-m17",
+      "date": "2026-05-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Betahistine mesylate 16 mg tablet – BD.\nMeclizine hydrochloride 25 mg tablet – SOS.\nLevothyroxine sodium 100 mcg tablet – OD.\nFebuxostat 40 mg tablet – OD."
+    },
+    {
+      "memory_id": "X0505-m18",
+      "date": "2026-05-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.9 mIU/L (ref 0.4‑4.0). Free T4 13.0 pmol/L (ref 10.0‑14.0). Serum uric acid 5.8 mg/dL (ref <7.0). Serum creatinine 0.90 mg/dL (ref 0.6‑1.2)."
+    }
+  ]
+}

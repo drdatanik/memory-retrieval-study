@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0581",
+  "name": "Naveen Pandey",
+  "age": 60,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Psoriasis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0581-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: psoriasis assessment.\nPRESENTING COMPLAINT: 60‑year‑old lab technician reports chronic scaly plaques on elbows and knees, worsening over past month.\nEXAMINATION: BP 128/78 mmHg, weight 78 kg, height 1.70 m, BMI 27.0 (obese). Plaques erythematous with silvery scale, no pustules.\nIMPRESSION: Chronic plaque psoriasis, moderate severity. No signs of hepatic toxicity. Will order fasting lipid profile and fasting blood sugar as per annual screening for adults ≥40.\nARRANGEMENTS: Start clobetasol 0.05% cream BD topically to plaques, calcipotriol ointment OD topically, methotrexate 7.5 mg PO once weekly with folic acid 5 mg OD. Advise weight reduction, low‑salt diet, and 30 min brisk walk daily. Return if fever >39 °C, joint swelling, worsening skin lesions, or abdominal pain."
+    },
+    {
+      "memory_id": "X0581-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Clobetasol 0.05% cream apply BD to affected areas.\nCalcipotriol ointment apply OD to affected areas.\nMethotrexate 7.5 mg PO once weekly on Monday.\nFolic acid 5 mg PO daily."
+    },
+    {
+      "memory_id": "X0581-m03",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 32 U/L (7‑35), AST 28 U/L (8‑33), ALP 78 U/L (40‑129), Total bilirubin 0.9 mg/dL (0.2‑1.2).\nHemoglobin 14.2 g/dL (13‑17), WBC 6.8 x10^9/L (4‑10), Platelets 210 x10^9/L (150‑400).\nSerum creatinine 0.9 mg/dL (0.6‑1.2)."
+    },
+    {
+      "memory_id": "X0581-m04",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: psoriasis review after 3 months.\nPRESENTING COMPLAINT: Patient reports plaques thinner, less itching; occasional new spot on scalp.\nEXAMINATION: BP 130/80, weight 77 kg, BMI 26.5 (overweight). Scalp shows mild erythema, elbows/knees plaques faint.\nIMPRESSION: Psoriasis improving on current regimen. LFTs normal, CBC stable. Continue methotrexate 7.5 mg weekly; reinforce folic acid.\nARRANGEMENTS: Continue topical steroids BD, calcipotriol OD. Advise maintain weight loss, moisturise daily. Return if new joint pain, skin infection, or liver symptoms."
+    },
+    {
+      "memory_id": "X0581-m05",
+      "date": "2025-10-03",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Clobetasol 0.05% cream BD topically.\nCalcipriol ointment OD topically.\nMethotrexate 5 mg PO once weekly.\nFolic acid 5 mg PO daily."
+    },
+    {
+      "memory_id": "X0581-m06",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 24 U/L, AST 22 U/L, ALP 70 U/L, Bilirubin 0.8 mg/dL.\nHb 13.9 g/dL, WBC 6.5 x10^9/L, Platelets 200 x10^9/L.\nCreatinine 0.85 mg/dL."
+    },
+    {
+      "memory_id": "X0581-m07",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: psoriasis flare and new joint discomfort.\nPRESENTING COMPLAINT: Increased scaling on knees, painful stiffness in both wrists mornings lasting >30 min.\nEXAMINATION: BP 128/78, weight 76 kg, BMI 26.3 (overweight). Wrists mildly tender, no synovial thickening. Knees show active plaques.\nIMPRESSION: Psoriasis worsening; possible early psoriatic arthritis. LFTs normal. Will refer to dermatology for assessment and consider phototherapy.\nARRANGEMENTS: Continue current topicals and methotrexate 5 mg weekly. Advise joint protection, warm compresses. Return if fever, worsening joint swelling, or skin infection."
+    },
+    {
+      "memory_id": "X0581-m08",
+      "date": "2026-02-21",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Dermatology, Bangalore Medical Centre for evaluation of refractory psoriasis and possible psoriatic arthritis. Please assess suitability for narrow‑band UVB phototherapy and advise on systemic therapy if needed. Patient currently on methotrexate 5 mg weekly, folic acid, topical clobetasol and calcipotriol."
+    },
+    {
+      "memory_id": "X0581-m09",
+      "date": "2026-04-05",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Dermatology review: Plaques respond to topicals; methotrexate adequate. Recommend initiating narrow‑band UVB phototherapy twice weekly for 12 weeks. Continue methotrexate 5 mg weekly. Monitor LFTs every 3 months. No joint erosions seen clinically; advise rheumatology review if arthritis progresses."
+    },
+    {
+      "memory_id": "X0581-m10",
+      "date": "2026-04-06",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been noticing aching in my wrists and lower back after work, especially in the mornings. It eases after a warm shower but returns by evening. My skin lesions are still red but less scaly."
+    },
+    {
+      "memory_id": "X0581-m11",
+      "date": "2026-05-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "X‑ray hands (PA) performed to evaluate for arthritic changes. Findings: mild juxta‑articular erosions at the distal ulnar styloid and early periarticular osteopenia suggestive of early psoriatic arthritis. No significant joint space narrowing."
+    },
+    {
+      "memory_id": "X0581-m12",
+      "date": "2026-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 26 U/L, AST 24 U/L, ALP 72 U/L, Bilirubin 0.9 mg/dL.\nHb 14.0 g/dL, WBC 6.7 x10^9/L, Platelets 205 x10^9/L.\nCreatinine 0.88 mg/dL."
+    },
+    {
+      "memory_id": "X0581-m13",
+      "date": "2026-09-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review after phototherapy and labs.\nPRESENTING COMPLAINT: Skin lesions markedly lighter, occasional mild itch. Wrist aching improved but still present on heavy work days.\nEXAMINATION: BP 129/79, weight 75 kg, BMI 25.9 (overweight). Plaques faint, no active dermatitis. Wrists non‑tender, full range.\nIMPRESSION: Psoriasis responding to methotrexate, topicals, and UVB. LFTs stable. Early psoriatic arthritis symptoms mild; continue current regimen, consider adding low‑dose NSAID if pain worsens.\nARRANGEMENTS: Continue methotrexate 5 mg weekly, folic acid 5 mg daily, clobetasol BD, calcipotriol OD. Advise continue UVB course, joint‑friendly ergonomics, weight control. Return if fever, worsening joint pain, skin infection, or liver symptoms."
+    },
+    {
+      "memory_id": "X0581-m14",
+      "date": "2026-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-11-05 at 10:30 am with Dr Priya Natarajan (D03)."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0478",
+  "name": "Ajay Pandey",
+  "age": 41,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Non-alcoholic fatty liver disease",
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0478-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD: Patient reports mild right upper quadrant discomfort, no jaundice. Weight 78 kg, waist 92 cm (above male cut‑off 90 cm). Status: stable, LFTs pending. Plan: Start silymarin 140 mg TDS, rosuvastatin 5 mg OD; advise low‑fat diet, avoid alcohol; arrange abdominal ultrasound and LFT.\n- Generalised anxiety disorder: Patient describes occasional worry, sleep disturbance. Status: mild. Plan: Start escitalopram 5 mg OD, buspirone 5 mg BD; advise relaxation techniques; schedule GAD‑7.\nDue: HbA1c repeat in 3 months (2025-07-05)."
+    },
+    {
+      "memory_id": "X0478-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Silymarin 140 mg TDS after food\nRosuvastatin 5 mg OD after food\nEscitalopram 5 mg OD after food\nBuspirone 5 mg BD after food"
+    },
+    {
+      "memory_id": "X0478-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 38 U/L (7-35) slightly high\nAST 32 U/L (8-40) normal\nALKP 84 U/L (40-129) normal\nGGT 55 U/L (9-48) slightly high\nTotal bilirubin 0.9 mg/dL (0.2-1.2) normal\nPlatelet count 210 x10^9/L (150-400) normal\nFasting lipid profile: Cholesterol 190 mg/dL (<200) borderline; Triglycerides 160 mg/dL (<150) high; HDL 38 mg/dL (>40) low; LDL 115 mg/dL (<100) high\nTSH 2.1 mIU/L (0.4-4.0) normal\nHaemoglobin 14.8 g/dL (13.5-17.5) normal\nFasting glucose 92 mg/dL (70-100) normal"
+    },
+    {
+      "memory_id": "X0478-m04",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: Liver size 15 cm, mild diffuse hepatic steatosis, no focal lesion, spleen normal, portal vein patent. No ascites. Impression: Consistent with non‑alcoholic fatty liver disease, grade 1."
+    },
+    {
+      "memory_id": "X0478-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD: Patient reports reduced discomfort, weight 77 kg, waist 90 cm (at cut‑off). LFTs improved: ALT 30, AST 28. Status: improving. Plan: Continue silymarin 140 mg TDS, rosuvastatin 5 mg OD; repeat LFT in 3 months.\n- Generalised anxiety disorder: Patient notes occasional anxiety, sleep okay. GAD‑7 score 6 (mild). Status: stable. Plan: Continue escitalopram 5 mg OD, buspirone 5 mg BD; reinforce CBT techniques.\nDue: HbA1c repeat in 3 months (2025-10-10)."
+    },
+    {
+      "memory_id": "X0478-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Silymarin 140 mg TDS after food\nRosuvastatin 5 mg OD after food\nEscitalopram 5 mg OD after food\nBuspirone 5 mg BD after food"
+    },
+    {
+      "memory_id": "X0478-m07",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 30 U/L (7-35) normal\nAST 28 U/L (8-40) normal\nALKP 80 U/L (40-129) normal\nGGT 48 U/L (9-48) upper limit normal\nTotal bilirubin 0.8 mg/dL (0.2-1.2) normal\nPlatelet count 205 x10^9/L (150-400) normal\nFasting lipid profile: Cholesterol 185 mg/dL (<200) borderline; Triglycerides 140 mg/dL (<150) normal; HDL 40 mg/dL (>40) borderline low; LDL 110 mg/dL (<100) high\nTSH 2.0 mIU/L (0.4-4.0) normal\nHaemoglobin 14.6 g/dL (13.5-17.5) normal\nFasting glucose 90 mg/dL (70-100) normal"
+    },
+    {
+      "memory_id": "X0478-m08",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past month I’ve felt more anxious, especially in the mornings before opening the shop. I worry about sales and feel restless. Sleep is disturbed, I wake up 2‑3 times. My GAD‑7 score today is 10 (moderate). I also notice a slight heaviness in the right upper abdomen after meals."
+    },
+    {
+      "memory_id": "X0478-m09",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD: Patient reports mild post‑prandial heaviness, weight 76 kg, waist 88 cm (below cut‑off). LFTs stable. Status: stable. Plan: Continue silymarin 140 mg TDS, rosuvastatin 5 mg OD; repeat ultrasound in 6 months.\n- Generalised anxiety disorder: Patient describes increased anxiety, GAD‑7 10 (moderate), sleep disturbance. Status: worsened. Plan: Increase escitalopram to 10 mg OD, increase buspirone to 10 mg BD; add brief CBT referral; monitor for side effects.\nDue: HbA1c repeat in 3 months (2026-01-05)."
+    },
+    {
+      "memory_id": "X0478-m10",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Silymarin 140 mg TDS after food\nRosuvastatin 5 mg OD after food\nEscitalopram 10 mg OD after food\nBuspirone 10 mg BD after food"
+    },
+    {
+      "memory_id": "X0478-m11",
+      "date": "2025-10-06",
+      "type": "referral",
+      "author": "D04",
+      "text": "To: Dr. Suman Rao, Psychiatrist, Bengaluru.\nReason: Generalised anxiety disorder, moderate severity (GAD‑7 10), inadequate response to current escitalopram/buspirone dose.\nRequest: Evaluation, consideration of psychotherapy, possible medication adjustment.\nEnclosed: Recent visit note, GAD‑7 score, medication list."
+    },
+    {
+      "memory_id": "X0478-m12",
+      "date": "2026-02-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "From Dr. Suman Rao, Psychiatrist: Patient evaluated on 2026-01-20. Diagnosis: Generalised anxiety disorder, moderate. Recommended: Continue escitalopram 10 mg OD, add CBT weekly for 8 weeks. Buspirone may be tapered if anxiety improves. Follow‑up in 4 weeks. No adverse effects reported. Patient engaged well with therapy."
+    },
+    {
+      "memory_id": "X0478-m13",
+      "date": "2026-08-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for follow‑up endocrinology review with Dr Karthik Hegde (D04) on 2026-09-10 at 10:30 am. Purpose: Review NAFLD progression, anxiety control, lipid profile, and HbA1c. Please bring recent lab results."
+    }
+  ]
+}

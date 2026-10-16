@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0459",
+  "name": "Balasubramanian Raman",
+  "age": 63,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Gastro-oesophageal reflux",
+    "Glaucoma",
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0459-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Gastro-oesophageal reflux disease, primary open-angle glaucoma, and benign positional vertigo.\nPatient reports heartburn after meals, occasional regurgitation, morning eye discomfort with blurred vision, and brief spinning episodes when lying down or turning in bed. On examination, mild epigastric tenderness, normal ocular exteriors with IOP 22 mmHg OD, 21 mmHg OS, and positive Dix-Hallpike on the right side. Smoking status: never smoker. Plan: start pantoprazole 40 mg OD before breakfast, antacid gel SOS, domperidone 10 mg BD before meals; timolol 0.5% eye drops BD; latanoprost 0.005% eye drops HS; betahistine 16 mg BD; meclizine 25 mg SOS for vertigo SOS."
+    },
+    {
+      "memory_id": "X0459-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg oral tablet once daily before breakfast\nantacid gel 10 mL as needed after meals\ndomperidone 10 mg oral tablet twice daily before meals\ntimolol 0.5% eye drops one drop in each eye twice daily\nlatanoprost 0.005% eye drops one drop in each eye at bedtime\nbetahistine 16 mg oral tablet twice daily\nmeclizine 25 mg oral tablet as needed for vertigo"
+    },
+    {
+      "memory_id": "X0459-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: negative (reference: negative)."
+    },
+    {
+      "memory_id": "X0459-m04",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dix-Hallpike test: positive on right side with torsional nystagmus lasting <1 minute, consistent with benign positional vertigo right posterior canal."
+    },
+    {
+      "memory_id": "X0459-m05",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Stable GERD, glaucoma, and improving BPV.\nPatient reports reduced heartburn frequency, occasional eye strain, and only one brief vertigo episode in past two weeks after performing Epley maneuver at home. Examination: mild epigastric tenderness, IOP 21 mmHg OD, 20 mmHg OS, Dix-Hallpike now negative. Smoking status: never smoker. Plan: continue current meds; consider tapering domperidone if asymptomatic; reinforce vertigo exercises."
+    },
+    {
+      "memory_id": "X0459-m06",
+      "date": "2025-06-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg oral tablet once daily before breakfast\nantacid gel 10 mL as needed after meals\ndomperidone 10 mg oral tablet twice daily before meals (to be reviewed in 4 weeks)\ntimolol 0.5% eye drops one drop in each eye twice daily\nlatanoprost 0.005% eye drops one drop in each eye at bedtime\nbetahistine 16 mg oral tablet twice daily\nmeclizine 25 mg oral tablet as needed for vertigo"
+    },
+    {
+      "memory_id": "X0459-m07",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: OD 20 mmHg (reference 10-21), OS 19 mmHg (reference 10-21)."
+    },
+    {
+      "memory_id": "X0459-m08",
+      "date": "2025-08-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Audiometry (pure tone average): OD 20 dB HL, OS 18 dB HL; within normal limits for age."
+    },
+    {
+      "memory_id": "X0459-m09",
+      "date": "2025-09-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: GERD controlled, glaucoma stable, BPV resolved.\nPatient denies heartburn for past month, uses antacid gel only occasionally. Reports no vertigo episodes since last visit; Epley maneuver performed successfully. Eye comfort unchanged; IOP stable. Smoking status: never smoker. Plan: discontinue domperidone; continue pantoprazole and glaucoma drops; continue betahistine as prophylaxis; meclizine PRN only."
+    },
+    {
+      "memory_id": "X0459-m10",
+      "date": "2025-09-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg oral tablet once daily before breakfast\nantacid gel 10 mL as needed after meals\ntimolol 0.5% eye drops one drop in each eye twice daily\nlatanoprost 0.005% eye drops one drop in each eye at bedtime\nbetahistine 16 mg oral tablet twice daily\nmeclizine 25 mg oral tablet as needed for vertigo"
+    },
+    {
+      "memory_id": "X0459-m11",
+      "date": "2026-02-14",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up pulmonology appointment booked for 2026-03-01 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0459-m12",
+      "date": "2026-03-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: GERD on maintenance therapy, glaucoma well-controlled, no vertigo recurrence.\nPatient reports occasional mild heartburn after spicy food, relieved by antacid gel. No eye pain or vision change. No vertigo episodes. Examination: IOP 20 mmHg OD, 19 mmHg OS; visual fields full; optic discs normal. Smoking status: never smoker. Plan: continue current meds; schedule IOP check in 3 months; consider annual visual field test."
+    },
+    {
+      "memory_id": "X0459-m13",
+      "date": "2026-03-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "pantoprazole 40 mg oral tablet once daily before breakfast\nantacid gel 10 mL as needed after meals\ntimolol 0.5% eye drops one drop in each eye twice daily\nlatanoprost 0.005% eye drops one drop in each eye at bedtime\nbetahistine 16 mg oral tablet twice daily\nmeclizine 25 mg oral tablet as needed for vertigo"
+    },
+    {
+      "memory_id": "X0459-m14",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Visual field test (Humphrey 24-2): OD mean deviation -0.2 dB (within normal limits), OS mean deviation -0.1 dB (within normal limits). Fixation losses <2%, false positives <2%."
+    }
+  ]
+}

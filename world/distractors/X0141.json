@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0141",
+  "name": "Ravichandran Krishnaswamy",
+  "age": 86,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Allergic rhinitis",
+    "Gastro-oesophageal reflux",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0141-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine review of allergic rhinitis, gastro‑oesophageal reflux and depression.\nPRESENTING COMPLAINT: Patient reports occasional nasal congestion and sneezing, mild heartburn after meals, and low mood with reduced energy.\nEXAMINATION: BP 138/84 mmHg, weight 68 kg, height 1.65 m, BMI 25.0 (obese). Nasal mucosa mildly erythematous, lungs clear, abdomen soft non‑tender, no jaundice.\nIMPRESSION: Allergic rhinitis uncontrolled, GERD symptoms mild, depression stable on sertraline 50 mg OD. BMI ≥23 warrants diet and activity advice. Annual fasting lipid profile and fasting blood sugar ordered.\nARRANGEMENTS: Continue cetirizine 10 mg HS, fluticasone nasal spray one spray each nostril OD, montelukast 10 mg HS. Pantoprazole 40 mg OD before breakfast, antacid gel SOS, domperidone 10 mg BD before meals. Sertraline 50 mg OD. Advise reduced refined carbohydrates, daily 30‑minute walk. Influenza vaccine not due yet (autumn). Return if: chest pain, breathlessness, fever >39°C, blood in stools, worsening heartburn, suicidal thoughts, or severe nasal discharge. Ask patient to repeat list."
+    },
+    {
+      "memory_id": "X0141-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray: one spray each nostril OD\nMontelukast 10 mg HS\nPantoprazole 40 mg OD before breakfast\nAntacid gel: SOS\nDomperidone 10 mg BD before meals\nSertraline 50 mg OD"
+    },
+    {
+      "memory_id": "X0141-m03",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D03",
+      "text": "Allergy to house dust mites. Exposure triggers sneezing, nasal itching, watery eyes and nasal congestion consistent with allergic rhinitis."
+    },
+    {
+      "memory_id": "X0141-m04",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.2 mmol/L (ref <5.2), LDL 3.1 mmol/L (ref <2.6), HDL 1.2 mmol/L (ref >1.0), triglycerides 1.8 mmol/L (ref <1.7). Fasting blood sugar: 6.1 mmol/L (ref 3.9‑5.5). Total serum IgE: 210 IU/mL (ref <100)."
+    },
+    {
+      "memory_id": "X0141-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of lab results and symptom control.\nPRESENTING COMPLAINT: Patient says nasal symptoms slightly better, occasional heartburn after spicy food, mood unchanged.\nEXAMINATION: BP 140/86 mmHg, weight 68 kg, BMI 25.0 (obese). Nasal mucosa less erythematous, lungs clear, abdomen soft.\nIMPRESSION: LDL elevated, fasting glucose in pre‑diabetic range, IgE high confirming allergic sensitisation. GERD mild, depression stable. Advise lifestyle modification for lipids and glucose.\nARRANGEMENTS: Continue current allergic rhinitis and GERD meds. Increase sertraline to 75 mg OD for residual low mood. Repeat lipid profile and FBS in 3 months. Diet: reduce saturated fats, increase fiber; activity: brisk walk 30 min most days. Influenza vaccine not yet due. Return if: chest pain, breathlessness, fever >39°C, blood in stools, worsening heartburn, suicidal thoughts, or severe nasal symptoms. Ask patient to repeat list."
+    },
+    {
+      "memory_id": "X0141-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray: one spray each nostril OD\nMontelukast 10 mg HS\nPantoprazole 40 mg OD before breakfast\nAntacid gel: SOS\nDomperidone 10 mg BD before meals\nSertraline 75 mg OD"
+    },
+    {
+      "memory_id": "X0141-m07",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past month my heartburn has worsened, especially at night, and I wake up feeling tired. My nose still feels blocked in the mornings. I’ve been feeling low again and find it hard to enjoy my usual walks."
+    },
+    {
+      "memory_id": "X0141-m08",
+      "date": "2025-10-02",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Gastroenterology for evaluation of worsening GERD symptoms with possible alarm features (nighttime symptoms, fatigue). Request upper GI endoscopy and H. pylori stool antigen if not already done."
+    },
+    {
+      "memory_id": "X0141-m09",
+      "date": "2025-12-15",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Gastroenterology reports: H. pylori stool antigen negative. Upper GI endoscopy shows mild erythematous antrum, no ulcer or Barrett’s changes. Advise continuation of PPI therapy, lifestyle measures, and follow‑up in 6 months unless symptoms worsen."
+    },
+    {
+      "memory_id": "X0141-m10",
+      "date": "2026-02-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Eye examination (Snellen chart, slit lamp): Visual acuity 6/9 right, 6/12 left. Early cataract changes noted bilaterally, visually insignificant. Intraocular pressures within normal range. No diabetic retinopathy."
+    },
+    {
+      "memory_id": "X0141-m11",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review eye exam findings, depression symptoms and lipid control.\nPRESENTING COMPLAINT: Patient reports persistent nasal congestion, nighttime heartburn, low mood and fatigue; vision unchanged.\nEXAMINATION: BP 142/88 mmHg, weight 68 kg, BMI 25.0 (obese). Nasal mucosa mildly swollen, lungs clear, abdomen soft.\nIMPRESSION: Allergic rhinitis symptomatic despite meds; GERD controlled on PPI; depression PHQ‑9 score 10 (mild). Cataract early, no intervention needed. Lipids remain elevated.\nARRANGEMENTS: Add fluticasone nasal spray increase to two sprays each nostril OD; start montelukast 10 mg HS (continue). Add domperidone 10 mg TDS before meals for nighttime reflux. Begin mirtazapine 15 mg HS for sleep and mood. Continue pantoprazole 40 mg OD. Repeat lipid profile and FBS in 3 months. Offer influenza vaccine today (date 2026-02-20) – patient consents. Return if: chest pain, breathlessness, fever >39°C, blood in stools, worsening heartburn, suicidal thoughts, or sudden visual change. Ask patient to repeat list."
+    },
+    {
+      "memory_id": "X0141-m12",
+      "date": "2026-02-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray: two sprays each nostril OD\nMontelukast 10 mg HS\nPantoprazole 40 mg OD before breakfast\nAntacid gel: SOS\nDomperidone 10 mg TDS before meals\nSertraline 75 mg OD\nMirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0141-m13",
+      "date": "2026-08-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Book influenza vaccination appointment for 2026-11-15 at 10:30 am with practice nurse. Patient reminded to bring vaccination card."
+    }
+  ]
+}

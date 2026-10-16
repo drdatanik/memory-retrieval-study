@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0380",
+  "name": "Kulwinder Singh",
+  "age": 58,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0380-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in all activities of daily living; manages vegetable stall without assistance.\ncognition: Mini‑Cog score 4/5 (normal).\nfalls: no falls in the last 12 months; gait steady; timed up‑and‑go 9 seconds (normal).\nmedicines: 4 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD).\nmood: reports good spirits, enjoys work and family time.\ncarers: daughter Priya, lives nearby, provides occasional help with shopping.\ngoal: \"I want to keep working at my stall and stay active.\""
+    },
+    {
+      "memory_id": "X0380-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0380-m03",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent; occasional mild dizziness on standing, otherwise able to work full day.\ncognition: Mini‑Cog not repeated (within 12 months of first).\nfalls: no falls in last 12 months; gait slightly cautious; timed up‑and‑go 10 seconds (normal).\nmedicines: 5 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD, atorvastatin 10 mg OD) – polypharmacy, request review against Beers criteria.\nmood: reports occasional worry about blood pressure, otherwise content.\ncarers: daughter Priya, same.\ngoal: \"I want to keep working at my stall and stay active.\""
+    },
+    {
+      "memory_id": "X0380-m04",
+      "date": "2025-07-22",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD\natorvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0380-m05",
+      "date": "2025-07-24",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: sinus rhythm, rate 78 bpm. No ST‑segment changes. Left ventricular voltage within normal limits. No arrhythmia detected."
+    },
+    {
+      "memory_id": "X0380-m06",
+      "date": "2025-08-01",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to cardiology for evaluation of borderline hypertension and family history of premature coronary disease. Request ECG review and advice on lipid management."
+    },
+    {
+      "memory_id": "X0380-m07",
+      "date": "2025-09-15",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Cardiology opinion: ECG normal, hypertension controlled. Recommend continue current antihypertensives, add low‑dose aspirin 75 mg OD for primary prevention, and repeat lipid panel in 3 months."
+    },
+    {
+      "memory_id": "X0380-m08",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent; notes mild fatigue after long hours at stall, otherwise ADLs intact.\ncognition: Mini‑Cog not yet due (first visit <12 months).\nfalls: no falls in last 12 months; gait steady; timed up‑and‑go 11 seconds (borderline, advise exercise and supportive footwear).\nmedicines: 4 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, hydrochlorothiazide 12.5 mg OD, atorvastatin 10 mg OD) – losartan stopped due to borderline hyperkalemia.\nmood: reports feeling tired but no depressive symptoms.\ncarers: daughter Priya, same.\ngoal: \"I want to keep working at my stall and stay active.\""
+    },
+    {
+      "memory_id": "X0380-m09",
+      "date": "2025-11-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.28 mg/dL (reference 0.57‑1.00). eGFR 52 mL/min/1.73 m² (reference >60). Serum potassium 5.1 mmol/L (reference 3.5‑5.0)."
+    },
+    {
+      "memory_id": "X0380-m10",
+      "date": "2026-02-28",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent; manages stall with occasional assistance from daughter for heavy loads.\ncognition: Mini‑Cog score 3/5 (borderline) – plan for full cognitive assessment.\nfalls: one fall in last 12 months (tripped over market stall edge, no injury); gait slightly unsteady; timed up‑and‑go 13 seconds (raised fall risk) – advise strength training, proper footwear, home safety check.\nmedicines: 5 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, hydrochlorothiazide 12.5 mg OD, atorvastatin 10 mg OD, aspirin 75 mg OD) – polypharmacy, request Beers review.\nmood: reports low mood on rainy days, denies hopelessness.\ncarers: daughter Priya, same.\ngoal: \"I want to keep working at my stall and stay active.\""
+    },
+    {
+      "memory_id": "X0380-m11",
+      "date": "2026-03-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nhydrochlorothiazide 12.5 mg OD\natorvastatin 10 mg OD\naspirin 75 mg OD"
+    },
+    {
+      "memory_id": "X0380-m12",
+      "date": "2026-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-30 10:00 with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0380-m13",
+      "date": "2026-04-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent; able to work full day, reports improved energy after aspirin initiation.\ncognition: Mini‑Cog not repeated (within 12 months of last screen).\nfalls: no new falls in last 12 months; gait steady; timed up‑and‑go 11 seconds (borderline) – continue exercise, check footwear.\nmedicines: 5 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, hydrochlorothiazide 12.5 mg OD, atorvastatin 10 mg OD, aspirin 75 mg OD) – polypharmacy, note Beers review pending.\nmood: reports good spirits, enjoys time with grandchildren.\ncarers: daughter Priya, same.\ngoal: \"I want to keep working at my stall and stay active.\""
+    },
+    {
+      "memory_id": "X0380-m14",
+      "date": "2026-05-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.10 mg/dL (reference 0.57‑1.00). eGFR 62 mL/min/1.73 m² (reference >60). Serum potassium 4.6 mmol/L (reference 3.5‑5.0)."
+    },
+    {
+      "memory_id": "X0380-m15",
+      "date": "2026-08-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent; continues vendor work without difficulty.\ncognition: Mini‑Cog score 4/5 (normal) – annual screen completed.\nfalls: no falls in last 12 months; gait normal; timed up‑and‑go 9 seconds (normal).\nmedicines: 5 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, hydrochlorothiazide 12.5 mg OD, atorvastatin 10 mg OD, aspirin 75 mg OD) – polypharmacy, Beers review completed, no potentially inappropriate meds noted.\nmood: reports stable mood, enjoys daily routine.\ncarers: daughter Priya, same.\ngoal: \"I want to keep working at my stall and stay active.\""
+    },
+    {
+      "memory_id": "X0380-m16",
+      "date": "2026-08-18",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: sinus rhythm, rate 80 bpm. No ischemic changes. Left ventricular hypertrophy criteria not met. Stable compared to prior ECG."
+    },
+    {
+      "memory_id": "X0380-m17",
+      "date": "2026-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: \"Doctor, I have noticed occasional swelling in my ankles after long standing at the market. Is this something to worry about?\""
+    },
+    {
+      "memory_id": "X0380-m18",
+      "date": "2026-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.05 mg/dL (reference 0.57‑1.00). eGFR 65 mL/min/1.73 m² (reference >60). Serum potassium 4.4 mmol/L (reference 3.5‑5.0)."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0063",
+  "name": "Rajan Panicker",
+  "age": 78,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0063-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Hypertension.\nPatient reports occasional headache and fatigue. BP 162/94 mmHg, pulse 78, BMI 26. No dyspnea or chest pain. Lungs clear, S1S2 normal.\nPlan: start antihypertensives, order baseline labs, ECG, review in 3 months."
+    },
+    {
+      "memory_id": "X0063-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.1 mg/dL (0.6-1.2), eGFR 62 mL/min/1.73m2 (>60). Serum potassium 4.4 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0063-m03",
+      "date": "2025-04-14",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Amlodipine 5 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0063-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Hypertension.\nPatient adherent, BP 138/84 mmHg, mild peripheral edema noted. No cough. Lungs clear.\nLabs show creatinine rising to 1.3 mg/dL; continue amlodipine, telmisartan, losartan; hold hydrochlorothiazide pending review."
+    },
+    {
+      "memory_id": "X0063-m05",
+      "date": "2025-07-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.3 mg/dL (0.6-1.2), eGFR 52 mL/min/1.73m2. Serum potassium 4.2 mmol/L."
+    },
+    {
+      "memory_id": "X0063-m06",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D05",
+      "text": "ECG: sinus rhythm, rate 72, no ST-T changes, left ventricular voltage within normal limits. No evidence of ischemia or hypertrophy."
+    },
+    {
+      "memory_id": "X0063-m07",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Hypertension.\nPatient off hydrochlorothiazide, BP 132/78 mmHg, no edema. Reports good exercise tolerance.\nCreatinine stable 1.25 mg/dL, potassium 4.0 mmol/L. Continue current regimen, advise low-salt diet, review in 3 months."
+    },
+    {
+      "memory_id": "X0063-m08",
+      "date": "2026-01-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.25 mg/dL (0.6-1.2), eGFR 54 mL/min/1.73m2. Serum potassium 4.0 mmol/L (3.5-5.0)."
+    },
+    {
+      "memory_id": "X0063-m09",
+      "date": "2026-02-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'I have been feeling occasional palpitations after climbing stairs, but they settle with rest. No chest pain.'"
+    },
+    {
+      "memory_id": "X0063-m10",
+      "date": "2026-02-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-20 10:30 with Dr Suresh Menon for hypertension review and symptom evaluation."
+    },
+    {
+      "memory_id": "X0063-m11",
+      "date": "2026-03-01",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Allergy: Penicillin - rash and pruritus noted after a course for upper respiratory infection in 2018. Avoid beta-lactams."
+    },
+    {
+      "memory_id": "X0063-m12",
+      "date": "2026-04-15",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Cardiology, Dr Kavita Rao (St. Martha's Hospital) for evaluation of occasional palpitations and baseline ECG review. Include recent ECG and labs."
+    },
+    {
+      "memory_id": "X0063-m13",
+      "date": "2026-05-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Referral outcome: Cardiology reports normal echocardiogram, no arrhythmia on Holter. Palpitations deemed benign, likely related to anxiety. Advise continue current hypertension management, reassure patient."
+    }
+  ]
+}

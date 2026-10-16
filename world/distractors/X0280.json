@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0280",
+  "name": "Daniel Mathew",
+  "age": 78,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Non-alcoholic fatty liver disease",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0280-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, walks 30 min daily.\ncognition: Mini‑Cog 4/5 (negative).\nfalls: 0 falls last 12 mo; gait normal; TUG 9 s (normal).\nmedicines: 4 regular (silymarin 140 mg TDS, rosuvastatin 5 mg OD, mebeverine 135 mg BD, ispaghula husk 5 g OD); loperamide 2 mg SOS.\nmood: reports occasional irritability, denies depression.\ncarers: son, Rajesh, provides weekly grocery help.\ngoals: \"I want to stay active and avoid hospital admissions.\""
+    },
+    {
+      "memory_id": "X0280-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 38 U/L (7‑35) slightly ↑; AST 30 U/L (8‑40) normal.\nPlatelet count 210 ×10⁹/L (150‑400) normal.\nLipids: Cholesterol 185 mg/dL (<200), HDL 48 mg/dL (>40), LDL 102 mg/dL (<130), TG 138 mg/dL (<150).\nCBC: Hb 13.8 g/dL (13‑17), WBC 6.2 ×10⁹/L (4‑10), Plt 210 ×10⁹/L.\nStool routine: ova nil, pus cells 0‑1/hpf.\ntTG‑IgA <4 U/mL (negative)."
+    },
+    {
+      "memory_id": "X0280-m03",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "rosuvastatin 10 mg OD (increased from 5 mg OD).\nOther medicines unchanged."
+    },
+    {
+      "memory_id": "X0280-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still independent, mild fatigue after long walks.\ncognition: Mini‑Cog 3/5 (negative).\nfalls: 0 falls; gait slightly slower; TUG 11 s (normal).\nmedicines: 4 regular (silymarin 140 mg TDS, rosuvastatin 10 mg OD, mebeverine 135 mg BD, ispaghula husk 5 g OD); loperamide SOS.\nmood: reports low mood on rainy days, denies anhedonia.\ncarers: son Rajesh helps with medication box.\ngoals: \"I wish to keep my liver stable and avoid bowel urgency.\""
+    },
+    {
+      "memory_id": "X0280-m05",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 34 U/L (7‑35) normal; AST 28 U/L (8‑40) normal.\nPlatelet count 205 ×10⁹/L.\nLipids: Cholesterol 178 mg/dL, HDL 50 mg/dL, LDL 96 mg/dL, TG 130 mg/dL.\nCBC: Hb 13.6 g/dL, WBC 5.9 ×10⁹/L, Plt 205 ×10⁹/L.\nStool routine: normal.\ntTG‑IgA negative."
+    },
+    {
+      "memory_id": "X0280-m06",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up visit with Dr Kulkarni for 2025-09-15 at 10:30 am."
+    },
+    {
+      "memory_id": "X0280-m07",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independent, occasional knee discomfort after stairs.\ncognition: Mini‑Cog 4/5 (negative).\nfalls: 0 falls; gait steady; TUG 10 s (normal).\nmedicines: 4 regular (silymarin 140 mg TDS, rosuvastatin 10 mg OD, mebeverine 135 mg BD, ispaghula husk 5 g OD); loperamide SOS.\nmood: reports feeling well, denies depression.\ncarers: son Rajesh assists with transport.\ngoals: \"I want to maintain my current health and travel to see grandchildren.\""
+    },
+    {
+      "memory_id": "X0280-m08",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "mebeverine stopped due to constipation.\nIspaghula husk increased to 10 g OD.\nOther medicines unchanged."
+    },
+    {
+      "memory_id": "X0280-m09",
+      "date": "2025-11-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 31 U/L (7‑35) normal; AST 26 U/L (8‑40) normal.\nPlatelet count 200 ×10⁹/L.\nLipids: Cholesterol 172 mg/dL, HDL 52 mg/dL, LDL 90 mg/dL, TG 125 mg/dL.\nCBC: Hb 13.5 g/dL, WBC 5.8 ×10⁹/L, Plt 200 ×10⁹/L.\nStool routine: soft, no mucus.\ntTG‑IgA negative."
+    },
+    {
+      "memory_id": "X0280-m10",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, able to climb two flights without dyspnea.\ncognition: Mini‑Cog 3/5 (negative) – annual screen due.\nfalls: 0 falls last 12 mo; gait normal; TUG 9 s (normal).\nmedicines: 3 regular (silymarin 140 mg TDS, rosuvastatin 10 mg OD, ispaghula husk 10 g OD); loperamide SOS.\nmood: reports occasional anxiety about health, denies depression.\ncarers: son Rajesh reminds about meds.\ngoals: \"I wish to stay out of hospital and keep my liver enzymes normal.\""
+    },
+    {
+      "memory_id": "X0280-m11",
+      "date": "2026-03-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin dose increased to 210 mg TDS.\nOther medicines unchanged."
+    },
+    {
+      "memory_id": "X0280-m12",
+      "date": "2026-04-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Abdominal ultrasound: liver shows mild steatosis, no focal lesion, spleen normal, portal vein patent. No ascites."
+    },
+    {
+      "memory_id": "X0280-m13",
+      "date": "2026-06-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, walks 45 min daily without fatigue.\ncognition: Mini‑Cog 4/5 (negative).\nfalls: 0 falls; gait normal; TUG 9 s (normal).\nmedicines: 3 regular (silymarin 210 mg TDS, rosuvastatin 10 mg OD, ispaghula husk 10 g OD); loperamide SOS.\nmood: reports good spirits, denies anxiety.\ncarers: son Rajesh helps with grocery shopping.\ngoals: \"I want to keep enjoying my garden walks and avoid any new medicines.\""
+    },
+    {
+      "memory_id": "X0280-m14",
+      "date": "2026-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 28 U/L (7‑35) normal; AST 24 U/L (8‑40) normal.\nPlatelet count 198 ×10⁹/L.\nLipids: Cholesterol 168 mg/dL, HDL 54 mg/dL, LDL 88 mg/dL, TG 120 mg/dL.\nCBC: Hb 13.7 g/dL, WBC 6.0 ×10⁹/L, Plt 198 ×10⁹/L.\nStool routine: formed, no blood.\ntTG‑IgA negative."
+    },
+    {
+      "memory_id": "X0280-m15",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Changed follow‑up appointment from 2026-10-05 to 2026-10-12 at 09:00 am per patient request."
+    },
+    {
+      "memory_id": "X0280-m16",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, able to perform all ADLs, walks 1 km weekly.\ncognition: Mini‑Cog 4/5 (negative).\nfalls: 0 falls last 12 mo; gait normal; TUG 8 s (normal).\nmedicines: 3 regular (silymarin 210 mg TDS, rosuvastatin 10 mg OD, ispaghula husk 10 g OD); loperamide SOS.\nmood: reports feeling well, denies depression.\ncarers: son Rajesh assists with medication box.\ngoals: \"I want to stay healthy and see my great‑grandchild grow.\""
+    }
+  ]
+}

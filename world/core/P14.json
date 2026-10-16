@@ -1,0 +1,108 @@
+{
+  "patient_id": "P14",
+  "name": "Sanjay Patel",
+  "age": 57,
+  "sex": "M",
+  "primary_doctor": "D02",
+  "conditions": ["Coronary artery disease", "Dyslipidaemia", "Hypertension"],
+  "memories": [
+    {
+      "memory_id": "P14-m01",
+      "date": "2025-04-22",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake update, patient-reported: owns a textile wholesale business near Commercial Street and travels to Surat and Mumbai about twice a month. Had a heart attack in 2024 and a stent was placed. Says he takes his morning and evening tablets most days but misses doses on travel days. Has stopped smoking. Drinks alcohol only occasionally, at weddings."
+    },
+    {
+      "memory_id": "P14-m02",
+      "date": "2025-04-22",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "The patient attended the clinic today for review of his cholesterol and his heart medicines. He had a stent placed after a heart attack in 2024 and currently takes aspirin 75 mg once daily, ramipril 5 mg once daily, metoprolol 50 mg once daily and atorvastatin 40 mg once daily. His adherence to atorvastatin has been poor, particularly on travel days, which is the most likely reason his low-density lipoprotein cholesterol remains high. He reports no chest pain at rest and no breathlessness on the stairs. Blood pressure today was 132 over 84 millimetres of mercury, and his hypertension is reasonably controlled. Because he is already on a high-intensity statin dose, the immediate task is consistent daily adherence, with a low-density lipoprotein cholesterol target of below 55 mg/dL. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P14-m03",
+      "date": "2025-04-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile (fasting), collected 2025-04-22, Sunrise Family Clinic Laboratory. LDL cholesterol (calculated): 162 mg/dL. Reference: below 100 mg/dL. Interpretation: high, above reference range."
+    },
+    {
+      "memory_id": "P14-m04",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D02",
+      "text": "Clopidogrel has been stopped today, twelve months after the stent was placed, in line with the usual course of antiplatelet therapy after a stent. Aspirin 75 mg once daily continues as his single antiplatelet medicine. Ramipril 5 mg once daily, metoprolol 50 mg once daily and atorvastatin 40 mg once daily continue unchanged. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P14-m05",
+      "date": "2025-07-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile (fasting), collected 2025-07-22, Sunrise Family Clinic Laboratory. LDL cholesterol (calculated): 118 mg/dL. Reference: below 100 mg/dL. Interpretation: high, above reference range."
+    },
+    {
+      "memory_id": "P14-m06",
+      "date": "2025-07-22",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "The patient returned for review. His low-density lipoprotein cholesterol has fallen from 162 to 118 mg/dL, which is an encouraging change, but it remains above his target of below 55 mg/dL. He reports taking his atorvastatin on most days and missing only when travelling for business. Blood pressure today was 130 over 82 millimetres of mercury, and he reports no chest pain or breathlessness. He should continue atorvastatin 40 mg once daily, aspirin 75 mg once daily, ramipril 5 mg once daily and metoprolol 50 mg once daily. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P14-m07",
+      "date": "2025-11-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile (fasting), collected 2025-11-18, Sunrise Family Clinic Laboratory. LDL cholesterol (calculated): 96 mg/dL. Reference: below 100 mg/dL. Interpretation: borderline, close to reference limit."
+    },
+    {
+      "memory_id": "P14-m08",
+      "date": "2025-11-18",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "Adherence has improved, and he reports taking his atorvastatin every day, including on most travel days when he sets a phone alarm. His low-density lipoprotein cholesterol has come down to 96 mg/dL, which is better but still well above his target of below 55 mg/dL. Blood pressure was 128 over 80 millimetres of mercury, and he continues to report no chest pain. We will recheck his lipid profile in about three months and reassess treatment at that point. He should continue aspirin 75 mg once daily, ramipril 5 mg once daily, metoprolol 50 mg once daily and atorvastatin 40 mg once daily. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P14-m09",
+      "date": "2026-02-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile (fasting), collected 2026-02-17, Sunrise Family Clinic Laboratory. LDL cholesterol (calculated): 91 mg/dL. Reference: below 100 mg/dL. Interpretation: borderline, above the treatment target for his coronary artery disease."
+    },
+    {
+      "memory_id": "P14-m10",
+      "date": "2026-02-17",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "His low-density lipoprotein cholesterol is 91 mg/dL today, which remains far above the target of below 55 mg/dL despite good adherence over recent months. Blood pressure is 126 over 80 millimetres of mercury, and he reports no chest pain. Because his statin dose has not yet been maximised, I have increased atorvastatin from 40 mg once daily to 80 mg once daily and added ezetimibe 10 mg once daily, which lowers cholesterol through a different mechanism. He has been counselled to report any unexplained muscle pain, weakness or dark urine promptly. Aspirin 75 mg once daily, ramipril 5 mg once daily and metoprolol 50 mg once daily continue unchanged. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P14-m11",
+      "date": "2026-02-17",
+      "type": "prescription",
+      "author": "D02",
+      "text": "Atorvastatin is increased from 40 mg once daily to 80 mg once daily from today, taken as one 80 mg tablet once daily. Ezetimibe 10 mg once daily is added from today. Aspirin 75 mg once daily, ramipril 5 mg once daily and metoprolol 50 mg once daily continue unchanged. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P14-m12",
+      "date": "2026-06-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile (fasting), collected 2026-06-16, Sunrise Family Clinic Laboratory. LDL cholesterol (calculated): 74 mg/dL. Reference: below 100 mg/dL. Interpretation: above the treatment target of below 55 mg/dL, lowest result so far."
+    },
+    {
+      "memory_id": "P14-m13",
+      "date": "2026-06-16",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "He reports taking atorvastatin and ezetimibe every day and has had no muscle symptoms since the change in February. His low-density lipoprotein cholesterol has fallen to 74 mg/dL, the lowest result so far, but it is still above the target of below 55 mg/dL. Blood pressure today was 124 over 78 millimetres of mercury, and his hypertension remains controlled. He continues to feel well with no chest pain. We will continue atorvastatin 80 mg once daily, ezetimibe 10 mg once daily, aspirin 75 mg once daily, ramipril 5 mg once daily and metoprolol 50 mg once daily. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P14-m14",
+      "date": "2026-09-16",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked: 2026-11-04 at 10:00 with Dr Rohan Iyer (D02), cardiology. Fasting lipid profile to be drawn before the consultation. Patient to fast for 10-12 hours beforehand (water allowed) and take the morning medicines after the blood test."
+    }
+  ]
+}

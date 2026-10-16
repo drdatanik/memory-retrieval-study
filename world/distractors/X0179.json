@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0179",
+  "name": "Jyothi Bollineni",
+  "age": 65,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Glaucoma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0179-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma.\nEvidence: Intraocular pressure 28 mmHg OU, visual field shows paracentral scotoma, optic disc cupping ratio 0.7. Patient denies eye pain or redness. No respiratory symptoms. Smoking status: never. No inhaler prescribed; technique not applicable."
+    },
+    {
+      "memory_id": "X0179-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops, one drop each eye twice daily."
+    },
+    {
+      "memory_id": "X0179-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: Right eye 28 mmHg (reference 10-21), Left eye 27 mmHg (reference 10-21)."
+    },
+    {
+      "memory_id": "X0179-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma.\nEvidence: IOP reduced to 22 mmHg OU after timolol; visual field stable; optic disc unchanged. Patient reports mild ocular irritation with timolol. Smoking status: never. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0179-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Add latanoprost 0.005% eye drops, one drop each eye at bedtime. Continue timolol BD."
+    },
+    {
+      "memory_id": "X0179-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: Right eye 22 mmHg, Left eye 21 mmHg."
+    },
+    {
+      "memory_id": "X0179-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma.\nEvidence: IOP 18 mmHg OU on dual therapy; visual field shows no progression; optic disc cupping ratio 0.65. Patient tolerates drops well. Smoking status: never. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0179-m08",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: Right eye 18 mmHg, Left eye 17 mmHg."
+    },
+    {
+      "memory_id": "X0179-m09",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling a gritty sensation in my eyes, especially in the mornings, since starting the eye drops. It improves with artificial tears but returns later."
+    },
+    {
+      "memory_id": "X0179-m10",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma.\nEvidence: IOP 19 mmHg OU; visual field stable; optic disc unchanged. Patient reports gritty sensation, likely preservative-related irritation from timolol. Smoking status: never. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0179-m11",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Change timolol to preservative-free formulation 0.5% eye drops, one drop each eye twice daily. Continue latanoprost HS."
+    },
+    {
+      "memory_id": "X0179-m12",
+      "date": "2026-01-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: Right eye 19 mmHg, Left eye 18 mmHg."
+    },
+    {
+      "memory_id": "X0179-m13",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma.\nEvidence: IOP 18 mmHg OU; visual field shows no change; optic disc cupping ratio 0.6. Patient reports ocular comfort improved with preservative-free timolol. Smoking status: never. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0179-m14",
+      "date": "2026-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: Right eye 18 mmHg, Left eye 17 mmHg."
+    },
+    {
+      "memory_id": "X0179-m15",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow-up glaucoma review for 2026-07-10 at 10:00 with Dr Suresh Menon."
+    },
+    {
+      "memory_id": "X0179-m16",
+      "date": "2026-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma.\nEvidence: IOP 17 mmHg OU; visual field stable; optic disc unchanged. Patient adherent to preservative-free timolol BD and latanoprost HS. Smoking status: never. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0179-m17",
+      "date": "2026-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure: Right eye 17 mmHg, Left eye 16 mmHg."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0406",
+  "name": "Lilly Lobo",
+  "age": 58,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Epilepsy",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0406-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure-free on levetiracetam 500 mg BD and lamotrigine 50 mg BD for past year.\n  - Plan: Continue current regimen; counsel on medication adherence and sleep hygiene.\n- Vitamin D deficiency\n  - Status: Baseline 25(OH)D unknown; loading regimen planned.\n  - Plan: Start cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD; recheck level after 3 months.\n- General\n  - Weight: 68 kg; Waist: 82 cm (female cutoff 80 cm, slightly increased).\n  - Diet advice: Breakfast – whole grain toast with egg; Lunch – mixed vegetable rice with lean protein; Dinner – light soup and salad.\n- Due HbA1c: Not applicable (patient not on glucose-lowering therapy)."
+    },
+    {
+      "memory_id": "X0406-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg tablet 1-0-1 after food\nLamotrigine 50 mg tablet 1-0-1 after food\nCholecalciferol 60000 IU capsule once weekly for 8 doses then 1000 IU capsule daily after food"
+    },
+    {
+      "memory_id": "X0406-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 14 ng/mL (ref 30-100)\nSerum Calcium: 9.1 mg/dL (ref 8.6-10.3)\nSerum Phosphate: 2.4 mg/dL (ref 2.5-4.5)\nSerum Sodium: 138 mmol/L (ref 135-145)\nSerum Creatinine: 0.9 mg/dL (ref 0.6-1.2)"
+    },
+    {
+      "memory_id": "X0406-m04",
+      "date": "2025-06-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-06-20 at 10:00 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0406-m05",
+      "date": "2025-06-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: No breakthrough seizures; medication well tolerated.\n  - Plan: Continue levetiracetam 500 mg BD and lamotrigine 50 mg BD.\n- Vitamin D deficiency\n  - Status: 25(OH)D 22 ng/mL after loading; still insufficient.\n  - Plan: Switch to maintenance cholecalciferol 1000 IU OD; recheck in 3 months.\n- General\n  - Weight: 67.5 kg; Waist: 81 cm (cutoff 80 cm, borderline).\n  - Diet advice: Breakfast – oatmeal with milk and nuts; Lunch – chapati with dal and vegetables; Dinner – steamed fish with vegetables.\n- Due HbA1c: Not applicable (patient not on glucose-lowering therapy)."
+    },
+    {
+      "memory_id": "X0406-m06",
+      "date": "2025-06-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg tablet 1-0-1 after food\nLamotrigine 50 mg tablet 1-0-1 after food\nCholecalciferol 1000 IU tablet daily after food"
+    },
+    {
+      "memory_id": "X0406-m07",
+      "date": "2025-09-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 31 ng/mL (ref 30-100)\nSerum Calcium: 9.3 mg/dL (ref 8.6-10.3)\nSerum Phosphate: 2.8 mg/dL (ref 2.5-4.5)\nSerum Sodium: 137 mmol/L (ref 135-145)\nSerum Creatinine: 0.88 mg/dL (ref 0.6-1.2)"
+    },
+    {
+      "memory_id": "X0406-m08",
+      "date": "2025-09-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: Background activity symmetric; no epileptiform discharges or slowing noted. No evidence of seizure focus."
+    },
+    {
+      "memory_id": "X0406-m09",
+      "date": "2025-09-25",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: EEG normal; patient remains seizure-free on current regimen.\n  - Plan: Continue levetiracetam 500 mg BD and lamotrigine 50 mg BD; routine clinical review in 6 months.\n- Vitamin D deficiency\n  - Status: 25(OH)D 31 ng/mL, now sufficient.\n  - Plan: Continue cholecalciferol 1000 IU OD long-term; recheck level in 6 months.\n- General\n  - Weight: 67 kg; Waist: 80 cm (at cutoff).\n  - Diet advice: Breakfast – idli with sambar; Lunch – brown rice with vegetable curry; Dinner – grilled chicken salad.\n- Due HbA1c: Not applicable (patient not on glucose-lowering therapy)."
+    },
+    {
+      "memory_id": "X0406-m10",
+      "date": "2026-03-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure-free for over 1 year; medication adherence good.\n  - Plan: Continue levetiracetam 500 mg BD and lamotrigine 50 mg BD.\n- Vitamin D deficiency\n  - Status: On maintenance cholecalciferol 1000 IU OD; last level 31 ng/mL.\n  - Plan: Continue same dose; recheck in 6 months.\n- General\n  - Weight: 66.5 kg; Waist: 79 cm (below female cutoff).\n  - Diet advice: Breakfast – poha with peanuts; Lunch – quinoa with mixed veg; Dinner – lentil soup with roti.\n- Due HbA1c: Not applicable (patient not on glucose-lowering therapy)."
+    },
+    {
+      "memory_id": "X0406-m11",
+      "date": "2026-06-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-06-20 to 2026-06-15 at 09:30 AM with Dr Karthik Hegde (D04) as per patient request."
+    },
+    {
+      "memory_id": "X0406-m12",
+      "date": "2026-09-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 34 ng/mL (ref 30-100)\nSerum Calcium: 9.2 mg/dL (ref 8.6-10.3)\nSerum Phosphate: 2.9 mg/dL (ref 2.5-4.5)\nSerum Sodium: 138 mmol/L (ref 135-145)\nSerum Creatinine: 0.9 mg/dL (ref 0.6-1.2)"
+    }
+  ]
+}

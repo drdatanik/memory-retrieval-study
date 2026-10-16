@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0293",
+  "name": "Benjamin D'Souza",
+  "age": 38,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0293-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "2025-04-10 visit_note\nReason for visit: new patient seeking preventive management of migraine.\nPRESENTING COMPLAINT\nMr reports episodic throbbing headaches twice weekly, lasting 4-6 hours, associated with photophobia and nausea, relieved by sumatriptan.\nEXAMINATION\nBP 128/78 mmHg, weight 72 kg, height 1.70 m, BMI 24.9 (overweight). Neurological examination normal, no focal deficits.\nIMPRESSION\nEpisodic migraine, preventive therapy indicated. Lipid profile and fasting glucose to be checked as baseline.\nARRANGEMENTS\nStart propranolol 40 mg OD, topiramate 25 mg HS, sumatriptan 50 mg SOS, naproxen 500 mg SOS. Advise regular aerobic activity and balanced diet to address overweight. Influenza vaccine not due. Return if headache becomes daily, worsens with exertion, associated with visual loss, weakness, speech difficulty, fever >39°C, or vomiting persisting >24h."
+    },
+    {
+      "memory_id": "X0293-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "2025-04-10 prescription\nPropranolol 40 mg orally daily\nTopiramate 25 mg orally at bedtime\nSumatriptan 50 mg orally as needed for acute attack\nNaproxen 500 mg orally as needed for pain"
+    },
+    {
+      "memory_id": "X0293-m03",
+      "date": "2025-04-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "2025-04-12 patient_context\nVia clinic app: \"I’ve noticed my headaches worsen after late‑night lecture preparations and when I skip meals. Stress feels like a big trigger. I’ve been taking sumatriptan about twice a week.\""
+    },
+    {
+      "memory_id": "X0293-m04",
+      "date": "2025-04-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "2025-04-15 appointment\nFollow‑up visit booked for 2025-07-20 at 10:00 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0293-m05",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "2025-07-20 visit_note\nReason for visit: routine migraine follow‑up and medication review.\nPRESENTING COMPLAINT\nPatient reports headache frequency down to once weekly, mild intensity, still responsive to sumatriptan. No new neurological symptoms.\nEXAMINATION\nBP 130/80 mmHg, weight 73 kg, height 1.70 m, BMI 25.2 (obese). Neurological exam normal.\nIMPRESSION\nMigraine improved on current prophylaxis. Lipid profile shows total cholesterol 5.2 mmol/L (ref <5.2), LDL 3.0 mmol/L (<2.6 borderline), HDL 1.2 (>1.0), triglycerides 1.8 (<1.7 slightly high). Fasting glucose 5.6 mmol/L (<6.1). Advise weight reduction.\nARRANGEMENTS\nIncrease propranolol to 60 mg OD, continue topiramate 25 mg HS, sumatriptan 50 mg SOS, naproxen 500 mg SOS. Counsel on calorie‑restricted diet and brisk walking 30 min daily. Influenza vaccine not due. Return if headache becomes >2 days/week, severe uncontrolled pain, neurologic deficits, fever >39°C, or persistent vomiting."
+    },
+    {
+      "memory_id": "X0293-m06",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "2025-07-20 prescription\nPropranolol 60 mg orally daily\nTopiramate 25 mg orally at bedtime\nSumatriptan 50 mg orally as needed for acute attack\nNaproxen 500 mg orally as needed for pain"
+    },
+    {
+      "memory_id": "X0293-m07",
+      "date": "2025-07-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "2025-07-22 lab_result\nFasting lipid profile: Total cholesterol 5.2 mmol/L (reference <5.2), LDL cholesterol 3.0 mmol/L (<2.6 optimal), HDL cholesterol 1.2 mmol/L (>1.0), Triglycerides 1.8 mmol/L (<1.7).\nFasting blood sugar: 5.6 mmol/L (reference <6.1)."
+    },
+    {
+      "memory_id": "X0293-m08",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "2025-10-05 patient_context\nVia clinic app: \"Since increasing propranolol I feel unusually tired in the mornings and have noticed mild shortness of breath on climbing stairs. I’m otherwise sleeping well.\""
+    },
+    {
+      "memory_id": "X0293-m09",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "2025-10-10 visit_note\nReason for visit: review of propranolol side‑effects and migraine control.\nPRESENTING COMPLAINT\nPatient reports fatigue and exertional dyspnea since propranolol dose increase; headache frequency unchanged at once weekly.\nEXAMINATION\nBP 118/76 mmHg, weight 72.5 kg, height 1.70 m, BMI 25.1 (obese). Cardiac exam regular, no murmurs; lungs clear.\nIMPRESSION\nPropranolol‑related fatigue likely; migraine still controlled. Consider dose reduction and optimise topiramate.\nARRANGEMENTS\nReduce propranolol to 20 mg OD, increase topiramate to 50 mg HS. Advise gradual dose change, monitor symptoms. Continue sumatriptan 50 mg SOS, naproxen 500 mg SOS. Influenza vaccine given today 2025-10-05. Return if headache worsens >2 days/week, new neurologic signs, chest pain, breathlessness at rest, fever >39°C, or vomiting."
+    },
+    {
+      "memory_id": "X0293-m10",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "2025-10-10 prescription\nPropranolol 20 mg orally daily\nTopiramate 50 mg orally at bedtime\nSumatriptan 50 mg orally as needed for acute attack\nNaproxen 500 mg orally as needed for pain"
+    },
+    {
+      "memory_id": "X0293-m11",
+      "date": "2026-02-14",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "2026-02-14 visit_note\nReason for visit: six‑month migraine review and cardiovascular risk check.\nPRESENTING COMPLAINT\nPatient reports headaches stable at once weekly, mild, no fatigue on current regimen. Weight stable.\nEXAMINATION\nBP 122/78 mmHg, weight 72 kg, height 1.70 m, BMI 24.9 (overweight). Neurological exam normal.\nIMPRESSION\nMigraine well‑controlled on propranolol 20 mg OD and topiramate 50 mg HS. Lipid profile repeat shows total cholesterol 5.0 mmol/L (<5.2), LDL 2.8 (<2.6 borderline), HDL 1.3, triglycerides 1.6 (<1.7). Fasting glucose 5.5 mmol/L (<6.1).\nARRANGEMENTS\nContinue current doses. Reinforce Mediterranean‑style diet and 150 min weekly aerobic activity. Influenza vaccine not due (last given Oct 2025). Return if headache becomes >2 days/week, severe uncontrolled, neurologic deficit, fever >39°C, or persistent vomiting."
+    },
+    {
+      "memory_id": "X0293-m12",
+      "date": "2026-02-14",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "2026-02-14 appointment\nNext review scheduled for 2026-06-15 at 09:30 am with Dr Priya Natarajan (D03)."
+    }
+  ]
+}

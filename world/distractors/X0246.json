@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0246",
+  "name": "Shabbir Baig",
+  "age": 54,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Depression",
+    "Type 2 diabetes",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0246-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: PHQ-9 10 (mild), reports low mood, sleep disturbance.\n  - Plan: Continue sertraline 50 mg OD, add brief counselling, monitor PHQ-9 in 3 months.\n- Type 2 diabetes\n  - Status: HbA1c 7.8%, FPG 156 mg/dL, urine ACR 30 mg/g, LDL 130 mg/dL, HDL 38 mg/dL, TG 180 mg/dL.\n  - Plan: Continue metformin 500 mg BD, glimepiride 1 mg OD before breakfast, sitagliptin 100 mg OD, empagliflozin 10 mg OD; reinforce diet and exercise.\n- Migraine\n  - Status: 4 headache days/month, uses sumatriptan SOS.\n  - Plan: Continue propranolol 40 mg OD, topiramate 25 mg HS, naproxen 500 mg SOS as needed.\n- Weight 78 kg, waist 92 cm (>90 cm cut‑off). Advised reduced‑carb diet.\n- Diet advice: Breakfast – whole grain roti + egg white; Lunch – dal, vegetable curry, small rice portion; Dinner – soup, salad, lean protein.\n- Due: HbA1c repeat in 3 months (2025-07-10)."
+    },
+    {
+      "memory_id": "X0246-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg BD after food\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nSertraline 50 mg OD after food\nPropranolol 40 mg OD after food\nTopiramate 25 mg HS\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0246-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (4.0‑5.6)\nFPG 156 mg/dL (70‑99)\nUrine ACR 30 mg/g (<30)\nLDL 130 mg/dL (<100)\nHDL 38 mg/dL (>40)\nTG 180 mg/dL (<150)\nTSH 2.1 µIU/mL (0.4‑4.0)\nVitamin B12 320 pg/mL (200‑900)"
+    },
+    {
+      "memory_id": "X0246-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: PHQ-9 8 (mild), improved mood, better sleep.\n  - Plan: Continue sertraline 50 mg OD, consider tapering if stable.\n- Type 2 diabetes\n  - Status: HbA1c 7.4%, FPG 140 mg/dL, ACR 28 mg/g, LDL 125 mg/dL, HDL 40 mg/dL, TG 170 mg/dL.\n  - Plan: Continue current regimen; aim for HbA1c <7.0%; reinforce low‑glycemic diet.\n- Migraine\n  - Status: 2 headache days/month, minimal SOS use.\n  - Plan: Continue propranolol 40 mg OD, topiramate 25 mg HS; naproxen SOS only if needed.\n- Weight 77 kg, waist 90 cm (at cut‑off). Advised maintain waist <90 cm.\n- Diet advice: Breakfast – oats with milk; Lunch – mixed veg, chapati, curd; Dinner – grilled fish, steamed veg.\n- Due: HbA1c repeat in 3 months (2025-10-10)."
+    },
+    {
+      "memory_id": "X0246-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg BD after food\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nSertraline 50 mg OD after food\nPropranolol 40 mg OD after food\nTopiramate 25 mg HS\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0246-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.4% (4.0‑5.6)\nFPG 140 mg/dL (70‑99)\nUrine ACR 28 mg/g (<30)\nLDL 125 mg/dL (<100)\nHDL 40 mg/dL (>40)\nTG 170 mg/dL (<150)\nTSH 2.0 µIU/mL (0.4‑4.0)\nVitamin B12 310 pg/mL (200‑900)"
+    },
+    {
+      "memory_id": "X0246-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: PHQ-9 6 (minimal), reports feeling well.\n  - Plan: Taper sertraline to 25 mg OD, monitor for relapse.\n- Type 2 diabetes\n  - Status: HbA1c 7.1%, FPG 132 mg/dL, ACR 26 mg/g, LDL 118 mg/dL, HDL 42 mg/dL, TG 160 mg/dL.\n  - Plan: Continue metformin, sitagliptin, empagliflozin; consider reducing glimepiride to 0.5 mg OD if hypoglycemia occurs.\n- Migraine\n  - Status: 1‑2 headache days/month, well controlled.\n  - Plan: Continue propranolol 40 mg OD, topiramate 25 mg HS; naproxen SOS as needed.\n- Weight 76 kg, waist 88 cm (<90 cm). Praised progress.\n- Diet advice: Breakfast – paneer bhurji with multigrain toast; Lunch – rajma, brown rice, salad; Dinner – lentil soup, grilled chicken.\n- Due: HbA1c repeat in 3 months (2026-01-10)."
+    },
+    {
+      "memory_id": "X0246-m08",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg BD after food\nGlimepiride 0.5 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nSertraline 25 mg OD after food\nPropranolol 40 mg OD after food\nTopiramate 25 mg HS\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0246-m09",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.1% (4.0‑5.6)\nFPG 132 mg/dL (70‑99)\nUrine ACR 26 mg/g (<30)\nLDL 118 mg/dL (<100)\nHDL 42 mg/dL (>40)\nTG 160 mg/dL (<150)\nTSH 1.9 µIU/mL (0.4‑4.0)\nVitamin B12 305 pg/mL (200‑900)"
+    },
+    {
+      "memory_id": "X0246-m10",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: PHQ-9 5 (minimal), no side effects.\n  - Plan: Continue sertraline 25 mg OD; review in 3 months.\n- Type 2 diabetes\n  - Status: HbA1c 6.9%, FPG 124 mg/dL, ACR 22 mg/g, LDL 110 mg/dL, HDL 44 mg/dL, TG 150 mg/dL (borderline).\n  - Plan: Continue metformin, sitagliptin, empagliflozin; discontinue glimepiride as HbA1c at target; start atorvastatin 10 mg HS for lipids.\n- Migraine\n  - Status: 0‑1 headache days/month, excellent control.\n  - Plan: Continue prophylactic regimen; keep SOS meds.\n- Weight 75 kg, waist 86 cm (<90 cm).\n- Diet advice: Breakfast – idli with sambar; Lunch – vegetable khichdi, curd; Dinner – grilled paneer, steamed broccoli.\n- Due: HbA1c repeat in 3 months (2026-04-10); lipid panel repeat in 1 year (2027-01-10)."
+    },
+    {
+      "memory_id": "X0246-m11",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg BD after food\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nSertraline 25 mg OD after food\nPropranolol 40 mg OD after food\nTopiramate 25 mg HS\nAtorvastatin 10 mg HS\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0246-m12",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.9% (4.0‑5.6)\nFPG 124 mg/dL (70‑99)\nUrine ACR 22 mg/g (<30)\nLDL 110 mg/dL (<100)\nHDL 44 mg/dL (>40)\nTG 150 mg/dL (<150)\nTSH 1.8 µIU/mL (0.4‑4.0)\nVitamin B12 300 pg/mL (200‑900)\nLipid panel: LDL 110, HDL 44, TG 150"
+    },
+    {
+      "memory_id": "X0246-m13",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: PHQ-9 4 (minimal), reports occasional low mood.\n  - Plan: Continue sertraline 25 mg OD; add mindfulness exercise.\n- Type 2 diabetes\n  - Status: HbA1c 6.8%, FPG 120 mg/dL, ACR 20 mg/g, LDL 108 mg/dL, HDL 45 mg/dL, TG 148 mg/dL.\n  - Plan: Continue current regimen; reinforce weight maintenance.\n- Migraine\n  - Status: 0 headache days/month, no SOS use.\n  - Plan: Continue propranolol 40 mg OD, topiramate 25 mg HS.\n- Weight 74 kg, waist 84 cm (<90 cm).\n- Diet advice: Breakfast – vegetable upma; Lunch – mixed dal, chapati, salad; Dinner – fish curry, quinoa.\n- Due: HbA1c repeat in 3 months (2026-07-10)."
+    },
+    {
+      "memory_id": "X0246-m14",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg BD after food\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nSertraline 25 mg OD after food\nPropranolol 40 mg OD after food\nTopiramate 25 mg HS\nAtorvastatin 10 mg HS\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0246-m15",
+      "date": "2026-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8% (4.0‑5.6)\nFPG 120 mg/dL (70‑99)\nUrine ACR 20 mg/g (<30)\nLDL 108 mg/dL (<100)\nHDL 45 mg/dL (>40)\nTG 148 mg/dL (<150)\nTSH 1.7 µIU/mL (0.4‑4.0)\nVitamin B12 295 pg/mL (200‑900)"
+    },
+    {
+      "memory_id": "X0246-m16",
+      "date": "2026-05-15",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dilated fundus exam: No microaneurysms, no hemorrhages, no exudates. Macula normal. Retina otherwise healthy. Recommend repeat in 1 year."
+    },
+    {
+      "memory_id": "X0246-m17",
+      "date": "2026-08-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"Over the past week I've had two migraine episodes, each lasting about 6 hours, with nausea. I took sumatriptan both times and got relief. No new triggers noticed.\" - patient message via clinic app"
+    },
+    {
+      "memory_id": "X0246-m18",
+      "date": "2026-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-10-15 at 09:30 with Dr Karthik Hegde (D04) for routine follow‑up. Patient confirmed via SMS."
+    }
+  ]
+}

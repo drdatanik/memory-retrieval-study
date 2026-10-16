@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0271",
+  "name": "Kulwinder Grewal",
+  "age": 34,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Psoriasis",
+    "Insomnia",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0271-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis, insomnia, and depression.\nEvidence: Chronic plaque psoriasis on elbows and knees, reports difficulty initiating sleep, low mood, anhedonia.\nSymptoms and examination: Well‑appearing, erythematous scaly plaques 2‑3 cm on extensor surfaces, no joint swelling; reports sleep latency ~45 min, daytime fatigue, PHQ‑9‑consistent low energy. Smoking status: never. No inhaler prescribed; technique not applicable."
+    },
+    {
+      "memory_id": "X0271-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "clobetasol 0.05% cream – apply BD to affected areas\ncalcipotriol ointment – apply OD to plaques\nmethotrexate 7.5 mg – take once weekly\nfolic acid 5 mg – take daily\nmelatonin 3 mg – take at HS\ntrazodone 50 mg – take at HS\nsertraline 50 mg – take daily\nescitalopram 10 mg – take daily\nmirtazapine 15 mg – take at HS"
+    },
+    {
+      "memory_id": "X0271-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 28 U/L (7‑56), AST 24 U/L (10‑40), ALP 78 U/L (30‑120), GGT 22 U/L (0‑51), Bilirubin 0.9 mg/dL (0.2‑1.2).\nCBC: Hb 13.2 g/dL (12‑16), WBC 6.5 ×10⁹/L (4‑10), Platelets 250 ×10⁹/L (150‑400).\nCreatinine 0.8 mg/dL (0.6‑1.2).\nTSH 2.1 µIU/mL (0.4‑4.0).\nVitamin B12 350 pg/mL (200‑900).\nPHQ‑9 12 (0‑27).\nInsomnia Severity Index 15 (0‑28)."
+    },
+    {
+      "memory_id": "X0271-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis, insomnia, depression – stable on treatment.\nEvidence: LFT shows mild ALT rise, patient notes improved sleep but residual itching.\nSymptoms and examination: Plaques thinner, scaling mild on elbows/knees; sleep latency ~30 min, reports feeling more rested; mood better, occasional tearfulness, denies suicidal ideation. Smoking status: never. No inhaler; technique not applicable."
+    },
+    {
+      "memory_id": "X0271-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "clobetasol 0.05% cream – BD topical\ncalcipotriol ointment – OD topical\nmethotrexate 5 mg – once weekly\nfolic acid 5 mg – daily\nmelatonin 3 mg – HS\ntrazodone 25 mg – HS\nsertraline 75 mg – OD\nescitalopram 10 mg – OD\nmirtazapine 15 mg – HS"
+    },
+    {
+      "memory_id": "X0271-m06",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 22 U/L (7‑56), AST 20 U/L (10‑40), ALP 75 U/L (30‑120), GGT 18 U/L (0‑51), Bilirubin 0.8 mg/dL (0.2‑1.2).\nCBC: Hb 13.5 g/dL (12‑16), WBC 6.2 ×10⁹/L (4‑10), Platelets 260 ×10⁹/L (150‑400).\nCreatinine 0.78 mg/dL (0.6‑1.2).\nTSH 1.9 µIU/mL (0.4‑4.0).\nVitamin B12 340 pg/mL (200‑900).\nPHQ‑9 8 (0‑27).\nInsomnia Severity Index 10 (0‑28)."
+    },
+    {
+      "memory_id": "X0271-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis, insomnia, depression – improving.\nEvidence: LFT normalized, PHQ‑9 down, ISI improved.\nSymptoms and examination: Plaques faint pink, minimal scaling; sleep latency ~20 min, feels rested; mood stable, reports enjoying work, no guilt. Smoking status: never. No inhaler; technique not applicable."
+    },
+    {
+      "memory_id": "X0271-m08",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘Over past week my psoriasis plaques have flared up on my scalp and back, itchy and red. Work stress high, sleeping only 5‑6 hours, feeling down again.’"
+    },
+    {
+      "memory_id": "X0271-m09",
+      "date": "2026-01-20",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Dermatology for refractory scalp psoriasis. Continue current methotrexate 5 mg weekly, folic acid, topical steroids. Request advice on possible biologic therapy."
+    },
+    {
+      "memory_id": "X0271-m10",
+      "date": "2026-02-10",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Dermatology notes: Scalp psoriasis severe, recommend adding calcipotriol‑betamethasone combo BD scalp, continue methotrexate, consider etanercept if no improvement in 8 weeks. No contraindications."
+    },
+    {
+      "memory_id": "X0271-m11",
+      "date": "2026-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Suresh Menon (D05) for 2026-04-10 at 10:30 am. Reason: review psoriasis treatment and mental health."
+    },
+    {
+      "memory_id": "X0271-m12",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis, insomnia, depression – post‑dermatology advice.\nEvidence: Scalp plaques erythematous, thick scale; back plaques moderate.\nSymptoms and examination: Prescribed calcipotriol‑betamethasone BD scalp, continue clobetasol BD body, methotrexate 5 mg weekly unchanged. Sleep latency ~35 min, mood low‑moderate, PHQ‑9 11. Smoking status: never. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0271-m13",
+      "date": "2026-08-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 20 U/L (7‑56), AST 19 U/L (10‑40), ALP 73 U/L (30‑120), GGT 16 U/L (0‑51), Bilirubin 0.7 mg/dL (0.2‑1.2).\nCBC: Hb 13.6 g/dL (12‑16), WBC 6.0 ×10⁹/L (4‑10), Platelets 255 ×10⁹/L (150‑400).\nCreatinine 0.75 mg/dL (0.6‑1.2).\nTSH 1.8 µIU/mL (0.4‑4.0).\nVitamin B12 330 pg/mL (200‑900).\nPHQ‑9 6 (0‑27).\nInsomnia Severity Index 7 (0‑28)."
+    }
+  ]
+}

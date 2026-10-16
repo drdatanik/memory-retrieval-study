@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0530",
+  "name": "Rukhsana Khan",
+  "age": 73,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Depression",
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0530-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: Persistent low mood, PHQ-9 12, mild insomnia.\n  - Plan: Start sertraline 50 mg OD after breakfast; counsel on sleep hygiene; PHQ-9 in 4 weeks.\n- Non‑alcoholic fatty liver disease\n  - Status: BMI 28, waist 92 cm (>90 cm cut‑off), ALT 48 U/L.\n  - Plan: Lifestyle advice – reduced refined carbs, 30 min walk daily; start silymarin 140 mg TDS with meals; rosuvastatin 5 mg OD at night; repeat LFT in 3 months.\n- Weight: 78 kg, waist 92 cm.\n- Due: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0530-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "sertraline 50 mg OD after breakfast\nsilymarin 140 mg TDS with meals\nrosuvastatin 5 mg OD at night"
+    },
+    {
+      "memory_id": "X0530-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 12 (0‑27)\nTSH 2.1 mIU/L (0.4‑4.0)\nVitamin B12 210 pg/mL (200‑900)\nALT 48 U/L (<35)\nAST 32 U/L (<34)\nPlatelet count 210 x10^9/L (150‑400)\nFasting lipid profile: TC 210 mg/dL (<200), LDL 130 mg/dL (<100), HDL 45 mg/dL (>40), TG 160 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0530-m04",
+      "date": "2025-04-07",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel tired most days and my sleep is broken. I worry about my liver because I love fried food from the hotel kitchen."
+    },
+    {
+      "memory_id": "X0530-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: Improved mood, PHQ-9 8, reports better sleep.\n  - Plan: Continue sertraline 50 mg OD; add escitalopram 5 mg OD after dinner for anxiety; review PHQ-9 in 6 weeks.\n- Non‑alcoholic fatty liver disease\n  - Status: Weight 76 kg, waist 90 cm (at cut‑off), ALT 38 U/L.\n  - Plan: Maintain silymarin 140 mg TDS; increase rosuvastatin to 10 mg OD at night; repeat LFT and lipid profile in 3 months.\n- Weight: 76 kg, waist 90 cm."
+    },
+    {
+      "memory_id": "X0530-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "sertraline 50 mg OD after breakfast\nescitalopram 5 mg OD after dinner\nsilymarin 140 mg TDS with meals\nrosuvastatin 10 mg OD at night"
+    },
+    {
+      "memory_id": "X0530-m07",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 8\nTSH 2.0 mIU/L\nVitamin B12 220 pg/mL\nALT 38 U/L\nAST 30 U/L\nPlatelet count 208 x10^9/L\nFasting lipids: TC 195 mg/dL, LDL 115 mg/dL, HDL 48 mg/dL, TG 140 mg/dL"
+    },
+    {
+      "memory_id": "X0530-m08",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: Mood stable, PHQ-9 6, occasional anxiety.\n  - Plan: Stop escitalopram (taper over 2 weeks); start mirtazapine 15 mg HS for sleep; continue sertraline 50 mg OD; PHQ-9 in 8 weeks.\n- Non‑alcoholic fatty liver disease\n  - Status: Weight 74 kg, waist 88 cm (<90 cm), ALT 34 U/L (normal).\n  - Plan: Continue silymarin 140 mg TDS; reduce rosuvastatin to 5 mg OD at night; repeat LFT and lipid profile in 3 months.\n- Weight: 74 kg, waist 88 cm."
+    },
+    {
+      "memory_id": "X0530-m09",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "sertraline 50 mg OD after breakfast\nmirtazapine 15 mg HS\nsilymarin 140 mg TDS with meals\nrosuvastatin 5 mg OD at night"
+    },
+    {
+      "memory_id": "X0530-m10",
+      "date": "2025-10-13",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: hepatic steatosis grade 1, no focal lesion, spleen normal size, portal vein patent."
+    },
+    {
+      "memory_id": "X0530-m11",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 20 Jan 2026 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0530-m12",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: Mood good, PHQ-9 4, reports restful sleep.\n  - Plan: Continue sertraline 50 mg OD and mirtazapine 15 mg HS; consider tapering mirtazapine if daytime sedation appears; PHQ-9 in 3 months.\n- Non‑alcoholic fatty liver disease\n  - Status: Weight 73 kg, waist 86 cm, ALT 30 U/L.\n  - Plan: Continue silymarin 140 mg TDS; rosuvastatin 5 mg OD at night; repeat LFT, lipid profile and platelet count in 3 months.\n- Weight: 73 kg, waist 86 cm."
+    },
+    {
+      "memory_id": "X0530-m13",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "sertraline 50 mg OD after breakfast\nmirtazapine 15 mg HS\nsilymarin 140 mg TDS with meals\nrosuvastatin 5 mg OD at night"
+    },
+    {
+      "memory_id": "X0530-m14",
+      "date": "2026-01-21",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 4\nTSH 2.2 mIU/L\nVitamin B12 215 pg/mL\nALT 30 U/L\nAST 28 U/L\nPlatelet count 212 x10^9/L\nFasting lipids: TC 190 mg/dL, LDL 110 mg/dL, HDL 50 mg/dL, TG 135 mg/dL"
+    },
+    {
+      "memory_id": "X0530-m15",
+      "date": "2026-04-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Eye exam (fundoscopy): No diabetic retinopathy changes; mild cataract changes bilaterally, visually significant? No."
+    },
+    {
+      "memory_id": "X0530-m16",
+      "date": "2026-04-10",
+      "type": "referral",
+      "author": "D04",
+      "text": "To: Dr Suresh Rao, Hepatology, Vikram Hospital.\nReason: Persistent NAFLD with borderline elevated liver enzymes despite lifestyle and statin; request fibrosis assessment (FibroScan) and guidance on further management."
+    },
+    {
+      "memory_id": "X0530-m17",
+      "date": "2026-07-05",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "From Dr Suresh Rao: FibroScan shows CAP 260 dB/m (steatosis), stiffness 6.8 kPa (F0‑F1). Advise continue lifestyle, silymarin, low‑dose statin; repeat FibroScan in 12 months. No pharmacologic therapy needed at present."
+    },
+    {
+      "memory_id": "X0530-m18",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Depression\n  - Status: Mood stable, PHQ-9 3, no side effects.\n  - Plan: Continue sertraline 50 mg OD; consider taper mirtazapine 15 mg HS to 7.5 mg HS if daytime drowsiness recurs; PHQ-9 in 3 months.\n- Non‑alcoholic fatty liver disease\n  - Status: Weight 72 kg, waist 84 cm, ALT 28 U/L (normal).\n  - Plan: Continue silymarin 140 mg TDS; rosuvastatin 5 mg OD at night; repeat LFT, lipid profile and platelet count in 6 months.\n- Weight: 72 kg, waist 84 cm."
+    }
+  ]
+}

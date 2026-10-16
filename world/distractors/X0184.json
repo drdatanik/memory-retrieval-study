@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0184",
+  "name": "Nitin Mhatre",
+  "age": 76,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Chronic kidney disease",
+    "Insomnia",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0184-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, walks 30 min daily, uses cane occasionally. cognition: Mini-Cog 3/5 (recall 2, clock draw normal) – negative screen. falls: 0 falls last 12 months, gait steady, timed up-and-go 10 seconds – normal risk. medicines: 9 regular (telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD, melatonin 3 mg HS, trazodone 50 mg HS, amlodipine 5 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD) – polypharmacy, review Beers criteria indicated. mood: reports occasional low mood, denies hopelessness. carers: daughter Priya, primary support. goals: \"I want to stay active and keep teaching my grandchildren yoga.\""
+    },
+    {
+      "memory_id": "X0184-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n melatonin 3 mg HS\n trazodone 50 mg HS\n amlodipine 5 mg OD\n losartan 50 mg OD\n hydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0184-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "serum creatinine 1.4 mg/dL (0.6-1.2) ↑\neGFR 48 mL/min/1.73m2 (>60) ↓\n urine albumin‑creatinine ratio 85 mg/g (<30) ↑\n haemoglobin 12.8 g/dL (13.0-17.0) ↓\n serum potassium 4.6 mmol/L (3.5-5.0)\n TSH 2.1 µIU/mL (0.4-4.0)\n Insomnia Severity Index score 8/28 (0-7) ↑"
+    },
+    {
+      "memory_id": "X0184-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independent, reports mild fatigue after walks. cognition: Mini-Cog 3/5 – stable. falls: 0 falls last 12 months, gait slightly slow, timed up-and-go 11 seconds – borderline. medicines: 9 regular – polypharmacy, Beers review pending. mood: low mood improved, denies anhedonia. carers: daughter Priya. goals: \"I wish to walk without getting tired.\""
+    },
+    {
+      "memory_id": "X0184-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 10 mg OD (reduced)\n sodium bicarbonate 500 mg BD\n melatonin 3 mg HS\n trazodone 50 mg HS\n amlodipine 5 mg OD\n losartan 50 mg OD\n hydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0184-m06",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "serum creatinine 1.3 mg/dL\neGFR 52 mL/min/1.73m2\n urine ACR 70 mg/g\n haemoglobin 13.0 g/dL\n serum potassium 4.4 mmol/L"
+    },
+    {
+      "memory_id": "X0184-m07",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: manages house chores, occasional shortness of breath on exertion. cognition: Mini-Cog 2/5 (recall 1, clock draw abnormal) – positive screen, plan for full assessment. falls: 1 fall last 12 months (tripped on rug), gait unsteady, timed up-and-go 13 seconds – raised risk, advise exercise and proper footwear. medicines: 9 regular – polypharmacy, Beers review ordered. mood: reports occasional anxiety, denies depression. carers: daughter Priya. goals: \"I want to avoid another fall and feel steadier on my feet.\""
+    },
+    {
+      "memory_id": "X0184-m08",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 10 mg OD\n sodium bicarbonate 500 mg BD\n melatonin 3 mg HS\n trazodone 50 mg HS\n amlodipine 5 mg OD\n losartan 50 mg OD\n hydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0184-m09",
+      "date": "2025-10-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "serum creatinine 1.35 mg/dL\neGFR 50 mL/min/1.73m2\n urine ACR 78 mg/g\n haemoglobin 12.9 g/dL\n serum potassium 4.5 mmol/L"
+    },
+    {
+      "memory_id": "X0184-m10",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independent, uses walking stick outdoors. cognition: Mini-Cog 3/5 – negative (annual screen). falls: 0 falls last 12 months, gait with stick, timed up-and-go 10 seconds – normal. medicines: 8 regular (stopped hydrochlorothiazide) – polypharmacy threshold met, Beers review ongoing. mood: stable, reports good sleep most nights. carers: daughter Priya. goals: \"I want to keep my blood pressure under control without pills causing dizziness.\""
+    },
+    {
+      "memory_id": "X0184-m11",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 10 mg OD\n sodium bicarbonate 500 mg BD\n melatonin 3 mg HS\n trazodone 50 mg HS\n amlodipine 5 mg OD\n losartan 50 mg OD"
+    },
+    {
+      "memory_id": "X0184-m12",
+      "date": "2026-01-21",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "serum creatinine 1.28 mg/dL\neGFR 55 mL/min/1.73m2\n urine ACR 65 mg/g\n haemoglobin 13.2 g/dL\n serum potassium 4.3 mmol/L"
+    },
+    {
+      "memory_id": "X0184-m13",
+      "date": "2026-04-25",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: manages daily routine, reports occasional leg swelling. cognition: Mini-Cog 3/5 – stable. falls: 0 falls last 12 months, gait mildly slow, timed up-and-go 11 seconds – borderline. medicines: 8 regular – polypharmacy, Beers review completed, no PIMs identified. mood: reports worsening insomnia, irritability. carers: daughter Priya. goals: \"I just want to sleep through the night and wake refreshed.\""
+    },
+    {
+      "memory_id": "X0184-m14",
+      "date": "2026-04-25",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I’ve been tossing and turning for hours, feeling restless. The melatonin isn’t helping like before.\""
+    },
+    {
+      "memory_id": "X0184-m15",
+      "date": "2026-04-26",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: sinus rhythm 78 bpm, no ST‑T changes, left ventricular voltage within normal limits. No arrhythmia."
+    },
+    {
+      "memory_id": "X0184-m16",
+      "date": "2026-07-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independent, leg swelling reduced after elevation. cognition: Mini-Cog 3/5 – stable. falls: 0 falls last 12 months, gait with stick, timed up-and-go 10 seconds – normal. medicines: 8 regular – polypharmacy, Beers review OK. mood: reports improved sleep after trazodone increase. carers: daughter Priya. goals: \"I want to maintain my independence and enjoy time with my grandkids.\""
+    },
+    {
+      "memory_id": "X0184-m17",
+      "date": "2026-07-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Next review scheduled for 2026-10-05 at 10:30 AM with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0184-m18",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADL independent, walks 20 min with stick, no leg swelling. cognition: Mini-Cog 3/5 – stable. falls: 0 falls last 12 months, gait steady, timed up-and-go 9 seconds – normal. medicines: 8 regular – polypharmacy, Beers review OK. mood: euthymic, reports restful sleep. carers: daughter Priya. goals: \"I want to stay healthy and keep my mind sharp for as long as possible.\""
+    }
+  ]
+}

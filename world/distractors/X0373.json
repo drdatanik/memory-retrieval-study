@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0373",
+  "name": "Jaspreet Brar",
+  "age": 70,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "COPD",
+    "Hypothyroidism",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0373-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of COPD, hypothyroidism and vitamin D deficiency.\nPRESENTING COMPLAINT: Patient reports occasional breathlessness on exertion, stable weight, no new symptoms.\nEXAMINATION: BP 138/84 mmHg, weight 62 kg, BMI 23.4 (overweight). SpO2 94% on room air. Chest clear, no wheeze. Thyroid not enlarged.\nIMPRESSION: COPD stable on current inhalers. Hypothyroidism euthyroid on levothyroxine 50 mcg OD. Vitamin D deficiency – level low, will replace.\nARRANGEMENTS: Continue tiotropium OD, salbutamol SOS, budesonide‑formoterol BD. Start levothyroxine 50 mcg OD (already). Start cholecalciferol 60000 IU once weekly for 8 weeks then 1000 IU OD. Advise weight reduction, daily walk 30 min. Return if increased breathlessness, fever >39°C, chest pain, or hemoptysis."
+    },
+    {
+      "memory_id": "X0373-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tiotropium inhaler 18 mcg OD\nSalbutamol inhaler 100 mcg SOS\nBudesonide‑formoterol 200/6 inhaler 2 puffs BD\nLevothyroxine 50 mcg tablet OD\nCholecalciferol 60000 IU capsule once weekly for 8 weeks"
+    },
+    {
+      "memory_id": "X0373-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (0.4‑4.0) – slightly high\nFree T4 12.5 pmol/L (12‑22) – normal\nSerum 25‑hydroxyvitamin D 14 ng/mL (<30 deficient)\nSerum calcium 9.1 mg/dL (8.5‑10.5)\nSerum phosphate 3.4 mg/dL (2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0373-m04",
+      "date": "2025-04-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry: FEV1 1.68 L (55% predicted), FVC 2.90 L (88% predicted), FEV1/FVC 0.58 (below 0.70) – consistent with moderate obstructive defect."
+    },
+    {
+      "memory_id": "X0373-m05",
+      "date": "2025-04-16",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Chest X‑ray PA: lungs show hyperinflated fields, flattened diaphragms, no focal consolidation, no pleural effusion. Cardiac size within normal limits."
+    },
+    {
+      "memory_id": "X0373-m06",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of symptoms and medication tolerance.\nPRESENTING COMPLAINT: Patient notes mild increase in wheezing after housework, otherwise well.\nEXAMINATION: BP 140/86 mmHg, weight 61.5 kg, BMI 23.0 (overweight). SpO2 93% on room air. Mild expiratory wheeze bilaterally.\nIMPRESSION: COPD slight worsening; consider stepping up bronchodilator. Hypothyroidism: TSH slightly elevated, need dose increase. Vitamin D repletion ongoing.\nARRANGEMENTS: Increase levothyroxine to 75 mcg OD. Add salbutamol inhaler 2 puffs QID PRN for wheeze. Continue other COPD meds. Advise avoid triggers, use inhaler before exertion. Return if worsening dyspnea, night symptoms, fever >39°C, or swelling of legs."
+    },
+    {
+      "memory_id": "X0373-m07",
+      "date": "2025-07-16",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 75 mcg tablet OD\nSalbutamol inhaler 100 mcg 2 puffs QID PRN"
+    },
+    {
+      "memory_id": "X0373-m08",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 5.8 mIU/L (0.4‑4.0) – elevated\nFree T4 13.0 pmol/L (12‑22) – normal"
+    },
+    {
+      "memory_id": "X0373-m09",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: autumn review and influenza vaccination.\nPRESENTING COMPLAINT: Patient reports stable breathing, no exacerbations since last visit.\nEXAMINATION: BP 138/82 mmHg, weight 61 kg, BMI 22.9 (overweight). SpO2 94% on room air. Chest clear with mild wheeze only on forced expiration.\nIMPRESSION: COPD stable. Hypothyroidism subclinical, levothyroxine 75 mcg OD adequate. Vitamin D repletion complete.\nARRANGEMENTS: Give influenza vaccine (inactivated) today 2025‑10‑20. Continue current meds. Advise annual flu vaccine, pneumococcal vaccine if not given. Return if new cough with fever, worsening dyspnea, chest pain, or hemoptysis."
+    },
+    {
+      "memory_id": "X0373-m10",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: winter check‑up, medication review.\nPRESENTING COMPLAINT: Patient feels well, no respiratory symptoms, denies cold intolerance.\nEXAMINATION: BP 136/80 mmHg, weight 60.8 kg, BMI 22.8 (overweight). SpO2 95% on room air. Chest clear.\nIMPRESSION: COPD stable. Hypothyroidism: TSH still slightly high, consider further levothyroxine increase. Vitamin D levels adequate.\nARRANGEMENTS: Increase levothyroxine to 100 mcg OD. Continue tiotropium, salbutamol SOS, budesonide‑formoterol BD. Advise maintain activity, avoid smoke. Return if worsening dyspnea, fever >39°C, palpitations, or unexplained weight change."
+    },
+    {
+      "memory_id": "X0373-m11",
+      "date": "2026-01-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Levothyroxine 100 mcg tablet OD"
+    },
+    {
+      "memory_id": "X0373-m12",
+      "date": "2026-02-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D 28 ng/mL (30‑100) – borderline low\nSerum calcium 9.2 mg/dL (8.5‑10.5)\nSerum phosphate 3.5 mg/dL (2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0373-m13",
+      "date": "2026-03-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked fasting lipid profile and fasting blood sugar for 2026-04-05 at 08:00. Patient instructed to fast 12 hours."
+    },
+    {
+      "memory_id": "X0373-m14",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual metabolic review and vaccine update.\nPRESENTING COMPLAINT: Patient reports no new symptoms, tolerates meds well.\nEXAMINATION: BP 134/78 mmHg, weight 60.5 kg, BMI 22.7 (overweight). SpO2 95% on room air.\nIMPRESSION: COPD stable. Hypothyroidism euthyroid on levothyroxine 100 mcg OD. Vitamin D borderline; will supplement.\nARRANGEMENTS: Order fasting lipid profile and fasting blood sugar (already done). Continue current meds. Start cholecalciferol 1000 IU OD for maintenance. Advise diet rich in calcium, weight‑bearing exercise. Return if chest pain, dyspnea at rest, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0373-m15",
+      "date": "2026-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 92 mg/dL (70‑99) – normal\nTotal cholesterol 185 mg/dL (<200)\nLDL 108 mg/dL (<130)\nHDL 48 mg/dL (>40)\nTriglycerides 140 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0373-m16",
+      "date": "2026-10-08",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: autumn review, influenza vaccination, COPD assessment.\nPRESENTING COMPLAINT: Patient reports occasional mild wheeze on climbing stairs, otherwise well.\nEXAMINATION: BP 136/82 mmHg, weight 60.2 kg, BMI 22.6 (overweight). SpO2 94% on room air. Mild expiratory wheeze.\nIMPRESSION: COPD stable, no exacerbation. Hypothyroidism euthyroid. Vitamin D maintained.\nARRANGEMENTS: Give influenza vaccine (inactivated) today 2026‑10‑08. Continue tiotropium OD, salbutamol SOS, budesonide‑formoterol BD, levothyroxine 100 mcg OD, cholecalciferol 1000 IU OD. Advise smoking avoidance (non‑smoker), annual flu vaccine. Return if increased wheeze, fever >39°C, chest pain, hemoptysis, or sudden swelling of legs."
+    }
+  ]
+}

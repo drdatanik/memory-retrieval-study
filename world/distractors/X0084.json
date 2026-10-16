@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0084",
+  "name": "Narasimha Naidu",
+  "age": 25,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Depression",
+    "Psoriasis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0084-m01",
+      "date": "2025-04-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports able to work full day at vegetable stall, mild fatigue in evenings. cognition: Mini-Cog score 4/5 (negative). falls: no falls in past 12 months, gait steady, timed up-and-go 9 seconds (normal). medicines: 3 regular (sertraline, clobetasol, calcipotriol). mood: reports low mood, anhedonia, PHQ-9 12. carers: mother (primary). goals: \"I want to feel less sad and keep my skin clear.\""
+    },
+    {
+      "memory_id": "X0084-m02",
+      "date": "2025-04-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 50 mg PO OD\nclobetasol 0.05% cream apply BD to affected areas\ncalcipotriol ointment apply OD to plaques"
+    },
+    {
+      "memory_id": "X0084-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 12\nTSH 2.1 mIU/L (0.4-4.0)\nVitamin B12 210 pg/mL (200-900)\nLFT: ALT 32 U/L (≤40), AST 28 U/L (≤40), ALKP 78 U/L (30-120), GGT 35 U/L (≤50)\nCBC: Hb 14.2 g/dL (13-17), WBC 6.8 x10^9/L (4-10), Plt 210 x10^9/L (150-400)\nSerum creatinine 0.9 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0084-m04",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: works full day, occasional afternoon tiredness. cognition: no change, Mini-Cog not repeated yet. falls: none, gait normal, TUG 9 sec. medicines: 4 regular (sertraline, escitalopram, clobetasol, calcipotriol). mood: improved, PHQ-9 8, reports better sleep. carers: mother. goals: \"I want to keep improving my mood and stop skin flare-ups.\""
+    },
+    {
+      "memory_id": "X0084-m05",
+      "date": "2025-06-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 8\nTSH 2.0 mIU/L\nVitamin B12 190 pg/mL (low)\nLFT: ALT 38 U/L, AST 30 U/L, ALKP 80 U/L, GGT 38 U/L\nCBC: Hb 14.0, WBC 6.5, Plt 205\nCreatinine 0.9"
+    },
+    {
+      "memory_id": "X0084-m06",
+      "date": "2025-06-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "escitalopram 10 mg PO OD\ncontinue sertraline 50 mg PO OD"
+    },
+    {
+      "memory_id": "X0084-m07",
+      "date": "2025-08-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin B12 190 pg/mL (low)\nLFT: ALT 34, AST 29, ALKP 76, GGT 33\nCBC: Hb 13.8, WBC 6.2, Plt 200\nCreatinine 0.9"
+    },
+    {
+      "memory_id": "X0084-m08",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: works well, occasional joint stiffness after long standing. cognition: Mini-Cog repeated, score 3/5 (negative). falls: none, gait steady, TUG 9 sec. medicines: 4 regular (sertraline, escitalopram, clobetasol, calcipotriol). mood: PHQ-9 6, reports occasional anxiety. carers: mother. goals: \"I want my skin to stay clear and feel more energetic.\""
+    },
+    {
+      "memory_id": "X0084-m09",
+      "date": "2025-09-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cyanocobalamin 500 mcg PO OD"
+    },
+    {
+      "memory_id": "X0084-m10",
+      "date": "2025-11-28",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 28 U/L, AST 24 U/L, ALKP 70 U/L, GGT 30 U/L\nCBC: Hb 14.1, WBC 6.9, Plt 215\nCreatinine 0.9\nSerum creatinine stable"
+    },
+    {
+      "memory_id": "X0084-m11",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild hand discomfort after prolonged gripping, still works. cognition: no change, Mini-Cog not due. falls: none, gait normal, TUG 9 sec. medicines: 5 regular (sertraline, escitalopram, clobetasol, calcipotriol, methotrexate). mood: PHQ-9 5, reports feeling better. carers: mother. goals: \"I want to keep my psoriasis under control and avoid side effects.\""
+    },
+    {
+      "memory_id": "X0084-m12",
+      "date": "2025-12-03",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 7.5 mg PO once weekly\nfolic acid 5 mg PO OD\ncontinue sertraline 50 mg PO OD\ncontinue escitalopram 10 mg PO OD"
+    },
+    {
+      "memory_id": "X0084-m13",
+      "date": "2025-12-10",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Dermatology, St. John's Hospital for assessment of refractory psoriasis and consideration of biologic therapy. Include recent labs and medication list."
+    },
+    {
+      "memory_id": "X0084-m14",
+      "date": "2025-12-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Dermatology appointment booked for 2026-01-15 at 10:00 AM at St. John's Hospital, Dermatology OPD."
+    },
+    {
+      "memory_id": "X0084-m15",
+      "date": "2026-03-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: works full day, no hand pain, skin lesions mild. cognition: Mini-Cog not repeated (annual due Apr 2026). falls: none, gait normal, TUG 9 sec. medicines: 6 regular (sertraline, escitalopram, mirtazapine, clobetasol, calcipotriol, methotrexate+folic acid). mood: PHQ-9 4, reports occasional low mood. carers: mother. goals: \"I want to stay symptom-free and continue supporting my family.\""
+    }
+  ]
+}

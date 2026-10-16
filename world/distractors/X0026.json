@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0026",
+  "name": "Sarita Chauhan",
+  "age": 47,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Type 2 diabetes",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0026-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Diabetes mellitus type 2\n  - Status: On metformin 500 mg BD, glimepiride 1 mg OD before breakfast, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Random glucose 156 mg/dL today.\n  - Plan: Continue current regimen. Advise low-carb diet, avoid sugary drinks, walk 30 min daily.\n- Irritable bowel syndrome\n  - Status: Abdominal bloating 3 days/week, occasional diarrhea. On mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS.\n  - Plan: Increase soluble fiber, avoid trigger foods, keep symptom diary.\n- General\n  - Weight 68 kg, waist 84 cm (female cutoff 80 cm -> elevated).\n  - Due: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0026-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "metformin 500 mg BD\n glimepiride 1 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n mebeverine 135 mg BD\n ispaghula husk 5 g OD\n loperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0026-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 8.2% (target <7.0)\n Fasting plasma glucose 146 mg/dL (70-100)\n Urine albumin-creatinine ratio 22 mg/g (<30)\n Complete blood count: WBC 6.2x10^9/L, Hb 12.8 g/dL, Platelets 240x10^9/L\n Stool routine: Ova/cyst nil, pus cells 0-1/hpf\n tTG-IgA 4 U/mL (<7 negative)"
+    },
+    {
+      "memory_id": "X0026-m04",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "metformin 850 mg BD\n glimepiride 1 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 10 mg OD\n mebeverine 135 mg BD\n ispaghula husk 5 g OD\n loperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0026-m05",
+      "date": "2025-06-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Diabetes mellitus type 2\n  - Status: HbA1c 8.2% (↑), FPG 146 mg/dL. On metformin 850 mg BD, glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD.\n  - Plan: Reinforce diet, add post‑meal walk, re‑check HbA1c in 3 months.\n- Irritable bowel syndrome\n  - Status: Bloating persists, stool frequency 2‑3/day.\n  - Plan: Trial mebeverine 135 mg TID, keep low‑FODMAP diet.\n- General\n  - Weight 67.5 kg, waist 83 cm.\n  - Due: HbA1c 2025-09-20."
+    },
+    {
+      "memory_id": "X0026-m06",
+      "date": "2025-08-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.6% (↓)\n Fasting plasma glucose 128 mg/dL\n Urine albumin-creatinine ratio 18 mg/g\n Lipid profile: Total cholesterol 202 mg/dL (<200 borderline), LDL 124 mg/dL (<100), HDL 48 mg/dL (>40), Triglycerides 168 mg/dL (<150)\n (Other panels as previously)"
+    },
+    {
+      "memory_id": "X0026-m07",
+      "date": "2025-08-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "metformin 850 mg BD\n glimepiride 0.5 mg OD before breakfast\n sitagliptin 100 mg OD\n empagliflozin 25 mg OD\n mebeverine 135 mg TID\n ispaghula husk 5 g OD\n loperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0026-m08",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dilated fundus exam: No microaneurysms, no hemorrhages, macula normal. Mild cataract changes bilaterally. Recommend annual repeat."
+    },
+    {
+      "memory_id": "X0026-m09",
+      "date": "2025-09-20",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Dr. S. Rao, Gastroenterology, Bangalore Medical Centre for refractory IBS symptoms despite mebeverine and fiber. Request symptom‑guided management and consider low‑FODMAP diet supervision."
+    },
+    {
+      "memory_id": "X0026-m10",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been having more abdominal cramps after meals and loose stools twice a day for the past week. The bloating is worse in the evenings. I’ve been taking mebeverine three times a day as advised but still uncomfortable."
+    },
+    {
+      "memory_id": "X0026-m11",
+      "date": "2025-10-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Karthik Hegde (D04) on 2025-11-15 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0026-m12",
+      "date": "2025-11-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Diabetes mellitus type 2\n  - Status: HbA1c 7.0% (target), FPG 112 mg/dL. On metformin 850 mg BD, glimepiride 0.5 mg OD, sitagliptin 100 mg OD, empagliflozin 25 mg OD.\n  - Plan: Maintain current regimen, continue lifestyle advice, next HbA1c due 2026-02-15.\n- Irritable bowel syndrome\n  - Status: Patient reports ongoing cramps and loose stools despite mebeverine TID.\n  - Plan: Await gastroenterology advice; continue ispaghula husk, consider rifaximin if indicated.\n- General\n  - Weight 66.8 kg, waist 82 cm.\n  - Due: HbA1c 2026-02-15."
+    },
+    {
+      "memory_id": "X0026-m13",
+      "date": "2025-11-30",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Gastroenterology review: Symptoms consistent with IBS‑diarrhea. Advised to continue mebeverine, add rifaximin 550 mg BD for 14 days, and follow low‑FODMAP diet under dietitian. Return to primary care for routine follow‑up."
+    },
+    {
+      "memory_id": "X0026-m14",
+      "date": "2026-03-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8% (within target)\n Fasting plasma glucose 104 mg/dL\n Urine albumin-creatinine ratio 15 mg/d\n Lipid profile: Total cholesterol 190 mg/dL, LDL 110 mg/dL, HDL 50 mg/dL, Triglycerides 150 mg/dL\n (Other panels unchanged)"
+    },
+    {
+      "memory_id": "X0026-m15",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Diabetes mellitus type 2\n  - Status: HbA1c 6.8%, FPG 104 mg/dL. On metformin 850 mg BD, glimepiride 0.5 mg OD, sitagliptin 100 mg OD, empagliflozin 25 mg OD.\n  - Plan: Continue regimen, reinforce weight goal, next HbA1c due 2026-12-30.\n- Irritable bowel syndrome\n  - Status: Patient reports improved bowel regularity after rifaximin course; occasional bloating.\n  - Plan: Continue mebeverine BD, ispaghula husk, resume loperamide SOS as needed.\n- General\n  - Weight 65.5 kg, waist 80 cm (at cutoff).\n  - Due: HbA1c 2026-12-30."
+    }
+  ]
+}

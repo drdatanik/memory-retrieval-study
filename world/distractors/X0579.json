@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0579",
+  "name": "Vijayan Warrier",
+  "age": 66,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Atrial fibrillation",
+    "Heart failure with reduced ejection fraction"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0579-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation with heart failure reduced ejection fraction. Patient reports mild exertional dyspnoea, no orthopnea. BP 128/78, HR 78 regular, lungs clear, S1S2 normal, no murmurs, no peripheral oedema. ECG shows AF with controlled ventricular rate. Echocardiogram shows EF 38%, NYHA II."
+    },
+    {
+      "memory_id": "X0579-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Apixaban 5 mg BD; Bisoprolol 2.5 mg OD; Warfarin 5 mg OD (INR target 2-3); Sacubitril/valsartan 24/26 mg BD; Spironolactone 25 mg OD; Furosemide 40 mg OD; Dapagliflozin 10 mg OD."
+    },
+    {
+      "memory_id": "X0579-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.4; Serum creatinine 1.1 mg/dL (eGFR 68); TSH 2.1 mIU/L; Serum potassium 4.6 mmol/L; NT-proBNP 412 pg/mL."
+    },
+    {
+      "memory_id": "X0579-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "12-lead ECG: Atrial fibrillation, ventricular rate 76 bpm, no acute ST changes."
+    },
+    {
+      "memory_id": "X0579-m05",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Transthoracic echocardiogram: Left ventricular ejection fraction 38%, mild mitral regurgitation, left atrial diameter 4.2 cm, NYHA class II."
+    },
+    {
+      "memory_id": "X0579-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation, HFrEF stable. Patient reports increased fatigue, mild ankle swelling. BP 130/80, HR 76, lungs clear, mild pitting oedema up to mid-calf. JVP not elevated."
+    },
+    {
+      "memory_id": "X0579-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Apixaban 5 mg BD; Bisoprolol 2.5 mg OD; Warfarin 5 mg OD (INR target 2-3); Sacubitril/valsartan 24/26 mg BD; Spironolactone 25 mg OD; Furosemide increased to 60 mg OD; Dapagliflozin 10 mg OD."
+    },
+    {
+      "memory_id": "X0579-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.6; Creatinine 1.2 mg/dL (eGFR 62); Potassium 4.8 mmol/L; NT-proBNP 480 pg/mL."
+    },
+    {
+      "memory_id": "X0579-m09",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "ECG: Atrial fibrillation, ventricular rate 78 bpm, no new ischemic changes."
+    },
+    {
+      "memory_id": "X0579-m10",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation, HFrEF. Patient reports improved dyspnoea, no orthopnea, mild fatigue. BP 122/78, HR 74, lungs clear, trace pedal oedema. JVP normal."
+    },
+    {
+      "memory_id": "X0579-m11",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Apixaban 5 mg BD; Bisoprolol 2.5 mg OD; Warfarin 5 mg OD (INR target 2-3); Sacubitril/valsartan 24/26 mg BD; Spironolactone 25 mg OD; Furosemide 40 mg OD; Dapagliflozin 10 mg OD."
+    },
+    {
+      "memory_id": "X0579-m12",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 2.3; Creatinine 1.0 mg/dL (eGFR 72); TSH 1.9 mIU/L; Potassium 4.5 mmol/L."
+    },
+    {
+      "memory_id": "X0579-m13",
+      "date": "2025-10-12",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Echocardiogram: LVEF 40% (up from 38%), mild mitral regurgitation, left atrial 4.1 cm, NYHA class II."
+    },
+    {
+      "memory_id": "X0579-m14",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up pulmonology appointment booked for 2026-05-18 at 10:00 AM."
+    }
+  ]
+}

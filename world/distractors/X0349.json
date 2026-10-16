@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0349",
+  "name": "Pravin Joshi",
+  "age": 45,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Vitamin D deficiency",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0349-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up of worsening joint pain and fatigue.\n\nPRESENTING COMPLAINT: The patient reports increasing pain and stiffness in both hands and knees over the past 6 weeks, worse in the mornings, lasting about an hour. He also notes low‑grade fatigue and occasional low back discomfort. No fever, rash, or weight loss.\n\nEXAMINATION: BP 128/82 mmHg, weight 78 kg, BMI 27.0 (obese). Tender and swollen metacarpophalangeal joints bilaterally, wrists mildly swollen. Knees show mild effusion. No skin nodules. Lung and cardiac exams normal.\n\nIMPRESSION: Active rheumatoid arthritis, likely moderate severity. Vitamin D deficiency suspected given low sun exposure and musculoskeletal pain. Plan to check inflammatory markers and vitamin D level.\n\nARRANGEMENTS: Order fasting lipid profile, fasting blood sugar, serum 25‑hydroxyvitamin D, calcium, phosphate, ESR, CRP, rheumatoid factor, anti‑CCP, and liver function tests. Start cholecalciferol 60000 IU once weekly for 8 weeks then 1000 IU OD, methotrexate 10 mg once weekly, folic acid 5 mg once weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Advise weight‑reducing diet and regular low‑impact exercise as BMI is obese. Offer influenza vaccine; patient to receive in autumn. Return if new joint swelling, fever >39 °C, breathlessness, chest pain, or blood in stools."
+    },
+    {
+      "memory_id": "X0349-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "cholecalciferol 60000 IU once weekly for 8 weeks then 1000 IU OD\nmethotrexate 10 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0349-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 12 ng/mL (ref 30‑100) – deficient.\nSerum calcium: 9.2 mg/dL (ref 8.5‑10.5) – normal.\nSerum phosphate: 3.8 mg/dL (ref 2.5‑4.5) – normal.\nESR: 30 mm/hr (ref 0‑20) – elevated.\nCRP: 10 mg/L (ref <5) – elevated.\nRheumatoid factor: positive (ref <14 IU/mL).\nAnti‑CCP: 45 U/mL (ref <20) – positive.\nLiver function tests: ALT 22 U/L, AST 20 U/L, ALP 70 U/L, bilirubin 0.9 mg/dL – all within normal limits."
+    },
+    {
+      "memory_id": "X0349-m04",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of rheumatoid arthritis and vitamin D repletion.\n\nPRESENTING COMPLAINT: Patient says morning stiffness has decreased from 60 to 30 minutes; hand pain is milder. He still feels tired after work. No new joint swelling.\n\nEXAMINATION: BP 130/84 mmHg, weight 76 kg, BMI 26.2 (obese). Tender MCP joints less pronounced; no synovitis. Knees non‑effused.\n\nIMPRESSION: Partial response to methotrexate and HCQ. Vitamin D level expected to have risen with loading dose. Continue current DMARDs, consider methotrexate dose increase if symptoms persist.\n\nARRANGEMENTS: Repeat serum 25‑hydroxyvitamin D, calcium, phosphate, ESR, CRP, LFT. Increase methotrexate to 15 mg once weekly if liver enzymes remain normal. Continue folic acid 5 mg weekly, HCQ 200 mg OD, prednisolone 5 mg OD. Advise maintain calorie‑restricted diet and daily walking as BMI remains obese. Influenza vaccine to be given in October. Return if worsening joint pain, fever >39 °C, shortness of breath, or abnormal bleeding."
+    },
+    {
+      "memory_id": "X0349-m05",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "cholecalciferol 1000 IU OD\nmethotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0349-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 28 ng/mL (ref 30‑100) – borderline sufficient.\nSerum calcium: 9.3 mg/dL (ref 8.5‑10.5) – normal.\nSerum phosphate: 3.9 mg/dL (ref 2.5‑4.5) – normal.\nESR: 18 mm/hr (ref 0‑20) – normal range.\nCRP: 5 mg/L (ref <5) – at upper limit.\nLiver function tests: ALT 24 U/L, AST 22 U/L, ALP 68 U/L, bilirubin 0.8 mg/dL – normal."
+    },
+    {
+      "memory_id": "X0349-m07",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed my right knee feels sore after climbing stairs and I’m a bit worried about flare‑up. My hands are okay but I’m tired after a day at the site."
+    },
+    {
+      "memory_id": "X0349-m08",
+      "date": "2025-09-03",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2025-10-05 10:00 to 2025-09-30 09:30 for follow‑up of rheumatoid arthritis and vitamin D levels."
+    },
+    {
+      "memory_id": "X0349-m09",
+      "date": "2025-09-30",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up after patient‑reported knee discomfort.\n\nPRESENTING COMPLAINT: Patient reports mild right knee pain on stairs, no swelling; hand joints comfortable. Fatigue unchanged.\n\nEXAMINATION: BP 128/80 mmHg, weight 75 kg, BMI 25.9 (obese). Right knee mildly tender on medial joint line, no effusion. Hands non‑tender.\n\nIMPRESSION: Mild mechanical knee pain likely early osteoarthritis; rheumatoid arthritis well‑controlled. Vitamin D now sufficient.\n\nARRANGEMENTS: Continue methotrexate 15 mg weekly, folic acid 5 mg weekly, HCQ 200 mg OD, prednisolone 5 mg OD. Advise quadriceps strengthening, weight loss, and avoid prolonged kneeling. Order repeat vitamin D level in 3 months to confirm maintenance. Influenza vaccine due; schedule for 2025-10-15. Return if knee swelling, fever >39 °C, worsening joint pain, or breathing difficulty."
+    },
+    {
+      "memory_id": "X0349-m10",
+      "date": "2025-09-30",
+      "type": "prescription",
+      "author": "D03",
+      "text": "cholecalciferol 1000 IU OD\nmethotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0349-m11",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 32 ng/mL (ref 30‑100) – sufficient.\nSerum calcium: 9.4 mg/dL (ref 8.5‑10.5) – normal.\nSerum phosphate: 4.0 mg/dL (ref 2.5‑4.5) – normal.\nFasting lipid profile: Total cholesterol 190 mg/dL (<200 desirable), LDL 115 mg/dL (<130), HDL 45 mg/dL (>40), triglycerides 130 mg/dL (<150).\nFasting blood sugar: 92 mg/dL (70‑99) – normal.\nESR: 16 mm/hr (0‑20) – normal.\nCRP: 4 mg/L (<5) – normal.\nLiver function tests: ALT 23 U/L, AST 21 U/L, ALP 66 U/L, bilirubin 0.7 mg/dL – normal."
+    },
+    {
+      "memory_id": "X0349-m12",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual review of rheumatoid arthritis and metabolic health.\n\nPRESENTING COMPLAINT: Patient states joints feel good, no morning stiffness, able to work full days. No new symptoms.\n\nEXAMINATION: BP 126/78 mmHg, weight 73 kg, BMI 25.2 (obese). No joint swelling or tenderness.\n\nIMPRESSION: Rheumatoid arthritis in remission on current DMARDs. Vitamin D adequate. Lipids and glucose within target.\n\nARRANGEMENTS: Continue methotrexate 15 mg weekly, folic acid 5 mg weekly, HCQ 200 mg OD, prednisolone taper to 2.5 mg OD for 4 weeks then stop if no flare. Advise maintain Mediterranean‑style diet and regular aerobic activity as BMI remains obese. Influenza vaccine given 2025-10-15 documented; next dose due autumn 2026. Return if new joint pain/swelling, fever >39 °C, unexplained weight loss, or chest pain."
+    }
+  ]
+}

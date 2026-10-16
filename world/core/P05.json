@@ -1,0 +1,139 @@
+{
+  "patient_id": "P05",
+  "name": "Fatima Sheikh",
+  "age": 49,
+  "sex": "F",
+  "primary_doctor": "D01",
+  "conditions": [
+    "Type 2 diabetes",
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "P05-m01",
+      "date": "2025-06-03",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake note: School teacher. Keeps the full Ramadan fasts each year. Reports a low blood sugar episode during Ramadan in March 2025, with sweating and shakiness that settled after she drank sugared water. Has been taking metformin and glimepiride regularly."
+    },
+    {
+      "memory_id": "P05-m02",
+      "date": "2025-06-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 8.0 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P05-m03",
+      "date": "2025-06-03",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM since 2021. Metformin (Glycomet) 1000 mg BD, glimepiride (Amaryl) 1 mg OD, atorvastatin (Atorva) 10 mg HS. Keeps Ramadan fasts. Low sugar episode in Ramadan March 2025 (sweating, tremor), resolved with sugar. No episodes since.\nO: BP 126/80 mmHg, pulse 78/min, wt 72 kg, ht 158 cm. HbA1c 8.0 %.\nA: 1. T2DM, not at target. 2. Past hypoglycaemia during Ramadan 2025, resolved. 3. Dyslipidaemia, on low-dose statin.\nP: 1. Continue metformin 1000 mg BD. 2. Continue glimepiride 1 mg OD before breakfast. 3. Do not skip meals on glimepiride; carry sugar at all times. 4. Continue atorvastatin 10 mg HS. 5. Ramadan counselling given.\nAdv: Cut sugared tea and sweets; walk 20 min after meals. R/V in 4 months."
+    },
+    {
+      "memory_id": "P05-m04",
+      "date": "2025-10-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 8.7 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P05-m05",
+      "date": "2025-10-07",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: T2DM follow-up. Home fasting sugars 160 to 200 mg/dL. No hypoglycaemia since March. Missed doses on busy school days. Rice twice a day.\nO: BP 128/82 mmHg, pulse 76/min, wt 73 kg. HbA1c 8.7 %, up from 8.0 %.\nA: 1. T2DM, worsening control. 2. Dyslipidaemia, on atorvastatin 10 mg HS.\nP: 1. Increase glimepiride (Amaryl) to 2 mg OD before breakfast. 2. Continue metformin 1000 mg BD. 3. Continue atorvastatin 10 mg HS. 4. Keep home glucose log.\nAdv: Reduce rice portion; 30 min walk after dinner; do not skip breakfast when taking glimepiride. R/V in 4 months."
+    },
+    {
+      "memory_id": "P05-m06",
+      "date": "2025-10-07",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: glimepiride increased from 1 mg OD to 2 mg OD, taken before breakfast. Effective 2025-10-07."
+    },
+    {
+      "memory_id": "P05-m07",
+      "date": "2026-01-15",
+      "type": "investigation",
+      "author": "D01",
+      "text": "Dilated fundus examination of both eyes, done at the annual diabetes review. Findings: no diabetic retinopathy in either eye. Continue current diabetes plan and home glucose log. Next annual dilated review due in 2027."
+    },
+    {
+      "memory_id": "P05-m08",
+      "date": "2026-02-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 8.2 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P05-m09",
+      "date": "2026-02-03",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Ramadan expected from mid-February. Asks how to manage fasting with her tablets. Fasting sugars 110 to 190 mg/dL. Feels well, no hypoglycaemia since March 2025.\nO: BP 124/78 mmHg, pulse 74/min, wt 72 kg. HbA1c 8.2 %, down from 8.7 %.\nA: 1. T2DM, improving, not at target. 2. Ramadan fasting planned; high risk of hypoglycaemia on glimepiride.\nP: 1. Reduce glimepiride to 1 mg OD, taken with the iftar meal during Ramadan. 2. Continue metformin 1000 mg BD, taken at suhoor and iftar. 3. Continue atorvastatin 10 mg HS. 4. Check sugar before iftar and before suhoor. 5. Come in or call if sugar below 70 mg/dL.\nAdv: Balanced suhoor with protein and complex carbohydrate; avoid sugared drinks at iftar; walk after iftar. R/V in 2 months, after Ramadan."
+    },
+    {
+      "memory_id": "P05-m10",
+      "date": "2026-02-03",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: glimepiride (Amaryl) reduced from 2 mg OD to 1 mg OD, taken with the iftar meal during Ramadan. Morning dose stopped for Ramadan."
+    },
+    {
+      "memory_id": "P05-m11",
+      "date": "2026-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 8.1 % (reference below 5.7 %). LDL cholesterol 128 mg/dL (reference below 100 mg/dL). Sample: fasting venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P05-m12",
+      "date": "2026-04-07",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Ramadan over. Glimepiride 1 mg with iftar during the fast, no hypoglycaemia. Morning sugars 130 to 170 mg/dL. Wants to return to the usual timing of tablets.\nO: BP 122/76 mmHg, pulse 72/min, wt 71 kg. HbA1c 8.1 %, from 8.2 %. LDL 128 mg/dL.\nA: 1. T2DM, HbA1c 8.1 %, not at target. 2. Dyslipidaemia, LDL 128 mg/dL above target on atorvastatin 10 mg HS.\nP: 1. Glimepiride back to 2 mg OD before breakfast. 2. Increase atorvastatin from 10 mg HS to 20 mg HS. 3. Continue metformin (Glycomet) 1000 mg BD. 4. Keep home sugar log.\nAdv: Take glimepiride only with breakfast and never skip the meal; walk 30 min after dinner. R/V in 4 months."
+    },
+    {
+      "memory_id": "P05-m13",
+      "date": "2026-04-07",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: glimepiride (Amaryl) 1 mg OD (Ramadan dose) changed back to 2 mg OD, taken before breakfast."
+    },
+    {
+      "memory_id": "P05-m14",
+      "date": "2026-04-07",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: atorvastatin (Atorva) increased from 10 mg HS to 20 mg HS, taken at bedtime. Effective 2026-04-07."
+    },
+    {
+      "memory_id": "P05-m15",
+      "date": "2026-08-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 8.4 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P05-m16",
+      "date": "2026-08-04",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: Feels well. Fasting glucose sometimes above 180 mg/dL. Mild tiredness in the afternoons. No hypoglycaemia. Taking all tablets as prescribed.\nO: BP 124/80 mmHg, pulse 74/min, wt 74 kg. HbA1c 8.4 %, up from 8.1 %.\nA: 1. T2DM, HbA1c 8.4 %, above target. 2. Dyslipidaemia, on atorvastatin 20 mg HS.\nP: 1. Continue metformin (Glycomet) 1000 mg BD, glimepiride (Amaryl) 2 mg OD before breakfast, atorvastatin (Atorva) 20 mg HS. 2. Fasting lipid profile and HbA1c before next review. 3. Dietary counselling: portion control, cut sugared tea.\nAdv: 30 min walk after dinner, 5 days a week; reduce white rice to half a cup per meal. R/V in 12 weeks."
+    },
+    {
+      "memory_id": "P05-m17",
+      "date": "2026-08-04",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Review with Dr Anjali Mehta (D01) booked for 2026-10-21 at 09:30, with fasting lipid profile and HbA1c. Preparation: fast for 10 to 12 hours before the blood test; water is allowed. Take the morning glimepiride only after the blood test and breakfast."
+    },
+    {
+      "memory_id": "P05-m18",
+      "date": "2026-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Patient rescheduled the review with Dr Anjali Mehta (D01) from 2026-10-21 to 2026-10-28 at 09:00, by phone. Preparation unchanged: fasting lipid profile and HbA1c, fast for 10 to 12 hours before the blood test (water allowed). Take the morning glimepiride only after the blood test and breakfast."
+    }
+  ]
+}

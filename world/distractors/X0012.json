@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0012",
+  "name": "Shabana Qureshi",
+  "age": 20,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0012-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, works as lab technician, walks to college.\ncognition: Mini-Cog 4/5 (recall 3, clock draw normal), negative screen.\nfalls: 0 falls in last 12 months, gait normal, timed up-and-go 9 seconds, fall risk low.\nmedicines: 2 regular (silymarin 140 mg TDS, rosuvastatin 5 mg OD); polypharmacy no, but review against Beers criteria advised due to long-term statin use.\nmood: reports good mood, denies anxiety or carer strain.\ncarers: mother Lakshmi, lives with patient.\ngoal: \"I want to stay healthy and keep working without liver problems.\""
+    },
+    {
+      "memory_id": "X0012-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg tablet take one tablet three times daily\nrosuvastatin 5 mg tablet take one tablet once daily"
+    },
+    {
+      "memory_id": "X0012-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 68 U/L (7-35), AST 55 U/L (8-40), ALP 84 U/L (40-129), GGT 42 U/L (9-48); total bilirubin 0.9 mg/dL (0.2-1.2).\nFasting lipid profile: cholesterol 185 mg/dL (<200), triglycerides 138 mg/dL (<150), HDL 48 mg/dL (>40), LDL 108 mg/dL (<130).\nPlatelet count 252 x10^9/L (150-400)."
+    },
+    {
+      "memory_id": "X0012-m04",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Abdominal ultrasound: liver shows mild diffuse hepatic steatosis, no focal lesion, spleen normal, portal vein patent, no ascites. Impression: consistent with non‑alcoholic fatty liver disease, grade 1."
+    },
+    {
+      "memory_id": "X0012-m05",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues full‑time work, no difficulty climbing stairs.\ncognition: Mini-Cog repeated 4/5, stable.\nfalls: 0 falls, gait steady, timed up‑and‑go 9 seconds, fall risk low.\nmedicines: 2 regular (silymarin 140 mg TDS, rosuvastatin 5 mg OD); polypharmacy no, medication review per Beers criteria suggested.\nmood: reports occasional fatigue after night shift, denies depression.\ncarers: mother Lakshmi, primary support.\ngoal: \"I would like my liver tests to improve so I can keep working without worry.\""
+    },
+    {
+      "memory_id": "X0012-m06",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "silymarin 140 mg tablet take one tablet three times daily\nrosuvastatin 10 mg tablet take one tablet once daily"
+    },
+    {
+      "memory_id": "X0012-m07",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 55 U/L (7-35), AST 48 U/L (8-40), ALP 80 U/L (40-129), GGT 38 U/L (9-48); bilirubin 0.8 mg/dL.\nLipids: cholesterol 178 mg/dL, triglycerides 130 mg/dL, HDL 50 mg/dL, LDL 102 mg/dL.\nPlatelet count 250 x10^9/L."
+    },
+    {
+      "memory_id": "X0012-m08",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling more tired than usual after night shifts, mild discomfort in right upper abdomen, no jaundice or fever."
+    },
+    {
+      "memory_id": "X0012-m09",
+      "date": "2025-09-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: works full‑time, reports mild right‑upper‑quadrant discomfort after prolonged standing.\ncognition: Mini-Cog 4/5, stable.\nfalls: 0 falls, gait normal, timed up‑and‑go 9 seconds, fall risk low.\nmedicines: 2 regular (silymarin 140 mg TDS, rosuvastatin 10 mg OD); polypharmacy no, review per Beers criteria advised.\nmood: denies low mood, reports fatigue linked to work schedule.\ncarers: mother Lakshmi.\ngoal: \"I want the abdominal discomfort to go away and my liver enzymes to keep improving.\""
+    },
+    {
+      "memory_id": "X0012-m10",
+      "date": "2025-09-12",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Dr. S. Rao, Hepatology, Vikram Hospital, Bengaluru for further evaluation of NAFLD and persistently elevated liver enzymes despite lifestyle measures."
+    },
+    {
+      "memory_id": "X0012-m11",
+      "date": "2025-10-20",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Hepatology review: ultrasound confirms grade 1 steatosis, Fibroscan shows CAP 240 dB/m, stiffness 6.8 kPa (F0‑F1). Advised continue current regimen, repeat LFT in 3 months, consider vitamin E if no improvement."
+    },
+    {
+      "memory_id": "X0012-m12",
+      "date": "2025-11-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 48 U/L (7-35), AST 44 U/L (8-40), ALP 78 U/L (40-129), GGT 35 U/L (9-48); bilirubin 0.7 mg/dL.\nLipids: cholesterol 172 mg/dL, triglycerides 125 mg/dL, HDL 52 mg/dL, LDL 98 mg/dL.\nPlatelet count 248 x10^9/L."
+    },
+    {
+      "memory_id": "X0012-m13",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: works without limitation, occasional mild discomfort after long walks resolved with rest.\ncognition: Mini-Cog 4/5, stable.\nfalls: 0 falls, gait normal, timed up‑and‑go 9 seconds, fall risk low.\nmedicines: 2 regular (rosuvastatin 10 mg OD); silymarin stopped per patient preference and lack of added benefit; polypharmacy no, medication review per Beers criteria advised.\nmood: reports improved energy, denies depression.\ncarers: mother Lakshmi.\ngoal: \"I am happy with my current treatment and want to keep my liver healthy.\""
+    },
+    {
+      "memory_id": "X0012-m14",
+      "date": "2025-12-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "rosuvastatin 10 mg tablet take one tablet once daily"
+    },
+    {
+      "memory_id": "X0012-m15",
+      "date": "2026-02-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-03-15 10:30 AM with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0012-m16",
+      "date": "2026-03-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling well, no abdominal discomfort, energy levels good, no missed work days."
+    },
+    {
+      "memory_id": "X0012-m17",
+      "date": "2026-06-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues full‑time job, no physical limitations.\ncognition: Mini-Cog 4/5, stable (annual screen).\nfalls: 0 falls, gait normal, timed up‑and‑go 9 seconds, fall risk low.\nmedicines: 1 regular (rosuvastatin 10 mg OD); polypharmacy no, but note single medication reduces interaction risk.\nmood: stable, denies anxiety or low mood.\ncarers: mother Lakshmi.\ngoal: \"I want to maintain normal liver tests and avoid any medication side effects.\""
+    },
+    {
+      "memory_id": "X0012-m18",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 42 U/L (7-35), AST 38 U/L (8-40), ALP 75 U/L (40-129), GGT 33 U/L (9-48); bilirubin 0.6 mg/dL.\nLipids: cholesterol 168 mg/dL, triglycerides 120 mg/dL, HDL 54 mg/dL, LDL 92 mg/dL.\nPlatelet count 246 x10^9/L."
+    }
+  ]
+}

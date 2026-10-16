@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0429",
+  "name": "Ranjan Dasgupta",
+  "age": 71,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Epilepsy",
+    "Osteoporosis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0429-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of iron‑deficiency anaemia, epilepsy and osteoporosis.\nPRESENTING COMPLAINT: Patient reports no new seizures, mild fatigue over past month, denies bone pain.\nEXAMINATION: BP 138/84 mmHg, weight 78 kg, height 1.70 m, BMI 27.0 (obese). Cardiovascular and respiratory systems normal. No focal neurological deficits. Spine tender minimally.\nIMPRESSION: Iron‑deficiency anaemia persisting (Hb 9.2 g/dL, ferritin 12 ng/mL). Epilepsy well‑controlled on current regimen. Osteoporosis, BMI obese.\nARRANGEMENTS: Start ferrous sulfate 200 mg OD, continue levetiracetam 500 mg BD and lamotrigine 50 mg BD, alendronate 70 mg once weekly, calcium 500 mg BD with vitamin D3 800 IU daily. Order fasting lipid profile and fasting blood sugar. Advise reduced‑calorie diet, brisk walk 30 min most days. Return if: chest pain, breathlessness, fever >39°C, blood in stools, worsening fatigue, new seizure activity, or sudden bone pain."
+    },
+    {
+      "memory_id": "X0429-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg tablets – 1 tablet daily – 3 months\nLevetiracetam 500 mg tablets – 1 tablet twice daily – 6 months\nLamotrigine 50 mg tablets – 1 tablet twice daily – 6 months\nAlendronate 70 mg tablets – 1 tablet once weekly – 6 months\nCalcium carbonate 500 mg tablets – 1 tablet twice daily – 6 months\nVitamin D3 (cholecalciferol) 800 IU capsules – 1 capsule daily – 6 months"
+    },
+    {
+      "memory_id": "X0429-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.2 g/dL (13.0‑17.0)\nSerum ferritin 12 ng/mL (30‑400)\nMCV 78 fL (80‑100)\nSerum sodium 138 mmol/L (135‑145)\nSerum creatinine 0.9 mg/dL (0.6‑1.2)\nSerum calcium 9.1 mg/dL (8.5‑10.5)\nSerum 25‑OH vitamin D 18 ng/mL (30‑100)"
+    },
+    {
+      "memory_id": "X0429-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of anaemia response and medication tolerance.\nPRESENTING COMPLAINT: Fatigue improved, occasional mild stomach upset with iron tablets, no seizures.\nEXAMINATION: BP 136/82 mmHg, weight 77.5 kg, BMI 26.8 (overweight). Abdomen soft, no tenderness. Neurologic exam normal.\nIMPRESSION: Haemoglobin risen to 10.8 g/dL, ferritin 28 ng/mL – partial response. Continue iron but reduce frequency to limit GI upset. Epilepsy stable. Osteoporosis unchanged.\nARRANGEMENTS: Change ferrous sulfate to 200 mg on alternate days. Keep other meds. Reinforce diet‑iron rich foods, take tablets with food. Return if: worsening fatigue, black tarry stools, new seizure, severe abdominal pain, or BP >160/100."
+    },
+    {
+      "memory_id": "X0429-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg tablets – 1 tablet on alternate days – 3 months\nLevetiracetam 500 mg tablets – 1 tablet twice daily – 6 months\nLamotrigine 50 mg tablets – 1 tablet twice daily – 6 months\nAlendronate 70 mg tablets – 1 tablet once weekly – 6 months\nCalcium carbonate 500 mg tablets – 1 tablet twice daily – 6 months\nVitamin D3 800 IU capsules – 1 capsule daily – 6 months"
+    },
+    {
+      "memory_id": "X0429-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 10.8 g/dL (13.0‑17.0)\nSerum ferritin 28 ng/mL (30‑400)\nMCV 82 fL (80‑100)\nSerum sodium 139 mmol/L (135‑145)\nSerum creatinine 0.9 mg/dL (0.6‑1.2)\nSerum calcium 9.2 mg/dL (8.5‑10.5)\nSerum 25‑OH vitamin D 19 ng/mL (30‑100)"
+    },
+    {
+      "memory_id": "X0429-m07",
+      "date": "2025-10-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "EEG performed – 20‑minute awake recording. Background activity normal for age. No epileptiform discharges, no spikes or sharp waves. No focal slowing. Interpretation: within normal limits, consistent with well‑controlled epilepsy on current regimen."
+    },
+    {
+      "memory_id": "X0429-m08",
+      "date": "2025-10-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling a bit light‑headed when I stand up quickly, especially after morning walks. Wondering if the iron tablets or blood pressure meds could be causing this. No seizures, no chest pain."
+    },
+    {
+      "memory_id": "X0429-m09",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: osteoporosis review and vitamin D status.\nPRESENTING COMPLAINT: No new bone pain, occasional light‑headedness on standing, denies seizures.\nEXAMINATION: BP 130/78 mmHg, weight 77 kg, BMI 26.6 (overweight). Spine non‑tender, hips full range.\nIMPRESSION: Orthostatic symptoms suggestive of mild volume depletion; vitamin D low (18 ng/mL). Osteoporosis: prior DEXA T‑score –2.6 at lumbar spine. Anaemia stable (Hb 10.8 g/dL). Epilepsy unchanged.\nARRANGEMENTS: Increase vitamin D3 to 2000 IU daily, keep calcium 500 mg BD. Advise slow position changes, adequate hydration, salt intake if needed. Order repeat DEXA in 6 months and repeat vitamin D in 3 months. Return if: fainting, chest pain, new bone fracture, worsening dizziness, seizure, or fever >39°C."
+    },
+    {
+      "memory_id": "X0429-m10",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg tablets – 1 tablet on alternate days – 3 months\nLevetiracetam 500 mg tablets – 1 tablet twice daily – 6 months\nLamotrigine 50 mg tablets – 1 tablet twice daily – 6 months\nAlendronate 70 mg tablets – 1 tablet once weekly – 6 months\nCalcium carbonate 500 mg tablets – 1 tablet twice daily – 6 months\nVitamin D3 (cholecalciferol) 2000 IU capsules – 1 capsule daily – 6 months"
+    },
+    {
+      "memory_id": "X0429-m11",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH vitamin D 18 ng/mL (30‑100)\nSerum calcium 9.3 mg/dL (8.5‑10.5)\nHaemoglobin 10.9 g/dL (13.0‑17.0)\nSerum ferritin 30 ng/mL (30‑400)\nSerum sodium 139 mmol/L (135‑145)\nSerum creatinine 0.9 mg/dL (0.6‑1.2)"
+    },
+    {
+      "memory_id": "X0429-m12",
+      "date": "2026-04-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original follow‑up scheduled for 2026-04-15 moved to 2026-04-08 at 10:30 am with Dr Priya Natarajan (D03) for routine review."
+    },
+    {
+      "memory_id": "X0429-m13",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up after DEXA and vitamin D repletion.\nPRESENTING COMPLAINT: No light‑headedness, no seizures, feels well.\nEXAMINATION: BP 128/76 mmHg, weight 76.5 kg, BMI 26.5 (overweight). No spinal tenderness.\nIMPRESSION: DEXA lumbar spine T‑score –2.4 (improved from –2.6). Vitamin D now 32 ng/mL. Haemoglobin 11.2 g/dL, ferritin 35 ng/mL – mild iron deficiency but improving. Epilepsy seizure‑free.\nARRANGEMENTS: Continue ferrous sulfate on alternate days, levetiracetam 500 mg BD, lamotrigine 50 mg BD, alendronate 70 mg weekly, calcium 500 mg BD, vitamin D3 2000 IU daily. Advise maintain weight‑bearing exercise, calcium‑rich diet. Return if: new bone pain, fracture, seizure activity, chest pain, breathlessness, fever >39°C, or worsening anaemia symptoms."
+    }
+  ]
+}

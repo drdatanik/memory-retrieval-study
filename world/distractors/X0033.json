@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0033",
+  "name": "Archana Joshi",
+  "age": 19,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0033-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: acute low back pain with right leg radiation suggestive of sciatica.\nPRESENTING COMPLAINT: She reports 10‑day history of worsening low back pain after lifting heavy materials at work, radiating to the right posterior thigh, aggravated by sitting and relieved by lying flat. No bowel or bladder dysfunction.\nEXAMINATION: Vital signs: BP 118/72 mmHg, weight 52 kg, height 155 cm, BMI 21.6 (normal). Straight leg raise positive at 40° on the right, left negative. Lumbar paraspinal tenderness, no neurological deficit distal to knee.\nIMPRESSION: Acute sciatica likely due to muscular strain; no red flags.\nARRANGEMENTS: Started pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD. Advised rest, heat application, and gradual return to light duties. Return if: worsening pain, numbness or weakness in legs, bowel/bladder changes, fever >39°C, or unexplained weight loss."
+    },
+    {
+      "memory_id": "X0033-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pregabalin 75 mg twice daily\nDiclofenac sodium 50 mg twice daily after food\nMethylcobalamin 1500 mcg once daily"
+    },
+    {
+      "memory_id": "X0033-m03",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Straight leg raise test: Right leg positive at 40°, left leg negative. No cross‑positive sign. Suggests right L5/S1 nerve root irritation."
+    },
+    {
+      "memory_id": "X0033-m04",
+      "date": "2025-04-06",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:30 AM with Dr Priya Natarajan (D03). Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0033-m05",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been taking the medicines but the pain spikes after I lift bags of cement at work. The diclofenac sometimes upsets my stomach a bit. I’m worried I’ll need to stop working if this doesn’t improve."
+    },
+    {
+      "memory_id": "X0033-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of sciatica after 3 months of medication.\nPRESENTING COMPLAINT: Pain decreased from 8/10 to 4/10; occasional flare after heavy lifting. No new weakness or bowel/bladder symptoms.\nEXAMINATION: BP 122/74, weight 53 kg, height 155 cm, BMI 22.1 (normal). Straight leg raise now positive at 55° right side. Lumbar tenderness mild.\nIMPRESSION: Partial response to meds; consider imaging to rule out disc pathology.\nARRANGEMENTS: Continue current meds. Order fasting lipid profile and fasting blood sugar as baseline (patient <40 but done for continuity). Advise physiotherapy referral and avoid heavy loads >10 kg. Return if: pain >6/10, new numbness, foot drop, fever >39°C, or blood in stool."
+    },
+    {
+      "memory_id": "X0033-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pregabalin 75 mg twice daily\nDiclofenac sodium 50 mg twice daily after food\nMethylcobalamin 1500 mcg once daily"
+    },
+    {
+      "memory_id": "X0033-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar: 88 mg/dL (70‑99)\nFasting lipid profile: Total cholesterol 168 mg/dL (<200), HDL 48 mg/dL (>40), LDL 95 mg/dL (<130), Triglycerides 110 mg/dL (<150)\nLiver enzymes: ALT 22 U/L (<40), AST 20 U/L (<40)\nRenal: Serum creatinine 0.78 mg/dL (0.5‑1.1), eGFR 98 mL/min/1.73m2 (>60)"
+    },
+    {
+      "memory_id": "X0033-m09",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "MRI lumbar spine: L4‑L5 disc bulge with mild right foraminal narrowing, no cord compression. No significant central canal stenosis. Degenerative changes at L5‑S1 mild."
+    },
+    {
+      "memory_id": "X0033-m10",
+      "date": "2025-09-01",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr S. K. Rao, Orthopaedic Spine Specialist, Vikram Hospital, Bengaluru. Reason: Persistent sciatica with MRI showing disc bulge; consider epidural steroid injection or surgical opinion if conservative fails."
+    },
+    {
+      "memory_id": "X0033-m11",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Specialist note: Patient tried NSAIDs and neuropathic agents; recommends trial of epidural steroid injection at L4‑L5. Continue physiotherapy. Review in 6 weeks. No urgent surgery indicated."
+    },
+    {
+      "memory_id": "X0033-m12",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up after specialist advice and epidural injection.\nPRESENTING COMPLAINT: Pain reduced to 2‑3/10 after injection; occasional mild ache after prolonged standing. No weakness.\nEXAMINATION: BP 119/71, weight 52.5 kg, height 155 cm, BMI 21.8 (normal). Straight leg raise negative now. No spinal tenderness.\nIMPRESSION: Good response to epidural injection; sciatica improving.\nARRANGEMENTS: Stop diclofenac due to prior gastric upset; start pantoprazole 40 mg OD for gastric protection. Continue pregabalin and methylcobalamin. Advise graded activity and core strengthening. Return if: pain >4/10, recurrence of leg numbness, fever >39°C, or gastrointestinal bleeding."
+    },
+    {
+      "memory_id": "X0033-m13",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pregabalin 75 mg twice daily\nMethylcobalamin 1500 mcg once daily\nPantoprazole 40 mg once daily before breakfast"
+    },
+    {
+      "memory_id": "X0033-m14",
+      "date": "2025-11-30",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve stopped the diclofenac and started the stomach tablet. The pain is mostly gone now; I can work light shifts without discomfort. I still feel a slight stiffness in the morning but it eases with stretching."
+    },
+    {
+      "memory_id": "X0033-m15",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine review of sciatica status.\nPRESENTING COMPLAINT: Reports occasional low‑grade discomfort after long walks, pain 1/10. No radicular symptoms.\nEXAMINATION: BP 120/73, weight 53 kg, height 155 cm, BMI 22.0 (normal). Straight leg raise negative both sides. Full lumbar range of motion.\nIMPRESSION: Sciatica essentially resolved; mild residual muscular tightness.\nARRANGEMENTS: Continue pregabalin 75 mg BD and methylcobalamin 1500 mcg OD. Taper pregabalin to 50 mg BD if symptoms remain mild over next month. Encourage regular core exercises and proper lifting technique. Return if: pain >3/10, new weakness, bowel/bladder changes, fever >39°C, or unexplained weight loss."
+    },
+    {
+      "memory_id": "X0033-m16",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pregabalin 75 mg twice daily\nMethylcobalamin 1500 mcg once daily"
+    },
+    {
+      "memory_id": "X0033-m17",
+      "date": "2026-02-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "X‑ray lumbar spine (AP and lateral): Vertebral bodies well aligned, disc spaces preserved at L2‑L5. Mild degenerative changes at L5‑S1 with slight osteophyte formation. No acute fracture or significant scoliosis."
+    },
+    {
+      "memory_id": "X0033-m18",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: final check‑up before concluding care.\nPRESENTING COMPLAINT: Patient states she is pain‑free, resumed normal work activities, no medication side effects.\nEXAMINATION: BP 118/70, weight 52.8 kg, height 155 cm, BMI 22.0 (normal). No tenderness, full neuro exam normal.\nIMPRESSION: Sciatica resolved; no active pathology.\nARRANGEMENTS: Discontinue pregabalin and methylcobalamin. No further medication needed. Advise maintain fitness and proper ergonomics. Return if: any recurrence of back pain with leg radiation, numbness, weakness, fever >39°C, or bowel/bladder disturbance."
+    }
+  ]
+}

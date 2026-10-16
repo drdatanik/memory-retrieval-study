@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0166",
+  "name": "Hetal Thakkar",
+  "age": 71,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Gout",
+    "Asthma",
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0166-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gout: asymptomatic, serum uric acid pending. Plan: start allopurinol 100 mg OD after labs, colchicine 0.5 mg BD for flares.\nAsthma: intermittent wheeze, salbutamol SOS, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS. Plan: continue.\nChronic urticaria: mild itching, levocetirizine 5 mg OD. Plan: continue.\nWeight 68 kg, waist 84 cm (female cutoff 80 cm) – advise reduced carbohydrate diet.\nDue: HbA1c not indicated; next review in 3 months."
+    },
+    {
+      "memory_id": "X0166-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 8.2 mg/dL (ref <7.0). Serum creatinine 0.9 mg/dL (0.6-1.2). CBC: WBC 6.2, Hb 12.8, platelets 210, eosinophils 4%. TSH 2.1 µIU/mL (0.4-4.0), free T4 1.2 ng/dL (0.8-1.8). Spirometry: FEV1 2.1 L (80% predicted), FVC 2.8 L, FEV1/FVC 75%; post-bronchodilator FEV1 2.3 L (88%)."
+    },
+    {
+      "memory_id": "X0166-m03",
+      "date": "2025-04-08",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Allopurinol 100 mg OD\nColchicine 0.5 mg BD (for flares)\nSalbutamol MDI SOS\nBudesonide-formoterol 200/6 inhaler BD\nMontelukast 10 mg HS\nLevocetirizine 5 mg OD"
+    },
+    {
+      "memory_id": "X0166-m04",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Had a mild gout flare in left big toe yesterday, took colchicine, pain improved. Wheeze occasional at night, using salbutamol twice. Urticaria mild, no new triggers."
+    },
+    {
+      "memory_id": "X0166-m05",
+      "date": "2025-07-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gout: no flares since last visit, uric acid down. Plan: continue allopurinol 100 mg OD.\nAsthma: well-controlled, night symptoms <2/week, salbutamol use <2/week. Plan: consider reducing budesonide-formoterol to once daily if stable.\nChronic urticaria: mild, levocetirizine effective. Plan: continue.\nWeight 67.5 kg, waist 83 cm. Diet: reduce refined sugars, increase vegetables.\nDue: next review in 3 months."
+    },
+    {
+      "memory_id": "X0166-m06",
+      "date": "2025-07-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 5.8 mg/dL (<7.0). Serum creatinine 0.9 mg/dL. CBC: eosinophils 3%. TSH 2.0 µIU/mL, free T4 1.2 ng/dL. Spirometry: FEV1 2.3 L (88%), FVC 3.0 L, FEV1/FVC 77%; post-BD FEV1 2.5 L (94%). ACT score 22 (well-controlled)."
+    },
+    {
+      "memory_id": "X0166-m07",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Allopurinol 100 mg OD\nColchicine 0.5 mg BD (for flares)\nSalbutamol MDI SOS\nBudesonide-formoterol 200/6 inhaler once daily (morning)\nMontelukast 10 mg HS\nLevocetirizine 5 mg OD"
+    },
+    {
+      "memory_id": "X0166-m08",
+      "date": "2025-07-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-10-03 at 10:00 with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0166-m09",
+      "date": "2025-10-03",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gout: asymptomatic, uric acid stable. Plan: continue allopurinol.\nAsthma: occasional wheeze after exertion, night symptoms 1-2/week. Plan: step up budesonide-formoterol to BD again.\nChronic urticaria: mild, levocetirizine OK.\nWeight 68 kg, waist 84 cm. Advised low-purine diet, limit alcohol.\nDue: next review in 3 months."
+    },
+    {
+      "memory_id": "X0166-m10",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 6.0 mg/dL. Serum creatinine 0.9 mg/dL. Lipid profile: total cholesterol 190 mg/dL (<200), LDL 110 mg/dL (<130), HDL 48 mg/dL (>40), triglycerides 130 mg/dL (<150). CBC: eosinophils 3%. TSH 2.1 µIU/mL, free T4 1.2 ng/dL."
+    },
+    {
+      "memory_id": "X0166-m11",
+      "date": "2025-10-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Allopurinol 100 mg OD\nColchicine 0.5 mg BD (for flares)\nSalbutamol MDI SOS\nBudesonide-formoterol 200/6 inhaler BD\nMontelukast 10 mg HS\nLevocetirizine 5 mg OD"
+    },
+    {
+      "memory_id": "X0166-m12",
+      "date": "2026-01-18",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gout: mild toe discomfort after rich meal, no flare. Uric acid slightly up. Plan: consider switching to febuxostat if persists.\nAsthma: well-controlled on BD inhaler, night symptoms 0-1/week. Plan: maintain.\nChronic urticaria: occasional breakthrough itching at night. Plan: trial cetirizine 10 mg HS.\nWeight 67.8 kg, waist 83 cm. Diet: avoid red meat, alcohol.\nDue: next review in 3 months."
+    },
+    {
+      "memory_id": "X0166-m13",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 7.2 mg/dL (borderline high). Serum creatinine 0.9 mg/dL. CBC: eosinophils 4%. TSH 2.0 µIU/mL, free T4 1.2 ng/dL. Spirometry: FEV1 2.4 L (92%), FVC 3.1 L, FEV1/FVC 77%; post-BD FEV1 2.6 L (96%). ACT score 24."
+    },
+    {
+      "memory_id": "X0166-m14",
+      "date": "2026-01-21",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Febuxostat 40 mg OD\nColchicine 0.5 mg BD (for flares)\nSalbutamol MDI SOS\nBudesonide-formoterol 200/6 inhaler BD\nMontelukast 10 mg HS\nCetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0166-m15",
+      "date": "2026-04-22",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gout: no flares, uric acid improved. Plan: continue febuxostat.\nAsthma: well-controlled, salbutamol use <1/week. Plan: consider reducing budesonide-formoterol to once daily.\nChronic urticaria: minimal itching, cetirizine effective.\nWeight 67.5 kg, waist 82 cm (still slightly above 80 cm). Advised portion control.\nDue: next review in 3 months."
+    },
+    {
+      "memory_id": "X0166-m16",
+      "date": "2026-04-24",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid 5.5 mg/dL. Serum creatinine 0.9 mg/dL. CBC: eosinophils 2%. TSH 2.1 µIU/mL, free T4 1.2 ng/dL."
+    },
+    {
+      "memory_id": "X0166-m17",
+      "date": "2026-04-25",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Febuxostat 40 mg OD\nColchicine 0.5 mg BD (for flares)\nSalbutamol MDI SOS\nBudesonide-formoterol 200/6 inhaler once daily (morning)\nMontelukast 10 mg HS\nCetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0166-m18",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Gout: asymptomatic, uric acid stable. Plan: continue febuxostat.\nAsthma: well-controlled, night symptoms 0/week, salbutamol SOS <1/month. Plan: maintain once-daily budesonide-formoterol.\nChronic urticaria: free of lesions, cetirizine effective.\nWeight 67.0 kg, waist 80 cm (at target). Advised Mediterranean diet.\nDue: next review in 3 months."
+    }
+  ]
+}

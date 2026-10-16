@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0143",
+  "name": "Latha Varma",
+  "age": 34,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0143-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine.\nPatient reports recurrent unilateral throbbing headaches lasting 4-6 hours, associated with nausea and photophobia, occurring twice weekly. Neurological examination is normal. Smoking status: never (pack-years 0)."
+    },
+    {
+      "memory_id": "X0143-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0143-m03",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been having headaches three times a week now, and the sumatriptan isn’t lasting as long. I’m worried it’s getting worse."
+    },
+    {
+      "memory_id": "X0143-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine.\nHeadache frequency increased to three times per week, with moderate intensity; sumatriptan used four times in past month. No new neurological deficits. Smoking status: never (pack-years 0)."
+    },
+    {
+      "memory_id": "X0143-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 50 mg HS\nNaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0143-m06",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.2 g/dl (12-16), WBC 6.8 x10^9/l (4-10), Plt 210 x10^9/l (150-400). ESR 8 mm/hr (0-20). Serum electrolytes within normal limits."
+    },
+    {
+      "memory_id": "X0143-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine.\nHeadaches now twice weekly after topiramate discontinuation; patient reports mild tingling in fingers while on topiramate, leading to stop. Neurological exam unchanged. Smoking status: never (pack-years 0)."
+    },
+    {
+      "memory_id": "X0143-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 40 mg OD\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0143-m09",
+      "date": "2026-01-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Neurological examination: normal cranial nerves, no focal deficits, normal gait and coordination."
+    },
+    {
+      "memory_id": "X0143-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine.\nHeadache frequency stable at twice weekly; patient reports good relief with propranolol 40 mg OD but desires better control. Neurological exam normal. Smoking status: never (pack-years 0)."
+    },
+    {
+      "memory_id": "X0143-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 80 mg OD\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0143-m12",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-07-30 10:00 with Dr Suresh Menon (D05) for migraine review."
+    },
+    {
+      "memory_id": "X0143-m13",
+      "date": "2026-04-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Confirmed my appointment for July 30th at 10am. I’ll bring my headache diary."
+    },
+    {
+      "memory_id": "X0143-m14",
+      "date": "2026-07-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine.\nHeadache frequency reduced to once weekly, mild intensity; sumatriptan used twice in past month. Neurological exam normal. Smoking status: never (pack-years 0)."
+    },
+    {
+      "memory_id": "X0143-m15",
+      "date": "2026-07-30",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 80 mg OD\nSumatriptan 50 mg SOS\nNaproxen 500 mg SOS"
+    }
+  ]
+}

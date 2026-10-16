@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0346",
+  "name": "Philip Philip",
+  "age": 86,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Benign positional vertigo",
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0346-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  Status: Episodes of spinning lasting <1 min, triggered by head movement, Dix-Hallpike pending.\n  Plan: Start betahistine 16 mg BD; meclizine 25 mg SOS for acute vertigo; arrange Dix-Hallpike and audiometry.\n- Non‑alcoholic fatty liver disease\n  Status: Asymptomatic, BMI 24, waist 88 cm (<90 cm cut‑off).\n  Plan: Start silymarin 140 mg TDS; rosuvastatin 5 mg OD; order LFT, lipid profile, platelet count, abdominal ultrasound.\n- General\n  Weight 78 kg, waist 88 cm (acceptable).\n  Diet advice: Breakfast – low‑fat idli with sambar; Lunch – mixed vegetable ragi roti; Dinner – grilled fish with steamed greens.\n  Due: Next HbA1c 2025-07-05 (routine)."
+    },
+    {
+      "memory_id": "X0346-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Betahistine 16 mg BD, 30 days\nMeclizine 25 mg SOS, 10 tablets\nSilymarin 140 mg TDS, 30 days\nRosuvastatin 5 mg OD, 30 days"
+    },
+    {
+      "memory_id": "X0346-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 34 U/L (≤40), AST 30 U/L (≤38), ALKP 78 U/L (≤120), GGT 22 U/L (≤50)\nTotal cholesterol 190 mg/dL (<200), LDL 110 mg/dL (<130), HDL 42 mg/dL (>40), Triglycerides 150 mg/dL (<150)\nPlatelet count 212 x10^9/L (150‑400)"
+    },
+    {
+      "memory_id": "X0346-m04",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: Liver shows diffuse hyperechogenicity consistent with grade II hepatic steatosis, spleen normal, no focal lesion, portal vein patent."
+    },
+    {
+      "memory_id": "X0346-m05",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Dix‑Hallpike test: Positive on right side with torsional nystagmus, latency 2 sec, duration <15 sec – consistent with right posterior canal BPPV.\nAudiometry (pure tone): Bilateral thresholds within normal limits (0‑25 dB HL)."
+    },
+    {
+      "memory_id": "X0346-m06",
+      "date": "2025-04-12",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have felt dizzy twice yesterday when turning my head to the right while getting out of bed. The spinning lasted about 10 seconds and then stopped. No nausea or hearing change. I took meclizine once and felt better."
+    },
+    {
+      "memory_id": "X0346-m07",
+      "date": "2025-07-06",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  Status: No vertigo episodes in past 6 weeks after betahistine; meclizine used only once.\n  Plan: Continue betahistine 16 mg BD; consider tapering if symptom‑free another month.\n- Non‑alcoholic fatty liver disease\n  Status: ALT improved to 28 U/L; waist unchanged 88 cm.\n  Plan: Continue silymarin 140 mg TDS; rosuvastatin 5 mg OD; repeat LFT in 3 months.\n- General\n  Weight 77.5 kg, waist 88 cm (acceptable).\n  Diet advice: Breakfast – oats with milk and fruit; Lunch – quinoa salad with chickpeas; Dinner – lentil soup with steamed vegetables.\n  Due: Next HbA1c 2025-10-06."
+    },
+    {
+      "memory_id": "X0346-m08",
+      "date": "2025-07-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Betahistine 16 mg BD, 60 days\nMeclizine 25 mg SOS, 10 tablets (repeat as needed)\nSilymarin 140 mg TDS, 60 days\nRosuvastatin 5 mg OD, 60 days"
+    },
+    {
+      "memory_id": "X0346-m09",
+      "date": "2025-07-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 28 U/L (≤40), AST 24 U/L (≤38), ALKP 75 U/L (≤120), GGT 20 U/L (≤50)\nTotal cholesterol 185 mg/dL, LDL 105 mg/dL, HDL 44 mg/dL, Triglycerides 140 mg/dL\nPlatelet count 208 x10^9/L"
+    },
+    {
+      "memory_id": "X0346-m10",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Audiometry repeat: Bilateral hearing thresholds 0‑20 dB HL, no significant change from baseline."
+    },
+    {
+      "memory_id": "X0346-m11",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  Status: Vertigo‑free for 3 months; betahistine tapered off 2 weeks ago, no recurrence.\n  Plan: Discontinue betahistine; keep meclizine SOS for any future acute episode.\n- Non‑alcoholic fatty liver disease\n  Status: ALT 22 U/L; lipid profile shows LDL 95 mg/dL.\n  Plan: Continue silymarin 140 mg TDS; consider reducing rosuvastatin to 2.5 mg OD given LDL <100.\n- General\n  Weight 77 kg, waist 86 cm (acceptable).\n  Diet advice: Breakfast – wheat dosa with coconut chutney; Lunch – brown rice with sambar and vegetables; Dinner – grilled chicken with steamed broccoli.\n  Due: Next HbA1c 2026-01-02."
+    },
+    {
+      "memory_id": "X0346-m12",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Betahistine stopped\nMeclizine 25 mg SOS, 10 tablets\nSilymarin 140 mg TDS, 60 days\nRosuvastatin 2.5 mg OD, 60 days"
+    },
+    {
+      "memory_id": "X0346-m13",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 22 U/L (≤40), AST 20 U/L (≤38), ALKP 70 U/L (≤120), GGT 18 U/L (≤50)\nTotal cholesterol 178 mg/dL, LDL 95 mg/dL, HDL 46 mg/dL, Triglycerides 130 mg/dL\nPlatelet count 205 x10^9/L"
+    },
+    {
+      "memory_id": "X0346-m14",
+      "date": "2025-10-06",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Dr S. Rao, Gastroenterology, for NAFLD assessment and possible fibrosis scoring (FibroScan)."
+    },
+    {
+      "memory_id": "X0346-m15",
+      "date": "2026-01-10",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Gastroenterology opinion: NAFLD grade II, FibroScan shows F0‑F1 fibrosis. Recommend lifestyle continuation, repeat LFT in 6 months, no pharmacologic therapy needed at present."
+    },
+    {
+      "memory_id": "X0346-m16",
+      "date": "2026-04-08",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-10 at 10:00 with Dr Karthik Hegde (Endocrinology)."
+    },
+    {
+      "memory_id": "X0346-m17",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Benign positional vertigo\n  Status: No vertigo episodes in past 9 months; meclizine used only once for mild light‑headedness.\n  Plan: Continue meclizine SOS as needed.\n- Non‑alcoholic fatty liver disease\n  Status: ALT 24 U/L; waist 85 cm.\n  Plan: Continue silymarin 140 mg TDS; rosuvastatin 2.5 mg OD; repeat lipid profile in 6 months.\n- General\n  Weight 76.5 kg, waist 85 cm (acceptable).\n  Diet advice: Breakfast – millet porridge with nuts; Lunch – mixed vegetable quinoa; Dinner – paneer tikka with salad.\n  Due: Next HbA1c 2026-10-05."
+    },
+    {
+      "memory_id": "X0346-m18",
+      "date": "2026-10-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 26 U/L (≤40), AST 22 U/L (≤38), ALKP 68 U/L (≤120), GGT 19 U/L (≤50)\nTotal cholesterol 180 mg/dL, LDL 98 mg/dL, HDL 45 mg/dL, Triglycerides 135 mg/dL\nPlatelet count 203 x10^9/L"
+    }
+  ]
+}

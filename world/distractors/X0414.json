@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0414",
+  "name": "Venkateswarlu Reddy",
+  "age": 50,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0414-m01",
+      "date": "2025-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-04-15 09:00 with Dr Karthik Hegde (D04) for CKD follow-up."
+    },
+    {
+      "memory_id": "X0414-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- CKD (stage 3a)\n  - Status: Stable, BP 138/86, weight 78 kg, waist 92 cm (>90 cm cut‑off for men).\n  - Plan: Continue telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD. Review diet: reduce salt, avoid processed foods. \n- Due: HbA1c not applicable (non‑diabetic). Next labs in 3 months."
+    },
+    {
+      "memory_id": "X0414-m03",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.42 mg/dL (0.66‑1.25). eGFR 52 mL/min/1.73m2 (>60 normal). Urine ACR 45 mg/g (<30 normal). Haemoglobin 13.8 g/dL (13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0414-m04",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Telmisartan 40 mg OD\nDapagliflozin 10 mg OD\nFurosemide 20 mg OD\nSodium bicarbonate 500 mg BD"
+    },
+    {
+      "memory_id": "X0414-m05",
+      "date": "2025-04-15",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Penicillin – rash and pruritus (mild). Avoid beta‑lactams."
+    },
+    {
+      "memory_id": "X0414-m06",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Noticed mild ankle swelling after long shifts at pharmacy; no shortness of breath."
+    },
+    {
+      "memory_id": "X0414-m07",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- CKD\n  - Status: Mild bilateral pedal edema, BP 142/90, weight 80 kg, waist 94 cm.\n  - Plan: Increase furosemide to 40 mg OD, add spironolactone 25 mg OD, continue telmisartan and dapagliflozin. Sodium bicarbonate unchanged. Advise low‑salt diet, elevate legs. \n- Due: Repeat labs in 3 months."
+    },
+    {
+      "memory_id": "X0414-m08",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.48 mg/dL. eGFR 49 mL/min/1.73m2. Urine ACR 62 mg/g. Haemoglobin 13.5 g/dL."
+    },
+    {
+      "memory_id": "X0414-m09",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Telmisartan 40 mg OD\nDapagliflozin 10 mg OD\nFurosemide 40 mg OD\nSpironolactone 25 mg OD\nSodium bicarbonate 500 mg BD"
+    },
+    {
+      "memory_id": "X0414-m10",
+      "date": "2025-08-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Resting ECG: Normal sinus rhythm, rate 78 bpm. No ST‑T changes. No evidence of ischemia."
+    },
+    {
+      "memory_id": "X0414-m11",
+      "date": "2025-09-05",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dr S. Reddy, Cardiology, Narayana Health, for evaluation of uncontrolled hypertension and edema."
+    },
+    {
+      "memory_id": "X0414-m12",
+      "date": "2025-10-02",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Cardiology opinion: Hypertension likely secondary to CKD. Recommend continue current regimen, consider ACE‑i intolerance trial later. No cardiac ischemia. Return to endocrinology for CKD management."
+    },
+    {
+      "memory_id": "X0414-m13",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- CKD\n  - Status: Edema resolved, BP 130/82, weight 77 kg, waist 88 cm (<90).\n  - Plan: Reduce furosemide to 20 mg OD, stop spironolactone (risk of hyperK). Continue telmisartan, dapagliflozin, sodium bicarbonate. Reinforce low‑salt diet. \n- Due: Labs in 3 months."
+    },
+    {
+      "memory_id": "X0414-m14",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.35 mg/dL. eGFR 55 mL/min/1.73m2. Urine ACR 38 mg/g. Haemoglobin 14.0 g/dL."
+    },
+    {
+      "memory_id": "X0414-m15",
+      "date": "2026-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-05 10:00 to 2026-04-07 10:00 with Dr Karthik Hegde (D04) per patient request."
+    }
+  ]
+}

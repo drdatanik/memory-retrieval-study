@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0107",
+  "name": "Hetal Solanki",
+  "age": 90,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Sciatica",
+    "Obesity",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0107-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: COPD with comorbid obesity and lumbar sciatica.\nSymptoms and examination: Dyspnea on exertion, chronic cough, weight 95 kg, BMI 38, low back pain radiating to right leg (4/10), positive straight leg raise. On exam: reduced breath sounds bilaterally, mild expiratory wheeze, abdominal obesity, lumbar tenderness, limited lumbar flexion.\nSmoking status: former smoker, 30 pack‑years, quit 2005.\nInhaler technique: Technique checked: correct for tiotropium Respimat and budesonide‑formoterol Dry Powder inhaler.\nSpirometry: FEV1 1.2 L (45 % predicted), FVC 2.0 L (68 % predicted), FEV1/FVC 0.60. No prior test for change.\nAssessment: COPD GOLD 2, obesity class II, sciatica likely lumbar radiculopathy.\nPlan: Continue current inhalers, add pulmonary rehab referral, weight‑loss diet, continue pregabalin, diclofenac, methylcobalamin, orlistat. Review in 8 weeks."
+    },
+    {
+      "memory_id": "X0107-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Tiotropium inhaler (Respimat) 2 µg OD\nSalbutamol inhaler (MDI) 100 µg SOS\nBudesonide‑formoterol inhaler (Dry Powder) 200/6 µg BD\nPregabalin 75 mg BD\nDiclofenac 50 mg BD after food\nMethylcobalamin 1500 mcg OD\nOrlistat 120 mg TID with main meals"
+    },
+    {
+      "memory_id": "X0107-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 220 mg/dL (ref <200), LDL 145 mg/dL (<100), HDL 38 mg/dL (>40), Triglycerides 180 mg/dL (<150).\nFasting glucose: 110 mg/dL (70‑99).\nHbA1c: 6.2 % (4‑5.6).\nLiver function: ALT 35 U/L (7‑56), AST 30 U/L (10‑40), ALP 80 U/L (40‑129), GGT 40 U/L (9‑36)."
+    },
+    {
+      "memory_id": "X0107-m04",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Stable COPD, obesity unchanged, sciatica improving.\nSymptoms and examination: Dyspnea on mild exertion, occasional wheeze, back pain 2/10, straight leg raise negative. Exam: vesicular breath sounds bilaterally, mild expiratory wheeze, BMI 37.8, lumbar tenderness mild.\nSmoking status: former smoker, 30 pack‑years, quit 2005.\nInhaler technique: Technique checked: correct; patient using Respimat demonstrated proper slow inhalation.\nSpirometry: FEV1 1.3 L (48 % predicted) ↑0.1 L from last; FVC 2.1 L (70 % predicted); FEV1/FVC 0.62.\nAssessment: COPD GOLD 2, obesity class II, sciatica resolving.\nPlan: Continue tiotropium OD, salbutamol SOS, budesonide‑formoterol BD. Maintain pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD. Orlistat 120 mg TID. Encourage low‑impact exercise, review in 3 months."
+    },
+    {
+      "memory_id": "X0107-m05",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Tiotropium inhaler (Respimat) 2 µg OD\nSalbutamol inhaler (MDI) 100 µg SOS\nBudesonide‑formoterol inhaler (Dry Powder) 200/6 µg BD\nPregabalin 75 mg BD\nDiclofenac 50 mg BD after food\nMethylcobalamin 1500 mcg OD\nOrlistat 120 mg TID with main meals"
+    },
+    {
+      "memory_id": "X0107-m06",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X‑ray (PA): Lung fields clear, no focal consolidation. Mild hyperinflation noted. Cardiac silhouette within normal limits. No pleural effusion. Impression: Consistent with COPD, no acute infection."
+    },
+    {
+      "memory_id": "X0107-m07",
+      "date": "2025-08-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more short of breath when climbing stairs to the hotel’s third floor. My back pain is mostly gone, but I notice a dull ache after long shifts. I’ve been taking my inhalers as prescribed and the orlistat with meals, though I sometimes skip it when I’m busy."
+    },
+    {
+      "memory_id": "X0107-m08",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: COPD stable, obesity mild improvement, sciatica resolved.\nSymptoms and examination: Reports increased dyspnea on stairs, back ache mild, no radicular symptoms. Exam: breath sounds vesicular with faint wheeze, BMI 36.5, lumbar spine non‑tender, straight leg raise negative.\nSmoking status: former smoker, 30 pack‑years, quit 2005.\nInhaler technique: Technique checked: correct; patient using Dry Powder inhaler demonstrated adequate inspiratory flow (>60 L/min).\nSpirometry: FEV1 1.25 L (46 % predicted) ↓0.05 L from last; FVC 2.0 L (68 % predicted); FEV1/FVC 0.63.\nAssessment: Slight decline in FEV1, likely due to occasional missed doses; obesity class I.\nPlan: Reinforce inhaler adherence, consider short course of oral prednisolone 20 mg daily for 5 days if symptoms worsen, continue current meds, add walking program, review in 6 weeks."
+    },
+    {
+      "memory_id": "X0107-m09",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Tiotropium inhaler (Respimat) 2 µg OD\nSalbutamol inhaler (MDI) 100 µg SOS\nBudesonide‑formoterol inhaler (Dry Powder) 200/6 µg BD\nPregabalin 75 mg BD\nDiclofenac 50 mg BD after food\nMethylcobalamin 1500 mcg OD\nOrlistat 120 mg TID with main meals\nPrednisolone 20 mg OD for 5 days (if dyspnea increases)"
+    },
+    {
+      "memory_id": "X0107-m10",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 205 mg/dL (<200), LDL 130 mg/dL (<100), HDL 42 mg/dL (>40), Triglycerides 150 mg/dL (<150).\nFasting glucose: 104 mg/dL (70‑99).\nHbA1c: 5.9 % (4‑5.6).\nLiver function: ALT 28 U/L (7‑56), AST 26 U/L (10‑40), ALP 75 U/L (40‑129), GGT 35 U/L (9‑36)."
+    },
+    {
+      "memory_id": "X0107-m11",
+      "date": "2026-02-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-05 at 10:30 AM with Dr Suresh Menon (D05) for routine COPD and obesity review."
+    },
+    {
+      "memory_id": "X0107-m12",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: COPD stable, obesity class I, sciatica absent.\nSymptoms and examination: Dyspnea on moderate exertion, occasional wheeze, weight 88 kg, BMI 32.5, no back pain. Exam: breath sounds vesicular, mild expiratory wheeze, abdominal obesity reduced, lumbar spine normal.\nSmoking status: former smoker, 30 pack‑years, quit 2005.\nInhaler technique: Technique checked: correct; patient using Respimat demonstrated good coordination.\nSpirometry: FEV1 1.35 L (50 % predicted) ↑0.10 L from 2025-09-01; FVC 2.2 L (73 % predicted); FEV1/FVC 0.61.\nAssessment: Improvement in lung function likely due to better inhaler adherence and weight loss.\nPlan: Continue tiotropium OD, salbutamol SOS, budesonide‑formoterol BD. Maintain pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD. Orlistat 120 mg TID. Encourage maintenance of current weight, review in 4 months."
+    },
+    {
+      "memory_id": "X0107-m13",
+      "date": "2026-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dL (<200), LDL 115 mg/dL (<100), HDL 48 mg/dL (>40), Triglycerides 130 mg/dL (<150).\nFasting glucose: 98 mg/dL (70‑99).\nHbA1c: 5.5 % (4‑5.6).\nLiver function: ALT 22 U/L (7‑56), AST 20 U/L (10‑40), ALP 70 U/L (40‑129), GGT 30 U/L (9‑36)."
+    },
+    {
+      "memory_id": "X0107-m14",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: COPD stable, obesity class I, sciatica absent.\nSymptoms and examination: Mild dyspnea on exertion, occasional wheeze, weight 86 kg, BMI 31.8, no back pain. Exam: breath sounds vesicular, faint wheeze, abdominal obesity mild, lumbar spine normal.\nSmoking status: former smoker, 30 pack‑years, quit 2005.\nInhaler technique: Technique checked: correct; patient using Dry Powder inhaler showed adequate inspiratory flow.\nSpirometry: FEV1 1.38 L (51 % predicted) ↑0.03 L from last; FVC 2.25 L (75 % predicted); FEV1/FVC 0.61.\nAssessment: COPD GOLD 2, obesity class I, sciatica resolved.\nPlan: Continue current inhalers, pregabalin, diclofenac, methylcobalamin, orlistat. Encourage annual flu vaccine, pneumococcal vaccine update, review in 6 months."
+    }
+  ]
+}

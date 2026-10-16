@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0392",
+  "name": "Mehul Trivedi",
+  "age": 19,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Allergic rhinitis",
+    "Type 2 diabetes",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0392-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, works as accountant, uses public transport.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls in last 12 months, gait normal, TUG 9 seconds (low risk).\nmedicines: 9 regular (cetirizine, fluticasone, montelukast, metformin, glimepiride, sitagliptin, empagliflozin, levothyroxine 50 mcg). Polypharmacy – review against Beers criteria.\nmood: denies depression or anxiety.\ncarers: mother, Mrs. Lakshmi Kulkarni.\ngoals: \"I want to stay healthy and focus on my career.\""
+    },
+    {
+      "memory_id": "X0392-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS\nmetformin 500 mg BD\nglimepiride 1 mg OD before breakfast\nsitagliptin 100 mg OD\nempagliflozin 10 mg OD\nlevothyroxine 50 mcg OD"
+    },
+    {
+      "memory_id": "X0392-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.2%\nFasting plasma glucose 112 mg/dL\nTSH 4.8 mIU/L\nFree T4 1.1 ng/dL\nTotal serum IgE 120 IU/mL"
+    },
+    {
+      "memory_id": "X0392-m04",
+      "date": "2025-04-06",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Skin prick test: positive to house dust mite and grass pollen; negative to common foods."
+    },
+    {
+      "memory_id": "X0392-m05",
+      "date": "2025-04-07",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Penicillin – rash and pruritus."
+    },
+    {
+      "memory_id": "X0392-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still independent, occasional mild nasal congestion.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls, gait normal, TUG 9 seconds.\nmedicines: 9 regular (levothyroxine increased to 75 mcg). Polypharmacy – review against Beers criteria.\nmood: stable.\ncarers: mother, Mrs. Lakshmi Kulkarni.\ngoals: \"I want to keep my sugar under control and avoid allergies.\""
+    },
+    {
+      "memory_id": "X0392-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0392-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.9 mIU/L\nFree T4 1.2 ng/dL"
+    },
+    {
+      "memory_id": "X0392-m09",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, reports occasional post‑prandial fatigue.\ncognition: Mini-Cog 4/5 (negative).\nfalls: 0 falls, gait normal, TUG 9 seconds.\nmedicines: 9 regular (metformin increased to 850 mg BD). Polypharmacy – review against Beers criteria.\nmood: no depressive symptoms.\ncarers: mother, Mrs. Lakshmi Kulkarni.\ngoals: \"I want to reduce my medication burden if possible.\""
+    },
+    {
+      "memory_id": "X0392-m10",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 850 mg BD"
+    },
+    {
+      "memory_id": "X0392-m11",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8%\nFasting plasma glucose 130 mg/dL\nUrine albumin‑creatinine ratio 22 mg/g"
+    },
+    {
+      "memory_id": "X0392-m12",
+      "date": "2026-01-20",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to ENT for persistent allergic rhinitis despite current therapy; request skin prick testing and consideration of immunotherapy."
+    },
+    {
+      "memory_id": "X0392-m13",
+      "date": "2026-02-10",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "ENT review: allergic rhinitis confirmed; advised continuation of intranasal steroid and antihistamine; offered sublingual immunotherapy, patient declined for now."
+    },
+    {
+      "memory_id": "X0392-m14",
+      "date": "2026-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I’ve been feeling more thirsty lately and my nasal symptoms are worse in the mornings.\""
+    },
+    {
+      "memory_id": "X0392-m15",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-05-15 10:30 with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0392-m16",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, reports increased thirst and occasional polyuria.\ncognition: Mini-Cog 3/5 (negative but borderline).\nfalls: 0 falls, gait normal, TUG 9 seconds.\nmedicines: 9 regular (added sitagliptin 50 mg OD due to rising HbA1c). Polypharmacy – review against Beers criteria.\nmood: no depressive symptoms.\ncarers: mother, Mrs. Lakshmi Kulkarni.\ngoals: \"I want to stay on top of my diabetes and avoid complications.\""
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0458",
+  "name": "Simran Gill",
+  "age": 74,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0458-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency\\n- Status: Newly diagnosed, symptomatic with mild fatigue and occasional paresthesias.\\n- Plan: Start methylcobalamin 1.5 mg 1-0-0 after food; check weight and waist; advise diet: breakfast - include fortified cereals and dairy; lunch - leafy greens and legumes; dinner - lean meat or fish.\\nWeight 62 kg, waist 78 cm (below 80 cm cut‑off).\\nDue: none (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0458-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methylcobalamin 1.5 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0458-m03",
+      "date": "2025-05-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 150 pg/mL (ref 200‑900).\\nMCV: 98 fL (ref 80‑100).\\nHemoglobin: 12.2 g/dL (ref 12‑16)."
+    },
+    {
+      "memory_id": "X0458-m04",
+      "date": "2025-06-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency\\n- Status: Ongoing treatment, fatigue improved, mild tingling persists.\\n- Plan: Continue methylcobalamin 1.5 mg 1-0-0 after food; repeat B12 in 8 weeks; weight 61.8 kg, waist 77 cm; diet advice: breakfast - egg and whole‑grain toast; lunch - dal with vegetables; dinner - grilled chicken with salad."
+    },
+    {
+      "memory_id": "X0458-m05",
+      "date": "2025-06-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methylcobalamin 1.5 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0458-m06",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 340 pg/mL (ref 200‑900).\\nMCV: 92 fL (ref 80‑100).\\nHemoglobin: 13.0 g/dL (ref 12‑16)."
+    },
+    {
+      "memory_id": "X0458-m07",
+      "date": "2025-08-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I still feel occasional numbness in my feet, especially after long walks. Wondering if I need a higher dose of B12."
+    },
+    {
+      "memory_id": "X0458-m08",
+      "date": "2025-08-06",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency\\n- Status: Biochemical improvement but residual neuropathic symptoms.\\n- Plan: Increase methylcobalamin to 2.0 mg 1-0-0 after food; advise foot care and gentle stretching; weight 62.1 kg, waist 78 cm; diet: breakfast - milk and oats; lunch - mixed veg curry with rice; dinner - fish curry."
+    },
+    {
+      "memory_id": "X0458-m09",
+      "date": "2025-08-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methylcobalamin 2.0 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0458-m10",
+      "date": "2025-09-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 480 pg/mL (ref 200‑900).\\nMCV: 90 fL (ref 80‑100).\\nHemoglobin: 13.4 g/dL (ref 12‑16)."
+    },
+    {
+      "memory_id": "X0458-m11",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up appointment for 2025-11-05 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0458-m12",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency\\n- Status: Asymptomatic, labs normal.\\n- Plan: Maintain methylcobalamin 2.0 mg 1-0-0 after food; repeat B12 in 3 months; weight 62.0 kg, waist 78 cm; diet: breakfast - yogurt and fruit; lunch - chapati with lentil soup; dinner - stir‑fried tofu and vegetables."
+    },
+    {
+      "memory_id": "X0458-m13",
+      "date": "2025-11-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methylcobalamin 2.0 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0458-m14",
+      "date": "2026-02-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 460 pg/mL (ref 200‑900).\\nMCV: 91 fL (ref 80‑100).\\nHemoglobin: 13.2 g/dL (ref 12‑16)."
+    },
+    {
+      "memory_id": "X0458-m15",
+      "date": "2026-05-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency\\n- Status: Stable on treatment, no symptoms.\\n- Plan: Continue methylcobalamin 2.0 mg 1-0-0 after food; check B12 in 3 months; weight 62.3 kg, waist 79 cm (still <80 cm); diet: breakfast - idli with sambar; lunch - vegetable pulao with raita; dinner - grilled paneer with salad."
+    },
+    {
+      "memory_id": "X0458-m16",
+      "date": "2026-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 445 pg/mL (ref 200‑900).\\nMCV: 90 fL (ref 80‑100).\\nHemoglobin: 13.1 g/dL (ref 12‑16)."
+    }
+  ]
+}

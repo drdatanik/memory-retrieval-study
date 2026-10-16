@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0432",
+  "name": "Smita Phadke",
+  "age": 84,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Asthma",
+    "Osteoarthritis of the knee",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0432-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent with ADLs, uses a walking stick for outdoor walks, reports mild knee pain on stairs.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal).\nfalls: No falls in last 12 months, gait steady, timed up-and-go 10 seconds (normal).\nmedicines: 6 regular (salbutamol MDI SOS, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS, tiotropium inhaler OD, paracetamol 650 mg SOS, calcium‑vit D3 OD). Polypharmacy – request review against Beers criteria.\nmood: Reports occasional low mood, denies anhedonia.\ncarers: Anita, daughter.\ngoal: \"I want to stay active enough to tend my garden and visit my grandchildren.\""
+    },
+    {
+      "memory_id": "X0432-m02",
+      "date": "2025-04-06",
+      "type": "allergy",
+      "author": "patient",
+      "text": "Allergy to penicillin – develops widespread rash and itching within 30 minutes of taking amoxicillin for a sore throat."
+    },
+    {
+      "memory_id": "X0432-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "salbutamol metered-dose inhaler 2 puffs SOS\nbudesonide-formoterol 200/6 microgram inhaler 2 puffs BD\nmontelukast 10 mg tablet HS\ntiotropium inhaler 18 mcg OD\nparacetamol 650 mg tablet SOS (max 3 g/day)\ncalcium 500 mg + vitamin D3 400 IU tablet OD"
+    },
+    {
+      "memory_id": "X0432-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.45 L (55% predicted), FVC 2.30 L (78% predicted), FEV1/FVC 0.63 (below lower limit). Post‑bronchodilator FEV1 1.55 L (59%).\nVitamin D 25‑OH: 22 ng/mL (insufficient, reference 30‑100)."
+    },
+    {
+      "memory_id": "X0432-m05",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Weight‑bearing X‑ray both knees: Mild joint space narrowing medially, osteophyte formation, no significant subchondral sclerosis. Consistent with grade I osteoarthritis."
+    },
+    {
+      "memory_id": "X0432-m06",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "budesonide-formoterol 200/6 microgram inhaler increased to 2 puffs BID (was BD)\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0432-m07",
+      "date": "2025-08-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: \"Over the past week I’ve felt more short of breath after walking to the market, and I needed my salbutamol inhaler three times today. My knees also feel more stiff in the morning.\""
+    },
+    {
+      "memory_id": "X0432-m08",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, reports increased dyspnea on exertion, uses walking stick less often due to fatigue.\ncognition: Mini-Cog not repeated (annual screen due).\nfalls: One fall in last 12 months (tripped on rug, no injury), gait slightly unsteady, timed up-and-go 13 seconds (raised fall risk) – advise strength training and supportive footwear.\nmedicines: 6 regular (same as before). Polypharmacy – medication review pending.\nmood: Reports frustration with breathlessness, denies depression.\ncarers: Anita, daughter.\ngoal: \"I want to walk to the temple without stopping for breath.\""
+    },
+    {
+      "memory_id": "X0432-m09",
+      "date": "2025-09-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "tiotropium inhaler increased to 2 puffs OD (was 1 puff)\nAdd fluticasone propionate 250 mcg inhaler BD (new inhaled corticosteroid for COPD)\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0432-m10",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.55 L (60% predicted), FVC 2.35 L (78% predicted), FEV1/FVC 0.66 (still below LLN). Post‑bronchodilator FEV1 1.62 L (63%).\nNo significant change from prior."
+    },
+    {
+      "memory_id": "X0432-m11",
+      "date": "2025-11-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Chest X‑ray: Hyperinflated lungs, flattened diaphragms, no focal consolidation or pleural effusion. Consistent with COPD."
+    },
+    {
+      "memory_id": "X0432-m12",
+      "date": "2025-12-01",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Dr S. Rao, Pulmonology, Vydehi Hospital for optimisation of COPD management and consideration of pulmonary rehabilitation."
+    },
+    {
+      "memory_id": "X0432-m13",
+      "date": "2025-12-20",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Pulmonology review: COPD GOLD group B, recommend continuing tiotropium + inhaled corticosteroid, add annual influenza vaccine, enrol in pulmonary rehab program starting Jan 2026. Spirometry stable."
+    },
+    {
+      "memory_id": "X0432-m14",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, reports less dyspnea after starting pulmonary rehab, still uses salbutamol SOS.\ncognition: Mini-Cog score 3/5 (recall 2, clock draw mild abnormality) – negative screen.\nfalls: No new falls, gait improved with rehab, timed up-and-go 11 seconds (borderline) – continue exercises.\nmedicines: 7 regular (added inhaled corticosteroid). Polypharmacy – review scheduled.\nmood: Mood improved, enjoys rehab sessions.\ncarers: Anita, daughter.\ngoal: \"I want to keep up with my grandkids during their school holidays.\""
+    },
+    {
+      "memory_id": "X0432-m15",
+      "date": "2026-02-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Stop montelukast 10 mg HS (patient reports vivid dreams and daytime drowsiness).\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0432-m16",
+      "date": "2026-03-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin D 25‑OH: 28 ng/mL (still insufficient, reference 30‑100).\nCalcium normal."
+    },
+    {
+      "memory_id": "X0432-m17",
+      "date": "2026-05-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-10-10 at 09:30 with Dr Nandini Kulkarni (D06) for geriatric review."
+    },
+    {
+      "memory_id": "X0432-m18",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, walks unaided for short distances, knee pain mild, uses topical diclofenac gel PRN.\ncognition: Mini-Cog not due (annual screen last done Jan 2026).\nfalls: No falls in last 12 months, gait steady, timed up-and-go 10 seconds (normal).\nmedicines: 6 regular (salbutamol SOS, budesonide-formoterol BD, tiotropium OD, fluticasone BD, paracetamol SOS, calcium‑vit D3 OD). Polypharmacy – meds appropriate per Beers.\nmood: Content, enjoys gardening.\ncarers: Anita, daughter.\ngoal: \"I want to remain independent and pain‑free as long as possible.\""
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0101",
+  "name": "Anitha Pulipati",
+  "age": 19,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Asthma",
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0101-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "19-year-old female auto-rickshaw driver presents with intermittent wheeze and mild abdominal discomfort.\n\nPRESENTING COMPLAINT: She reports episodic wheeze after exertion, relieved by salbutamol inhaler, and occasional right upper quadrant discomfort after meals. No fever, no cough, no jaundice.\n\nEXAMINATION: Vital signs: BP 118/72 mmHg, pulse 78/min, respiratory rate 16/min, SpO2 98% on room air. Weight 55 kg, height 155 cm, BMI 22.9 (normal). Chest: bilateral wheeze on forced expiration, otherwise clear. Abdomen: soft, mild tenderness in right hypochondrium, no hepatomegaly.\n\nIMPRESSION: 1) Asthma, mild intermittent. 2) Suspected non‑alcoholic fatty liver disease (NAFLD).\n\nARRANGEMENTS: Continue salbutamol MDI SOS, start budesonide‑formoterol 200/6 inhaler BD, start montelukast 10 mg HS. Start silymarin 140 mg TDS and rosuvastatin 5 mg OD. Order spirometry with reversibility, Asthma Control Test, liver function tests, lipid profile, platelet count, abdominal ultrasound. Return if wheeze worsens, night symptoms increase, fever >39°C, vomiting, or jaundice."
+    },
+    {
+      "memory_id": "X0101-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Salbutamol metered-dose inhaler 2 puffs SOS\nBudesonide-formoterol 200/6 micrograms inhaler 2 puffs BD\nMontelukast 10 mg tablet HS\nSilymarin 140 mg tablet TDS\nRosuvastatin 5 mg tablet OD"
+    },
+    {
+      "memory_id": "X0101-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 2.85 L (92% predicted), FVC 3.30 L (95% predicted), FEV1/FVC 86%. Post‑bronchodilator FEV1 3.00 L (97% predicted), change +5% (negative for significant reversibility).\nAsthma Control Test (ACT) score: 22 (well‑controlled)."
+    },
+    {
+      "memory_id": "X0101-m04",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function: ALT 38 U/L (ref 7‑35), AST 30 U/L (ref 8‑33). ALT mildly elevated.\nLipid profile: Total cholesterol 168 mg/dL (<200), HDL 48 mg/dL (>40), LDL 95 mg/dL (<130), Triglycerides 110 mg/dL (<150).\nPlatelet count: 225 ×10⁹/L (ref 150‑400)."
+    },
+    {
+      "memory_id": "X0101-m05",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "19‑year‑old female returns for routine asthma and liver review.\n\nPRESENTING COMPLAINT: She reports using salbutamol 2‑3 times per week, night-time wheeze absent. Mild right upper quadrant discomfort persists after fatty meals.\n\nEXAMINATION: BP 120/74 mmHg, weight 56 kg, height 155 cm, BMI 23.3 (overweight per Asian cut‑off). Chest: occasional end‑expiratory wheeze, otherwise clear. Abdomen: soft, no hepatomegaly, mild tenderness in right hypochondrium.\n\nIMPRESSION: Asthma, well‑controlled on current regimen; NAFLD with mild ALT elevation; weight gain noted.\n\nARRANGEMENTS: Increase budesonide‑formoterol to 200/6 inhaler 2 puffs BD (maintain). Add salbutamol MDI SOS as needed. Advise dietary modification: reduce refined carbs, increase vegetables, aim for 150 min brisk walking weekly. Continue silymarin 140 mg TDS, rosuvastatin 5 mg OD. Repeat LFT and lipid profile in 3 months. Return if wheeze frequency >3×/week, night symptoms, fever >39°C, worsening abdominal pain, or jaundice."
+    },
+    {
+      "memory_id": "X0101-m06",
+      "date": "2025-08-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Salbutamol metered-dose inhaler 2 puffs SOS\nBudesonide-formoterol 200/6 micrograms inhaler 2 puffs BD\nMontelukast 10 mg tablet HS\nSilymarin 140 mg tablet TDS\nRosuvastatin 5 mg tablet OD"
+    },
+    {
+      "memory_id": "X0101-m07",
+      "date": "2025-08-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Abdominal ultrasound: Liver size 14.5 cm in mid‑clavicular line. Diffuse hepatic steatosis (grade 1). No focal lesions. Portal vein normal. Spleen normal. No ascites. Gallbladder wall thickness 2 mm, no stones. Impression: Consistent with NAFLD, grade 1 steatosis."
+    },
+    {
+      "memory_id": "X0101-m08",
+      "date": "2025-12-03",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "19‑year‑old female presents for quarterly follow‑up.\n\nPRESENTING COMPLAINT: She notes occasional wheeze after climbing hills, uses salbutamol 1‑2 times weekly. No night symptoms. Reports mild post‑prandial right upper quadrant discomfort after heavy meals.\n\nEXAMINATION: BP 119/71 mmHg, weight 57 kg, height 155 cm, BMI 23.7 (overweight). Chest: mild wheeze on forced expiration, otherwise clear. Abdomen: soft, no hepatomegaly, mild tenderness in right hypochondrium.\n\nIMPRESSION: Asthma, stable; NAFLD, persistent mild steatosis; overweight.\n\nARRANGEMENTS: Continue current asthma regimen. Add montelukast 10 mg HS if not already (already). Reinforce weight‑loss advice: limit sugary drinks, increase fiber, aim for 5 % weight loss. Continue silymarin 140 mg TDS, rosuvastatin 5 mg OD. Order LFT, lipid profile, platelet count. Return if wheeze >3×/week, night symptoms, fever >39°C, worsening abdominal pain, jaundice, or sudden weight gain."
+    },
+    {
+      "memory_id": "X0101-m09",
+      "date": "2025-12-03",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Salbutamol metered-dose inhaler 2 puffs SOS\nBudesonide-formoterol 200/6 micrograms inhaler 2 puffs BD\nMontelukast 10 mg tablet HS\nSilymarin 140 mg tablet TDS\nRosuvastatin 5 mg tablet OD"
+    },
+    {
+      "memory_id": "X0101-m10",
+      "date": "2025-12-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function: ALT 34 U/L (ref 7‑35), AST 28 U/L (ref 8‑33). ALT now within normal range.\nLipid profile: Total cholesterol 162 mg/dL, HDL 50 mg/dL, LDL 90 mg/dL, Triglycerides 105 mg/dL.\nPlatelet count: 228 ×10⁹/L (ref 150‑400)."
+    },
+    {
+      "memory_id": "X0101-m11",
+      "date": "2026-04-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more wheezy lately, especially after long drives in the heat. I’ve needed my salbutamol inhaler about 4‑5 times a week and sometimes wake up with a tight chest. My belly still feels uncomfortable after eating oily food."
+    },
+    {
+      "memory_id": "X0101-m12",
+      "date": "2026-04-22",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-05-10 09:00 to 2026-06-15 10:30 as requested by patient. Next visit scheduled for 2026-06-15."
+    },
+    {
+      "memory_id": "X0101-m13",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "19‑year‑old female returns for annual asthma and liver review.\n\nPRESENTING COMPLAINT: She reports increased wheeze frequency, using salbutamol 4‑5 times per week, occasional night‑time symptoms. Mild right upper quadrant discomfort persists after fatty meals.\n\nEXAMINATION: BP 122/76 mmHg, weight 58 kg, height 155 cm, BMI 24.1 (overweight). Chest: audible wheeze on expiration, mild prolonged expiration. Abdomen: soft, no hepatomegaly, mild tenderness in right hypochondrium.\n\nIMPRESSION: Asthma, partially controlled; NAFLD, grade 1 steatosis; overweight.\n\nARRANGEMENTS: Step up asthma therapy: continue budesonide‑formoterol 200/6 inhaler BD, add salbutamol MDI SOS, consider adding a short course of oral prednisolone if symptoms worsen. Continue montelukast 10 mg HS. Continue silymarin 140 mg TDS, rosuvastatin 5 mg OD. Administer influenza vaccine (intramuscular) today, 05‑Oct‑2026. Advise weight reduction: target 5 % loss, avoid fried foods, increase physical activity. Repeat spirometry, ACT, LFT, lipid profile in 3 months. Return if wheeze >3×/week, night symptoms, fever >39°C, worsening abdominal pain, jaundice, or sudden shortness of breath."
+    }
+  ]
+}

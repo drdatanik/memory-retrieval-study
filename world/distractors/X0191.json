@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0191",
+  "name": "Anitha Gorantla",
+  "age": 52,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic kidney disease",
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0191-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3a with obesity.\nPatient reports occasional fatigue, mild ankle swelling after long shifts, and no dyspnea. Examination shows BP 138/86, BMI 32 kg/m2, mild pitting edema bilateral ankles, lungs clear. Spirometry: FEV1 2.8 L (92% predicted), FVC 3.2 L (95%), FEV1/FVC 0.88; change from prior not applicable. Asthma Control Test score 24 (well controlled). Technique checked: correct salbutamol metered-dose inhaler use. Smoking status: former smoker, quit 2020, pack-years 10."
+    },
+    {
+      "memory_id": "X0191-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n orlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0191-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.4 mg/dL (0.6-1.2)\neGFR 45 mL/min/1.73m2 (>60)\nUrine albumin‑creatinine ratio 80 mg/g (<30)\nHaemoglobin 11.8 g/dL (12-16)\nFasting glucose 110 mg/dL (70-99)\nHbA1c 6.2% (4-5.6)\nTotal cholesterol 220 mg/dL (<200)\nLDL 140 mg/dL (<100)\nHDL 40 mg/dL (>40)\nTriglycerides 180 mg/dL (<150)\nALT 22 U/L (<40)\nAST 20 U/L (<40)\nWaist circumference 102 cm"
+    },
+    {
+      "memory_id": "X0191-m04",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3a, obesity stable.\nPatient notes reduced ankle swelling, occasional mild dyspnea on exertion, no cough. BP 132/80, BMI 31.5, trace edema. Spirometry: FEV1 2.9 L (95% pred), FVC 3.3 L (97%), FEV1/FVC 0.88; ΔFEV1 +0.1 L since last. Asthma Control Test score 23 (well controlled). Technique checked: correct salbutamol MDI. Smoking status: former smoker, quit 2020, pack-years 10."
+    },
+    {
+      "memory_id": "X0191-m05",
+      "date": "2025-08-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 80 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n orlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0191-m06",
+      "date": "2025-08-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.3 mg/dL (0.6-1.2)\neGFR 50 mL/min/1.73m2 (>60)\nUrine albumin‑creatinine ratio 65 mg/g (<30)\nHaemoglobin 12.2 g/dL (12-16)\nFasting glucose 102 mg/dL (70-99)\nHbA1c 6.0% (4-5.6)\nTotal cholesterol 205 mg/dL (<200)\nLDL 130 mg/dL (<100)\nHDL 42 mg/dL (>40)\nTriglycerides 165 mg/dL (<150)\nALT 24 U/L (<40)\nAST 21 U/L (<40)\nWaist circumference 100 cm"
+    },
+    {
+      "memory_id": "X0191-m07",
+      "date": "2025-12-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3a, obesity improving.\nPatient denies swelling, reports occasional mild fatigue after work. BP 128/78, BMI 30.8, no edema. Spirometry: FEV1 2.9 L (95% pred), FVC 3.3 L (97%), FEV1/FVC 0.88; ΔFEV1 0.0 L since last. Asthma Control Test score 22 (well controlled). Technique checked: correct salbutamol MDI. Smoking status: former smoker, quit 2020, pack-years 10."
+    },
+    {
+      "memory_id": "X0191-m08",
+      "date": "2025-12-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 80 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n orlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0191-m09",
+      "date": "2025-12-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.2 mg/dL (0.6-1.2)\neGFR 55 mL/min/1.73m2 (>60)\nUrine albumin‑creatinine ratio 50 mg/g (<30)\nHaemoglobin 12.5 g/dL (12-16)\nFasting glucose 98 mg/dL (70-99)\nHbA1c 5.8% (4-5.6)\nTotal cholesterol 190 mg/dL (<200)\nLDL 115 mg/dL (<100)\nHDL 45 mg/dL (>40)\nTriglycerides 150 mg/dL (<150)\nALT 23 U/L (<40)\nAST 20 U/L (<40)\nWaist circumference 98 cm"
+    },
+    {
+      "memory_id": "X0191-m10",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 2, obesity class I.\nPatient feels well, no swelling, occasional mild exertional dyspnea. BP 124/76, BMI 29.4, lungs clear. Spirometry: FEV1 3.0 L (98% pred), FVC 3.4 L (100%), FEV1/FVC 0.88; ΔFEV1 +0.1 L since last. Asthma Control Test score 24 (well controlled). Technique checked: correct salbutamol MDI. Smoking status: former smoker, quit 2020, pack-years 10."
+    },
+    {
+      "memory_id": "X0191-m11",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 80 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n orlistat 120 mg with each main meal"
+    },
+    {
+      "memory_id": "X0191-m12",
+      "date": "2026-04-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.1 mg/dL (0.6-1.2)\neGFR 60 mL/min/1.73m2 (>60)\nUrine albumin‑creatinine ratio 38 mg/g (<30)\nHaemoglobin 13.0 g/dL (12-16)\nFasting glucose 92 mg/dL (70-99)\nHbA1c 5.6% (4-5.6)\nTotal cholesterol 180 mg/dL (<200)\nLDL 105 mg/dL (<100)\nHDL 48 mg/dL (>40)\nTriglycerides 140 mg/dL (<150)\nALT 21 U/L (<40)\nAST 19 U/L (<40)\nWaist circumference 95 cm"
+    },
+    {
+      "memory_id": "X0191-m13",
+      "date": "2026-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up pulmonology appointment booked for 2026-10-15 at 09:30 with Dr Suresh Menon (D05)."
+    }
+  ]
+}

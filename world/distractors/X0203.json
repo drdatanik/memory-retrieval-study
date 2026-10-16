@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0203",
+  "name": "Archana Ghorpade",
+  "age": 83,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Epilepsy",
+    "Heart failure with reduced ejection fraction",
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0203-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Epilepsy, heart failure with reduced ejection fraction, and gastro‑oesophageal reflux disease.\nPatient reports occasional brief dizzy spells, mild exertional dyspnoea, and heartburn after meals. On exam: alert, oriented, BP 138/80, HR 78, SpO2 96% room air, lungs clear bilaterally, no wheeze or crackles, cardiac rhythm regular, no peripheral oedema, abdomen soft, no tenderness. She is on levetiracetam 500 mg BD, lamotrigine 50 mg BD, sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD, furosemide 40 mg OD, dapagliflozin 10 mg OD, pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, and antacid gel SOS. Asthma Control Test not applicable. Technique checked: correct for inhaler use (none prescribed). Smoking status: never smoked."
+    },
+    {
+      "memory_id": "X0203-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levetiracetam 500 mg twice daily\nLamotrigine 50 mg twice daily\nSacubitril/valsartan 24/26 mg twice daily\nBisoprolol 2.5 mg once daily\nSpironolactone 25 mg once daily\nFurosemide 40 mg once daily\nDapagliflozin 10 mg once daily\nPantoprazole 40 mg once daily before breakfast\nDomperidone 10 mg twice daily before meals\nAntacid gel as needed"
+    },
+    {
+      "memory_id": "X0203-m03",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D05",
+      "text": "No known drug allergies."
+    },
+    {
+      "memory_id": "X0203-m04",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium 138 mmol/L (135‑145)\nSerum potassium 4.2 mmol/L (3.5‑5.0)\nSerum creatinine 78 µmol/L (45‑90)\nNT‑proBNP 210 pg/mL (< 300)\nSerum sodium (repeat) 138 mmol/L\nSerum potassium 4.2 mmol/L\nSerum creatinine 78 µmol/L"
+    },
+    {
+      "memory_id": "X0203-m05",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "EEG: background activity normal for age, no epileptiform discharges, no focal slowing. Impression: no acute epileptic abnormality; consistent with controlled epilepsy on current regimen."
+    },
+    {
+      "memory_id": "X0203-m06",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling a bit of burning in my chest after spicy food, but it goes away with an antacid. My breathing feels fine when I walk around the shop."
+    },
+    {
+      "memory_id": "X0203-m07",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025‑07‑10 at 10:00 am with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0203-m08",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Heart failure with reduced ejection fraction, stable epilepsy, mild GERD.\nPatient notes increased swelling of ankles over past two weeks, occasional nocturnal cough, and heartburn after large meals. Exam: BP 142/84, HR 80, SpO2 96%, lungs clear, mild bilateral pitting oedema up to mid‑calf, JVP not elevated, abdomen soft. No new neurologic symptoms. Asthma Control Test not applicable. Technique checked: correct. Smoking status: never."
+    },
+    {
+      "memory_id": "X0203-m09",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Furosemide increased to 60 mg once daily\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0203-m10",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium 136 mmol/L (135‑145)\nSerum potassium 4.8 mmol/L (3.5‑5.0)\nSerum creatinine 82 µmol/L (45‑90)\nNT‑proBNP 340 pg/mL (< 300) – mildly elevated"
+    },
+    {
+      "memory_id": "X0203-m11",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Transthoracic echocardiogram: Left ventricular ejection fraction 38 % (baseline 40 %). LV end‑diastolic diameter 5.6 cm. Mild mitral regurgitation, no significant aortic stenosis. NYHA class II. Impression: stable HFrEF, slight EF decline."
+    },
+    {
+      "memory_id": "X0203-m12",
+      "date": "2025-07-10",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Cardiology for optimisation of heart failure therapy given rising NT‑proBNP and symptomatic fluid retention. Request echocardiogram review, consider uptitration of beta‑blocker and SGLT2 inhibitor if tolerated."
+    },
+    {
+      "memory_id": "X0203-m13",
+      "date": "2025-07-15",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Cardiology review: Patient tolerated current regimen. Recommend increase bisoprolol to 5 mg OD if heart rate remains <70 bpm, continue dapagliflozin, monitor electrolytes. No urgent intervention needed. Follow‑up in 3 months."
+    },
+    {
+      "memory_id": "X0203-m14",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable epilepsy, heart failure with reduced ejection fraction, worsened GERD.\nPatient reports more frequent heartburn, especially after lying down, and occasional regurgitation. No new neurologic symptoms, dyspnoea on mild exertion improved after furosemide increase. Exam: BP 138/80, HR 72, SpO2 97%, lungs clear, trace bilateral ankle oedema, abdomen soft. No tremor. Asthma Control Test not applicable. Technique checked: correct. Smoking status: never."
+    },
+    {
+      "memory_id": "X0203-m15",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Pantoprazole increased to 40 mg twice daily before breakfast and dinner\nDomperidone continued 10 mg BD before meals\nAntacid gel SOS unchanged"
+    },
+    {
+      "memory_id": "X0203-m16",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum potassium 5.2 mmol/L (3.5‑5.0) – mild hyperkalaemia\nSerum creatinine 85 µmol/L (45‑90)\nNT‑proBNP 310 pg/mL (< 300) – slightly above"
+    },
+    {
+      "memory_id": "X0203-m17",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "The heartburn is bothering me at night; I have to sit up to sleep. My legs feel a bit swollen but not painful."
+    },
+    {
+      "memory_id": "X0203-m18",
+      "date": "2026-02-14",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: follow‑up moved from 2026-04-01 to 2026-02-28 at 09:30 am with Dr Suresh Menon (D05)."
+    }
+  ]
+}

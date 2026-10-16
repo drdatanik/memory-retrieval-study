@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0313",
+  "name": "Arindam Dasgupta",
+  "age": 86,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Rheumatoid arthritis",
+    "Vitamin D deficiency",
+    "Osteoarthritis of the knee"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0313-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "86‑year‑old man with rheumatoid arthritis and vitamin D deficiency presents for routine follow‑up.\nPRESENTING COMPLAINT: He reports mild morning stiffness in both hands lasting about 30 minutes and occasional aching in the knees after walking.\nEXAMINATION: BP 138/84 mmHg, weight 62 kg, BMI 23.6 (overweight). Joints show mild synovitis of MCP joints, no deformities. Knees have mild crepitus, no effusion.\nIMPRESSION: Rheumatoid arthritis stable on current methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Vitamin D deficiency noted; serum 25‑OH‑D 18 ng/mL (low). Fasting lipids: total cholesterol 210 mg/dL, LDL 130 mg/dL, HDL 38 mg/dL, triglycerides 160 mg/dL. Fasting blood sugar 98 mg/dL.\nARRANGEMENTS: Start cholecalciferol 60 000 IU once weekly for 8 weeks then 1000 IU OD. Continue current RA meds. Advise weight reduction to BMI <23, low‑salt diet, daily walking 20 minutes. Offer influenza vaccine today (date recorded). Return if new joint swelling, fever >39 °C, unexplained bruising, or black stools."
+    },
+    {
+      "memory_id": "X0313-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "methotrexate 10 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD\ncholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD"
+    },
+    {
+      "memory_id": "X0313-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 18 ng/mL (ref 30‑100)\nSerum calcium: 9.2 mg/dL (ref 8.5‑10.5)\nSerum phosphate: 3.4 mg/dL (ref 2.5‑4.5)\nESR: 28 mm/hr (ref 0‑20)\nCRP: 6 mg/L (ref <5)\nRheumatoid factor: 48 IU/mL (ref <14)\nAnti‑CCP: 62 U/mL (ref <7)\nLiver function: ALT 22 U/L, AST 20 U/L, ALP 78 U/L, bilirubin 0.9 mg/dL (all within normal)\nFasting lipid profile: Total cholesterol 210 mg/dL, LDL 130 mg/dL, HDL 38 mg/dL, Triglycerides 160 mg/dL\nFasting blood sugar: 98 mg/dL (ref 70‑100)"
+    },
+    {
+      "memory_id": "X0313-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "86‑year‑old man with rheumatoid arthritis reports increased knee pain on stairs.\nPRESENTING COMPLAINT: Worse aching in both knees, especially descending stairs; hand stiffness unchanged.\nEXAMINATION: BP 140/86 mmHg, weight 61.5 kg, BMI 23.4 (overweight). Tenderness over medial joint lines of both knees, mild effusion suprapatellar. Hand joints show same mild synovitis.\nIMPRESSION: Osteoarthritis of knees likely progressing; RA disease activity low (ESR 22, CRP 4). Vitamin D level after 8 weeks high‑dose cholecalciferol: 32 ng/mL (adequate). Lipids unchanged; FBS 95 mg/dL.\nARRANGEMENTS: Increase methotrexate to 15 mg weekly; continue folic acid 5 mg weekly. Add topical diclofenac gel to knees BD. Continue calcium‑vitamin D3 tablet OD. Advise quadriceps strengthening, weight‑loss goal BMI <23. Offer influenza vaccine if not yet given (recorded). Return if sudden knee swelling, inability to bear weight, fever >39 °C, or gastric bleed symptoms."
+    },
+    {
+      "memory_id": "X0313-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "methotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD\ncholecalciferol 1000 IU OD\ncalcium with vitamin D3 1 tablet OD"
+    },
+    {
+      "memory_id": "X0313-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR: 22 mm/hr\nCRP: 4 mg/L\nSerum 25‑hydroxyvitamin D: 32 ng/mL\nSerum calcium: 9.3 mg/dL\nSerum phosphate: 3.5 mg/dL\nLiver function: ALT 21 U/L, AST 19 U/L, ALP 80 U/L, bilirubin 0.8 mg/dL\nFasting lipid profile: Total cholesterol 208 mg/dL, LDL 128 mg/dL, HDL 39 mg/dL, Triglycerides 155 mg/dL\nFasting blood sugar: 95 mg/dL"
+    },
+    {
+      "memory_id": "X0313-m07",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Weight‑bearing anteroposterior X‑ray of both knees: Joint space narrowing medially grade 2, osteophyte formation at tibial and femoral margins, mild subchondral sclerosis. No significant effusion or fracture. Impression: Bilateral knee osteoarthritis, moderate severity."
+    },
+    {
+      "memory_id": "X0313-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "86‑year‑old man reviews knee X‑ray results and persistent hand discomfort.\nPRESENTING COMPLAINT: Reports knee pain worsening on walking >10 minutes; hand stiffness unchanged.\nEXAMINATION: BP 138/82 mmHg, weight 61 kg, BMI 23.2 (overweight). Knees: mild varus deformity, tenderness medial joint lines, crepitus. Hands: MCP swelling mild, no ulceration.\nIMPRESSION: Confirmed moderate knee osteoarthritis. RA remains stable (ESR 20, CRP 3). Vitamin D level 35 ng/mL. Lipids: total cholesterol 205 mg/dL, LDL 125 mg/dL, HDL 40 mg/dL, triglycerides 150 mg/dL. FBS 96 mg/dL.\nARRANGEMENTS: Continue methotrexate 15 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Continue calcium‑vitamin D3 OD, topical diclofenac gel BD. Advise use of knee brace during prolonged walking, acetaminophen 650 mg SOS for pain. Influenza vaccine given today (02‑Oct‑2025). Return if knee becomes hot, swollen, fever >39 °C, or gastrointestinal bleed."
+    },
+    {
+      "memory_id": "X0313-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "methotrexate 15 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD\ncalcium with vitamin D3 1 tablet OD\ntopical diclofenac gel apply to knees BD\nparacetamol 650 mg SOS"
+    },
+    {
+      "memory_id": "X0313-m10",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 20‑Jan‑2026 at 10:30 am with Dr Priya Natarajan for routine follow‑up."
+    },
+    {
+      "memory_id": "X0313-m11",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "86‑year‑old man returns after knee brace trial; reports improved walking tolerance.\nPRESENTING COMPLAINT: Knee pain reduced to mild after using brace; hand stiffness unchanged.\nEXAMINATION: BP 142/88 mmHg, weight 60.5 kg, BMI 23.1 (overweight). Knees: less tenderness, mild crepitus, brace in situ. Hands: same mild synovitis.\nIMPRESSION: Osteoarthritis symptoms improved with brace and analgesia. RA stable (ESR 18, CRP 2). Vitamin D level 38 ng/mL. Lipids: total cholesterol 202 mg/dL, LDL 122 mg/dL, HDL 41 mg/dL, triglycerides 145 mg/dL. FBS 94 mg/dL.\nARRANGEMENTS: Continue methotrexate 15 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Continue calcium‑vitamin D3 OD, topical diclofenac gel BD, paracetamol 650 mg SOS. Advise maintain activity, weight‑loss goal BMI <23. Influenza vaccine status up‑to‑date. Return if knee swelling, fever >39 °C, dyspnea, or unexplained bleeding."
+    },
+    {
+      "memory_id": "X0313-m12",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR: 18 mm/hr\nCRP: 2 mg/L\nSerum 25‑hydroxyvitamin D: 38 ng/mL\nSerum calcium: 9.4 mg/dL\nSerum phosphate: 3.6 mg/dL\nLiver function: ALT 20 U/L, AST 18 U/L, ALP 82 U/L, bilirubin 0.7 mg/dL\nFasting lipid profile: Total cholesterol 202 mg/dL, LDL 122 mg/dL, HDL 41 mg/dL, Triglycerides 145 mg/dL\nFasting blood sugar: 94 mg/dL"
+    }
+  ]
+}

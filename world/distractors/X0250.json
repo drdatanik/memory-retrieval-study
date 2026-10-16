@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0250",
+  "name": "Lilly Philip",
+  "age": 84,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0250-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Sciatica\n  Status: Chronic lower back pain radiating to left leg, VAS 6/10, straight leg raise positive 45° left.\n  Plan: Start pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD; advise avoid heavy lifting, apply heat; weight 58 kg, waist 84 cm (female cut‑off 80 cm, slightly increased); diet advice: breakfast – low‑glycaemic idli with sambar, lunch – mixed vegetable curry with roti, dinner – light dal rice.\n  Due: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0250-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg BD after food; diclofenac 50 mg BD after food; methylcobalamin 1500 mcg OD."
+    },
+    {
+      "memory_id": "X0250-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin B12 210 pg/mL (ref 200‑900); CRP 5 mg/L (<5 borderline); ESR 22 mm/hr (0‑20 slightly elevated)."
+    },
+    {
+      "memory_id": "X0250-m04",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Patient reports increased left leg pain over past 2 weeks, now VAS 8/10, difficulty climbing stairs, no new weakness or bowel/bladder disturbance."
+    },
+    {
+      "memory_id": "X0250-m05",
+      "date": "2025-05-22",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Sciatica\n  Status: Pain worsened, VAS 8/10, straight leg raise 30° left, mild paresthesia.\n  Plan: Increase pregabalin to 100 mg BD, continue diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD; add hot fomentation, weight 58.5 kg, waist 85 cm (>80 cm); diet advice: breakfast – oats with milk, lunch – vegetable khichdi, dinner – soup with steamed fish.\n  Due: HbA1c 2025-08-22."
+    },
+    {
+      "memory_id": "X0250-m06",
+      "date": "2025-05-22",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 100 mg BD after food; diclofenac 50 mg BD after food; methylcobalamin 1500 mcg OD."
+    },
+    {
+      "memory_id": "X0250-m07",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Straight leg raise test: left side positive at 30°, right side negative; lumbar paraspinal tenderness present."
+    },
+    {
+      "memory_id": "X0250-m08",
+      "date": "2025-07-12",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referred to Orthopaedic Spine Clinic, Bangalore Medical College, for evaluation of lumbar radiculopathy; request MRI lumbar spine and neurosurgical opinion."
+    },
+    {
+      "memory_id": "X0250-m09",
+      "date": "2025-08-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Orthopaedic review: MRI shows L4‑L5 disc bulge compressing left nerve root; recommend epidural steroid injection and physiotherapy; no surgical indication at present."
+    },
+    {
+      "memory_id": "X0250-m10",
+      "date": "2025-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked physiotherapy session at Spine Rehab Centre, Bommanahalli, on 2025-10-05 at 10:00 am; series of 6 sessions over 3 weeks."
+    },
+    {
+      "memory_id": "X0250-m11",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin B12 340 pg/mL (ref 200‑900); CRP 3 mg/L (<5); ESR 14 mm/hr (0‑20 normal)."
+    },
+    {
+      "memory_id": "X0250-m12",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Sciatica\n  Status: Pain improved, VAS 3/10, straight leg raise negative; patient adherent to pregabalin 100 mg BD, diclofenac PRN.\n  Plan: Taper diclofenac to stop, continue pregabalin 100 mg BD, methylcobalamin 1500 mcg OD; advise core strengthening exercises; weight 57.8 kg, waist 82 cm (still >80 cm); diet advice: breakfast – ragi dosa with chutney, lunch – quinoa salad with lentils, dinner – grilled chicken with steamed vegetables.\n  Due: HbA1c 2026-12-30."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0525",
+  "name": "Anoop Kurup",
+  "age": 50,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Depression",
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0525-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Patient presents for initial assessment of low mood and weight concerns.\nPRESENTING COMPLAINT: Reports low mood, poor sleep, reduced appetite, and feeling tired for 3 months. Notes gaining weight over past year, currently feels uncomfortable with abdominal girth.\nEXAMINATION: BP 138/86 mmHg, weight 92 kg, height 1.70 m, BMI 31.8 (obese). Abdomen soft, no tenderness. Mental appearance: slowed speech, congruent affect.\nIMPRESSION: Moderate depressive episode, obesity class I.\nARRANGEMENTS: Start sertraline 50 mg OD after breakfast. Start orlistat 120 mg TDS with main meals. Advise reduced‑calorie diet, 150 min/week brisk walking, and sleep hygiene. Review in 6 weeks. Return if suicidal thoughts, worsening mood, chest pain, breathlessness, fever >39°C, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0525-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Sertraline 50 mg tablets, take one tablet orally once daily after breakfast. Continue for 6 weeks, then review."
+    },
+    {
+      "memory_id": "X0525-m03",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Orlistat 120 mg capsules, take one capsule with each main meal containing fat. If a meal is missed or contains no fat, omit the dose. Continue with lifestyle measures."
+    },
+    {
+      "memory_id": "X0525-m04",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ‑9 score 14 (moderate depression). TSH 2.1 mIU/L (0.5‑5.0). Vitamin B12 340 pg/mL (200‑900). Fasting lipid profile: Cholesterol 5.2 mmol/L (<5.2), Triglycerides 1.8 mmol/L (<1.7), HDL 1.0 mmol/L (>1.0), LDL 3.2 mmol/L (<2.6). Fasting glucose 6.1 mmol/L (3.9‑5.6). HbA1c 6.0% (4.0‑5.6). LFT: ALT 38 U/L (<40), AST 34 U/L (<40), GGT 55 U/L (<50), bilirubin 12 µmol/L (<21), albumin 42 g/L (35‑50). Waist circumference 102 cm (male >90 cm indicates central obesity)."
+    },
+    {
+      "memory_id": "X0525-m05",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Patient returns for review of initial treatment and lab results.\nPRESENTING COMPLAINT: Mood improved, sleep better, but still reports fatigue and occasional cravings. Weight stable.\nEXAMINATION: BP 134/82 mmHg, weight 90.5 kg, BMI 31.3 (obese). No new abnormalities.\nIMPRESSION: Partial response to sertraline, obesity persisting. Lipids borderline, glucose pre‑diabetic.\nARRANGEMENTS: Increase sertraline to 100 mg OD. Continue orlistat. Reinforce diet, add resistance training twice weekly. Review lipids and glucose in 3 months. Return if worsening depression, suicidal ideation, chest pain, dyspnoea, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0525-m06",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Sertraline 100 mg tablets, take one tablet orally once daily after breakfast. Continue and review in 8 weeks."
+    },
+    {
+      "memory_id": "X0525-m07",
+      "date": "2025-11-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Patient reports improved mood but persistent weight concerns.\nPRESENTING COMPLAINT: Mood good, energy up, but still struggles with abdominal weight and occasional low‑grade anxiety.\nEXAMINATION: BP 130/80 mmHg, weight 88.0 kg, BMI 30.4 (obese). No distress.\nIMPRESSION: Depression in remission, obesity class I still present. Consider adding SSRI for anxiety.\nARRANGEMENTS: Stop sertraline. Start escitalopram 10 mg OD. Continue orlistat. Offer influenza vaccine today (patient eligible due to chronic illness). Review in 8 weeks. Return if worsening mood, panic attacks, chest pain, shortness of breath, fever >39°C, or bloody stools."
+    },
+    {
+      "memory_id": "X0525-m08",
+      "date": "2025-11-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg tablets, take one tablet orally once daily in the morning. Continue and review in 8 weeks.\nOrlistat 120 mg capsules, take one capsule with each main meal containing fat. If a meal is missed or contains no fat, omit the dose."
+    },
+    {
+      "memory_id": "X0525-m09",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ‑9 score 7 (mild depression). TSH 1.9 mIU/L (0.5‑5.0). Vitamin B12 360 pg/mL (200‑900). Fasting lipid profile: Cholesterol 4.9 mmol/L (<5.2), Triglycerides 1.6 mmol/L (<1.7), HDL 1.1 mmol/L (>1.0), LDL 2.8 mmol/L (<2.6). Fasting glucose 5.8 mmol/L (3.9‑5.6). HbA1c 5.7% (4.0‑5.6). LFT: ALT 32 U/L (<40), AST 30 U/L (<40), GGT 48 U/L (<50), bilirubin 10 µmol/L (<21), albumin 43 g/L (35‑50). Waist circumference 99 cm (still >90 cm)."
+    },
+    {
+      "memory_id": "X0525-m10",
+      "date": "2026-03-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Patient returns for routine follow‑up.\nPRESENTING COMPLAINT: Mood stable, reports occasional low‑grade anxiety, weight slowly decreasing.\nEXAMINATION: BP 128/78 mmHg, weight 86.2 kg, BMI 29.8 (overweight). No abnormalities.\nIMPRESSION: Depression well controlled on escitalopram, obesity improving but still overweight. Lipids and glucose now within target.\nARRANGEMENTS: Continue escitalopram 10 mg OD. Stop orlistat as weight trend positive; advise maintaining diet and activity. Review in 3 months. Return if worsening depression, anxiety attacks, chest pain, dyspnoea, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0525-m11",
+      "date": "2026-03-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg tablets, take one tablet orally once daily in the morning. Continue and review in 3 months."
+    },
+    {
+      "memory_id": "X0525-m12",
+      "date": "2026-05-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-05-20 at 10:30 am with Dr Priya Natarajan (D03) for medication review."
+    },
+    {
+      "memory_id": "X0525-m13",
+      "date": "2026-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling a bit dizzy after taking escitalopram, especially when I stand up quickly. Also I noticed mild nausea in the mornings."
+    },
+    {
+      "memory_id": "X0525-m14",
+      "date": "2026-06-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Patient reports dizziness and nausea possibly related to escitalopram.\nPRESENTING COMPLAINT: Light‑headed on standing, mild nausea, no vomiting. Mood still stable.\nEXAMINATION: BP 118/76 mmHg (slight drop from baseline), weight 85.9 kg, BMI 29.6 (overweight). No cardiac or neurologic deficits.\nIMPRESSION: Possible orthostatic hypotension or GI side‑effect of escitalopram.\nARRANGEMENTS: Reduce escitalopram to 5 mg OD for 2 weeks, then reassess. Advise rising slowly, adequate hydration, and small frequent meals. Review in 2 weeks. Return if fainting, severe vomiting, chest pain, breathlessness, fever >39°C, or bloody stools."
+    },
+    {
+      "memory_id": "X0525-m15",
+      "date": "2026-06-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 5 mg tablets, take one tablet orally once daily in the morning. Continue for 2 weeks, then review."
+    },
+    {
+      "memory_id": "X0525-m16",
+      "date": "2026-09-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ‑9 score 5 (mild depression). TSH 2.0 mIU/L (0.5‑5.0). Vitamin B12 355 pg/mL (200‑900). Fasting lipid profile: Cholesterol 4.8 mmol/L (<5.2), Triglycerides 1.5 mmol/L (<1.7), HDL 1.2 mmol/L (>1.0), LDL 2.6 mmol/L (<2.6). Fasting glucose 5.5 mmol/L (3.9‑5.6). HbA1c 5.5% (4.0‑5.6). LFT: ALT 29 U/L (<40), AST 27 U/L (<40), GGT 44 U/L (<50), bilirubin 9 µmol/L (<21), albumin 44 g/L (35‑50). Waist circumference 97 cm (still >90 cm)."
+    },
+    {
+      "memory_id": "X0525-m17",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Patient returns for annual review.\nPRESENTING COMPLAINT: Mood good, no dizziness on current dose, weight stable, feels healthier.\nEXAMINATION: BP 124/78 mmHg, weight 85.5 kg, BMI 29.4 (overweight).\nIMPRESSION: Depression in remission on low‑dose escitalopram, obesity now overweight but improving. All metabolic parameters within target.\nARRANGEMENTS: Continue escitalopram 5 mg OD. Reinforce Mediterranean‑style diet and 150 min/week aerobic activity. Offer influenza vaccine today (patient eligible due to chronic illness). Review in 6 months. Return if worsening depression, anxiety, chest pain, dyspnoea, fever >39°C, or rectal bleeding."
+    }
+  ]
+}

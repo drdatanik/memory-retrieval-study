@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0431",
+  "name": "Dipti Raval",
+  "age": 36,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0431-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus.\nPatient reports occasional fatigue, increased thirst and mild polyuria over the past month. Examination shows BMI 28 kg/m2, blood pressure 128/82 mmHg, random capillary glucose 162 mg/dL. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0431-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg twice daily; Glimepiride 1 mg once daily before breakfast; Sitagliptin 100 mg once daily; Empagliflozin 10 mg once daily. Review in 3 months."
+    },
+    {
+      "memory_id": "X0431-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (ref 4.0-5.6); Fasting plasma glucose 138 mg/dL (ref 70-99); Urine albumin‑creatinine ratio 22 mg/g (ref <30)."
+    },
+    {
+      "memory_id": "X0431-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus.\nPatient notes improved energy but occasional post‑prandial thirst. Examination: weight 70 kg, BMI 27.5, BP 126/80, random glucose 148 mg/dL. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0431-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin increased to 850 mg twice daily; Glimepiride 1 mg once daily before breakfast; Sitagliptin 100 mg once daily; Empagliflozin 10 mg once daily. Review in 3 months."
+    },
+    {
+      "memory_id": "X0431-m06",
+      "date": "2025-08-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2% (ref 4.0-5.6); Fasting plasma glucose 124 mg/dL (ref 70-99); Urine albumin‑creatinine ratio 18 mg/g (ref <30)."
+    },
+    {
+      "memory_id": "X0431-m07",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dilated fundus exam: mild microaneurysms scattered temporally, no macular edema, no hemorrhages. Recommend annual repeat."
+    },
+    {
+      "memory_id": "X0431-m08",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling a bit more tired lately and notice my feet are slightly swollen by evening. My blood sugar checks at home have been around 150‑170 mg/dL before meals."
+    },
+    {
+      "memory_id": "X0431-m09",
+      "date": "2025-10-07",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-11-10 at 10:30 am with Dr Suresh Menon (D05) for diabetes review."
+    },
+    {
+      "memory_id": "X0431-m10",
+      "date": "2025-11-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus.\nPatient reports mild fatigue and evening foot swelling; home glucose 150‑170 mg/dL. Examination: weight 71 kg, BMI 27.8, BP 130/82, trace pedal edema. Smoking status: never smoker, pack-years 0."
+    },
+    {
+      "memory_id": "X0431-m11",
+      "date": "2025-11-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Add Sitagliptin 100 mg once daily (already on); increase Empagliflozin to 25 mg once daily. Continue Metformin 850 mg BD, Glimepiride 1 mg OD. Review in 3 months."
+    },
+    {
+      "memory_id": "X0431-m12",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.6% (ref 4.0-5.6); Fasting plasma glucose 108 mg/dL (ref 70-99); Urine albumin‑creatinine ratio 12 mg/g (ref <30)."
+    },
+    {
+      "memory_id": "X0431-m13",
+      "date": "2026-03-15",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Dr Priya Nair, Endocrinology, Vikram Hospital for optimisation of diabetes management and consideration of GLP‑1 therapy. Include recent labs and fundus report."
+    },
+    {
+      "memory_id": "X0431-m14",
+      "date": "2026-04-15",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Endocrinology review: patient tolerates current regimen; HbA1c 6.6% acceptable. Advised to continue metformin, empagliflozin, glimepiride; add low‑dose GLP‑1 RA if further intensification needed. Return to primary care for routine follow‑up."
+    },
+    {
+      "memory_id": "X0431-m15",
+      "date": "2026-09-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus.\nPatient feels well, no polyuria or fatigue; home glucose 95‑115 mg/dL fasting. Examination: weight 70 kg, BMI 27.2, BP 124/78, no edema. Smoking status: never smoker, pack-years 0. HbA1c 6.5% from recent lab."
+    }
+  ]
+}

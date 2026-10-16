@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0522",
+  "name": "Vikas Sharma",
+  "age": 55,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Type 2 diabetes",
+    "COPD",
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0522-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Diabetes\n  - Status: HbA1c 7.8%, FPG 138 mg/dL, weight 78 kg, waist 92 cm (>90 cm cut‑off).\n  - Plan: Continue metformin 500 mg BD after food, glimepiride 1 mg OD before breakfast, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Reinforce low‑carb breakfast, avoid sugary snacks.\n- COPD\n  - Status: Mild dyspnoea on exertion, spirometry FEV1 68% predicted, FEV1/FVC 0.60.\n  - Plan: Continue tiotropium OD, salbutamol SOS, budesonide‑formoterol 200/6 BD. Ensure inhaler technique.\n- Dyslipidaemia\n  - Status: LDL 130 mg/dL, HDL 38 mg/dL, TG 210 mg/dL.\n  - Plan: Start atorvastatin 10 mg HS, repeat lipid profile in 3 months.\n- Weight & waist: Recorded as above; advise reduced portion size, avoid fried foods.\n- Diet advice per meal\n  - Breakfast: Whole grain toast, egg white, no sugar tea.\n  - Lunch: Vegetable salad, lean protein, limited rice.\n  - Dinner: Soup, steamed vegetables, small chapati.\n- Due: Next HbA1c due 2025-07-05."
+    },
+    {
+      "memory_id": "X0522-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg BD after food; Glimepiride 1 mg OD before breakfast; Sitagliptin 100 mg OD; Empagliflozin 10 mg OD; Tiotropium inhaler OD; Salbutamol inhaler SOS; Budesonide-formoterol 200/6 inhaler BD; Atorvastatin 10 mg HS."
+    },
+    {
+      "memory_id": "X0522-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (ref 4-5.6); Fasting plasma glucose 138 mg/dL (70-100); Urine albumin‑creatinine ratio 22 mg/g (<30)."
+    },
+    {
+      "memory_id": "X0522-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Spirometry: FEV1 68% predicted, FVC 80% predicted, FEV1/FVC ratio 0.60 (consistent with COPD). No acute reversibility."
+    },
+    {
+      "memory_id": "X0522-m05",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling more tired in the evenings and notice occasional wheezing after climbing stairs. My appetite is okay but I crave sweets after dinner. I have been using my salbutamol inhaler about twice a week."
+    },
+    {
+      "memory_id": "X0522-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Diabetes\n  - Status: HbA1c 7.4% (down 0.4), FPG 124 mg/dL, weight 77 kg, waist 90 cm (at cut‑off).\n  - Plan: Increase metformin to 500 mg TID after meals; keep other glucose‑lowering drugs unchanged. Emphasise post‑dinner walk.\n- COPD\n  - Status: Wheezing reduced, salbutamol use down to once weekly. Spirometry FEV1 70% predicted.\n  - Plan: Continue current inhalers; add pulmonary rehab referral.\n- Dyslipidaemia\n  - Status: LDL 118 mg/dL, HDL 40 mg/dL, TG 190 mg/dL.\n  - Plan: Continue atorvastatin 10 mg HS; repeat lipid profile in 3 months.\n- Weight & waist: Recorded as above; advise smaller evening portions, avoid late‑night snacking.\n- Diet advice per meal\n  - Breakfast: Oats with milk, no added sugar.\n  - Lunch: Mixed vegetable curry, chapati, dal.\n  - Dinner: Grilled fish, steamed veg, small rice portion.\n- Due: Next HbA1c due 2025-10-10."
+    },
+    {
+      "memory_id": "X0522-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg TID after food; Glimepiride 1 mg OD before breakfast; Sitagliptin 100 mg OD; Empagliflozin 10 mg OD; Tiotropium inhaler OD; Salbutamol inhaler SOS; Budesonide-formoterol 200/6 inhaler BD; Atorvastatin 10 mg HS."
+    },
+    {
+      "memory_id": "X0522-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.4% (ref 4-5.6); Fasting plasma glucose 124 mg/dL (70-100); Lipid profile: LDL 118 mg/dL (<130), HDL 40 mg/dL (>40), TG 190 mg/dL (<150 borderline)."
+    },
+    {
+      "memory_id": "X0522-m09",
+      "date": "2025-08-01",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Pulmonology, Vikram Hospital, for COPD assessment and possible bronchodilator optimisation. Include recent spirometry and chest X‑ray request."
+    },
+    {
+      "memory_id": "X0522-m10",
+      "date": "2025-09-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Pulmonology review: COPD GOLD stage 2, inhaler technique adequate. Recommended continuation of tiotropium and budesonide‑formoterol; add long‑acting muscarinic antagonist if symptoms worsen. No need for steroids at present."
+    },
+    {
+      "memory_id": "X0522-m11",
+      "date": "2025-10-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Chest X‑ray: Hyperinflated lungs, flattened diaphragms, no focal consolidation or pleural effusion. Consistent with COPD."
+    },
+    {
+      "memory_id": "X0522-m12",
+      "date": "2025-12-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Diabetes\n  - Status: HbA1c 7.1%, FPG 115 mg/dL, weight 76 kg, waist 88 cm (<90 cm).\n  - Plan: Maintain metformin 500 mg TID; consider tapering glimepiride if hypoglycaemia occurs.\n- COPD\n  - Status: No exacerbations in past 3 months, spirometry FEV1 72% predicted.\n  - Plan: Continue current regimen; monitor for side‑effects.\n- Dyslipidaemia\n  - Status: LDL 95 mg/dL, HDL 42 mg/dL, TG 160 mg/dL.\n  - Plan: Stop fenofibrate (not prescribed), switch atorvastatin to rosuvastatin 10 mg OD for better LDL goal.\n- Weight & waist: Recorded as above; waist now below male cut‑off.\n- Diet advice per meal\n  - Breakfast: Idli with sambar, no chutney sugar.\n  - Lunch: Quinoa salad, grilled chicken.\n  - Dinner: Lentil soup, sautéed greens, small roti.\n- Due: Next HbA1c due 2026-03-20."
+    },
+    {
+      "memory_id": "X0522-m13",
+      "date": "2025-12-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Metformin 500 mg TID after food; Glimepiride 1 mg OD before breakfast; Sitagliptin 100 mg OD; Empagliflozin 10 mg OD; Tiotropium inhaler OD; Salbutamol inhaler SOS; Budesonide-formoterol 200/6 inhaler BD; Rosuvastatin 10 mg OD."
+    },
+    {
+      "memory_id": "X0522-m14",
+      "date": "2025-12-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.1% (ref 4-5.6); Fasting plasma glucose 115 mg/dL (70-100); Lipid profile: LDL 95 mg/dL (<100), HDL 42 mg/dL (>40), TG 160 mg/dL (150-200 borderline); LFT: ALT 28 U/L, AST 24 U/L; CK 165 U/L (normal)."
+    },
+    {
+      "memory_id": "X0522-m15",
+      "date": "2026-01-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-02-10 at 10:00 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0522-m16",
+      "date": "2026-03-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Diabetes\n  - Status: HbA1c 6.8%, FPG 108 mg/dL, weight 75 kg, waist 86 cm.\n  - Plan: Continue current glucose‑lowering regimen; consider reducing glimepiride to 0.5 mg OD if no hypoglycaemia.\n- COPD\n  - Status: Stable, no rescue inhaler use in past month, spirometry FEV1 74% predicted.\n  - Plan: Maintain inhalers; annual flu vaccine advised.\n- Dyslipidaemia\n  - Status: LDL 88 mg/dL, HDL 44 mg/dL, TG 140 mg/dL.\n  - Plan: Continue rosuvastatin 10 mg OD; repeat lipid profile in 12 months.\n- Weight & waist: Recorded as above; waist comfortably below cut‑off.\n- Diet advice per meal\n  - Breakfast: Poha with peanuts, no sugar.\n  - Lunch: Brown rice, dal, vegetable stir‑fry.\n  - Dinner: Grilled paneer, steamed broccoli, small chapati.\n- Due: Next HbA1c due 2026-06-15."
+    },
+    {
+      "memory_id": "X0522-m17",
+      "date": "2026-03-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8% (ref 4-5.6); Fasting plasma glucose 108 mg/dL (70-100); Spirometry: FEV1 74% predicted, FVC 88% predicted, FEV1/FVC 0.84."
+    }
+  ]
+}

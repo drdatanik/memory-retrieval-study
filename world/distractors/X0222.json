@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0222",
+  "name": "Jyoti Bhatt",
+  "age": 18,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0222-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: New diagnosis, symptoms 2-3 times/week, nocturnal cough twice/month, ACT score 18.\n  - Plan: Start salbutamol MDI SOS, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS; educate on inhaler technique; schedule spirometry.\n- Weight & waist\n  - Status: Weight 55 kg, waist 78 cm (female cut‑off 80 cm).\n  - Plan: Maintain balanced diet, regular activity.\n- Due: Next HbA1c due: Not applicable (no diabetes)."
+    },
+    {
+      "memory_id": "X0222-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Salbutamol metered-dose inhaler 100 mcg SOS\nBudesonide-formoterol 200/6 mcg inhaler 1-0-1 (after food)\nMontelukast 10 mg tablet HS (after food)"
+    },
+    {
+      "memory_id": "X0222-m03",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Spirometry with reversibility: FEV1 2.1 L (68% predicted), FVC 2.8 L (85% predicted), FEV1/FVC 0.75. Post‑bronchodilator FEV1 2.5 L (80% predicted), improvement 19% (>12% and 200 mL) – positive reversibility."
+    },
+    {
+      "memory_id": "X0222-m04",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been using my reliever inhaler almost daily and wake up coughing at night about twice a week. I’m worried about my breathing during work trips."
+    },
+    {
+      "memory_id": "X0222-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: Improved, daytime symptoms ≤2 days/week, night symptoms zero, ACT 22.\n  - Plan: Continue current regimen; check inhaler adherence; consider step‑down if stable for 3 months.\n- Weight & waist\n  - Status: Weight 56 kg, waist 79 cm.\n  - Plan: Keep current diet, add brisk walk 30 min daily.\n- Due: Next HbA1c due: Not applicable (no diabetes)."
+    },
+    {
+      "memory_id": "X0222-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Salbutamol MDI SOS\nBudesonide-formoterol 200/6 mcg inhaler 1-0-1 (after food)\nMontelukast 10 mg HS (after food)"
+    },
+    {
+      "memory_id": "X0222-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Peripheral blood eosinophil count: 0.2 x10^9/L (Reference 0.05‑0.5)."
+    },
+    {
+      "memory_id": "X0222-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: Well controlled, ACT 24, no rescue use in past month.\n  - Plan: Attempt step‑down: reduce budesonide-formoterol to 100/3 mcg BD; keep montelukast and salbutamol SOS.\n- Weight & waist\n  - Status: Weight 57 kg, waist 80 cm (at female cut‑off).\n  - Plan: Monitor waist, encourage core strengthening.\n- Due: Next HbA1c due: Not applicable (no diabetes)."
+    },
+    {
+      "memory_id": "X0222-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Salbutamol MDI SOS\nBudesonide-formoterol 100/3 mcg inhaler 1-0-1 (after food)\nMontelukast 10 mg HS (after food)"
+    },
+    {
+      "memory_id": "X0222-m10",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-01-15 at 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0222-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: Controlled, ACT 23, occasional salbutamol use (once/week).\n  - Plan: Continue current low‑dose budesonide-formoterol; reinforce trigger avoidance.\n- Weight & waist\n  - Status: Weight 58 kg, waist 81 cm (slightly above cut‑off).\n  - Plan: Dietary review – reduce refined carbs, increase protein.\n- Due: Next HbA1c due: Not applicable (no diabetes)."
+    },
+    {
+      "memory_id": "X0222-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Salbutamol MDI SOS\nBudesonide-formoterol 100/3 mcg inhaler 1-0-1 (after food)\nMontelukast 10 mg HS (after food)"
+    },
+    {
+      "memory_id": "X0222-m13",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum IgE: 85 IU/mL (Reference <100)."
+    },
+    {
+      "memory_id": "X0222-m14",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: Well controlled, ACT 25, no night symptoms, rescue use <1/week.\n  - Plan: Maintain current therapy; review inhaler technique.\n- Weight & waist\n  - Status: Weight 58 kg, waist 80 cm.\n  - Plan: Continue healthy eating, add yoga twice weekly.\n- Due: Next HbA1c due: Not applicable (no diabetes)."
+    },
+    {
+      "memory_id": "X0222-m15",
+      "date": "2026-04-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Asthma Control Test (ACT) score: 25/25 (maximum control)."
+    },
+    {
+      "memory_id": "X0222-m16",
+      "date": "2026-08-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Asthma\n  - Status: Remains controlled, ACT 24, no exacerbations since last visit.\n  - Plan: Continue current regimen; schedule next review in 4 months.\n- Weight & waist\n  - Status: Weight 59 kg, waist 81 cm.\n  - Plan: Encourage portion control, monitor waist trend.\n- Due: Next HbA1c due: Not applicable (no diabetes)."
+    },
+    {
+      "memory_id": "X0222-m17",
+      "date": "2026-08-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Salbutamol MDI SOS\nBudesonide-formoterol 100/3 mcg inhaler 1-0-1 (after food)\nMontelukast 10 mg HS (after food)"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0242",
+  "name": "Sachin Joshi",
+  "age": 84,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Non-alcoholic fatty liver disease",
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0242-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: Mild steatosis on ultrasound, ALT 48 U/L (↑), AST 38 U/L, platelet count 210×10⁹/L.\n  - Plan: Continue silymarin 140 mg TDS, rosuvastatin 5 mg OD, repeat LFT in 3 months, advise low‑fat diet.\n- Iron‑deficiency anaemia\n  - Status: Hb 9.2 g/dL (↓), ferritin 12 ng/mL (↓), MCV 78 fL (↓).\n  - Plan: Start ferrous sulfate 200 mg OD, review Hb in 6 weeks.\n- Generalised anxiety disorder\n  - Status: GAD‑7 score 10 (moderate), reports worry about health.\n  - Plan: Start escitalopram 5 mg OD, buspirone 5 mg BD, review in 4 weeks.\nWeight 68 kg, waist 92 cm (>90 cm cutoff).\nDiet advice:\n- Breakfast: Whole‑grain toast with egg white, avoid fried foods.\n- Lunch: Steamed vegetables, lean fish, small rice portion.\n- Dinner: Soup, salad, avoid red meat after 7 pm."
+    },
+    {
+      "memory_id": "X0242-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Ferrous sulfate 200 mg OD after food\nSilymarin 140 mg TDS after food\nRosuvastatin 5 mg OD at bedtime\nEscitalopram 5 mg OD after breakfast\nBuspirone 5 mg BD after meals"
+    },
+    {
+      "memory_id": "X0242-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 9.2 g/dL (13.0‑17.0)\nSerum ferritin: 12 ng/mL (30‑400)\nMCV: 78 fL (80‑100)\nALT: 48 U/L (<40)\nAST: 38 U/L (<40)\nPlatelet count: 210×10⁹/L (150‑400)\nLipid profile: Total cholesterol 210 mg/dL (<200), LDL 130 mg/dL (<100), HDL 38 mg/dL (>40), Triglycerides 180 mg/dL (<150)\nTSH: 2.1 µIU/mL (0.4‑4.0)"
+    },
+    {
+      "memory_id": "X0242-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Abdominal ultrasound: Liver shows diffuse hyperechoic pattern consistent with mild steatosis, no focal lesion, spleen normal, portal vein patent."
+    },
+    {
+      "memory_id": "X0242-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling restless at night and worrying about my blood test results. I find it hard to relax even after taking my meds."
+    },
+    {
+      "memory_id": "X0242-m06",
+      "date": "2025-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-07-15 at 10:30 am with Dr Karthik Hegde for routine follow‑up."
+    },
+    {
+      "memory_id": "X0242-m07",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: ALT decreased to 36 U/L (normal), AST 32 U/L, platelet count stable 208×10⁹/L.\n  - Plan: Continue silymarin and rosuvastatin, repeat LFT in 3 months.\n- Iron‑deficiency anaemia\n  - Status: Hb improved to 10.8 g/dL, ferritin 22 ng/mL, MCV 80 fL (borderline).\n  - Plan: Change ferrous sulfate to 200 mg on alternate days, re‑check Hb in 6 weeks.\n- Generalised anxiety disorder\n  - Status: GAD‑7 score 7 (mild), reports better sleep.\n  - Plan: Continue escitalopram 5 mg OD, buspirone 5 mg BD, consider taper if stable.\nWeight 67.5 kg, waist 91 cm.\nDiet advice:\n- Breakfast: Oatmeal with skim milk, no added sugar.\n- Lunch: Grilled chicken salad, olive oil dressing.\n- Dinner: Lentil soup, steamed broccoli, avoid heavy gravies."
+    },
+    {
+      "memory_id": "X0242-m08",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Ferrous sulfate 200 mg on alternate days after food\nSilymarin 140 mg TDS after food\nRosuvastatin 5 mg OD at bedtime\nEscitalopram 5 mg OD after breakfast\nBuspirone 5 mg BD after meals"
+    },
+    {
+      "memory_id": "X0242-m09",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 10.8 g/dL (13.0‑17.0)\nSerum ferritin: 22 ng/mL (30‑400)\nMCV: 80 fL (80‑100)\nALT: 36 U/L (<40)\nAST: 32 U/L (<40)\nPlatelet count: 208×10⁹/L (150‑400)\nLipid profile: Total cholesterol 195 mg/dL (<200), LDL 115 mg/dL (<100), HDL 40 mg/dL (>40), Triglycerides 150 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0242-m10",
+      "date": "2025-10-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2025-10-25 to 2025-10-22 at 09:00 am due to patient request."
+    },
+    {
+      "memory_id": "X0242-m11",
+      "date": "2025-10-25",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: Ultrasound shows reduced hepatic echogenicity, ALT 30 U/L, AST 28 U/L.\n  - Plan: Continue current regimen, repeat ultrasound in 6 months.\n- Iron‑deficiency anaemia\n  - Status: Hb 11.5 g/dL, ferritin 30 ng/mL (low‑normal), MCV 82 fL.\n  - Plan: Maintain ferrous sulfate on alternate days, check Hb in 3 months.\n- Generalised anxiety disorder\n  - Status: GAD‑7 score 5 (mild), reports occasional worry.\n  - Plan: Consider reducing escitalopram to 2.5 mg OD after review.\nWeight 67 kg, waist 90 cm (at cutoff).\nDiet advice:\n- Breakfast: Idli with sambar, no coconut chutney.\n- Lunch: Brown rice with vegetable curry, small portion of fish.\n- Dinner: Vegetable stew, avoid fried snacks after 8 pm."
+    },
+    {
+      "memory_id": "X0242-m12",
+      "date": "2025-10-25",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Ferrous sulfate 200 mg on alternate days after food\nSilymarin 140 mg TDS after food\nRosuvastatin 5 mg OD at bedtime\nEscitalopram 2.5 mg OD after breakfast\nBuspirone 5 mg BD after meals"
+    },
+    {
+      "memory_id": "X0242-m13",
+      "date": "2025-10-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 11.5 g/dL (13.0‑17.0)\nSerum ferritin: 30 ng/mL (30‑400)\nMCV: 82 fL (80‑100)\nALT: 30 U/L (<40)\nAST: 28 U/L (<40)\nPlatelet count: 205×10⁹/L (150‑400)\nLipid profile: Total cholesterol 190 mg/dL (<200), LDL 110 mg/dL (<100), HDL 42 mg/dL (>40), Triglycerides 140 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0242-m14",
+      "date": "2026-02-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-10 at 11:00 am with Dr Karthik Hegde for routine review."
+    },
+    {
+      "memory_id": "X0242-m15",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: ALT 28 U/L, AST 26 U/L, ultrasound shows mild steatosis only.\n  - Plan: Continue silymarin and rosuvastatin, repeat LFT in 6 months.\n- Iron‑deficiency anaemia\n  - Status: Hb 12.2 g/dL, ferritin 45 ng/mL, MCV 84 fL (normal).\n  - Plan: Stop ferrous sulfate, monitor Hb in 3 months.\n- Generalised anxiety disorder\n  - Status: GAD‑7 score 4 (mild), reports good control.\n  - Plan: Taper escitalopram to 1.25 mg OD, continue buspirone 5 mg BD.\nWeight 66.5 kg, waist 89 cm (<90 cm).\nDiet advice:\n- Breakfast: Poha with peas, no added oil.\n- Lunch: Quinoa salad with chickpeas, lemon dressing.\n- Dinner: Steamed fish with vegetables, avoid late‑night snacking."
+    },
+    {
+      "memory_id": "X0242-m16",
+      "date": "2026-02-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Silymarin 140 mg TDS after food\nRosuvastatin 5 mg OD at bedtime\nEscitalopram 1.25 mg OD after breakfast\nBuspirone 5 mg BD after meals"
+    },
+    {
+      "memory_id": "X0242-m17",
+      "date": "2026-06-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- NAFLD\n  - Status: ALT 26 U/L, AST 24 U/L, ultrasound shows minimal steatosis.\n  - Plan: Continue silymarin and rosuvastatin, repeat ultrasound in 12 months.\n- Iron‑deficiency anaemia\n  - Status: Hb 12.8 g/dL, ferritin 70 ng/mL, MCV 86 fL (normal).\n  - Plan: No iron needed, repeat Hb in 6 months.\n- Generalised anxiety disorder\n  - Status: GAD‑7 score 3 (minimal), reports feeling calm.\n  - Plan: Discontinue escitalopram, continue buspirone 5 mg BD for another 2 months then review.\nWeight 66 kg, waist 88 cm.\nDiet advice:\n- Breakfast: Upma with vegetables, no cashews.\n- Lunch: Millet rotis with leafy greens curry.\n- Dinner: Soup, salad, avoid desserts after 8 pm."
+    },
+    {
+      "memory_id": "X0242-m18",
+      "date": "2026-06-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 12.8 g/dL (13.0‑17.0)\nSerum ferritin: 70 ng/mL (30‑400)\nMCV: 86 fL (80‑100)\nALT: 26 U/L (<40)\nAST: 24 U/L (<40)\nPlatelet count: 202×10⁹/L (150‑400)\nLipid profile: Total cholesterol 185 mg/dL (<200), LDL 105 mg/dL (<100), HDL 44 mg/dL (>40), Triglycerides 130 mg/dL (<150)\nTSH: 1.9 µIU/mL (0.4‑4.0)"
+    }
+  ]
+}

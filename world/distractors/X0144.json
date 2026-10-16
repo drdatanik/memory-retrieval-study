@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0144",
+  "name": "Nasir Baig",
+  "age": 59,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Benign positional vertigo",
+    "Dyslipidaemia",
+    "Benign prostatic hyperplasia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0144-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, walks unaided, reports occasional dizziness on turning head.\ncognition: Mini-Cog 4/5 (recall 3 items, clock draw normal), negative screen.\nfalls: 0 falls in last 12 months, gait steady, timed up-and-go 9 seconds, normal fall risk.\nmedicines: 0 regular (new patient).\nmood: affect stable, denies depression or anxiety.\ncarers: none.\ngoal: \"I want to stay steady on my feet and continue supervising the coffee estate.\""
+    },
+    {
+      "memory_id": "X0144-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg BD\nmeclizine 25 mg SOS for vertigo\natorvastatin 10 mg HS\nrosuvastatin 10 mg OD\nfenofibrate 145 mg OD\ntamsulosin 0.4 mg HS\nfinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0144-m03",
+      "date": "2025-04-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 138 mg/dL (opt <100), HDL 42 mg/dL (>40), triglycerides 162 mg/dL (<150).\nLiver function: ALT 28 U/L (7-56), AST 24 U/L (10-40), ALP 78 U/L (40-129), GGT 32 U/L (0-51).\nCreatine kinase: 92 U/L (30-200).\nPSA: 1.2 ng/mL (0-4).\nUrine routine: normal, no hematuria, pH 6.0."
+    },
+    {
+      "memory_id": "X0144-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Dix-Hallpike test: positive on right side, torsional nystagmus lasting <1 min, consistent with benign positional vertigo right posterior canal."
+    },
+    {
+      "memory_id": "X0144-m05",
+      "date": "2025-04-06",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Pure-tone audiometry: bilateral mild high-frequency hearing loss (25-30 dB at 4-8 kHz), speech discrimination 92%, compatible with age-related changes; no conductive component."
+    },
+    {
+      "memory_id": "X0144-m06",
+      "date": "2025-04-07",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"Over the past week I've had three brief spinning episodes when looking up to check coffee beans, each lasting <30 seconds, resolved with sitting. No headache or hearing change.\""
+    },
+    {
+      "memory_id": "X0144-m07",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports improved stability, occasional mild unsteadiness after prolonged standing, ADLs independent.\ncognition: Mini-Cog 3/5 (recall 2 items, clock draw mild hesitation), negative screen.\nfalls: 0 falls in last 12 months, gait slightly cautious, timed up-and-go 10 seconds, normal fall risk.\nmedicines: 7 regular (betahistine, meclizine PRN, atorvastatin, rosuvastatin, fenofibrate, tamsulosin, finasteride) – polypharmacy, request Beers review.\nmood: euthymic, denies low mood.\ncarers: spouse (Mrs Lakshmi Kulkarni) provides occasional assistance with grocery.\ngoal: \"I want to keep working full days without dizzy spells.\""
+    },
+    {
+      "memory_id": "X0144-m08",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 24 mg BD (increased)\nmeclizine 25 mg SOS\natorvastatin 20 mg HS (increased)\nrosuvastatin 10 mg OD\nfenofibrate 145 mg OD\ntamsulosin 0.4 mg HS\nfinasteride 5 mg OD"
+    },
+    {
+      "memory_id": "X0144-m09",
+      "date": "2025-07-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 112 mg/dL, HDL 44 mg/dL, triglycerides 138 mg/dL.\nLiver function: ALT 30 U/L, AST 26 U/L, ALP 80 U/L, GGT 34 U/L.\nCreatine kinase: 88 U/L."
+    },
+    {
+      "memory_id": "X0144-m10",
+      "date": "2025-10-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports occasional light‑headedness on rapid neck extension, otherwise steady; ADLs independent.\ncognition: Mini-Cog 4/5 (recall 3, clock draw normal), negative screen.\nfalls: 1 fall in last 12 months (slipped on wet kitchen floor, no injury), gait slightly wide base, timed up-and-go 12 seconds – raised fall risk, advise heel‑to‑toe walking and supportive footwear.\nmedicines: 7 regular – polypharmacy, Beers review pending.\nmood: calm, denies depression.\ncarers: daughter (Priya Kulkarni) helps with medication box.\ngoal: \"I want to avoid any more falls and keep supervising the estate.\""
+    },
+    {
+      "memory_id": "X0144-m11",
+      "date": "2025-10-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 24 mg BD\nmeclizine 25 mg SOS\natorvastatin 20 mg HS\nrosuvastatin 10 mg OD\nfenofibrate 145 mg OD\ntamsulosin 0.4 mg HS\nfinasteride 5 mg OD\nadd: vitamin D3 1000 IU OD for fall prophylaxis"
+    },
+    {
+      "memory_id": "X0144-m12",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Ultrasound KUB with post‑void residual: prostate volume 38 mL, mild bilateral hydronephrosis, post‑void residual 45 mL (normal <30). No calculi."
+    },
+    {
+      "memory_id": "X0144-m13",
+      "date": "2025-10-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA: 1.4 ng/mL (0-4).\nUrine routine: normal, no leukocytes, no nitrites."
+    },
+    {
+      "memory_id": "X0144-m14",
+      "date": "2026-01-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up geriatric review booked for 2026-04-01 10:30 AM with Dr Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0144-m15",
+      "date": "2026-04-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: steady, no vertigo episodes in past month, reports mild fatigue after long walks, ADLs independent.\ncognition: Mini-Cog 3/5 (recall 2, clock draw mild), negative screen (annual).\nfalls: 0 falls in last 12 months, gait normal, timed up-and-go 10 seconds, normal fall risk.\nmedicines: 8 regular (including vitamin D3) – polypharmacy, Beers review completed, no potentially inappropriate meds.\nmood: euthymic.\ncarers: spouse assists with outdoor chores.\ngoal: \"I want to maintain my energy to oversee the harvest.\""
+    },
+    {
+      "memory_id": "X0144-m16",
+      "date": "2026-04-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 24 mg BD\nmeclizine 25 mg SOS\nrosuvastatin 20 mg OD (switch from atorvastatin)\nfenofibrate 145 mg OD\ntamsulosin 0.4 mg HS\nfinasteride 5 mg OD\nvitamin D3 1000 IU OD"
+    },
+    {
+      "memory_id": "X0144-m17",
+      "date": "2026-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 94 mg/dL, HDL 46 mg/dL, triglycerides 122 mg/dL.\nLiver function: ALT 27 U/L, AST 23 U/L, ALP 76 U/L, GGT 31 U/L.\nCreatine kinase: 85 U/L.\nPSA: 1.5 ng/mL (0-4)."
+    }
+  ]
+}

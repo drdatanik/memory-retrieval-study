@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0125",
+  "name": "Kamala Krishnaswamy",
+  "age": 61,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Depression",
+    "Iron-deficiency anaemia",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0125-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: new patient establishing care for depression, iron-deficiency anaemia and asthma.\nPRESENTING COMPLAINT: Ms reports low mood, fatigue, occasional wheeze and exertional dyspnoea for 3 months.\nEXAMINATION: BP 128/78 mmHg, weight 68 kg, height 1.58 m, BMI 27.2 (obese). Advised on reduced calorie intake and daily walk. Pallor noted, lungs clear with occasional wheeze.\nIMPRESSION: 1) Depression, moderate severity. 2) Iron-deficiency anaemia, likely due to dietary insufficiency. 3) Persistent asthma, uncontrolled. Ordered fasting lipid profile and fasting blood sugar as per annual screening.\nARRANGEMENTS: Start sertraline 50 mg OD, ferrous sulfate 200 mg OD, salbutamol MDI SOS, budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS. Influenza vaccine not due (outside autumn). Return if: worsening sadness, suicidal thoughts, chest pain, breathlessness at rest, fever >39°C, or bleeding per rectum."
+    },
+    {
+      "memory_id": "X0125-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "sertraline 50 mg OD\nferrous sulfate 200 mg OD\nsalbutamol metered-dose inhaler SOS\nbudesonide-formoterol 200/6 inhaler BD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0125-m03",
+      "date": "2025-04-10",
+      "type": "allergy",
+      "author": "patient",
+      "text": "Patient reports allergy to penicillin; develops widespread rash and pruritus within minutes of last dose taken 2 years ago."
+    },
+    {
+      "memory_id": "X0125-m04",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.8 g/dL (12-16), Serum ferritin 12 ng/mL (15-150), MCV 78 fL (80-100).\nTSH 4.2 mIU/L (0.4-4.0), Vitamin B12 210 pg/mL (200-900).\nPHQ-9 score 14 (0-27).\nFasting lipid profile: Total cholesterol 210 mg/dL (<200), LDL 130 mg/dL (<100), HDL 48 mg/dL (>40), Triglycerides 160 mg/dL (<150).\nFasting blood sugar 92 mg/dL (70-99)."
+    },
+    {
+      "memory_id": "X0125-m05",
+      "date": "2025-06-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of initial labs and symptom response.\nPRESENTING COMPLAINT: Patient says mood improved slightly, energy better, still occasional wheeze on exertion.\nEXAMINATION: BP 130/80 mmHg, weight 67.5 kg, BMI 27.0 (obese). Diet and activity advice reiterated. Lungs: mild wheeze bilaterally.\nIMPRESSION: Depression partially responsive; anaemia improving but still iron-deficient; asthma partially controlled. Continue current meds, consider increasing sertraline if needed.\nARRANGEMENTS: Increase sertraline to 100 mg OD, keep ferrous sulfate 200 mg OD, continue asthma meds. Influenza vaccine not due. Return if: worsening depression, suicidal ideation, chest pain, severe breathlessness, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0125-m06",
+      "date": "2025-06-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "sertraline 100 mg OD\nferrous sulfate 200 mg OD\nsalbutamol metered-dose inhaler SOS\nbudesonide-formoterol 200/6 inhaler BD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0125-m07",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry with reversibility: Pre-bronchodilator FEV1 2.1 L (80% predicted), FVC 2.8 L (85% predicted), FEV1/FVC 0.75. Post-salbutamol FEV1 2.4 L (12% increase), FVC 2.9 L, FEV1/FVC 0.83. Indicates reversible airway obstruction consistent with asthma."
+    },
+    {
+      "memory_id": "X0125-m08",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: asthma review after spirometry.\nPRESENTING COMPLAINT: Patient reports reduced wheeze, able to walk 2 km without symptoms, occasional night cough.\nEXAMINATION: BP 128/78 mmHg, weight 67 kg, BMI 26.9 (overweight). Advised on weight reduction. Lungs: occasional wheeze at lung bases.\nIMPRESSION: Asthma control improved but not optimal; depression stable on sertraline 100 mg; anaemia unchanged. Consider stepping up inhaled steroid.\nARRANGEMENTS: Increase budesonide-formoterol to 400/12 inhaler BD, continue other meds. Influenza vaccine not due. Return if: worsening cough, night awakenings, chest pain, breathlessness at rest, fever >39°C, or haematemesis."
+    },
+    {
+      "memory_id": "X0125-m09",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "budesonide-formoterol 400/12 inhaler BD\nsertraline 100 mg OD\nferrous sulfate 200 mg OD\nsalbutamol metered-dose inhaler SOS\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0125-m10",
+      "date": "2025-09-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.2 g/dL (12-16), Serum ferritin 28 ng/mL (15-150), MCV 82 fL (80-100).\nTSH 3.8 mIU/L (0.4-4.0), Vitamin B12 225 pg/mL (200-900).\nPHQ-9 score 10 (0-27).\nFasting lipid profile: Total cholesterol 205 mg/dL (<200), LDL 125 mg/dL (<100), HDL 50 mg/dL (>40), Triglycerides 150 mg/dL (<150).\nFasting blood sugar 88 mg/dL (70-99)."
+    },
+    {
+      "memory_id": "X0125-m11",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: Feeling better overall, mood good, still using salbutamol 2-3 times/week for wheeze. No side effects from meds. Will attend follow-up as scheduled."
+    },
+    {
+      "memory_id": "X0125-m12",
+      "date": "2025-11-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of labs and ongoing symptoms.\nPRESENTING COMPLAINT: Patient reports persistent low mood, fatigue, and occasional wheeze during night shifts.\nEXAMINATION: BP 132/82 mmHg, weight 66.5 kg, BMI 26.6 (overweight). Advised on continued calorie control and activity. Lungs: mild wheeze.\nIMPRESSION: Depression partially responsive; consider switching to escitalopram for better tolerability. Anaemia improving but still borderline; asthma mild intermittent.\nARRANGEMENTS: Stop sertraline, start escitalopram 10 mg OD. Continue ferrous sulfate 200 mg OD, asthma meds as is. Influenza vaccine offered and given today (0.5 mL IM). Return if: worsening depression, suicidal thoughts, chest pain, severe breathlessness, fever >39°C, or rectal bleeding."
+    },
+    {
+      "memory_id": "X0125-m13",
+      "date": "2025-11-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "escitalopram 10 mg OD\nferrous sulfate 200 mg OD\nsalbutamol metered-dose inhaler SOS\nbudesonide-formoterol 400/12 inhaler BD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0125-m14",
+      "date": "2026-02-15",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr Suresh Kumar, Psychiatrist, for management of treatment-resistant depression. Patient has tried sertraline and escitalopram with partial response; requests adjunctive therapy and counselling."
+    },
+    {
+      "memory_id": "X0125-m15",
+      "date": "2026-03-01",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Psychiatrist response: Patient assessed, diagnosis moderate depressive disorder. Recommend continuing escitalopram 10 mg OD, adding cognitive behavioural therapy, and reviewing in 6 weeks. No medication change advised at present."
+    },
+    {
+      "memory_id": "X0125-m16",
+      "date": "2026-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-05-12 at 10:30 AM with Dr Priya Natarajan (D03)."
+    }
+  ]
+}

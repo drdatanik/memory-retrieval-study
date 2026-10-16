@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0503",
+  "name": "Vidya Achari",
+  "age": 87,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0503-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity.\nEvidence: BMI 34.2 kg/m2, waist circumference 112 cm, weight 87 kg.\nSymptoms and examination: Patient reports fatigue on exertion, mild knee discomfort, no dyspnea. General appearance obese, blood pressure 138/82, pulse 78, respiratory rate 16, SpO2 98% room air. Cardiovascular and respiratory exams normal.\nSmoking status: never smoked, pack-years 0.\nPlan: Lifestyle modification, start orlistat 120 mg with each main meal, order fasting lipid profile, glucose, HbA1c, LFT, repeat waist in 3 months."
+    },
+    {
+      "memory_id": "X0503-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 6.2 mmol/L (ref <5.2), LDL 4.1 mmol/L (<2.6), HDL 0.9 mmol/L (>1.0), triglycerides 2.3 mmol/L (<1.7).\nFasting glucose: 6.1 mmol/L (3.9-5.5).\nHbA1c: 6.2% (4.0-5.6).\nLiver function: ALT 38 U/L (<40), AST 34 U/L (<40), ALP 78 U/L (<120), GGT 45 U/L (<51), bilirubin 12 µmol/L (<21).\nWaist circumference: 112 cm."
+    },
+    {
+      "memory_id": "X0503-m03",
+      "date": "2025-05-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg capsule – take one capsule with breakfast, lunch and dinner. Continue for 3 months, review then."
+    },
+    {
+      "memory_id": "X0503-m04",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity.\nEvidence: Weight 84 kg (down 3 kg), BMI 33.0, waist 108 cm.\nSymptoms and examination: Reports occasional oily spotting after meals, otherwise tolerating medication well. No new joint pain. BP 134/80, pulse 76, respiratory 15, SpO2 99%.\nSmoking status: never smoked, pack-years 0.\nInhaler: none prescribed, technique not applicable.\nPlan: Continue orlistat, reinforce low-fat diet, repeat labs in 6 weeks."
+    },
+    {
+      "memory_id": "X0503-m05",
+      "date": "2025-07-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.4 mmol/L, LDL 3.4 mmol/L, HDL 1.0 mmol/L, triglycerides 1.8 mmol/L.\nFasting glucose: 5.8 mmol/L.\nHbA1c: 6.0%.\nLiver function: ALT 32 U/L, AST 30 U/L, ALP 75 U/L, GGT 40 U/L, bilirubin 11 µmol/L.\nWaist circumference: 108 cm."
+    },
+    {
+      "memory_id": "X0503-m06",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-10 at 10:00 AM with Dr Suresh Menon (D05) for obesity follow‑up."
+    },
+    {
+      "memory_id": "X0503-m07",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity.\nEvidence: Weight 82 kg, BMI 32.2, waist 105 cm.\nSymptoms and examination: Minimal GI side effects, reports improved energy, knee pain less. BP 130/78, pulse 74, SpO2 99%.\nSmoking status: never smoked, pack-years 0.\nInhaler: none, technique not applicable.\nAssessment: Good response to orlistat, lipids improved.\nPlan: Continue orlistat, add vitamin D 800 IU daily, repeat labs in 3 months."
+    },
+    {
+      "memory_id": "X0503-m08",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Discontinue orlistat due to persistent oily stools despite low‑fat diet. Stop effective today. Continue vitamin D 800 IU daily."
+    },
+    {
+      "memory_id": "X0503-m09",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.9 mmol/L, LDL 3.8 mmol/L, HDL 0.9 mmol/L, triglycerides 2.1 mmol/L.\nFasting glucose: 6.0 mmol/L.\nHbA1c: 6.3%.\nLiver function: ALT 35 U/L, AST 33 U/L, ALP 80 U/L, GGT 42 U/L, bilirubin 12 µmol/L.\nWaist circumference: 110 cm."
+    },
+    {
+      "memory_id": "X0503-m10",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity.\nEvidence: Weight 86 kg (up 4 kg since stopping orlistat), BMI 33.7, waist 113 cm.\nSymptoms and examination: Reports increased fatigue, mild dyspnea on stairs, no chest pain. BP 138/82, pulse 78, SpO2 98%.\nSmoking status: never smoked, pack-years 0.\nInhaler: none prescribed.\nPlan: Restart orlistat after dietary counselling, emphasize <30% fat intake, review in 4 weeks."
+    },
+    {
+      "memory_id": "X0503-m11",
+      "date": "2026-04-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg capsule – take one capsule with each main meal. Continue for 3 months, review then."
+    },
+    {
+      "memory_id": "X0503-m12",
+      "date": "2026-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.3 mmol/L, LDL 3.3 mmol/L, HDL 1.0 mmol/L, triglycerides 1.7 mmol/L.\nFasting glucose: 5.7 mmol/L.\nHbA1c: 6.0%.\nLiver function: ALT 30 U/L, AST 28 U/L, ALP 73 U/L, GGT 38 U/L, bilirubin 10 µmol/L.\nWaist circumference: 106 cm."
+    }
+  ]
+}

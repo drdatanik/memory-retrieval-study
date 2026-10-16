@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0347",
+  "name": "Sarita Malhotra",
+  "age": 70,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Coronary artery disease",
+    "Osteoporosis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0347-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable coronary artery disease with osteoporosis.\nPatient reports occasional mild exertional chest discomfort relieved by rest, no dyspnea at rest. On exam: BP 138/84, pulse 78 regular, lungs clear, no peripheral edema. Spirometry: FEV1 2.85 L (92% predicted), FVC 3.30 L (88%), FEV1/FVC 0.86; change since prior +0.02 L. Asthma Control Test score 24 (well controlled). Technique checked: correct for salbutamol metered-dose inhaler (though not prescribed). Smoking status: former, quit 2005, pack-years 20."
+    },
+    {
+      "memory_id": "X0347-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Aspirin 75 mg OD\nAtorvastatin 40 mg HS\nMetoprolol succinate 25 mg OD\nIsosorbide mononitrate 20 mg OD\nSublingual GTN SOS\nAlendronate 70 mg once weekly\nCalcium 500 mg BD with vitamin D3 400 IU"
+    },
+    {
+      "memory_id": "X0347-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 112 mg/dL (ref <100), HDL 48 mg/dL, triglycerides 162 mg/dL.\nSerum calcium: 9.2 mg/dL (ref 8.5-10.5).\nSerum 25-OH vitamin D: 22 ng/mL (ref 30-100)."
+    },
+    {
+      "memory_id": "X0347-m04",
+      "date": "2025-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-20 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0347-m05",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable coronary artery disease with osteoporosis.\nPatient denies chest pain; reports mild knee discomfort. Exam: BP 132/80, pulse 76, lungs clear. Spirometry: FEV1 2.88 L (93% pred), FVC 3.32 L (89%), FEV1/FVC 0.87; ΔFEV1 +0.03 L. ACT score 25 (well controlled). Technique checked: correct. Smoking status: former, quit 2005, pack-years 20."
+    },
+    {
+      "memory_id": "X0347-m06",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Atorvastatin increased to 80 mg HS\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0347-m07",
+      "date": "2025-07-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 86 mg/dL (ref <100), HDL 50 mg/dL, triglycerides 148 mg/dL."
+    },
+    {
+      "memory_id": "X0347-m08",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable coronary artery disease with osteoporosis.\nPatient reports occasional nocturnal dyspnea, uses GTN once weekly. Exam: BP 140/86, mild basal crepitations, no edema. Spirometry: FEV1 2.80 L (90% pred), FVC 3.25 L (87%), FEV1/FVC 0.86; ΔFEV1 -0.08 L. ACT score 22 (well controlled). Technique checked: correct. Smoking status: former, quit 2005, pack-years 20."
+    },
+    {
+      "memory_id": "X0347-m09",
+      "date": "2025-10-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Resting ECG: Normal sinus rhythm, rate 72, no ST-T changes, no Q waves."
+    },
+    {
+      "memory_id": "X0347-m10",
+      "date": "2025-10-18",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Exercise treadmill test (Bruce protocol): Completed stage 2 (4 METs). No ECG ischemic changes, no chest pain. Blood pressure response appropriate. Impression: Normal functional capacity for age."
+    },
+    {
+      "memory_id": "X0347-m11",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable coronary artery disease with osteoporosis.\nPatient asymptomatic; denies angina or dyspnea. Exam: BP 128/78, pulse 74, lungs clear. Spirometry: FEV1 2.92 L (94% pred), FVC 3.35 L (89%), FEV1/FVC 0.87; ΔFEV1 +0.04 L. ACT score 24 (well controlled). Technique checked: correct. Smoking status: former, quit 2005, pack-years 20."
+    },
+    {
+      "memory_id": "X0347-m12",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Added ezetimibe 10 mg OD\nAtorvastatin continued 80 mg HS\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0347-m13",
+      "date": "2026-01-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium: 9.4 mg/dL (ref 8.5-10.5).\nSerum 25-OH vitamin D: 28 ng/mL (ref 30-100)."
+    },
+    {
+      "memory_id": "X0347-m14",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable coronary artery disease with osteoporosis.\nPatient reports improved energy, no chest pain. Exam: BP 130/80, pulse 76, lungs clear. Spirometry: FEV1 2.95 L (95% pred), FVC 3.38 L (90%), FEV1/FVC 0.87; ΔFEV1 +0.03 L. ACT score 25 (well controlled). Technique checked: correct. Smoking status: former, quit 2005, pack-years 20."
+    },
+    {
+      "memory_id": "X0347-m15",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Alendronate changed to risedronate 35 mg once weekly\nCalcium 500 mg BD with vitamin D3 800 IU\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0347-m16",
+      "date": "2026-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "DEXA scan lumbar spine: T-score -2.1 (osteoporosis).\nDEXA scan femoral neck: T-score -1.8 (osteopenia)."
+    },
+    {
+      "memory_id": "X0347-m17",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original slot 2026-08-05 09:00 AM moved to 2026-08-03 11:30 AM with Dr Suresh Menon (D05)."
+    }
+  ]
+}

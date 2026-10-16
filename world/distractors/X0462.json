@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0462",
+  "name": "Nasir Khan",
+  "age": 82,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0462-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Stable, seizure-free for 6 weeks.\n  - Plan: Continue levetiracetam 500 mg BD and lamotrigine 50 mg BD; order serum sodium, creatinine; schedule EEG.\n- Weight: 68 kg\n- Waist: 92 cm (above male cut-off of 90 cm)\n- Diet advice:\n  - Breakfast: idli with sambar, minimal salt.\n  - Lunch: vegetable rice, avoid pickles.\n  - Dinner: light dal and roti, early."
+    },
+    {
+      "memory_id": "X0462-m02",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 138 mmol/L (Ref 135-145)\nSerum Creatinine: 1.0 mg/dL (Ref 0.7-1.3)"
+    },
+    {
+      "memory_id": "X0462-m03",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg BD, 30 days\nLamotrigine 50 mg BD, 30 days"
+    },
+    {
+      "memory_id": "X0462-m04",
+      "date": "2025-05-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: No epileptiform discharges; background activity normal."
+    },
+    {
+      "memory_id": "X0462-m05",
+      "date": "2025-06-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: No seizures since last visit; mild morning dizziness reported.\n  - Plan: Continue current levetiracetam and lamotrigine doses; repeat serum sodium and creatinine; advise hydration.\n- Weight: 67.5 kg\n- Waist: 91.5 cm (still above male cut-off of 90 cm)\n- Diet advice:\n  - Breakfast: poha with peanuts, low salt.\n  - Lunch: chapati with dal, avoid fried snacks.\n  - Dinner: steamed vegetables and rice, early."
+    },
+    {
+      "memory_id": "X0462-m06",
+      "date": "2025-06-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 136 mmol/L (Ref 135-145)\nSerum Creatinine: 1.1 mg/dL (Ref 0.7-1.3)"
+    },
+    {
+      "memory_id": "X0462-m07",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg BD, 30 days\nLamotrigine 50 mg BD, 30 days"
+    },
+    {
+      "memory_id": "X0462-m08",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure-free for 3 months; occasional light-headedness after meals.\n  - Plan: Maintain levetiracetam 500 mg BD and lamotrigine 50 mg BD; check serum sodium and creatinine; reinforce post-meal rest.\n- Weight: 67 kg\n- Waist: 90.5 cm (just above male cut-off of 90 cm)\n- Diet advice:\n  - Breakfast: upma with vegetables, minimal salt.\n  - Lunch: rice with sambar, avoid papad.\n  - Dinner: light khichdi, early."
+    },
+    {
+      "memory_id": "X0462-m09",
+      "date": "2025-09-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 137 mmol/L (Ref 135-145)\nSerum Creatinine: 1.0 mg/dL (Ref 0.7-1.3)"
+    },
+    {
+      "memory_id": "X0462-m10",
+      "date": "2025-09-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I feel a bit unsteady after lunch today, maybe the rice was too heavy. Otherwise my seizures are under control."
+    },
+    {
+      "memory_id": "X0462-m11",
+      "date": "2026-02-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-03-01 10:00 AM with Dr Karthik Hegde (D04) for epilepsy follow-up."
+    },
+    {
+      "memory_id": "X0462-m12",
+      "date": "2026-03-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: No seizures reported; mild post‑prandial unsteadiness persists.\n  - Plan: Continue levetiracetam 500 mg BD and lamotrigine 50 mg BD; advise smaller, frequent meals; repeat serum sodium and creatinine in 3 months.\n- Weight: 66.8 kg\n- Waist: 90 cm (at male cut-off)\n- Diet advice:\n  - Breakfast: small idli with coconut chutney, low salt.\n  - Lunch: two small chapatis with dal, avoid heavy gravy.\n  - Dinner: vegetable stew with rice, early."
+    },
+    {
+      "memory_id": "X0462-m13",
+      "date": "2026-10-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 138 mmol/L (Ref 135-145)\nSerum Creatinine: 0.9 mg/dL (Ref 0.7-1.3)"
+    }
+  ]
+}

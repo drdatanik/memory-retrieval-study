@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0159",
+  "name": "Arumugam Ramasamy",
+  "age": 90,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Type 2 diabetes",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0159-m01",
+      "date": "2025-04-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes mellitus and rheumatoid arthritis.\nHe reports mild polyuria and occasional joint stiffness in the mornings. On exam, blood pressure 138/82, pulse 78, BMI 22. Lung fields clear, no wheeze. Hands show mild synovitis of MCP joints, no deformities. Foot pulses palpable."
+    },
+    {
+      "memory_id": "X0159-m02",
+      "date": "2025-04-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg BD\nGlimepiride 1 mg OD before breakfast\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nMethotrexate 10 mg once weekly\nFolic acid 5 mg once weekly\nHydroxychloroquine 200 mg OD\nPrednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0159-m03",
+      "date": "2025-04-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8%\nFasting plasma glucose 156 mg/dL\nUrine albumin-creatinine ratio 22 mg/g\nESR 28 mm/hr\nCRP 6 mg/L\nRheumatoid factor 28 IU/mL (positive)\nAnti-CCP 45 U/mL (borderline)\nALT 22 U/L, AST 20 U/L, ALP 78 U/L, GGT 30 U/L\nDilated fundus exam: mild microaneurysms, no macular edema."
+    },
+    {
+      "memory_id": "X0159-m04",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-01 at 10:00 AM with Dr Suresh Menon (D05) in Pulmonology clinic."
+    },
+    {
+      "memory_id": "X0159-m05",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable type 2 diabetes and rheumatoid arthritis.\nHe notes improved energy, occasional knee pain after walking. Exam: BP 132/80, pulse 76, lungs clear. Joint exam: mild tenderness in wrists, no swelling. Spirometry: FEV1 2.10 L (78% predicted), FVC 2.55 L (80% predicted), FEV1/FVC 0.82; change since baseline +0.05 L. ACT score 22 (well controlled). Technique checked: correct."
+    },
+    {
+      "memory_id": "X0159-m06",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg BD (continue)\nGlimepiride 1 mg OD (continue)\nSitagliptin 100 mg OD (continue)\nEmpagliflozin 10 mg OD (continue)\nMethotrexate 10 mg once weekly (continue)\nFolic acid 5 mg once weekly (continue)\nHydroxychloroquine 200 mg OD (continue)\nPrednisolone 5 mg OD (reduce to 2.5 mg OD)"
+    },
+    {
+      "memory_id": "X0159-m07",
+      "date": "2025-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2%\nFasting plasma glucose 138 mg/dL\nUrine albumin-creatinine ratio 18 mg/g\nESR 22 mm/hr\nCRP 4 mg/L\nRheumatoid factor 24 IU/mL\nAnti-CCP 38 U/mL\nALT 20 U/L, AST 19 U/L, ALP 75 U/L, GGT 28 U/L"
+    },
+    {
+      "memory_id": "X0159-m08",
+      "date": "2025-07-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry performed: FEV1 2.10 L (78% predicted), FVC 2.55 L (80% predicted), FEV1/FVC 0.82. No bronchodilator response. Interpretation: normal spirometry for age."
+    },
+    {
+      "memory_id": "X0159-m09",
+      "date": "2025-10-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been having more pain and swelling in my fingers and feet over the past month, especially in the mornings. It hurts to type lectures and I feel tired."
+    },
+    {
+      "memory_id": "X0159-m10",
+      "date": "2025-10-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis flare.\nHe describes increased joint pain, morning stiffness >45 minutes, fatigue. Exam: BP 136/84, pulse 80. Symmetric swelling and tenderness of MCP and PIP joints of both hands, mild synovitis of MTP joints. Lung clear."
+    },
+    {
+      "memory_id": "X0159-m11",
+      "date": "2025-10-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Methotrexate increased to 15 mg once weekly\nFolic acid 5 mg once weekly (continue)\nHydroxychloroquine 200 mg OD (continue)\nPrednisolone increased to 10 mg OD for 2 weeks then taper to 5 mg OD\nOther diabetes medications unchanged."
+    },
+    {
+      "memory_id": "X0159-m12",
+      "date": "2025-10-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 48 mm/hr\nCRP 12 mg/L\nRheumatoid factor 32 IU/mL\nAnti-CCP 52 U/mL\nALT 24 U/L, AST 22 U/L, ALP 80 U/L, GGT 32 U/L"
+    },
+    {
+      "memory_id": "X0159-m13",
+      "date": "2026-01-15",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Rheumatology, Dr Niranjan Patel, for assessment of aggressive rheumatoid arthritis and consideration of biologic therapy."
+    },
+    {
+      "memory_id": "X0159-m14",
+      "date": "2026-02-15",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Rheumatology review: patient continues methotrexate 15 mg weekly, hydroxychloroquine, low-dose prednisolone. Added sulfasalazine 500 mg BD. Advised to continue current diabetes regimen. Follow-up in 8 weeks."
+    },
+    {
+      "memory_id": "X0159-m15",
+      "date": "2026-06-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Type 2 diabetes and rheumatoid arthritis, stable on updated regimen.\nHe reports less joint swelling, morning stiffness 20 minutes, good glycaemic control. Exam: BP 130/78, pulse 76, lungs clear. Joints: mild tenderness, no effusion. Spirometry: FEV1 2.12 L (79% predicted), FVC 2.58 L (81% predicted), FEV1/FVC 0.82; change +0.02 L since last. ACT score 23 (well controlled). Technique checked: correct."
+    },
+    {
+      "memory_id": "X0159-m16",
+      "date": "2026-06-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg BD\nGlimepiride 1 mg OD\nSitagliptin 100 mg OD\nEmpagliflozin 10 mg OD\nMethotrexate 15 mg once weekly\nFolic acid 5 mg once weekly\nHydroxychloroquine 200 mg OD\nPrednisolone 5 mg OD\nSulfasalazine 500 mg BD (added per rheumatology)"
+    },
+    {
+      "memory_id": "X0159-m17",
+      "date": "2026-09-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.9%\nFasting plasma glucose 124 mg/dL\nUrine albumin-creatinine ratio 15 mg/g\nESR 18 mm/hr\nCRP 3 mg/L\nRheumatoid factor 22 IU/mL\nAnti-CCP 30 U/mL\nALT 21 U/L, AST 19 U/L, ALP 76 U/L, GGT 29 U/L\nDilated fundus exam: stable mild microaneurysms, no progression."
+    }
+  ]
+}

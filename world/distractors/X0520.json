@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0520",
+  "name": "Neelam Tiwari",
+  "age": 27,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Psoriasis",
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0520-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports no difficulty with ADLs, works from home preparing lessons, walks 30 minutes daily.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal) – negative screen.\nfalls: 0 falls in last 12 months; gait steady; timed up-and-go 9 seconds – normal fall risk.\nmedicines: 6 regular (clobetasol 0.05% cream BD topically, calcipotriol ointment OD topically, methotrexate 7.5 mg PO weekly, folic acid 5 mg OD, escitalopram 5 mg OD, buspirone 5 mg BD) – polypharmacy, review against Beers criteria advised.\nmood: GAD-7 6 (mild anxiety), reports occasional worry, sleep adequate.\ncarers: none (lives alone).\ngoals: \"I want clear skin and to feel calmer day‑to‑day.\""
+    },
+    {
+      "memory_id": "X0520-m02",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function: ALT 22 U/L (7‑35), AST 20 U/L (8‑33), ALKP 68 U/L (30‑120), GGT 18 U/L (0‑51), bilirubin 0.9 mg/dL (0.2‑1.2).\nComplete blood count: Hb 13.2 g/dL (12‑16), WBC 6.2 x10^9/L (4‑10), platelets 210 x10^9/L (150‑400).\nSerum creatinine: 0.78 mg/dL (0.5‑0.9).\nTSH: 2.1 µIU/mL (0.4‑4.0).\nHemoglobin (repeat): 13.2 g/dL.\nAll within normal limits."
+    },
+    {
+      "memory_id": "X0520-m03",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: continues independent ADLs, occasional joint stiffness after long sitting, no new limitations.\ncognition: Mini-Cog not repeated (annual due next April).\nfalls: 0 falls; gait normal; timed up-and-go 9 seconds – low fall risk.\nmedicines: 6 regular as before – polypharmacy, Beers review pending.\nmood: GAD-7 7 (mild anxiety), reports improved sleep after escitalopram titration.\ncarers: none.\ngoals: \"Still aiming for clearer skin and less anxiety.\""
+    },
+    {
+      "memory_id": "X0520-m04",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 10 mg PO once weekly\nfolic acid 5 mg OD\nclobetasol 0.05% cream BD topically\ncalcipotriol ointment OD topically\nescitalopram 5 mg OD\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0520-m05",
+      "date": "2025-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function: ALT 55 U/L (7‑35) – mild elevation, AST 30 U/L (8‑33), ALKP 70 U/L (30‑120), GGT 22 U/L (0‑51), bilirubin 0.9 mg/dL.\nComplete blood count: Hb 13.0 g/dL, WBC 5.9 x10^9/L, platelets 205 x10^9/L.\nSerum creatinine: 0.80 mg/dL.\nTSH: 2.0 µIU/mL.\nOther labs unchanged."
+    },
+    {
+      "memory_id": "X0520-m06",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild fatigue, no change in ADLs.\ncognition: Mini-Cog not due yet.\nfalls: 0 falls; gait normal; timed up-and-go 9 seconds – low risk.\nmedicines: methotrexate held due to ALT elevation; other 5 regular meds continue – now 5 regular (below polypharmacy threshold).\nmood: GAD-7 8 (mild anxiety), notes occasional work stress.\ncarers: none.\ngoals: \"Hope to restart skin meds safely and keep anxiety low.\""
+    },
+    {
+      "memory_id": "X0520-m07",
+      "date": "2025-11-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more anxious lately, especially about work deadlines. My skin is okay but I worry it might flare if I stress."
+    },
+    {
+      "memory_id": "X0520-m08",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs intact, reports occasional neck tension from stress.\ncognition: Mini-Cog repeated (annual) – score 4/5, negative.\nfalls: 0 falls; gait normal; timed up-and-go 9 seconds – low risk.\nmedicines: escitalopram increased to 10 mg OD, buspirone continued 5 mg BD; topical psoriasis meds unchanged; methotrexate remains held.\nTotal regular meds: 5 (clobetasol, calcipotriol, escitalopram, buspirone, folic acid) – no polypharmacy.\nmood: GAD-7 11 (moderate anxiety), reports worsened worry and difficulty concentrating.\ncarers: none.\ngoals: \"I want to feel less on edge and keep my skin under control.\""
+    },
+    {
+      "memory_id": "X0520-m09",
+      "date": "2026-02-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function: ALT 28 U/L (7‑35), AST 22 U/L (8‑33), ALKP 66 U/L (30‑120), GGT 19 U/L (0‑51), bilirubin 0.8 mg/dL.\nComplete blood count: Hb 13.1 g/dL, WBC 6.0 x10^9/L, platelets 212 x10^9/L.\nSerum creatinine: 0.79 mg/dL.\nTSH: 2.2 µIU/mL.\nAll normalized."
+    },
+    {
+      "memory_id": "X0520-m10",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 7.5 mg PO once weekly\nfolic acid 5 mg OD\nclobetasol 0.05% cream BD topically\ncalcipotriol ointment OD topically\nescitalopram 10 mg OD\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0520-m11",
+      "date": "2026-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function: ALT 24 U/L (7‑35), AST 20 U/L (8‑33), ALKP 65 U/L (30‑120), GGT 18 U/L (0‑51), bilirubin 0.9 mg/dL.\nComplete blood count: Hb 13.3 g/dL, WBC 6.1 x10^9/L, platelets 215 x10^9/L.\nSerum creatinine: 0.77 mg/dL.\nTSH: 2.1 µIU/mL.\nStable."
+    },
+    {
+      "memory_id": "X0520-m12",
+      "date": "2026-06-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-07-05 at 10:30 AM with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0520-m13",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports good energy, able to attend community volunteer sessions twice weekly.\ncognition: Mini‑Cog not due yet.\nfalls: 0 falls in last year; gait normal; timed up‑and‑go 9 seconds – low fall risk.\nmedicines: 6 regular (clobetasol, calcipotriol, methotrexate 7.5 mg weekly, folic acid, escitalopram 10 mg OD, buspirone 5 mg BD) – polypharmacy, Beers review scheduled.\nmood: GAD-7 6 (mild anxiety), notes improved coping.\ncarers: none.\ngoals: \"Maintain clear skin and stay calm.\""
+    },
+    {
+      "memory_id": "X0520-m14",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver function: ALT 21 U/L (7‑35), AST 19 U/L (8‑33), ALKP 63 U/L (30‑120), GGT 17 U/L (0‑51), bilirubin 0.8 mg/dL.\nComplete blood count: Hb 13.4 g/dL (12‑16), WBC 6.3 x10^9/L (4‑10), platelets 218 x10^9/L (150‑400).\nSerum creatinine: 0.76 mg/dL (0.5‑0.9).\nTSH: 2.0 µIU/mL (0.4‑4.0).\nHemoglobin: 13.4 g/dL.\nAll values within normal limits."
+    }
+  ]
+}

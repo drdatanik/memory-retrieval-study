@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0153",
+  "name": "Philip Thomas",
+  "age": 82,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Migraine",
+    "Generalised anxiety disorder",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0153-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up of migraine, anxiety and type 2 diabetes.\n\nPRESENTING COMPLAINT: He reports occasional throbbing frontal headaches relieved by sumatriptan, mild worry and restless sleep, and stable polyuria. No hypoglycaemic episodes.\n\nEXAMINATION: BP 138/84 mmHg, weight 70 kg, height 1.68 m, BMI 24.8 (overweight). Pulse regular, fundoscopic view normal, neurological exam shows no focal deficit.\n\nIMPRESSION: Migraine controlled on prophylactic propranolol; generalised anxiety disorder stable on escitalopram and buspirone; diabetes well controlled with metformin and glimepiride. Advised weight reduction as BMI is overweight.\n\nARRANGEMENTS: Continue propranolol 40 mg OD, sumatriptan 50 mg SOS, topiramate 25 mg HS, naproxen 500 mg SOS; escitalopram 5 mg OD, buspirone 5 mg BD; metformin 500 mg BD, glimepiride 1 mg OD before breakfast. Review in 3 months. Return if new visual loss, severe headache with vomiting, chest pain, or fever >39°C."
+    },
+    {
+      "memory_id": "X0153-m02",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine review with lipid screen and diabetes check.\n\nPRESENTING COMPLAINT: He notes headaches less frequent, anxiety unchanged, and occasional leg swelling after long walks.\n\nEXAMINATION: BP 142/88 mmHg, weight 71 kg, BMI 25.2 (obese). Mild pitting edema ankles. Cardiovascular and respiratory exams normal.\n\nIMPRESSION: Migraine improved; anxiety stable; diabetes control adequate but weight increased to obese range. Lipids show borderline LDL; fasting glucose normal. Reinforce diet and activity due to obesity.\n\nARRANGEMENTS: Increase metformin to 850 mg BD; continue glimepiride 1 mg OD, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Keep migraine and anxiety meds unchanged. Order fasting lipid profile and fasting blood sugar today. Review in 3 months. Return if worsening edema, dyspnea, chest pain, or sudden vision change."
+    },
+    {
+      "memory_id": "X0153-m03",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.2 mmol/L (ref <5.2), LDL 3.1 mmol/L (ref <2.6), HDL 1.2 mmol/L (ref >1.0), triglycerides 1.8 mmol/L (ref <1.7). Fasting blood glucose 98 mg/dL (ref 70‑100)."
+    },
+    {
+      "memory_id": "X0153-m04",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Autumn review; influenza vaccine offered.\n\nPRESENTING COMPLAINT: He reports a mild frontal headache yesterday relieved by sumatriptan, anxiety unchanged, and no urinary symptoms.\n\nEXAMINATION: BP 140/86 mmHg, weight 70.5 kg, BMI 24.9 (overweight). No edema. Lung fields clear.\n\nIMPRESSION: Migraine occasional; anxiety stable; diabetes controlled. BMI at upper limit of overweight; advise continued moderate activity.\n\nARRANGEMENTS: Continue current meds. Give influenza vaccine (inactivated) today, 2025-10-20. Review in 3 months. Return if new neurologic deficit, persistent headache >24 h, fever >39°C, or hypoglycaemia with sweating."
+    },
+    {
+      "memory_id": "X0153-m05",
+      "date": "2025-10-20",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Neurology for evaluation of refractory migraine despite prophylactic propranolol and topiramate. Request EEG and migraine diary review."
+    },
+    {
+      "memory_id": "X0153-m06",
+      "date": "2025-12-05",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Neurology review: EEG normal, migraine diary shows 4‑5 days/month headache. Recommended adding amitriptyline 10 mg HS and continuing current prophylaxis. No urgent intervention needed."
+    },
+    {
+      "memory_id": "X0153-m07",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Winter check‑up; diabetes parameters reviewed.\n\nPRESENTING COMPLAINT: He notes increased thirst and nocturia twice nightly; headaches rare; anxiety mild.\n\nEXAMINATION: BP 145/90 mmHg, weight 71 kg, BMI 25.3 (obese). Random capillary glucose 162 mg/dL.\n\nIMPRESSION: Migraine well controlled; anxiety stable; diabetes shows hyperglycaemia suggesting need for tighter control. BMI obese; reinforce diet and activity.\n\nARRANGEMENTS: Add sitagliptin 100 mg OD (already on) and consider increasing empagliflozin; continue metformin 850 mg BD, glimepiride 1 mg OD. Order HbA1c and urine albumin‑creatinine ratio today. Review in 1 month. Return if polyuria worsens, weight loss, or chest pain."
+    },
+    {
+      "memory_id": "X0153-m08",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.8% (ref 4.0‑5.6). Fasting plasma glucose 126 mg/dL (ref 70‑100)."
+    },
+    {
+      "memory_id": "X0153-m09",
+      "date": "2026-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more worried lately, especially about my finances, and I’m having trouble sleeping even though I take my escitalopram. The headaches are still rare."
+    },
+    {
+      "memory_id": "X0153-m10",
+      "date": "2026-07-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Mid‑year review with renal screen.\n\nPRESENTING COMPLAINT: He reports occasional mild headache, anxiety improved after counseling, and no new urinary symptoms.\n\nEXAMINATION: BP 138/82 mmHg, weight 70 kg, BMI 24.8 (overweight). No edema.\n\nIMPRESSION: Migraine controlled; anxiety improved; diabetes stable with current regimen. Urine albumin‑creatinine ratio shows early microalbuminuria.\n\nARRANGEMENTS: Stop glimepiride 1 mg OD due to risk of hypoglycaemia with empagliflozin; continue metformin 850 mg BD, sitagliptin 100 mg OD, empagliflozin 10 mg OD. Keep migraine and anxiety meds unchanged. Review in 3 months. Return if symptomatic hypoglycaemia, persistent headache, or worsening edema."
+    },
+    {
+      "memory_id": "X0153-m11",
+      "date": "2026-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Urine albumin‑creatinine ratio 22 mg/mmol (ref <3.0)."
+    },
+    {
+      "memory_id": "X0153-m12",
+      "date": "2026-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Patient booked a follow‑up visit with Dr Priya Natarajan for 2026-10-08 at 10:30 am. Please confirm."
+    },
+    {
+      "memory_id": "X0153-m13",
+      "date": "2026-10-08",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Autumn review; influenza vaccine administered.\n\nPRESENTING COMPLAINT: He states headaches are infrequent, anxiety well managed, and no urinary complaints.\n\nEXAMINATION: BP 136/80 mmHg, weight 69.5 kg, BMI 24.6 (overweight). Lung clear.\n\nIMPRESSION: Migraine controlled; anxiety stable; diabetes well controlled; BMI overweight, advise continued walking and reduced refined carbs.\n\nARRANGEMENTS: Continue metformin 850 mg BD, sitagliptin 100 mg OD, empagliflozin 10 mg OD; propranolol 40 mg OD, sumatriptan 50 mg SOS, topiramate 25 mg HS, naproxen 500 mg SOS; escitalopram 5 mg OD, buspirone 5 mg BD. Give influenza vaccine (inactivated) today, 2026-10-08. Review in 4 months. Return if new visual loss, severe headache with vomiting, chest pain, or fever >39°C."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0494",
+  "name": "Amit Sharma",
+  "age": 82,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Obesity",
+    "Glaucoma",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0494-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 92 kg, waist circumference 96 cm (>90 cm cut-off for men).\n  - Plan: Continue orlistat 120 mg TID with meals. Diet: breakfast – high‑fibre cereal, low‑fat milk; lunch – mixed vegetable curry with lean protein, limited rice; dinner – grilled fish, steamed vegetables, small portion of roti. Review weight and waist in 3 months.\n- Glaucoma\n  - Status: On timolol BD and latanoprost HS; no visual symptoms reported.\n  - Plan: Continue current drops. Schedule intraocular pressure check and visual field test in 4 months.\n- Hypertension\n  - Status: BP today 148/92 mmHg.\n  - Plan: Continue amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD. Aim for BP <130/80 mmHg.\nDue: HbA1c re‑check in 3 months (2025‑07‑05)."
+    },
+    {
+      "memory_id": "X0494-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Orlistat 120 mg TID with meals\nAmlodipine 5 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD\nTimolol 0.5% eye drops BD\nLatanoprost 0.005% eye drops HS"
+    },
+    {
+      "memory_id": "X0494-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose: 118 mg/dL (70‑100)\nHbA1c: 7.8% (4‑5.6)\nTotal cholesterol: 210 mg/dL (<200)\nTriglycerides: 165 mg/dL (<150)\nHDL cholesterol: 38 mg/dL (>40)\nLDL cholesterol: 124 mg/dL (<100)\nALT: 28 U/L (<40)\nAST: 24 U/L (<40)\nALP: 78 U/L (<120)\nTotal bilirubin: 0.9 mg/dL (<1.2)\nSerum creatinine: 1.1 mg/dL (0.6‑1.2)\neGFR: 62 mL/min/1.73m2 (>60)\nSerum potassium: 4.3 mmol/L (3.5‑5.0)"
+    },
+    {
+      "memory_id": "X0494-m04",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I have felt occasional light‑headedness when I get up quickly from a chair, and my eyes feel a bit heavy in the mornings after using the drops.\""
+    },
+    {
+      "memory_id": "X0494-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 90 kg, waist 95 cm (still >90 cm).\n  - Plan: Continue orlistat. Diet advice unchanged; add 15‑minute walk after dinner. Re‑check weight in 3 months.\n- Glaucoma\n  - Status: IOP right eye 22 mmHg, left 21 mmHg (target <21). No visual field defects noted.\n  - Plan: Continue timolol BD and latanoprost HS. Reinforce proper instillation technique.\n- Hypertension\n  - Status: BP 142/88 mmHg.\n  - Plan: Increase amlodipine to 10 mg OD; keep other agents. Aim for BP <130/80.\nDue: HbA1c re‑check in 3 months (2025‑10‑10)."
+    },
+    {
+      "memory_id": "X0494-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Orlistat 120 mg TID with meals\nAmlodipine 10 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD\nTimolol 0.5% eye drops BD\nLatanoprost 0.005% eye drops HS"
+    },
+    {
+      "memory_id": "X0494-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose: 115 mg/dL\nHbA1c: 7.5%\nTotal cholesterol: 202 mg/dL\nTriglycerides: 158 mg/dL\nHDL: 40 mg/dL\nLDL: 115 mg/dL\nALT: 26 U/L\nAST: 22 U/L\nALP: 75 U/L\nBilirubin: 0.8 mg/dL\nCreatinine: 1.0 mg/dL\neGFR: 66 mL/min/1.73m2\nPotassium: 4.2 mmol/L"
+    },
+    {
+      "memory_id": "X0494-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 89 kg, waist 94 cm.\n  - Plan: Continue orlistat. Encourage portion control; replace rice with millet twice weekly.\n- Glaucoma\n  - Status: IOP right 23 mmHg, left 22 mmHg; mild peripheral haze reported.\n  - Plan: Add brimonidine 0.1% eye drops TID to improve IOP control.\n- Hypertension\n  - Status: BP 138/84 mmHg.\n  - Plan: Keep current regimen; monitor for edema.\nDue: HbA1c re‑check in 3 months (2026‑01‑02). Lipid profile due yearly (next 2026‑04‑02)."
+    },
+    {
+      "memory_id": "X0494-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Orlistat 120 mg TID with meals\nAmlodipine 10 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD\nTimolol 0.5% eye drops BD\nLatanoprost 0.005% eye drops HS\nBrimonidine 0.1% eye drops TID"
+    },
+    {
+      "memory_id": "X0494-m10",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Visual field test (Humphrey 24‑2): Mean deviation -0.8 dB, pattern standard deviation 1.4 dB – within normal limits. Optic disc assessment: cup‑to‑disc ratio 0.45 both eyes, no notch or hemorrhage. Stable glaucoma."
+    },
+    {
+      "memory_id": "X0494-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 87 kg, waist 92 cm (still >90 cm).\n  - Plan: Discontinue orlistat due to persistent oily stools; focus on diet and activity. Continue low‑fat diet, increase walking to 30 min daily.\n- Glaucoma\n  - Status: IOP right 20 mmHg, left 19 mmHg on current regimen.\n  - Plan: Continue timolol, latanoprost, brimonidine.\n- Hypertension\n  - Status: BP 132/80 mmHg.\n  - Plan: Maintain current drugs; consider reducing hydrochlorothiazide if potassium rises.\nDue: HbA1c re‑check in 3 months (2026‑04‑15)."
+    },
+    {
+      "memory_id": "X0494-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Stop Orlistat\nAmlodipine 10 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD\nTimolol 0.5% eye drops BD\nLatanoprost 0.005% eye drops HS\nBrimonidine 0.1% eye drops TID"
+    },
+    {
+      "memory_id": "X0494-m13",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose: 112 mg/dL\nHbA1c: 7.2%\nTotal cholesterol: 198 mg/dL\nTriglycerides: 150 mg/dL\nHDL: 42 mg/dL\nLDL: 108 mg/dL\nALT: 24 U/L\nAST: 20 U/L\nALP: 70 U/L\nBilirubin: 0.7 mg/dL\nCreatinine: 0.9 mg/dL\neGFR: 70 mL/min/1.73m2\nPotassium: 4.4 mmol/L"
+    },
+    {
+      "memory_id": "X0494-m14",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked with Dr Karthik Hegde (D04) for 2026‑08‑05 at 10:30 am. Patient to bring recent home BP log and glaucoma drop diary."
+    },
+    {
+      "memory_id": "X0494-m15",
+      "date": "2026-07-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Obesity\n  - Status: Weight 85 kg, waist 88 cm (now within male cut‑off).\n  - Plan: Continue diet and walking; no pharmacologic agent needed.\n- Glaucoma\n  - Status: IOP right 19 mmHg, left 18 mmHg on timolol, latanoprost, brimonidine.\n  - Plan: Continue current drops; repeat visual field in 6 months.\n- Hypertension\n  - Status: BP 128/76 mmHg.\n  - Plan: Maintain amlodipine 10 mg OD, telmisartan 40 mg OD, losartan 50 mg OD; consider tapering hydrochlorothiazide to 6.25 mg OD if potassium stays >4.5.\nDue: HbA1c re‑check in 3 months (2026‑10‑30). Lipid profile due yearly (next 2027‑04‑20)."
+    }
+  ]
+}

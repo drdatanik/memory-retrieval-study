@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0170",
+  "name": "Jyothi Vemula",
+  "age": 21,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Hypertension",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0170-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 138/86 mmHg, weight 58 kg, waist 78 cm (<80 cm cut-off).\n  - Plan: Start amlodipine 5 mg OD morning after food, telmisartan 40 mg OD morning after food. Advise low‑salt diet, avoid processed snacks.\n- Migraine\n  - Status: 2‑3 episodes/month, each lasting 4‑6 hrs, sumatriptan used SOS.\n  - Plan: Start propranolol 40 mg OD morning after food for prophylaxis, topiramate 25 mg HS. Counsel regular sleep, hydration.\n- Diet advice\n  - Breakfast: whole grain toast with egg, no added salt.\n  - Lunch: rice, dal, vegetable curry, limited pickle.\n  - Dinner: chapati, lean curd, avoid fried items.\n- Due: next review in 3 months."
+    },
+    {
+      "memory_id": "X0170-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg OD morning after food\ntelmisartan 40 mg OD morning after food\npropranolol 40 mg OD morning after food\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS after food"
+    },
+    {
+      "memory_id": "X0170-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.8 mg/dL (0.6‑1.2)\neGFR 95 mL/min/1.73m2 (>60)\nSerum potassium 4.2 mmol/L (3.5‑5.0)\nLipid profile: Total cholesterol 165 mg/dL (<200), HDL 48 mg/dL (>40), LDL 95 mg/dL (<130), Triglycerides 110 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0170-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 130/82 mmHg, weight 57.5 kg, waist 77 cm.\n  - Plan: Add losartan 50 mg OD morning after food; continue amlodipine & telmisartan. Reinforce salt restriction.\n- Migraine\n  - Status: 1‑2 episodes/month, sumatriptan effective.\n  - Plan: Continue propranolol, topiramat 25 mg HS. Advise migraine diary.\n- Diet advice\n  - Breakfast: oats with milk, no sugar.\n  - Lunch: millet rice, sambar, steamed veg.\n  - Dinner: roti, curd, avoid deep‑fried.\n- Due: next review in 3 months."
+    },
+    {
+      "memory_id": "X0170-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg OD morning after food\ntelmisartan 40 mg OD morning after food\nlosartan 50 mg OD morning after food\npropranolol 40 mg OD morning after food\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS after food"
+    },
+    {
+      "memory_id": "X0170-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.82 mg/dL (0.6‑1.2)\neGFR 93 mL/min/1.73m2\nSerum potassium 4.3 mmol/L (3.5‑5.0)"
+    },
+    {
+      "memory_id": "X0170-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 128/80 mmHg, weight 57 kg, waist 76 cm.\n  - Plan: Continue current regimen; monitor for edema.\n- Migraine\n  - Status: 1 episode/month, mild.\n  - Plan: Continue prophylactic meds; consider tapering topiramate if dizziness persists.\n- Diet advice\n  - Breakfast: poha with peanuts, no added salt.\n  - Lunch: brown rice, rasam, vegetable stir‑fry.\n  - Dinner: chapati, lentil soup, avoid papad.\n- Due: next review in 3 months."
+    },
+    {
+      "memory_id": "X0170-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg OD morning after food\ntelmisartan 40 mg OD morning after food\nlosartan 50 mg OD morning after food\npropranolol 40 mg OD morning after food\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS after food"
+    },
+    {
+      "memory_id": "X0170-m09",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG: Sinus rhythm, rate 78 bpm. No ST‑T changes, no QRS prolongation. Normal voltage. No evidence of ischemia or hypertrophy."
+    },
+    {
+      "memory_id": "X0170-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 132/84 mmHg, weight 58 kg, waist 79 cm (approaching 80 cm cut‑off).\n  - Plan: Stop hydrochlorothiazide (not currently prescribed) – actually continue current triple therapy; advise weight control, reduce carbohydrate intake.\n- Migraine\n  - Status: 2 episodes/month, sumatriptan used twice.\n  - Plan: Continue propranolol, consider increasing topiramate to 50 mg HS if tolerated.\n- Diet advice\n  - Breakfast: multigrain toast with avocado, no salt.\n  - Lunch: quinoa, dal, sautéed greens.\n  - Dinner: roti, curd, avoid sweets.\n- Due: next review in 3 months."
+    },
+    {
+      "memory_id": "X0170-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg OD morning after food\ntelmisartan 40 mg OD morning after food\nlosartan 50 mg OD morning after food\npropranolol 40 mg OD morning after food\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS after food"
+    },
+    {
+      "memory_id": "X0170-m12",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed my migraines are worse when I skip meals during site visits. I usually have only tea and biscuits. Can you suggest a quick, portable snack that won’t trigger headaches?"
+    },
+    {
+      "memory_id": "X0170-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypertension\n  - Status: BP 126/80 mmHg, weight 57.5 kg, waist 78 cm.\n  - Plan: Continue amlodipine, telmisartan, losartan. Reinforce low‑salt, high‑fiber diet.\n- Migraine\n  - Status: 1 episode/month, sumatriptan effective.\n  - Plan: Continue propranolol 40 mg OD, topiramate 25 mg HS. Advise regular meals, hydration.\n- Diet advice\n  - Breakfast: idli with sambar, no chutney high in salt.\n  - Lunch: millet rice, vegetable kurma.\n  - Dinner: chapati, paneer bhurji, avoid papad.\n- Due: next review in 3 months."
+    },
+    {
+      "memory_id": "X0170-m14",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-07-20 at 10:30 AM with Dr Karthik Hegde (D04)."
+    }
+  ]
+}

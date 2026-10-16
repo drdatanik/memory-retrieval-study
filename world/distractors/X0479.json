@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0479",
+  "name": "Mousumi Dasgupta",
+  "age": 90,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Glaucoma",
+    "Vitamin D deficiency",
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0479-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma, vitamin D deficiency, and insomnia are stable.\nEvidence: IOP 18 mmHg OD, 19 mmHg OS; visual field full; optic disc cupping 0.4. Serum 25‑OH vitamin D 22 ng/mL (low), calcium 9.2 mg/dL, phosphate 3.5 mg/dL. Insomnia Severity Index 14, TSH 2.1 mIU/L, Hb 13.2 g/dL.\nShe reports occasional difficulty falling asleep, denies eye pain or visual blur. On exam: pupils equal reactive, lids normal, no conjunctival injection."
+    },
+    {
+      "memory_id": "X0479-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops 1 gtt OD BD\nlatanoprost 0.005% eye drops 1 gtt OS HS\ncholecalciferol 60000 IU PO once weekly for 8 weeks\nmelatonin 3 mg PO HS\ntrazodone 50 mg PO HS"
+    },
+    {
+      "memory_id": "X0479-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "IOP: OD 18 mmHg (10‑21), OS 19 mmHg (10‑21)\nVisual field: full threshold, no defect\nOptic disc: cup/disc ratio 0.4\nSerum 25‑OH vitamin D: 22 ng/mL (30‑100)\nSerum calcium: 9.2 mg/dL (8.5‑10.5)\nSerum phosphate: 3.5 mg/dL (2.5‑4.5)\nInsomnia Severity Index: 14 (0‑28, <8 no insomnia)\nTSH: 2.1 mIU/L (0.4‑4.0)\nHaemoglobin: 13.2 g/dL (12.0‑15.0)"
+    },
+    {
+      "memory_id": "X0479-m04",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Messaged via app: Still waking up at 3 am most nights, feeling tired in the mornings. Eye drops fine, no irritation."
+    },
+    {
+      "memory_id": "X0479-m05",
+      "date": "2025-06-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency improving; glaucoma and insomnia unchanged.\nEvidence: IOP 17 OD, 18 OS; visual field stable; cup/disc 0.4. Serum 25‑OH vitamin D 38 ng/mL (now sufficient). Calcium 9.4, phosphate 3.6. Insomnia Severity Index 13, TSH 2.0, Hb 13.0.\nShe reports sleep onset still ~30 min, uses melatonin nightly. No ocular symptoms."
+    },
+    {
+      "memory_id": "X0479-m06",
+      "date": "2025-06-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH vitamin D: 38 ng/mL (30‑100)\nSerum calcium: 9.4 mg/dL (8.5‑10.5)\nSerum phosphate: 3.6 mg/dL (2.5‑4.5)"
+    },
+    {
+      "memory_id": "X0479-m07",
+      "date": "2025-06-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "cholecalciferol 1000 IU PO OD (maintenance)\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0479-m08",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma controlled; vitamin D sufficient; insomnia mildly improved.\nEvidence: IOP 16 OD, 17 OS; visual field no change; cup/disc 0.4. Serum 25‑OH vitamin D 42 ng/mL. Calcium 9.5, phosphate 3.7. Insomnia Severity Index 11, TSH 2.2, Hb 13.1.\nShe notes falling asleep faster, ~20 min latency, uses trazodone occasionally."
+    },
+    {
+      "memory_id": "X0479-m09",
+      "date": "2025-09-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "IOP: OD 16 mmHg, OS 17 mmHg\nVisual field: stable\nOptic disc: cup/disc 0.4\nSerum 25‑OH vitamin D: 42 ng/mL\nSerum calcium: 9.5 mg/dL\nSerum phosphate: 3.7 mg/dL\nInsomnia Severity Index: 11\nTSH: 2.2 mIU/L\nHaemoglobin: 13.1 g/dL"
+    },
+    {
+      "memory_id": "X0479-m10",
+      "date": "2025-09-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2025-09-15 10:00 to 2025-10-20 14:00 per patient request."
+    },
+    {
+      "memory_id": "X0479-m11",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma stable; vitamin D adequate; insomnia better.\nEvidence: IOP 15 OD, 16 OS; visual field unchanged; cup/disc 0.4. Serum 25‑OH vitamin D 44 ng/mL. Calcium 9.6, phosphate 3.8. Insomnia Severity Index 9, TSH 2.0, Hb 13.3.\nShe reports sleep latency ~15 min, feels rested. No ocular complaints."
+    },
+    {
+      "memory_id": "X0479-m12",
+      "date": "2025-10-22",
+      "type": "prescription",
+      "author": "D05",
+      "text": "timolol 0.5% eye drops 1 gtt OD daily (reduced from BD)\nlatanoprost 0.005% eye drops 1 gtt OS HS unchanged\nMelatonin 3 mg HS continued\nTrazodone 50 mg HS PRN for insomnia"
+    },
+    {
+      "memory_id": "X0479-m13",
+      "date": "2026-02-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "IOP: OD 15 mmHg, OS 16 mmHg\nVisual field: full, no defect\nOptic disc: cup/disc 0.4\nSerum 25‑OH vitamin D: 45 ng/mL\nSerum calcium: 9.6 mg/dL\nSerum phosphate: 3.8 mg/dL"
+    },
+    {
+      "memory_id": "X0479-m14",
+      "date": "2026-04-15",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Dr. Lakshmi Narayan, Ophthalmology, for glaucoma assessment and possible surgical evaluation. Patient IOP consistently 15‑16 mmHg, visual field stable, cup/disc 0.4. No progression noted but long‑term monitoring advised."
+    },
+    {
+      "memory_id": "X0479-m15",
+      "date": "2026-05-20",
+      "type": "referral_outcome",
+      "author": "lab",
+      "text": "Ophthalmology report: IOP 15 OD, 16 OS; visual field stable; optic disc cupping 0.4. No evidence of progression. Continue medical management. No surgery indicated at this time. Return to pulmonology for routine follow‑up."
+    },
+    {
+      "memory_id": "X0479-m16",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Glaucoma, vitamin D deficiency, insomnia all well controlled.\nEvidence: IOP 14 OD, 15 OS; visual field unchanged; cup/disc 0.4. Serum 25‑OH vitamin D 48 ng/mL. Calcium 9.7, phosphate 3.9. Insomnia Severity Index 7, TSH 1.9, Hb 13.5.\nShe denies any ocular symptoms, reports sleep latency <10 min, feels energetic. Advise to continue current regimen and review in 6 months."
+    }
+  ]
+}

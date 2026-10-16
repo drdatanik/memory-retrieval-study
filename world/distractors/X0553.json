@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0553",
+  "name": "Ila Desai",
+  "age": 67,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Benign positional vertigo",
+    "Irritable bowel syndrome",
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0553-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Visit for review of vertigo, IBS and anxiety.\nPRESENTING COMPLAINT: Patient reports episodic spinning sensation lasting seconds, triggered by head movements; abdominal bloating and occasional diarrhea; worry and tension most days.\nEXAMINATION: General: alert, oriented. BP 138/86 mmHg, weight 68 kg, BMI 28.3 (obese). Advise diet low in salt, regular walking 30 minutes daily. ENT: Dix-Hallpike test pending. Abdomen: soft, non-tender. Neuro: normal.\nIMPRESSION: 1. Benign positional vertigo, likely posterior canalithiasis. 2. Irritable bowel syndrome, diarrhoea-predominant. 3. Generalised anxiety disorder, moderate. Annual fasting lipid profile and fasting blood sugar ordered.\nARRANGEMENTS: Start betahistine 16 mg BD, meclizine 25 mg SOS for vertigo; mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS for IBS; escitalopram 5 mg OD, buspirone 5 mg BD for anxiety. Review in 3 months. Return if: sudden severe vertigo with vomiting, black/tarry stools, fever >39°C, chest pain, or worsening anxiety with panic attacks."
+    },
+    {
+      "memory_id": "X0553-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Betahistine 16 mg twice daily\nMeclizine 25 mg as needed\nMebeverine 135 mg twice daily\nIspaghula husk 5 g once daily\nLoperamide 2 mg as needed\nEscitalopram 5 mg once daily\nBuspirone 5 mg twice daily"
+    },
+    {
+      "memory_id": "X0553-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 5.2 mmol/L (<5.2 normal), LDL 3.4 mmol/L (<2.6 high), HDL 1.2 mmol/L (>1.0 normal), Triglycerides 1.8 mmol/L (<1.7 borderline).\nFasting blood sugar: 6.1 mmol/L (3.9-5.5 normal, prediabetes)."
+    },
+    {
+      "memory_id": "X0553-m04",
+      "date": "2025-04-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Dix-Hallpike test: Positive for posterior canal BPPV on the right side; torsional upbeat nystagmus observed."
+    },
+    {
+      "memory_id": "X0553-m05",
+      "date": "2025-04-16",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Audiometry (pure tone average): Right ear 25 dB HL, Left ear 22 dB HL; bilateral mild high-frequency loss, consistent with age-related changes."
+    },
+    {
+      "memory_id": "X0553-m06",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Vertigo episodes have decreased to about twice a week, less severe. Bloating better with ispaghula husk. Still feel anxious most days, but sleeping improved."
+    },
+    {
+      "memory_id": "X0553-m07",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow-up for vertigo, IBS and anxiety.\nPRESENTING COMPLAINT: Vertigo now occasional, mild; abdominal discomfort with loose stools twice weekly; reports persistent worry and muscle tension.\nEXAMINATION: BP 134/82 mmHg, weight 67 kg, BMI 27.9 (obese). Advise reduce refined carbs, add yoga twice weekly. ENT: symptom‑guided Dix‑Hallpike negative today. Abdomen: mild tenderness in left lower quadrant, no masses. Neuro: normal.\nIMPRESSION: 1. Improving benign positional vertigo. 2. IBS with mixed pattern, likely exacerbated by stress. 3. Generalised anxiety disorder, moderate‑severe. Lipids and FBS from April show borderline high LDL and prediabetes; will repeat in January.\nARRANGEMENTS: Continue betahistine 16 mg BD; stop meclizine SOS (no longer needed). Increase mebeverine to 135 mg TDS; continue ispaghula husk 5 g OD; add loperamide 2 mg SOS only for diarrhoea. Escitalopram increase to 10 mg OD; buspirone continue 5 mg BD. Review in 3 months. Return if: vertigo with falling, blood in stool, weight loss >3 kg, fever >39°C, or panic attacks with chest pain."
+    },
+    {
+      "memory_id": "X0553-m08",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Betahistine 16 mg twice daily\nMebeverine 135 mg three times daily\nIspaghula husk 5 g once daily\nLoperamide 2 mg as needed\nEscitalopram 10 mg once daily\nBuspirone 5 mg twice daily"
+    },
+    {
+      "memory_id": "X0553-m09",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Complete blood count: Hb 12.8 g/L (12-16 normal), WBC 6.2 x10^9/L (4-10 normal), Platelets 210 x10^9/L (150-400 normal).\nStool routine: Ova and parasites nil, pus cells 0-2/hpf.\ntTG‑IgA: <4 U/mL (<7 negative)."
+    },
+    {
+      "memory_id": "X0553-m10",
+      "date": "2025-08-01",
+      "type": "investigation",
+      "author": "D03",
+      "text": "GAD‑7 score: 12 (moderate‑severe anxiety)."
+    },
+    {
+      "memory_id": "X0553-m11",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Autumn review of vertigo, IBS and anxiety; influenza vaccination.\nPRESENTING COMPLAINT: Vertigo rare, only with rapid head turns; IBS symptoms controlled with occasional loperamide; anxiety improved but still reports tension.\nEXAMINATION: BP 130/80 mmHg, weight 66 kg, BMI 27.4 (obese). Advise maintain Mediterranean diet, daily 30‑min walk. ENT: Dix‑Hallpike negative. Abdomen: soft, non‑tender. Neuro: normal.\nIMPRESSION: 1. Benign positional vertigo, well controlled. 2. Irritable bowel syndrome, mild. 3. Generalised anxiety disorder, improving. Annual lipids and FBS due in January.\nARRANGEMENTS: Continue betahistine 16 mg BD; mebeverine 135 mg BD; ispaghula husk 5 g OD; loperamide 2 mg SOS. Escitalopram 10 mg OD; buspirone 5 mg BD. Influenza vaccine (0.5 mL IM) given today. Review in 3 months. Return if: vertigo with falls, severe abdominal pain, bleeding per rectum, fever >39°C, or worsening anxiety with suicidal thoughts."
+    },
+    {
+      "memory_id": "X0553-m12",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-20 at 10:30 AM with Dr Priya Natarajan (D03) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0553-m13",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Winter follow‑up for vertigo, IBS and anxiety; repeat metabolic screening.\nPRESENTING COMPLAINT: No vertigo episodes in past 2 months; IBS symptoms minimal, occasional bloating; anxiety well controlled, occasional worry.\nEXAMINATION: BP 128/78 mmHg, weight 65 kg, BMI 27.0 (obese). Advise continue balanced diet, light resistance training twice weekly. ENT: Dix‑Hallpike negative. Abdomen: soft, non‑tender. Neuro: normal.\nIMPRESSION: 1. Benign positional vertigo, resolved. 2. Irritable bowel syndrome, in remission. 3. Generalised anxiety disorder, mild. Fasting lipid profile: total cholesterol 4.9 mmol/L, LDL 2.8 mmol/L, HDL 1.3 mmol/L, triglycerides 1.5 mmol/L. Fasting blood sugar: 5.6 mmol/L (prediabetes range).\nARRANGEMENTS: Continue betahistine 16 mg BD; mebeverine 135 mg BD; ispaghula husk 5 g OD; loperamide 2 mg SOS. Escitalopram 10 mg OD; buspirone 5 mg BD. Review in 6 months. Return if: vertigo returns, severe abdominal pain, weight loss >4 kg, fever >39°C, or worsening anxiety with panic attacks."
+    },
+    {
+      "memory_id": "X0553-m14",
+      "date": "2026-01-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 4.9 mmol/L (<5.2 normal), LDL 2.8 mmol/L (<2.6 slightly high), HDL 1.3 mmol/L (>1.0 normal), Triglycerides 1.5 mmol/L (<1.7 normal).\nFasting blood sugar: 5.6 mmol/L (3.9-5.5 normal, upper limit of normal)."
+    }
+  ]
+}

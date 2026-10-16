@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0002",
+  "name": "Parminder Sethi",
+  "age": 83,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Allergic rhinitis",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0002-m01",
+      "date": "2025-04-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Patient reports increasing stiffness and pain in both hands and knees over the past 6 weeks, worse in mornings, improving with activity. Also notes persistent nasal congestion, sneezing, and itchy eyes despite using cetirizine nightly and fluticasone spray. Denies fever or weight loss. Requests review of arthritis and allergy treatments."
+    },
+    {
+      "memory_id": "X0002-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Rheumatoid arthritis\n  - Status: Active, morning stiffness 45 min, joint tenderness in MCP and PIP joints, swelling in wrists.\n  - Plan: Continue methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD. Add NSAID as needed. Review LFT in 4 weeks.\n- Allergic rhinitis\n  - Status: Persistent nasal congestion, sneezing, itchy eyes despite cetirizine HS and fluticasone OD.\n  - Plan: Add montelukast 10 mg HS, continue cetirizine and fluticasone, consider skin prick test.\n- Weight: 58 kg\n- Waist circumference: 84 cm (female cut‑off 80 cm) – central adiposity present.\n- Diet advice:\n  - Breakfast: Idli with sambar, limit coconut chutney.\n  - Lunch: Rice with dal, plenty of vegetables, minimal ghee.\n  - Dinner: Roti with vegetable curry, early dinner by 7 pm.\n- Due: HbA1c not indicated (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0002-m03",
+      "date": "2025-04-16",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methotrexate 10 mg once weekly\nFolic acid 5 mg once weekly\nHydroxychloroquine 200 mg OD\nPrednisolone 5 mg OD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0002-m04",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 32 mm/hr (0‑20)\nCRP 12 mg/L (<5)\nRheumatoid factor 48 IU/mL (<14)\nAnti‑CCP 68 U/mL (<20)\nLiver function: ALT 28 U/L (≤40), AST 26 U/L (≤40), ALP 84 U/L (≤120), Bilirubin 0.9 mg/dL (≤1.2)\nTotal serum IgE 210 IU/mL (<100)\nSkin prick test: Positive to dust mite and grass pollen."
+    },
+    {
+      "memory_id": "X0002-m05",
+      "date": "2025-05-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Hand X‑ray (PA): Periarticular osteopenia, mild joint space narrowing at MCP2‑3, no erosions. Soft tissue swelling noted."
+    },
+    {
+      "memory_id": "X0002-m06",
+      "date": "2025-05-15",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Allergy: Dust mite – allergic rhinitis with sneezing, nasal congestion, itchy eyes. Reaction: Immediate type‑1, wheal‑flare on skin prick test."
+    },
+    {
+      "memory_id": "X0002-m07",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Rheumatoid arthritis\n  - Status: Improved, morning stiffness 20 min, tenderness reduced, no new swelling.\n  - Plan: Continue current DMARDs, taper prednisolone to 2.5 mg OD, monitor for flare.\n- Allergic rhinitis\n  - Status: Partial control, occasional nasal congestion, cetirizine and fluticasone helpful.\n  - Plan: Continue montelukast HS, consider intranasal antihistamine if symptoms persist.\n- Weight: 57.5 kg\n- Waist circumference: 83 cm (still >80 cm).\n- Diet advice:\n  - Breakfast: Poha with peanuts, limit oil.\n  - Lunch: Chapati with vegetable curry, side of curd.\n  - Dinner: Light khichdi, early by 6:30 pm.\n- Due: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0002-m08",
+      "date": "2025-08-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methotrexate 10 mg once weekly\nFolic acid 5 mg once weekly\nHydroxychloroquine 200 mg OD\nPrednisolone 2.5 mg OD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0002-m09",
+      "date": "2025-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 18 mm/hr (0‑20)\nCRP 4 mg/L (<5)\nRheumatoid factor 30 IU/mL (<14)\nAnti‑CCP 35 U/mL (<20)\nLiver function: ALT 22 U/L, AST 20 U/L, ALP 80 U/L, Bilirubin 0.8 mg/dL\nTotal serum IgE 150 IU/mL (<100)"
+    },
+    {
+      "memory_id": "X0002-m10",
+      "date": "2025-09-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Karthik Hegde (D04) on 2025-12-01 at 10:00 AM. Please arrive 10 minutes early."
+    },
+    {
+      "memory_id": "X0002-m11",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Rheumatoid arthritis\n  - Status: Stable, morning stiffness 15 min, no joint swelling, grip strength maintained.\n  - Plan: Continue methotrexate, hydroxychloroquine, folic acid. Discontinue prednisolone (taper complete). Add low‑dose aspirin 75 mg OD for cardiovascular prophylaxis.\n- Allergic rhinitis\n  - Status: Well controlled, occasional sneezing, no nasal congestion.\n  - Plan: Continue cetirizine HS and fluticasone OD; consider stopping montelukast if asymptomatic for 1 month.\n- Weight: 57 kg\n- Waist circumference: 82 cm (still >80 cm).\n- Diet advice:\n  - Breakfast: Upma with vegetables, limited oil.\n  - Lunch: Rice with sambar, plenty of greens.\n  - Dinner: Roti with lentil curry, early by 7 pm.\n- Due: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0002-m12",
+      "date": "2025-12-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Methotrexate 10 mg once weekly\nFolic acid 5 mg once weekly\nHydroxychloroquine 200 mg OD\nAspirin 75 mg OD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD"
+    },
+    {
+      "memory_id": "X0002-m13",
+      "date": "2026-04-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 14 mm/hr (0‑20)\nCRP 3 mg/L (<5)\nRheumatoid factor 22 IU/mL (<14)\nAnti‑CCP 18 U/mL (<20)\nLiver function: ALT 24 U/L, AST 22 U/L, ALP 78 U/L, Bilirubin 0.9 mg/dL\nLipid profile: Total cholesterol 180 mg/dL (<200), LDL 95 mg/dL (<100), HDL 48 mg/dL (>40), Triglycerides 130 mg/dL (<150)\nTotal serum IgE 120 IU/mL (<100)"
+    },
+    {
+      "memory_id": "X0002-m14",
+      "date": "2026-04-02",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Dr S. Ramanathan, Rheumatology, Victoria Hospital, Bengaluru. Reason: Long‑standing rheumatoid arthritis, need opinion on disease‑modifying therapy optimization and possible biologic agent. Enclose recent labs and X‑ray."
+    },
+    {
+      "memory_id": "X0002-m15",
+      "date": "2026-04-15",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Rheumatology review: Disease activity low, current DMARD regimen adequate. No biologic indicated at present. Continue methotrexate and hydroxychloroquine. Add sulfasalazine 500 mg BD if symptoms worsen. Return to primary care for routine follow‑up."
+    },
+    {
+      "memory_id": "X0002-m16",
+      "date": "2026-08-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Rheumatoid arthritis\n  - Status: Stable, no flare, morning stiffness <10 min, functional status good.\n  - Plan: Continue methotrexate 10 mg weekly, hydroxychloroquine 200 mg OD, folic acid 5 mg weekly, aspirin 75 mg OD. Monitor LFT q3 months.\n- Allergic rhinitis\n  - Status: Asymptomatic, no nasal congestion or sneezing.\n  - Plan: Discontinue montelukast (stopped 1 month ago). Continue cetirizine HS and fluticasone OD as needed.\n- Weight: 56.5 kg\n- Waist circumference: 81 cm (just above cutoff).\n- Diet advice:\n  - Breakfast: Dosa with chutney, limit oil.\n  - Lunch: Chapati with dal and vegetable curry.\n  - Dinner: Light vegetable khichdi, early by 6:30 pm.\n- Due: HbA1c not indicated."
+    }
+  ]
+}

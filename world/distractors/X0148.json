@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0148",
+  "name": "Amit Mishra",
+  "age": 63,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypertension",
+    "Dyslipidaemia",
+    "Coronary artery disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0148-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks to shop, manages jewellery counter.\ncognition: Mini-Cog score 3/5 (recall 2, clock draw normal) – negative screen.\nfalls: No falls in past year; gait steady; TUG 10 seconds – within normal.\nmedicines: 0 regular.\nmood: Reports occasional worry about business, denies depression.\ncarers: Wife Priya, spouse.\ngoals: \"I want to stay active and keep my shop open.\""
+    },
+    {
+      "memory_id": "X0148-m02",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.9 mg/dL (0.6-1.2); eGFR 78 mL/min/1.73m2 (>60).\nPotassium 4.3 mmol/L (3.5-5.0).\nFasting LDL 130 mg/dL (<100 optimal), HDL 38 mg/dL (>40 low), triglycerides 180 mg/dL (<150).\nALT 22 U/L (7-56), AST 20 U/L (10-40), CK 85 U/L (30-200)."
+    },
+    {
+      "memory_id": "X0148-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\n telmisartan 40 mg OD\n atorvastatin 10 mg HS\n aspirin 75 mg OD\nDuration: 3 months."
+    },
+    {
+      "memory_id": "X0148-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent, walks 20 mins daily, reports mild knee discomfort after standing.\ncognition: Mini-Cog 4/5 – negative.\nfalls: No falls; gait slightly antalgic right; TUG 11 sec – normal.\nmedicines: 4 regular (amlodipine, telmisartan, atorvastatin, aspirin).\nmood: Good, denies anxiety.\ncarers: Wife Priya, spouse.\ngoals: \"I want to keep walking without knee pain.\""
+    },
+    {
+      "memory_id": "X0148-m05",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.95 mg/dL (0.6-1.2); eGFR 74 mL/min/1.73m2 (>60).\nPotassium 4.4 mmol/L (3.5-5.0).\nLDL 115 mg/dL (<100), HDL 40 mg/dL (>40), triglycerides 160 mg/dL (<150).\nALT 24 U/L, AST 22 U/L, CK 90 U/L."
+    },
+    {
+      "memory_id": "X0148-m06",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\n telmisartan 80 mg OD\n rosuvastatin 10 mg OD\n aspirin 75 mg OD\nDuration: 3 months."
+    },
+    {
+      "memory_id": "X0148-m07",
+      "date": "2025-10-20",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Treadmill test: Bruce protocol, stopped at stage 3 due to mild exertional chest discomfort (2/10).\nPeak heart rate 132 bpm (85% age-predicted).\nST segment depression 1 mm at V5-V6, resolving within 3 min of recovery.\nBlood pressure response normal.\nInterpretation: Positive for inducible myocardial ischemia."
+    },
+    {
+      "memory_id": "X0148-m08",
+      "date": "2025-10-21",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Limited by exertional chest discomfort; avoids climbing stairs.\ncognition: Mini-Cog 4/5 – negative.\nfalls: No falls; gait cautious; TUG 12 sec – borderline raised fall risk.\nmedicines: 4 regular (amlodipine, telmisartan, rosuvastatin, aspirin).\nmood: Frustrated, denies depression.\ncarers: Wife Priya, spouse.\ngoals: \"I want to be able to walk to the market without chest pain.\""
+    },
+    {
+      "memory_id": "X0148-m09",
+      "date": "2025-10-22",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metoprolol succinate 25 mg OD\n isosorbide mononitrate 20 mg OD\n sublingual GTN SOS\n amlodipine 5 mg OD\n telmisartan 80 mg OD\n rosuvastatin 10 mg OD\n aspirin 75 mg OD\nDuration: 3 months."
+    },
+    {
+      "memory_id": "X0148-m10",
+      "date": "2026-02-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-20 at 10:30 with Dr Nandini Kulkarni (D06) for follow-up review."
+    },
+    {
+      "memory_id": "X0148-m11",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Improved, walks 15 mins without chest pain, occasional mild knee ache.\ncognition: Mini-Cog 4/5 – negative.\nfalls: No falls; gait steadier; TUG 11 sec – normal.\nmedicines: 7 regular (amlodipine, telmisartan, rosuvastatin, aspirin, metoprolol, isosorbide mononitrate, GTN SOS).\nmood: Content, denies anxiety.\ncarers: Wife Priya, spouse.\ngoals: \"I want to maintain this level of activity and reduce medicines if possible.\""
+    },
+    {
+      "memory_id": "X0148-m12",
+      "date": "2026-02-21",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.92 mg/dL (0.6-1.2); eGFR 76 mL/min/1.73m2 (>60).\nPotassium 4.3 mmol/L (3.5-5.0).\nLDL 92 mg/dL (<100), HDL 42 mg/dL (>40), triglycerides 140 mg/dL (<150).\nALT 21 U/L, AST 19 U/L, CK 78 U/L."
+    },
+    {
+      "memory_id": "X0148-m13",
+      "date": "2026-06-30",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Dr Suresh Reddy, Cardiologist, Narayana Health, Bengaluru.\nReason: Persistent exertional chest discomfort despite optimal medical therapy, positive treadmill test.\nRequest: Further evaluation, consider coronary angiography and possible revascularization.\nEnclosed: Recent ECG, treadmill report, medication list."
+    },
+    {
+      "memory_id": "X0148-m14",
+      "date": "2026-09-05",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Cardiology review completed 2026-08-28.\nCoronary angiography shows 70% stenosis in mid LAD, amenable to PCI.\nPatient underwent drug-eluting stent placement to LAD on 2026-08-30 without complications.\nDischarged on dual antiplatelet therapy (aspirin 75 mg OD, clopidogrel 75 mg OD) plus beta-blocker, statin, ACE inhibitor.\nAdvised to continue cardiology follow-up in 3 months."
+    }
+  ]
+}

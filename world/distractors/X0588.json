@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0588",
+  "name": "Bhagyalakshmi Kotha",
+  "age": 60,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Chronic kidney disease",
+    "Heart failure with reduced ejection fraction",
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0588-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent with ADLs, walks 30 min daily, no assistance needed.\ncognition: Mini‑Cog 4/5 (negative), recalls 3 items, clock drawing normal.\nfalls: no falls in last 12 months, gait steady, timed up‑and‑go 9 s (normal).\nmedicines: 7 regular (telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD, sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD); polypharmacy – review against Beers criteria advised.\nmood: reports good spirits, denies depression or anxiety.\ncarers: Priya, daughter.\ngoals: \"Stay active and keep my kidneys as healthy as possible.\""
+    },
+    {
+      "memory_id": "X0588-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n sacubitril/valsartan 24/26 mg BD\n bisoprolol 2.5 mg OD\n spironolactone 25 mg OD"
+    },
+    {
+      "memory_id": "X0588-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.4 mg/dL (ref 0.6‑1.2)\neGFR 48 mL/min/1.73m² (ref >60)\nUrine ACR 180 mg/g (ref <30)\nHaemoglobin 12.8 g/dL (ref 12‑16)\nSerum potassium 4.6 mmol/L (ref 3.5‑5.0)\nNT‑proBNP 310 pg/mL (ref <125)"
+    },
+    {
+      "memory_id": "X0588-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: mild fatigue after chores, still manages housework, walks 20 min.\ncognition: not screened this visit (next Mini‑Cog due 2026‑04).\nfalls: one fall at home 3 months ago (slipped on wet floor), no injury; gait slightly unsteady, timed up‑and‑go 13 s (raised fall risk) – advise balance exercises and supportive footwear.\nmedicines: 7 regular (same list); polypharmacy – Beers review recommended.\nmood: occasional low mood, denies hopelessness.\ncarers: Priya, daughter.\ngoals: \"Reduce falls and keep walking without fear.\""
+    },
+    {
+      "memory_id": "X0588-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD (increased from 20 mg)\n sodium bicarbonate 500 mg BD\n sacubitril/valsartan 24/26 mg BD\n bisoprolol 2.5 mg OD\n spironolactone 25 mg OD"
+    },
+    {
+      "memory_id": "X0588-m06",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.5 mg/dL (ref 0.6‑1.2)\neGFR 44 mL/min/1.73m²\nUrine ACR 210 mg/g\nHaemoglobin 12.5 g/dL\nSerum potassium 4.8 mmol/L\nNT‑proBNP 340 pg/mL"
+    },
+    {
+      "memory_id": "X0588-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports improved energy after diuretic increase, walks 25 min, no new falls.\ncognition: Mini‑Cog 3/5 (negative) – annual screen done, recall 2 items, clock drawing abnormal but overall pass.\nfalls: no falls in last 6 months, gait normal, timed up‑and‑go 10 s (normal).\nmedicines: 7 regular (telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 40 mg OD, sodium bicarbonate 500 mg BD, sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD); polypharmacy – Beers review advised.\nmood: stable, denies depression.\ncarers: Priya, daughter.\ngoals: \"Maintain current activity level and avoid hospital admissions.\""
+    },
+    {
+      "memory_id": "X0588-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD\n sodium bicarbonate 500 mg BD\n sacubitril/valsartan 24/26 mg BD\n bisoprolol 2.5 mg OD\n spironolactone 25 mg OD\n pantoprazole 40 mg OD before breakfast (added for GERD)"
+    },
+    {
+      "memory_id": "X0588-m09",
+      "date": "2025-10-03",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Transthoracic echocardiogram: LVEF 38 % (mildly reduced), LV end‑diastolic diameter 5.6 cm, mild mitral regurgitation, NYHA class II. No significant valvular stenosis."
+    },
+    {
+      "memory_id": "X0588-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: occasional ankle swelling after long walks, otherwise independent.\ncognition: not screened this visit (next Mini‑Cog due 2026‑04).\nfalls: no falls in last 4 months, gait steady, timed up‑and‑go 11 s (borderline) – advise continued strengthening.\nmedicines: 8 regular (telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 40 mg OD, sodium bicarbonate 500 mg BD, sacubitril/valsartan 24/26 mg BD, bisoprolol 2.5 mg OD, spironolactone 25 mg OD, pantoprazole 40 mg OD); polypharmacy – Beers review recommended.\nmood: reports mild irritability, denies depression.\ncarers: Priya, daughter.\ngoals: \"Keep swelling under control and stay out of the hospital.\""
+    },
+    {
+      "memory_id": "X0588-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 40 mg OD\n sodium bicarbonate 500 mg BD\n sacubitril/valsartan 24/26 mg BD\n bisoprolol 2.5 mg OD\n spironolactone 25 mg OD\n pantoprazole 40 mg OD\n domperidone 10 mg BD before meals (added for GERD symptom breakthrough)"
+    },
+    {
+      "memory_id": "X0588-m12",
+      "date": "2026-01-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.6 mg/dL (ref 0.6‑1.2)\neGFR 41 mL/min/1.73m²\nUrine ACR 250 mg/g\nHaemoglobin 11.9 g/dL\nSerum potassium 5.0 mmol/L (upper limit)\nNT‑proBNP 380 pg/mL"
+    },
+    {
+      "memory_id": "X0588-m13",
+      "date": "2026-08-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking: Follow‑up geriatric review scheduled for 2027-02-10 at 09:30 with Dr Nandini Kulkarni (D06). Patient confirmed via clinic app."
+    }
+  ]
+}

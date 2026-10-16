@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0598",
+  "name": "Hasmukh Parikh",
+  "age": 19,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Sciatica"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0598-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Sciatica\n  - Status: New onset radiating left leg pain, positive straight leg raise, weight 68 kg, waist 78 cm (male cut-off 90 cm).\n  - Plan: Start pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD. Advise avoid heavy lifting, apply heat. Order straight leg raise test, MRI lumbar spine and X-ray lumbar spine. Review in 8 weeks.\n- Weight: 68 kg\n- Waist: 78 cm (within normal for male)\n- Due: HbA1c - 2025-07-05"
+    },
+    {
+      "memory_id": "X0598-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg 1-0-1 after food\n diclofenac 50 mg 1-0-1 after food\n methylcobalamin 1.5 mg 1-0-0 after food"
+    },
+    {
+      "memory_id": "X0598-m03",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Straight leg raise test: Left leg pain reproduced at 45° elevation, right leg negative. Suggestive of L5-S1 radiculopathy."
+    },
+    {
+      "memory_id": "X0598-m04",
+      "date": "2025-04-20",
+      "type": "investigation",
+      "author": "D04",
+      "text": "MRI lumbar spine: Mild disc bulge at L4-L5 with no cord compression. No significant stenosis."
+    },
+    {
+      "memory_id": "X0598-m05",
+      "date": "2025-04-25",
+      "type": "investigation",
+      "author": "D04",
+      "text": "X-ray lumbar spine: Anterior osteophytes at L3-L4, L4-L5. Disc space preserved. No acute fracture."
+    },
+    {
+      "memory_id": "X0598-m06",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Pain in left leg worse after long drives, tingling in foot. Took pregabalin as prescribed, mild drowsiness. Diclofenac helped a bit but stomach discomfort after meals."
+    },
+    {
+      "memory_id": "X0598-m07",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Sciatica\n  - Status: Improved leg pain, occasional tingling, weight 67 kg, waist 76 cm. Reports mild gastric upset with diclofenac.\n  - Plan: Continue pregabalin 75 mg BD, stop diclofenac, start paracetamol 500 mg QID after food for breakthrough pain. Continue methylcobalamin. Advise physiotherapy for core strengthening. Review in 3 months.\n- Weight: 67 kg\n- Waist: 76 cm\n- Due: HbA1c - 2025-10-01"
+    },
+    {
+      "memory_id": "X0598-m08",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg 1-0-1 after food\n methylcobalamin 1.5 mg 1-0-0 after food\n paracetamol 500 mg 1-1-1 after food"
+    },
+    {
+      "memory_id": "X0598-m09",
+      "date": "2025-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin B12: 260 pg/mL (Reference: 200-900). Folate: 6.8 ng/mL (Reference: 3-17)."
+    },
+    {
+      "memory_id": "X0598-m10",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked with Dr Karthik Hegde (D04) for 2026-01-15 at 10:30 AM. Reason: Review sciatica management and medication tolerance."
+    },
+    {
+      "memory_id": "X0598-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Sciatica\n  - Status: Stable, minimal leg discomfort, weight 66 kg, waist 75 cm. No gastric symptoms on current regimen.\n  - Plan: Continue pregabalin 75 mg BD, methylcobalamin 1.5 mg OD, paracetamol as needed. Reinforce lumbar ergonomics for driving. Review in 6 months or sooner if worsening.\n- Weight: 66 kg\n- Waist: 75 cm\n- Due: HbA1c - 2026-04-15"
+    },
+    {
+      "memory_id": "X0598-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg 1-0-1 after food\n methylcobalamin 1.5 mg 1-0-0 after food\n paracetamol 500 mg 1-1-1 after food"
+    }
+  ]
+}

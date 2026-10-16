@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0363",
+  "name": "Selvam Balan",
+  "age": 73,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic kidney disease",
+    "Benign positional vertigo",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0363-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3, benign positional vertigo, irritable bowel syndrome.\nPatient reports fatigue, occasional flank discomfort, brief spinning episodes on lying down, and intermittent abdominal bloating with altered bowel habit. Examination: BP 138/86, pulse 78, lungs clear, abdomen soft non-tender, no edema. Neurologic: Dix-Hallpike elicits transient torsional nystagmus on right side. Spirometry not indicated. Inhaler technique not applicable. Smoking status: never. ACT not applicable."
+    },
+    {
+      "memory_id": "X0363-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg PO OD\n dapagliflozin 10 mg PO OD\n furosemide 20 mg PO OD\n sodium bicarbonate 500 mg PO BD\n betahistine 16 mg PO BD\n meclizine 25 mg PO SOS for vertigo\n mebeverine 135 mg PO BD\n ispaghula husk 5 g PO OD\n loperamide 2 mg PO SOS for diarrhoea\nAll prescribed for 3 months, review in 8 weeks."
+    },
+    {
+      "memory_id": "X0363-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.68 mg/dL (0.57-1.11)\neGFR 38 mL/min/1.73m2 (>60 normal)\nUrine albumin‑creatinine ratio 210 mg/g (<30 normal)\nHaemoglobin 12.4 g/dL (13.0-17.0)\nOther electrolytes within normal limits."
+    },
+    {
+      "memory_id": "X0363-m04",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3, benign positional vertigo, irritable bowel syndrome.\nLabs show stable creatinine 1.68, eGFR 38, mild anaemia. Patient reports reduced vertigo frequency after betahistine, occasional abdominal cramping, and mild ankle swelling. Examination: BP 142/88, trace bilateral pedal edema, lungs clear, abdomen benign. No new neurologic signs. Spirometry not indicated. Inhaler technique not applicable. Smoking: never."
+    },
+    {
+      "memory_id": "X0363-m05",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg PO OD (unchanged)\n dapagliflozin 10 mg PO OD (unchanged)\n furosemide increased to 40 mg PO OD\n sodium bicarbonate 500 mg PO BD (unchanged)\n betahistine 16 mg PO BD (unchanged)\n meclizine 25 mg PO SOS (unchanged)\n mebeverine 135 mg PO BD (unchanged)\n ispaghula husk 5 g PO OD (unchanged)\n loperamide 2 mg PO SOS (unchanged)\nReview in 6 weeks."
+    },
+    {
+      "memory_id": "X0363-m06",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Audiometry (pure tone average) performed to rule out concomitant hearing loss in benign positional vertigo.\nResults: Right ear 25 dB HL at 500 Hz, 20 dB at 1000 Hz, 22 dB at 2000 Hz, 25 dB at 4000 Hz. Left ear symmetrical. No significant asymmetry; hearing within normal limits for age."
+    },
+    {
+      "memory_id": "X0363-m07",
+      "date": "2025-09-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'Doctor, I’ve had two brief spinning spells this morning when turning in bed, lasting <30 seconds each. No nausea. My belly feels bloated after lunch and I passed loose stool twice today.'"
+    },
+    {
+      "memory_id": "X0363-m08",
+      "date": "2025-11-05",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Nephrology, St. John’s Medical Centre, for progressive CKD (eGFR 38, persistent albuminuria) to consider specialist management and possible SGLT2 inhibitor optimisation.\nAttach recent labs and medication list."
+    },
+    {
+      "memory_id": "X0363-m09",
+      "date": "2025-12-01",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Nephrology reply: Patient reviewed, CKD stage 3b due to hypertensive nephropathy. Continue telmisartan, dapagliflozin, furosemide, sodium bicarbonate. Add spironolactone 12.5 mg OD pending potassium. Repeat labs in 8 weeks. No urgent intervention needed."
+    },
+    {
+      "memory_id": "X0363-m10",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.72 mg/dL (0.57-1.11)\neGFR 36 mL/min/1.73m2 (>60 normal)\nUrine albumin‑creatinine ratio 185 mg/g (<30 normal)\nHaemoglobin 12.0 g/dL (13.0-17.0)\nSerum potassium 4.6 mmol/L (3.5-5.0)\nAll other values stable."
+    },
+    {
+      "memory_id": "X0363-m11",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-06-30 at 10:30 AM with Dr Suresh Menon (D05) for routine chronic disease review. Patient confirmed via SMS."
+    },
+    {
+      "memory_id": "X0363-m12",
+      "date": "2026-06-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3b, benign positional vertigo, irritable bowel syndrome.\nPatient asymptomatic for vertigo since last betahistine adjustment, reports occasional bloating but bowel pattern stable. Examination: BP 138/84, trace edema, lungs clear, abdomen soft. Labs show eGFR 36, stable albuminuria, Hb 12.0. Continue current meds, hold spironolactone due to borderline potassium. Inhaler technique not applicable. Smoking: never. Schedule next review in 4 months."
+    }
+  ]
+}

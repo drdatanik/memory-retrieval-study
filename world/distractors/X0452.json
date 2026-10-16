@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0452",
+  "name": "Revathi Annamalai",
+  "age": 48,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Generalised anxiety disorder",
+    "Gout",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0452-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, drives auto-rickshaw, manages household chores.\ncognition: Mini-Cog score 4/5.\nfalls: No falls in past 12 months; gait normal; timed up-and-go 10 seconds.\nmedicines: 6 regular; polypharmacy – review against Beers criteria advised.\nmood: Reports occasional worry, GAD-7 score 8 (mild anxiety).\ncarers: Ravi, husband.\ngoals: \"I want to keep working and stay breathless-free.\""
+    },
+    {
+      "memory_id": "X0452-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "escitalopram 5 mg OD\nbuspirone 5 mg BD\nallopurinol 100 mg OD\nfebuxostat 40 mg OD\ntiotropium inhaler OD\nsalbutamol inhaler SOS\nbudesonide-formoterol 200/6 inhaler BD"
+    },
+    {
+      "memory_id": "X0452-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0)\nHaemoglobin 12.8 g/dL (12-16)\nSerum uric acid 7.2 mg/dL (<7.0)\nSerum creatinine 0.9 mg/dL (0.5-1.1)"
+    },
+    {
+      "memory_id": "X0452-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling more anxious lately, especially during traffic jams. Worried about missing fares. Using buspirone as needed but still tense."
+    },
+    {
+      "memory_id": "X0452-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Continues driving auto-rickshaw, reports mild dyspnea on steep roads.\ncognition: Mini-Cog score 4/5 (stable).\nfalls: No falls in past 12 months; gait slightly slow on uneven ground; timed up-and-go 11 seconds.\nmedicines: 7 regular; polypharmacy – review against Beers criteria advised.\nmood: Increased anxiety, GAD-7 score 12 (moderate).\ncarers: Ravi, husband.\ngoals: \"I need better breath control to keep working longer shifts.\""
+    },
+    {
+      "memory_id": "X0452-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "escitalopram 10 mg OD\nbuspirone 5 mg BD\nallopurinol 100 mg OD\nfebuxostat 40 mg OD\ncolchicine 0.5 mg BD PRN for gout flare\ntiotropium inhaler OD\nsalbutamol inhaler SOS\nbudesonide-formoterol 200/6 inhaler BD"
+    },
+    {
+      "memory_id": "X0452-m07",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4-4.0)\nHaemoglobin 13.0 g/dL (12-16)\nSerum uric acid 6.8 mg/dL (<7.0)\nSerum creatinine 0.9 mg/dL (0.5-1.1)"
+    },
+    {
+      "memory_id": "X0452-m08",
+      "date": "2025-08-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Chest X-ray: lungs hyperinflated, flattened diaphragms, no acute infiltrate. Consistent with COPD, no new pathology."
+    },
+    {
+      "memory_id": "X0452-m09",
+      "date": "2025-09-01",
+      "type": "referral",
+      "author": "D06",
+      "text": "Refer to Pulmonology for COPD optimisation and inhaler technique review. Include recent spirometry request."
+    },
+    {
+      "memory_id": "X0452-m10",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Pulmonology reviewed: advised to continue tiotropium and budesonide-formoterol, add pulmonary rehab referral. Spirometry shows FEV1 55% predicted, FEV1/FVC 0.58."
+    },
+    {
+      "memory_id": "X0452-m11",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages household, drives shorter routes due to breathlessness.\ncognition: Mini-Cog score 3/5 (borderline); plan for full MoCA.\nfalls: One fall at home slipping on wet floor, no injury; gait cautious; timed up-and-go 13 seconds – raised fall risk, advise exercise and supportive footwear.\nmedicines: 6 regular; polypharmacy – review against Beers criteria advised.\nmood: Anxiety improved, GAD-7 score 7 (mild).\ncarers: Ravi, husband.\ngoals: \"I want to stay steady on my feet and avoid another fall.\""
+    },
+    {
+      "memory_id": "X0452-m12",
+      "date": "2025-12-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "escitalopram 10 mg OD\nbuspirone 5 mg BD\nallopurinol 200 mg OD\nfebuxostat stopped\ncolchicine 0.5 mg BD PRN\ntiotropium inhaler OD\nsalbutamol inhaler SOS\nbudesonide-formoterol 200/6 inhaler BD"
+    },
+    {
+      "memory_id": "X0452-m13",
+      "date": "2026-02-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-15 10:00 with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0452-m14",
+      "date": "2026-06-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Drives auto‑rickshaw full shifts, reports no dyspnea on exertion.\ncognition: Mini-Cog score 4/5 (annual screen normal).\nfalls: No falls in past 12 months; gait normal; timed up‑and‑go 10 seconds.\nmedicines: 6 regular; polypharmacy – review against Beers criteria advised.\nmood: Stable, GAD-7 score 6 (mild).\ncarers: Ravi, husband.\ngoals: \"I wish to keep working and stay healthy for my family.\""
+    }
+  ]
+}

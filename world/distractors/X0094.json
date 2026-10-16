@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0094",
+  "name": "Annie Pereira",
+  "age": 48,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0094-m01",
+      "date": "2025-04-03",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  - Status: Moderate symptoms, sneezing, nasal congestion, occasional itchy eyes.\n  - Plan: Start cetirizine 10 mg HS, fluticasone nasal spray 1 spray each nostril OD, montelukast 10 mg HS. Advise allergen avoidance, saline nasal rinses. Review in 8 weeks.\n- Weight: 68 kg\n- Waist circumference: 78 cm (female cut‑off 80 cm) – within normal limits.\n- Due: N/A (no glucose‑lowering therapy)"
+    },
+    {
+      "memory_id": "X0094-m02",
+      "date": "2025-04-03",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0094-m03",
+      "date": "2025-04-03",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Allergic rhinitis – seasonal pollen exposure. Reaction: sneezing, nasal congestion, watery eyes."
+    },
+    {
+      "memory_id": "X0094-m04",
+      "date": "2025-04-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Total serum IgE: 210 IU/mL (ref 0‑100) – elevated.\nSkin prick test: Positive to grass pollen (3+), weak to dust mite (1+)."
+    },
+    {
+      "memory_id": "X0094-m05",
+      "date": "2025-07-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Symptoms much better on current meds. Only occasional mild nasal congestion in mornings. No side effects noticed."
+    },
+    {
+      "memory_id": "X0094-m06",
+      "date": "2025-07-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0094-m07",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  - Status: Well controlled, occasional mild congestion, no exacerbations.\n  - Plan: Continue current regimen. Consider trying intranasal antihistamine if breakthrough symptoms. Review in 3 months.\n- Weight: 67.5 kg\n- Waist circumference: 77 cm (within normal).\n- Due: N/A (no glucose‑lowering therapy)"
+    },
+    {
+      "memory_id": "X0094-m08",
+      "date": "2025-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 2.1 mIU/L (ref 0.4‑4.5) – normal.\nLipid profile: Total cholesterol 180 mg/dL (<200), HDL 55 mg/dL (>50), LDL 100 mg/dL (<130), Triglycerides 90 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0094-m09",
+      "date": "2025-09-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0094-m10",
+      "date": "2025-12-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-12-12 at 10:00 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0094-m11",
+      "date": "2025-12-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  - Status: Good control, patient reports occasional dry mouth with cetirizine.\n  - Plan: Switch cetirizine to levocetirizine 5 mg HS to reduce sedation. Continue fluticasone and montelukast. Review in 2 months.\n- Weight: 67 kg\n- Waist circumference: 76 cm (within normal).\n- Due: N/A (no glucose‑lowering therapy)"
+    },
+    {
+      "memory_id": "X0094-m12",
+      "date": "2025-12-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levocetirizine 5 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0094-m13",
+      "date": "2026-03-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Levocetirizine causing mild drowsiness in mornings; otherwise symptoms controlled. Would like to try alternative antihistamine."
+    },
+    {
+      "memory_id": "X0094-m14",
+      "date": "2026-03-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levocetirizine stopped\nFexofenadine 120 mg OD\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0094-m15",
+      "date": "2026-06-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  - Status: Well controlled on fexofenadine, no drowsiness, minimal symptoms.\n  - Plan: Continue fexofenadine 120 mg OD, fluticasone OD, montelukast HS. Review in 3 months.\n- Weight: 66.8 kg\n- Waist circumference: 75 cm (within normal).\n- Due: N/A (no glucose‑lowering therapy)"
+    },
+    {
+      "memory_id": "X0094-m16",
+      "date": "2026-06-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Total serum IgE: 165 IU/mL (ref 0‑100) – decreased from prior.\nCBC: WBC 6.2 x10^9/L, Hb 12.8 g/dL, Plt 240 x10^9/L – all normal."
+    },
+    {
+      "memory_id": "X0094-m17",
+      "date": "2026-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-09-05 09:00 AM to 2026-09-05 11:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0094-m18",
+      "date": "2026-09-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Allergic rhinitis\n  - Status: Stable, patient satisfied with current regimen, no exacerbations.\n  - Plan: Continue fexofenadine 120 mg OD, fluticasone nasal spray OD, montelukast 10 mg HS. Advise yearly review and allergy skin prick test repeat in 1 year.\n- Weight: 66.5 kg\n- Waist circumference: 74 cm (within normal).\n- Due: N/A (no glucose‑lowering therapy)"
+    }
+  ]
+}

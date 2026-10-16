@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0105",
+  "name": "Sarala Kotha",
+  "age": 45,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Migraine",
+    "Coronary artery disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0105-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up of migraine and coronary artery disease.\nPRESENTING COMPLAINT: Patient reports occasional tension‑type headaches, no angina, good exercise tolerance.\nEXAMINATION: BP 128/78 mmHg, weight 62 kg, height 158 cm, BMI 24.8 (overweight). Cardiovascular exam regular rhythm, no murmurs. Neurologic exam normal.\nIMPRESSION: Migraine controlled on prophylactic propranolol. CAD stable on aspirin, atorvastatin, metoprolol, ISMN, GTN SOS. LDL borderline high; will check lipid profile.\nARRANGEMENTS: Advise diet low in saturated fat, increase aerobic activity to 150 min/week. Order fasting lipid profile and fasting blood sugar. ECG today. Return if new chest pain, dyspnea >2/10, headache worsening with visual disturbances, or fever >39°C.\nInfluenza vaccine discussed; to be given in autumn."
+    },
+    {
+      "memory_id": "X0105-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 210 mg/dL (<200 desirable), LDL 132 mg/dL (<100 optimal), HDL 48 mg/dL (>40 good), Triglycerides 160 mg/dL (<150 borderline). Fasting blood sugar: 92 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0105-m03",
+      "date": "2025-04-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Resting 12‑lead ECG: Normal sinus rhythm, rate 78 bpm. No ST‑segment changes, no Q waves. Left ventricular voltage within normal limits."
+    },
+    {
+      "memory_id": "X0105-m04",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Atorvastatin increased to 40 mg HS (from 20 mg HS). All other medications unchanged: Aspirin 75 mg OD, Metoprolol succinate 25 mg OD, Isosorbide mononitrate 20 mg OD, GTN sublingual SOS, Propranolol 40 mg OD, Sumatriptan 50 mg SOS, Topiramate 25 mg HS, Naproxen 500 mg SOS."
+    },
+    {
+      "memory_id": "X0105-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of lipid results and exercise tolerance.\nPRESENTING COMPLAINT: Patient reports mild exertional dyspnea on climbing two flights, no chest pain. Headache frequency unchanged.\nEXAMINATION: BP 130/80 mmHg, weight 63 kg, BMI 25.1 (obese). Cardiovascular: regular rhythm, no edema. Respiratory: clear lungs.\nIMPRESSION: LDL remains elevated despite increased atorvastatin; consider lifestyle intensification. Obesity per Asian cut‑off; reinforce diet and activity. Migraine prophylaxis adequate.\nARRANGEMENTS: Reinforce Mediterranean diet, aim for 5% weight loss. Order exercise treadmill test to assess ischemic threshold. Continue current meds. Return if chest pain, syncope, palpitations, or headache with neurologic deficits.\nInfluenza vaccine to be offered in October."
+    },
+    {
+      "memory_id": "X0105-m06",
+      "date": "2025-07-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Exercise treadmill test (Bruce protocol): Patient reached stage 3 (3 METs) before developing 1 mm down‑sloping ST depression in leads V4‑V6, associated with mild dyspnea. Test stopped due to ECG changes. Impression: inducible ischemia, suggestive of significant CAD."
+    },
+    {
+      "memory_id": "X0105-m07",
+      "date": "2025-07-15",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr S. Kumar, Cardiology, Narayana Health City Bengaluru. Reason: inducible ischemia on treadmill test, LDL not at goal despite statin uptitration. Request cardiology opinion for further risk stratification and possible coronary angiography. Attach ECG, lipid profile, treadmill test report."
+    },
+    {
+      "memory_id": "X0105-m08",
+      "date": "2025-08-01",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Cardiology report: Patient underwent coronary CT angiography showing 40% stenosis of mid LAD, no >50% lesion. Recommend high‑intensity statin, continue beta‑blocker, aspirin, nitrates as needed. Lifestyle modification stressed. No invasive angiography required at present. Follow‑up in 6 months."
+    },
+    {
+      "memory_id": "X0105-m09",
+      "date": "2025-09-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'Doctor, my migraines have worsened over the past month; I think stress from upcoming seminar presentations is triggering them. I’ve been skipping meals and sleeping less. Could we adjust my preventive meds?'"
+    },
+    {
+      "memory_id": "X0105-m10",
+      "date": "2025-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for influenza vaccination on 2025-10-15 at 10:00 AM with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0105-m11",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: influenza vaccination and review of migraine exacerbation.\nPRESENTING COMPLAINT: Patient reports increased migraine frequency (3‑4 episodes/week) linked to stress and missed meals. No anginal symptoms.\nEXAMINATION: BP 128/78 mmHg, weight 62.5 kg, BMI 24.9 (overweight). Cardiovascular normal.\nIMPRESSION: Migraine worsening likely due to stress and lifestyle; consider adding topiramate dose or short‑term NSAID prophylaxis. CAD stable per cardiology advice; LDL 128 mg/dL on atorvastatin 40 mg.\nARRANGEMENTS: Administered inactivated influenza vaccine (0.5 mL IM) today. Advise regular meals, stress‑reduction techniques, maintain topiramate 25 mg HS, consider increasing to 50 mg HS if no improvement in 2 weeks. Continue aspirin, atorvastatin, metoprolol, ISMN, GTN SOS. Return if new chest pain, severe headache with vomiting, or fever >39°C.\nVaccine recorded: Influenza 2025-10-15."
+    },
+    {
+      "memory_id": "X0105-m12",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 200 mg/dL, LDL 128 mg/dL, HDL 50 mg/dL, Triglycerides 140 mg/dL. Fasting blood sugar: 90 mg/dL."
+    },
+    {
+      "memory_id": "X0105-m13",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: annual review of migraine and CAD.\nPRESENTING COMPLAINT: Patient reports migraine back to baseline (1‑2 episodes/week) after stress‑management and regular meals. No chest pain, good exercise tolerance.\nEXAMINATION: BP 126/76 mmHg, weight 61.8 kg, BMI 24.7 (overweight). Cardiovascular regular rhythm, no murmurs.\nIMPRESSION: Migraine controlled with current regimen. LDL at goal (<130 mg/dL) on atorvastatin 40 mg. Annual fasting lipid profile and fasting blood sugar ordered.\nARRANGEMENTS: Continue aspirin 75 mg OD, atorvastatin 40 mg HS, metoprolol succinate 25 mg OD, ISMN 20 mg OD, GTN SOS, propranolol 40 mg OD, sumatriptan 50 mg SOS, topiramate 25 mg HS, naproxen 500 mg SOS. Order echocardiogram to assess LV function. Return if exertional chest pain, dyspnea on minimal activity, neurologic deficit, or fever >39°C.\nInfluenza vaccine to be given in autumn 2026."
+    },
+    {
+      "memory_id": "X0105-m14",
+      "date": "2026-04-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Transthoracic echocardiogram: Left ventricular ejection fraction 60%. Mild concentric left ventricular hypertrophy, no wall motion abnormalities. Valves normal. No pericardial effusion. Impression: No systolic dysfunction; hypertensive changes compatible with long‑term BP control."
+    }
+  ]
+}

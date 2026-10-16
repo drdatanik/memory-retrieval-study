@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0308",
+  "name": "Lalitha Shastry",
+  "age": 36,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0308-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild fatigue after walking 500 m, otherwise independent in ADLs.\ncognition: Mini‑Cog 4/5 (normal).\nfalls: 0 falls in last 12 m, gait normal, TUG 10 s (normal).\nmedicines: 4 regular.\nmood: reports occasional low mood, denies hopelessness.\ncarers: daughter, Priya (primary carer).\ngoals: \"I want to stay energetic enough to teach my grandchildren.\""
+    },
+    {
+      "memory_id": "X0308-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "ferrous sulfate 200 mg OD\ncetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0308-m03",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 10.2 g/dL (12‑16)\nSerum ferritin 12 ng/mL (15‑150)\nMCV 78 fL (80‑100)\nTotal serum IgE 85 IU/mL (<100)"
+    },
+    {
+      "memory_id": "X0308-m04",
+      "date": "2025-07-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Skin prick test: positive to house‑dust mite (3 mm wheal) and grass pollen (2 mm)."
+    },
+    {
+      "memory_id": "X0308-m05",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: fatigue improved, walks 1 km without rest.\ncognition: Mini‑Cog not repeated (annual due).\nfalls: 0 falls, gait steady, TUG 9 s.\nmedicines: 4 regular.\nmood: mood stable, denies depression.\ncarers: daughter, Priya.\ngoals: \"I feel able to manage daily chores and enjoy family time.\""
+    },
+    {
+      "memory_id": "X0308-m06",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "ferrous sulfate 200 mg on alternate days\ncetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0308-m07",
+      "date": "2025-11-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘I’ve noticed less tiredness and my nose is less blocked most days. Thank you.’"
+    },
+    {
+      "memory_id": "X0308-m08",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.4 g/dL (12‑16)\nSerum ferritin 48 ng/mL (15‑150)\nMCV 86 fL (80‑100)\nTotal serum IgE 78 IU/mL (<100)"
+    },
+    {
+      "memory_id": "X0308-m09",
+      "date": "2026-02-10",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Dr S. Rao, Gastroenterology, for evaluation of persistent microcytosis despite iron therapy. Please assess for possible thalassaemia trait and arrange Hb electrophoresis."
+    },
+    {
+      "memory_id": "X0308-m10",
+      "date": "2026-03-15",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Letter from Dr S. Rao: Hb electrophoresis normal, ferritin responsive to iron, no thalassaemia. Advise continue iron supplementation and re‑check in 3 months."
+    },
+    {
+      "memory_id": "X0308-m11",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports good energy, walks 2 km daily.\ncognition: Mini‑Cog 3/5 (still below cutoff? actually 3 >2, so negative).\nfalls: 0 falls, gait normal, TUG 8 s.\nmedicines: 4 regular.\nmood: mood good, enjoys gardening.\ncarers: daughter, Priya.\ngoals: \"I want to keep active and travel with my family.\""
+    },
+    {
+      "memory_id": "X0308-m12",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "ferrous sulfate 200 mg on alternate days\ncetirizine 10 mg HS\nfluticasone nasal spray 1 spray each nostril OD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0308-m13",
+      "date": "2026-08-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking: Follow‑up visit with Dr Nandini Kulkarni scheduled for 2026-09-01 at 10:30 am."
+    },
+    {
+      "memory_id": "X0308-m14",
+      "date": "2026-09-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: remains independent, walks 2 km without fatigue.\ncognition: Mini‑Cog not due until next year.\nfalls: 0 falls, gait steady, TUG 9 s.\nmedicines: 4 regular.\nmood: mood stable, reports happiness.\ncarers: daughter, Priya.\ngoals: \"I feel well and look forward to volunteering at the local school.\""
+    }
+  ]
+}

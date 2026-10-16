@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0103",
+  "name": "Geeta Kapoor",
+  "age": 38,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Migraine",
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0103-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine and dyslipidaemia.\nPatient reports episodic throbbing headaches twice weekly, associated nausea, photophobia; no focal neurology. Lipid panel not yet done. She is a non‑smoker (never smoked, pack‑years 0). Examination: vitals normal, no meningism, cranial nerves II‑XII intact, cardiopulmonary normal. Neurological examination shows no abnormal signs. Plan: start propranolol 40 mg OD for migraine prevention, sumatriptan 50 mg SOS for acute attacks, atorvastatin 10 mg HS for dyslipidaemia, advise low‑saturated‑fat diet and aerobic exercise. Review in 3 months."
+    },
+    {
+      "memory_id": "X0103-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 40 mg tablet OD\nSumatriptan 50 mg tablet SOS\nAtorvastatin 10 mg tablet HS"
+    },
+    {
+      "memory_id": "X0103-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 138 mg/dL (opt <100), HDL 48 mg/dL (>40), triglycerides 162 mg/dL (<150). Liver function: ALT 22 U/L (7‑56), AST 20 U/L (10‑40), ALKP 78 U/L (30‑120), GGT 30 U/L (0‑51). Creatine kinase: 84 U/L (30‑200)."
+    },
+    {
+      "memory_id": "X0103-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine and dyslipidaemia.\nHeadache frequency reduced to once weekly, mild intensity, sumatriptan used twice in month. Lipids show LDL still elevated, triglycerides borderline. Non‑smoker. Exam: vitals stable, no neurological deficit. Plan: continue propranolol, add topiramate 25 mg HS for migraine prophylaxis, increase atorvastatin to 20 mg HS, recheck labs in 2 months."
+    },
+    {
+      "memory_id": "X0103-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 40 mg tablet OD\nTopiramate 25 mg tablet HS\nAtorvastatin 20 mg tablet HS\nSumatriptan 50 mg tablet SOS"
+    },
+    {
+      "memory_id": "X0103-m06",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been getting headaches about three times a month now, usually moderate, and I take sumatriptan when needed. I feel a bit tired after starting topiramate."
+    },
+    {
+      "memory_id": "X0103-m07",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-15 at 10:00 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0103-m08",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine and dyslipidaemia.\nHeadache frequency now twice weekly, mild‑moderate, topiramate causing mild paresthesia. Lipids: LDL 122, HDL 50, TG 158. Non‑smoker. Exam: normal. Plan: keep propranolol, reduce topiramate to 25 mg OD (split), continue atorvastatin 20 mg HS, add fenofibrate 145 mg OD for triglycerides, recheck labs in 3 months."
+    },
+    {
+      "memory_id": "X0103-m09",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 40 mg tablet OD\nTopiramate 25 mg tablet OD\nAtorvastatin 20 mg tablet HS\nFenofibrate 145 mg tablet OD\nSumatriptan 50 mg tablet SOS"
+    },
+    {
+      "memory_id": "X0103-m10",
+      "date": "2026-01-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 110 mg/dL (<100 target near), HDL 52 mg/dL, triglycerides 138 mg/dL (<150). Liver function: ALT 24, AST 21, ALKP 80, GGT 32. Creatine kinase: 78 U/L."
+    },
+    {
+      "memory_id": "X0103-m11",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine and dyslipidaemia.\nHeadaches down to once weekly, mild, sumatriptan used once. Lipids improved, triglycerides now normal. Non‑smoker. Exam: normal. Plan: continue propranolol, maintain topiramate 25 mg OD, reduce atorvastatin to 10 mg HS, stop fenofibrate, recheck lipids in 3 months."
+    },
+    {
+      "memory_id": "X0103-m12",
+      "date": "2026-02-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Propranolol 40 mg tablet OD\nTopiramate 25 mg tablet OD\nAtorvastatin 10 mg tablet HS\nSumatriptan 50 mg tablet SOS"
+    },
+    {
+      "memory_id": "X0103-m13",
+      "date": "2026-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed some mild muscle soreness in my shoulders after gym, but no weakness. Headaches are still once a week, mild."
+    },
+    {
+      "memory_id": "X0103-m14",
+      "date": "2026-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Neurological examination: no focal deficits, normal gait, intact sensation, negative Romberg. No signs of migraine aura or cerebrovascular disease."
+    },
+    {
+      "memory_id": "X0103-m15",
+      "date": "2026-06-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-07-15 to 2026-08-15 at 09:30 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0103-m16",
+      "date": "2026-08-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Migraine and dyslipidaemia.\nHeadache frequency stable at once weekly, mild, well‑controlled (ACT score 22). Lipids: LDL 108, HDL 53, TG 140. Non‑smoker. Exam: normal. Plan: continue current prophylaxis, lifestyle reinforcement, review in 3 months."
+    },
+    {
+      "memory_id": "X0103-m17",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 106 mg/dL, HDL 55 mg/dL, triglycerides 135 mg/dL. Liver function: ALT 23, AST 20, ALKP 79, GGT 31. Creatine kinase: 80 U/L."
+    }
+  ]
+}

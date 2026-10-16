@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0328",
+  "name": "Javed Mirza",
+  "age": 41,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Insomnia",
+    "Type 2 diabetes"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0328-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports good energy, manages hotel duties, walks 30 minutes daily; no difficulty with ADLs.\ncognition: Mini-Cog score 3/5 (negative); recalls hotel routines well.\nfalls: No falls in past 12 months; gait steady; timed up-and-go 9 seconds (normal).\nmedicines: 6 regular (metformin, glimepiride, sitagliptin, empagliflozin, melatonin, trazodone); polypharmacy – review against Beers criteria advised.\nmood: Denies low mood or anxiety; PHQ-2 score 0.\ncarers: Wife Priya, spouse.\ngoals: \"I want to sleep better and keep my sugar under control.\""
+    },
+    {
+      "memory_id": "X0328-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.2% (ref 4-5.6); FPG 138 mg/dL (70-99); UACR 22 mg/g (<30); TSH 2.1 mIU/L (0.4-4.0); Hb 13.8 g/dL (13-17); ISI 14 (0-28)."
+    },
+    {
+      "memory_id": "X0328-m03",
+      "date": "2025-04-08",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 500 mg BD; glimepiride 1 mg OD before breakfast; sitagliptin 100 mg OD; empagliflozin 10 mg OD; melatonin 3 mg HS; trazodone 50 mg HS."
+    },
+    {
+      "memory_id": "X0328-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Feels mild afternoon fatigue but still handles hotel check‑ins; ADLs independent.\ncognition: Mini‑Cog not repeated (<1 yr); reports no forgetfulness.\nfalls: One fall at home 3 months ago (tripped on rug); gait slightly unsteady; timed up‑and‑go 13 seconds (raised risk) – advise strength exercises and supportive footwear.\nmedicines: 6 regular; polypharmacy – Beers review pending.\nmood: Reports occasional irritability; PHQ‑2 1.\ncarers: Wife Priya, spouse.\ngoals: \"I want to sleep through the night and avoid another fall.\""
+    },
+    {
+      "memory_id": "X0328-m05",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.0% (ref 4-5.6); FPG 128 mg/dL (70-99); UACR 20 mg/g (<30); TSH 2.0 mIU/L (0.4-4.0); Hb 13.6 g/dL (13-17); ISI 12 (0-28)."
+    },
+    {
+      "memory_id": "X0328-m06",
+      "date": "2025-07-13",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 750 mg BD; glimepiride 1 mg OD before breakfast; sitagliptin 100 mg OD; empagliflozin 10 mg OD; melatonin 3 mg HS; trazodone 50 mg HS."
+    },
+    {
+      "memory_id": "X0328-m07",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-05 10:00 with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0328-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports better energy after metformin increase; walks 40 min daily; ADLs unchanged.\ncognition: Mini‑Cog score 4/5 (negative); recalls recent events well.\nfalls: No new falls; gait steady; timed up‑and‑go 10 seconds (normal).\nmedicines: 6 regular; polypharmacy – Beers review scheduled.\nmood: Denies low mood; PHQ‑2 0.\ncarers: Wife Priya, spouse.\ngoals: \"I want to keep my sugar under 7% and feel rested.\""
+    },
+    {
+      "memory_id": "X0328-m09",
+      "date": "2025-10-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 6.8% (ref 4-5.6); FPG 122 mg/dL (70-99); UACR 18 mg/g (<30); TSH 2.2 mIU/L (0.4-4.0); Hb 13.9 g/dL (13-17); ISI 10 (0-28)."
+    },
+    {
+      "memory_id": "X0328-m10",
+      "date": "2025-10-08",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 750 mg BD; glimepiride 0.5 mg OD before breakfast; sitagliptin 100 mg OD; empagliflozin 10 mg OD; melatonin 3 mg HS; trazodone 50 mg HS."
+    },
+    {
+      "memory_id": "X0328-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages hotel front desk without fatigue; walks 45 min daily; ADLs independent.\ncognition: Annual Mini‑Cog score 2/5 (positive) – plan for full neuropsych assessment.\nfalls: No falls in past year; gait normal; timed up‑and‑go 9 seconds (normal).\nmedicines: 6 regular; polypharmacy – Beers review due.\nmood: Reports occasional low mood; PHQ‑2 1.\ncarers: Wife Priya, spouse.\ngoals: \"I want to stay sharp and keep diabetes under control.\""
+    },
+    {
+      "memory_id": "X0328-m12",
+      "date": "2026-01-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 7.1% (ref 4-5.6); FPG 130 mg/dL (70-99); UACR 25 mg/g (<30); TSH 2.0 mIU/L (0.4-4.0); Hb 13.7 g/dL (13-17); ISI 13 (0-28)."
+    },
+    {
+      "memory_id": "X0328-m13",
+      "date": "2026-01-18",
+      "type": "prescription",
+      "author": "D06",
+      "text": "metformin 750 mg BD; sitagliptin 100 mg OD; empagliflozin 10 mg OD; melatonin 3 mg HS; trazodone 50 mg HS. (Glimepiride stopped due to hypoglycaemia)."
+    },
+    {
+      "memory_id": "X0328-m14",
+      "date": "2026-04-20",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Dilated fundus exam: mild non‑proliferative diabetic retinopathy, no macular edema; recommend annual repeat."
+    },
+    {
+      "memory_id": "X0328-m15",
+      "date": "2026-07-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports good stamina; manages hotel shifts, walks 50 min daily; ADLs unchanged.\ncognition: Mini‑Cog not repeated (<1 yr since full assessment); denies new memory issues.\nfalls: No falls; gait steady; timed up‑and‑go 9 seconds (normal).\nmedicines: 5 regular (metformin, sitagliptin, empagliflozin, melatonin, trazodone); polypharmacy threshold not met.\nmood: Denies depression; PHQ‑2 0.\ncarers: Wife Priya, spouse.\ngoals: \"I want to keep sleeping well and avoid complications.\""
+    }
+  ]
+}

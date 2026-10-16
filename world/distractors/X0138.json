@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0138",
+  "name": "Amudha Sundaram",
+  "age": 21,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Hypothyroidism",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0138-m01",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Patient reports fatigue for past 2 months, occasional dizziness on standing, low mood, poor appetite. Menstrual cycles regular. Works as retired railway employee, lives alone in Banashankari. Takes no current meds. Wants check for anemia and thyroid. No known allergies."
+    },
+    {
+      "memory_id": "X0138-m02",
+      "date": "2025-04-07",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Front desk: Appointment booked for patient with Dr Karthik Hegde (Endocrinology) on 2025-04-10 at 10:30 AM for initial evaluation of fatigue, suspected anemia and thyroid disorder. Patient confirmed via phone. Kindly bring any previous lab reports."
+    },
+    {
+      "memory_id": "X0138-m03",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anemia\n  - Status: New, symptomatic with fatigue and dizziness.\n  - Plan: Start ferrous sulfate 200 mg OD after food; check CBC, ferritin, MCV in 4 weeks.\n- Depression\n  - Status: New, low mood, poor appetite, PHQ-9 to be done.\n  - Plan: Start sertraline 50 mg OD after food; counsel on sleep hygiene; review in 4 weeks.\n- Hypothyroidism (subclinical)\n  - Status: New, TSH pending.\n  - Plan: Start levothyroxine 50 mcg OD on empty stomach; repeat TSH in 6 weeks.\n- Weight: 58 kg; Waist: 78 cm (female cut‑off 80 cm).\n- Diet advice: Breakfast – include fortified cereal and orange juice; Lunch – dal, rice, vegetable curry with lemon; Dinner – light chapati with paneer and salad.\n- Due: Next HbA1c not required (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0138-m04",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Ferrous sulfate 200 mg OD after food\nSertraline 50 mg OD after food\nLevothyroxine 50 mcg OD empty stomach"
+    },
+    {
+      "memory_id": "X0138-m05",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 9.2 g/dL (Ref: 12‑16)\nSerum ferritin: 12 ng/mL (Ref: 15‑150)\nMCV: 68 fL (Ref: 80‑100)\nTSH: 5.8 mIU/L (Ref: 0.4‑4.5)\nFree T4: 11.2 pmol/L (Ref: 9‑19)\nPHQ‑9 score: 10 (mild depression)\nVitamin B12: 210 pg/mL (Ref: 200‑900)"
+    },
+    {
+      "memory_id": "X0138-m06",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anemia\n  - Status: Hb improved to 10.8 g/dL, ferritin 22 ng/mL, MCV 71 fL; still microcytic.\n  - Plan: Continue ferrous sulfate 200 mg OD; add vitamin C 500 mg with dose; recheck labs in 6 weeks.\n- Depression\n  - Status: PHQ‑9 down to 6, reports better mood, occasional insomnia.\n  - Plan: Continue sertraline 50 mg OD; add sleep hygiene reinforcement; review in 8 weeks.\n- Hypothyroidism\n  - Status: TSH 4.2 mIU/L (approaching target), free T4 12.5 pmol/L.\n  - Plan: Increase levothyroxine to 75 mcg OD empty stomach; repeat TSH in 6 weeks.\n- Weight: 59 kg; Waist: 79 cm.\n- Diet advice: Breakfast – boiled egg, whole wheat toast, orange; Lunch – brown rice, sambar, steamed veg; Dinner – millet roti, curd, sautéed greens.\n- Due: Next HbA1c not required."
+    },
+    {
+      "memory_id": "X0138-m07",
+      "date": "2025-07-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Ferrous sulfate 200 mg OD after food\nVitamin C 500 mg OD with iron\nSertraline 50 mg OD after food\nLevothyroxine 75 mcg OD empty stomach"
+    },
+    {
+      "memory_id": "X0138-m08",
+      "date": "2025-07-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 4.6 mIU/L (Ref: 0.4‑4.5)\nFree T4: 12.8 pmol/L (Ref: 9‑19)"
+    },
+    {
+      "memory_id": "X0138-m09",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Patient notes increased constipation and dry skin over past month; mood stable, energy better. Menstrual flow slightly heavier. No new meds besides those prescribed. Asks if iron dose can be reduced due to stomach upset."
+    },
+    {
+      "memory_id": "X0138-m10",
+      "date": "2025-09-03",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Front desk: Appointment rescheduled for patient with Dr Karthik Hegde on 2025-09-06 at 09:15 AM (originally 2025-09-08). Patient confirmed via SMS. Please bring any home glucose logs if available."
+    },
+    {
+      "memory_id": "X0138-m11",
+      "date": "2025-09-06",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anemia\n  - Status: Hb 11.6 g/dL, ferritin 35 ng/mL, MCV 73 fL; patient reports mild gastric upset with iron.\n  - Plan: Switch to ferrous sulfate 200 mg on alternate days after food; continue vitamin C; recheck labs in 8 weeks.\n- Depression\n  - Status: PHQ‑9 4, reports good mood, sleep improved.\n  - Plan: Continue sertraline 50 mg OD; consider tapering if stable for 3 months.\n- Hypothyroidism\n  - Status: TSH 4.0 mIU/L, free T4 13.0 pmol/L (within target).\n  - Plan: Keep levothyroxine 75 mcg OD; repeat TSH in 3 months.\n- Weight: 60 kg; Waist: 80 cm (at female cut‑off).\n- Diet advice: Breakfast – poha with peanuts and orange; Lunch – quinoa, rasam, mixed veg; Dinner – chapati, curd, bottle gourd curry.\n- Due: Next HbA1c not required."
+    },
+    {
+      "memory_id": "X0138-m12",
+      "date": "2025-09-08",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Ferrous sulfate 200 mg on alternate days after food\nVitamin C 500 mg OD with iron\nSertraline 50 mg OD after food\nLevothyroxine 75 mcg OD empty stomach"
+    },
+    {
+      "memory_id": "X0138-m13",
+      "date": "2025-11-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 12.4 g/dL (Ref: 12‑16)\nSerum ferritin: 48 ng/mL (Ref: 15‑150)\nMCV: 78 fL (Ref: 80‑100)\nTSH: 3.9 mIU/L (Ref: 0.4‑4.5)\nFree T4: 13.2 pmol/L (Ref: 9‑19)\nPHQ‑9 score: 3 (normal)\nVitamin B12: 260 pg/mL (Ref: 200‑900)"
+    },
+    {
+      "memory_id": "X0138-m14",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Iron-deficiency anemia\n  - Status: Hb normal, ferritin adequate, MCV borderline; iron stores replete.\n  - Plan: Stop ferrous sulfate; continue vitamin C 500 mg OD for 4 weeks then discontinue; monitor CBC in 3 months.\n- Depression\n  - Status: PHQ‑9 2, asymptomatic, sertraline well tolerated.\n  - Plan: Taper sertraline to 25 mg OD for 2 weeks then stop; continue follow‑up.\n- Hypothyroidism\n  - Status: Euthyroid on levothyroxine 75 mcg OD; TSH 3.8, free T4 13.1.\n  - Plan: Continue same dose; repeat TSH in 6 months.\n- Weight: 61 kg; Waist: 81 cm (slightly above female cut‑off).\n- Diet advice: Breakfast – idli with sambar and orange; Lunch – millet khichdi, curd, salad; Dinner – vegetable stir‑fry with tofu, chapati.\n- Due: Next HbA1c not required."
+    },
+    {
+      "memory_id": "X0138-m15",
+      "date": "2026-10-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin: 12.6 g/dL (Ref: 12‑16)\nSerum ferritin: 52 ng/mL (Ref: 15‑150)\nMCV: 80 fL (Ref: 80‑100)\nTSH: 3.7 mIU/L (Ref: 0.4‑4.5)\nFree T4: 13.4 pmol/L (Ref: 9‑19)\nPHQ‑9 score: 1 (normal)\nVitamin B12: 280 pg/mL (Ref: 200‑900)"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0047",
+  "name": "Archana Sawant",
+  "age": 84,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Heart failure with reduced ejection fraction",
+    "Allergic rhinitis",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0047-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Heart failure with reduced ejection fraction. Patient reports exertional dyspnea, orthopnea, and fatigue. On examination: bilateral basal crackles, elevated JVP, pitting edema up to mid‑calf. Spirometry: FEV1 1.85 L (68% predicted), FVC 2.30 L (78%), FEV1/FVC 0.80; unchanged from prior. Asthma Control Test 22 (well controlled). Technique checked: correct. Smoking status: never."
+    },
+    {
+      "memory_id": "X0047-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Sacubitril/valsartan 24/26 mg BD\nBisoprolol 2.5 mg OD\nSpironolactone 25 mg OD\nFurosemide 40 mg OD\nDapagliflozin 10 mg OD\nCetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nCholecalciferol 60000 IU once weekly for 8 weeks"
+    },
+    {
+      "memory_id": "X0047-m03",
+      "date": "2025-04-07",
+      "type": "allergy",
+      "author": "D05",
+      "text": "Allergic rhinitis – sensitivity to house dust mite and pollen. Symptoms: sneezing, nasal congestion, clear rhinorrhea. No asthma exacerbation."
+    },
+    {
+      "memory_id": "X0047-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "EF 38% (echo), NYHA class II. Serum potassium 4.2 mmol/L (3.5‑5.0). Serum creatinine 112 µmol/L (60‑110). NT‑proBNP 620 pg/mL (<300). Total serum IgE 210 IU/mL (<100). Serum 25‑OH vitamin D 14 ng/mL (30‑100). Serum calcium 9.1 mg/dL (8.5‑10.5). Serum phosphate 3.4 mg/dL (2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0047-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Heart failure with reduced ejection fraction. Improved dyspnea on exertion, no orthopnea. Exam: mild basal crackles, JVP normal, trace edema. Spirometry: FEV1 1.92 L (70% predicted) ↑0.07 L, FVC 2.35 L (80%), FEV1/FVC 0.82. ACT 23 (well controlled). Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0047-m06",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Furosemide increased to 60 mg OD\nAll other meds unchanged."
+    },
+    {
+      "memory_id": "X0047-m07",
+      "date": "2025-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "EF 40% (echo), NYHA II. K+ 4.6 mmol/L. Creatinine 108 µmol/L. NT‑proBNP 540 pg/mL. Vitamin D 28 ng/mL (after loading). Calcium 9.2 mg/dL. Phosphate 3.5 mg/dL. IgE 190 IU/mL."
+    },
+    {
+      "memory_id": "X0047-m08",
+      "date": "2025-11-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Heart failure with reduced ejection fraction. Stable, reports occasional night‑time cough. Exam: clear lungs, no JVP elevation, no edema. Spirometry: FEV1 1.88 L (69%) ↓0.04 L, FVC 2.30 L (79%), FEV1/FVC 0.82. ACT 21 (well controlled). Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0047-m09",
+      "date": "2025-11-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol switched to maintenance 1000 IU OD\nAll other meds unchanged."
+    },
+    {
+      "memory_id": "X0047-m10",
+      "date": "2026-02-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked echocardiogram review for 2026-02-12 09:30."
+    },
+    {
+      "memory_id": "X0047-m11",
+      "date": "2026-02-12",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Transthoracic echocardiogram: LVEF 42%, mild diastolic dysfunction, no significant valve disease. LV dimensions normal. Inferior vena cava collapsible >50% with sniff."
+    },
+    {
+      "memory_id": "X0047-m12",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Heart failure with reduced ejection fraction. Patient feels more energetic, denies dyspnea. Exam: lungs clear, JVP normal, no edema. Spirometry: FEV1 2.00 L (73%) ↑0.12 L, FVC 2.38 L (82%), FEV1/FVC 0.84. ACT 24 (well controlled). Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0047-m13",
+      "date": "2026-04-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Bisoprolol increased to 5 mg OD\nAll other meds unchanged."
+    },
+    {
+      "memory_id": "X0047-m14",
+      "date": "2026-06-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "EF 44% (echo), NYHA I. K+ 5.3 mmol/L (slightly high). Creatinine 115 µmol/L. NT‑proBNP 480 pg/mL. Vitamin D 32 ng/mL. Calcium 9.3 mg/dL. Phosphate 3.6 mg/dL."
+    },
+    {
+      "memory_id": "X0047-m15",
+      "date": "2026-08-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Heart failure with reduced ejection fraction. Noted mild fatigue, no dyspnea. Exam: lungs clear, JVP normal, trace ankle edema. Spirometry: FEV1 1.95 L (71%) ↓0.05 L, FVC 2.35 L (81%), FEV1/FVC 0.83. ACT 20 (borderline well controlled). Technique checked: correct. Smoking: never."
+    },
+    {
+      "memory_id": "X0047-m16",
+      "date": "2026-08-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Spironolactone stopped due to K+ 5.3 mmol/L\nFurosemide reduced to 40 mg OD\nAll other meds unchanged."
+    }
+  ]
+}

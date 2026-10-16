@@ -1,0 +1,21 @@
+{
+  "doctor_id": "D01",
+  "name": "Dr Anjali Mehta",
+  "specialty": "Internal Medicine and Diabetology",
+  "memories": [
+    {
+      "memory_id": "D01-m01",
+      "date": "2025-04-01",
+      "type": "doctor_preference",
+      "author": "D01",
+      "text": "Dr Mehta's notes always follow the S/O/A/P headings, written as S:, O:, A: and P:. The Plan is a numbered list, with one action per line."
+    },
+    {
+      "memory_id": "D01-m02",
+      "date": "2025-04-03",
+      "type": "doctor_preference",
+      "author": "D01",
+      "text": "Telmisartan is Dr Mehta's first-line antihypertensive for patients with diabetes. Other agents are added only when blood pressure stays above target on telmisartan."
+    }
+  ]
+}

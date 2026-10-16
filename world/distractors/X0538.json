@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0538",
+  "name": "Amit Pandey",
+  "age": 50,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Psoriasis",
+    "Depression",
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0538-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  - Status: eGFR 55 mL/min/1.73m2, serum creatinine 1.6 mg/dL, urine ACR 120 mg/g, Hb 12.8 g/dL; asymptomatic.\n  - Plan: Continue telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD; monitor labs in 3 months; advise low‑salt diet, avoid NSAIDs.\n- Depression\n  - Status: PHQ‑9 10 (mild), reports low mood, fatigue; sleep 5‑6 h.\n  - Plan: Start sertraline 50 mg OD after breakfast; counsel on sleep hygiene; review PHQ‑9 in 4 weeks.\n- Psoriasis\n  - Status: Plaques on elbows and knees, PASI 6; topical clobetasol 0.05% cream BD, calcipotriol ointment OD.\n  - Plan: Add methotrexate 7.5 mg weekly with folic acid 5 mg OD; LFT, CBC, creatinine today; review in 6 weeks.\n- Weight 78 kg, waist 92 cm (>90 cm male cutoff).\n- Diet advice: Breakfast – whole grain toast with egg white, no added salt.\n  Lunch – millet roti, dal, vegetable curry, limited oil.\n  Dinner – grilled fish, salad, small portion rice.\n- Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0538-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "telmisartan 40 mg OD after breakfast\n dapagliflozin 10 mg OD after breakfast\n furosemide 20 mg OD morning\n sodium bicarbonate 500 mg BD after meals\n sertraline 50 mg OD after breakfast\n clobetasol 0.05% cream BD topical\n calcipotriol ointment OD topical\n methotrexate 7.5 mg once weekly (Saturday) with folic acid 5 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0538-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.6 mg/dL (0.6‑1.2)\neGFR 55 mL/min/1.73m2 (>60 normal)\nUrine albumin‑creatinine ratio 120 mg/g (<30 normal)\nHaemoglobin 12.8 g/dL (13‑17)\nALT 28 U/L (<40)\nAST 26 U/L (<40)\nALP 85 U/L (<120)\nTotal bilirubin 0.9 mg/dL (<1.2)\nHbA1c 5.6% (4‑5.6)\nCBC: WBC 6.2 x10^9/L, Hb 12.8, Plt 210 x10^9/L\nVitamin B12 340 pg/mL (200‑900)\nTSH 2.1 mIU/L (0.4‑4.0)\nPHQ‑9 10"
+    },
+    {
+      "memory_id": "X0538-m04",
+      "date": "2025-04-05",
+      "type": "referral",
+      "author": "D04",
+      "text": "To: Dermatology, Sunrise Specialty Centre\nReason: Moderate‑severe psoriasis requiring systemic therapy.\nCurrent meds: clobetasol 0.05% cream BD, calcipotriol ointment OD, methotrexate 7.5 mg weekly.\nRequest: Baseline assessment, consider phototherapy or biologic if needed.\nPlease send report to Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0538-m05",
+      "date": "2025-05-20",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Dermatology reply: Patient assessed, PASI 6, nail involvement mild.\nRecommend continuing methotrexate 7.5 mg weekly with folic acid, add topical calcipotriol‑betamethasone combo.\nPhototherapy offered; patient declined due to work schedule.\nReturn to routine follow‑up in 3 months.\n-- Dr S. Rao, Dermatology."
+    },
+    {
+      "memory_id": "X0538-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  - Status: eGFR 48 mL/min/1.73m2, creatinine 1.9 mg/dL, urine ACR 150 mg/g, Hb 12.2 g/dL; mild fatigue.\n  - Plan: Increase telmisartan to 80 mg OD after breakfast; continue dapagliflozin, furosemide 20 mg OD, sodium bicarbonate 500 mg BD; check labs in 6 weeks; counsel fluid restriction 1.5 L/day.\n- Depression\n  - Status: PHQ‑9 6 (improved), reports better mood, sleep 6‑7 h.\n  - Plan: Continue sertraline 50 mg OD; consider dose increase if symptoms worsen.\n- Psoriasis\n  - Status: Plaques slightly thinner, PASI 4; topicals well tolerated.\n  - Plan: Continue methotrexate 7.5 mg weekly; LFT today shows ALT 32, AST 30; repeat in 3 months.\n- Weight 79 kg, waist 93 cm (>90).\n- Diet advice: Breakfast – oats with milk, no sugar.\n  Lunch – brown rice, sambar, steamed veg.\n  Dinner – chicken curry, roti, cucumber raita.\n- Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0538-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "telmisartan 80 mg OD after breakfast\n dapagliflozin 10 mg OD after breakfast\n furosemide 20 mg OD morning\n sodium bicarbonate 500 mg BD after meals\n sertraline 50 mg OD after breakfast\n clobetasol 0.05% cream BD topical\n calcipotriol ointment OD topical\n methotrexate 7.5 mg once weekly with folic acid 5 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0538-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.9 mg/dL\n eGFR 48 mL/min/1.73m2\n Urine ACR 150 mg/g\n Haemoglobin 12.2 g/dL\n ALT 32 U/L\n AST 30 U/L\n ALP 88 U/L\n Total bilirubin 0.9 mg/dL\n HbA1c 5.5%\n CBC: WBC 5.9, Hb 12.2, Plt 205\n Vitamin B12 360 pg/mL\n TSH 2.0 mIU/L\n PHQ‑9 6"
+    },
+    {
+      "memory_id": "X0538-m09",
+      "date": "2025-12-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  - Status: eGFR 42 mL/min/1.73m2, creatinine 2.2 mg/dL, urine ACR 180 mg/g, Hb 11.8 g/dL; occasional ankle swelling.\n  - Plan: Add spironolactone 12.5 mg OD after breakfast (monitor K+); continue telmisartan 80 mg, dapagliflozin 10 mg, furosemide 20 mg, sodium bicarbonate 500 mg BD; labs in 6 weeks; advise low‑potassium diet.\n- Depression\n  - Status: PHQ‑9 8 (mild worsening), reports low energy, difficulty concentrating.\n  - Plan: Increase sertraline to 75 mg OD after breakfast; add mirtazapine 15 mg HS for sleep; review PHQ‑9 in 4 weeks.\n- Psoriasis\n  - Status: Stable, PASI 4, no new lesions.\n  - Plan: Continue methotrexate 7.5 mg weekly; LFT today ALT 28, AST 26; repeat in 3 months.\n- Weight 80 kg, waist 94 cm (>90).\n- Diet advice: Breakfast – idli with sambar, no coconut chutney.\n  Lunch – wheat roti, dal, leafy greens.\n  Dinner – fish curry, small rice, salad.\n- Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0538-m10",
+      "date": "2025-12-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "telmisartan 80 mg OD after breakfast\n dapagliflozin 10 mg OD after breakfast\n furosemide 20 mg OD morning\n sodium bicarbonate 500 mg BD after meals\n spironolactone 12.5 mg OD after breakfast\n sertraline 75 mg OD after breakfast\n mirtazapine 15 mg HS\n clobetasol 0.05% cream BD topical\n calcipotriol ointment OD topical\n methotrexate 7.5 mg once weekly with folic acid 5 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0538-m11",
+      "date": "2025-12-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 2.2 mg/dL\n eGFR 42 mL/min/1.73m2\n Urine ACR 180 mg/g\n Haemoglobin 11.8 g/dL\n ALT 28 U/L\n AST 26 U/L\n ALP 85 U/L\n Total bilirubin 0.9 mg/dL\n HbA1c 5.4%\n CBC: WBC 5.8, Hb 11.8, Plt 200\n Vitamin B12 350 pg/mL\n TSH 2.2 mIU/L\n PHQ‑9 8"
+    },
+    {
+      "memory_id": "X0538-m12",
+      "date": "2026-01-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling more tired lately and my mood dips in the evenings. The sertraline helps but I still struggle to stay awake during night shifts. Could we adjust something?"
+    },
+    {
+      "memory_id": "X0538-m13",
+      "date": "2026-03-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG: Sinus rhythm, rate 78 bpm. No ST‑T changes. Left ventricular voltage within normal limits. No Q‑waves. Normal sinus rhythm. No evidence of ischemia or infarction."
+    },
+    {
+      "memory_id": "X0538-m14",
+      "date": "2026-06-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  - Status: eGFR 38 mL/min/1.73m2, creatinine 2.5 mg/dL, urine ACR 210 mg/g, Hb 11.4 g/dL; mild dyspnea on exertion.\n  - Plan: Continue telmisartan 80 mg, dapagliflozin 10 mg, furosemide 20 mg, spironolactone 12.5 mg, sodium bicarbonate 500 mg BD; check K+ and creatinine in 4 weeks; consider erythropoietin if Hb falls <10.\n- Depression\n  - Status: PHQ‑9 5 (improved), reports better sleep with mirtazapine, mood stable.\n  - Plan: Continue sertraline 75 mg OD, mirtazapine 15 mg HS; review in 8 weeks.\n- Psoriasis\n  - Status: Plaques mild, PASI 2; topicals adequate.\n  - Plan: Continue methotrexate 7.5 mg weekly; LFT today ALT 24, AST 22; repeat in 6 months.\n- Weight 81 kg, waist 95 cm (>90).\n- Diet advice: Breakfast – poha with peanuts, no added salt.\n  Lunch – jowar roti, sambar, cooked veg.\n  Dinner – egg curry, two rotis, cucumber slices.\n- Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0538-m15",
+      "date": "2026-06-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "telmisartan 80 mg OD after breakfast\n dapagliflozin 10 mg OD after breakfast\n furosemide 20 mg OD morning\n sodium bicarbonate 500 mg BD after meals\n spironolactone 12.5 mg OD after breakfast\n sertraline 75 mg OD after breakfast\n mirtazapine 15 mg HS\n clobetasol 0.05% cream BD topical\n calcipotriol ointment OD topical\n methotrexate 7.5 mg once weekly with folic acid 5 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0538-m16",
+      "date": "2026-06-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 2.5 mg/dL\n eGFR 38 mL/min/1.73m2\n Urine ACR 210 mg/g\n Haemoglobin 11.4 g/dL\n ALT 24 U/L\n AST 22 U/L\n ALP 80 U/L\n Total bilirubin 0.8 mg/dL\n HbA1c 5.3%\n CBC: WBC 5.5, Hb 11.4, Plt 195\n Vitamin B12 340 pg/mL\n TSH 2.3 mIU/L\n PHQ‑9 5"
+    },
+    {
+      "memory_id": "X0538-m17",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-09-15 at 10:30 AM with Dr Karthik Hegde (D04) in Endocrinology clinic. Patient confirmed via SMS."
+    }
+  ]
+}

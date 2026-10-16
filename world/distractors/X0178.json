@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0178",
+  "name": "Jaswinder Dhillon",
+  "age": 61,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Migraine",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0178-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: chronic, 4-5 days/month, using sumatriptan SOS, prophylaxis propranolol 40 mg OD, topiramate 25 mg HS, naproxen SOS. Stable.\nDepression: PHQ-9 8, on sertraline 50 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS, reports improved mood, mild insomnia.\nPlan: Continue current meds. Check weight, waist (92 cm, >90 cm male cut‑off). Advise balanced diet: breakfast - whole grain toast with avocado; lunch - mixed veg salad with grilled fish; dinner - lentil soup with brown rice. Due: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0178-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 40 mg OD after food\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS after food\nNaproxen 500 mg SOS after food\nSertraline 50 mg OD after food\nEscitalopram 10 mg OD after food\nMirtazapine 15 mg HS after food"
+    },
+    {
+      "memory_id": "X0178-m03",
+      "date": "2025-04-06",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Neurological examination: cranial nerves II-XII intact, no focal weakness, normal gait, no pronator drift. Migraine-related tenderness absent over temples. No meningism."
+    },
+    {
+      "memory_id": "X0178-m04",
+      "date": "2025-04-07",
+      "type": "investigation",
+      "author": "D04",
+      "text": "CT head (non‑contrast): no acute hemorrhage, infarct or mass lesion. Ventricular size normal. No chronic ischemic changes."
+    },
+    {
+      "memory_id": "X0178-m05",
+      "date": "2025-04-08",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.0)\nVitamin B12 320 pg/mL (200‑900)\nLipid profile: Cholesterol 180 mg/dL (<200), Triglycerides 120 mg/dL (<150), HDL 48 mg/dL (>40), LDL 100 mg/dL (<130)"
+    },
+    {
+      "memory_id": "X0178-m06",
+      "date": "2025-04-09",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Migraine has been about 4 days per month, sumatriptan helps within 2 hours. Mood better, sleeping ~6 hours, occasional early waking."
+    },
+    {
+      "memory_id": "X0178-m07",
+      "date": "2025-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-12 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0178-m08",
+      "date": "2025-07-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: frequency reduced to 2‑3 days/month, sumatriptan used 2 times last month. Propranolol 40 mg OD tolerated, topiramate 25 mg HS causing mild paresthesia; consider taper.\nDepression: PHQ-9 5, reports better sleep, energy improved. Sertraline 50 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS continued.\nPlan: Taper topiramate by 12.5 mg HS weekly off over 2 weeks, then stop. Increase propranolol to 60 mg OD for better prophylaxis. Add vitamin D 1000 IU OD (not recorded elsewhere). Weight 78 kg, waist 90 cm (at cut‑off). Diet advice: breakfast - oatmeal with nuts; lunch - quinoa bowl with chickpeas; dinner - grilled chicken with steamed veg. Due: HbA1c 2025-10-12."
+    },
+    {
+      "memory_id": "X0178-m09",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 60 mg OD after food\nSumatriptan 50 mg SOS\nTopiramate tapered: 12.5 mg HS for 7 days then stop\nNaproxen 500 mg SOS after food\nSertraline 50 mg OD after food\nEscitalopram 10 mg OD after food\nMirtazapine 15 mg HS after food\nVitamin D3 1000 IU OD after food"
+    },
+    {
+      "memory_id": "X0178-m10",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.3 mIU/L (0.4‑4.0)\nVitamin B12 310 pg/mL (200‑900)\nHbA1c 6.2% (4‑5.6) – elevated, indicating pre‑diabetes.\nLipid profile: Cholesterol 190 mg/dL, Triglycerides 135 mg/dL, HDL 46 mg/dL, LDL 110 mg/dL"
+    },
+    {
+      "memory_id": "X0178-m11",
+      "date": "2025-10-22",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: now 1‑2 days/month, sumatriptan used once. Propranolol 60 mg OD well tolerated, no topiramate.\nDepression: PHQ-9 4, reports good mood, sleep 7 hrs. Meds unchanged.\nPre‑diabetes: HbA1c 6.2%. Plan: lifestyle reinforcement – reduce refined sugars, increase fiber, aim 150 min/week brisk walk. Metformin not started yet.\nWeight 77 kg, waist 88 cm (<90). Diet: breakfast - multigrain toast with egg white; lunch - mixed veg dal with brown rice; dinner - fish curry with salad.\nDue: HbA1c 2026-01-22; lipid repeat annually."
+    },
+    {
+      "memory_id": "X0178-m12",
+      "date": "2026-01-18",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Neurology for review of migraine prophylaxis despite propranolol 60 mg OD, patient requests alternative options. Include recent headache diary and medication list."
+    },
+    {
+      "memory_id": "X0178-m13",
+      "date": "2026-02-10",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Neurology letter: Patient examined, migraine episodic, well controlled on propranolol 60 mg OD. Suggest adding amitriptyline 10 mg HS if needed, but current regimen acceptable. Return to primary care for routine follow‑up."
+    },
+    {
+      "memory_id": "X0178-m14",
+      "date": "2026-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4‑4.0)\nVitamin B12 315 pg/mL (200‑900)\nHbA1c 5.9% (4‑5.6) – improved.\nLipid profile: Cholesterol 175 mg/dL, Triglycerides 115 mg/dL, HDL 50 mg/dL, LDL 95 mg/dL"
+    },
+    {
+      "memory_id": "X0178-m15",
+      "date": "2026-07-08",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Migraine: 0‑1 days/month, sumatriptan not used in last 2 months. Propranolol 60 mg OD continued.\nDepression: PHQ-9 3, reports feeling well, sleep 7‑8 hrs. Meds unchanged.\nDiabetes screen: HbA1c 5.9% now within normal range, lifestyle effective.\nWeight 76 kg, waist 86 cm (<90). Diet: breakfast - idli with sambhar; lunch - vegetable pulao with raita; dinner - grilled fish with steamed broccoli.\nDue: HbA1c 2026-10-08; lipid repeat annually."
+    },
+    {
+      "memory_id": "X0178-m16",
+      "date": "2026-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original visit scheduled for 2026-10-12 moved to 2026-10-10 at 09:00 am with Dr Karthik Hegde (D04). Patient confirmed."
+    }
+  ]
+}

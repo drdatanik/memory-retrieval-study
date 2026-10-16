@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0415",
+  "name": "Jacob Varghese",
+  "age": 77,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Rheumatoid arthritis",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0415-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis and vitamin D deficiency. Patient reports morning stiffness in hands and knees lasting ~45 minutes, mild fatigue. Examination: tender swollen MCP and PIP joints bilaterally, no deformities. Spirometry not indicated. Asthma Control Test not applicable. Smoking: never. Plan: start methotrexate 10 mg weekly, folic acid 5 mg weekly, hydroxychloroquine 200 mg OD, prednisolone 5 mg OD, cholecalciferol 60000 IU weekly for 8 weeks then 1000 IU OD. Review in 3 months."
+    },
+    {
+      "memory_id": "X0415-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 14 ng/mL (ref 30-100). Serum calcium: 9.2 mg/dL (8.5-10.5). Serum phosphate: 3.4 mg/dL (2.5-4.5). ESR: 28 mm/hr (0-20). CRP: 6 mg/L (<5). Rheumatoid factor: 45 IU/mL (<14). Anti-CCP: 68 U/ml (<20). LFT: ALT 22 U/L, AST 20 U/L, ALP 80 U/L, bilirubin 0.9 mg/dL – all normal."
+    },
+    {
+      "memory_id": "X0415-m03",
+      "date": "2025-04-18",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Methotrexate 10 mg oral once weekly\nFolic acid 5 mg oral once weekly\nHydroxychloroquine 200 mg oral daily\nPrednisolone 5 mg oral daily\nCholecalciferol 60000 IU oral once weekly for 8 weeks, then 1000 IU oral daily"
+    },
+    {
+      "memory_id": "X0415-m04",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling better, less morning stiffness now about 20 minutes. No new joint swelling. Taking all medicines as prescribed. No side effects noticed."
+    },
+    {
+      "memory_id": "X0415-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis, improving. Morning stiffness 15-20 minutes, mild fatigue. Exam: mild tenderness in wrists, no synovitis. Spirometry: FEV1 2.85 L (92% pred), FVC 3.40 L (88% pred), FEV1/FVC 0.84; change from baseline +0.10 L. Asthma Control Test not needed. Smoking: never. Technique checked: correct for inhalers (none). Plan: continue current meds, consider tapering prednisolone if labs allow. Review in 2 months."
+    },
+    {
+      "memory_id": "X0415-m06",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 32 ng/mL (ref 30-100). Serum calcium: 9.4 mg/dL. Serum phosphate: 3.6 mg/dL. ESR: 18 mm/hr. CRP: 3 mg/L. Rheumatoid factor: 30 IU/mL. Anti-CCP: 42 U/ml. LFT: ALT 24, AST 21, ALP 78, bilirubin 0.8 – normal."
+    },
+    {
+      "memory_id": "X0415-m07",
+      "date": "2025-07-25",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Methotrexate increased to 15 mg oral once weekly\nFolic acid 5 mg oral once weekly\nHydroxychloroquine 200 mg oral daily\nPrednisolone reduced to 2.5 mg oral daily\nCholecalciferol 1000 IU oral daily (maintenance)"
+    },
+    {
+      "memory_id": "X0415-m08",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Suresh Menon on 2025-09-15 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0415-m09",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis, stable. Morning stiffness ~10 minutes, no fatigue. Exam: no joint swelling, mild tenderness in left knee. Spirometry: FEV1 2.90 L (94% pred), FVC 3.45 L (90% pred), FEV1/FVC 0.84; change +0.05 L since last. Asthma Control Test not applicable. Smoking: never. Inhaler technique: N/A. Plan: maintain methotrexate 15 mg weekly, folic acid, hydroxychloroquine, prednisolone 2.5 mg daily, vitamin D 1000 IU daily. Review in 3 months."
+    },
+    {
+      "memory_id": "X0415-m10",
+      "date": "2025-09-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 35 ng/mL (ref 30-100). Serum calcium: 9.5 mg/dL. Serum phosphate: 3.7 mg/dL. ESR: 12 mm/hr. CRP: 2 mg/L. Rheumatoid factor: 22 IU/mL. Anti-CCP: 30 U/ml. LFT: ALT 23, AST 20, ALP 76, bilirubin 0.7 – normal."
+    },
+    {
+      "memory_id": "X0415-m11",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Vitamin D3 cholecalciferol 1000 IU oral daily continued\nMethotrexate 15 mg oral once weekly\nFolic acid 5 mg oral once weekly\nHydroxychloroquine 200 mg oral daily\nPrednisolone 2.5 mg oral daily"
+    },
+    {
+      "memory_id": "X0415-m12",
+      "date": "2026-02-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Increased pain and swelling in right knee over past 3 weeks, morning stiffness now about 30 minutes. Feeling more tired. Medicines taken as prescribed."
+    },
+    {
+      "memory_id": "X0415-m13",
+      "date": "2026-02-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis flare. Right knee swollen, warm, tender; morning stiffness 30 minutes, fatigue moderate. Exam: right knee effusion, mild tenderness in left wrist. Spirometry: FEV1 2.80 L (91% pred), FVC 3.38 L (88% pred), FEV1/FVC 0.83; change -0.10 L since last. Asthma Control Test not needed. Smoking: never. Technique checked: N/A. Plan: add short course prednisolone 10 mg daily for 5 days then taper to 5 mg daily; continue methotrexate 15 mg weekly, folic acid, hydroxychloroquine, vitamin D. Review in 4 weeks."
+    },
+    {
+      "memory_id": "X0415-m14",
+      "date": "2026-03-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Prednisolone 10 mg oral daily for 5 days, then taper to 5 mg oral daily\nMethotrexate 15 mg oral once weekly\nFolic acid 5 mg oral once weekly\nHydroxychloroquine 200 mg oral daily\nCholecalciferol 1000 IU oral daily"
+    },
+    {
+      "memory_id": "X0415-m15",
+      "date": "2026-05-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray performed to rule out interstitial lung disease due to methotrexate. Findings: lungs clear, no infiltrates, no pleural effusion. Cardiac silhouette normal. No evidence of fibrosis."
+    },
+    {
+      "memory_id": "X0415-m16",
+      "date": "2026-08-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis, well controlled. Morning stiffness <5 minutes, no fatigue. Exam: no joint swelling or tenderness. Spirometry: FEV1 2.95 L (96% pred), FVC 3.50 L (91% pred), FEV1/FVC 0.84; change +0.15 L since last flare. Asthma Control Test not applicable. Smoking: never. Inhaler technique: N/A. Plan: taper prednisolone to 2.5 mg daily, aim to discontinue if stable; continue methotrexate 15 mg weekly, folic acid, hydroxychloroquine, vitamin D 1000 IU daily. Review in 3 months."
+    }
+  ]
+}

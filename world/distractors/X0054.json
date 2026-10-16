@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0054",
+  "name": "Srinivas Pulipati",
+  "age": 49,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Chronic kidney disease",
+    "Psoriasis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0054-m01",
+      "date": "2025-04-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  Status: Stable, asymptomatic\n  Plan: Continue current renal protective regimen; monitor labs in 3 months.\n- Psoriasis\n  Status: Mild plaques on elbows and knees\n  Plan: Continue topical clobetasol BD and calcipotriol OD; review response.\n- Weight: 78 kg; Waist: 92 cm (above male cutoff 90 cm)\n- Due: HbA1c 2025-07-02 (routine)"
+    },
+    {
+      "memory_id": "X0054-m02",
+      "date": "2025-04-02",
+      "type": "prescription",
+      "author": "D04",
+      "text": "telmisartan 40 mg OD 1-0-0 after food\ndapagliflozin 10 mg OD 1-0-0 before food\nfurosemide 20 mg OD 1-0-0 after food\nsodium bicarbonate 500 mg BD 1-0-1 after food\nclobetasol 0.05% cream BD topical\ncalcipotriol ointment OD topical\nmethotrexate 7.5 mg once weekly\nfolic acid 5 mg OD"
+    },
+    {
+      "memory_id": "X0054-m03",
+      "date": "2025-04-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 1.4 mg/dL (0.6-1.2)\neGFR: 48 mL/min/1.73m2 (>60)\nUrine ACR: 45 mg/g (<30)\nHaemoglobin: 13.2 g/dL (13-17)\nALT: 28 U/L (≤40)\nAST: 24 U/L (≤40)\nALP: 80 U/L (≤120)\nGGT: 30 U/L (≤50)\nWBC: 6.5 ×10^9/L (4-10)\nPlatelets: 250 ×10^9/L (150-400)"
+    },
+    {
+      "memory_id": "X0054-m04",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  Status: Stable, no edema\n  Plan: Continue telmisartan, dapagliflozin, furosemide, sodium bicarbonate; repeat labs.\n- Psoriasis\n  Status: Mild improvement, occasional itch\n  Plan: Maintain topicals; consider short course of methotrexate if flare.\n- Weight: 77 kg; Waist: 90 cm (at cutoff)\n- Due: HbA1c 2025-10-05"
+    },
+    {
+      "memory_id": "X0054-m05",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "telmisartan 80 mg OD 1-0-0 after food\ndapagliflozin 10 mg OD 1-0-0 before food\nfurosemide 20 mg OD 1-0-0 after food\nsodium bicarbonate 500 mg BD 1-0-1 after food\nclobetasol 0.05% cream BD topical\ncalcipotriol ointment OD topical\nmethotrexate 7.5 mg once weekly\nfolic acid 5 mg OD"
+    },
+    {
+      "memory_id": "X0054-m06",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 1.3 mg/dL (0.6-1.2)\neGFR: 52 mL/min/1.73m2 (>60)\nUrine ACR: 38 mg/g (<30)\nHaemoglobin: 13.5 g/dL (13-17)\nALT: 30 U/L (≤40)\nAST: 26 U/L (≤40)\nALP: 85 U/L (≤120)\nGGT: 32 U/L (≤50)\nWBC: 6.8 ×10^9/L (4-10)\nPlatelets: 260 ×10^9/L (150-400)"
+    },
+    {
+      "memory_id": "X0054-m07",
+      "date": "2025-10-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"Over the past week my elbows and knees have become more red, scaly and itchy. I’m applying the creams but they don’t seem to help much.\""
+    },
+    {
+      "memory_id": "X0054-m08",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  Status: Stable\n  Plan: Continue renal meds; labs due in 3 months.\n- Psoriasis\n  Status: Active flare on elbows and knees\n  Plan: Increase clobetasol to BD under occlusion for 2 weeks; continue calcipotriol OD; add methotrexate 7.5 mg weekly if no improvement.\n- Weight: 76 kg; Waist: 89 cm (below cutoff)\n- Due: HbA1c 2026-01-10"
+    },
+    {
+      "memory_id": "X0054-m09",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "telmisartan 80 mg OD 1-0-0 after food\ndapagliflozin 10 mg OD 1-0-0 before food\nfurosemide 20 mg OD 1-0-0 after food\nsodium bicarbonate 500 mg BD 1-0-1 after food\nclobetasol 0.05% cream BD topical (occlusive for 2 weeks)\ncalcipotriol ointment OD topical\nmethotrexate 7.5 mg once weekly\nfolic acid 5 mg OD"
+    },
+    {
+      "memory_id": "X0054-m10",
+      "date": "2026-01-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-15 at 10:30 with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0054-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  Status: Stable, no symptoms\n  Plan: Continue current regimen; repeat labs.\n- Psoriasis\n  Status: Marked improvement, mild residual scaling\n  Plan: Taper clobetasol to OD; continue calcipotriol OD; continue methotrexate weekly.\n- Weight: 75 kg; Waist: 88 cm\n- Due: HbA1c 2026-04-15"
+    },
+    {
+      "memory_id": "X0054-m12",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT: 22 U/L (≤40)\nAST: 20 U/L (≤40)\nALP: 78 U/L (≤120)\nGGT: 28 U/L (≤50)\nWBC: 6.2 ×10^9/L (4-10)\nHaemoglobin: 13.4 g/dL (13-17)\nPlatelets: 240 ×10^9/L (150-400)"
+    },
+    {
+      "memory_id": "X0054-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  Status: Stable\n  Plan: Continue telmisartan, dapagliflozin, furosemide, sodium bicarbonate; labs due.\n- Psoriasis\n  Status: Mild persistent plaques, tolerable\n  Plan: Methotrexate held due to mild LFT elevation; continue topicals; monitor liver.\n- Weight: 74 kg; Waist: 87 cm\n- Due: HbA1c 2026-07-20"
+    },
+    {
+      "memory_id": "X0054-m14",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "telmisartan 80 mg OD 1-0-0 after food\ndapagliflozin 10 mg OD 1-0-0 before food\nfurosemide 20 mg OD 1-0-0 after food\nsodium bicarbonate 500 mg BD 1-0-1 after food\nclobetasol 0.05% cream BD topical\ncalcipotriol ointment OD topical\nmethotrexate: hold\nfolic acid 5 mg OD"
+    },
+    {
+      "memory_id": "X0054-m15",
+      "date": "2026-08-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 1.2 mg/dL (0.6-1.2)\neGFR: 55 mL/min/1.73m2 (>60)\nUrine ACR: 32 mg/g (<30)\nHaemoglobin: 13.6 g/dL (13-17)"
+    },
+    {
+      "memory_id": "X0054-m16",
+      "date": "2026-10-11",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Chronic kidney disease\n  Status: Stable, asymptomatic\n  Plan: Continue current regimen; repeat labs in 3 months.\n- Psoriasis\n  Status: Controlled, minimal plaques\n  Plan: Continue topicals; consider restarting methotrexate if flare.\n- Weight: 73 kg; Waist: 86 cm\n- Due: HbA1c 2027-01-11"
+    }
+  ]
+}

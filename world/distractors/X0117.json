@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0117",
+  "name": "Prakash Patil",
+  "age": 23,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Iron-deficiency anaemia",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0117-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "23-year-old postal worker presents with fatigue and low mood.\nPRESENTING COMPLAINT: He reports persistent tiredness, difficulty concentrating, and feeling down for the past 2 months. Denies chest pain or palpitations.\nEXAMINATION: BP 122/78 mmHg, weight 68 kg, height 1.70 m, BMI 23.5 (overweight). Pulse regular, conjunctiva pale, no lymphadenopathy.\nIMPRESSION: Iron-deficiency anaemia likely contributing to fatigue; moderate depression suspected.\nARRANGEMENTS: Order CBC, ferritin, MCV, PHQ-9, TSH, vitamin B12. Start ferrous sulfate 200 mg PO daily and sertraline 50 mg PO daily. Advise iron-rich diet, vitamin C with meals, and gradual increase in activity. Return if worsening fatigue, suicidal thoughts, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0117-m02",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 10.2 g/dL (13-17). Serum ferritin 12 ng/mL (30-400). MCV 68 fL (80-100). PHQ-9 score 14 (0-27). TSH 2.1 mIU/L (0.4-4.0). Vitamin B12 320 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0117-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg PO daily for 3 months.\nSertraline 50 mg PO daily."
+    },
+    {
+      "memory_id": "X0117-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow-up for anaemia and depression after 3 months of treatment.\nPRESENTING COMPLAINT: Reports improved energy, less tearfulness, but still occasional low mood and mild dyspnoea on exertion.\nEXAMINATION: BP 118/76 mmHg, weight 67 kg, BMI 23.2 (overweight). Pallor improved, no edema.\nIMPRESSION: Haemoglobin rising but still below target; depressive symptoms partially responsive.\nARRANGEMENTS: Repeat CBC, ferritin, MCV, PHQ-9. Change ferrous sulfate to alternate days, increase sertraline to 75 mg daily. Continue diet advice, add brief walk 30 min daily. Return if worsening dyspnoea, chest pain, suicidal ideation, or fever >39°C."
+    },
+    {
+      "memory_id": "X0117-m05",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.8 g/dL (13-17). Serum ferritin 18 ng/mL (30-400). MCV 71 fL (80-100). PHQ-9 score 10 (0-27)."
+    },
+    {
+      "memory_id": "X0117-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg PO on alternate days.\nSertraline 75 mg PO daily."
+    },
+    {
+      "memory_id": "X0117-m07",
+      "date": "2025-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked review appointment for 2025-10-02 at 10:30 AM with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0117-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of anaemia and depression; patient reports good adherence.\nPRESENTING COMPLAINT: Feels more energetic, mood stable, occasional mild fatigue after long walks.\nEXAMINATION: BP 120/78 mmHg, weight 66 kg, BMI 22.9 (normal). No pallor, lungs clear.\nIMPRESSION: Haemoglobin approaching normal; depressive symptoms in remission.\nARRANGEMENTS: Repeat CBC, ferritin, MCV, PHQ-9, TSH, vitamin B12. Continue ferrous sulfate alternate days, maintain sertraline 75 mg daily. Reinforce balanced diet, activity. Return if new bleeding, worsening low mood, fever >39°C, or palpitations."
+    },
+    {
+      "memory_id": "X0117-m09",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.1 g/dL (13-17). Serum ferritin 28 ng/mL (30-400). MCV 78 fL (80-100). PHQ-9 score 6 (0-27). TSH 2.0 mIU/L (0.4-4.0). Vitamin B12 340 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0117-m10",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg PO on alternate days.\nSertraline 75 mg PO daily."
+    },
+    {
+      "memory_id": "X0117-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Six-month review; patient reports occasional low mood in winter.\nPRESENTING COMPLAINT: Notes mild anhedonia and fatigue during colder weeks, denies suicidal thoughts.\nEXAMINATION: BP 119/77 mmHg, weight 65 kg, BMI 22.5 (normal). Conjunctiva pink.\nIMPRESSION: Iron stores improving but ferritin still low; depressive symptoms suggest seasonal variation.\nARRANGEMENTS: Repeat CBC, ferritin, MCV, PHQ-9. Add escitalopram 10 mg PO night for seasonal depression, continue ferrous sulfate alternate days, sertraline 75 mg daily. Counsel light exposure, exercise. Return if worsening mood, suicidal ideation, fever >39°C, or GI bleeding."
+    },
+    {
+      "memory_id": "X0117-m12",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.6 g/dL (13-17). Serum ferritin 22 ng/mL (30-400). MCV 80 fL (80-100). PHQ-9 score 8 (0-27)."
+    },
+    {
+      "memory_id": "X0117-m13",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg PO on alternate days.\nSertraline 75 mg PO daily.\nEscitalopram 10 mg PO HS."
+    },
+    {
+      "memory_id": "X0117-m14",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Spring follow-up; patient reports improved mood and energy.\nPRESENTING COMPLAINT: Feels well, no fatigue, mood stable.\nEXAMINATION: BP 121/79 mmHg, weight 64 kg, BMI 22.1 (normal). No pallor.\nIMPRESSION: Anaemia resolved, depression in remission.\nARRANGEMENTS: Repeat CBC, ferritin, MCV, PHQ-9. Taper escitalopram to 5 mg HS for 4 weeks then stop; continue ferrous sulfate alternate days, sertraline 75 mg daily. Advise maintain iron-rich diet, regular activity. Return if recurrence of fatigue, low mood, fever >39°C, or melena."
+    },
+    {
+      "memory_id": "X0117-m15",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 14.2 g/dL (13-17). Serum ferritin 35 ng/mL (30-400). MCV 86 fL (80-100). PHQ-9 score 4 (0-27)."
+    },
+    {
+      "memory_id": "X0117-m16",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg PO on alternate days.\nSertraline 75 mg PO daily.\nEscitalopram 5 mg PO HS for 4 weeks then discontinue."
+    }
+  ]
+}

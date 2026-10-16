@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0199",
+  "name": "Jyoti Solanki",
+  "age": 55,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Vitamin D deficiency",
+    "Vitamin B12 deficiency",
+    "Heart failure with reduced ejection fraction"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0199-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency, vitamin B12 deficiency, heart failure with reduced ejection fraction. Patient reports fatigue, dyspnoea on exertion, occasional ankle swelling. Examination: BMI 27, BP 138/86, JVP not elevated, lungs clear, cardiac apex displaced laterally, mild pitting edema ankles. No wheeze. Smoking never. Plan: start cholecalciferol 60000 IU weekly for 8 weeks then 1000 IU OD; methylcobalamin 1500 mcg OD; sacubitril/valsartan 24/26 mg BD; bisoprolol 2.5 mg OD; spironolactone 25 mg OD; furosemide 40 mg OD; dapagliflozin 10 mg OD. Order baseline labs: 25‑OH vitamin D, calcium, phosphate; B12, MCV, Hb; electrolytes, creatinine, NT‑proBNP; echocardiogram."
+    },
+    {
+      "memory_id": "X0199-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD\nmethylcobalamin 1500 mcg OD\nsacubitril/valsartan 24/26 mg BD\nbisoprolol 2.5 mg OD\nspironolactone 25 mg OD\nfurosemide 40 mg OD\ndapagliflozin 10 mg OD"
+    },
+    {
+      "memory_id": "X0199-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "25‑OH Vitamin D: 14 ng/mL (ref 30‑100)\nSerum Calcium: 8.9 mg/dL (ref 8.5‑10.5)\nSerum Phosphate: 2.4 mg/dL (ref 2.5‑4.5)\nVitamin B12: 165 pg/mL (ref 200‑900)\nMCV: 98 fL (ref 80‑100)\nHaemoglobin: 11.8 g/dL (ref 12‑16)\nSerum Sodium: 138 mmol/L (ref 135‑145)\nSerum Potassium: 4.2 mmol/L (ref 3.5‑5.0)\nSerum Creatinine: 1.1 mg/dL (ref 0.6‑1.2)\nNT‑proBNP: 842 pg/mL (ref <125)"
+    },
+    {
+      "memory_id": "X0199-m04",
+      "date": "2025-05-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up visit booked for 2025-06-10 at 10:30 am with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0199-m05",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Vitamin D deficiency improving, B12 normalising, HF stable. Symptoms: less fatigue, occasional mild dyspnoea on climbing stairs, no orthopnoea, ankle swelling unchanged. Exam: BP 130/82, JVP not raised, lungs clear, cardiac apex displaced laterally, trace ankle edema. Spirometry not indicated. Smoking never. Assessment: Vitamin D 22 ng/mL (still insufficient), B12 260 pg/mL, Hb 12.4 g/dL, NT‑proBNP 560 pg/mL. Plan: continue cholecalciferol 60000 IU weekly for remaining 4 weeks then switch to 1000 IU OD; continue methylcobalamin 1500 mcg OD; increase bisoprolol to 5 mg OD; continue other HF meds. Review in 8 weeks."
+    },
+    {
+      "memory_id": "X0199-m06",
+      "date": "2025-06-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "bisoprolol 5 mg OD\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0199-m07",
+      "date": "2025-06-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "25‑OH Vitamin D: 22 ng/mL (ref 30‑100)\nSerum Calcium: 9.0 mg/dL\nSerum Phosphate: 2.6 mg/dL\nVitamin B12: 260 pg/mL\nMCV: 96 fL\nHaemoglobin: 12.4 g/dL\nSerum Potassium: 4.3 mmol/L\nSerum Creatinine: 1.0 mg/dL\nNT‑proBNP: 560 pg/mL"
+    },
+    {
+      "memory_id": "X0199-m08",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Transthoracic echocardiogram: Left ventricular ejection fraction 38% (ref ≥55%). Left ventricular end‑diastolic diameter 5.8 cm. Mild mitral regurgitation. No significant aortic stenosis. Right ventricular size normal. Inferior vena cava collapsibility >50% with sniff. NYHA class II."
+    },
+    {
+      "memory_id": "X0199-m09",
+      "date": "2025-09-05",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Cardiology for optimisation of heart failure with reduced ejection fraction (EF 38%) and consideration of device therapy. Please review GDMT, assess eligibility for ICD/CRT‑D, and provide guidance on uptitration of beta‑blocker and ACE‑inhibitor/ARNi."
+    },
+    {
+      "memory_id": "X0199-m10",
+      "date": "2025-09-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Cardiology opinion: Continue current ARNIsacubitril/valsartan, bisoprolol, spironolactone, furosemide, dapagliflozin. Recommend uptitrate bisoprolol to 10 mg OD as tolerated. No immediate indication for ICD; reassess in 3‑6 months. Lifestyle advice: fluid restriction 1.5 L/day, daily weights."
+    },
+    {
+      "memory_id": "X0199-m11",
+      "date": "2025-11-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Notice increased swelling in both ankles over past week, mild increase in breathlessness on walking to the mailbox. No chest pain. Using medications as prescribed."
+    },
+    {
+      "memory_id": "X0199-m12",
+      "date": "2025-11-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Heart failure decompensation suspected. Symptoms: worsening ankle swelling, increased dyspnoea on mild exertion, occasional paroxysmal nocturnal dyspnoea. Exam: BP 128/80, JVP elevated to 4 cm, lungs with basilar crackles bilaterally, cardiac apex displaced laterally, pitting edema up to mid‑calf. Smoking never. Plan: increase furosemide to 60 mg OD, increase spironolactone to 50 mg OD, continue other HF meds, advise low‑salt diet, daily weights. Order electrolytes, creatinine, NT‑proBNP."
+    },
+    {
+      "memory_id": "X0199-m13",
+      "date": "2025-11-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "furosemide 60 mg OD\nspironolactone 50 mg OD\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0199-m14",
+      "date": "2025-11-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 137 mmol/L\nSerum Potassium: 5.1 mmol/L (upper limit)\nSerum Creatinine: 1.2 mg/dL\nNT‑proBNP: 720 pg/mL"
+    },
+    {
+      "memory_id": "X0199-m15",
+      "date": "2026-02-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X‑ray: Cardiac silhouette mildly enlarged. Upper lobe vascular redistribution suggestive of mild pulmonary congestion. No pleural effusion. Lung fields otherwise clear."
+    },
+    {
+      "memory_id": "X0199-m16",
+      "date": "2026-03-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Volume status improved after diuretic adjustment. Symptoms: reduced ankle swelling, dyspnoea only on brisk walk, orthopnoea absent. Exam: BP 130/78, JVP not elevated, lungs clear, trace ankle edema. Labs: K 4.8, creatinine 1.1, NT‑proBNP 480. Vitamin D now sufficient at 34 ng/mL. B12 stable at 300 pg/mL. Plan: stop high‑dose cholecalciferol, change to maintenance cholecalciferol 1000 IU OD; continue methylcobalamin 1500 mcg OD; reduce furosemide to 40 mg OD; keep spironolactone 25 mg OD; continue bisoprolol 5 mg OD (awaiting cardiology uptitration advice); continue sacubitril/valsartan, dapagliflozin. Review in 3 months."
+    },
+    {
+      "memory_id": "X0199-m17",
+      "date": "2026-03-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "cholecalciferol 1000 IU OD\nfurosemide 40 mg OD\nAll other medications unchanged."
+    },
+    {
+      "memory_id": "X0199-m18",
+      "date": "2026-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Annual review booked for 2027-04-01 at 09:00 am with Dr Suresh Menon (D05)."
+    }
+  ]
+}

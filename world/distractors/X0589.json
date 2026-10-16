@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0589",
+  "name": "Hitesh Bhatt",
+  "age": 21,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0589-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: initial assessment of low mood and anxiety.\nPRESENTING COMPLAINT: 21‑year‑old male nurse reports 2‑month history of persistent sadness, low energy, poor concentration and occasional tearfulness, denies suicidal thoughts.\nEXAMINATION: BP 118/72 mmHg, weight 68 kg, height 1.73 m, BMI 22.7 (normal). No psychomotor retardation, mood congruent affect.\nIMPRESSION: Moderate depressive episode (PHQ‑9 estimated 15). No thyroid abnormality suspected; vitamin B12 to be checked.\nARRANGEMENTS: Start sertraline 50 mg OD, review in 6 weeks. Return if worsening mood, suicidal ideation, panic attacks, or fever >39°C."
+    },
+    {
+      "memory_id": "X0589-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Sertraline 50 mg tablet, take one tablet daily after breakfast."
+    },
+    {
+      "memory_id": "X0589-m03",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up on sertraline tolerance and depressive symptoms.\nPRESENTING COMPLAINT: Patient reports improved mood and energy, PHQ‑9 now ~10, mild nausea after medication, otherwise well.\nEXAMINATION: BP 120/74, weight 69 kg, BMI 23.1 (overweight). Advised balanced diet and regular activity.\nIMPRESSION: Partial response to sertraline 50 mg, side‑effect of nausea.\nARRANGEMENTS: Increase sertraline to 75 mg OD, continue monitoring. Return if worsening depression, severe nausea, vomiting, or fever >39°C."
+    },
+    {
+      "memory_id": "X0589-m04",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Sertraline 75 mg tablet, take one tablet daily after breakfast."
+    },
+    {
+      "memory_id": "X0589-m05",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ‑9 score: 8 (mild depression). TSH: 2.1 mIU/L (ref 0.4‑4.5). Vitamin B12: 340 pg/mL (ref 200‑900)."
+    },
+    {
+      "memory_id": "X0589-m06",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of labs and ongoing depressive symptoms.\nPRESENTING COMPLAINT: Patient says mood better, occasional low mornings, PHQ‑9 8, denies side effects.\nEXAMINATION: BP 119/73, weight 70 kg, BMI 23.4 (overweight). Reinforce diet and activity advice.\nIMPRESSION: Mild depressive episode, labs normal. Consider adding low‑dose escitalopram for anxiety component while tapering sertraline.\nARRANGEMENTS: Taper sertraline to 25 mg OD, start escitalopram 10 mg OD. Repeat labs in 6 months. Return if worsening depression, anxiety, agitation, or fever >39°C. Influenza vaccine offered; patient to schedule."
+    },
+    {
+      "memory_id": "X0589-m07",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Sertraline 25 mg tablet, take one tablet daily after breakfast.\nEscitalopram 10 mg tablet, take one tablet daily in the evening."
+    },
+    {
+      "memory_id": "X0589-m08",
+      "date": "2025-11-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Influenza vaccination appointment booked for 2025-11-08 at 10:00 AM with practice nurse."
+    },
+    {
+      "memory_id": "X0589-m09",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review after antidepressant change and sleep concerns.\nPRESENTING COMPLAINT: Patient reports mood stable, PHQ‑9 ~6, but difficulty initiating sleep, feels fatigued.\nEXAMINATION: BP 122/76, weight 71 kg, BMI 23.7 (overweight). Advised sleep hygiene and regular exercise.\nIMPRESSION: Mild depressive episode with insomnia.\nARRANGEMENTS: Add mirtazapine 15 mg HS for sleep, continue sertraline 25 mg OD and escitalopram 10 mg OD. Return if worsening depression, suicidal thoughts, severe sedation, or fever >39°C."
+    },
+    {
+      "memory_id": "X0589-m10",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Sertraline 25 mg tablet, take one tablet daily after breakfast.\nEscitalopram 10 mg tablet, take one tablet daily in the evening.\nMirtazapine 15 mg tablet, take one tablet at bedtime."
+    },
+    {
+      "memory_id": "X0589-m11",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow‑up on depression treatment.\nPRESENTING COMPLAINT: Patient reports good mood, PHQ‑9 ~4, sleep improved, no side effects.\nEXAMINATION: BP 121/75, weight 70.5 kg, BMI 23.5 (overweight). Reinforce diet and activity.\nIMPRESSION: Depression in remission on current regimen.\nARRANGEMENTS: Continue sertraline 25 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS. Review in 3 months. Return if mood deterioration, suicidal ideation, severe drowsiness, or fever >39°C."
+    },
+    {
+      "memory_id": "X0589-m12",
+      "date": "2026-07-25",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: check‑up and discuss possible medication taper.\nPRESENTING COMPLAINT: Patient feels well, PHQ‑9 ~3, wishes to reduce medication load.\nEXAMINATION: BP 119/73, weight 70 kg, BMI 23.4 (overweight). Advised maintain lifestyle.\nIMPRESSION: Stable remission; consider tapering mirtazapine first.\nARRANGEMENTS: Reduce mirtazapine to 7.5 mg HS for 2 weeks then stop. Keep sertraline and escitalopram unchanged. Return if worsening depression, insomnia, or fever >39°C."
+    },
+    {
+      "memory_id": "X0589-m13",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: final review before end of observation window.\nPRESENTING COMPLAINT: Patient reports euthymic mood, PHQ‑9 ~2, sleep good, no adverse effects.\nEXAMINATION: BP 120/74, weight 69.5 kg, BMI 23.2 (overweight). Advised continue balanced diet and regular activity.\nIMPRESSION: Depression in remission; currently on sertraline 25 mg OD and escitalopram 10 mg OD; mirtazapine discontinued.\nARRANGEMENTS: Continue current antidepressants, review in 6 months. Influenza vaccine given on 2025-11-08. Return if mood worsening, suicidal thoughts, or fever >39°C."
+    }
+  ]
+}

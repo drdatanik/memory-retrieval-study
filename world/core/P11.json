@@ -1,0 +1,115 @@
+{
+  "patient_id": "P11",
+  "name": "Joseph D'Souza",
+  "age": 68,
+  "sex": "M",
+  "primary_doctor": "D01",
+  "conditions": ["Permanent atrial fibrillation", "Hypertension", "Chronic obstructive pulmonary disease"],
+  "memories": [
+    {
+      "memory_id": "P11-m01",
+      "date": "2025-04-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake update, patient-reported: retired school principal, lives with his son's family in Indiranagar. Gets breathless climbing one flight of stairs and has a morning cough with white sputum. Smoked about 15 cigarettes a day for 25 years and stopped in 2009. Says he has not missed a warfarin dose, but is unsure which green vegetables are high in vitamin K. Wife passed away in 2022, and he cooks simple meals for himself."
+    },
+    {
+      "memory_id": "P11-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o permanent AF on warfarin (Uniwarf) 3 mg OD, HTN, COPD. C/o dyspnoea on one flight of stairs, mild morning cough with white sputum x 2 wks. No fever, no bleeding, no black stools.\nO: O/E pulse 84/min irregularly irregular. BP 138/86 mmHg. SpO2 94% RA. Chest: few scattered rhonchi, no crepts. No ankle oedema. INR drawn today.\nA: 1. Permanent AF, rate controlled. 2. HTN, near target. 3. COPD, stable.\nP: 1. Continue warfarin 3 mg OD, INR target 2-3. 2. Continue metoprolol (Metolar) 50 mg OD. 3. Continue tiotropium (Spiriva) inhaler OD, technique checked.\nAdv: Walk 20 min daily. Keep salt under 5 g/day. Keep green vegetables at a steady intake from week to week. R/V in 6 wks."
+    },
+    {
+      "memory_id": "P11-m03",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PT/INR (citrated plasma), collected 2025-04-15, Sunrise Family Clinic Laboratory. INR: 2.4. Reference (not anticoagulated): 0.9-1.1. Target range on warfarin for atrial fibrillation: 2.0-3.0. Interpretation: within target range."
+    },
+    {
+      "memory_id": "P11-m04",
+      "date": "2025-09-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PT/INR (citrated plasma), collected 2025-09-16, Sunrise Family Clinic Laboratory. INR: 1.7. Target range on warfarin for atrial fibrillation: 2.0-3.0. Interpretation: below target range (sub-therapeutic)."
+    },
+    {
+      "memory_id": "P11-m05",
+      "date": "2025-09-16",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o permanent AF, HTN, COPD on warfarin 3 mg OD. Routine INR review. No bleeding, no falls. Mild fatigue. Says he has missed no doses.\nO: O/E pulse 78/min irregular. BP 134/82 mmHg. Chest clear. Gums healthy, no bruising.\nA: 1. Sub-therapeutic INR 1.7 on warfarin 3 mg OD. 2. Permanent AF, rate controlled. 3. HTN, controlled. 4. COPD, stable.\nP: 1. Warfarin increased from 3 mg OD to 3.5 mg OD from today (see Rx). 2. Repeat INR in 4 wks. 3. Continue metoprolol 50 mg OD and tiotropium inhaler OD.\nAdv: Avoid OTC painkillers (NSAIDs) and herbal supplements without advice. Keep vitamin K-rich vegetables (spinach, methi) at steady amounts. Walk 20 min daily. R/V in 4 wks."
+    },
+    {
+      "memory_id": "P11-m06",
+      "date": "2025-09-16",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx: warfarin (Uniwarf) 3.5 mg OD, from 2025-09-16. Replaces 3 mg OD. Indication: permanent AF, INR target 2.0-3.0. Other medicines unchanged: metoprolol 50 mg OD, tiotropium inhaler OD."
+    },
+    {
+      "memory_id": "P11-m07",
+      "date": "2025-10-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PT/INR (citrated plasma), collected 2025-10-14, Sunrise Family Clinic Laboratory. INR: 2.5. Target range on warfarin for atrial fibrillation: 2.0-3.0. Interpretation: within target range."
+    },
+    {
+      "memory_id": "P11-m08",
+      "date": "2025-10-14",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o permanent AF, HTN, COPD. On warfarin 3.5 mg OD since 2025-09-16. No bleeding, no bruising. C/o occasional breathlessness, sputum unchanged. Missed no doses.\nO: O/E pulse 80/min irregular. BP 132/80 mmHg. Chest: air entry equal, no wheeze.\nA: 1. INR 2.5, in range. 2. Permanent AF, rate controlled. 3. HTN, near target. 4. COPD, stable.\nP: 1. Continue warfarin 3.5 mg OD. 2. Continue metoprolol 50 mg OD. 3. Continue tiotropium inhaler OD. 4. Repeat INR at next routine review.\nAdv: Keep vitamin K intake steady, same days each week for green leafy vegetables. Walk 20 min daily. R/V in 5 mths."
+    },
+    {
+      "memory_id": "P11-m09",
+      "date": "2026-03-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PT/INR (citrated plasma), collected 2026-03-10, Sunrise Family Clinic Laboratory. INR: 2.8. Target range on warfarin for atrial fibrillation: 2.0-3.0. Interpretation: within target range, upper half."
+    },
+    {
+      "memory_id": "P11-m10",
+      "date": "2026-03-10",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o permanent AF, HTN, COPD on warfarin 3.5 mg OD. No bleeding. C/o dyspnoea on climbing stairs, unchanged. No chest pain, no palpitations at rest. Adherence good.\nO: O/E pulse 76/min irregularly irregular. BP 128/78 mmHg. Chest: no added sounds. No bruising.\nA: 1. INR 2.8, in range. 2. Permanent AF, rate controlled. 3. HTN, controlled. 4. COPD, stable.\nP: 1. Continue warfarin 3.5 mg OD. 2. Continue metoprolol 50 mg OD and tiotropium inhaler OD. 3. Continue current diet advice.\nAdv: Walk 20 min daily, five days a week. Limit sodium. Keep vitamin K intake steady. R/V in 6 mths."
+    },
+    {
+      "memory_id": "P11-m11",
+      "date": "2026-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PT/INR (citrated plasma), collected 2026-09-15, Sunrise Family Clinic Laboratory. INR: 2.6. Target range on warfarin for atrial fibrillation: 2.0-3.0. Interpretation: within target range."
+    },
+    {
+      "memory_id": "P11-m12",
+      "date": "2026-09-15",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o permanent AF, HTN, COPD. On warfarin 3.5 mg OD. No bleeding, no falls. C/o mild breathlessness on stairs, no change. Minimal morning cough, no fever. Sleep fine.\nO: O/E pulse 74/min irregular. BP 136/84 mmHg. SpO2 95% RA. Chest: scattered rhonchi clearing on cough. No oedema.\nA: 1. INR 2.6, in range. 2. Permanent AF, rate controlled. 3. HTN, near target. 4. COPD, stable.\nP: 1. Continue warfarin 3.5 mg OD. 2. Continue metoprolol 50 mg OD. 3. Continue tiotropium inhaler OD.\nAdv: Walk 20 min daily. Keep salt low. Avoid smoke exposure at home. R/V in 4 wks."
+    },
+    {
+      "memory_id": "P11-m13",
+      "date": "2026-10-08",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message, 2026-10-08 (patient): 'Doctor, fever since last night, cough bringing up yellow-green phlegm, and the right side of my chest hurts when I take a deep breath. My son is driving me to the clinic tomorrow. Do I keep taking my warfarin as usual for now?'"
+    },
+    {
+      "memory_id": "P11-m14",
+      "date": "2026-10-09",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o permanent AF on warfarin 3.5 mg OD, HTN, COPD. C/o productive cough (yellow-green sputum) and fever x 2 days. Right-sided pleuritic chest pain. Mildly breathless at rest. No haemoptysis. No bleeding on warfarin.\nO: O/E T 38.6 C, pulse 102/min irregularly irregular, RR 22/min, SpO2 92% RA, BP 124/76 mmHg. Chest: reduced air entry and coarse crepts right lower zone.\nA: 1. Right lower zone consolidation on CXR (see investigation), with fever and productive cough. 2. Permanent AF, rate-controlled. 3. COPD, on inhaler; cough and fever today.\nP: 1. Chest X-ray today. 2. Start antibiotic course for right lower zone consolidation. 3. Continue warfarin 3.5 mg OD; INR to be checked during the antibiotic course. 4. Continue metoprolol 50 mg OD and tiotropium inhaler OD. 5. Rest and oral fluids.\nAdv: Warm fluids through the day, rest, steam inhalation twice daily. No smoking in the room. R/V in 1 wk."
+    },
+    {
+      "memory_id": "P11-m15",
+      "date": "2026-10-09",
+      "type": "investigation",
+      "author": "D01",
+      "text": "Chest X-ray, PA view, reported 2026-10-09: right lower zone consolidation. Left lung clear. Costophrenic angles sharp, no pleural effusion seen. Heart size within normal limits. Impression: right lower zone consolidation."
+    }
+  ]
+}

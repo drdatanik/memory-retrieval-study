@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0163",
+  "name": "Sundaram Annamalai",
+  "age": 71,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Obesity"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0163-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity.\nPatient is a 71‑year‑old retired textile mill worker presenting for weight management. He reports gradual weight gain over the past 5 years, mild knee discomfort on stairs, and no dyspnea. Examination shows BMI 34.2 kg/m², waist circumference 112 cm, blood pressure 138/86 mmHg, cardiovascular and respiratory systems normal. No overt endocrine stigmata. Fasting lipids, glucose, HbA1c and liver enzymes are ordered today to assess metabolic risk."
+    },
+    {
+      "memory_id": "X0163-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg capsule – take one capsule with breakfast, lunch and dinner."
+    },
+    {
+      "memory_id": "X0163-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: TC 5.8 mmol/L (ref <5.2), LDL 3.6 mmol/L (<2.6), HDL 0.9 mmol/L (>1.0), TG 2.2 mmol/L (<1.7). Fasting glucose 6.2 mmol/L (3.9‑5.5). HbA1c 6.0 % (4.0‑5.6). ALT 32 U/L (<40), AST 28 U/L (<38), ALP 78 U/L (<120), GGT 45 U/L (<50). Waist circumference 112 cm."
+    },
+    {
+      "memory_id": "X0163-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity.\nReturn visit after 3 months. Patient reports losing 2 kg, mild oily stools after fatty meals, otherwise tolerating orlistat well. No new joint pain. Weight now 94 kg, BMI 33.1, waist 108 cm. Blood pressure 132/82 mmHg. Review of today’s labs shows improved lipids and stable glucose. Discussed low‑fat diet, increased water intake, and continued orlistat with each main meal. Planned repeat labs in 3 months and reinforcement of activity goals."
+    },
+    {
+      "memory_id": "X0163-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg capsule – take one capsule with breakfast, lunch and dinner. Continue current regimen."
+    },
+    {
+      "memory_id": "X0163-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: TC 5.2 mmol/L, LDL 3.0 mmol/L, HDL 1.0 mmol/L, TG 1.6 mmol/L. Fasting glucose 5.9 mmol/L. HbA1c 5.8 %. ALT 29 U/L, AST 26 U/L, ALP 75 U/L, GGT 42 U/L. Waist circumference 108 cm."
+    },
+    {
+      "memory_id": "X0163-m07",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity.\nSix‑month follow‑up. Patient reports stable weight (94 kg), occasional mild abdominal bloating, denies respiratory symptoms. Examination: BMI 33.1, waist 108 cm, blood pressure 130/80 mmHg, lungs clear. Spirometry performed today to rule out coexisting airway disease given occupational dust exposure. Advised to maintain orlistat, increase aerobic activity to 150 min/week, and consider referral to dietitian for structured meal planning."
+    },
+    {
+      "memory_id": "X0163-m08",
+      "date": "2025-10-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry: FEV1 2.35 L (78 % predicted), FVC 2.80 L (82 % predicted), FEV1/FVC ratio 0.84. No significant bronchodilator response. Interpretation: mild restrictive pattern likely related to reduced chest wall compliance from obesity; no obstructive airway disease."
+    },
+    {
+      "memory_id": "X0163-m09",
+      "date": "2025-10-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Orlistat 120 mg capsule – take one capsule with breakfast, lunch and dinner. Continue as prescribed."
+    },
+    {
+      "memory_id": "X0163-m10",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Obesity with emerging pre‑diabetes.\nNine‑month review. Patient reports no further weight change, occasional hypoglycaemic‑like shakiness after meals, and mild fatigue. Weight 95 kg, BMI 33.4, waist 110 cm. Labs show rising HbA1c and borderline triglycerides. Discussed initiating metformin to address insulin resistance while continuing orlistat. Advised glucose self‑monitoring and low‑glycaemic index diet."
+    },
+    {
+      "memory_id": "X0163-m11",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg tablet – take one tablet twice daily with meals.\nOrlistat 120 mg capsule – take one capsule with breakfast, lunch and dinner."
+    },
+    {
+      "memory_id": "X0163-m12",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: TC 5.4 mmol/L, LDL 3.2 mmol/L, HDL 0.9 mmol/L, TG 2.0 mmol/L. Fasting glucose 6.4 mmol/L. HbA1c 6.3 %. ALT 31 U/L, AST 27 U/L, ALP 80 U/L, GGT 48 U/L. Waist circumference 110 cm."
+    },
+    {
+      "memory_id": "X0163-m13",
+      "date": "2026-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling nauseous and having loose stools since starting metformin twice a day. It’s hard to keep the tablets down with meals, and I’m worried about dehydration. Can we lower the dose or try something else? I still want to keep using orlistat as it seems to help with my weight."
+    },
+    {
+      "memory_id": "X0163-m14",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 250 mg tablet – take one tablet twice daily with meals (dose reduced due to GI intolerance).\nOrlistat 120 mg capsule – take one capsule with breakfast, lunch and dinner."
+    },
+    {
+      "memory_id": "X0163-m15",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-08-15 at 10:30 am with Dr Suresh Menon (D05) in Pulmonology clinic."
+    }
+  ]
+}

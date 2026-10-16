@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0401",
+  "name": "Neelam Pandey",
+  "age": 52,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Iron-deficiency anaemia",
+    "Dyslipidaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0401-m01",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-04-15 at 10:00 with Dr Priya Natarajan for routine follow‑up of IBS, anaemia and dyslipidaemia."
+    },
+    {
+      "memory_id": "X0401-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Initial assessment for chronic gastrointestinal and haematological concerns.\nPRESENTING COMPLAINT: The patient reports intermittent abdominal bloating, loose stools alternating with constipation, fatigue and mild exertional dyspnoea for the past 6 months.\nEXAMINATION: BP 128/78 mmHg, weight 68 kg, height 1.62 m, BMI 25.9 (obese). Abdomen soft, non‑tender, no masses. No pallor, conjunctivae normal.\nIMPRESSION: 1) Irritable bowel syndrome – likely diarrhoea‑predominant. 2) Iron‑deficiency anaemia – probable chronic blood loss from GI tract. 3) Dyslipidaemia – obesity‑related. Ordered CBC, ferritin, lipid profile, fasting glucose, tTG‑IgA, stool routine.\nARRANGEMENTS: Start mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS for IBS. Ferrous sulfate 200 mg OD for anaemia. Atorvastatin 10 mg HS for lipids. Advise increased fibre, regular meals, avoid trigger foods, walk 30 mins daily. Return if: worsening abdominal pain, vomiting, blood in stools, fever >39°C, chest pain, breathlessness. Influenza vaccine not due yet (age <60, but chronic illness – will offer in autumn)."
+    },
+    {
+      "memory_id": "X0401-m03",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 9.8 g/dL (12‑16), WBC 6.2×10⁹/L, Plt 210×10⁹/L. Ferritin 12 ng/mL (15‑150). Lipids: Cholesterol 5.2 mmol/L, LDL 3.4 mmol/L (<2.6), HDL 1.0 mmol/L (>1.0), Triglycerides 2.2 mmol/L (<1.7). Fasting glucose 5.6 mmol/L (3.9‑5.6). tTG‑IgA negative. Stool routine: no ova, cysts, occult blood negative."
+    },
+    {
+      "memory_id": "X0401-m04",
+      "date": "2025-05-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Ferrous sulfate 200 mg OD plus ferrous sulfate 200 mg on alternate days; continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS, atorvastatin 10 mg HS."
+    },
+    {
+      "memory_id": "X0401-m05",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up after lab results and medication trial.\nPRESENTING COMPLAINT: Patient reports reduced bloating, stools softer but still occasional urgency; fatigue improved, exertional dyspnoea less.\nEXAMINATION: BP 126/76 mmHg, weight 66 kg, BMI 25.1 (obese). Abdomen benign.\nIMPRESSION: IBS partially responsive; anaemia improving (Hb now 11.2 g/dL). Lipids still elevated LDL 3.2 mmol/L, triglycerides 2.0 mmol/L. Consider adding fenofibrate.\nARRANGEMENTS: Continue mebeverine, ispaghula, loperamide SOS. Continue ferrous sulfate OD; stop alternate‑day iron as ferritin 28 ng/mL. Add fenofibrate 145 mg OD. Reinforce diet, activity, weight goal. Return if: rectal bleeding, worsening pain, fever >39°C, chest pain, palpitations. Influenza vaccine offered today (autumn campaign) – patient accepted, administered 2025-08-01."
+    },
+    {
+      "memory_id": "X0401-m06",
+      "date": "2025-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hb 11.2 g/dL, Ferritin 28 ng/mL. Lipids: Cholesterol 5.0, LDL 3.2, HDL 1.1, Triglycerides 2.0. LFT and CK within normal limits."
+    },
+    {
+      "memory_id": "X0401-m07",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Add fenofibrate 145 mg OD; continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS, ferrous sulfate 200 mg OD, atorvastatin 10 mg HS."
+    },
+    {
+      "memory_id": "X0401-m08",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Winter review of chronic conditions.\nPRESENTING COMPLAINT: Patient notes occasional constipation, less bloating, energy stable; no chest pain or dyspnoea.\nEXAMINATION: BP 124/74 mmHg, weight 65 kg, BMI 24.8 (overweight). Abdomen soft.\nIMPRESSION: IBS symptoms controlled with fibre and occasional loperamide. Anaemia stable (Hb 11.8 g/dL, ferritin 32 ng/mL). Lipids improved: LDL 2.9 mmol/L, triglycerides 1.8 mmol/L; still above target.\nARRANGEMENTS: Continue mebeverine BD, ispaghula husk OD, loperamide SOS. Continue ferrous sulfate OD. Continue atorvastatin 10 mg HS, fenofibrate 145 mg OD. Advise maintain weight, regular aerobic activity. Return if: new rectal bleeding, severe abdominal pain, fever >39°C, chest pain, palpitations. Influenza vaccine already given in August; note for next autumn."
+    },
+    {
+      "memory_id": "X0401-m09",
+      "date": "2025-12-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Hb 11.8 g/dL, Ferritin 32 ng/mL. Lipids: Cholesterol 4.8, LDL 2.9, HDL 1.2, Triglycerides 1.8. LFT, CK normal."
+    },
+    {
+      "memory_id": "X0401-m10",
+      "date": "2026-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-04-05 to 2026-04-07 at 14:30 with Dr Priya Natarajan due to patient’s work shift."
+    },
+    {
+      "memory_id": "X0401-m11",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Spring follow‑up after appointment change.\nPRESENTING COMPLAINT: Patient reports good symptom control, occasional mild abdominal discomfort after heavy meals, no fatigue.\nEXAMINATION: BP 122/72 mmHg, weight 64 kg, BMI 24.4 (overweight). Abdomen benign.\nIMPRESSION: IBS stable. Anaemia resolved (Hb 12.6 g/dL, ferritin 45 ng/mL). Lipids: LDL 2.7 mmol/L, triglycerides 1.6 mmol/L – approaching goal.\nARRANGEMENTS: Continue mebeverine BD, ispaghula husk OD, loperamide SOS. Continue ferrous sulfate OD (may taper after next ferritin). Continue atorvastatin 10 mg HS, fenofibrate 145 mg OD. Encourage Mediterranean‑style diet, weight maintenance. Return if: worsening pain, rectal bleeding, fever >39°C, chest pain, breathlessness. Influenza vaccine status: received 2025-08-01; next dose due autumn 2026."
+    },
+    {
+      "memory_id": "X0401-m12",
+      "date": "2026-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Late‑summer review before annual influenza vaccination.\nPRESENTING COMPLAINT: Patient asymptomatic; occasional mild bloating after lentils, otherwise well.\nEXAMINATION: BP 120/70 mmHg, weight 63 kg, BMI 24.0 (overweight). Abdomen soft.\nIMPRESSION: IBS in remission with fibre regimen. Anaemia absent (Hb 13.0 g/dL, ferritin 58 ng/mL). Dyslipidaemia improved: LDL 2.5 mmol/L, triglycerides 1.4 mmol/L within target.\nARRANGEMENTS: Continue mebeverine BD, ispaghula husk OD, loperamide SOS as needed. Continue ferrous sulfate OD (consider stopping after next ferritin). Continue atorvastatin 10 mg HS, fenofibrate 145 mg OD. Advise sustained activity, weight goal <23 BMI. Return if: new rectal bleeding, severe abdominal pain, fever >39°C, chest pain, palpitations. Influenza vaccine administered today 2026-08-01 (early autumn offer)."
+    }
+  ]
+}

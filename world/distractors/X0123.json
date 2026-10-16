@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0123",
+  "name": "Bani Banerjee",
+  "age": 39,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Insomnia",
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0123-m01",
+      "date": "2025-04-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I am a 39‑year‑old school bus driver living in Malleshwaram. For the past 6 months I have trouble falling asleep, waking up tired, and I have daily itchy wheals that worsen in the evenings. I also feel irritable during shifts."
+    },
+    {
+      "memory_id": "X0123-m02",
+      "date": "2025-04-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia and chronic urticaria.\nEvidence: patient reports sleep onset latency >45 min, daytime fatigue, and daily pruritic wheals with evening exacerbation. Physical examination shows mild periorbital pallor, no lung wheals, skin shows scattered erythematous papules.\nSmoking status: never smoker, pack‑years 0.\nPlan: start melatonin 3 mg at bedtime, trazodone 50 mg at bedtime for sleep; levocetirizine 5 mg each morning and cetirizine 10 mg at night for urticaria. Review in 3 months."
+    },
+    {
+      "memory_id": "X0123-m03",
+      "date": "2025-04-04",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nLevocetirizine 5 mg OD\nCetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0123-m04",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.0)\nHaemoglobin 12.8 g/dL (12.0‑15.5)\nCBC: WBC 6.2x10^9/L, Neutrophils 4.0, Lymphocytes 1.8, Eosinophils 0.3x10^9/L (0.0‑0.5)\nInsomnia Severity Index score 14 (moderate)"
+    },
+    {
+      "memory_id": "X0123-m05",
+      "date": "2025-07-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Sleep has worsened; I now take >1 hour to fall asleep and wake twice nightly. The hives are more intense, especially after stress at work, and I need extra antihistamine to control itching."
+    },
+    {
+      "memory_id": "X0123-m06",
+      "date": "2025-07-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia and chronic urticaria – not well controlled.\nEvidence: ISI now 18, patient reports delayed sleep onset and nocturnal awakenings; wheals appear daily with increased size and pruritus. Examination shows mild facial puffiness, skin shows widespread urticarial plaques.\nSmoking status: never smoker, pack‑years 0.\nPlan: increase trazodone to 75 mg HS, keep melatonin 3 mg HS; raise levocetirizine to 10 mg OD and continue cetirizine 10 mg HS. Add short‑term leukotriene receptor antagonist if needed. Review in 4 weeks."
+    },
+    {
+      "memory_id": "X0123-m07",
+      "date": "2025-07-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 75 mg HS\nLevocetirizine 10 mg OD\nCetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0123-m08",
+      "date": "2025-07-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4‑4.0)\nHaemoglobin 13.0 g/dL (12.0‑15.5)\nCBC: Eosinophils 0.4x10^9/L\nInsomnia Severity Index score 16 (moderate‑severe)"
+    },
+    {
+      "memory_id": "X0123-m09",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-10-03 at 10:00 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0123-m10",
+      "date": "2025-10-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia and chronic urticaria – improving.\nEvidence: ISI down to 12, patient reports sleep onset ~30 min, fewer nocturnal awakenings; wheals reduced to 2‑3 per week, milder. Examination shows clear lungs, skin shows only occasional faint papules.\nSmoking status: never smoker, pack‑years 0.\nPlan: stop trazodone, continue melatonin 3 mg HS; maintain levocetirizine 5 mg OD and cetirizine 10 mg HS. Review in 3 months."
+    },
+    {
+      "memory_id": "X0123-m11",
+      "date": "2025-10-04",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nLevocetirizine 5 mg OD\nCetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0123-m12",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (0.4‑4.0)\nHaemoglobin 13.2 g/dL (12.0‑15.5)\nCBC: Eosinophils 0.2x10^9/L\nInsomnia Severity Index score 11 (subclinical)"
+    },
+    {
+      "memory_id": "X0123-m13",
+      "date": "2026-01-03",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "After the New Year holidays my sleep got worse again; I’m waking up feeling unrefreshed. The hives flared after eating shellfish at a family meal, needing extra antihistamine."
+    },
+    {
+      "memory_id": "X0123-m14",
+      "date": "2026-01-04",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia and chronic urticaria – mild exacerbation.\nEvidence: ISI 14, patient reports delayed sleep onset and fatigue; wheals appear 4‑5 days/week after trigger foods. Examination shows mild periorbital dark circles, skin shows scattered urticarial lesions.\nSmoking status: never smoker, pack‑years 0.\nPlan: restart trazodone 50 mg HS, keep melatonin 3 mg HS; increase levocetirizine to 10 mg OD, continue cetirizine 10 mg HS. Review in 6 weeks."
+    },
+    {
+      "memory_id": "X0123-m15",
+      "date": "2026-01-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nLevocetirizine 10 mg OD\nCetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0123-m16",
+      "date": "2026-01-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.2 mIU/L (0.4‑4.0)\nHaemoglobin 12.9 g/dL (12.0‑15.5)\nCBC: Eosinophils 0.3x10^9/L\nInsomnia Severity Index score 13 (moderate)"
+    },
+    {
+      "memory_id": "X0123-m17",
+      "date": "2026-07-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Insomnia and chronic urticaria – well controlled.\nEvidence: ISI 9, patient reports sleep onset <20 min, refreshed waking; wheals rare, only occasional mild patches after stress. Examination normal.\nSmoking status: never smoker, pack‑years 0.\nPlan: consider tapering trazodone to 25 mg HS if symptoms stay stable, continue melatonin and antihistamines as needed. Review in 3 months."
+    },
+    {
+      "memory_id": "X0123-m18",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-10-05 to 2026-09-30 at 14:30 with Dr Suresh Menon (D05) for final review."
+    }
+  ]
+}

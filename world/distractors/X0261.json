@@ -1,0 +1,138 @@
+{
+  "patient_id": "X0261",
+  "name": "Sreekumar Karunakaran",
+  "age": 84,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0261-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine COPD follow-up.\nPRESENTING COMPLAINT: Patient reports stable dyspnoea on exertion, uses salbutamol inhaler SOS about 2-3 times per week, no recent exacerbations.\nEXAMINATION: BP 138/82 mmHg, weight 62 kg, height 1.68 m, BMI 22.0 (normal). Respiratory rate 18, SpO2 94% on room air, breath sounds bilateral vesicular with occasional wheeze at bases.\nIMPRESSION: COPD, stable. No weight loss, continue current inhalers. Advise diet and activity as BMI <23, no specific advice needed.\nARRANGEMENTS: Continue tiotropium inhaler OD, salbutamol inhaler SOS, budesonide-formoterol 200/6 inhaler BD. Offer influenza vaccine (patient declined, to reconsider in autumn). Return if: increased dyspnoea at rest, new chest pain, fever >38.5°C, bloody sputum."
+    },
+    {
+      "memory_id": "X0261-m02",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tiotropium inhaler 18 mcg, 1 inhalation OD\nSalbutamol inhaler 100 mcg, 2 puffs SOS\nBudesonide-formoterol 200/6 mcg, 2 inhalations BD"
+    },
+    {
+      "memory_id": "X0261-m03",
+      "date": "2025-06-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry: FEV1 1.12 L (45% predicted), FVC 2.30 L, FEV1/FVC ratio 0.49 (49%). Consistent with moderate COPD."
+    },
+    {
+      "memory_id": "X0261-m04",
+      "date": "2025-06-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Chest X-ray (PA): Hyperinflated lungs, flattened diaphragms, no acute infiltrate or pleural effusion. No new changes compared to prior."
+    },
+    {
+      "memory_id": "X0261-m05",
+      "date": "2025-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar: 98 mg/dL (70-99 normal).\nLipid profile: Total cholesterol 168 mg/dL (<200 desirable), HDL 42 mg/dL (>40 male normal), LDL 95 mg/dL (<100 optimal), Triglycerides 138 mg/dL (<150 normal)."
+    },
+    {
+      "memory_id": "X0261-m06",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine COPD review.\nPRESENTING COMPLAINT: Patient notes occasional increase in breathlessness on walking uphill, uses salbutamol 4-5 times/week, no fever or sputum change.\nEXAMINATION: BP 140/84 mmHg, weight 63 kg, BMI 22.3 (normal). SpO2 93% room air, respiratory rate 20, mild wheeze bilaterally.\nIMPRESSION: COPD, mild worsening of symptoms, likely due to seasonal variation. Continue current regimen, consider checking inhaler technique.\nARRANGEMENTS: Continue tiotropium OD, salbutamol SOS, budesonide-formoterol BD. Review inhaler technique with nurse. Offer influenza vaccine (patient accepts, to be given in September). Return if: dyspnoea at rest, chest pain, fever >38.5°C, increased sputum purulence."
+    },
+    {
+      "memory_id": "X0261-m07",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tiotropium inhaler 18 mcg, 1 inhalation OD\nSalbutamol inhaler 100 mcg, 2 puffs SOS\nBudesonide-formoterol 200/6 mcg, 2 inhalations BD"
+    },
+    {
+      "memory_id": "X0261-m08",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: Feeling more short of breath today after walking to the market, needed extra salbutamol puffs. No fever or chest pain."
+    },
+    {
+      "memory_id": "X0261-m09",
+      "date": "2025-11-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-12-10 at 10:30 AM with Dr Priya Natarajan for COPD follow-up."
+    },
+    {
+      "memory_id": "X0261-m10",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow-up after reported increased dyspnoea.\nPRESENTING COMPLAINT: Patient reports increased breathlessness on level ground over past 2 weeks, using salbutamol 6-8 times/day, occasional wheeze, no fever, sputum clear.\nEXAMINATION: BP 142/86 mmHg, weight 63.5 kg, BMI 22.5 (normal). SpO2 90% on room air, respiratory rate 22, use of accessory muscles, diffuse wheeze.\nIMPRESSION: COPD exacerbation, mild-moderate. Initiate short course oral steroids and ensure bronchodilator availability.\nARRANGEMENTS: Prednisolone 40 mg OD for 5 days, then stop. Continue tiotropium OD, salbutamol SOS, budesonide-formoterol BD. Ensure spacer use. Offer influenza vaccine (administered today 0.5 mL IM). Return if: dyspnoea worsens at rest, chest pain, fever >38.5°C, bloody sputum, swelling of legs."
+    },
+    {
+      "memory_id": "X0261-m11",
+      "date": "2025-12-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Prednisolone 5 mg tablets, 8 tablets daily for 5 days\nTiotropium inhaler 18 mcg, 1 inhalation OD\nSalbutamol inhaler 100 mcg, 2 puffs SOS\nBudesonide-formoterol 200/6 mcg, 2 inhalations BD"
+    },
+    {
+      "memory_id": "X0261-m12",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: post-exacerbation review.\nPRESENTING COMPLAINT: Patient feels back to baseline, dyspnoea on exertion similar to pre-exacerbation, salbutamol use 2-3 times/week, no fever.\nEXAMINATION: BP 138/80 mmHg, weight 62 kg, BMI 22.0 (normal). SpO2 94% room air, respiratory rate 18, mild wheeze at lung bases.\nIMPRESSION: COPD, stable after exacerbation. Continue maintenance inhalers, monitor for further exacerbations.\nARRANGEMENTS: Continue tiotropium OD, salbutamol SOS, budesonide-formoterol BD. Offer influenza vaccine (already given autumn 2025, next due autumn 2026). Return if: increased dyspnoea at rest, chest pain, fever >38.5°C, change in sputum colour."
+    },
+    {
+      "memory_id": "X0261-m13",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tiotropium inhaler 18 mcg, 1 inhalation OD\nSalbutamol inhaler 100 mcg, 2 puffs SOS\nBudesonide-formoterol 200/6 mcg, 2 inhalations BD"
+    },
+    {
+      "memory_id": "X0261-m14",
+      "date": "2026-05-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: Doing well, able to walk to temple without stopping, using salbutamol only occasionally. No side effects from inhalers."
+    },
+    {
+      "memory_id": "X0261-m15",
+      "date": "2026-06-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry: FEV1 1.08 L (43% predicted), FVC 2.25 L, FEV1/FVC ratio 0.48 (48%). Stable compared to prior."
+    },
+    {
+      "memory_id": "X0261-m16",
+      "date": "2026-07-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar: 101 mg/dL (70-99 normal, slight rise).\nLipid profile: Total cholesterol 172 mg/dL (<200), HDL 40 mg/dL (borderline low), LDL 100 mg/dL (borderline optimal), Triglycerides 145 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0261-m17",
+      "date": "2026-09-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine COPD review, influenza vaccine update.\nPRESENTING COMPLAINT: Patient reports stable dyspnoea on exertion, salbutamol use 2-3 times/week, no exacerbations since spring.\nEXAMINATION: BP 140/82 mmHg, weight 61.5 kg, BMI 21.8 (normal). SpO2 95% room air, respiratory rate 18, clear lungs with occasional wheeze at bases.\nIMPRESSION: COPD, stable. BMI normal, advise maintain activity and balanced diet.\nARRANGEMENTS: Continue tiotropium OD, salbutamol SOS, budesonide-formoterol BD. Influenza vaccine administered today (0.5 mL IM). Return if: dyspnoea at rest, chest pain, fever >38.5°C, bloody sputum."
+    },
+    {
+      "memory_id": "X0261-m18",
+      "date": "2026-09-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Tiotropium inhaler 18 mcg, 1 inhalation OD\nSalbutamol inhaler 100 mcg, 2 puffs SOS\nBudesonide-formoterol 200/6 mcg, 2 inhalations BD"
+    }
+  ]
+}

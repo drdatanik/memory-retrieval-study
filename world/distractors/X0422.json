@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0422",
+  "name": "Sharmila Mitra",
+  "age": 75,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Migraine",
+    "Generalised anxiety disorder",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0422-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: 4-5 headache days/month, mild-moderate, sumatriptan used SOS.\n  - Plan: Continue propranolol 40 mg OD, sumatriptan 50 mg SOS, topiramate 25 mg HS, naproxen 500 mg SOS PRN; headache diary.\n- Generalised anxiety disorder\n  - Status: Worry most days, GAD-7 10 (mild).\n  - Plan: Continue escitalopram 5 mg OD, buspirone 5 mg BD; monitor for side effects.\n- Epilepsy\n  - Status: Seizure-free 6 months on levetiracetam 500 mg BD, lamotrigine 50 mg BD.\n  - Plan: Continue same; check serum sodium and creatinine.\nWeight 68 kg, waist 84 cm (female cut-off 80 cm, slightly elevated).\nDiet advice:\n  - Breakfast: low‑glycemic, protein‑rich.\n  - Lunch: balanced plate with vegetables.\n  - Dinner: light, early."
+    },
+    {
+      "memory_id": "X0422-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 40 mg 1-0-0 after food\nEscitalopram 5 mg 1-0-0 after food\nBuspirone 5 mg 1-0-1 after food\nLevetiracetam 500 mg 1-0-1 after food\nLamotrigine 50 mg 1-0-1 after food\nSumatriptan 50 mg SOS after food\nTopiramate 25 mg 0-0-1 after food\nNaproxen 500 mg SOS after food"
+    },
+    {
+      "memory_id": "X0422-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.0)\nHaemoglobin 12.8 g/dL (12‑16)\nSerum sodium 138 mmol/L (135‑145)\nSerum creatinine 0.9 mg/dL (0.6‑1.1)"
+    },
+    {
+      "memory_id": "X0422-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: background activity normal, no epileptiform discharges."
+    },
+    {
+      "memory_id": "X0422-m05",
+      "date": "2025-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been having headaches about twice a week, they respond to sumatriptan. Anxiety feels constant but manageable. No seizures since starting meds."
+    },
+    {
+      "memory_id": "X0422-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: Headache days reduced to 2/month, sumatriptan used twice.\n  - Plan: Increase propranolol to 60 mg OD for better prophylaxis; keep other meds.\n- Generalised anxiety disorder\n  - Status: GAD-7 8 (mild), reports improved sleep.\n  - Plan: Continue escitalopram 5 mg OD, buspirone 5 mg BD.\n- Epilepsy\n  - Status: Seizure‑free, labs stable.\n  - Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD; repeat sodium/creatinine.\nWeight 67 kg, waist 82 cm (still slightly above 80 cm cut‑off).\nDiet advice:\n  - Breakfast: oats with nuts.\n  - Lunch: dal, vegetables, roti.\n  - Dinner: soup, salad."
+    },
+    {
+      "memory_id": "X0422-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 60 mg 1-0-0 after food\nEscitalopram 5 mg 1-0-0 after food\nBuspirone 5 mg 1-0-1 after food\nLevetiracetam 500 mg 1-0-1 after food\nLamotrigine 50 mg 1-0-1 after food\nSumatriptan 50 mg SOS after food\nTopiramate 25 mg 0-0-1 after food\nNaproxen 500 mg SOS after food"
+    },
+    {
+      "memory_id": "X0422-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4‑4.0)\nHaemoglobin 13.0 g/dL (12‑16)\nSerum sodium 139 mmol/L (135‑145)\nSerum creatinine 0.88 mg/dL (0.6‑1.1)"
+    },
+    {
+      "memory_id": "X0422-m09",
+      "date": "2025-10-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-01-15 at 10:30 with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0422-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: Headache days 1/month, sumatriptan used once.\n  - Plan: Maintain propranolol 60 mg OD; consider tapering topiramate if drowsiness persists.\n- Generalised anxiety disorder\n  - Status: GAD-7 6 (mild), occasional restless nights.\n  - Plan: Continue escitalopram 5 mg OD, reduce buspirone to 5 mg OD (morning) to lessen daytime fatigue.\n- Epilepsy\n  - Status: Seizure‑free, sodium/creatinine within range.\n  - Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD; repeat labs in 6 months.\nWeight 66 kg, waist 80 cm (at cut‑off).\nDiet advice:\n  - Breakfast: Greek yogurt, fruit.\n  - Lunch: mixed vegetable curry, brown rice.\n  - Dinner: steamed fish, greens."
+    },
+    {
+      "memory_id": "X0422-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Propranolol 60 mg 1-0-0 after food\nEscitalopram 5 mg 1-0-0 after food\nBuspirone 5 mg 1-0-0 after food\nLevetiracetam 500 mg 1-0-1 after food\nLamotrigine 50 mg 1-0-1 after food\nSumatriptan 50 mg SOS after food\nTopiramate 25 mg 0-0-1 after food\nNaproxen 500 mg SOS after food"
+    },
+    {
+      "memory_id": "X0422-m12",
+      "date": "2026-06-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Migraine\n  - Status: Headache‑free for 2 months, no SOS use.\n  - Plan: Continue propranolol 60 mg OD; attempt taper of topiramate to 12.5 mg HS if tolerated.\n- Generalised anxiety disorder\n  - Status: GAD-7 4 (minimal), reports good coping.\n  - Plan: Continue escitalopram 5 mg OD, buspirone 5 mg OD.\n- Epilepsy\n  - Status: Seizure‑free, electrolytes stable.\n  - Plan: Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD; annual EEG due.\nWeight 65 kg, waist 78 cm (below cut‑off).\nDiet advice:\n  - Breakfast: idli with sambar.\n  - Lunch: vegetable pulao, raita.\n  - Dinner: lentil soup, salad."
+    }
+  ]
+}

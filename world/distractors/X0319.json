@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0319",
+  "name": "Rukhsana Mirza",
+  "age": 83,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0319-m01",
+      "date": "2025-04-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Vitamin D deficiency.\nPatient reports fatigue and mild aching in shoulders over past month. No bone deformities, tenderness mild over ribs. Smoking status: never. Planned labs: serum 25‑hydroxyvitamin D, calcium, phosphate. Started high‑dose cholecalciferol 60000 IU once weekly for 8 weeks, then reassess."
+    },
+    {
+      "memory_id": "X0319-m02",
+      "date": "2025-04-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 60000 IU once weekly for 8 weeks"
+    },
+    {
+      "memory_id": "X0319-m03",
+      "date": "2025-04-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 12 ng/mL (ref 20‑50).\nSerum calcium: 9.2 mg/dL (ref 8.5‑10.5).\nSerum phosphate: 3.8 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0319-m04",
+      "date": "2025-05-27",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Vitamin D deficiency, improving.\nPatient feels less fatigued, mild shoulder ache resolved. Adherent to weekly high‑dose inhaler‑free regimen. Smoking status: never. Plan: check labs, switch to maintenance cholecalciferol 1000 IU daily."
+    },
+    {
+      "memory_id": "X0319-m05",
+      "date": "2025-05-27",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 1000 IU orally daily"
+    },
+    {
+      "memory_id": "X0319-m06",
+      "date": "2025-05-28",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 18 ng/mL (ref 20‑50).\nSerum calcium: 9.3 mg/dL (ref 8.5‑10.5).\nSerum phosphate: 3.9 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0319-m07",
+      "date": "2025-08-26",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Vitamin D deficiency, partially corrected.\nPatient reports occasional low‑energy evenings, no bone pain. Smoking status: never. Labs show sub‑optimal level; increase maintenance to cholecalciferol 2000 IU daily to achieve target >30 ng/mL."
+    },
+    {
+      "memory_id": "X0319-m08",
+      "date": "2025-08-26",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 2000 IU orally daily"
+    },
+    {
+      "memory_id": "X0319-m09",
+      "date": "2025-08-27",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 24 ng/mL (ref 20‑50).\nSerum calcium: 9.4 mg/dL (ref 8.5‑10.5).\nSerum phosphate: 4.0 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0319-m10",
+      "date": "2025-11-24",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Vitamin D deficiency, now sufficient.\nPatient feels energetic, no musculoskeletal complaints. Smoking status: never. Labs within target range; reduce to maintenance cholecalciferol 1000 IU daily."
+    },
+    {
+      "memory_id": "X0319-m11",
+      "date": "2025-11-24",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 1000 IU orally daily"
+    },
+    {
+      "memory_id": "X0319-m12",
+      "date": "2025-11-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 32 ng/mL (ref 20‑50).\nSerum calcium: 9.3 mg/dL (ref 8.5‑10.5).\nSerum phosphate: 3.9 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0319-m13",
+      "date": "2026-02-22",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up pulmonology review for 2026-05-20 at 10:00 am."
+    },
+    {
+      "memory_id": "X0319-m14",
+      "date": "2026-05-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Vitamin D deficiency, maintained.\nPatient reports continued well‑being, no symptoms. Smoking status: never. Labs stable; continue cholecalciferol 1000 IU daily and review in 6 months."
+    },
+    {
+      "memory_id": "X0319-m15",
+      "date": "2026-05-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Cholecalciferol 1000 IU orally daily"
+    },
+    {
+      "memory_id": "X0319-m16",
+      "date": "2026-05-21",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑hydroxyvitamin D: 30 ng/mL (ref 20‑50).\nSerum calcium: 9.2 mg/dL (ref 8.5‑10.5).\nSerum phosphate: 3.8 mg/dL (ref 2.5‑4.5)."
+    }
+  ]
+}

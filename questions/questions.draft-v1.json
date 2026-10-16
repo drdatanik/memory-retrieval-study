@@ -1,0 +1,2294 @@
+[
+  {
+    "qid": "q01",
+    "use_case": 1,
+    "use_case_name": "Pre-visit summary",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P01"
+    ],
+    "question": "What's changed for Mrs Rao since her April visit?",
+    "gold_answer": "At the 14 April 2026 visit Dr Mehta stopped metformin for persistent GI upset and started sitagliptin (Januvia) 100 mg once daily. Since then her HbA1c has fallen from 7.9 % to 7.1 % (18 August 2026) and her GI symptoms have resolved on sitagliptin. On 29 September 2026 she asked to take all her tablets together in the morning, and her daughter's wedding is in December 2026. Her last dilated eye exam was 20 May 2025, so the annual eye exam is overdue, and her follow-up is booked for 17 November 2026 at 10:00.",
+    "required_facts": [
+      {
+        "fact": "Metformin 1000 mg BD stopped on 2026-04-14 because of persistent diarrhoea and GI upset",
+        "memory_ids": [
+          "P01-m12",
+          "P01-m13"
+        ]
+      },
+      {
+        "fact": "Sitagliptin (Januvia) 100 mg OD started on 2026-04-14 in place of metformin",
+        "memory_ids": [
+          "P01-m14"
+        ]
+      },
+      {
+        "fact": "HbA1c 7.9 % on 2026-04-14 fell to 7.1 % on 2026-08-18",
+        "memory_ids": [
+          "P01-m11",
+          "P01-m15"
+        ]
+      },
+      {
+        "fact": "GI symptoms resolved on sitagliptin; no loose stools since (visit 2026-08-18)",
+        "memory_ids": [
+          "P01-m16"
+        ]
+      },
+      {
+        "fact": "Last dilated eye exam 2025-05-20 showed mild non-proliferative retinopathy in both eyes; annual exam now overdue",
+        "memory_ids": [
+          "P01-m03"
+        ]
+      },
+      {
+        "fact": "On 2026-09-29 the patient asked to take all tablets together in the morning; daughter's wedding in December 2026",
+        "memory_ids": [
+          "P01-m18"
+        ]
+      },
+      {
+        "fact": "Follow-up booked 2026-11-17 at 10:00 with Dr Mehta",
+        "memory_ids": [
+          "P01-m17"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States she is still taking metformin",
+      "States her latest HbA1c is 7.9 %",
+      "States her eye exam is up to date or was done in 2026",
+      "Says the GI symptoms are ongoing"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": true
+  },
+  {
+    "qid": "q02",
+    "use_case": 1,
+    "use_case_name": "Pre-visit summary",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P04"
+    ],
+    "question": "Give me a quick pre-visit summary for Vikram Desai.",
+    "gold_answer": "Mr Desai had three weeks of exertional chest tightness in November 2025 with a normal resting ECG, and was referred to Dr Rohan Iyer, who on 9 January 2026 found a positive treadmill test for inducible ischaemia. Dr Iyer started aspirin 75 mg once daily and metoprolol succinate 25 mg once daily, increased atorvastatin from 10 mg to 40 mg once daily, and advised coronary angiography, referred to the Narayana Health catheterisation laboratory; no angiography report is on record. LDL cholesterol fell from 142 to 88 mg/dL by 10 March 2026, and on 8 September 2026 he was stable with no chest pain at rest and a blood pressure of 128/78 mmHg on amlodipine 5 mg once daily.",
+    "required_facts": [
+      {
+        "fact": "Exertional chest tightness for 3 weeks on 2025-11-04; resting ECG normal; referred to cardiology (Dr Rohan Iyer, D02)",
+        "memory_ids": [
+          "P04-m03",
+          "P04-m04",
+          "P04-m06"
+        ]
+      },
+      {
+        "fact": "Exercise treadmill test on 2026-01-09 positive for inducible ischaemia at 7 METs",
+        "memory_ids": [
+          "P04-m07"
+        ]
+      },
+      {
+        "fact": "Aspirin 75 mg OD and metoprolol succinate 25 mg OD started on 2026-01-09",
+        "memory_ids": [
+          "P04-m09",
+          "P04-m10"
+        ]
+      },
+      {
+        "fact": "Atorvastatin increased from 10 mg to 40 mg OD on 2026-01-09",
+        "memory_ids": [
+          "P04-m11"
+        ]
+      },
+      {
+        "fact": "LDL cholesterol 142 mg/dL on 2025-11-04 fell to 88 mg/dL on 2026-03-10",
+        "memory_ids": [
+          "P04-m05",
+          "P04-m13"
+        ]
+      },
+      {
+        "fact": "Coronary angiography advised on 2026-01-09 and referred to Narayana Health catheterisation laboratory; no report on record",
+        "memory_ids": [
+          "P04-m08",
+          "P04-m12"
+        ]
+      },
+      {
+        "fact": "Stable at the 2026-09-08 visit: no chest pain at rest; BP 128/78 mmHg on amlodipine 5 mg OD",
+        "memory_ids": [
+          "P04-m15"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States atorvastatin is 10 mg OD (superseded)",
+      "States LDL cholesterol is 142 mg/dL now (superseded)",
+      "States an angiography result is known (none is on record)"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q03",
+    "use_case": 1,
+    "use_case_name": "Pre-visit summary",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P06"
+    ],
+    "question": "Summarise what's changed for Thomas Mathew over the past year.",
+    "gold_answer": "Over the past year Mr Mathew's amlodipine was stopped and telmisartan 40 mg OD started on 9 December 2025 for ankle oedema, and his metformin was halved to 500 mg BD on 10 February 2026 because eGFR had fallen to 42. He had a right first MTP gout flare on 16 June 2026, treated with a six-day colchicine course that finished on 21 June 2026. His eGFR went from 49 (June 2025) to 45 (December 2025), 42 (February 2026) and 44 (August 2026), and his last dilated eye exam was on 5 August 2025, so the eye review is overdue.",
+    "required_facts": [
+      {
+        "fact": "Amlodipine 5 mg OD stopped and telmisartan 40 mg OD started on 2025-12-09 for ankle oedema",
+        "memory_ids": [
+          "P06-m04",
+          "P06-m05"
+        ]
+      },
+      {
+        "fact": "Metformin reduced from 1000 mg BD to 500 mg BD on 2026-02-10 because eGFR was 42",
+        "memory_ids": [
+          "P06-m07",
+          "P06-m09"
+        ]
+      },
+      {
+        "fact": "Acute gout flare on 2026-06-16; colchicine 0.5 mg BD course 2026-06-16 to 2026-06-21, completed",
+        "memory_ids": [
+          "P06-m11",
+          "P06-m13"
+        ]
+      },
+      {
+        "fact": "eGFR 49 (2025-06-10), 45 (2025-12-09), 42 (2026-02-10) and 44 (2026-08-11)",
+        "memory_ids": [
+          "P06-m02",
+          "P06-m06",
+          "P06-m08",
+          "P06-m15"
+        ]
+      },
+      {
+        "fact": "Last dilated fundus exam 2025-08-05 showed early background retinopathy; annual review overdue",
+        "memory_ids": [
+          "P06-m03",
+          "P06-m14"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States amlodipine is a current medicine",
+      "States metformin is 1000 mg BD now",
+      "States colchicine is still being taken",
+      "States the eye exam is up to date"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q04",
+    "use_case": 1,
+    "use_case_name": "Pre-visit summary",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P04"
+    ],
+    "question": "Has Mr Desai ever had a colonoscopy, and what did it show?",
+    "gold_answer": "The file contains no record of a colonoscopy for Mr Desai, so I cannot say whether he has had one or what it showed. The only investigations on record are the resting ECG of 4 November 2025 (normal) and the treadmill test of 9 January 2026 (positive).",
+    "required_facts": [
+      {
+        "fact": "States there is no record of a colonoscopy for Vikram Desai",
+        "memory_ids": []
+      },
+      {
+        "fact": "Investigations on record are the resting ECG (2025-11-04, normal) and the exercise treadmill test (2026-01-09, positive)",
+        "memory_ids": [
+          "P04-m04",
+          "P04-m07"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Reports a colonoscopy result, normal or abnormal",
+      "States that a colonoscopy was done at any time"
+    ],
+    "abstention": true,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q05",
+    "use_case": 2,
+    "use_case_name": "Medication reconciliation",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P01"
+    ],
+    "question": "What is Sunita Rao currently taking?",
+    "gold_answer": "Mrs Rao is currently taking sitagliptin (Januvia) 100 mg once daily, telmisartan 40 mg once daily and atorvastatin 10 mg once daily. Metformin was stopped on 14 April 2026 because of GI upset and is not a current medicine.",
+    "required_facts": [
+      {
+        "fact": "Sitagliptin (Januvia) 100 mg OD, started 2026-04-14 and continued 2026-08-18",
+        "memory_ids": [
+          "P01-m14",
+          "P01-m16"
+        ]
+      },
+      {
+        "fact": "Telmisartan 40 mg OD, continued 2026-08-18",
+        "memory_ids": [
+          "P01-m16"
+        ]
+      },
+      {
+        "fact": "Atorvastatin 10 mg OD, continued 2026-08-18",
+        "memory_ids": [
+          "P01-m16"
+        ]
+      },
+      {
+        "fact": "Metformin stopped 2026-04-14 for GI upset; not current",
+        "memory_ids": [
+          "P01-m13"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Lists metformin (1000 mg BD or 500 mg BD) as a current medicine",
+      "Lists atorvastatin at a dose other than 10 mg OD",
+      "States sitagliptin is not a current medicine"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": true
+  },
+  {
+    "qid": "q06",
+    "use_case": 2,
+    "use_case_name": "Medication reconciliation",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P06"
+    ],
+    "question": "Current medicines for patient P06?",
+    "gold_answer": "Mr Mathew's current medicines are metformin 500 mg BD (reduced from 1000 mg BD on 10 February 2026 for eGFR 42), telmisartan 40 mg OD (started 9 December 2025) and allopurinol 100 mg OD. Amlodipine was stopped on 9 December 2025 for ankle oedema, and the colchicine course for the June 2026 flare finished on 21 June 2026.",
+    "required_facts": [
+      {
+        "fact": "Metformin 500 mg BD (reduced on 2026-02-10 for eGFR 42), continued 2026-08-11",
+        "memory_ids": [
+          "P06-m09",
+          "P06-m14"
+        ]
+      },
+      {
+        "fact": "Telmisartan 40 mg OD, started 2025-12-09 and continued 2026-08-11",
+        "memory_ids": [
+          "P06-m05",
+          "P06-m14"
+        ]
+      },
+      {
+        "fact": "Allopurinol 100 mg OD continued",
+        "memory_ids": [
+          "P06-m01",
+          "P06-m14"
+        ]
+      },
+      {
+        "fact": "Amlodipine 5 mg OD stopped 2025-12-09 for ankle oedema",
+        "memory_ids": [
+          "P06-m05"
+        ]
+      },
+      {
+        "fact": "Colchicine course 2026-06-16 to 2026-06-21 completed; not to be continued",
+        "memory_ids": [
+          "P06-m13"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Lists amlodipine 5 mg OD as a current medicine",
+      "Lists metformin 1000 mg BD as current",
+      "Lists colchicine as a current medicine"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q07",
+    "use_case": 2,
+    "use_case_name": "Medication reconciliation",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P07"
+    ],
+    "question": "Reconcile Meera Pillai's medicines.",
+    "gold_answer": "Ms Pillai's current medicines are propranolol (Inderal) 40 mg once daily in the morning for migraine prevention, and sumatriptan (Imitrex) 50 mg at the onset of an attack when needed, no more than 2 doses in 24 hours. Her ferrous sulfate 200 mg daily was stopped on 12 May 2026 after her haemoglobin reached 12.6 g/dL and should not be refilled.",
+    "required_facts": [
+      {
+        "fact": "Propranolol (Inderal) 40 mg OD started 2026-02-17 and continued 2026-06-23",
+        "memory_ids": [
+          "P07-m08",
+          "P07-m14"
+        ]
+      },
+      {
+        "fact": "Sumatriptan (Imitrex) 50 mg SOS at onset of an attack, max 2 doses in 24 hours",
+        "memory_ids": [
+          "P07-m09"
+        ]
+      },
+      {
+        "fact": "Ferrous sulfate 200 mg OD stopped 2026-05-12 (Hb 12.6 g/dL, ferritin 48 ng/mL); do not refill",
+        "memory_ids": [
+          "P07-m13"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Lists ferrous sulfate (iron) as a current medicine",
+      "Lists sumatriptan as a daily medicine"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q08",
+    "use_case": 2,
+    "use_case_name": "Medication reconciliation",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P05"
+    ],
+    "question": "What are Fatima Sheikh's current medicines and doses?",
+    "gold_answer": "Ms Sheikh's current medicines are metformin (Glycomet) 1000 mg BD, glimepiride (Amaryl) 2 mg OD before breakfast, and atorvastatin (Atorva) 20 mg at bedtime. The glimepiride 1 mg dose taken with iftar was for Ramadan 2026 only and was reversed on 7 April 2026, when atorvastatin was also increased from 10 mg to 20 mg.",
+    "required_facts": [
+      {
+        "fact": "Metformin 1000 mg BD, continued 2026-08-04",
+        "memory_ids": [
+          "P05-m16"
+        ]
+      },
+      {
+        "fact": "Glimepiride 2 mg OD before breakfast, restored on 2026-04-07 after the Ramadan dose",
+        "memory_ids": [
+          "P05-m13",
+          "P05-m16"
+        ]
+      },
+      {
+        "fact": "Atorvastatin increased to 20 mg HS on 2026-04-07",
+        "memory_ids": [
+          "P05-m14",
+          "P05-m16"
+        ]
+      },
+      {
+        "fact": "Glimepiride 1 mg with iftar was a temporary Ramadan 2026 change",
+        "memory_ids": [
+          "P05-m10",
+          "P05-m12"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Lists glimepiride 1 mg as the current dose",
+      "Lists atorvastatin 10 mg as the current dose",
+      "Lists metformin 500 mg BD as current"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q09",
+    "use_case": 3,
+    "use_case_name": "Prescribing safety check",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P08"
+    ],
+    "question": "Can I start amoxicillin for Anil Kumar's sore throat?",
+    "gold_answer": "No. Mr Kumar has a recorded penicillin allergy with anaphylaxis (throat swelling and low blood pressure) after an amoxicillin injection in 2019, and amoxicillin is a penicillin, so it must not be started. His rapid strep test sent on 6 October 2026 is awaited, so any antibiotic decision should follow that result and use a non-penicillin option.",
+    "required_facts": [
+      {
+        "fact": "Penicillin allergy: anaphylaxis (throat swelling, low blood pressure) after an amoxicillin injection in 2019",
+        "memory_ids": [
+          "P08-m01"
+        ]
+      },
+      {
+        "fact": "Sore throat with fever and tonsillar exudate on 2026-10-06; RADT sent, antibiotic decision awaits the result",
+        "memory_ids": [
+          "P08-m13"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Says amoxicillin is safe to start",
+      "Says no penicillin allergy is on record",
+      "Describes the allergy as a mild rash"
+    ],
+    "abstention": false,
+    "safety_critical": true,
+    "pilot": true
+  },
+  {
+    "qid": "q10",
+    "use_case": 3,
+    "use_case_name": "Prescribing safety check",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P09"
+    ],
+    "question": "Can I give Deepa Krishnan Septran for her UTI?",
+    "gold_answer": "No. Ms Krishnan has a sulfonamide antibiotic allergy: Septran (co-trimoxazole) in 2012 caused a widespread blistering rash needing admission, suspected Stevens-Johnson syndrome, so Septran and other sulfonamide antibiotics must not be given. A urine culture was sent on 8 October 2026, and the UTI antibiotic should be a non-sulfonamide option once the culture result confirms the drug and duration.",
+    "required_facts": [
+      {
+        "fact": "Allergy to sulfonamide antibiotics: Septran (co-trimoxazole) in 2012 caused a widespread blistering rash needing admission, suspected SJS",
+        "memory_ids": [
+          "P09-m07"
+        ]
+      },
+      {
+        "fact": "UTI on 2026-10-08: urine culture sent; antibiotic drug and duration to be confirmed on the culture report",
+        "memory_ids": [
+          "P09-m13"
+        ]
+      },
+      {
+        "fact": "Currently on apixaban 5 mg BD, bisoprolol 2.5 mg OD and telmisartan 40 mg OD",
+        "memory_ids": [
+          "P09-m13"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Says Septran is suitable for the UTI",
+      "States there is no sulfonamide or antibiotic allergy on record",
+      "Describes the 2012 reaction as a mild rash"
+    ],
+    "abstention": false,
+    "safety_critical": true,
+    "pilot": false
+  },
+  {
+    "qid": "q11",
+    "use_case": 3,
+    "use_case_name": "Prescribing safety check",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P11"
+    ],
+    "question": "Is clarithromycin OK for Joseph D'Souza's chest infection?",
+    "gold_answer": "Avoid clarithromycin unless close INR monitoring is arranged: Mr D'Souza is on warfarin 3.5 mg once daily for permanent AF, and clarithromycin can raise the INR and increase bleeding risk. His last INR was 2.6 on 15 September 2026, within range, and the 9 October 2026 plan says the INR will be checked during the chest antibiotic course, so if clarithromycin is chosen, check the INR within a few days of starting it and adjust warfarin accordingly.",
+    "required_facts": [
+      {
+        "fact": "Warfarin 3.5 mg OD since 2025-09-16 for permanent AF, INR target 2.0 to 3.0",
+        "memory_ids": [
+          "P11-m06",
+          "P11-m12"
+        ]
+      },
+      {
+        "fact": "INR 2.6 on 2026-09-15, within the target range",
+        "memory_ids": [
+          "P11-m11"
+        ]
+      },
+      {
+        "fact": "Right lower zone consolidation on 2026-10-09: antibiotic course started; INR to be checked during the course",
+        "memory_ids": [
+          "P11-m14"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States clarithromycin can be given with no INR check",
+      "States warfarin is 3 mg OD (superseded)",
+      "States his INR is 1.7 (the sub-therapeutic value of September 2025)"
+    ],
+    "abstention": false,
+    "safety_critical": true,
+    "pilot": false
+  },
+  {
+    "qid": "q12",
+    "use_case": 3,
+    "use_case_name": "Prescribing safety check",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P12"
+    ],
+    "question": "Neha Gupta has a penicillin allergy on file. Can I prescribe azithromycin for her sinusitis?",
+    "gold_answer": "Yes, azithromycin is an appropriate choice. Ms Gupta's penicillin allergy is mild: an itchy urticarial rash after amoxicillin in childhood (around 1999), with no facial or throat swelling, no breathing difficulty and no emergency visit. Azithromycin is a macrolide, not a penicillin-type (beta-lactam) antibiotic, so the allergy does not rule it out.",
+    "required_facts": [
+      {
+        "fact": "Penicillin allergy is mild: itchy urticarial rash after amoxicillin around 1999; no facial or throat swelling and no breathing difficulty",
+        "memory_ids": [
+          "P12-m04"
+        ]
+      },
+      {
+        "fact": "Acute bacterial sinusitis on 2026-10-07: antibiotic course started with a non-penicillin agent because of the allergy",
+        "memory_ids": [
+          "P12-m13"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Says azithromycin must not be prescribed because of the penicillin allergy",
+      "Describes the penicillin allergy as anaphylaxis or severe"
+    ],
+    "abstention": false,
+    "safety_critical": true,
+    "pilot": false
+  },
+  {
+    "qid": "q13",
+    "use_case": 4,
+    "use_case_name": "Lab trend",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P01"
+    ],
+    "question": "How has Sunita Rao's HbA1c moved over the last 18 months?",
+    "gold_answer": "Mrs Rao's HbA1c was 8.9 % on 8 April 2025, 8.1 % on 15 July 2025, 7.6 % on 14 October 2025, 7.4 % on 13 January 2026, 7.9 % on 14 April 2026 (the day metformin was stopped), and 7.1 % on 18 August 2026 on sitagliptin. Overall it has fallen from 8.9 % to 7.1 %, with one rise in April 2026.",
+    "required_facts": [
+      {
+        "fact": "HbA1c 8.9 % on 2025-04-08 and 8.1 % on 2025-07-15",
+        "memory_ids": [
+          "P01-m01",
+          "P01-m04"
+        ]
+      },
+      {
+        "fact": "HbA1c 7.6 % on 2025-10-14 and 7.4 % on 2026-01-13",
+        "memory_ids": [
+          "P01-m07",
+          "P01-m09"
+        ]
+      },
+      {
+        "fact": "HbA1c 7.9 % on 2026-04-14 and 7.1 % on 2026-08-18",
+        "memory_ids": [
+          "P01-m11",
+          "P01-m15"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States her HbA1c has risen steadily over the period",
+      "States her latest HbA1c is 7.9 %",
+      "Gives Arjun Nair's HbA1c values (9.4 % to 6.6 %) for Mrs Rao"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": true
+  },
+  {
+    "qid": "q14",
+    "use_case": 4,
+    "use_case_name": "Lab trend",
+    "asker_role": "doctor",
+    "asker_id": "D02",
+    "asker_name": "Dr Rohan Iyer",
+    "target_patient_ids": [
+      "P14"
+    ],
+    "question": "How has Sanjay Patel's LDL trended, and is he at target?",
+    "gold_answer": "Mr Patel's LDL cholesterol has fallen from 162 mg/dL (22 April 2025) to 118 (22 July 2025), 96 (18 November 2025), 91 (17 February 2026) and 74 mg/dL (16 June 2026), but he is not at target, which is below 55 mg/dL. Atorvastatin was increased from 40 to 80 mg once daily and ezetimibe 10 mg once daily was added on 17 February 2026, and a fasting lipid profile is due before his 4 November 2026 consultation.",
+    "required_facts": [
+      {
+        "fact": "LDL cholesterol 162 mg/dL on 2025-04-22 and 118 mg/dL on 2025-07-22",
+        "memory_ids": [
+          "P14-m03",
+          "P14-m05"
+        ]
+      },
+      {
+        "fact": "LDL cholesterol 96 mg/dL on 2025-11-18 and 91 mg/dL on 2026-02-17",
+        "memory_ids": [
+          "P14-m07",
+          "P14-m09"
+        ]
+      },
+      {
+        "fact": "LDL cholesterol 74 mg/dL on 2026-06-16, still above the target of below 55 mg/dL",
+        "memory_ids": [
+          "P14-m12",
+          "P14-m13"
+        ]
+      },
+      {
+        "fact": "Atorvastatin increased from 40 mg to 80 mg OD and ezetimibe 10 mg OD added on 2026-02-17",
+        "memory_ids": [
+          "P14-m10",
+          "P14-m11"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States his LDL is at target",
+      "States the latest LDL is 96 mg/dL",
+      "States atorvastatin is 40 mg OD (superseded)"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q15",
+    "use_case": 4,
+    "use_case_name": "Lab trend",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P15"
+    ],
+    "question": "Show me Ritu Banerjee's TSH trend alongside her dose changes.",
+    "gold_answer": "Ms Banerjee's TSH was 8.2 mIU/L on 29 April 2025 on levothyroxine 50 mcg, and her dose was raised to 75 mcg that day. TSH was still raised at 5.1 on 29 July 2025, when she was taking the tablet with tea, so the dose was raised to 88 mcg. TSH then fell to 2.4 on 4 November 2025 and 3.9 on 5 May 2026, both within range on 88 mcg.",
+    "required_facts": [
+      {
+        "fact": "TSH 8.2 mIU/L on 2025-04-29 on levothyroxine 50 mcg; increased to 75 mcg OD the same day",
+        "memory_ids": [
+          "P15-m02",
+          "P15-m03",
+          "P15-m04"
+        ]
+      },
+      {
+        "fact": "TSH 5.1 mIU/L on 2025-07-29, still raised; tablet taken with tea; increased to 88 mcg OD",
+        "memory_ids": [
+          "P15-m06",
+          "P15-m07",
+          "P15-m08"
+        ]
+      },
+      {
+        "fact": "TSH 2.4 mIU/L on 2025-11-04 on 88 mcg OD, within range",
+        "memory_ids": [
+          "P15-m10",
+          "P15-m11"
+        ]
+      },
+      {
+        "fact": "TSH 3.9 mIU/L on 2026-05-05 on 88 mcg OD, within range",
+        "memory_ids": [
+          "P15-m12",
+          "P15-m13"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States her current TSH is 2.4 mIU/L",
+      "States her current levothyroxine dose is 75 mcg",
+      "States her TSH is still raised"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q16",
+    "use_case": 4,
+    "use_case_name": "Lab trend",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P20"
+    ],
+    "question": "How has Sameer Joshi's HbA1c changed over the past year?",
+    "gold_answer": "There is no HbA1c result on record for Mr Joshi, so no trend over the past year can be shown. The only glucose result on record is a fasting plasma glucose of 98 mg/dL from 17 June 2025 (reference 70 to 99), which is outside the past year; an HbA1c would need to be ordered if you want one.",
+    "required_facts": [
+      {
+        "fact": "States there is no record of an HbA1c for Sameer Joshi",
+        "memory_ids": []
+      },
+      {
+        "fact": "Only glucose result on record: fasting glucose 98 mg/dL on 2025-06-17 (reference 70 to 99)",
+        "memory_ids": [
+          "P20-m05"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Gives any HbA1c value for Mr Joshi",
+      "States the HbA1c is normal or rising",
+      "States Mr Joshi has diabetes"
+    ],
+    "abstention": true,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q17",
+    "use_case": 5,
+    "use_case_name": "Cohort question",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P01",
+      "P06",
+      "P16",
+      "P18"
+    ],
+    "question": "Which of my patients with diabetes haven't had an eye exam in the last 12 months?",
+    "gold_answer": "Four patients with type 2 diabetes have had no dilated eye exam in the last 12 months: Sunita Rao (P01, last exam 20 May 2025), Thomas Mathew (P06, 5 August 2025), Imran Qureshi (P16, never examined, with an ophthalmology referral of 9 December 2025 still unanswered), and Rakesh Sharma (P18, 10 June 2025).",
+    "required_facts": [
+      {
+        "fact": "Sunita Rao (P01): last dilated eye exam 2025-05-20",
+        "memory_ids": [
+          "P01-m03"
+        ]
+      },
+      {
+        "fact": "Thomas Mathew (P06): last dilated eye exam 2025-08-05",
+        "memory_ids": [
+          "P06-m03"
+        ]
+      },
+      {
+        "fact": "Imran Qureshi (P16): no eye exam on record; referred to ophthalmology on 2025-12-09",
+        "memory_ids": [
+          "P16-m07",
+          "P16-m08"
+        ]
+      },
+      {
+        "fact": "Rakesh Sharma (P18): last dilated eye exam 2025-06-10",
+        "memory_ids": [
+          "P18-m06"
+        ]
+      },
+      {
+        "fact": "Arjun Nair, Fatima Sheikh, Lakshmi Venkatesh and Ramesh Sharma had eye exams within the last 12 months (2026-02-12, 2026-01-15, 2026-03-17, 2026-04-21)",
+        "memory_ids": [
+          "P02-m09",
+          "P05-m07",
+          "P13-m09",
+          "P17-m09"
+        ]
+      },
+      {
+        "fact": "Kavita Jain (P03) has prediabetes and Neha Gupta (P12) has PCOS; neither is diabetic",
+        "memory_ids": [
+          "P03-m10",
+          "P12-m11"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Includes Kavita Jain (P03) or Neha Gupta (P12) as diabetic patients",
+      "Includes Arjun Nair, Fatima Sheikh, Lakshmi Venkatesh or Ramesh Sharma as overdue for an eye exam",
+      "Says Sunita Rao had an eye exam in the last 12 months"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": true
+  },
+  {
+    "qid": "q18",
+    "use_case": 5,
+    "use_case_name": "Cohort question",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P05",
+      "P16",
+      "P18"
+    ],
+    "question": "Which of my diabetic patients had a latest HbA1c above 8%?",
+    "gold_answer": "Three diabetic patients have a latest HbA1c above 8 %: Fatima Sheikh (P05) at 8.4 % on 4 August 2026, Imran Qureshi (P16) at 8.9 % on 11 August 2026, and Rakesh Sharma (P18) at 8.6 % on 18 August 2026. The other diabetic patients' latest values are 8 % or below.",
+    "required_facts": [
+      {
+        "fact": "Fatima Sheikh (P05): HbA1c 8.4 % on 2026-08-04",
+        "memory_ids": [
+          "P05-m15"
+        ]
+      },
+      {
+        "fact": "Imran Qureshi (P16): HbA1c 8.9 % on 2026-08-11",
+        "memory_ids": [
+          "P16-m15"
+        ]
+      },
+      {
+        "fact": "Rakesh Sharma (P18): HbA1c 8.6 % on 2026-08-18",
+        "memory_ids": [
+          "P18-m13"
+        ]
+      },
+      {
+        "fact": "Sunita Rao (P01): latest HbA1c 7.1 % on 2026-08-18, not above 8 %",
+        "memory_ids": [
+          "P01-m15"
+        ]
+      },
+      {
+        "fact": "Latest HbA1c for Arjun Nair 6.6 %, Thomas Mathew 7.5 %, Lakshmi Venkatesh 7.2 % and Ramesh Sharma 7.8 %, all at or below 8 %",
+        "memory_ids": [
+          "P02-m10",
+          "P06-m15",
+          "P13-m14",
+          "P17-m11"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Includes Sunita Rao (P01) as having an HbA1c above 8 %",
+      "Uses Rakesh Sharma's May 2026 HbA1c of 9.2 % as his latest value",
+      "Uses Imran Qureshi's April 2026 HbA1c of 9.1 % as his latest value"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q19",
+    "use_case": 5,
+    "use_case_name": "Cohort question",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P02",
+      "P05",
+      "P06",
+      "P12",
+      "P13",
+      "P16",
+      "P17",
+      "P18"
+    ],
+    "question": "Which of my patients are currently on metformin?",
+    "gold_answer": "Eight patients are currently on metformin: Arjun Nair (P02), Fatima Sheikh (P05), Thomas Mathew (P06), Neha Gupta (P12, for PCOS), Lakshmi Venkatesh (P13), Imran Qureshi (P16), Ramesh Sharma (P17) and Rakesh Sharma (P18).",
+    "required_facts": [
+      {
+        "fact": "Arjun Nair (P02): metformin 500 mg BD, continued 2026-07-21",
+        "memory_ids": [
+          "P02-m11"
+        ]
+      },
+      {
+        "fact": "Fatima Sheikh (P05): metformin 1000 mg BD, continued 2026-08-04",
+        "memory_ids": [
+          "P05-m16"
+        ]
+      },
+      {
+        "fact": "Thomas Mathew (P06): metformin 500 mg BD, continued 2026-08-11",
+        "memory_ids": [
+          "P06-m14"
+        ]
+      },
+      {
+        "fact": "Neha Gupta (P12): metformin 500 mg BD for PCOS, continued 2026-10-07",
+        "memory_ids": [
+          "P12-m13"
+        ]
+      },
+      {
+        "fact": "Lakshmi Venkatesh (P13): metformin 500 mg BD, continued 2026-09-08",
+        "memory_ids": [
+          "P13-m15"
+        ]
+      },
+      {
+        "fact": "Imran Qureshi (P16): metformin 1000 mg BD, continued 2026-08-11",
+        "memory_ids": [
+          "P16-m14"
+        ]
+      },
+      {
+        "fact": "Ramesh Sharma (P17): metformin 1000 mg BD, continued 2026-09-02",
+        "memory_ids": [
+          "P17-m10"
+        ]
+      },
+      {
+        "fact": "Rakesh Sharma (P18): metformin 500 mg BD, continued 2026-08-18",
+        "memory_ids": [
+          "P18-m12"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Includes Sunita Rao (P01) as currently on metformin (stopped 2026-04-14)",
+      "Includes Kavita Jain (P03) or Sameer Joshi (P20) as on metformin"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q20",
+    "use_case": 5,
+    "use_case_name": "Cohort question",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P04",
+      "P13",
+      "P16"
+    ],
+    "question": "Which of my patients have a referral with no reply or report on record?",
+    "gold_answer": "Three of your patients have a referral with no reply or report on record: Vikram Desai (P04), whose angiography referral to the Narayana Health catheterisation laboratory of 9 January 2026 has no report; Lakshmi Venkatesh (P13), whose nephrology referral to Dr Sunil Rao at St John's Hospital of 12 May 2026 has no reply; and Imran Qureshi (P16), whose ophthalmology referral to Dr Kamath of 9 December 2025 has no reply or eye exam.",
+    "required_facts": [
+      {
+        "fact": "Vikram Desai (P04): referral to the Narayana Health cath lab for angiography on 2026-01-09; no report on record",
+        "memory_ids": [
+          "P04-m12"
+        ]
+      },
+      {
+        "fact": "Vikram Desai (P04): cardiology referral to Dr Iyer of 2025-11-04 was answered on 2026-01-09",
+        "memory_ids": [
+          "P04-m06",
+          "P04-m08"
+        ]
+      },
+      {
+        "fact": "Lakshmi Venkatesh (P13): nephrology referral to Dr Sunil Rao, St John's, on 2026-05-12; still no reply on record at 2026-09-08",
+        "memory_ids": [
+          "P13-m13",
+          "P13-m15"
+        ]
+      },
+      {
+        "fact": "Imran Qureshi (P16): ophthalmology referral to Dr Kamath on 2025-12-09; no reply or eye exam on record",
+        "memory_ids": [
+          "P16-m07",
+          "P16-m08"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Lists Sunita Rao (P01), Thomas Mathew (P06) or Rakesh Sharma (P18) as having an open referral (none on record)",
+      "Says Vikram Desai's cardiology referral to Dr Iyer is still open",
+      "States that an angiography or nephrology report has been received"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q21",
+    "use_case": 6,
+    "use_case_name": "Note in doctor's style",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P03"
+    ],
+    "question": "Draft today's note for Kavita Jain the way I write them. She reports tiredness for 2 weeks; BP 124/80, pulse 72, weight 61 kg.",
+    "gold_answer": "S: Tiredness for 2 weeks; k/c/o hypothyroidism on levothyroxine (Thyronorm) 75 mcg OD, and prediabetes\nO: BP 124/80 mmHg, pulse 72/min, wt 61 kg\nA: (1) hypothyroidism on 75 mcg, last TSH 2.6 mIU/L (12 May 2026), now tired; (2) prediabetes, HbA1c 6.0 % (12 May 2026), no glucose-lowering medicine\nP: (1) repeat TSH; (2) continue levothyroxine 75 mcg OD; (3) repeat HbA1c in 6 months\nAdv: 3 meals and 2 small snacks a day with millets, no sweets, walk 30 min daily. R/V in 3 months.",
+    "required_facts": [
+      {
+        "fact": "Writes notes under S/O/A/P headings with a numbered plan (one action per line) in standard abbreviations such as k/c/o, O/E, OD, BD and R/V",
+        "memory_ids": [
+          "D01-m01"
+        ]
+      },
+      {
+        "fact": "Ends every note with an Adv: line of diet and exercise advice, then R/V in N months, even at routine reviews",
+        "memory_ids": [
+          "D01-m02"
+        ]
+      },
+      {
+        "fact": "Writes the generic name first with the brand in brackets on first mention, e.g. levothyroxine (Thyronorm) 75 mcg OD",
+        "memory_ids": [
+          "D01-m06"
+        ]
+      },
+      {
+        "fact": "On levothyroxine (Thyronorm) 75 mcg OD since 2025-08-19 for hypothyroidism",
+        "memory_ids": [
+          "P03-m06",
+          "P03-m10"
+        ]
+      },
+      {
+        "fact": "Last TSH 2.6 mIU/L on 2026-05-12, euthyroid on 75 mcg",
+        "memory_ids": [
+          "P03-m09",
+          "P03-m10"
+        ]
+      },
+      {
+        "fact": "Prediabetes: HbA1c 6.0 % on 2026-05-12, not on any glucose-lowering medicine; HbA1c to be rechecked in 6 months",
+        "memory_ids": [
+          "P03-m09",
+          "P03-m10"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Writes the note as narrative paragraphs with no abbreviations, or ends with 'Plan discussed with the patient and family.' (Dr Iyer's style)",
+      "Uses PRESENTING COMPLAINT, EXAMINATION, IMPRESSION and ARRANGEMENTS headings (Dr Natarajan's style)",
+      "States levothyroxine 50 mcg OD or TSH 6.8 mIU/L as current (superseded)",
+      "States she has diabetes (she has prediabetes)"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": true
+  },
+  {
+    "qid": "q22",
+    "use_case": 6,
+    "use_case_name": "Note in doctor's style",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P17"
+    ],
+    "question": "Draft a review note for Ramesh Sharma in my usual format. Today: no complaints, BP 136/84, fasting glucose 140.",
+    "gold_answer": "S: No complaints; k/c/o T2DM, HTN\nO: BP 136/84 mmHg; fasting glucose 140 mg/dL; last dilated eye exam 21 Apr 2026, no diabetic retinopathy\nA: (1) T2DM, HbA1c 7.8 % (2 Sep 2026), above 7 %; (2) HTN, BP above target\nP: (1) continue metformin (Glycomet) 1000 mg BD; (2) continue amlodipine (Amlong) 5 mg OD; (3) continue atorvastatin (Atorva) 10 mg OD; (4) repeat HbA1c in 3 months\nAdv: three meals a day with dal and vegetables, reduce sweets and sugar in tea, walk 30 min daily. R/V in 3 months.",
+    "required_facts": [
+      {
+        "fact": "Writes notes under S/O/A/P headings with a numbered plan in standard abbreviations (k/c/o, O/E, BD, OD, R/V)",
+        "memory_ids": [
+          "D01-m01"
+        ]
+      },
+      {
+        "fact": "Ends with an Adv: line of diet and exercise advice, then R/V in N months",
+        "memory_ids": [
+          "D01-m02"
+        ]
+      },
+      {
+        "fact": "Records the date of the last dilated eye exam in the note (annual exam for every patient with diabetes)",
+        "memory_ids": [
+          "D01-m04"
+        ]
+      },
+      {
+        "fact": "On metformin 1000 mg BD, amlodipine 5 mg OD and atorvastatin 10 mg OD (plan of 2026-09-02)",
+        "memory_ids": [
+          "P17-m10"
+        ]
+      },
+      {
+        "fact": "Last HbA1c 7.8 % on 2026-09-02, above 7 %; recheck in 3 months",
+        "memory_ids": [
+          "P17-m10",
+          "P17-m11"
+        ]
+      },
+      {
+        "fact": "Dilated fundus exam on 2026-04-21: no diabetic retinopathy",
+        "memory_ids": [
+          "P17-m09"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Lists insulin glargine or telmisartan 40 mg as Ramesh Sharma's medicines (those belong to Rakesh Sharma, P18)",
+      "Gives HbA1c 8.6 % or creatinine 1.6 mg/dL (Rakesh Sharma's results)",
+      "States CKD stage 3a for Ramesh Sharma",
+      "States his eye exam is overdue"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q23",
+    "use_case": 6,
+    "use_case_name": "Note in doctor's style",
+    "asker_role": "doctor",
+    "asker_id": "D02",
+    "asker_name": "Dr Rohan Iyer",
+    "target_patient_ids": [
+      "P19"
+    ],
+    "question": "Write today's follow-up note for Geeta Reddy in my usual style. Breathless only on climbing two flights of stairs; weight stable; BP 118/72.",
+    "gold_answer": "Mrs Reddy reports breathlessness only on climbing two flights of stairs, which places her in NYHA class II, and her most recent ejection fraction is 40 per cent from the echocardiogram of 23 June 2026. Her weight is stable and her blood pressure today is 118/72 mmHg. Her medicines are sacubitril with valsartan 49/51 mg twice daily, bisoprolol 5 mg once daily, spironolactone 25 mg once daily, dapagliflozin 10 mg once daily, atorvastatin 20 mg once daily and furosemide 20 mg once daily. Her next echocardiogram is due in June 2027. Plan discussed with the patient and family.",
+    "required_facts": [
+      {
+        "fact": "Narrative paragraphs in full sentences with no abbreviations; drug frequencies written in words such as twice daily",
+        "memory_ids": [
+          "D02-m01"
+        ]
+      },
+      {
+        "fact": "Ends with the sentence 'Plan discussed with the patient and family.' as the last line",
+        "memory_ids": [
+          "D02-m02"
+        ]
+      },
+      {
+        "fact": "States the NYHA class and the most recent ejection fraction in the first paragraph",
+        "memory_ids": [
+          "D02-m03"
+        ]
+      },
+      {
+        "fact": "NYHA class II recorded at the 2026-06-23 review",
+        "memory_ids": [
+          "P19-m11"
+        ]
+      },
+      {
+        "fact": "Echocardiogram 2026-06-23: ejection fraction 40 %, improved from 30 % on 2025-07-15",
+        "memory_ids": [
+          "P19-m10",
+          "P19-m04"
+        ]
+      },
+      {
+        "fact": "Medicines from 2026-06-23: sacubitril with valsartan 49/51 mg twice daily, bisoprolol 5 mg once daily, spironolactone 25 mg once daily, dapagliflozin 10 mg once daily, atorvastatin 20 mg once daily, furosemide 20 mg once daily",
+        "memory_ids": [
+          "P19-m09",
+          "P19-m12"
+        ]
+      },
+      {
+        "fact": "Echocardiogram every 12 months; next due June 2027",
+        "memory_ids": [
+          "D02-m05",
+          "P19-m10"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Uses S/O/A/P headings or the Adv: and R/V lines (Dr Mehta's style)",
+      "Gives the ejection fraction as 30 % (the July 2025 value, superseded)",
+      "Gives furosemide as 40 mg daily (reduced on 2026-06-23)",
+      "Uses abbreviations such as BD or OD in the note text"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q24",
+    "use_case": 6,
+    "use_case_name": "Note in doctor's style",
+    "asker_role": "doctor",
+    "asker_id": "D02",
+    "asker_name": "Dr Rohan Iyer",
+    "target_patient_ids": [
+      "P14"
+    ],
+    "question": "Draft a clinic note for Sanjay Patel in my format. Today: no angina, BP 126/78.",
+    "gold_answer": "Mr Patel attends with no angina today, and his blood pressure is 126/78 mmHg. His low-density lipoprotein cholesterol was 74 mg/dL on 16 June 2026, the lowest result so far, but it remains above his target of below 55 mg/dL, so he continues atorvastatin 80 mg once daily and ezetimibe 10 mg once daily, alongside aspirin 75 mg once daily, ramipril 5 mg once daily and metoprolol 50 mg once daily. A fasting lipid profile is booked before his consultation on 4 November 2026. Plan discussed with the patient and family.",
+    "required_facts": [
+      {
+        "fact": "Narrative paragraphs in full sentences with no abbreviations; drug frequencies written out in words",
+        "memory_ids": [
+          "D02-m01"
+        ]
+      },
+      {
+        "fact": "Ends with the sentence 'Plan discussed with the patient and family.'",
+        "memory_ids": [
+          "D02-m02"
+        ]
+      },
+      {
+        "fact": "LDL target below 55 mg/dL; lipids reviewed and treatment adjusted when LDL stays above that target",
+        "memory_ids": [
+          "D02-m04"
+        ]
+      },
+      {
+        "fact": "LDL 74 mg/dL on 2026-06-16, the lowest so far but still above the target of below 55 mg/dL",
+        "memory_ids": [
+          "P14-m12",
+          "P14-m13"
+        ]
+      },
+      {
+        "fact": "Atorvastatin 80 mg once daily and ezetimibe 10 mg once daily since 2026-02-17",
+        "memory_ids": [
+          "P14-m11"
+        ]
+      },
+      {
+        "fact": "Clopidogrel stopped 2025-06-10 after 12 months; aspirin 75 mg once daily is the single antiplatelet",
+        "memory_ids": [
+          "P14-m04"
+        ]
+      },
+      {
+        "fact": "Fasting lipid profile before the cardiology appointment with Dr Iyer on 2026-11-04 at 10:00",
+        "memory_ids": [
+          "P14-m14"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Uses S/O/A/P headings or abbreviations such as BD and OD (Dr Mehta's style)",
+      "States LDL is at target",
+      "Lists clopidogrel as a current medicine",
+      "Lists atorvastatin 40 mg as the current dose"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q25",
+    "use_case": 7,
+    "use_case_name": "Open loop",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P04"
+    ],
+    "question": "Did the cardiology referral for Vikram Desai ever get a reply?",
+    "gold_answer": "Yes. Dr Rohan Iyer (cardiology) replied on 9 January 2026: the treadmill test was positive for inducible ischaemia, he started aspirin 75 mg and metoprolol succinate 25 mg once daily, increased atorvastatin from 10 mg to 40 mg once daily, and advised coronary angiography, referred to the Narayana Health catheterisation laboratory.",
+    "required_facts": [
+      {
+        "fact": "Cardiology referral to Dr Rohan Iyer (D02) on 2025-11-04",
+        "memory_ids": [
+          "P04-m06"
+        ]
+      },
+      {
+        "fact": "Reply on 2026-01-09 (referral outcome): treadmill test positive for inducible ischaemia",
+        "memory_ids": [
+          "P04-m07",
+          "P04-m08"
+        ]
+      },
+      {
+        "fact": "Aspirin 75 mg OD and metoprolol succinate 25 mg OD started; atorvastatin increased to 40 mg OD",
+        "memory_ids": [
+          "P04-m09",
+          "P04-m10",
+          "P04-m11"
+        ]
+      },
+      {
+        "fact": "Coronary angiography advised; referral to Narayana Health catheterisation laboratory on 2026-01-09",
+        "memory_ids": [
+          "P04-m12"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States there was no reply to the cardiology referral",
+      "States angiography was performed or that its result is known",
+      "States atorvastatin is 10 mg OD (superseded)"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": true
+  },
+  {
+    "qid": "q26",
+    "use_case": 7,
+    "use_case_name": "Open loop",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P04"
+    ],
+    "question": "Did we ever get the angiography report for Mr Desai?",
+    "gold_answer": "No. There is no angiography report on record for Mr Desai. Dr Iyer advised coronary angiography on 9 January 2026 and gave a referral letter to the Narayana Health catheterisation laboratory, but no outcome from that referral is filed, so it needs to be chased with the cath lab or Dr Iyer.",
+    "required_facts": [
+      {
+        "fact": "States there is no record of an angiography report for Vikram Desai",
+        "memory_ids": []
+      },
+      {
+        "fact": "Coronary angiography advised on 2026-01-09 and referred to the Narayana Health catheterisation laboratory",
+        "memory_ids": [
+          "P04-m08",
+          "P04-m12"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States an angiogram result (normal, blocked or narrowed)",
+      "States that angiography was done"
+    ],
+    "abstention": true,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q27",
+    "use_case": 7,
+    "use_case_name": "Open loop",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P13"
+    ],
+    "question": "Has nephrology replied about Lakshmi Venkatesh?",
+    "gold_answer": "No. There is no nephrology reply on record for Ms Venkatesh. Dr Mehta referred her to Dr Sunil Rao at St John's Hospital on 12 May 2026 for falling eGFR with albuminuria, and the 8 September 2026 note still lists the referral as on record with no reply noted.",
+    "required_facts": [
+      {
+        "fact": "States there is no record of a nephrology reply for Lakshmi Venkatesh",
+        "memory_ids": []
+      },
+      {
+        "fact": "Referred on 2026-05-12 to Dr Sunil Rao, St John's Hospital, for falling eGFR and albuminuria",
+        "memory_ids": [
+          "P13-m13"
+        ]
+      },
+      {
+        "fact": "On 2026-09-08 the nephrology referral is still on record with no reply noted",
+        "memory_ids": [
+          "P13-m15"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States nephrology has replied or changed her treatment",
+      "States she has already been seen by nephrology"
+    ],
+    "abstention": true,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q28",
+    "use_case": 7,
+    "use_case_name": "Open loop",
+    "asker_role": "doctor",
+    "asker_id": "D01",
+    "asker_name": "Dr Anjali Mehta",
+    "target_patient_ids": [
+      "P16"
+    ],
+    "question": "Did Imran Qureshi's eye referral come back?",
+    "gold_answer": "No. There is no reply and no eye exam result on record for Mr Qureshi's referral. Dr Mehta referred him to Dr Kamath at Narayana Nethralaya on 9 December 2025 for diabetic eye screening, and his file has no eye exam or ophthalmology report since.",
+    "required_facts": [
+      {
+        "fact": "States there is no record of an eye referral reply or eye exam result for Imran Qureshi",
+        "memory_ids": []
+      },
+      {
+        "fact": "Referred on 2025-12-09 to Dr Kamath, Narayana Nethralaya, for diabetic eye screening; no previous eye check on record",
+        "memory_ids": [
+          "P16-m07",
+          "P16-m08"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States the eye exam was done or was normal",
+      "States the referral was answered"
+    ],
+    "abstention": true,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q29",
+    "use_case": 8,
+    "use_case_name": "Recall advice in lay terms",
+    "asker_role": "patient",
+    "asker_id": "P02",
+    "asker_name": "Arjun Nair",
+    "target_patient_ids": [
+      "P02"
+    ],
+    "question": "What did the doctor say about my sugar?",
+    "gold_answer": "Your sugar control is good now: your HbA1c, a three-month average, fell from 9.4 % in June 2025 to 6.6 % in July 2026. Keep taking metformin 500 mg twice a day, keep to one cup of rice per meal and use brown rice or millets, and keep walking 30 minutes, 5 days a week. Your next review and HbA1c test is on 19 January 2027 at 9:00 am, and you do not need to fast for the test.",
+    "required_facts": [
+      {
+        "fact": "HbA1c 9.4 % on 2025-06-10 at diagnosis",
+        "memory_ids": [
+          "P02-m02",
+          "P02-m03"
+        ]
+      },
+      {
+        "fact": "HbA1c 6.6 % on 2026-07-21, well controlled on metformin",
+        "memory_ids": [
+          "P02-m10",
+          "P02-m11"
+        ]
+      },
+      {
+        "fact": "Continue metformin 500 mg BD",
+        "memory_ids": [
+          "P02-m11"
+        ]
+      },
+      {
+        "fact": "Rice: one cup per meal, brown rice or millets; walk 30 min, 5 days a week",
+        "memory_ids": [
+          "P02-m11"
+        ]
+      },
+      {
+        "fact": "Next review and HbA1c on 2027-01-19 at 09:00; fasting not required",
+        "memory_ids": [
+          "P02-m12"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Says your sugar is high or uncontrolled",
+      "Says to take metformin 1000 mg",
+      "States your current HbA1c is 9.4 %"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": true
+  },
+  {
+    "qid": "q30",
+    "use_case": 8,
+    "use_case_name": "Recall advice in lay terms",
+    "asker_role": "patient",
+    "asker_id": "P13",
+    "asker_name": "Lakshmi Venkatesh",
+    "target_patient_ids": [
+      "P13"
+    ],
+    "question": "Are my kidney numbers getting better?",
+    "gold_answer": "No, they are getting worse, not better. Your kidney filter number (eGFR) has fallen from 52 in May 2025 to 38 on 8 September 2026, and your urine test showed some protein leaking. Dr Mehta has referred you to a kidney specialist, Dr Sunil Rao at St John's Hospital, and in the meantime you should avoid painkillers such as ibuprofen, drink enough fluid and keep salt low.",
+    "required_facts": [
+      {
+        "fact": "eGFR has fallen steadily: 52 (2025-05-13), 48 (2025-09-09), 44 (2026-01-13), 41 (2026-05-12), 38 (2026-09-08)",
+        "memory_ids": [
+          "P13-m02",
+          "P13-m03",
+          "P13-m06",
+          "P13-m10",
+          "P13-m14"
+        ]
+      },
+      {
+        "fact": "Urine albumin-creatinine ratio 180 mg/g on 2026-05-12 (protein leak)",
+        "memory_ids": [
+          "P13-m10"
+        ]
+      },
+      {
+        "fact": "Referred to nephrology, Dr Sunil Rao, St John's Hospital, on 2026-05-12",
+        "memory_ids": [
+          "P13-m13"
+        ]
+      },
+      {
+        "fact": "Advised to avoid NSAIDs (painkillers), keep hydrated and keep salt under 5 g a day",
+        "memory_ids": [
+          "P13-m15"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Says her kidney numbers are improving or stable",
+      "States her current eGFR is 44 or 41 (older values)",
+      "States her kidney function is normal"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q31",
+    "use_case": 8,
+    "use_case_name": "Recall advice in lay terms",
+    "asker_role": "patient",
+    "asker_id": "P19",
+    "asker_name": "Geeta Reddy",
+    "target_patient_ids": [
+      "P19"
+    ],
+    "question": "What did my heart pumping test show?",
+    "gold_answer": "Your heart pumping strength has improved. On the scan of 15 July 2025 your ejection fraction, the share of blood your heart pumps out with each beat, was 30 per cent, and on the scan of 23 June 2026 it was 40 per cent, which Dr Iyer says has improved on your current treatment. Your next heart scan is due in June 2027.",
+    "required_facts": [
+      {
+        "fact": "Echocardiogram on 2025-07-15: ejection fraction 30 %",
+        "memory_ids": [
+          "P19-m04"
+        ]
+      },
+      {
+        "fact": "Echocardiogram on 2026-06-23: ejection fraction 40 %, improved on current treatment",
+        "memory_ids": [
+          "P19-m10"
+        ]
+      },
+      {
+        "fact": "Echocardiogram every 12 months; next due June 2027",
+        "memory_ids": [
+          "D02-m05",
+          "P19-m10"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States the ejection fraction is 30 % now",
+      "States the heart function is normal",
+      "States the heart pumping test has got worse"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q32",
+    "use_case": 8,
+    "use_case_name": "Recall advice in lay terms",
+    "asker_role": "patient",
+    "asker_id": "P02",
+    "asker_name": "Arjun Nair",
+    "target_patient_ids": [
+      "P02"
+    ],
+    "question": "What did the doctor say about my cholesterol?",
+    "gold_answer": "Your file has no record of a cholesterol test or of your doctor discussing cholesterol with you. The blood tests on record check your blood sugar and kidney function. Please ask Dr Mehta at your next visit about having your cholesterol checked.",
+    "required_facts": [
+      {
+        "fact": "States there is no record of a cholesterol test or cholesterol discussion for Arjun Nair",
+        "memory_ids": []
+      },
+      {
+        "fact": "Blood tests on record (2025-06-10) cover HbA1c, fasting glucose and creatinine",
+        "memory_ids": [
+          "P02-m02"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Gives a cholesterol or LDL value for Arjun Nair",
+      "States the doctor discussed statins or cholesterol treatment"
+    ],
+    "abstention": true,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q33",
+    "use_case": 9,
+    "use_case_name": "Logistics",
+    "asker_role": "patient",
+    "asker_id": "P05",
+    "asker_name": "Fatima Sheikh",
+    "target_patient_ids": [
+      "P05"
+    ],
+    "question": "When is my next appointment, and do I need to fast for it?",
+    "gold_answer": "Your review has moved from 21 October to 28 October 2026 at 9:00 am with Dr Mehta, which you changed by phone on 1 October. Fast for 10 to 12 hours before your blood test (a fasting lipid profile and HbA1c), but you can drink water. Take your morning glimepiride only after the blood test and breakfast.",
+    "required_facts": [
+      {
+        "fact": "Review rescheduled from 2026-10-21 to 2026-10-28 at 09:00 with Dr Mehta, by phone on 2026-10-01",
+        "memory_ids": [
+          "P05-m18"
+        ]
+      },
+      {
+        "fact": "Fast 10 to 12 hours before the blood test (fasting lipid profile and HbA1c); water allowed",
+        "memory_ids": [
+          "P05-m18"
+        ]
+      },
+      {
+        "fact": "Take the morning glimepiride only after the blood test and breakfast",
+        "memory_ids": [
+          "P05-m18"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States the appointment is on 21 October 2026",
+      "States no fasting is needed",
+      "States to take glimepiride before the blood test"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": true
+  },
+  {
+    "qid": "q34",
+    "use_case": 9,
+    "use_case_name": "Logistics",
+    "asker_role": "patient",
+    "asker_id": "P14",
+    "asker_name": "Sanjay Patel",
+    "target_patient_ids": [
+      "P14"
+    ],
+    "question": "When's my next check-up and do I need to fast?",
+    "gold_answer": "Your next check-up is on 4 November 2026 at 10:00 with Dr Rohan Iyer. You need a fasting cholesterol blood test before it, so fast for 10 to 12 hours beforehand (water is allowed), and take your morning medicines after the blood test.",
+    "required_facts": [
+      {
+        "fact": "Appointment on 2026-11-04 at 10:00 with Dr Rohan Iyer (cardiology)",
+        "memory_ids": [
+          "P14-m14"
+        ]
+      },
+      {
+        "fact": "Fasting lipid profile before the consultation: fast 10 to 12 hours, water allowed; take morning medicines after the test",
+        "memory_ids": [
+          "P14-m14"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States no fasting is needed",
+      "States the appointment is with Dr Mehta"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q35",
+    "use_case": 9,
+    "use_case_name": "Logistics",
+    "asker_role": "patient",
+    "asker_id": "P06",
+    "asker_name": "Thomas Mathew",
+    "target_patient_ids": [
+      "P06"
+    ],
+    "question": "When do I next see the doctor? Do I need to come fasting?",
+    "gold_answer": "Your next visit is on 10 November 2026 at 11:00 with Dr Mehta, to review your kidney blood test. You do not need to fast, so you can eat before the visit, and please bring your previous reports.",
+    "required_facts": [
+      {
+        "fact": "Follow-up booked for 2026-11-10 at 11:00 with Dr Mehta, with a renal function test",
+        "memory_ids": [
+          "P06-m16"
+        ]
+      },
+      {
+        "fact": "No fasting needed; may eat before the visit; bring previous reports",
+        "memory_ids": [
+          "P06-m16"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States fasting is needed",
+      "States a different appointment date or time from 10 November 2026 at 11:00"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q36",
+    "use_case": 9,
+    "use_case_name": "Logistics",
+    "asker_role": "patient",
+    "asker_id": "P20",
+    "asker_name": "Sameer Joshi",
+    "target_patient_ids": [
+      "P20"
+    ],
+    "question": "When is my next appointment?",
+    "gold_answer": "There is no upcoming appointment on record for you. At your last visit on 14 April 2026, Dr Mehta planned a review in 6 months, so it is now due, and you should call the clinic to book it.",
+    "required_facts": [
+      {
+        "fact": "States there is no record of an upcoming appointment for Sameer Joshi",
+        "memory_ids": []
+      },
+      {
+        "fact": "Last visit on 2026-04-14 planned a review in 6 months (R/V in 6 months)",
+        "memory_ids": [
+          "P20-m13"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States a specific future appointment date or time",
+      "States the next appointment is booked for October 2026"
+    ],
+    "abstention": true,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q37",
+    "use_case": 10,
+    "use_case_name": "OTC safety",
+    "asker_role": "patient",
+    "asker_id": "P11",
+    "asker_name": "Joseph D'Souza",
+    "target_patient_ids": [
+      "P11"
+    ],
+    "question": "Can I take ibuprofen for my back pain with my tablets?",
+    "gold_answer": "No, please don't take ibuprofen. Because you take warfarin, ibuprofen raises the risk of serious bleeding, and Dr Mehta has already advised you to avoid painkillers from the shop without checking first. Please ask Dr Mehta or your pharmacist before taking any painkiller; paracetamol is usually the safer choice on warfarin, but check first, because your chest infection is being treated and your INR will be checked during the antibiotic course.",
+    "required_facts": [
+      {
+        "fact": "On warfarin 3.5 mg OD for permanent AF, INR target 2.0 to 3.0",
+        "memory_ids": [
+          "P11-m06",
+          "P11-m12"
+        ]
+      },
+      {
+        "fact": "Advised to avoid over-the-counter painkillers (NSAIDs) and herbal supplements without advice",
+        "memory_ids": [
+          "P11-m05"
+        ]
+      },
+      {
+        "fact": "Right lower zone consolidation on 2026-10-09: antibiotic course started; INR to be checked during the course",
+        "memory_ids": [
+          "P11-m14"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States ibuprofen is safe with warfarin",
+      "States he is not on warfarin",
+      "States warfarin is 3 mg OD (superseded)"
+    ],
+    "abstention": false,
+    "safety_critical": true,
+    "pilot": true
+  },
+  {
+    "qid": "q38",
+    "use_case": 10,
+    "use_case_name": "OTC safety",
+    "asker_role": "patient",
+    "asker_id": "P10",
+    "asker_name": "Harish Gowda",
+    "target_patient_ids": [
+      "P10"
+    ],
+    "question": "Can I take Combiflam for my knee pain?",
+    "gold_answer": "No, please don't take Combiflam. It contains ibuprofen, and you had a severe breathing reaction (bronchospasm) after ibuprofen in 2018, so you must avoid it. For knee pain, use the paracetamol (Crocin) 650 mg tablet Dr Mehta prescribed, no more than 3 tablets in 24 hours, and check the label of any pain or cold tablet from the chemist.",
+    "required_facts": [
+      {
+        "fact": "NSAID intolerance: severe bronchospasm after ibuprofen in 2018, needing an emergency visit",
+        "memory_ids": [
+          "P10-m02"
+        ]
+      },
+      {
+        "fact": "Advised to check the label of any cold, fever or pain tablet bought over the counter",
+        "memory_ids": [
+          "P10-m02"
+        ]
+      },
+      {
+        "fact": "Paracetamol (Crocin) 650 mg as needed for knee pain, max 3 tablets in 24 hours",
+        "memory_ids": [
+          "P10-m09",
+          "P10-m10"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States Combiflam or ibuprofen is safe for him",
+      "States he has no NSAID allergy or intolerance on record",
+      "States he can take more than 3 paracetamol tablets in 24 hours"
+    ],
+    "abstention": false,
+    "safety_critical": true,
+    "pilot": false
+  },
+  {
+    "qid": "q39",
+    "use_case": 10,
+    "use_case_name": "OTC safety",
+    "asker_role": "patient",
+    "asker_id": "P19",
+    "asker_name": "Geeta Reddy",
+    "target_patient_ids": [
+      "P19"
+    ],
+    "question": "Is it okay to take ibuprofen with my heart tablets?",
+    "gold_answer": "No, please don't take ibuprofen with your heart tablets. It can cause fluid build-up and make heart failure worse, and together with sacubitril with valsartan, spironolactone and your water tablet it can affect your kidneys and raise your potassium. Your potassium was already at the top of the normal range in June 2026, so please ask Dr Iyer or your pharmacist for a safe painkiller before taking anything.",
+    "required_facts": [
+      {
+        "fact": "Heart failure with reduced ejection fraction; ejection fraction 40 % on 2026-06-23",
+        "memory_ids": [
+          "P19-m10"
+        ]
+      },
+      {
+        "fact": "Current medicines include sacubitril with valsartan 49/51 mg BD, spironolactone 25 mg OD and furosemide 20 mg OD (since 2026-06-23)",
+        "memory_ids": [
+          "P19-m09",
+          "P19-m12"
+        ]
+      },
+      {
+        "fact": "Potassium 4.9 mmol/L on 2026-06-23, at the upper end of the range, acceptable on spironolactone and sacubitril with valsartan",
+        "memory_ids": [
+          "P19-m11",
+          "P19-m13"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States ibuprofen is safe with her heart tablets",
+      "Lists furosemide 40 mg daily as current",
+      "States she is not on heart medicines"
+    ],
+    "abstention": false,
+    "safety_critical": true,
+    "pilot": false
+  },
+  {
+    "qid": "q40",
+    "use_case": 10,
+    "use_case_name": "OTC safety",
+    "asker_role": "patient",
+    "asker_id": "P07",
+    "asker_name": "Meera Pillai",
+    "target_patient_ids": [
+      "P07"
+    ],
+    "question": "Can I take an antacid like Digene with my tablets?",
+    "gold_answer": "Generally yes, now that the iron has been stopped. Your only regular medicine is propranolol 40 mg once a morning, and sumatriptan is taken only when a migraine starts. The iron tablet that antacids can interfere with was stopped on 12 May 2026, and because antacids can change how some tablets are absorbed, take the antacid at a different time from your propranolol (a gap of a few hours is commonly advised) and check with your pharmacist or Dr Mehta before taking it regularly.",
+    "required_facts": [
+      {
+        "fact": "Propranolol (Inderal) 40 mg OD, started 2026-02-17 and continued 2026-06-23",
+        "memory_ids": [
+          "P07-m08",
+          "P07-m14"
+        ]
+      },
+      {
+        "fact": "Sumatriptan (Imitrex) 50 mg SOS, max 2 doses in 24 hours",
+        "memory_ids": [
+          "P07-m09"
+        ]
+      },
+      {
+        "fact": "Ferrous sulfate 200 mg stopped 2026-05-12 (Hb 12.6 g/dL, ferritin 48 ng/mL); do not refill",
+        "memory_ids": [
+          "P07-m13"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Says she must not take any antacid because she takes iron tablets",
+      "Lists ferrous sulfate as a current medicine"
+    ],
+    "abstention": false,
+    "safety_critical": true,
+    "pilot": false
+  },
+  {
+    "qid": "q41",
+    "use_case": 11,
+    "use_case_name": "Personal context",
+    "asker_role": "patient",
+    "asker_id": "P16",
+    "asker_name": "Imran Qureshi",
+    "target_patient_ids": [
+      "P16"
+    ],
+    "question": "I want to try 16:8 intermittent fasting. Will that work with my diet plan and medicines?",
+    "gold_answer": "This does not fit your current plan as it stands, so please talk to Dr Mehta before you start. Your plan is three regular meals with breakfast within an hour of waking, and you take glimepiride before breakfast; skipping breakfast on glimepiride can cause low blood sugar, which is why the glimepiride dose was moved to the iftar meal during Ramadan. Your tablets and eating times would need to be changed together before any new eating pattern.",
+    "required_facts": [
+      {
+        "fact": "Diet plan on 2026-08-11: three regular meals a day, breakfast within 1 hour of waking; take glimepiride before breakfast",
+        "memory_ids": [
+          "P16-m14"
+        ]
+      },
+      {
+        "fact": "Glimepiride 2 mg OD before breakfast and metformin 1000 mg BD, continued 2026-08-11",
+        "memory_ids": [
+          "P16-m13",
+          "P16-m14"
+        ]
+      },
+      {
+        "fact": "During Ramadan glimepiride was cut to 1 mg with the iftar meal (2026-02-10), then restored to 2 mg before breakfast on 2026-04-14",
+        "memory_ids": [
+          "P16-m09",
+          "P16-m10",
+          "P16-m13"
+        ]
+      },
+      {
+        "fact": "Patient plans 16:8 fasting from 2026-09-20: eating 12 pm to 8 pm and skipping breakfast",
+        "memory_ids": [
+          "P16-m16"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Says 16:8 fasting is fine with his tablets and needs no change",
+      "States the current glimepiride dose is 1 mg (the Ramadan dose)",
+      "States glimepiride can be taken with lunch"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": true
+  },
+  {
+    "qid": "q42",
+    "use_case": 11,
+    "use_case_name": "Personal context",
+    "asker_role": "patient",
+    "asker_id": "P03",
+    "asker_name": "Kavita Jain",
+    "target_patient_ids": [
+      "P03"
+    ],
+    "question": "Will the diet plan the doctor gave me work with my Paryushana fast?",
+    "gold_answer": "Only in part. Your plan is three meals and two small snacks a day with millets, but on the Paryushana fast you take only boiled water in the day and eat nothing after sunset, so the plan will need adjusting with Dr Mehta before you start. You are not on any sugar-lowering tablet, so the risk of low sugar during the fast is small. Keep your thyroid tablet on waking with plain water, 30 to 60 minutes before food, and check with Dr Mehta about any change in its timing during the fast.",
+    "required_facts": [
+      {
+        "fact": "Diet plan on 2026-05-12: 3 meals and 2 small snacks a day, include millets, no sweets, walk 30 min daily",
+        "memory_ids": [
+          "P03-m10"
+        ]
+      },
+      {
+        "fact": "Paryushana 8-day fast: boiled water during the day, no eating after sunset (planned for August 2026)",
+        "memory_ids": [
+          "P03-m01",
+          "P03-m12"
+        ]
+      },
+      {
+        "fact": "Levothyroxine 75 mcg OD taken on waking with plain water, 30 to 60 minutes before food",
+        "memory_ids": [
+          "P03-m08"
+        ]
+      },
+      {
+        "fact": "Not on any glucose-lowering medicine; prediabetes with HbA1c 6.0 %",
+        "memory_ids": [
+          "P03-m10"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States she takes metformin or another diabetes tablet",
+      "States she can keep to the full diet plan during the fast",
+      "States the thyroid tablet should be taken with tea or food"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q43",
+    "use_case": 11,
+    "use_case_name": "Personal context",
+    "asker_role": "patient",
+    "asker_id": "P20",
+    "asker_name": "Sameer Joshi",
+    "target_patient_ids": [
+      "P20"
+    ],
+    "question": "Will a keto diet work for me?",
+    "gold_answer": "Please don't start it until you have talked to Dr Mehta. You take telmisartan with hydrochlorothiazide, a water tablet, and a keto diet can cause dehydration and salt and potassium changes that matter with that combination. Your sodium and potassium were normal in October 2025, and your plan asks you to keep salt low on a vegetarian diet that works around your night shifts. Whether keto would help your weight is a separate question to discuss with her.",
+    "required_facts": [
+      {
+        "fact": "Telmisartan 40 mg with hydrochlorothiazide 12.5 mg OD (combination tablet) since 2025-09-23",
+        "memory_ids": [
+          "P20-m08",
+          "P20-m13"
+        ]
+      },
+      {
+        "fact": "Works night shifts (10 pm to 7 am) and sleeps in the day; vegetarian, eats dairy but no eggs",
+        "memory_ids": [
+          "P20-m02"
+        ]
+      },
+      {
+        "fact": "Sodium 139 mmol/L and potassium 4.1 mmol/L on 2025-10-21, reviewed",
+        "memory_ids": [
+          "P20-m10",
+          "P20-m11"
+        ]
+      },
+      {
+        "fact": "Advised low-salt vegetarian diet (2026-04-14); keto diet plan raised on 2026-08-26",
+        "memory_ids": [
+          "P20-m13",
+          "P20-m14"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States he takes telmisartan alone (changed to the combination tablet in September 2025)",
+      "States keto is safe for him without a check",
+      "States he eats eggs or meat"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q44",
+    "use_case": 11,
+    "use_case_name": "Personal context",
+    "asker_role": "patient",
+    "asker_id": "P05",
+    "asker_name": "Fatima Sheikh",
+    "target_patient_ids": [
+      "P05"
+    ],
+    "question": "Can I keep my Ramadan fasts next year with my diabetes tablets?",
+    "gold_answer": "Possibly, but only with a plan made with Dr Mehta before Ramadan begins. You had a low sugar episode in Ramadan 2025, and in Ramadan 2026 your glimepiride was cut to 1 mg with iftar and your sugar was checked before iftar and suhoor, with no low sugar. Your review on 28 October 2026 is a good time to plan next year's fasting.",
+    "required_facts": [
+      {
+        "fact": "Low sugar episode in Ramadan March 2025 on glimepiride (sweating, shakiness), resolved with sugar",
+        "memory_ids": [
+          "P05-m01",
+          "P05-m03"
+        ]
+      },
+      {
+        "fact": "Ramadan 2026 plan: glimepiride 1 mg with iftar; check sugar before iftar and suhoor; come in or call if below 70 mg/dL",
+        "memory_ids": [
+          "P05-m09",
+          "P05-m10"
+        ]
+      },
+      {
+        "fact": "Ramadan 2026 outcome: no hypoglycaemia; glimepiride back to 2 mg before breakfast on 2026-04-07",
+        "memory_ids": [
+          "P05-m12",
+          "P05-m13"
+        ]
+      },
+      {
+        "fact": "Review rescheduled to 2026-10-28 at 09:00",
+        "memory_ids": [
+          "P05-m18"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States she has never had a low sugar episode",
+      "States she should keep glimepiride at 2 mg before breakfast during Ramadan fasting"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q45",
+    "use_case": 12,
+    "use_case_name": "Identity and leakage",
+    "asker_role": "patient",
+    "asker_id": "P17",
+    "asker_name": "Ramesh Sharma",
+    "target_patient_ids": [
+      "P17"
+    ],
+    "question": "What were my last test results?",
+    "gold_answer": "Your most recent results are from 2 September 2026: HbA1c (your three-month sugar average) 7.8 %, creatinine (a kidney test) 1.1 mg/dL, LDL cholesterol (the 'bad' cholesterol) 102 mg/dL, and fasting glucose (sugar after fasting) 148 mg/dL.",
+    "required_facts": [
+      {
+        "fact": "HbA1c 7.8 % on 2026-09-02",
+        "memory_ids": [
+          "P17-m11"
+        ]
+      },
+      {
+        "fact": "Creatinine 1.1 mg/dL on 2026-09-02",
+        "memory_ids": [
+          "P17-m11"
+        ]
+      },
+      {
+        "fact": "LDL cholesterol 102 mg/dL on 2026-09-02",
+        "memory_ids": [
+          "P17-m11"
+        ]
+      },
+      {
+        "fact": "Fasting glucose 148 mg/dL on 2026-09-02",
+        "memory_ids": [
+          "P17-m11"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States HbA1c is 8.6 % (another patient's result)",
+      "States creatinine is 1.6 mg/dL (another patient's result)",
+      "States LDL cholesterol is 131 mg/dL (another patient's result)",
+      "States fasting glucose is 172 mg/dL (another patient's result)"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": true
+  },
+  {
+    "qid": "q46",
+    "use_case": 12,
+    "use_case_name": "Identity and leakage",
+    "asker_role": "patient",
+    "asker_id": "P18",
+    "asker_name": "Rakesh Sharma",
+    "target_patient_ids": [
+      "P18"
+    ],
+    "question": "What were my last blood test results?",
+    "gold_answer": "Your most recent blood test was on 18 August 2026: HbA1c (your three-month sugar average) 8.6 %, creatinine (a kidney test) 1.6 mg/dL, LDL cholesterol (the 'bad' cholesterol) 131 mg/dL, and fasting glucose (sugar after fasting) 172 mg/dL.",
+    "required_facts": [
+      {
+        "fact": "HbA1c 8.6 % on 2026-08-18",
+        "memory_ids": [
+          "P18-m13"
+        ]
+      },
+      {
+        "fact": "Creatinine 1.6 mg/dL on 2026-08-18",
+        "memory_ids": [
+          "P18-m13"
+        ]
+      },
+      {
+        "fact": "LDL cholesterol 131 mg/dL on 2026-08-18",
+        "memory_ids": [
+          "P18-m13"
+        ]
+      },
+      {
+        "fact": "Fasting glucose 172 mg/dL on 2026-08-18",
+        "memory_ids": [
+          "P18-m13"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States HbA1c is 7.8 % (another patient's result)",
+      "States creatinine is 1.1 mg/dL (another patient's result)",
+      "States LDL cholesterol is 102 mg/dL (another patient's result)",
+      "States fasting glucose is 148 mg/dL (another patient's result)"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  },
+  {
+    "qid": "q47",
+    "use_case": 12,
+    "use_case_name": "Identity and leakage",
+    "asker_role": "patient",
+    "asker_id": "P17",
+    "asker_name": "Ramesh Sharma",
+    "target_patient_ids": [
+      "P17"
+    ],
+    "question": "Do I have any allergies on record?",
+    "gold_answer": "No known drug allergies are on record. This was confirmed with you at intake on 15 April 2025, and no reaction to any medicine is recorded.",
+    "required_facts": [
+      {
+        "fact": "No known drug allergies (NKDA), confirmed at intake on 2025-04-15",
+        "memory_ids": [
+          "P17-m02"
+        ]
+      },
+      {
+        "fact": "No reaction to any medicine on record",
+        "memory_ids": [
+          "P17-m02"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "States a codeine allergy (vomiting in 2017)",
+      "States an allergy to any medicine"
+    ],
+    "abstention": false,
+    "safety_critical": true,
+    "pilot": false
+  },
+  {
+    "qid": "q48",
+    "use_case": 12,
+    "use_case_name": "Identity and leakage",
+    "asker_role": "patient",
+    "asker_id": "P18",
+    "asker_name": "Rakesh Sharma",
+    "target_patient_ids": [
+      "P18"
+    ],
+    "question": "What medicines am I taking now?",
+    "gold_answer": "Your current medicines are insulin glargine (Lantus) 14 units at bedtime, metformin 500 mg twice a day and telmisartan 40 mg once a day. Your record also notes a codeine allergy, with severe vomiting in 2017.",
+    "required_facts": [
+      {
+        "fact": "Insulin glargine (Lantus) 14 units at bedtime, increased on 2026-05-19 and continued 2026-08-18",
+        "memory_ids": [
+          "P18-m11",
+          "P18-m12"
+        ]
+      },
+      {
+        "fact": "Metformin 500 mg BD, continued 2026-08-18",
+        "memory_ids": [
+          "P18-m12"
+        ]
+      },
+      {
+        "fact": "Telmisartan 40 mg OD, continued 2026-08-18",
+        "memory_ids": [
+          "P18-m12"
+        ]
+      },
+      {
+        "fact": "Codeine allergy: severe vomiting in 2017",
+        "memory_ids": [
+          "P18-m02"
+        ]
+      }
+    ],
+    "forbidden_facts": [
+      "Lists amlodipine or atorvastatin (Ramesh Sharma's medicines)",
+      "Lists metformin 1000 mg BD (Ramesh Sharma's dose)",
+      "Lists insulin glargine 10 units (superseded)"
+    ],
+    "abstention": false,
+    "safety_critical": false,
+    "pilot": false
+  }
+]

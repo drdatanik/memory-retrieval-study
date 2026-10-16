@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0497",
+  "name": "Hitesh Parikh",
+  "age": 70,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0497-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "70-year-old man presents with fatigue and tingling in feet.\nPRESENTING COMPLAINT: He reports progressive tiredness over 2 months and numbness in both feet.\nEXAMINATION: BP 138/84 mmHg, weight 70 kg, height 1.68 m, BMI 24.8 (overweight). Cardiovascular and respiratory exams normal; sensation decreased to light touch over distal toes.\nIMPRESSION: Clinical picture suggestive of vitamin B12 deficiency. Order serum B12, MCV and haemoglobin.\nARRANGEMENTS: Start methylcobalamin 1500 mcg OD. Advise balanced diet rich in animal proteins and daily walk. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0497-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methylcobalamin 1500 mcg OD for 3 months."
+    },
+    {
+      "memory_id": "X0497-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 150 pg/mL (ref 200-900). MCV: 105 fL (ref 80-100). Haemoglobin: 11.2 g/dL (ref 13-17)."
+    },
+    {
+      "memory_id": "X0497-m04",
+      "date": "2025-07-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Since starting the B12 tablets my energy is better, but I still feel a slight tingling in my toes at night."
+    },
+    {
+      "memory_id": "X0497-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "70-year-old man returns for follow-up of vitamin B12 deficiency.\nPRESENTING COMPLAINT: Reports improved fatigue, persistent mild toe tingling.\nEXAMINATION: BP 136/82 mmHg, weight 70 kg, BMI 24.8 (overweight). Neurological exam shows mild distal proprioceptive loss.\nIMPRESSION: Partial response to B12 replacement; continue current dose.\nARRANGEMENTS: Continue methylcobalamin 1500 mcg OD. Advise maintain weight, regular exercise. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0497-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 340 pg/mL (ref 200-900). MCV: 98 fL (ref 80-100). Haemoglobin: 12.8 g/dL (ref 13-17)."
+    },
+    {
+      "memory_id": "X0497-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "70-year-old man for routine review; autumn influenza vaccine due.\nPRESENTING COMPLAINT: Feels well, no new symptoms.\nEXAMINATION: BP 134/80 mmHg, weight 70 kg, BMI 24.8 (overweight). Lungs clear, heart regular.\nIMPRESSION: Vitamin B12 deficiency stable on treatment. Annual fasting lipids and glucose ordered.\nARRANGEMENTS: Continue methylcobalamin 1500 mcg OD. Give inactivated influenza vaccine today (02-Oct-2025). Advise diet low in saturated fats, walk 30 mins daily. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0497-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methylcobalamin 1500 mcg OD continue."
+    },
+    {
+      "memory_id": "X0497-m09",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar: 92 mg/dL (ref 70-100). Lipid profile: Total cholesterol 185 mg/dL (<200), HDL 48 mg/dL (>40), LDL 102 mg/dL (<130), Triglycerides 138 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0497-m10",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past week I’ve noticed numbness spreading to the soles of my feet and occasional mild imbalance when walking."
+    },
+    {
+      "memory_id": "X0497-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "70-year-old man reports worsening foot numbness and mild imbalance.\nPRESENTING COMPLAINT: Progressive numbness soles, slight unsteadiness.\nEXAMINATION: BP 138/86 mmHg, weight 71 kg, BMI 25.2 (obese). Sensation reduced to vibration over ankles.\nIMPRESSION: Possible B12 insufficiency despite therapy; consider dose increase.\nARRANGEMENTS: Increase methylcobalamin to 2000 mcg OD. Reinforce diet, weight control. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0497-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Methylcobalamin 2000 mcg OD for 2 months, then reassess."
+    },
+    {
+      "memory_id": "X0497-m13",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 22-Apr-2026 at 10:30 AM with Dr Priya Natarajan (D03) for follow‑up of vitamin B12 deficiency."
+    },
+    {
+      "memory_id": "X0497-m14",
+      "date": "2026-04-22",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "70-year-old man returns for scheduled follow‑up.\nPRESENTING COMPLAINT: Reports numbness improved, no imbalance.\nEXAMINATION: BP 135/82 mmHg, weight 70 kg, BMI 24.8 (overweight). Foot sensation normal to monofilament.\nIMPRESSION: Good response to increased B12 dose; plan to taper to maintenance.\nARRANGEMENTS: Reduce methylcobalamin to 1500 mcg OD. Continue lifestyle advice. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0497-m15",
+      "date": "2026-04-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 420 pg/mL (ref 200-900). MCV: 92 fL (ref 80-100). Haemoglobin: 13.5 g/dL (ref 13-17)."
+    }
+  ]
+}

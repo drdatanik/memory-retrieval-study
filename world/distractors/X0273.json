@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0273",
+  "name": "Farooq Ahmed",
+  "age": 37,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0273-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 37‑year‑old male reports recurrent throbbing headaches, unilateral, lasting 4‑6 hours, associated with nausea and photophobia, occurring 2‑3 times per week.\nEXAMINATION: Blood pressure 122/78 mmHg, weight 68 kg, BMI 22.4 (normal). Neurological examination normal, no focal deficits.\nIMPRESSION: Episodic migraine without aura. No contraindications to beta‑blocker.\nARRANGEMENTS: Start propranolol 40 mg OD for prevention, sumatriptan 50 mg SOS for acute attacks, naproxen 500 mg SOS as needed. Advise regular sleep, hydration, limit caffeine. Return if headaches become daily, worsen, visual disturbances, or vomiting persists."
+    },
+    {
+      "memory_id": "X0273-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 40 mg tablets – take one tablet daily.\nSumatriptan 50 mg tablets – take one tablet at onset of headache, max 2 doses per 24h.\nNaproxen 500 mg tablets – take one tablet after food SOS, max 3 doses per day."
+    },
+    {
+      "memory_id": "X0273-m03",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports headache frequency reduced to ~1‑2 per week, intensity mild‑moderate, still needing sumatriptan.\nEXAMINATION: BP 120/80, weight 67.5 kg, BMI 22.3 (normal). No new neurological signs.\nIMPRESSION: Partial response to propranolol; consider adding topiramate for further prophylaxis.\nARRANGEMENTS: Continue propranolol 40 mg OD. Add topiramate 25 mg HS, titrate to 50 mg HS after 2 weeks if tolerated. Continue sumatriptan and naproxen SOS. Counsel on migraine trigger diary. Return if tingling, mood change, or weight loss >2 kg."
+    },
+    {
+      "memory_id": "X0273-m04",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 40 mg tablets – one tablet daily.\nTopiramate 25 mg tablets – take one tablet at bedtime.\nSumatriptan 50 mg tablets – SOS for acute headache.\nNaproxen 500 mg tablets – SOS after food."
+    },
+    {
+      "memory_id": "X0273-m05",
+      "date": "2025-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 180 mg/dL (desirable <200), HDL 48 mg/dL (>40 good), LDL 102 mg/dL (<130 optimal), Triglycerides 110 mg/dL (<150 normal).\nFasting blood sugar: 92 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0273-m06",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports stable migraine frequency ~1 per week, mild, using sumatriptan ≤2 times/month.\nEXAMINATION: BP 118/78, weight 67 kg, BMI 22.1 (normal).\nIMPRESSION: Migraine well controlled on current prophylaxis. Labs show normal lipids and glucose.\nARRANGEMENTS: Continue current meds. Lifestyle reinforcement. Return if headaches increase >3/week, new neurological symptoms, or medication side effects."
+    },
+    {
+      "memory_id": "X0273-m07",
+      "date": "2026-01-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Neurological examination: No focal deficits, normal cranial nerves, gait steady.\nCT head (non‑contrast): No acute hemorrhage, infarct, or mass lesion; ventricles normal size; reported as normal."
+    },
+    {
+      "memory_id": "X0273-m08",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient requests reassurance after normal neuro exam and CT.\nEXAMINATION: BP 122/80, weight 66.8 kg, BMI 22.0 (normal).\nIMPRESSION: Migraine, investigation normal, reinforces diagnosis.\nARRANGEMENTS: Continue prophylaxis. Educate on red‑flag symptoms. Return if headache changes pattern, seizures, confusion, or fever >39°C."
+    },
+    {
+      "memory_id": "X0273-m09",
+      "date": "2026-04-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past month I’ve had headaches 4‑5 days a week, lasting longer, sometimes with aura‑like visual flashes. Sumatriptan helps but I need it almost daily. Worried about medication overuse."
+    },
+    {
+      "memory_id": "X0273-m10",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports increased headache frequency 4‑5 days/week, longer duration, occasional visual aura, sumatriptan use rising.\nEXAMINATION: BP 124/82, weight 66.5 kg, BMI 22.0 (normal). No neck tenderness, neurological exam normal.\nIMPRESSION: Possible medication‑overuse headache superimposed on migraine. Need to taper acute meds and optimize prophylaxis.\nARRANGEMENTS: Stop sumatriptan and naproxen for now; start a short course of ibuprofen 400 mg SOS limited to 2 days/week if needed. Increase propranolol to 60 mg OD. Continue topiramate 50 mg HS (already titrated). Start amitriptyline 10 mg HS for sleep and migraine prophylaxis. Counsel on limiting acute analgesics to <10 days/month. Return if worsening, severe vomiting, or new neurological signs."
+    },
+    {
+      "memory_id": "X0273-m11",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 60 mg tablets – one tablet daily.\nTopiramate 50 mg tablets – one tablet at bedtime.\nAmitriptyline 10 mg tablets – one tablet at bedtime.\nIbuprofen 400 mg tablets – SOS, max 2 days per week, after food."
+    },
+    {
+      "memory_id": "X0273-m12",
+      "date": "2026-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for neurology consultation on 2026-09-15 at 10:00 am. Reason: refractory migraine with possible medication overuse, need specialist input."
+    },
+    {
+      "memory_id": "X0273-m13",
+      "date": "2026-07-10",
+      "type": "referral",
+      "author": "D03",
+      "text": "REFERRAL TO: Neurology Department, Vikram Hospital, Bengaluru.\nREASON: 37‑year‑old male with chronic migraine progressing to medication‑overuse headache despite prophylaxis (propranolol, topiramate, amitriptyline). Request evaluation for possible neurostimulation or alternative preventive therapies, and guidance on detoxification from overused acute meds.\nCLINICAL DETAILS: Headaches 4‑5 days/week, responsive to sumatriptan but using >10 days/month, normal neuro exam and CT head.\nPlease advise and see patient at earliest convenience."
+    },
+    {
+      "memory_id": "X0273-m14",
+      "date": "2026-09-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient returns after neurology visit (see referral outcome).\nEXAMINATION: BP 121/79, weight 66.2 kg, BMI 22.0 (normal).\nIMPRESSION: Neurology confirmed medication‑overuse headache, advised taper of ibuprofen, continue propranolol and topiramate, consider CGRP monoclonal antibody if refractory.\nARRANGEMENTS: Stop ibuprofen immediately. Continue propranolol 60 mg OD, topiramate 50 mg HS, amitriptyline 10 mg HS. Provide migraine diary and education on limiting acute meds to <8 days/month. Arrange follow‑up in 8 weeks. Return if headaches worsen, develop severe vomiting, visual loss, or fever >39°C."
+    },
+    {
+      "memory_id": "X0273-m15",
+      "date": "2026-10-05",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "OUTCOME OF NEUROLOGY REFERRAL (Vikram Hospital, 2026-09-15):\nAssessment: Chronic migraine with medication‑overuse headache secondary to frequent ibuprofen and prior sumatriptan use.\nRecommendations: 1) Abrupt cessation of ibuprofen; use bridging NSAID naproxen limited to 2 days/week if needed. 2) Optimize oral prophylaxis – continue propranolol 60 mg OD, topiramate 50 mg HS, consider adding amitriptyline up to 25 mg HS if tolerated. 3) If no improvement in 8‑12 weeks, discuss CGRP‑targeted monoclonal antibody (e.g., erenumab 70 mg monthly). 4) Provide headache diary and behavioural sleep hygiene advice.\nPlan: Follow‑up neurology in 3 months; keep primary care updated."
+    }
+  ]
+}

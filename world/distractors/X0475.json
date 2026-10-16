@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0475",
+  "name": "Manjeet Gill",
+  "age": 26,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Polycystic ovary syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0475-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Polycystic ovary syndrome. The patient presents with irregular menstrual cycles, mild hirsutism, and weight gain over the past year. She reports no dyspnea or wheeze; respiratory examination is clear. Smoking status: never. Spirometry not indicated for pulmonary disease; FEV1, FVC, and ratio are within normal limits (not recorded). She is not using inhalers; technique assessment not applicable. Plan: start metformin 500 mg twice daily and combined oral contraceptive pill daily; lifestyle modification advised."
+    },
+    {
+      "memory_id": "X0475-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg tablets, take one tablet twice daily with meals. Combined oral contraceptive pill (ethinylestradiol 30 mcg/levonorgestrel 150 mcg), take one tablet daily at same time each day. Continue for 3 months, then review."
+    },
+    {
+      "memory_id": "X0475-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum testosterone 68 ng/dL (reference 15-70). LH 8 IU/L (reference 2-12). FSH 6 IU/L (reference 2-12). LH:FSH ratio 1.33. HbA1c 5.6% (reference 4-5.6)."
+    },
+    {
+      "memory_id": "X0475-m04",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have noticed my periods are still irregular and I have gained about 3 kg since the last visit. My facial acne has worsened a little. I am taking the metformin and pill as prescribed."
+    },
+    {
+      "memory_id": "X0475-m05",
+      "date": "2025-04-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-07-10 at 10:00 AM with Dr Suresh Menon (D05). Please arrive 10 minutes early."
+    },
+    {
+      "memory_id": "X0475-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Polycystic ovary syndrome, stable. Menstrual cycles have become more regular (approx every 35 days). Mild hirsutism unchanged, weight stable. No respiratory complaints; exam clear. Smoking status: never. Spirometry within normal limits (FEV1 2.9 L, 92% predicted; FVC 3.2 L, 95%; FEV1/FVC 0.91). Not using inhalers; technique not applicable. Plan: continue current metformin and COCP; reinforce diet and exercise."
+    },
+    {
+      "memory_id": "X0475-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 500 mg tablets, take one tablet twice daily with meals. Combined oral contraceptive pill (ethinylestradiol 30 mcg/levonorgestrel 150 mcg), take one tablet daily at same time each day. Continue for 3 months, then review."
+    },
+    {
+      "memory_id": "X0475-m08",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.5% (reference 4-5.6). Serum testosterone 62 ng/dL (reference 15-70). LH 7.5 IU/L (reference 2-12). FSH 5.8 IU/L (reference 2-12). LH:FSH ratio 1.29."
+    },
+    {
+      "memory_id": "X0475-m09",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Pelvic ultrasound: Bilateral ovaries show multiple small follicles (>=10 per ovary) with increased stromal echogenicity; uterine lining normal thickness. No dominant cyst seen. Findings consistent with polycystic ovarian morphology."
+    },
+    {
+      "memory_id": "X0475-m10",
+      "date": "2025-08-01",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Dr Priya Nair, Gynecology, for further management of PCOS and assessment of fertility concerns. Please evaluate menstrual regulation and discuss ovulation induction options."
+    },
+    {
+      "memory_id": "X0475-m11",
+      "date": "2025-09-15",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Gynecology review: Patient advised to continue metformin and COCP. No immediate fertility treatment required. Lifestyle reinforcement advised. Follow-up in 6 months or sooner if symptoms change."
+    },
+    {
+      "memory_id": "X0475-m12",
+      "date": "2025-10-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "My periods are now coming every 28-30 days and I have less acne. I feel more energetic. I have been walking 30 minutes daily and have lost about 1.5 kg."
+    },
+    {
+      "memory_id": "X0475-m13",
+      "date": "2026-01-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Polycystic ovary syndrome, well-controlled. Menstrual cycles regular (28-30 days). Mild hirsutism stable, weight down 2 kg from baseline. No respiratory symptoms; exam clear. Smoking status: never. Spirometry: FEV1 3.0 L (95% predicted), FVC 3.3 L (98%), FEV1/FVC 0.91 (change +0.1 L since last). Not using inhalers; technique not applicable. Plan: increase metformin to 850 mg twice daily to further improve insulin sensitivity; continue COCP."
+    },
+    {
+      "memory_id": "X0475-m14",
+      "date": "2026-01-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Metformin 850 mg tablets, take one tablet twice daily with meals. Combined oral contraceptive pill (ethinylestradiol 30 mcg/levonorgestrel 150 mcg), take one tablet daily at same time each day. Continue for 3 months, then review."
+    },
+    {
+      "memory_id": "X0475-m15",
+      "date": "2026-01-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c 5.4% (reference 4-5.6). Serum testosterone 58 ng/dL (reference 15-70). LH 7.0 IU/L (reference 2-12). FSH 5.5 IU/L (reference 2-12). LH:FSH ratio 1.27."
+    },
+    {
+      "memory_id": "X0475-m16",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: moved from 2026-07-10 to 2026-06-15 at 09:30 AM with Dr Suresh Menon (D05). Please confirm attendance."
+    },
+    {
+      "memory_id": "X0475-m17",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Polycystic ovary syndrome, controlled. Menstrual cycles regular (28-32 days). Mild hirsutism unchanged, weight stable after initial loss. No respiratory complaints; exam clear. Smoking status: never. Spirometry: FEV1 3.0 L (95% predicted), FVC 3.3 L (98%), FEV1/FVC 0.91 (no significant change). Not using inhalers; technique not applicable. Plan: maintain metformin 850 mg BD and COCP OD; annual review advised."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0127",
+  "name": "Usha Kapoor",
+  "age": 23,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0127-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria.\nPatient reports daily wheals and itching for 8 months, worse in evenings, mild facial swelling. Examination shows scattered erythematous wheals on trunk and limbs, no angioedema. Vital signs normal. No smoking history. CBC and thyroid function tests ordered."
+    },
+    {
+      "memory_id": "X0127-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levocetirizine 5 mg tablet, take orally once daily in the morning. Continue for 3 months, review."
+    },
+    {
+      "memory_id": "X0127-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.2 x10^9/L, neutrophils 4.1, lymphocytes 1.8, eosinophils 0.3 x10^9/L (reference 0.0-0.5). Hemoglobin 12.8 g/dL, platelets 240 x10^9/L.\nThyroid function: TSH 2.1 mIU/L (0.4-4.0), free T4 13.2 pmol/L (10-22)."
+    },
+    {
+      "memory_id": "X0127-m04",
+      "date": "2025-04-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking the levocetirizine each morning. The hives are less intense now, only a few spots appear after long drives. Itching at night has decreased but I still wake up scratching occasionally."
+    },
+    {
+      "memory_id": "X0127-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria, partially controlled.\nPatient notes improvement in daytime wheals but reports nocturnal itching and occasional breakthrough wheals after stress. Examination: faint scattered wheals on arms, no dermal thickening. No smoking. Continue antihistamine, add nighttime cetirizine."
+    },
+    {
+      "memory_id": "X0127-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levocetirizine 5 mg tablet, take orally once daily in the morning.\nCetirizine 10 mg tablet, take orally at bedtime. Review in 8 weeks."
+    },
+    {
+      "memory_id": "X0127-m07",
+      "date": "2025-07-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 5.9 x10^9/L, neutrophils 3.9, lymphocytes 1.7, eosinophils 0.2 x10^9/L (ref 0.0-0.5). Hemoglobin 13.0 g/dL, platelets 235 x10^9/L.\nThyroid function: TSH 1.9 mIU/L (0.4-4.0), free T4 13.5 pmol/L (10-22)."
+    },
+    {
+      "memory_id": "X0127-m08",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-09-05 at 10:30 AM with Dr Suresh Menon (D05) in Pulmonology clinic. Please arrive 10 minutes early."
+    },
+    {
+      "memory_id": "X0127-m09",
+      "date": "2025-09-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria, well controlled.\nPatient reports only occasional mild wheals after heavy exertion, no nocturnal itching. Examination: skin clear, no wheals. No smoking. Continue current regimen, consider tapering cetirizine if symptom‑free for another month."
+    },
+    {
+      "memory_id": "X0127-m10",
+      "date": "2025-09-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levocetirizine 5 mg tablet, take orally once daily in the morning.\nCetirizine 10 mg tablet, take orally at bedtime – to be stopped if symptom‑free for 4 weeks."
+    },
+    {
+      "memory_id": "X0127-m11",
+      "date": "2025-09-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.0 x10^9/L, neutrophils 4.0, lymphocytes 1.8, eosinophils 0.2 x10^9/L (ref 0.0-0.5). Hemoglobin 12.9 g/dL, platelets 238 x10^9/L.\nThyroid function: TSH 2.0 mIU/L (0.4-4.0), free T4 13.3 pmol/L (10-22)."
+    },
+    {
+      "memory_id": "X0127-m12",
+      "date": "2025-11-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Over the past two weeks the hives have returned, especially after early morning shifts. I get itchy patches on my neck and forearms that last a few hours. I stopped the cetirizine a month ago as advised, but levocetirizine alone does not seem enough now."
+    },
+    {
+      "memory_id": "X0127-m13",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria, flare.\nPatient describes recurrent wheals on neck and forearms linked to early‑morning work, mild nocturnal itching. Examination: scattered erythematous wheals on upper trunk and arms, no angioedema. No smoking. Restart nighttime cetirizine and review levocetirizine dose."
+    },
+    {
+      "memory_id": "X0127-m14",
+      "date": "2026-02-01",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Levocetirizine 5 mg tablet, take orally once daily in the morning.\nCetirizine 10 mg tablet, take orally at bedtime. Continue for 6 weeks, then reassess."
+    },
+    {
+      "memory_id": "X0127-m15",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.3 x10^9/L, neutrophils 4.2, lymphocytes 1.9, eosinophils 0.3 x10^9/L (ref 0.0-0.5). Hemoglobin 13.1 g/dL, platelets 242 x10^9/L.\nThyroid function: TSH 2.2 mIU/L (0.4-4.0), free T4 13.0 pmol/L (10-22)."
+    },
+    {
+      "memory_id": "X0127-m16",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic urticaria, controlled.\nPatient reports only occasional mild wheals after intense physical activity, no nocturnal symptoms. Examination: skin clear, no wheals. No smoking, pack‑years 0. Advise to maintain levocetirizine OD and keep cetirizine PRN for breakthrough symptoms."
+    }
+  ]
+}

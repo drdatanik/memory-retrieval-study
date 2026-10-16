@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0402",
+  "name": "Gurdeep Ahluwalia",
+  "age": 88,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0402-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 150/90 mmHg, weight 58 kg, waist 88 cm (>80 cm cut‑off). Status: uncontrolled. Plan: continue current antihypertensives, check labs, HbA1c, ECG, lifestyle advice (low‑salt diet, walk 30 min daily). Due: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0402-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg OD after breakfast\\ntelmisartan 40 mg OD after breakfast\\nlosartan 50 mg OD after dinner\\nhydrochlorothiazide 12.5 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0402-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.2 mg/dL (eGFR 48 mL/min/1.73m2)\\nSerum potassium 4.2 mmol/L (3.5‑5.0)\\nHbA1c 6.0% (4.0‑5.6)\\nLipids: cholesterol 180 mg/dL, HDL 48, LDL 102, TG 130"
+    },
+    {
+      "memory_id": "X0402-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG: sinus rhythm 78 bpm, no ST‑T changes, no Q waves. Normal voltage."
+    },
+    {
+      "memory_id": "X0402-m05",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Penicillin: rash and pruritus within 30 min of oral dose. Avoid beta‑lactams."
+    },
+    {
+      "memory_id": "X0402-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 138/84 mmHg, weight 58 kg, waist 86 cm. Status: improved but still above target. Plan: maintain current regimen, monitor renal function, encourage reduced salt intake, daily walking. Due: HbA1c 2025-10-10."
+    },
+    {
+      "memory_id": "X0402-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg OD after breakfast\\ntelmisartan 40 mg OD after breakfast\\nlosartan 50 mg OD after dinner\\nhydrochlorothiazide 12.5 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0402-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.18 mg/dL (eGFR 50)\\nSerum potassium 4.3 mmol/L\\nHbA1c 5.9%\\nLipids unchanged."
+    },
+    {
+      "memory_id": "X0402-m09",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking: follow‑up visit with Dr Karthik Hegde on 2025-10-03 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0402-m10",
+      "date": "2025-10-03",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 132/80 mmHg, weight 57 kg, waist 84 cm. Status: approaching target. Plan: increase telmisartan to 80 mg OD for better control, keep other meds, advise continued low‑salt diet. Due: HbA1c 2026-01-03."
+    },
+    {
+      "memory_id": "X0402-m11",
+      "date": "2025-10-03",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg OD after breakfast\\ntelmisartan 80 mg OD after breakfast\\nlosartan 50 mg OD after dinner\\nhydrochlorothiazide 12.5 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0402-m12",
+      "date": "2025-10-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.15 mg/dL (eGFR 52)\\nSerum potassium 4.4 mmol/L\\nHbA1c 5.8%"
+    },
+    {
+      "memory_id": "X0402-m13",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 128/78 mmHg, weight 56 kg, waist 82 cm (still slightly >80). Status: well controlled. Plan: maintain telmisartan 80 mg, consider amlodipine reduction if edema develops, continue lifestyle. Due: HbA1c 2026-04-15."
+    },
+    {
+      "memory_id": "X0402-m14",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 2.5 mg OD after breakfast\\ntelmisartan 80 mg OD after breakfast\\nlosartan 50 mg OD after dinner\\nhydrochlorothiazide 12.5 mg OD after breakfast"
+    },
+    {
+      "memory_id": "X0402-m15",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 130/82 mmHg, weight 55 kg, waist 80 cm (at cut‑off). Status: controlled. Plan: keep current regimen, repeat labs, lipid profile annually (next due 2027). Due: HbA1c 2026-07-15."
+    }
+  ]
+}

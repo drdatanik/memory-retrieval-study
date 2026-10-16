@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0365",
+  "name": "Sudha Pulipati",
+  "age": 78,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Irritable bowel syndrome",
+    "Polycystic ovary syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0365-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 78‑year‑old woman reports intermittent abdominal bloating, occasional diarrhoea and concerns about irregular menstrual‑type spotting despite menopause. EXAMINATION: BP 138/84 mmHg, weight 62 kg, BMI 22.9 (normal). Abdomen soft, mild tenderness in left lower quadrant, no masses. IMPRESSION: Irritable bowel syndrome, likely constipation‑predominant; post‑menopausal spotting warrants evaluation for atrophic endometrium but PCOS labs ordered. ARRANGEMENTS: Start mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS; metformin 500 mg BD for insulin resistance; combined oral contraceptive pill OD for menstrual regulation. Order CBC, stool routine, tTG‑IgA; serum testosterone, LH:FSH ratio, HbA1c; pelvic ultrasound. Return if: worsening pain, vomiting, fever >38.5°C, rectal bleeding, or new pelvic pain."
+    },
+    {
+      "memory_id": "X0365-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg tablet – take one tablet twice daily\nispaghula husk 5 g powder – take one sachet once daily in water\nloperamide 2 mg capsule – take up to two capsules after loose stools as needed\nmetformin 500 mg tablet – take one tablet twice daily\ncombined oral contraceptive pill (ethinylestradiol 0.03 mg + levonorgestrel 0.15 mg) – take one tablet daily"
+    },
+    {
+      "memory_id": "X0365-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 12.8 g/L (12‑16), WBC 6.2×10⁹/L (4‑10), Plt 210×10⁹/L (150‑400). Stool routine: no ova, cysts or pus cells; negative for occult blood. tTG‑IgA: 4 U/mL (<7 negative)."
+    },
+    {
+      "memory_id": "X0365-m04",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum testosterone: 28 ng/dL (15‑70). LH:FSH ratio: 1.2 (LH 5.8 mIU/mL, FSH 4.8 mIU/mL). HbA1c: 6.0% (4.0‑5.6)."
+    },
+    {
+      "memory_id": "X0365-m05",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Pelvic ultrasound: Uterus normal size, endometrial thickness 4 mm (atrophic). Bilateral ovaries show multiple small follicles (6‑9 mm) with increased stromal echogenicity, suggestive of polycystic ovarian morphology. No adnexal mass."
+    },
+    {
+      "memory_id": "X0365-m06",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D03",
+      "text": "Penicillin – rash and pruritus within 30 minutes of oral amoxicillin in childhood. Avoid all beta‑lactam antibiotics."
+    },
+    {
+      "memory_id": "X0365-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports improved bowel regularity with less bloating; occasional mild diarrhoea after spicy food. No vaginal spotting noted. EXAMINATION: BP 136/82 mmHg, weight 61.5 kg, BMI 22.7 (normal). Abdomen benign. IMPRESSION: IBS stable on current regimen; metformin tolerated; continue OC pill for now. ARRANGEMENTS: Continue mebeverine, ispaghula, loperamide PRN; metformin 500 mg BD unchanged. Order fasting lipid profile and fasting glucose as annual screen. Return if: severe abdominal pain, vomiting, fever >38.5°C, rectal bleeding, or new pelvic symptoms."
+    },
+    {
+      "memory_id": "X0365-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg tablet – BD\nispaghula husk 5 g sachet – OD\nloperamide 2 mg capsule – SOS\nmetformin 500 mg tablet – BD\ncombined oral contraceptive pill – OD"
+    },
+    {
+      "memory_id": "X0365-m09",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 5.2 mmol/L (<5.2 borderline), LDL 3.1 mmol/L (<2.6 high), HDL 1.2 mmol/L (>1.0 OK), Triglycerides 1.8 mmol/L (<1.7 borderline). Fasting glucose: 6.8 mmol/L (3.9‑5.5 prediabetic)."
+    },
+    {
+      "memory_id": "X0365-m10",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient comes for autumn review; reports occasional constipation, no diarrhoea. Denies vaginal bleeding. EXAMINATION: BP 140/86 mmHg, weight 61 kg, BMI 22.5 (normal). Abdomen soft. IMPRESSION: IBS mild; lipid panel shows borderline hypercholesterolemia; fasting glucose prediabetic. PCOS labs show persistent mild hyperandrogenemia and elevated HbA1c. ARRANGEMENTS: Advise low‑saturated fat diet, increase soluble fibre; consider statin if LDL >3.0 after repeat. Continue mebeverine, ispaghula, loperamide PRN. Metformin 500 mg BD for glycaemic control. Influenza vaccine offered and given today (02‑Oct‑2025). Return if: chest pain, breathlessness, fever >39°C, rectal bleeding, or new pelvic pain."
+    },
+    {
+      "memory_id": "X0365-m11",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking: Influenza vaccination appointment for 15‑Oct‑2025 at 10:00 AM with practice nurse. Patient confirmed."
+    },
+    {
+      "memory_id": "X0365-m12",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient notes increased abdominal discomfort after meals, occasional urgency. No vaginal spotting. EXAMINATION: BP 138/84 mmHg, weight 60.8 kg, BMI 22.3 (normal). Abdomen mildly tender in suprapubic area. IMPRESSION: IBS flare‑likely related to dietary indiscretion; metformin well tolerated; decision to stop combined oral contraceptive pill given age and limited benefit. ARRANGEMENTS: Discontinue OC pill immediately. Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Metformin 500 mg BD. Order repeat HbA1c and testosterone to assess metabolic impact. Return if: worsening pain, vomiting, fever >38.5°C, rectal bleeding."
+    },
+    {
+      "memory_id": "X0365-m13",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg tablet – BD\nispaghula husk 5 g sachet – OD\nloperamide 2 mg capsule – SOS\nmetformin 500 mg tablet – BD"
+    },
+    {
+      "memory_id": "X0365-m14",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 5.8% (4.0‑5.6) – improved from 6.0%. Serum testosterone: 26 ng/dL (15‑70) – unchanged."
+    },
+    {
+      "memory_id": "X0365-m15",
+      "date": "2026-04-20",
+      "type": "referral",
+      "author": "D03",
+      "text": "Refer to Dr S. Rao, Gastroenterology, for evaluation of refractory IBS symptoms despite first‑line therapy. Include recent symptom diary, medication list, and prior investigations."
+    },
+    {
+      "memory_id": "X0365-m16",
+      "date": "2026-04-20",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Gastroenterology review: Symptoms consistent with IBS‑D. Recommend low‑FODMAP diet trial for 6 weeks, consider rifaximin 550 mg TDS for 14 days if diarrhoea predominant. Continue current symptomatic agents. Return to primary care for ongoing management."
+    },
+    {
+      "memory_id": "X0365-m17",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Patient reports increased loose stools (3‑4 per day) after meals, urgency, mild abdominal cramping. No vomiting or fever. EXAMINATION: BP 136/80 mmHg, weight 60.5 kg, BMI 22.0 (normal). Abdomen mildly tender, no masses. IMPRESSION: IBS‑D flare per gastroenterology advice; metabolic parameters stable. ARRANGEMENTS: Start low‑FODMAP diet education; prescribe rifaximin 550 mg TDS for 14 days. Continue mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS PRN. Metformin 500 mg BD. Return if: fever >38.5°C, bloody stools, severe abdominal pain, or dehydration."
+    },
+    {
+      "memory_id": "X0365-m18",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "mebeverine 135 mg tablet – BD\nispaghula husk 5 g sachet – OD\nloperamide 2 mg capsule – SOS\nmetformin 500 mg tablet – BD\nrifaximin 550 mg tablet – TDS for 14 days"
+    }
+  ]
+}

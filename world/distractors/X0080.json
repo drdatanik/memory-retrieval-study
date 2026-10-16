@@ -1,0 +1,96 @@
+{
+  "patient_id": "X0080",
+  "name": "Kamala Kannan",
+  "age": 23,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0080-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: She reports being able to manage her flower shop independently, stands for 6-8 hours daily, no difficulty with ADLs.\ncognition: Mini-Cog score 4/5 (normal), recall of three words intact, clock drawing normal.\nfalls: No falls in the past 12 months; gait steady; timed up-and-go 8 seconds (normal).\nmedicines: 1 regular (sertraline 50 mg OD started today).\nmood: PHQ-9 score 14 (moderate depression); reports low mood, anhedonia, but denies suicidal ideation.\ncarers: Mother, Mrs. Lakshmi, lives with her.\ngoals: \"I want to feel happier and have more energy for my work.\""
+    },
+    {
+      "memory_id": "X0080-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline 50 mg OD"
+    },
+    {
+      "memory_id": "X0080-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 14; TSH 2.1 µIU/mL (0.4-4.0); Vitamin B12 320 pg/mL (200-900)"
+    },
+    {
+      "memory_id": "X0080-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Continues to run flower shop, notes occasional fatigue after long stands.\ncognition: Mini-Cog not repeated (annual due Apr 2026).\nfalls: No new falls; gait unchanged; timed up-and-go 9 seconds.\nmedicines: 2 regular (sertraline 50 mg OD, escitalopram 10 mg OD started today).\nmood: PHQ-9 improved to 10 (mild depression); reports better sleep, still some low mood.\ncarers: Mother, Mrs. Lakshmi, lives with her.\ngoals: \"I want to keep improving my mood and reduce fatigue.\""
+    },
+    {
+      "memory_id": "X0080-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "escitalopram 10 mg OD"
+    },
+    {
+      "memory_id": "X0080-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 10; TSH 2.0 µIU/mL (0.4-4.0); Vitamin B12 315 pg/mL (200-900)"
+    },
+    {
+      "memory_id": "X0080-m07",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages shop well, reports occasional dizziness when rising quickly.\ncognition: Mini-Cog not due yet.\nfalls: No falls in past year; gait steady; timed up-and-go 9 seconds (normal).\nmedicines: 3 regular (sertraline 50 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS started today).\nmood: PHQ-9 8 (mild); notes improved appetite, still occasional low mood.\ncarers: Mother, Mrs. Lakshmi, lives with her.\ngoals: \"I want to feel steady and enjoy my work without dizziness.\""
+    },
+    {
+      "memory_id": "X0080-m08",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "mirtazapine 15 mg HS"
+    },
+    {
+      "memory_id": "X0080-m09",
+      "date": "2026-01-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling better overall, but sometimes I get light‑headed when I stand up fast, especially after mornings at the shop."
+    },
+    {
+      "memory_id": "X0080-m10",
+      "date": "2026-01-16",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-04-05 at 10:00 AM with Dr Kulkarni."
+    },
+    {
+      "memory_id": "X0080-m11",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports steady energy, no dizziness on standing; continues florist work full‑time.\ncognition: Mini-Cog score 4/5 (normal) – annual screen completed.\nfalls: No falls in past 12 months; gait normal; timed up-and-go 8 seconds.\nmedicines: 3 regular (sertraline 50 mg OD, escitalopram 10 mg OD, mirtazapine 15 mg HS).\nmood: PHQ-9 6 (mild); reports good mood, occasional anxious moments.\ncarers: Mother, Mrs. Lakshmi, lives with her.\ngoals: \"I want to stay well and keep my shop thriving.\""
+    },
+    {
+      "memory_id": "X0080-m12",
+      "date": "2026-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 6; TSH 1.9 µIU/mL (0.4-4.0); Vitamin B12 310 pg/mL (200-900)"
+    }
+  ]
+}

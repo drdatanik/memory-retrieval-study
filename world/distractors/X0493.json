@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0493",
+  "name": "Parminder Brar",
+  "age": 79,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Hypothyroidism",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0493-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: follow‑up of hypothyroidism and vitamin D deficiency.\nPRESENTING COMPLAINT: She reports feeling fatigued, mild weight gain, no palpitations or heat intolerance.\nEXAMINATION: BP 138/84 mmHg, weight 62 kg, height 1.55 m giving BMI 25.8 (obese). Advised on reduced calorie intake and daily walking.\nIMPRESSION: Ongoing levothyroxine 50 mcg OD; TSH and free T4 pending. Vitamin D deficiency confirmed, replacement started.\nARRANGEMENTS: Order fasting TSH, free T4, serum 25‑OH vitamin D, calcium, phosphate. Continue levothyroxine 50 mcg OD, start cholecalciferol 60000 IU once weekly for 8 weeks then 1000 IU OD. Return if new palpitations, heat intolerance, excessive thirst, or fever >39°C. Influenza vaccine offered; patient declined today."
+    },
+    {
+      "memory_id": "X0493-m02",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 6.8 mIU/L (ref 0.4‑4.5). Free T4 11.2 pmol/L (ref 9.0‑19.0). Serum 25‑OH vitamin D 14 ng/mL (ref 30‑100). Serum calcium 9.1 mg/dL (ref 8.5‑10.5). Serum phosphate 3.4 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0493-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "levothyroxine 50 mcg OD\ncholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD"
+    },
+    {
+      "memory_id": "X0493-m04",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: review after labs, persistent fatigue.\nPRESENTING COMPLAINT: Fatigue unchanged, no weight change, denies palpitations.\nEXAMINATION: BP 140/86 mmHg, weight 62.5 kg, BMI 26.0 (obese). Advised on diet and activity.\nIMPRESSION: Hypothyroidism with TSH still above target; need dose increase. Vitamin D remains low.\nARRANGEMENTS: Repeat TSH and free T4 in 6 weeks. Increase levothyroxine to 75 mcg OD. Continue vitamin D regimen. Return if palpitations, tremor, weight loss, or fever >39°C. Influenza vaccine not due."
+    },
+    {
+      "memory_id": "X0493-m05",
+      "date": "2025-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 5.2 mIU/L (ref 0.4‑4.5). Free T4 12.5 pmol/L (ref 9.0‑19.0)."
+    },
+    {
+      "memory_id": "X0493-m06",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "levothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0493-m07",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: low vitamin D level, review of thyroid.\nPRESENTING COMPLAINT: She feels better, less fatigue, no new symptoms.\nEXAMINATION: BP 136/82 mmHg, weight 62 kg, BMI 25.8 (obese). Advised on diet and activity.\nIMPRESSION: Hypothyroidism stable on levothyroxine 75 mcg OD. Vitamin D deficiency persists.\nARRANGEMENTS: Repeat serum 25‑OH vitamin D, calcium, phosphate in 3 months. Restart cholecalciferol 60000 IU once weekly for 8 weeks then 1000 IU OD. Return if nausea, vomiting, polyuria, or fever >39°C. Influenza vaccine offered; patient accepted and vaccine given today (15‑Sep‑2025)."
+    },
+    {
+      "memory_id": "X0493-m08",
+      "date": "2025-09-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH vitamin D 18 ng/mL (ref 30‑100). Serum calcium 9.2 mg/dL (ref 8.5‑10.5). Serum phosphate 3.5 mg/dL (ref 2.5‑4.5)."
+    },
+    {
+      "memory_id": "X0493-m09",
+      "date": "2025-09-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD"
+    },
+    {
+      "memory_id": "X0493-m10",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: annual metabolic review.\nPRESENTING COMPLAINT: She feels well, no thyroid symptoms, denies bone pain.\nEXAMINATION: BP 138/84 mmHg, weight 61.8 kg, BMI 25.6 (obese). Advised on diet and activity.\nIMPRESSION: Euthyroid on levothyroxine 75 mcg OD. Vitamin D now sufficient after replacement. Lipid profile and fasting glucose ordered as annual screen.\nARRANGEMENTS: Order fasting lipid profile and fasting blood sugar. Continue current meds. Return if chest pain, dyspnea, unexplained weight loss, or fever >39°C. Influenza vaccine not due (given Sep 2025)."
+    },
+    {
+      "memory_id": "X0493-m11",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting total cholesterol 210 mg/dL (ref <200). LDL 130 mg/dL (ref <100). HDL 48 mg/dL (ref >40). Triglycerides 160 mg/dL (ref <150). Fasting blood sugar 98 mg/dL (ref 70‑100)."
+    },
+    {
+      "memory_id": "X0493-m12",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "atorvastatin 10 mg OD\nlevothyroxine 75 mcg OD\ncholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0493-m13",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: routine follow‑up.\nPRESENTING COMPLAINT: She reports good energy, no adverse symptoms.\nEXAMINATION: BP 136/82 mmHg, weight 61.5 kg, BMI 25.4 (obese). Advised on diet and activity.\nIMPRESSION: Stable euthyroid on levothyroxine 75 mcg OD. Vitamin D adequate. Atorvastatin tolerated.\nARRANGEMENTS: Repeat TSH and free T4 in 6 months; lipid panel in 1 year. Continue meds. Return if palpitations, muscle pain, dark urine, or fever >39°C. Influenza vaccine not due."
+    },
+    {
+      "memory_id": "X0493-m14",
+      "date": "2026-07-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-07-15 10:00 to 2026-07-01 14:00 per patient request."
+    },
+    {
+      "memory_id": "X0493-m15",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: final review before year end.\nPRESENTING COMPLAINT: She feels well, no new complaints.\nEXAMINATION: BP 138/84 mmHg, weight 61.2 kg, BMI 25.4 (obese). Advised on diet and activity.\nIMPRESSION: Euthyroid on levothyroxine 75 mcg OD. Vitamin D sufficient. Atorvastatin ongoing.\nARRANGEMENTS: No labs due today. Influenza vaccine offered and given today (05‑Oct‑2026). Return if chest pain, breathlessness, fever >39°C, or bleeding."
+    }
+  ]
+}

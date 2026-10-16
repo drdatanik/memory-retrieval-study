@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0173",
+  "name": "Parminder Sidhu",
+  "age": 41,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Hypertension",
+    "Asthma",
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0173-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Routine follow‑up of hypertension, asthma and insomnia.\nPRESENTING COMPLAINT: Patient reports good control of blood pressure, occasional wheeze after exertion, and difficulty falling asleep most nights.\nEXAMINATION: BP 128/82 mmHg, weight 68 kg, height 1.62 m, BMI 25.9 (obese). Respiratory exam clear, no wheeze. No pedal edema.\nIMPRESSION: Hypertension controlled on current regimen. Asthma mild intermittent, symptoms exacerbated by exertion. Insomnia persistent, likely stress‑related. Lipid profile and fasting glucose pending.\nARRANGEMENTS: Continue amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD. Salbutamol MDI SOS, budesonide‑formoterol 200/6 inhaler BD, montelukast 10 mg HS. Melatonin 3 mg HS, trazodone 50 mg HS. Advise weight reduction, low‑salt diet, regular aerobic activity. Return if chest pain, breathlessness >20 min, fever >39°C, or blood in stools. Influenza vaccine not due (outside autumn)."
+    },
+    {
+      "memory_id": "X0173-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 5 mg OD\nTelmisartan 40 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD\nSalbutamol metered-dose inhaler SOS\nBudesonide-formoterol 200/6 inhaler BD\nMontelukast 10 mg HS\nMelatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0173-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar 92 mg/dL (70‑99).\nLipid profile: Total cholesterol 185 mg/dL (<200), LDL 110 mg/dL (<130), HDL 48 mg/dL (>40), triglycerides 138 mg/dL (<150).\nSerum creatinine 0.9 mg/dL (0.6‑1.1), eGFR 78 mL/min/1.73m2 (>60).\nSerum potassium 4.3 mmol/L (3.5‑5.0)."
+    },
+    {
+      "memory_id": "X0173-m04",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Resting 12‑lead ECG: sinus rhythm 78 bpm, no ST‑T changes, left ventricular voltage within normal limits. No evidence of ischemia or hypertrophy."
+    },
+    {
+      "memory_id": "X0173-m05",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Review of hypertension control and asthma symptoms.\nPRESENTING COMPLAINT: Patient notes occasional ankle swelling and increased nighttime wheeze over past month.\nEXAMINATION: BP 138/86 mmHg, weight 69 kg, BMI 26.3 (obese). Mild pitting edema ankles bilaterally. Lung exam: faint expiratory wheeze bilaterally.\nIMPRESSION: Hypertension inadequately controlled, possible fluid retention. Asthma worsening, likely needing controller adjustment. Lipids and glucose within target.\nARRANGEMENTS: Increase telmisartan to 80 mg OD, keep amlodipine 5 mg OD, losartan 50 mg OD, hold hydrochlorothiazide 12.5 mg OD pending K. Continue salbutamol SOS, increase budesonide‑formoterol to 400/12 inhaler BD, montelukast 10 mg HS. Melatonin 3 mg HS, trazodone 50 mg HS. Advise low‑salt diet, leg elevation, daily walking. Return if worsening edema, dyspnea at rest, chest pain, fever >39°C, or bloody stools. Influenza vaccine not due."
+    },
+    {
+      "memory_id": "X0173-m06",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 5 mg OD\nTelmisartan 80 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD (hold)\nSalbutamol metered-dose inhaler SOS\nBudesonide-formoterol 400/12 inhaler BD\nMontelukast 10 mg HS\nMelatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0173-m07",
+      "date": "2025-07-25",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.9 mg/dL, eGFR 76 mL/min/1.73m2.\nSerum potassium 4.0 mmol/L.\nFasting blood sugar 95 mg/dL.\nLipids: Total cholesterol 180, LDL 108, HDL 50, triglycerides 140."
+    },
+    {
+      "memory_id": "X0173-m08",
+      "date": "2025-07-30",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been waking up 2‑3 times at night feeling short of breath and using my salbutamol inhaler. It’s making me tired during my night shifts."
+    },
+    {
+      "memory_id": "X0173-m09",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Follow‑up after medication tweak and insomnia review.\nPRESENTING COMPLAINT: Patient reports reduced ankle swelling, nighttime wheeze improved, but difficulty falling asleep persists.\nEXAMINATION: BP 130/80 mmHg, weight 68.5 kg, BMI 26.1 (obese). No edema. Lung exam clear.\nIMPRESSION: Hypertension responding to higher telmisartan. Asthma better controlled. Insomnia ongoing; consider sleep hygiene. Annual lipid and glucose checked.\nARRANGEMENTS: Continue amlodipine 5 mg OD, telmisartan 80 mg OD, losartan 50 mg OD, restart hydrochlorothiazide 12.5 mg OD. Salbutamol SOS, budesonide‑formoterol 200/6 inhaler BD, montelukast 10 mg HS. Melatonin 3 mg HS, trazodone 50 mg HS. Advise diet, activity, sleep hygiene. Return if chest pain, breathlessness >20 min, fever >39°C, or blood in stools. Influenza vaccine given today 10‑Oct‑2025."
+    },
+    {
+      "memory_id": "X0173-m10",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 5 mg OD\nTelmisartan 80 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD\nSalbutamol metered-dose inhaler SOS\nBudesonide-formoterol 200/6 inhaler BD\nMontelukast 10 mg HS\nMelatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0173-m11",
+      "date": "2025-10-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar 94 mg/dL.\nLipid profile: Total cholesterol 178 mg/dL, LDL 106 mg/dL, HDL 52 mg/dL, triglycerides 135 mg/dL.\nSerum creatinine 0.88 mg/dL, eGFR 80 mL/min/1.73m2.\nSerum potassium 4.2 mmol/L."
+    },
+    {
+      "memory_id": "X0173-m12",
+      "date": "2025-10-20",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Spirometry with reversibility: FEV1 2.85 L (88% predicted), FVC 3.60 L (92% predicted), FEV1/FVC 79%. Post‑bronchodilator FEV1 3.00 L (93% predicted), increase 12% and 0.15 L – significant reversibility, consistent with asthma."
+    },
+    {
+      "memory_id": "X0173-m13",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Routine review after winter.\nPRESENTING COMPLAINT: Patient notes occasional morning nasal congestion, no wheeze, reports improved sleep on melatonin/trazodone.\nEXAMINATION: BP 124/78 mmHg, weight 67.8 kg, BMI 25.8 (obese). No edema. Lung clear.\nIMPRESSION: Hypertension well‑controlled. Asthma controlled. Insomnia improved. Labs stable.\nARRANGEMENTS: Continue current meds. Advise maintain weight, activity. Return if chest pain, breathlessness, fever >39°C, or blood in stools. Influenza vaccine not due (outside autumn)."
+    },
+    {
+      "memory_id": "X0173-m14",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 5 mg OD\nTelmisartan 80 mg OD\nLosartan 50 mg OD\nHydrochlorothiazide 12.5 mg OD\nSalbutamol metered-dose inhaler SOS\nBudesonide-formoterol 200/6 inhaler BD\nMontelukast 10 mg HS\nMelatonin 3 mg HS\nTrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0173-m15",
+      "date": "2026-01-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.9 mg/dL, eGFR 78 mL/min/1.73m2.\nSerum potassium 4.1 mmol/L.\nFasting blood sugar 93 mg/dL.\nLipids: Total cholesterol 182, LDL 110, HDL 49, triglycerides 138."
+    },
+    {
+      "memory_id": "X0173-m16",
+      "date": "2026-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been sleeping through most nights now, only waking once to use the bathroom. My energy at work feels better."
+    },
+    {
+      "memory_id": "X0173-m17",
+      "date": "2026-04-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 12‑Nov‑2026 at 10:30 AM with Dr Priya Natarajan for routine follow‑up. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0173-m18",
+      "date": "2026-08-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason: Pre‑autumn review.\nPRESENTING COMPLAINT: Patient reports stable blood pressure, no wheeze, occasional difficulty initiating sleep but overall satisfied.\nEXAMINATION: BP 126/80 mmHg, weight 67.5 kg, BMI 25.7 (obese). No edema. Lung clear.\nIMPRESSION: Hypertension, asthma and insomnia all stable. Annual lipid and glucose due next month.\nARRANGEMENTS: Continue current regimen. Encourage continued weight management. Return if chest pain, breathlessness >20 min, fever >39°C, or blood in stools. Influenza vaccine will be offered at autumn visit."
+    }
+  ]
+}

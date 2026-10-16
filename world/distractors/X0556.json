@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0556",
+  "name": "Pushpa Kamath",
+  "age": 73,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Gastro-oesophageal reflux",
+    "Epilepsy",
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0556-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks 30 min daily, manages household chores.\ncognition: Mini‑Cog score 4/5 (recall 2 items, clock drawing normal).\nfalls: No falls in past 12 months. Gait steady, no sway. Timed up‑and‑go 10 seconds.\nmedicines: 6 regular. Polypharmacy – request review against Beers criteria.\nmood: Reports occasional low mood, denies hopelessness or anhedonia.\ncarers: Daughter Priya, primary caregiver.\ngoals: \"I want to stay active and keep my independence for as long as possible.\""
+    },
+    {
+      "memory_id": "X0556-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.4 mg/dL (0.6‑1.2). eGFR 48 mL/min/1.73m² (>60 normal). Urine albumin‑creatinine ratio 85 mg/g (<30 normal). Haemoglobin 12.4 g/dL (12‑16). Serum sodium 138 mmol/L (135‑145). H. pylori stool antigen negative."
+    },
+    {
+      "memory_id": "X0556-m03",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pantoprazole 40 mg OD before breakfast\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD\ntelmisartan 40 mg OD\ndapagliflozin 10 mg OD\nfurosemide 20 mg OD\nsodium bicarbonate 500 mg BD\nantacid gel SOS\ndomperidone 10 mg BD before meals"
+    },
+    {
+      "memory_id": "X0556-m04",
+      "date": "2025-07-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent, reports mild knee discomfort after prolonged standing.\ncognition: Mini‑Cog not repeated (annual due).\nfalls: No falls in past year. Gait antalgic left knee, mild limp. Timed up‑and‑go 11 seconds.\nmedicines: 7 regular (added ibuprofen PRN for knee). Polypharmacy – review Beers.\nmood: Mood stable, denies depression.\ncarers: Daughter Priya, primary caregiver.\ngoals: \"I wish to keep walking without pain and avoid hospital visits.\""
+    },
+    {
+      "memory_id": "X0556-m05",
+      "date": "2025-07-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.5 mg/dL (0.6‑1.2). eGFR 44 mL/min/1.73m². Urine albumin‑creatinine ratio 92 mg/g. Haemoglobin 12.1 g/dL. Serum sodium 136 mmol/L."
+    },
+    {
+      "memory_id": "X0556-m06",
+      "date": "2025-07-25",
+      "type": "prescription",
+      "author": "D06",
+      "text": "pantoprazole 40 mg OD\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD\ntelmisartan 40 mg OD\ndapagliflozin 10 mg OD\nfurosemide 20 mg OD\nsodium bicarbonate 500 mg BD\nantacid gel SOS\n# ibuprofen stopped due to CKD risk"
+    },
+    {
+      "memory_id": "X0556-m07",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports occasional heartburn after spicy meals, otherwise ADLs intact.\ncognition: Mini‑Cog score 3/5 (recall 1, clock draw mild abnormality) – positive screen.\nfalls: No falls past year. Gait normal. Timed up‑and‑go 10 seconds.\nmedicines: 6 regular. Polypharmacy – request Beers review.\nmood: Mentions feeling ‘frustrated’ with reflux, denies depression.\ncarers: Daughter Priya, primary caregiver.\ngoals: \"I want to enjoy my meals without burning and stay out of the clinic.\""
+    },
+    {
+      "memory_id": "X0556-m08",
+      "date": "2025-10-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.6 mg/dL (0.6‑1.2). eGFR 40 mL/min/1.73m². Urine albumin‑creatinine ratio 110 mg/g. Haemoglobin 11.8 g/dL. Serum sodium 137 mmol/L."
+    },
+    {
+      "memory_id": "X0556-m09",
+      "date": "2025-10-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Resting ECG: Normal sinus rhythm, rate 78 bpm. No ST‑T changes. No evidence of ischemia or arrhythmia."
+    },
+    {
+      "memory_id": "X0556-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports increased fatigue, needs rest after grocery shopping.\ncognition: Mini‑Cog not due (annual done Oct 2025).\nfalls: One fall at home 2 months ago while reaching for top shelf, no injury. Gait slightly unsteady. Timed up‑and‑go 13 seconds – raised fall risk.\nmedicines: 6 regular. Polypharmacy – Beers review indicated.\nmood: Reports low mood, occasional tearfulness.\ncarers: Daughter Priya, primary caregiver.\ngoals: \"I want to feel stronger and avoid any more falls.\""
+    },
+    {
+      "memory_id": "X0556-m11",
+      "date": "2026-01-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.8 mg/dL (0.6‑1.2). eGFR 35 mL/min/1.73m². Urine albumin‑creatinine ratio 150 mg/g. Haemoglobin 11.0 g/dL. Serum sodium 134 mmol/L (borderline low)."
+    },
+    {
+      "memory_id": "X0556-m12",
+      "date": "2026-01-20",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Nephrology, Dr S. Rao, for progressive CKD (eGFR 35 mL/min/1.73m²) with rising creatinine and albuminuria. Request assessment for possible steroid‑sparing agents and dialysis planning education."
+    },
+    {
+      "memory_id": "X0556-m13",
+      "date": "2026-02-05",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Nephrology reply: Patient reviewed, CKD stage 3b. Continue current RAS blockade and SGLT2i. Add spironolactone 12.5 mg OD for albuminuria, monitor potassium. Educate on low‑sodium diet. No immediate dialysis needed. Review in 3 months."
+    },
+    {
+      "memory_id": "X0556-m14",
+      "date": "2026-04-30",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Messaged via clinic app: ‘I’ve been having a burning sensation after meals despite taking pantoprazole. Also feel more tired lately. Could my reflux be worsening?’"
+    },
+    {
+      "memory_id": "X0556-m15",
+      "date": "2026-07-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-07-15 10:00 to 2026-07-20 14:00 per patient request to accommodate daughter’s schedule."
+    },
+    {
+      "memory_id": "X0556-m16",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports improved energy after anemia work‑up, walks 20 min with rest.\ncognition: Mini‑Cog score 4/5 (recall 2, clock draw normal).\nfalls: No new falls since Jan. Gait steady. Timed up‑and‑go 11 seconds.\nmedicines: 7 regular (added spironolactone 12.5 mg OD). Polypharmacy – Beers review completed, no potentially inappropriate meds.\nmood: Mood improved, denies depression.\ncarers: Daughter Priya, primary caregiver.\ngoals: \"I want to keep my strength up and enjoy time with my grandchildren.\""
+    }
+  ]
+}

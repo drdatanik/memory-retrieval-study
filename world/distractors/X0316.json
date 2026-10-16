@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0316",
+  "name": "Basavaraj Murthy",
+  "age": 75,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Allergic rhinitis",
+    "Vitamin D deficiency",
+    "Glaucoma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0316-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all ADLs, walks about 2 km each day, no assistance needed.\ncognition: Mini-Cog score 4/5 (negative).\nfalls: 0 falls in the last 12 months, gait normal, timed up-and-go 9 seconds (normal).\nmedicines: 6 regular; polypharmacy, consider review against Beers criteria.\nmood: Reports good mood, denies depressive symptoms.\ncarers: Meera, spouse.\ngoals: \"Stay active and keep my garden.\""
+    },
+    {
+      "memory_id": "X0316-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cetirizine 10 mg HS\nfluticasone nasal spray one spray each nostril OD\nmontelukast 10 mg HS\ncholecalciferol 60000 IU once weekly for 8 weeks\ntimolol 0.5% eye drops BD\nlatanoprost 0.005% eye drops HS"
+    },
+    {
+      "memory_id": "X0316-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 12 ng/mL (ref 20-50)\nSerum calcium: 9.2 mg/dL (ref 8.5-10.5)\nSerum phosphate: 3.4 mg/dL (ref 2.5-4.5)\nTotal serum IgE: 210 IU/mL (ref <100)\nIntraocular pressure (right eye): 22 mmHg (ref 10-21)\nIntraocular pressure (left eye): 20 mmHg (ref 10-21)"
+    },
+    {
+      "memory_id": "X0316-m04",
+      "date": "2025-04-05",
+      "type": "allergy",
+      "author": "D06",
+      "text": "Allergic rhinitis – seasonal sneezing, nasal congestion, itchy eyes; controlled with cetirizine, fluticasone, montelukast."
+    },
+    {
+      "memory_id": "X0316-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent, walks 1.5 km daily, occasional knee discomfort after long walks.\ncognition: Mini-Cog not repeated (annual screen due).\nfalls: 0 falls last 12 months, gait slightly antalgic on right, timed up-and-go 10 seconds (normal).\nmedicines: 6 regular; polypharmacy, review against Beers criteria advised.\nmood: Mood stable, denies anxiety.\ncarers: Meera, spouse.\ngoals: \"Keep walking without pain.\""
+    },
+    {
+      "memory_id": "X0316-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cetirizine 10 mg HS\nfluticasone nasal spray one spray each nostril OD\nmontelukast 10 mg HS\ncholecalciferol 1000 IU OD (after completing 8-week high-dose course)\ntimolol 0.5% eye drops BD\nlatanoprost 0.005% eye drops HS"
+    },
+    {
+      "memory_id": "X0316-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 28 ng/mL (ref 20-50)\nSerum calcium: 9.4 mg/dL (ref 8.5-10.5)\nSerum phosphate: 3.6 mg/dL (ref 2.5-4.5)\nTotal serum IgE: 190 IU/mL (ref <100)"
+    },
+    {
+      "memory_id": "X0316-m08",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-05 at 10:30 with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0316-m09",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent, walks 2 km daily, no knee pain; reports good energy.\ncognition: Mini-Cog score 3/5 (negative).\nfalls: 0 falls last 12 months, gait normal, timed up-and-go 9 seconds (normal).\nmedicines: 6 regular; polypharmacy, consider Beers review.\nmood: Reports feeling well, no depressive symptoms.\ncarers: Meera, spouse.\ngoals: \"Maintain current activity level.\""
+    },
+    {
+      "memory_id": "X0316-m10",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "cetirizine 10 mg HS\nfluticasone nasal spray one spray each nostril OD\nmontelukast 10 mg HS\ncholecalciferol 1000 IU OD\ntimolol 0.5% eye drops BD\nlatanoprost 0.005% eye drops HS"
+    },
+    {
+      "memory_id": "X0316-m11",
+      "date": "2025-10-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Visual field test (right eye): mild peripheral depressions consistent with early glaucoma; left eye within normal limits. Optic disc assessment: cup-to-disc ratio 0.6 right, 0.5 left. Intraocular pressure on timolol/latanoprost: right 18 mmHg, left 16 mmHg."
+    },
+    {
+      "memory_id": "X0316-m12",
+      "date": "2026-02-18",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent, walks 2.2 km daily, no new joint pain.\ncognition: Mini-Cog not performed (annual screen scheduled for April).\nfalls: 1 fall in last 12 months (slipped on bathroom tile, no injury), gait slightly unsteady, timed up-and-go 13 seconds (raised fall risk) – advise exercise program and supportive footwear.\nmedicines: 6 regular; polypharmacy, review against Beers criteria.\nmood: Reports occasional low mood, denies hopelessness.\ncarers: Meera, spouse.\ngoals: \"Stay steady on my feet.\""
+    },
+    {
+      "memory_id": "X0316-m13",
+      "date": "2026-02-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 32 ng/mL (ref 20-50)\nSerum calcium: 9.3 mg/dL (ref 8.5-10.5)\nSerum phosphate: 3.5 mg/dL (ref 2.5-4.5)\nIntraocular pressure (right eye): 17 mmHg (ref 10-21)\nIntraocular pressure (left eye): 15 mmHg (ref 10-21)"
+    },
+    {
+      "memory_id": "X0316-m14",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent, walks 2.5 km daily, feels strong.\ncognition: Mini-Cog score 4/5 (negative).\nfalls: 0 falls in last 12 months, gait normal, timed up-and-go 9 seconds (normal).\nmedicines: 6 regular; polypharmacy, consider Beers review.\nmood: Reports good mood, enjoys time with grandchildren.\ncarers: Meera, spouse.\ngoals: \"Continue enjoying walks and family time.\""
+    }
+  ]
+}

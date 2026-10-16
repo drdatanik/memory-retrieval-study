@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0256",
+  "name": "Harpal Brar",
+  "age": 75,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Psoriasis",
+    "Non-alcoholic fatty liver disease",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0256-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs, walks 2 km daily, tailors clothes without difficulty.\ncognition: Mini-Cog score 4/5, no impairment detected.\nfalls: 0 falls in past 12 months, gait normal, timed up-and-go 9 seconds.\nmedicines: 6 regular (clobetasol 0.05% cream BD, calcipotriol ointment OD, methotrexate 7.5 mg weekly, folic acid 5 mg OD, silymarin 140 mg TDS, rosuvastatin 5 mg OD). Polypharmacy – review against Beers criteria advised.\nmood: Reports good spirits, denies depression or anxiety.\ncarers: Son, Arjun Kumar.\ngoals: \"I want to stay active and keep tailoring.\""
+    },
+    {
+      "memory_id": "X0256-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D06",
+      "text": "clobetasol 0.05% cream apply BD to affected areas\ncalcipotriol ointment apply OD to plaques\nmethotrexate 7.5 mg take orally once weekly on same day\nfolic acid 5 mg take OD\nsilymarin 140 mg take TDS with meals\nrosuvastatin 5 mg take OD at night"
+    },
+    {
+      "memory_id": "X0256-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 38 U/L (7-56), AST 34 U/L (8-48), ALP 84 U/L (40-129), GGT 45 U/L (9-64), bilirubin 0.9 mg/dL (0.2-1.2).\nCBC: Hb 13.8 g/dL (13-17), WBC 6.2 x10^9/L (4-10), Plt 210 x10^9/L (150-400).\nCreatinine 0.92 mg/dL (0.6-1.2).\nESR 18 mm/hr (0-22), CRP 4 mg/L (<5).\nRF negative, anti-CCP negative.\nLipids: Cholesterol 190 mg/dL (<200), Triglycerides 138 mg/dL (<150), HDL 48 mg/dL (>40), LDL 110 mg/dL (<100 borderline)."
+    },
+    {
+      "memory_id": "X0256-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Mild joint stiffness in mornings, still manages tailoring with occasional breaks.\ncognition: Mini-Cog score 4/5 (annual screen due), no change.\nfalls: 0 falls last 12 months, gait slightly cautious, timed up-and-go 10 seconds.\nmedicines: 7 regular (add hydroxychloroquine 200 mg OD, increase methotrexate to 10 mg weekly). Polypharmacy – review against Beers criteria advised.\nmood: Reports occasional frustration with joint pain, denies depression.\ncarers: Son, Arjun Kumar.\ngoals: \"I want to keep working without pain slowing me down.\""
+    },
+    {
+      "memory_id": "X0256-m05",
+      "date": "2025-07-11",
+      "type": "prescription",
+      "author": "D06",
+      "text": "hydroxychloroquine 200 mg take OD\nmethotrexate 10 mg take orally once weekly\nfolic acid 5 mg take OD\nclobetasol 0.05% cream BD\ncalcipotriol ointment OD\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0256-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 45 U/L, AST 38 U/L (both within normal).\nCBC: Hb 13.6 g/dL, WBC 6.0 x10^9/L, Plt 205 x10^9/L.\nCreatinine 0.90 mg/dL.\nESR 22 mm/hr, CRP 6 mg/L (slight rise)."
+    },
+    {
+      "memory_id": "X0256-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Able to tailor full day, occasional afternoon knee ache after standing.\ncognition: Mini-Cog score 4/5, stable.\nfalls: 0 falls last 12 months, gait normal, timed up-and-go 9 seconds.\nmedicines: 8 regular (add prednisolone 5 mg OD for flare). Polypharmacy – review against Beers criteria advised.\nmood: Reports improved mood with less pain, enjoys time with grandchildren.\ncarers: Son, Arjun Kumar.\ngoals: \"I want to stay independent and enjoy family time.\""
+    },
+    {
+      "memory_id": "X0256-m08",
+      "date": "2025-10-03",
+      "type": "prescription",
+      "author": "D06",
+      "text": "prednisolone 5 mg take OD in morning\ncontinue hydroxychloroquine 200 mg OD\nmethotrexate 10 mg weekly\nfolic acid 5 mg OD\nclobetasol 0.05% cream BD\ncalcipotriol ointment OD\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0256-m09",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 42 U/L, AST 36 U/L, ALP 80 U/L, GGT 48 U/L.\nCBC: Hb 13.7 g/dL, WBC 5.9 x10^9/L, Plt 208 x10^9/L.\nCreatinine 0.89 mg/dL.\nESR 16 mm/hr, CRP 3 mg/L.\nRF negative, anti-CCP negative.\nLipids: Cholesterol 185 mg/dL, Triglycerides 130 mg/dL, HDL 50 mg/dL, LDL 106 mg/dL."
+    },
+    {
+      "memory_id": "X0256-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Mild fatigue noted, still able to work 5-6 hours daily with rests.\ncognition: Mini-Cog score 3/5 (annual screen), score ≤2 triggers further assessment; plan for MoCA.\nfalls: 1 fall in past 12 months (tripped over rug, no injury), gait slightly unsteady, timed up-and-go 13 seconds (raised fall risk).\nmedicines: 8 regular (reduce prednisolone to 2.5 mg OD). Polypharmacy – review against Beers criteria advised.\nmood: Reports occasional low mood, denies hopelessness.\ncarers: Son, Arjun Kumar.\ngoals: \"I want to stay steady on my feet and keep stitching.\""
+    },
+    {
+      "memory_id": "X0256-m11",
+      "date": "2026-01-16",
+      "type": "prescription",
+      "author": "D06",
+      "text": "prednisolone 2.5 mg take OD\nmethotrexate 10 mg weekly\nfolic acid 5 mg OD\nhydroxychloroquine 200 mg OD\nclobetasol 0.05% cream BD\ncalcipotriol ointment OD\nsilymarin 140 mg TDS\nrosuvastatin 5 mg OD"
+    },
+    {
+      "memory_id": "X0256-m12",
+      "date": "2026-01-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 40 U/L, AST 34 U/L, ALP 78 U/L, GGT 44 U/L.\nCBC: Hb 13.5 g/dL, WBC 5.8 x10^9/L, Plt 207 x10^9/L.\nCreatinine 0.88 mg/dL.\nLipids: Cholesterol 180 mg/dL, Triglycerides 125 mg/dL, HDL 52 mg/dL, LDL 102 mg/dL.\nPlatelet count normal."
+    },
+    {
+      "memory_id": "X0256-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports increased hand swelling and stiffness, tailoring slower but still manages.\ncognition: MoCA score 26/30, normal.\nfalls: 0 falls last 12 months, gait normal, timed up-and-go 9 seconds.\nmedicines: 8 regular (continue current doses). Polypharmacy – review against Beers criteria advised.\nmood: Frustrated with limitation, denies depression.\ncarers: Son, Arjun Kumar.\ngoals: \"I want to keep my hands working as long as possible.\""
+    },
+    {
+      "memory_id": "X0256-m14",
+      "date": "2026-04-21",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: \"Doctor, my finger joints feel sore and swollen especially in the mornings. It’s hard to grip the needle. Can we check my hands?\""
+    },
+    {
+      "memory_id": "X0256-m15",
+      "date": "2026-04-22",
+      "type": "investigation",
+      "author": "D06",
+      "text": "X-ray of both hands: periarticular osteopenia, mild joint space narrowing at MCP and PIP joints, no erosions. Consistent with early rheumatoid arthritis changes."
+    },
+    {
+      "memory_id": "X0256-m16",
+      "date": "2026-04-23",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Rheumatology, Bangalore General Hospital for assessment of progressive hand synovitis and consideration of disease-modifying therapy adjustment."
+    },
+    {
+      "memory_id": "X0256-m17",
+      "date": "2026-07-05",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Rheumatology review: Confirmed active RA, DAS28 4.2. Recommended add leflunomide 20 mg OD and continue methotrexate, hydroxychloroquine, low-dose prednisolone. Return to primary care for monitoring."
+    },
+    {
+      "memory_id": "X0256-m18",
+      "date": "2026-09-30",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-10-15 at 10:00 AM with Dr Nandini Kulkarni (Geriatrics)."
+    }
+  ]
+}

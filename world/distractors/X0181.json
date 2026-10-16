@@ -1,0 +1,104 @@
+{
+  "patient_id": "X0181",
+  "name": "Anitha Reddy",
+  "age": 53,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Insomnia",
+    "Psoriasis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0181-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow‑up of insomnia and psoriasis.\nPRESENTING COMPLAINT: Patient reports difficulty falling asleep, waking twice nightly, and mild itchy plaques on elbows and knees.\nEXAMINATION: BP 128/82 mmHg, weight 68 kg, height 1.58 m, BMI 27.2 (obese). Skin shows erythematous scaly plaques 2‑3 cm on extensor surfaces. No jaundice.\nIMPRESSION: Insomnia moderate, psoriasis mild‑moderate. Obesity noted. Advised diet and activity. No labs yet.\nARRANGEMENTS: Start melatonin 3 mg HS, trazodone 50 mg HS; clobetasol 0.05% cream BD topically, calcipotriol ointment OD topically, methotrexate 7.5 mg weekly with folic acid 5 mg OD. Order TSH, Hb, LFT, CBC, creatinine, fasting lipid profile, fasting blood sugar. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0181-m02",
+      "date": "2025-04-11",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 50 mg HS\nClobetasol 0.05% cream BD topically\nCalcipotriol ointment OD topically\nMethotrexate 7.5 mg once weekly\nFolic acid 5 mg OD"
+    },
+    {
+      "memory_id": "X0181-m03",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4‑4.0)\nHaemoglobin 12.8 g/dL (12‑16)\nALT 28 U/L (≤35), AST 26 U/L (≤34), ALP 78 U/L (30‑120), GGT 32 U/L (≤51)\nTotal bilirubin 0.9 mg/dL (0.2‑1.2)\nCreatinine 0.8 mg/dL (0.5‑1.1)\nCBC: WBC 6.2 x10^9/L, Hb 12.8, Plt 240\nFasting lipid: Cholesterol 5.2 mmol/L (<5.2 borderline), Triglycerides 1.8 (<1.7 slightly high), HDL 1.2 (>1.0), LDL 3.0 (<2.6 high)\nFasting blood sugar 5.6 mmol/L (3.9‑5.5 slightly high)"
+    },
+    {
+      "memory_id": "X0181-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of insomnia and psoriasis.\nPRESENTING COMPLAINT: Sleep improved, now waking once; mild daytime fatigue. Psoriasis lesions less itchy, slight scaling.\nEXAMINATION: BP 130/84 mmHg, weight 67.5 kg, BMI 27.0 (obese). Skin plaques thinner, less erythema.\nIMPRESSION: Insomnia improving on current regimen. Psoriasis responding. LFT normal, lipids unchanged, FBS slightly high – advise carbohydrate moderation. Continue meds, consider reducing trazodone if fatigue persists.\nARRANGEMENTS: Keep melatonin 3 mg HS, reduce trazodone to 25 mg HS. Continue topical steroids and methotrexate 7.5 mg weekly + folic acid 5 mg OD. Advise diet low‑refined carbs, walk 30 min daily. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0181-m05",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 mg HS\nClobetasol 0.05% cream BD topically\nCalcipotriol ointment OD topically\nMethotrexate 7.5 mg once weekly\nFolic acid 5 mg OD"
+    },
+    {
+      "memory_id": "X0181-m06",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: autumn review, influenza vaccine.\nPRESENTING COMPLAINT: Sleep stable, no daytime fatigue. Psoriasis mild, occasional flare after stress.\nEXAMINATION: BP 128/80 mmHg, weight 67 kg, BMI 26.8 (overweight). Skin shows faint pink plaques.\nIMPRESSION: Insomnia well controlled. Psoriasis mild. BMI ≥23 – advise diet and activity. Flu vaccine indicated due to chronic illness.\nARRANGEMENTS: Continue melatonin 3 mg HS, trazodone 25 mg HS, clobetasol BD, calcipotriol OD, methotrexate 7.5 mg weekly + folic acid 5 mg OD. Give inactivated influenza vaccine today (05‑Oct‑2025). Document vaccine given. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0181-m07",
+      "date": "2025-10-06",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 mg HS\nClobetasol 0.05% cream BD topically\nCalcipotriol ointment OD topically\nMethotrexate 7.5 mg once weekly\nFolic acid 5 mg OD"
+    },
+    {
+      "memory_id": "X0181-m08",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: winter check, review labs.\nPRESENTING COMPLAINT: Reports occasional mild headache, sleep unchanged. Psoriasis stable.\nEXAMINATION: BP 132/86 mmHg, weight 66.8 kg, BMI 26.7 (overweight). No meningismus.\nIMPRESSION: Insomnia stable. Psoriasis stable. LFT shows ALT 38 U/L (slightly ↑), AST 36 U/L (slightly ↑); consider methotrexate toxicity. CBC normal. Lipids unchanged, FBS 5.8 mmol/L (↑). Advise alcohol avoidance, monitor LFT.\nARRANGEMENTS: Continue melatonin 3 mg HS, trazodone 25 mg HS, topical agents unchanged. Reduce methotrexate to 5 mg weekly, keep folic acid 5 mg OD. Repeat LFT in 4 weeks. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0181-m09",
+      "date": "2026-01-16",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 mg HS\nClobetasol 0.05% cream BD topically\nCalcipotriol ointment OD topically\nMethotrexate 5 mg once weekly\nFolic acid 5 mg OD"
+    },
+    {
+      "memory_id": "X0181-m10",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: spring review, labs.\nPRESENTING COMPLAINT: Sleep good, no daytime somnolence. Psoriasis mild, occasional plaque on scalp.\nEXAMINATION: BP 130/82 mmHg, weight 66.5 kg, BMI 26.6 (overweight). Scalp shows faint scaling.\nIMPRESSION: Insomnia controlled. Psoriasis mild. LFT now ALT 30, AST 28 (normal). Lipids: Cholesterol 5.0, Triglycerides 1.6, HDL 1.3, LDL 2.9 (LDL still high). FBS 5.7 mmol/L (↑). Advise continued diet, add statin consideration.\nARRANGEMENTS: Continue melatonin 3 mg HS, trazodone 25 mg HS, topical agents unchanged. Methotrexate 5 mg weekly + folic acid 5 mg OD. Discuss starting atorvastatin 10 mg HS after liver review. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0181-m11",
+      "date": "2026-04-21",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Melatonin 3 mg HS\nTrazodone 25 mg HS\nClobetasol 0.05% cream BD topically\nCalcipotriol ointment OD topically\nMethotrexate 5 mg once weekly\nFolic acid 5 mg OD\nAtorvastatin 10 mg HS (to be started after liver review)"
+    },
+    {
+      "memory_id": "X0181-m12",
+      "date": "2026-08-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Patient requests to bring forward follow‑up from 05‑Oct‑2026 to 28‑Sep‑2026 due to travel. New appointment scheduled 28‑Sep‑2026 10:00 AM with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0181-m13",
+      "date": "2026-09-28",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: pre‑travel review.\nPRESENTING COMPLAINT: Patient reports good sleep, stable psoriasis, no new symptoms.\nEXAMINATION: BP 128/80 mmHg, weight 66 kg, BMI 26.4 (overweight). Skin clear.\nIMPRESSION: Insomnia and psoriasis well controlled. BMI ≥23 – reinforce diet and activity. Labs: lipid panel shows LDL 2.7 (improved), FBS 5.5 (borderline). Flu vaccine due.\nARRANGEMENTS: Continue melatonin 3 mg HS, trazodone 25 mg HS, topical agents unchanged. Methotrexate 5 mg weekly + folic acid 5 mg OD. Atorvastatin 10 mg HS continued. Give inactivated influenza vaccine today (28‑Sep‑2026). Document vaccine given. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    }
+  ]
+}

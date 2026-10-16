@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0100",
+  "name": "Indu Nair",
+  "age": 49,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "COPD",
+    "Benign positional vertigo",
+    "Insomnia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0100-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports mild dyspnoea on climbing two flights of stairs; manages bus route with occasional shortness of breath; ADLs independent.\ncognition: Mini-Cog score 3/5 (negative); no immediate concern for dementia.\nfalls: No falls in past 12 months; gait steady; timed up-and-go 10 seconds (normal).\nmedicines: 5 regular (tiotropium OD, salbutamol SOS, budesonide-formoterol BD, betahistine BD, melatonin HS); polypharmacy – please review against Beers criteria.\nmood: Denies low mood or anxiety; PHQ-2 not performed today.\ncarers: Daughter Priya, lives with patient.\ngoal: \"I want to keep driving my school bus and stay independent.\""
+    },
+    {
+      "memory_id": "X0100-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "tiotropium inhaler 18 mcg OD\nsalbutamol inhaler 100 mcg SOS\nbudesonide-formoterol 200/6 inhaler 2 puffs BD\nbetahistine 16 mg BD\nmelatonin 3 mg HS"
+    },
+    {
+      "memory_id": "X0100-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.68 L (55% pred), FEV1/FVC 0.62\nSpO2 room air 94%\nTSH 2.1 mIU/L (0.35-4.50)\nHaemoglobin 12.8 g/dL (12.0-15.5)"
+    },
+    {
+      "memory_id": "X0100-m04",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Chest X-ray: Hyperinflated lungs, flattened diaphragms, no acute infiltrate. Consistent with COPD."
+    },
+    {
+      "memory_id": "X0100-m05",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Dix-Hallpike test: Positive on right side; vertigo and nystagmus elicited. Audiometry: Bilateral mild high-frequency hearing loss, otherwise normal."
+    },
+    {
+      "memory_id": "X0100-m06",
+      "date": "2025-07-15",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment scheduled for 2025-08-15 at 10:30 AM with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0100-m07",
+      "date": "2025-08-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Improved exercise tolerance; reports only mild breathlessness on bus stairs; ADLs unchanged.\ncognition: No formal Mini-Cog today (annual screen due April 2026).\nfalls: One fall at home while reaching for shelf 3 months ago; no injury; gait slightly cautious; timed up-and-go 13 seconds (raised fall risk) – advise strength exercises and supportive footwear.\nmedicines: 5 regular (same as before); polypharmacy – please review against Beers criteria.\nmood: Reports occasional insomnia; denies depression.\ncarers: Daughter Priya, lives with patient.\ngoal: \"I want to keep driving my school bus and stay independent.\""
+    },
+    {
+      "memory_id": "X0100-m08",
+      "date": "2025-08-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "tiotropium inhaler 18 mcg OD\nsalbutamol inhaler 100 mcg SOS\nbudesonide-formoterol 200/6 inhaler 2 puffs BD\nbetahistine 16 mg BD\nmeclizine 25 mg SOS for vertigo\nmelatonin 3 mg HS\ntrazodone 50 mg HS for insomnia"
+    },
+    {
+      "memory_id": "X0100-m09",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.72 L (56% pred), FEV1/FVC 0.63\nSpO2 room air 95%\nHb 13.0 g/dL (12.0-15.5)"
+    },
+    {
+      "memory_id": "X0100-m10",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Stable COPD symptoms; uses salbutamol <2 times/week; able to complete bus route without dyspnoea.\ncognition: Mini-Cog repeated 3/5 (negative); no cognitive decline.\nfalls: No new falls in past 12 months; gait normal; timed up-and-go 10 seconds (normal).\nmedicines: 6 regular (added trazodone); polypharmacy – please review against Beers criteria.\nmood: Reports better sleep; denies low mood.\ncarers: Daughter Priya, lives with patient.\ngoal: \"I want to keep driving my school bus and stay independent.\""
+    },
+    {
+      "memory_id": "X0100-m11",
+      "date": "2025-12-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "tiotropium inhaler 18 mcg OD\nsalbutamol inhaler 100 mcg SOS\nbudesonide-formoterol 200/6 inhaler 2 puffs BD\nbetahistine 16 mg BD\nmeclizine 25 mg SOS\nmelatonin 3 mg HS\ntrazodone 50 mg HS"
+    },
+    {
+      "memory_id": "X0100-m12",
+      "date": "2025-12-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Insomnia Severity Index score 8 (subthreshold insomnia); reports waking 2-3 times night but returns to sleep quickly; daytime fatigue mild."
+    },
+    {
+      "memory_id": "X0100-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Reports occasional wheeze on exertion; still manages bus route; uses salbutamol 1-2 times/week.\ncognition: No Mini-Cog today (annual screen due April 2027).\nfalls: No falls in past 12 months; gait steady; timed up-and-go 11 seconds (borderline) – advise continued balance exercises.\nmedicines: 6 regular (same); polypharmacy – please review against Beers criteria.\nmood: Denies depression or anxiety; sleep improved with trazodone.\ncarers: Daughter Priya, lives with patient.\ngoal: \"I want to keep driving my school bus and stay independent.\""
+    },
+    {
+      "memory_id": "X0100-m14",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 1.65 L (54% pred), FEV1/FVC 0.61\nSpO2 room air 93%\nTSH 2.4 mIU/L (0.35-4.50)\nHb 12.9 g/dL (12.0-15.5)"
+    },
+    {
+      "memory_id": "X0100-m15",
+      "date": "2026-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: next review moved from 2026-07-20 to 2026-11-15 at 09:00 AM with Dr Nandini Kulkarni (D06). (Note: requested date falls outside current window.)"
+    }
+  ]
+}

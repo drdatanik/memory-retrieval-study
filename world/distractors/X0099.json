@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0099",
+  "name": "Paresh Modi",
+  "age": 76,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Atrial fibrillation",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0099-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation and migraine.\nPatient reports occasional palpitations and mild headache. Examination: regular irregular pulse, BP 138/84, lungs clear, no focal neurology. Smoking status: never. No inhaler use."
+    },
+    {
+      "memory_id": "X0099-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "apixaban 5 mg BD\nbisoprolol 2.5 mg OD\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0099-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine: 0.9 mg/dL (reference 0.6–1.2)\nTSH: 2.1 µIU/mL (reference 0.4–4.0)"
+    },
+    {
+      "memory_id": "X0099-m04",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "ECG: Atrial fibrillation with ventricular rate 78 bpm. No acute ST‑T changes. QRS duration 92 ms."
+    },
+    {
+      "memory_id": "X0099-m05",
+      "date": "2025-07-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation and migraine – stable.\nPatient denies dyspnea or chest pain. Headache frequency reduced to 2 days/month on propranolol. Smoking status: never. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0099-m06",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "warfarin 5 mg OD (INR target 2–3)\nbisoprolol 2.5 mg OD\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0099-m07",
+      "date": "2025-07-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR: 1.8 (target 2.0–3.0)\nSerum creatinine: 0.9 mg/dL\nTSH: 2.0 µIU/mL"
+    },
+    {
+      "memory_id": "X0099-m08",
+      "date": "2025-08-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation – INR subtherapeutic.\nPatient asymptomatic. Migraine well controlled on propranolol. Smoking status: never. Plan: increase warfarin dose."
+    },
+    {
+      "memory_id": "X0099-m09",
+      "date": "2025-08-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "warfarin 7.5 mg OD\nbisoprolol 2.5 mg OD\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0099-m10",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘I have felt a bit short of breath when walking to the market and noticed occasional fluttering in my chest.’"
+    },
+    {
+      "memory_id": "X0099-m11",
+      "date": "2025-09-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation with mild exertional dyspnea.\nExam: regular irregular pulse, BP 140/86, lungs clear, no edema. Migraine controlled. Smoking status: never. Plan: optimize anticoagulation."
+    },
+    {
+      "memory_id": "X0099-m12",
+      "date": "2025-09-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR: 2.2 (target 2.0–3.0)\nSerum creatinine: 0.9 mg/dL\nTSH: 2.0 µIU/mL"
+    },
+    {
+      "memory_id": "X0099-m13",
+      "date": "2025-10-01",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Echocardiogram: Mild left atrial enlargement, left ventricular ejection fraction 60%, no significant valvular disease."
+    },
+    {
+      "memory_id": "X0099-m14",
+      "date": "2025-10-10",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Cardiology, Dr. K. Rao, for review of atrial fibrillation management and consideration of ablation."
+    },
+    {
+      "memory_id": "X0099-m15",
+      "date": "2025-11-05",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Cardiology review: Agrees with current warfarin therapy, INR therapeutic. No procedural intervention advised at this time. Continue follow‑up in pulmonology clinic."
+    },
+    {
+      "memory_id": "X0099-m16",
+      "date": "2026-02-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-15 at 10:00 with Dr Menon for routine review."
+    },
+    {
+      "memory_id": "X0099-m17",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Atrial fibrillation and migraine – stable.\nINR 2.3 within target. No dyspnea on exertion. Migraine frequency 1 day/month. Smoking status: never. Inhaler technique not applicable."
+    },
+    {
+      "memory_id": "X0099-m18",
+      "date": "2026-08-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR: 2.4 (target 2.0–3.0)\nSerum creatinine: 0.95 mg/dL\nTSH: 2.2 µIU/mL"
+    }
+  ]
+}

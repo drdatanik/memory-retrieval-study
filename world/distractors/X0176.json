@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0176",
+  "name": "Archana Jadhav",
+  "age": 41,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0176-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in all ADLs, walks unaided, manages household chores without difficulty.\ncognition: Mini-Cog score 4/5 (recall 3 items, clock draw normal), negative screen.\nfalls: no falls in last 12 months, gait steady, timed up-and-go 9 seconds (within normal), fall risk low.\nmedicines: 4 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD).\nmood: reports good spirits, denies anxiety or low mood.\ncarers: Ramesh Kumar, husband.\ngoals: \"I want to stay healthy and active for my family.\""
+    },
+    {
+      "memory_id": "X0176-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0176-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.9 mg/dL (0.6-1.2)\neGFR 88 mL/min/1.73m2 (>60)\nSerum potassium 4.3 mmol/L (3.5-5.0)"
+    },
+    {
+      "memory_id": "X0176-m04",
+      "date": "2025-06-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have felt a dry cough for the past two weeks, especially at night. It is annoying but not associated with fever or shortness of breath."
+    },
+    {
+      "memory_id": "X0176-m05",
+      "date": "2025-06-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still independent, occasional mild fatigue after chores.\ncognition: Mini-Cog not repeated (annual screen due next year).\nfalls: no falls, gait slightly slower but safe, timed up-and-go 10 seconds (normal).\nmedicines: 4 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD).\nmood: reports mild irritation from cough, otherwise cheerful.\ncarers: Ramesh Kumar, husband.\ngoals: \"I want the cough to go away so I can sleep well.\""
+    },
+    {
+      "memory_id": "X0176-m06",
+      "date": "2025-06-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan stopped\nhydrochlorothiazide 6.25 mg OD"
+    },
+    {
+      "memory_id": "X0176-m07",
+      "date": "2025-07-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: sinus rhythm, rate 78 bpm. No ST-T changes, left ventricular voltage within normal limits. No evidence of ischemia or arrhythmia."
+    },
+    {
+      "memory_id": "X0176-m08",
+      "date": "2025-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.92 mg/dL (0.6-1.2)\neGFR 85 mL/min/1.73m2\nSerum potassium 4.6 mmol/L (3.5-5.0)"
+    },
+    {
+      "memory_id": "X0176-m09",
+      "date": "2025-10-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: cough resolved, back to usual household activities without limitation.\ncognition: annual Mini-Cog due next visit.\nfalls: no falls, gait normal, timed up-and-go 9 seconds (low risk).\nmedicines: 4 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, hydrochlorothiazide 6.25 mg OD).\nmood: reports good mood, energetic.\ncarers: Ramesh Kumar, husband.\ngoals: \"I would like to keep my blood pressure under control without adding many pills.\""
+    },
+    {
+      "memory_id": "X0176-m10",
+      "date": "2025-10-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nhydrochlorothiazide 6.25 mg OD\natenolol 25 mg OD"
+    },
+    {
+      "memory_id": "X0176-m11",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-10 at 09:00 with Dr Nandini Kulkarni (D06) for hypertension review."
+    },
+    {
+      "memory_id": "X0176-m12",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, able to walk 2 km without fatigue, manages home well.\ncognition: Mini-Cog score 3/5 (recall 2 items, clock draw mild abnormality), negative screen (score >2).\nfalls: no falls in last 12 months, gait smooth, timed up-and-go 8 seconds (low risk).\nmedicines: 5 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, hydrochlorothiazide 6.25 mg OD, atenolol 25 mg OD, newly added spironolactone 12.5 mg OD for resistant hypertension). Polypharmacy noted; request review against Beers criteria.\nmood: reports occasional mild dizziness on standing, otherwise cheerful.\ncarers: Ramesh Kumar, husband.\ngoals: \"I want to feel steady on my feet and avoid any medication side effects.\""
+    },
+    {
+      "memory_id": "X0176-m13",
+      "date": "2026-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.0 mg/dL (0.6-1.2)\neGFR 78 mL/min/1.73m2\nSerum potassium 4.8 mmol/L (3.5-5.0)"
+    }
+  ]
+}

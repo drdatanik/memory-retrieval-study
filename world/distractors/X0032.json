@@ -1,0 +1,105 @@
+{
+  "patient_id": "X0032",
+  "name": "Mary Abraham",
+  "age": 42,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Allergic rhinitis",
+    "Migraine",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0032-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all activities of daily living; manages hotel duties without assistance.\ncognition: Mini-Cog score 4/5 (negative); recalls 3 items, clock draw normal.\nfalls: No falls in past 12 months; gait normal; timed up-and-go 9 seconds (normal fall risk).\nmedicines: 0 regular; will initiate therapy for allergic rhinitis, migraine, epilepsy after today.\nmood: Reports mild work-related stress; denies depression or anxiety.\ncarers: Spouse, Priya.\ngoals: \"I want to stay healthy to manage my hotel and enjoy time with family.\""
+    },
+    {
+      "memory_id": "X0032-m02",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Skin prick test: positive to house dust mite and pollen.\nTotal serum IgE: 210 IU/mL (reference <100 IU/mL)."
+    },
+    {
+      "memory_id": "X0032-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Cetirizine 10 mg HS\nFluticasone nasal spray 1 spray each nostril OD\nMontelukast 10 mg HS\nPropranolol 40 mg OD\nSumatriptan 50 mg SOS\nTopiramate 25 mg HS\nNaproxen 500 mg SOS\nLevetiracetam 500 mg BD\nLamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0032-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; occasional nasal congestion affecting sleep, but works full shifts.\ncognition: Mini-Cog score 4/5 (negative); stable.\nfalls: No falls; gait steady; timed up-and-go 9 seconds.\nmedicines: 9 regular; polypharmacy – review against Beers criteria recommended.\nmood: Reports improved sleep after nasal spray; denies low mood.\ncarers: Spouse, Priya.\ngoals: \"I want to keep my symptoms under control so I can focus on work.\""
+    },
+    {
+      "memory_id": "X0032-m05",
+      "date": "2025-07-12",
+      "type": "investigation",
+      "author": "D06",
+      "text": "EEG: Background activity normal; no epileptiform discharges; no focal slowing."
+    },
+    {
+      "memory_id": "X0032-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium: 138 mmol/L (135-145).\nSerum creatinine: 0.9 mg/dL (0.6-1.2)."
+    },
+    {
+      "memory_id": "X0032-m07",
+      "date": "2025-08-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "Levetiracetam increased to 750 mg BD\nLamotrigine unchanged 50 mg BD\nOther medications unchanged."
+    },
+    {
+      "memory_id": "X0032-m08",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; reports occasional migraine breakthrough despite prophylaxis.\ncognition: Mini-Cog score 3/5 (negative); recalls 2 items, clock draw mild abnormality.\nfalls: No falls; gait normal; timed up-and-go 10 seconds.\nmedicines: 9 regular; polypharmacy – medication review pending.\nmood: Notes frustration with breakthrough headaches; denies depression.\ncarers: Spouse, Priya.\ngoals: \"I want fewer migraine days to maintain my work performance.\""
+    },
+    {
+      "memory_id": "X0032-m09",
+      "date": "2025-10-20",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Neurology for evaluation of refractory migraine and optimization of prophylactic regimen."
+    },
+    {
+      "memory_id": "X0032-m10",
+      "date": "2025-10-22",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked with Neurology at Vikram Hospital on 2025-11-05 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0032-m11",
+      "date": "2025-11-06",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Neurology notes: Migraine likely refractory to current prophylaxis; recommends adding CGRP monoclonal antibody and tapering topiramate. EEG normal; continue current epilepsy meds."
+    },
+    {
+      "memory_id": "X0032-m12",
+      "date": "2026-04-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; reports improved migraine control after starting CGRP antibody (added per neurology advice).\ncognition: Mini-Cog score 4/5 (negative); stable.\nfalls: No falls in past 12 months; gait normal; timed up-and-go 9 seconds.\nmedicines: 9 regular; polypharmacy – medication review scheduled for next visit.\nmood: Reports better mood, less frustration.\ncarers: Spouse, Priya.\ngoals: \"I aim to maintain current control and reduce medication burden where possible.\""
+    },
+    {
+      "memory_id": "X0032-m13",
+      "date": "2026-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Total serum IgE: 185 IU/mL (reference <100 IU/mL).\nSkin prick test not repeated; allergic rhinitis symptoms controlled."
+    }
+  ]
+}

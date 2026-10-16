@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0463",
+  "name": "Nasir Khan",
+  "age": 75,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Benign prostatic hyperplasia",
+    "Vitamin D deficiency",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0463-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign prostatic hyperplasia, vitamin D deficiency, epilepsy. Symptoms: nocturia 2-3 times, mild fatigue, no recent seizures. Exam: prostate mildly enlarged, non-tender; neurologic normal. Spirometry not indicated."
+    },
+    {
+      "memory_id": "X0463-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "tamsulosin 0.4 mg HS\nfinasteride 5 mg OD\ncholecalciferol 60000 IU once weekly for 8 weeks\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0463-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 1.2 ng/mL (0-4)\nSerum 25‑OH vitamin D 18 ng/mL (30-100)\nCalcium 9.0 mg/dL (8.5-10.5)\nPhosphate 3.4 mg/dL (2.5-4.5)\nSodium 138 mmol/L (135-145)\nCreatinine 1.0 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0463-m04",
+      "date": "2025-04-06",
+      "type": "investigation",
+      "author": "D05",
+      "text": "EEG: background activity normal, no epileptiform discharges."
+    },
+    {
+      "memory_id": "X0463-m05",
+      "date": "2025-04-07",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Ultrasound KUB: prostate volume 38 mL, post‑void residual 25 mL, no hydronephrosis."
+    },
+    {
+      "memory_id": "X0463-m06",
+      "date": "2025-04-08",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Started tamsulosin, notice less urgency at night. Vitamin D capsules taken as directed. No seizure since last month."
+    },
+    {
+      "memory_id": "X0463-m07",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign prostatic hyperplasia improved, vitamin D deficiency still low, epilepsy stable. Symptoms: nocturia once nightly, mild bone aches. Exam: prostate slightly smaller, no tenderness. Spirometry FEV1 2.8 L (92% pred), FVC 3.4 L, ratio 0.82, unchanged. ACT score 22 (well controlled). Technique checked: correct."
+    },
+    {
+      "memory_id": "X0463-m08",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "tamsulosin 0.4 mg HS\nfinasteride 5 mg OD\ncholecalciferol 1000 IU OD\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0463-m09",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25‑OH vitamin D 28 ng/mL (30-100) – still suboptimal, continue maintenance."
+    },
+    {
+      "memory_id": "X0463-m10",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign prostatic hyperplasia stable, vitamin D deficiency now adequate, epilepsy unchanged. Symptoms: nocturia once, no bone pain. Exam: prostate 35 mL, PVR 20 mL. Spirometry FEV1 2.9 L (95% pred), FVC 3.5 L, ratio 0.83, +0.1 L from last. ACT 23 (well controlled). Technique checked: correct."
+    },
+    {
+      "memory_id": "X0463-m11",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "tamsulosin 0.4 mg HS (continue)\nfinasteride 5 mg OD\ncholecalciferol 1000 IU OD\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0463-m12",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PSA 1.3 ng/mL (0-4)\nCreatinine 1.0 mg/dL (0.6-1.2)"
+    },
+    {
+      "memory_id": "X0463-m13",
+      "date": "2026-01-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up pulmonology appointment booked for 2026-07-05 at 10:30 am."
+    },
+    {
+      "memory_id": "X0463-m14",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Benign prostatic hyperplasia controlled, vitamin D sufficient, epilepsy seizure‑free for 8 months. Symptoms: nocturia once, no adverse drug effects. Exam: prostate 33 mL, PVR 18 mL. Spirometry FEV1 3.0 L (98% pred), FVC 3.6 L, ratio 0.83, +0.2 L from baseline. ACT 24 (well controlled). Technique checked: correct. Smoking status: never."
+    }
+  ]
+}

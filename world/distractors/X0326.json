@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0326",
+  "name": "Navjot Sandhu",
+  "age": 36,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Hypertension",
+    "Epilepsy",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0326-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 148/92 mmHg, weight 68 kg, waist 84 cm (>80 cm female cut-off). Plan: start amlodipine 5 mg OD, telmisartan 40 mg OD, lifestyle salt restriction, weight goal 62 kg.\nEpilepsy: known, on levetiracetam 500 mg BD, lamotrigine 50 mg BD, seizure-free 6 months. Plan: continue, check serum sodium and creatinine.\nAllergic rhinitis: seasonal sneezing, nasal congestion. Plan: start cetirizine 10 mg HS, fluticasone nasal spray one spray each nostril OD, montelukast 10 mg HS."
+    },
+    {
+      "memory_id": "X0326-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "amlodipine 5 mg OD\n telmisartan 40 mg OD\n levetiracetam 500 mg BD\n lamotrigine 50 mg BD\n cetirizine 10 mg HS\n fluticasone nasal spray one spray each nostril OD\n montelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0326-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.9 mg/dL (eGFR >90 mL/min/1.73m2).\nSerum potassium 4.2 mmol/L (3.5-5.0).\nSerum sodium 138 mmol/L (135-145).\nTotal serum IgE 120 IU/mL (<100 high).\nSkin prick test: positive to dust mite and grass.\nECG: normal sinus rhythm, no ischemia."
+    },
+    {
+      "memory_id": "X0326-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 130/82 mmHg, weight 67 kg, waist 82 cm (>80). Plan: continue amlodipine 5 mg OD, telmisartan 40 mg OD, add hydrochlorothiazide 12.5 mg OD.\nEpilepsy: seizure-free, serum sodium 136 mmol/L. Plan: continue levetiracetam 500 mg BD, lamotrigine 50 mg BD.\nAllergic rhinitis: symptoms much improved. Plan: continue cetirizine HS, fluticasone OD, montelukast HS."
+    },
+    {
+      "memory_id": "X0326-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "hydrochlorothiazide 12.5 mg OD"
+    },
+    {
+      "memory_id": "X0326-m06",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.92 mg/dL.\nSerum potassium 4.5 mmol/L.\nSerum sodium 136 mmol/L.\nTotal IgE 110 IU/mL.\nECG: unchanged, normal sinus rhythm."
+    },
+    {
+      "memory_id": "X0326-m07",
+      "date": "2025-10-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking follow-up visit with Dr Karthik Hegde on 2025-11-15 at 10:30."
+    },
+    {
+      "memory_id": "X0326-m08",
+      "date": "2025-11-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 128/80 mmHg, weight 66 kg, waist 80 cm (at cut-off). Plan: continue amlodipine 5 mg OD, telmisartan 40 mg OD, consider tapering hydrochlorothiazide if potassium rises.\nEpilepsy: seizure-free, serum sodium 135 mmol/L. Plan: continue current regimen.\nAllergic rhinitis: mild intermittent symptoms. Plan: continue cetirizine HS, fluticasone OD; stop montelukast."
+    },
+    {
+      "memory_id": "X0326-m09",
+      "date": "2025-11-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "montelukast 10 mg HS stopped"
+    },
+    {
+      "memory_id": "X0326-m10",
+      "date": "2026-02-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.95 mg/dL.\nSerum potassium 4.6 mmol/L.\nSerum sodium 134 mmol/L.\nTotal IgE 105 IU/mL.\nLipid profile: total cholesterol 180 mg/dL (<200), LDL 110 mg/dL (<130), HDL 45 mg/dL (>40), triglycerides 120 mg/dL (<150).\nECG: normal sinus rhythm."
+    },
+    {
+      "memory_id": "X0326-m11",
+      "date": "2026-05-03",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: background rhythms normal, no epileptiform discharges, no focal slowing."
+    },
+    {
+      "memory_id": "X0326-m12",
+      "date": "2026-09-08",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Hypertension: BP 130/84 mmHg, weight 67 kg, waist 81 cm (>80). Plan: continue amlodipine 5 mg OD, telmisartan 40 mg OD, reduce hydrochlorothiazide to 12.5 mg every other day.\nEpilepsy: seizure-free, serum sodium 133 mmol/L. Plan: continue levetiracetam 500 mg BD, lamotrigine 50 mg BD.\nAllergic rhinitis: well controlled on cetirizine HS and fluticasone OD; montelukast remains stopped."
+    }
+  ]
+}

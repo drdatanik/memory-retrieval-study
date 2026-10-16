@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0513",
+  "name": "Ratna Chakraborty",
+  "age": 88,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0513-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 88‑year‑old woman reports retrosternal burning after meals for 2 weeks, occasional sour taste, no dysphagia or weight loss.\nEXAMINATION: BP 138/82 mmHg, weight 58 kg, BMI 22.9 (normal). Abdomen soft, non‑tender, no hepatomegaly.\nIMPRESSION: Gastro‑oesophageal reflux disease, mild. No alarm symptoms.\nARRANGEMENTS: Start pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, antacid gel SOS. Advise small frequent meals, avoid lying down after food, weight‑neutral diet. Return if: worsening pain, vomiting, haematemesis, melena, fever >39°C."
+    },
+    {
+      "memory_id": "X0513-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0513-m03",
+      "date": "2025-04-15",
+      "type": "allergy",
+      "author": "patient",
+      "text": "Patient reports severe rash and itching after taking penicillin as a child; avoids all beta‑lactams."
+    },
+    {
+      "memory_id": "X0513-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (reference: <0.9 IU/mL)."
+    },
+    {
+      "memory_id": "X0513-m05",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Persistent heartburn despite PPI, now 3‑4 days/week, worse after spicy food.\nEXAMINATION: BP 140/84 mmHg, weight 57.5 kg, BMI 22.6 (normal). No abdominal tenderness.\nIMPRESSION: GERD partially responsive; consider dose optimisation.\nARRANGEMENTS: Increase pantoprazole to 40 mg BD before breakfast and dinner; continue domperidone 10 mg BD; lifestyle reinforcement. Return if: dysphagia, odynophagia, unexplained weight loss, bleeding, fever >39°C."
+    },
+    {
+      "memory_id": "X0513-m06",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg BD before breakfast and dinner\nDomperidone 10 mg BD before meals\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0513-m07",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: ‘Heartburn is worse at night, waking me up; I’ve started using extra antacid gel.’"
+    },
+    {
+      "memory_id": "X0513-m08",
+      "date": "2025-09-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Resting ECG: Normal sinus rhythm, rate 78 bpm. No ST‑T changes, no left ventricular hypertrophy. No evidence of ischemia."
+    },
+    {
+      "memory_id": "X0513-m09",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Nighttime heartburn improved but still 2‑3 episodes/week; reports mild bloating.\nEXAMINATION: BP 138/80 mmHg, weight 57 kg, BMI 22.4 (normal). Abdomen soft.\nIMPRESSION: GERD controlled on BD PPI; consider stepping down after symptom‑free period.\nARRANGEMENTS: Reduce pantoprazole to 40 mg OD before breakfast; continue domperidone 10 mg BD; antacid gel SOS. Advise elevation of head of bed, avoid late meals. Return if: recurrent severe pain, vomiting, bleeding, fever >39°C."
+    },
+    {
+      "memory_id": "X0513-m10",
+      "date": "2025-10-07",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Pantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0513-m11",
+      "date": "2026-01-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-02-01 09:30 with Dr Priya Natarajan (D03) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0513-m12",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up visit; reports occasional heartburn after large meals, otherwise well.\nEXAMINATION: BP 136/78 mmHg, weight 56.8 kg, BMI 22.2 (normal). No abdominal tenderness.\nIMPRESSION: GERD well‑controlled on low‑dose PPI.\nARRANGEMENTS: Continue pantoprazole 40 mg OD, domperidone 10 mg BD, antacid gel SOS. Annual fasting lipid profile and fasting blood sugar ordered today. Return if: new dysphagia, odynophagia, weight loss, bleeding, fever >39°C."
+    },
+    {
+      "memory_id": "X0513-m13",
+      "date": "2026-02-05",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr S. Rao, Gastroenterology, St. Mary’s Hospital, for upper GI endoscopy to rule out Barrett’s esophagus given age >85 and long‑standing GERD, despite symptom control."
+    },
+    {
+      "memory_id": "X0513-m14",
+      "date": "2026-03-15",
+      "type": "referral_outcome",
+      "author": "D03",
+      "text": "Gastroenterology report: Upper endoscopy shows mild erythema in distal esophagus, no Barrett’s metaplasia, no ulcers. Biopsy negative for dysplasia. Advise continue PPI lifestyle measures; repeat endoscopy in 3 years if symptoms persist."
+    },
+    {
+      "memory_id": "X0513-m15",
+      "date": "2026-09-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 4.2 mmol/L (ref <5.2), LDL 2.1 mmol/L (ref <2.6), HDL 1.4 mmol/L (ref >1.0), triglycerides 1.1 mmol/L (ref <1.7).\nFasting blood sugar: 5.6 mmol/L (ref 3.9‑5.5) – slightly elevated, advise lifestyle."
+    }
+  ]
+}

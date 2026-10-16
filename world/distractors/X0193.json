@@ -1,0 +1,125 @@
+{
+  "patient_id": "X0193",
+  "name": "Basavaraj Gowda",
+  "age": 68,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Migraine",
+    "Coronary artery disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0193-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow-up for migraine prophylaxis and coronary artery disease management.\n\nPRESENTING COMPLAINT: Patient reports occasional migraine headaches, twice a month, controlled with sumatriptan. No anginal chest pain. Denies palpitations or dyspnea on routine activity.\n\nEXAMINATION: BP 138/86 mmHg, weight 78 kg, height 1.65 m, BMI 28.6 (obese). Regular rhythm, no murmurs. Neurologic exam normal, no focal deficit.\n\nIMPRESSION: Migraine on prophylactic propranolol, stable CAD on aspirin, atorvastatin, metoprolol. LDL to be checked; fasting glucose due.\n\nARRANGEMENTS: Continue current medicines. Advise low‑salt diet, aerobic activity 150 min/week, weight reduction target 70 kg. Order fasting lipid profile and fasting blood sugar today. ECG performed. Return if new chest pain, dyspnea on exertion, migraine worsening with visual aura, or fever >39°C."
+    },
+    {
+      "memory_id": "X0193-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 40 mg OD ongoing; Atorvastatin 40 mg HS ongoing; Aspirin 75 mg OD ongoing; Metoprolol succinate 25 mg OD ongoing; Sumatriptan 50 mg SOS; Naproxen 500 mg SOS."
+    },
+    {
+      "memory_id": "X0193-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 130 mg/dL (<100 optimal), HDL 40 mg/dL (>40 male), Triglycerides 180 mg/dL (<150). Fasting blood sugar: 102 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0193-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D03",
+      "text": "ECG: Sinus rhythm, rate 78 bpm. No ST‑segment changes. No Q waves. Left ventricular voltage within normal limits. No arrhythmia."
+    },
+    {
+      "memory_id": "X0193-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of lipid and glucose results, weight and blood pressure.\n\nPRESENTING COMPLAINT: Patient notes fatigue after exertion, still has migraines once a week. No chest pain.\n\nEXAMINATION: BP 140/88 mmHg, weight 78 kg, height 1.65 m, BMI 28.6 (obese). Regular rhythm, lungs clear.\n\nIMPRESSION: Elevated LDL and borderline glucose; migraine frequency increased. CAD stable but needs tighter control.\n\nARRANGEMENTS: Increase metoprolol to 50 mg OD. Add low‑dose rosuvastatin 5 mg HS to improve LDL. Reinforce diet, aim for 5‑kg loss in 3 months. Repeat fasting lipid profile and glucose in 3 months. Return if chest pain, dyspnea on exertion, migraine with neurological deficit, or fainting."
+    },
+    {
+      "memory_id": "X0193-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 40 mg OD ongoing; Atorvastatin 40 mg HS ongoing; Aspirin 75 mg OD ongoing; Metoprolol succinate 50 mg OD ongoing; Rosuvastatin 5 mg HS ongoing; Sumatriptan 50 mg SOS; Naproxen 500 mg SOS."
+    },
+    {
+      "memory_id": "X0193-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 115 mg/dL (<100 optimal), HDL 42 mg/dL (>40 male), Triglycerides 160 mg/dL (<150). Fasting blood sugar: 100 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0193-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Assess exercise tolerance and migraine control.\n\nPRESENTING COMPLAINT: Patient reports mild chest heaviness climbing stairs, relieved by rest. Migraines twice weekly despite prophylaxis.\n\nEXAMINATION: BP 142/90 mmHg, weight 77 kg, height 1.65 m, BMI 28.3 (obese). Regular rhythm, no edema.\n\nIMPRESSION: Possible exertional angina; migraine prophylaxis insufficient.\n\nARRANGEMENTS: Add isosorbide mononitrate 20 mg OD. Increase topiramate to 25 mg HS for migraine prevention. Order treadmill test to evaluate ischemia. Continue lifestyle advice. Return if chest pain at rest, dyspnea, syncope, or worsening migraine with vomiting."
+    },
+    {
+      "memory_id": "X0193-m09",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Treadmill test (Bruce protocol): Patient exercised 6 minutes, achieved 85% maximal heart rate. No ST‑segment depression or angina reported. Blood pressure rose appropriately. Test negative for inducible ischemia."
+    },
+    {
+      "memory_id": "X0193-m10",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 40 mg OD ongoing; Atorvastatin 40 mg HS ongoing; Aspirin 75 mg OD ongoing; Metoprolol succinate 50 mg OD ongoing; Rosuvastatin 5 mg HS ongoing; Isosorbide mononitrate 20 mg OD ongoing; Topiramate 25 mg HS ongoing; Sumatriptan 50 mg SOS; Naproxen 500 mg SOS; Sublingual GTN SOS."
+    },
+    {
+      "memory_id": "X0193-m11",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review after medication adjustments and side‑effects.\n\nPRESENTING COMPLAINT: Patient reports tingling in feet and mild cognitive slowing since starting topiramate. Migraines down to once weekly. No chest pain.\n\nEXAMINATION: BP 138/84 mmHg, weight 76 kg, height 1.65 m, BMI 27.9 (overweight). Regular rhythm, peripheral sensation mildly reduced distal to ankles.\n\nIMPRESSION: Topiramate likely causing peripheral paresthesia; consider taper. LDL at goal, weight trending down.\n\nARRANGEMENTS: Taper and stop topiramate over 2 weeks. Start amitriptyline 10 mg HS for migraine prophylaxis. Continue other meds. Repeat fasting lipid profile and glucose. Return if chest pain, worsening neuropathy, mood changes, or fever >39°C."
+    },
+    {
+      "memory_id": "X0193-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Propranolol 40 mg OD ongoing; Atorvastatin 40 mg HS ongoing; Aspirin 75 mg OD ongoing; Metoprolol succinate 50 mg OD ongoing; Rosuvastatin 5 mg HS ongoing; Isosorbide mononitrate 20 mg OD ongoing; Amitriptyline 10 mg HS ongoing; Sumatriptan 50 mg SOS; Naproxen 500 mg SOS; Sublingual GTN SOS."
+    },
+    {
+      "memory_id": "X0193-m13",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 92 mg/dL (<100 optimal), HDL 44 mg/dL (>40 male), Triglycerides 138 mg/dL (<150). Fasting blood sugar: 95 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0193-m14",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Six‑month follow‑up, stable vitals, discuss specialist review.\n\nPRESENTING COMPLAINT: Patient feels well, occasional migraine, no anginal symptoms.\n\nEXAMINATION: BP 135/82 mmHg, weight 75 kg, height 1.65 m, BMI 27.5 (overweight). Regular rhythm, no murmurs.\n\nIMPRESSION: Migraine on amitriptyline effective, CAD risk factors controlled.\n\nARRANGEMENTS: Continue current medicines. Refer to cardiology for annual review and to neurology for migraine optimisation. Provide lifestyle sheet. Return if chest pain, dyspnea, fainting, or new neurological deficit."
+    },
+    {
+      "memory_id": "X0193-m15",
+      "date": "2026-04-20",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr S. K. Rao, Cardiology, Vikram Hospital, for annual coronary artery disease review, including stress echo and medication optimisation. Patient stable on aspirin, statin, beta‑blocker, nitrates. Request recent lipid profile and ECG attached."
+    },
+    {
+      "memory_id": "X0193-m16",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for cardiology consultation with Dr S. K. Rao at Vikram Hospital on 2026-07-20 at 10:30 AM. Patient instructed to bring recent medication list and prior ECG."
+    }
+  ]
+}

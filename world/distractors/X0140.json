@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0140",
+  "name": "Usha Sharma",
+  "age": 29,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Hypertension",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0140-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all activities of daily living; walks unaided, manages household chores.\ncognition: Mini-Cog score 4/5; no concerns.\nfalls: No falls in the last 12 months; gait normal; timed up-and-go 9 seconds.\nmedicines: 6 regular (amlodipine 5 mg OD, telmisartan 40 mg OD, losartan 50 mg OD, hydrochlorothiazide 12.5 mg OD, levetiracetam 500 mg BD, lamotrigine 50 mg BD); polypharmacy – please review against Beers criteria.\nmood: Reports stable mood, denies anxiety or depressive symptoms.\ncarers: Mother, Lakshmi.\ngoals: \"I want to remain seizure-free and maintain good blood pressure control.\""
+    },
+    {
+      "memory_id": "X0140-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 40 mg OD\nlosartan 50 mg OD\nhydrochlorothiazide 12.5 mg OD\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0140-m03",
+      "date": "2025-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.90 mg/dL (reference 0.6-1.2)\neGFR 95 mL/min/1.73m2 (>60)\nSerum potassium 4.2 mmol/L (3.5-5.0)\nSerum sodium 138 mmol/L (135-145)"
+    },
+    {
+      "memory_id": "X0140-m04",
+      "date": "2025-08-12",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in ADLs; occasional mild fatigue after exertion.\ncognition: Mini-Cog score 4/5; stable.\nfalls: No falls; gait steady; timed up-and-go 10 seconds (borderline, advise regular exercise and supportive footwear).\nmedicines: 5 regular (amlodipine 5 mg OD, telmisartan 20 mg OD, hydrochlorothiazide 12.5 mg OD, levetiracetam 500 mg BD, lamotrigine 50 mg BD); polypharmacy – review against Beers criteria.\nmood: Reports good spirits, no mood changes.\ncarers: Mother, Lakshmi.\ngoals: \"I aim to keep my blood pressure below 130/80 and stay free of seizures.\""
+    },
+    {
+      "memory_id": "X0140-m05",
+      "date": "2025-08-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "amlodipine 5 mg OD\ntelmisartan 20 mg OD\nhydrochlorothiazide 12.5 mg OD\nlevetiracetam 500 mg BD\nlamotrigine 50 mg BD"
+    },
+    {
+      "memory_id": "X0140-m06",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.88 mg/dL (0.6-1.2)\neGFR 98 mL/min/1.73m2 (>60)\nSerum potassium 4.3 mmol/L (3.5-5.0)\nSerum sodium 137 mmol/L (135-145)"
+    },
+    {
+      "memory_id": "X0140-m07",
+      "date": "2026-01-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "ECG: Sinus rhythm, rate 78 bpm. No ST‑segment changes. Left ventricular voltage within normal limits. No evidence of ischemia or arrhythmia."
+    },
+    {
+      "memory_id": "X0140-m08",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Remains independent; reports good exercise tolerance.\ncognition: Mini-Cog score 4/5; no change.\nfalls: No falls; gait normal; timed up-and-go 9 seconds.\nmedicines: 5 regular (amlodipine 5 mg OD, telmisartan 20 mg OD, hydrochlorothiazide 12.5 mg OD, levetiracetam 500 mg BD, lamotrigine 50 mg BD); polypharmacy – review against Beers criteria.\nmood: Denies depression or anxiety; reports feeling well.\ncarers: Mother, Lakshmi.\ngoals: \"I want to stay seizure‑free and keep my blood pressure under control.\""
+    },
+    {
+      "memory_id": "X0140-m09",
+      "date": "2026-04-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-10 at 10:00 with Dr Nandini Kulkarni (D06) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0140-m10",
+      "date": "2026-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling a bit light‑headed when I stand up quickly, especially in the mornings. No seizures lately. My blood pressure readings at home have been around 122/78."
+    },
+    {
+      "memory_id": "X0140-m11",
+      "date": "2026-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.92 mg/dL (0.6-1.2)\neGFR 92 mL/min/1.73m2 (>60)\nSerum potassium 4.6 mmol/L (3.5-5.0)\nSerum sodium 136 mmol/L (135-145)"
+    },
+    {
+      "memory_id": "X0140-m12",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all ADLs; walks 30 minutes daily without difficulty.\ncognition: Mini-Cog score 4/5; annual screen negative.\nfalls: No falls in past year; gait normal; timed up-and-go 8 seconds.\nmedicines: 5 regular (amlodipine 5 mg OD, telmisartan 20 mg OD, hydrochlorothiazide 12.5 mg OD, levetiracetam 500 mg BD, lamotrigine 50 mg BD); polypharmacy – review against Beers criteria.\nmood: Reports stable mood, no depressive symptoms.\ncarers: Mother, Lakshmi.\ngoals: \"I want to continue working on my garden and stay seizure‑free.\""
+    }
+  ]
+}

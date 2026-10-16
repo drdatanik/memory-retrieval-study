@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0396",
+  "name": "Manisha Salunkhe",
+  "age": 28,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Migraine",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0396-m01",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Patient booked initial consultation with Dr Nandini Kulkarni for 2025-04-05 at 10:00 am."
+    },
+    {
+      "memory_id": "X0396-m02",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports mild headache 2-3 days/week, manages work as accountant, no difficulty with ADLs.\ncognition: Mini-Cog 4/5 (recall 3, clock draw normal), negative screen.\nfalls: 0 falls in last 12 months, gait normal, timed up-and-go 9 seconds, low fall risk.\nmedicines: 0 regular (none prescribed yet).\nmood: reports low mood, anhedonia, PHQ-9 to be checked.\ncarers: none.\ngoal: \"I want to control my headaches and feel better day to day.\""
+    },
+    {
+      "memory_id": "X0396-m03",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "propranolol 40 mg OD\nsumatriptan 50 mg SOS\ntopiramate 25 mg HS\nnaproxen 500 mg SOS\nsertraline 50 mg OD"
+    },
+    {
+      "memory_id": "X0396-m04",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (0.4-4.0)\nVitamin B12 320 pg/mL (200-900)"
+    },
+    {
+      "memory_id": "X0396-m05",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Neurological examination: normal cranial nerves, no focal deficits, normal coordination."
+    },
+    {
+      "memory_id": "X0396-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: headaches reduced to 1 day/week, able to work full days.\ncognition: Mini-Cog 4/5, stable.\nfalls: 0 falls, gait normal, TUG 9 seconds.\nmedicines: 5 regular (propranolol, sumatriptan PRN, topiramate, naproxen PRN, sertraline). Polypharmacy – review against Beers criteria.\nmood: reports improved mood, PHQ-9 6 (mild).\ncarers: none.\ngoal: \"I’d like to keep headaches rare and avoid medication side effects.\""
+    },
+    {
+      "memory_id": "X0396-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "sertraline increased to 75 mg OD\npropranolol continued 40 mg OD\ntopiramate 25 mg HS\nnaproxen 500 mg SOS\nsumatriptan 50 mg SOS"
+    },
+    {
+      "memory_id": "X0396-m08",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 6/27 (mild depressive symptoms)"
+    },
+    {
+      "memory_id": "X0396-m09",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: headaches occasional (<1 per week), mild, no work loss.\ncognition: Mini-Cog 3/5 (recall 2, clock draw abnormal) – positive screen, plan for full cognitive assessment.\nfalls: 0 falls, gait normal, TUG 9 seconds.\nmedicines: 5 regular (propranolol, topiramate, naproxen PRN, sumatriptan PRN, sertraline 75 mg). Polypharmacy – review Beers.\nmood: reports low mood returning, PHQ-9 12 (moderate).\ncarers: none.\ngoal: \"I want to feel more stable emotionally and reduce migraine days.\""
+    },
+    {
+      "memory_id": "X0396-m10",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "add escitalopram 10 mg OD\ncontinue sertraline 75 mg OD\npropranolol 40 mg OD\ntopiramate 25 mg HS\nnaproxen 500 mg SOS\nsumatriptan 50 mg SOS"
+    },
+    {
+      "memory_id": "X0396-m11",
+      "date": "2025-10-02",
+      "type": "investigation",
+      "author": "D06",
+      "text": "CT head: no acute hemorrhage, infarct, or mass; normal study."
+    },
+    {
+      "memory_id": "X0396-m12",
+      "date": "2025-10-02",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to neurologist for refractory migraine prophylaxis review; appointment requested within 4 weeks."
+    },
+    {
+      "memory_id": "X0396-m13",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: headaches 0-1 per week, mild; able to concentrate at work.\ncognition: Full MoCA 26/30, normal.\nfalls: 0 falls, gait normal, TUG 9 seconds.\nmedicines: 6 regular (propranolol, topiramate, naproxen PRN, sumatriptan PRN, sertraline 75 mg, escitalopram 10 mg). Polypharmacy – review Beers.\nmood: reports stable mood, PHQ-9 5 (mild).\ncarers: none.\ngoal: \"I want to stay headache‑free and keep my mood steady.\""
+    },
+    {
+      "memory_id": "X0396-m14",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (0.4-4.0)\nVitamin B12 340 pg/mL (200-900)"
+    }
+  ]
+}

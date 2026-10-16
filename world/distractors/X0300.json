@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0300",
+  "name": "Ganesh Deshpande",
+  "age": 18,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Chronic urticaria",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0300-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in all activities of daily living; walks 2 km daily without assistance; no aid needed.\ncognition: Mini-Cog score 4/5 (normal); no complaints of forgetfulness.\nfalls: No falls in the last 12 months; gait steady; timed up-and-go 9 seconds (below cut‑off).\nmedicines: 3 regular medicines; levocetirizine 5 mg OD, cetirizine 10 mg HS, methylcobalamin 1500 mcg OD.\nmood: Reports feeling well; denies sadness or anxiety.\ncarers: Mother Anita Rao, mother.\ngoals: \"I want to stay symptom-free and focus on my software job.\""
+    },
+    {
+      "memory_id": "X0300-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg take one tablet daily\ncetirizine 10 mg take one tablet at bedtime\nmethylcobalamin 1500 mcg take one tablet daily"
+    },
+    {
+      "memory_id": "X0300-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.2 x10^9/L, neutrophils 58%, lymphocytes 32%, eosinophils 5% (ref 1-4%). Hb 13.8 g/dL (13-17). MCV 88 fL (80-100).\nThyroid: TSH 2.1 mIU/L (0.4-4.0), free T4 1.2 ng/dL (0.9-1.7).\nVitamin B12: 210 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0300-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent; reports occasional itching on arms, relieved by antihistamines; walks 1.5 km daily.\ncognition: Mini-Cog 4/5 (stable).\nfalls: No falls past year; gait slightly slower; timed up-and-go 10 seconds (still <12).\nmedicines: 3 regular medicines; levocetirizine 5 mg OD, cetirizine 10 mg HS, methylcobalamin 1500 mcg OD.\nmood: Mentions mild frustration with skin flare‑ups; denies depression.\ncarers: Mother Anita Rao, mother.\ngoals: \"I want fewer hives so I can concentrate on coding.\""
+    },
+    {
+      "memory_id": "X0300-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg take one tablet daily\ncetirizine 10 mg take one tablet at bedtime\nmethylcobalamin 1500 mcg take one tablet daily"
+    },
+    {
+      "memory_id": "X0300-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.0 x10^9/L, eosinophils 4% (ref 1-4%). Hb 13.6 g/dL. MCV 89 fL.\nVitamin B12: 225 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0300-m07",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booked follow‑up visit with Dr Nandini Kulkarni for 2025-10-05 at 10:00 AM."
+    },
+    {
+      "memory_id": "X0300-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; notes mild wheezing after exercise, uses inhaler prn; walks 1 km daily.\ncognition: Mini-Cog 4/5 (unchanged).\nfalls: No falls last year; gait steady; timed up-and-go 9 seconds.\nmedicines: 4 regular medicines; levocetirizine 5 mg OD, cetirizine 10 mg HS, methylcobalamin 1500 mcg OD, salbutamol 100 mcg inhaler 2 puffs PRN.\nmood: Reports occasional anxiety about work deadlines; denies low mood.\ncarers: Mother Anita Rao, mother.\ngoals: \"I want to keep my breathing clear during long coding sessions.\""
+    },
+    {
+      "memory_id": "X0300-m09",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; reports reduced hives, occasional mild itching; walks 2 km daily without difficulty.\ncognition: Mini-Cog 3/5 (positive screen ≤2? actually 3 >2, so negative). No new cognitive complaints.\nfalls: No falls past 12 months; gait normal; timed up-and-go 8 seconds.\nmedicines: 3 regular medicines; levocetirizine 5 mg OD, cetirizine 10 mg HS, methylcobalamin 1500 mcg OD.\nmood: Mood stable; enjoys work and social activities.\ncarers: Mother Anita Rao, mother.\ngoals: \"I aim to stay flare‑free and finish my project on time.\""
+    },
+    {
+      "memory_id": "X0300-m10",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 5.8 x10^9/L, eosinophils 3% (ref 1-4%). Hb 13.9 g/dL. MCV 90 fL.\nVitamin B12: 260 pg/mL (200-900)."
+    },
+    {
+      "memory_id": "X0300-m11",
+      "date": "2026-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; no urticaria lesions for 2 months; walks 2.5 km daily, feels energetic.\ncognition: Mini-Cog 4/5 (stable).\nfalls: No falls last year; gait good; timed up-and-go 9 seconds.\nmedicines: 2 regular medicines; levocetirizine 5 mg OD, methylcobalamin 1500 mcg OD (cetirizine stopped due to daytime drowsiness).\nmood: Reports improved mood, enjoys weekend hikes.\ncarers: Mother Anita Rao, mother.\ngoals: \"I want to stay completely symptom‑free and advance my career.\""
+    },
+    {
+      "memory_id": "X0300-m12",
+      "date": "2026-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Changed follow‑up appointment from 2026-10-05 to 2026-10-03 at 09:30 AM with Dr Nandini Kulkarni."
+    }
+  ]
+}

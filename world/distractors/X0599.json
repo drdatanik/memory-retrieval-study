@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0599",
+  "name": "Nitin Mhatre",
+  "age": 35,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Depression",
+    "Type 2 diabetes",
+    "Allergic rhinitis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0599-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient presents with depression, type 2 diabetes mellitus, and allergic rhinitis.\nLow mood, fatigue, poor concentration for 4 weeks; polyuria, polydipsia; sneezing, nasal congestion, itchy eyes. BMI 23 kg/m2, BP 128/78, random glucose 162 mg/dL, nasal mucosa pale, lung clear. Smoking status: never smoked (0 pack-years)."
+    },
+    {
+      "memory_id": "X0599-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "sertraline 50 mg OD\nmetformin 500 mg BD\ncetirizine 10 mg HS\nfluticasone nasal spray, one spray each nostril OD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0599-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 12 (mild depression)\nTSH 2.1 µIU/mL (0.4-4.0)\nVitamin B12 340 pg/mL (200-900)\nHbA1c 7.8% (4.0-5.6)\nFasting plasma glucose 158 mg/dL (70-99)\nUrine albumin‑creatinine ratio 22 mg/g (<30)\nDilated fundus exam: mild microaneurysms, no macular edema\nSkin prick test: positive to dust mite, grass pollen\nTotal serum IgE 210 IU/mL (<100)"
+    },
+    {
+      "memory_id": "X0599-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient presents with depression, type 2 diabetes mellitus, and allergic rhinitis.\nImproved mood, occasional insomnia; polyuria reduced; allergic symptoms controlled on cetirizine. Weight stable, BP 126/76, random glucose 138 mg/dL, nasal mucosa mildly erythematous. Smoking status: never smoked (0 pack-years)."
+    },
+    {
+      "memory_id": "X0599-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "sertraline 75 mg OD\nmetformin 500 mg BD\nglimepiride 1 mg OD before breakfast\ncetirizine 10 mg HS\nfluticasone nasal spray, one spray each nostril OD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0599-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 8 (borderline)\nTSH 2.0 µIU/mL\nVitamin B12 355 pg/mL\nHbA1c 7.2%\nFasting plasma glucose 132 mg/dL\nUrine albumin‑creatinine ratio 18 mg/g\nDilated fundus exam: stable microaneurysms\nSkin prick test: unchanged\nTotal serum IgE 190 IU/mL"
+    },
+    {
+      "memory_id": "X0599-m07",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling better overall, less sad and more energy at work. My sugar readings have been around 130 fasting. My nose still gets a bit stuffy in the evenings but the spray helps. I’m adhering to meds except I missed sertraline twice last week due to travel."
+    },
+    {
+      "memory_id": "X0599-m08",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-11-15 at 10:30 AM with Dr Suresh Menon (D05) in Pulmonology clinic."
+    },
+    {
+      "memory_id": "X0599-m09",
+      "date": "2025-11-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient presents with depression, type 2 diabetes mellitus, and allergic rhinitis.\nMood stable, reports occasional missed doses; polyuria resolved; allergic symptoms mild. Weight 68 kg, BP 124/72, random glucose 124 mg/dL, nasal mucosa normal. Smoking status: never smoked (0 pack-years)."
+    },
+    {
+      "memory_id": "X0599-m10",
+      "date": "2025-11-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "sertraline 75 mg OD\nescitalopram 10 mg OD\nmetformin 500 mg BD\nglimepiride 1 mg OD before breakfast\nsitagliptin 100 mg OD\ncetirizine 10 mg HS\nfluticasone nasal spray, one spray each nostril OD\nmontelukast 10 mg HS"
+    },
+    {
+      "memory_id": "X0599-m11",
+      "date": "2025-11-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 6 (minimal)\nTSH 1.9 µIU/mL\nVitamin B12 360 pg/mL\nHbA1c 6.8%\nFasting plasma glucose 118 mg/dL\nUrine albumin‑creatinine ratio 15 mg/g\nDilated fundus exam: no new lesions\nSkin prick test: negative to dust mite, positive to grass\nTotal serum IgE 175 IU/mL"
+    },
+    {
+      "memory_id": "X0599-m12",
+      "date": "2026-02-20",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Dilated fundus exam (repeat): mild microaneurysms temporally, no macular edema or hard exudates. Visual acuity 6/6 both eyes. Recommend annual screening."
+    },
+    {
+      "memory_id": "X0599-m13",
+      "date": "2026-04-05",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Endocrinology, Victoria Hospital, for optimisation of diabetes management considering persistent HbA1c >6.5% despite triple oral therapy."
+    },
+    {
+      "memory_id": "X0599-m14",
+      "date": "2026-06-10",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Endocrinology review: patient advised to add empagliflozin 10 mg OD, continue current agents, lifestyle reinforcement. HbA1c target <7%. No hypoglycaemia reported. Follow‑up in 3 months."
+    },
+    {
+      "memory_id": "X0599-m15",
+      "date": "2026-08-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient presents with depression, type 2 diabetes mellitus, and allergic rhinitis.\nMood good, medication adherence improved; empagliflozin started 2 months ago, reports weight loss 2 kg, fasting glucose 110 mg/dL. Allergic symptoms well controlled. BP 122/70, nasal mucosa clear. Smoking status: never smoked (0 pack-years)."
+    },
+    {
+      "memory_id": "X0599-m16",
+      "date": "2026-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "PHQ-9 4 (normal)\nTSH 2.0 µIU/mL\nVitamin B12 368 pg/mL\nHbA1c 6.5%\nFasting plasma glucose 106 mg/dL\nUrine albumin‑creatinine ratio 12 mg/g\nDilated fundus exam: stable\nSkin prick test: negative to dust mite, negative to grass\nTotal serum IgE 140 IU/mL"
+    }
+  ]
+}

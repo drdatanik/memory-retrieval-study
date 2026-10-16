@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0139",
+  "name": "Sumathi Achar",
+  "age": 81,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Vitamin D deficiency",
+    "Migraine",
+    "Generalised anxiety disorder"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0139-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Vitamin D deficiency, migraine without aura, and generalised anxiety disorder.\nPatient reports fatigue, occasional frontal headaches, and worryfulness. Examination shows mild tenderness over frontal sinuses, no neurological deficits. Spirometry not indicated. Smoking status: never smoked, pack-years 0. Vitamin D replacement initiated, migraine prophylaxis started, anxiety treatment begun. Review in 3 months with labs and symptom diary."
+    },
+    {
+      "memory_id": "X0139-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "cholecalciferol 60000 IU once weekly for 8 weeks, then 1000 IU OD\npropranolol 40 mg OD\nsumatriptan 50 mg SOS\ntopiramate 25 mg HS\nescitalopram 5 mg OD\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0139-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 14 ng/mL (ref 30-100)\nSerum calcium: 9.2 mg/dL (ref 8.5-10.5)\nSerum phosphate: 3.4 mg/dL (ref 2.5-4.5)\nTSH: 2.1 µIU/mL (ref 0.4-4.0)\nHaemoglobin: 13.2 g/dL (ref 12.0-15.5)\nGAD-7 score: 12 (moderate anxiety)"
+    },
+    {
+      "memory_id": "X0139-m04",
+      "date": "2025-04-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "CT head (non‑contrast): No acute intracranial pathology; ventricles and sulci normal for age."
+    },
+    {
+      "memory_id": "X0139-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Vitamin D deficiency improving, migraine controlled, generalised anxiety disorder stable.\nPatient feels less fatigued, headaches reduced to 1‑2 per month, reports better sleep. Examination: vitals stable, no focal neurology. Smoking status: never. Spirometry not required. Vitamin D now sufficient; continue maintenance dose. Migraine prophylaxis effective; consider adding acute NSAID. Anxiety improved, GAD‑7 8. Review in 3 months."
+    },
+    {
+      "memory_id": "X0139-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "cholecalciferol 1000 IU OD\npropranolol 40 mg OD\nsumatriptan 50 mg SOS\ntopiramate 50 mg HS\nescitalopram 10 mg OD\nbuspirone 5 mg BD"
+    },
+    {
+      "memory_id": "X0139-m07",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 32 ng/mL (ref 30-100)\nSerum calcium: 9.4 mg/dL (ref 8.5-10.5)\nSerum phosphate: 3.6 mg/dL (ref 2.5-4.5)\nTSH: 1.9 µIU/mL (ref 0.4-4.0)\nHaemoglobin: 13.0 g/dL (ref 12.0-15.5)\nGAD-7 score: 8 (mild anxiety)"
+    },
+    {
+      "memory_id": "X0139-m08",
+      "date": "2025-10-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed that sumatriptan sometimes gives me a tight feeling in my chest after I take it, though it helps the headache. I’m worried because I have a history of hypertension (well controlled). Could we try something else for acute migraine attacks? Also, I’ve been feeling a bit more anxious lately when driving in heavy traffic around Whitefield."
+    },
+    {
+      "memory_id": "X0139-m09",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "cholecalciferol 1000 IU OD\npropranolol 40 mg OD\nsumatriptan 50 mg SOS (to be used with caution, monitor chest symptoms)\nrizatriptan 10 mg SOS (alternative if chest tightness recurs)\ntopiramate 50 mg HS\nescitalopram 10 mg OD\nbuspirone 5 mg BD\nnaproxen 500 mg SOS (for migraine analgesia, avoid if GI upset)"
+    },
+    {
+      "memory_id": "X0139-m10",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Diagnosis: Vitamin D deficiency maintained, migraine well‑controlled, generalised anxiety disorder stable.\nPatient reports no chest tightness with rizatriptan, headaches down to <1 per month. Driving anxiety improved with continued buspirone and escitalopram. Examination: vitals normal, no neurological signs. Smoking status: never. Spirometry not indicated. Continue current regimen; review in 6 months."
+    },
+    {
+      "memory_id": "X0139-m11",
+      "date": "2026-02-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 35 ng/mL (ref 30-100)\nSerum calcium: 9.5 mg/dL (ref 8.5-10.5)\nSerum phosphate: 3.7 mg/dL (ref 2.5-4.5)\nTSH: 2.0 µIU/mL (ref 0.4-4.0)\nHaemoglobin: 13.1 g/dL (ref 12.0-15.5)\nGAD-7 score: 7 (mild anxiety)"
+    },
+    {
+      "memory_id": "X0139-m12",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-09-15 at 10:30 am with Dr Suresh Menon (D05) in Pulmonology clinic."
+    }
+  ]
+}

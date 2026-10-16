@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0405",
+  "name": "Javed Ansari",
+  "age": 62,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Hypertension",
+    "Benign prostatic hyperplasia",
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0405-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine check‑up for hypertension, BPH and depressive symptoms.\n\nPRESENTING COMPLAINT: Mr reports occasional headaches, mild urinary frequency and low mood over the past month. He denies chest pain, palpitations or weight loss.\n\nEXAMINATION: BP 148/92 mmHg, pulse 78/min, regular. Weight 78 kg, height 1.68 m, BMI 27.6 (obese). Abdomen soft, prostate not enlarged on digital rectal exam. No focal neurological deficits.\n\nIMPRESSION: Hypertension stage 2, benign prostatic hyperplasia with mild lower urinary tract symptoms, depression moderate (PHQ‑9 to be checked). Labs ordered: fasting lipid profile, fasting blood sugar, serum creatinine/eGFR, potassium, PSA, urine routine, TSH, vitamin B12.\n\nARRANGEMENTS: Start amlodipine 5 mg OD, telmisartan 40 mg OD, tamsulosin 0.4 mg HS, sertraline 50 mg OD. Advise low‑salt diet, regular walking 30 min daily, weight reduction. Return if chest pain, breathlessness, fever >39 °C, or blood in stools. Influenza vaccine not due yet."
+    },
+    {
+      "memory_id": "X0405-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 5 mg OD\nTelmisartan 40 mg OD\nTamsulosin 0.4 mg HS\nSertraline 50 mg OD"
+    },
+    {
+      "memory_id": "X0405-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 210 mg/dL (<200 desirable), HDL 38 mg/dL (>40 desirable), LDL 130 mg/dL (<100 optimal), triglycerides 165 mg/dL (<150 normal).\nFasting blood sugar: 92 mg/dL (70‑100 normal).\nSerum creatinine: 1.1 mg/dL (0.6‑1.2), eGFR 68 mL/min/1.73m2 (>60).\nSerum potassium: 4.4 mmol/L (3.5‑5.0).\nPSA: 1.2 ng/mL (0‑4 normal).\nUrine routine: negative for leucocytes, nitrites, blood.\nTSH: 2.8 µIU/mL (0.4‑4.5).\nVitamin B12: 340 pg/mL (200‑900)."
+    },
+    {
+      "memory_id": "X0405-m04",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "ECG: Sinus rhythm, rate 76 bpm. No ST‑segment changes, no left ventricular hypertrophy. Normal ECG."
+    },
+    {
+      "memory_id": "X0405-m05",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Ultrasound KUB with post‑void residual: Prostate volume 22 mL (normal <20 mild enlargement). No hydronephrosis. Post‑void residual 25 mL (<50 normal)."
+    },
+    {
+      "memory_id": "X0405-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: 3‑month follow‑up of hypertension, BPH and depression.\n\nPRESENTING COMPLAINT: Headaches improved, urinary frequency unchanged, mood better but occasional fatigue.\n\nEXAMINATION: BP 132/84 mmHg, pulse 76/min. Weight 77 kg, height 1.68 m, BMI 27.3 (obese). Abdomen soft, prostate mildly enlarged on DRE.\n\nIMPRESSION: Hypertension controlled on current regimen. BPH symptoms stable. Depression improved (PHQ‑9 8). Labs show normal lipids, eGFR 66, K+ 4.3, PSA 1.3.\n\nARRANGEMENTS: Increase amlodipine to 5 mg BD, add finasteride 5 mg OD, continue telmisartan, tamsulosin, sertraline. Reinforce diet, activity, weight goal <75 kg. Return if chest pain, dyspnoea, fever >39 °C, gross hematuria, or worsening low mood. Influenza vaccine not yet due."
+    },
+    {
+      "memory_id": "X0405-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Amlodipine 5 mg BD\nTelmisartan 40 mg OD\nFinasteride 5 mg OD\nTamsulosin 0.4 mg HS\nSertraline 50 mg OD"
+    },
+    {
+      "memory_id": "X0405-m08",
+      "date": "2025-07-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 190 mg/dL, HDL 40 mg/dL, LDL 115 mg/dL, triglycerides 140 mg/dL.\nFasting blood sugar: 88 mg/dL.\nSerum creatinine: 1.0 mg/dL, eGFR 70 mL/min/1.73m2.\nSerum potassium: 4.3 mmol/L.\nPSA: 1.3 ng/mL.\nUrine routine: negative.\nTSH: 2.6 µIU/mL.\nVitamin B12: 350 pg/mL.\nPHQ‑9: 8 (mild depression)."
+    },
+    {
+      "memory_id": "X0405-m09",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Autumn review of hypertension, BPH and depression; influenza vaccine due.\n\nPRESENTING COMPLAINT: Occasional dizziness on standing, urinary frequency unchanged, mood stable.\n\nEXAMINATION: BP 138/88 mmHg, pulse 78/min. Weight 76 kg, height 1.68 m, BMI 26.9 (overweight). Abdomen soft, prostate mildly enlarged.\n\nIMPRESSION: Hypertension controlled, slight orthostatic dizziness possibly from amlodipine. BPH stable. Depression in remission (PHQ‑9 5). Labs: lipids improved, eGFR 68, K+ 4.2, PSA 1.4.\n\nARRANGEMENTS: Hold amlodipine morning dose, keep telmisartan 40 mg OD, add hydrochlorothiazide 12.5 mg OD for BP control, continue finasteride, tamsulosin, sertraline. Give influenza vaccine today (05‑Oct‑2025). Advise salt restriction, regular exercise, weight <70 kg. Return if chest pain, syncope, fever >39 °C, blood in urine, or worsening depression."
+    },
+    {
+      "memory_id": "X0405-m10",
+      "date": "2025-10-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Telmisartan 40 mg OD\nHydrochlorothiazide 12.5 mg OD\nFinasteride 5 mg OD\nTamsulosin 0.4 mg HS\nSertraline 50 mg OD"
+    },
+    {
+      "memory_id": "X0405-m11",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 185 mg/dL, HDL 41 mg/dL, LDL 110 mg/dL, triglycerides 130 mg/dL.\nFasting blood sugar: 90 mg/dL.\nSerum creatinine: 1.0 mg/dL, eGFR 69 mL/min/1.73m2.\nSerum potassium: 4.2 mmol/L.\nPSA: 1.4 ng/mL.\nUrine routine: negative.\nTSH: 2.5 µIU/mL.\nVitamin B12: 360 pg/mL.\nPHQ‑9: 5."
+    },
+    {
+      "memory_id": "X0405-m12",
+      "date": "2026-01-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 22‑Jan‑2026 at 10:00 AM with Dr Priya Natarajan (D03) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0405-m13",
+      "date": "2026-01-22",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Scheduled follow‑up; patient reports improved urinary flow, occasional nocturia.\n\nPRESENTING COMPLAINT: Better urinary stream, nocturia 1‑2 times/night, mood good, no dizziness.\n\nEXAMINATION: BP 130/82 mmHg, pulse 74/min. Weight 75 kg, height 1.68 m, BMI 26.5 (overweight). Abdomen soft, prostate mildly enlarged.\n\nIMPRESSION: Hypertension well controlled. BPH symptoms improved (IPSS down). Depression stable (PHQ‑9 4). Labs pending.\n\nARRANGEMENTS: Continue telmisartan 40 mg OD, hydrochlorothiazide 12.5 mg OD, finasteride 5 mg OD, tamsulosin 0.4 mg HS, sertraline 50 mg OD. Reinforce pelvic floor exercises, limit evening fluids. Return if chest pain, breathlessness, fever >39 °C, gross hematuria, or suicidal thoughts. Influenza vaccine already given."
+    },
+    {
+      "memory_id": "X0405-m14",
+      "date": "2026-01-22",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Telmisartan 40 mg OD\nHydrochlorothiazide 12.5 mg OD\nFinasteride 5 mg OD\nTamsulosin 0.4 mg HS\nSertraline 50 mg OD"
+    },
+    {
+      "memory_id": "X0405-m15",
+      "date": "2026-06-30",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Annual review of chronic conditions; influenza vaccine due for next season.\n\nPRESENTING COMPLAINT: Occasional fatigue, urinary frequency unchanged, mood stable.\n\nEXAMINATION: BP 128/80 mmHg, pulse 72/min. Weight 74 kg, height 1.68 m, BMI 26.2 (overweight). Abdomen soft, prostate mildly enlarged.\n\nIMPRESSION: Hypertension at target. BPH controlled. Depression in remission (PHQ‑9 3). Annual labs: lipids within normal, eGFR 71, K+ 4.1, PSA 1.5, TSH normal, B12 adequate.\n\nARRANGEMENTS: Continue current meds. Advise maintain weight <70 kg, daily walk, low‑salt diet. Give influenza vaccine today (30‑Jun‑2026). Return if chest pain, dyspnoea, fever >39 °C, blood in urine or stool, or worsening mood."
+    }
+  ]
+}

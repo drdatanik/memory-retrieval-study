@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0235",
+  "name": "Madhu Gupta",
+  "age": 63,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0235-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis, presenting with symmetrical joint pain and morning stiffness lasting >1 hour. Examination shows tender and swollen MCP and PIP joints bilaterally, no deformities. No respiratory symptoms. Smoking status: never. Spirometry: FEV1 2.80 L (92% pred), FVC 3.40 L (95% pred), FEV1/FVC 0.82; unchanged from baseline. ACT score 24 (well controlled). Technique checked: N/A (no inhaler). Plan: start DMARD therapy, baseline labs, review in 8 weeks."
+    },
+    {
+      "memory_id": "X0235-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Methotrexate 10 mg orally once weekly\nFolic acid 5 mg orally once weekly\nHydroxychloroquine 200 mg orally daily\nPrednisolone 5 mg orally daily"
+    },
+    {
+      "memory_id": "X0235-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 28 mm/hr (0-20)\nCRP 12 mg/L (<5)\nRheumatoid factor 45 IU/ml (<14)\nAnti-CCP 120 U/ml (<7)\nALT 22 U/L (7-56)\nAST 20 U/L (8-48)\nALP 78 U/L (40-129)\nGGT 30 U/L (9-64)\nTotal bilirubin 0.9 mg/dL (0.2-1.2)"
+    },
+    {
+      "memory_id": "X0235-m04",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-06-10 at 10:00 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0235-m05",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis, improved. Patient reports reduced joint pain, morning stiffness now 30 minutes. Examination: mild tenderness in wrists, no synovitis. Spirometry: FEV1 2.85 L (94% pred), FVC 3.45 L (96% pred), FEV1/FVC 0.83; change in FEV1 +0.05 L since last test. ACT score 24 (well controlled). Technique checked: N/A. Smoking status: never. Plan: taper prednisolone, continue other DMARDs."
+    },
+    {
+      "memory_id": "X0235-m06",
+      "date": "2025-06-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Methotrexate 10 mg orally once weekly\nFolic acid 5 mg orally once weekly\nHydroxychloroquine 200 mg orally daily\nPrednisolone 2.5 mg orally daily"
+    },
+    {
+      "memory_id": "X0235-m07",
+      "date": "2025-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 18 mm/hr (0-20)\nCRP 6 mg/L (<5)\nRheumatoid factor 42 IU/ml (<14)\nAnti-CCP 115 U/ml (<7)\nALT 24 U/L (7-56)\nAST 21 U/L (8-48)\nALP 80 U/L (40-129)\nGGT 28 U/L (9-64)\nTotal bilirubin 0.8 mg/dL (0.2-1.2)"
+    },
+    {
+      "memory_id": "X0235-m08",
+      "date": "2025-08-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'Morning stiffness returning, especially in fingers. Feeling a bit fatigued. Wondering if methotrexate could be causing nausea? Advice please.'"
+    },
+    {
+      "memory_id": "X0235-m09",
+      "date": "2025-08-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis, mild flare. Patient reports increased stiffness and fatigue, mild nausea on methotrexate. Examination: tender wrists and MCP joints, no swelling. Spirometry: FEV1 2.78 L (92% pred), FVC 3.38 L (94% pred), FEV1/FVC 0.82; change -0.07 L since last visit. ACT score 22 (well controlled). Technique checked: N/A. Smoking status: never. Plan: brief prednisolone boost, continue methotrexate with folic acid, consider splitting dose."
+    },
+    {
+      "memory_id": "X0235-m10",
+      "date": "2025-08-20",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Methotrexate 10 mg orally once weekly (take with food, split dose if nausea)\nFolic acid 5 mg orally once weekly\nHydroxychloroquine 200 mg orally daily\nPrednisolone 5 mg orally daily for 4 weeks, then taper to 2.5 mg daily"
+    },
+    {
+      "memory_id": "X0235-m11",
+      "date": "2025-08-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ESR 22 mm/hr (0-20)\nCRP 9 mg/L (<5)\nRheumatoid factor 44 IU/ml (<14)\nAnti-CCP 118 U/ml (<7)\nALT 27 U/L (7-56)\nAST 23 U/L (8-48)\nALP 82 U/L (40-129)\nGGT 31 U/L (9-64)\nTotal bilirubin 0.9 mg/dL (0.2-1.2)"
+    },
+    {
+      "memory_id": "X0235-m12",
+      "date": "2025-10-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Chest X-ray (PA): Lung fields clear, no infiltrates, pleural effusion, or fibrosis. Cardiac silhouette within normal limits. No acute abnormality."
+    },
+    {
+      "memory_id": "X0235-m13",
+      "date": "2025-10-05",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Rheumatology, Dr Kavita Rao, for optimisation of disease-modifying therapy in rheumatoid arthritis with recent flare. Please advise on additional DMARD or biologic consideration. Attach recent labs and imaging."
+    },
+    {
+      "memory_id": "X0235-m14",
+      "date": "2025-10-20",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Rheumatology review: Patient continues methotrexate, hydroxychloroquine, folic acid. Add sulfasalazine 500 mg twice daily, aim to titrate to 1 g BD. Prednisolone to be tapered further. Return in 8 weeks for review."
+    },
+    {
+      "memory_id": "X0235-m15",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Rheumatoid arthritis, stable on triple therapy. Patient reports minimal joint discomfort, morning stiffness <15 minutes. No nausea. Examination: no synovitis, mild tenderness in left wrist only. Spirometry: FEV1 2.82 L (93% pred), FVC 3.42 L (95% pred), FEV1/FVC 0.82; change +0.04 L since last test. ACT score 24 (well controlled). Technique checked: N/A. Smoking status: never. Plan: continue current meds, monitor LFT monthly."
+    },
+    {
+      "memory_id": "X0235-m16",
+      "date": "2026-02-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Methotrexate 10 mg orally once weekly\nFolic acid 5 mg orally once weekly\nHydroxychloroquine 200 mg orally daily\nSulfasalazine 500 mg orally twice daily (to increase to 1 g BD after 2 weeks)\nPrednisolone 2.5 mg orally daily"
+    },
+    {
+      "memory_id": "X0235-m17",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original slot 2026-08-15 moved to 2026-08-01 at 09:30 AM with Dr Suresh Menon (D05) for routine review."
+    }
+  ]
+}

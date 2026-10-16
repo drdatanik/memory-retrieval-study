@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0111",
+  "name": "Farooq Sheikh",
+  "age": 89,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Non-alcoholic fatty liver disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0111-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Non-alcoholic fatty liver disease.\nEvidence: ALT 68 U/L (ref 7-56), AST 45 U/L (ref 8-48), fasting triglycerides 210 mg/dL, HDL 38 mg/dL, LDL 130 mg/dL, platelet count 210 ×10^9/L. Abdominal ultrasound shows grade I hepatic steatosis, spleen normal.\nPatient reports occasional mild right upper quadrant heaviness and fatigue; examination reveals BMI 27 kg/m2, no hepatomegaly, no palpable spleen. Smoking status: former, 20 pack-years, quit 2010."
+    },
+    {
+      "memory_id": "X0111-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 5 mg OD\nDuration: 3 months"
+    },
+    {
+      "memory_id": "X0111-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 62 U/L (7-56), AST 42 U/L (8-48). Lipid Profile: Triglycerides 195 mg/dL (<150), HDL 40 mg/dL (>40), LDL 125 mg/dL (<130). Platelet Count: 212 ×10^9/L (150-400)."
+    },
+    {
+      "memory_id": "X0111-m04",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been feeling a bit more tired lately, especially after long days at the flower shop. No new pain or jaundice."
+    },
+    {
+      "memory_id": "X0111-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Non-alcoholic fatty liver disease.\nEvidence: ALT 48 U/L (7-56), AST 36 U/L (8-48), triglycerides 165 mg/dL, HDL 42 mg/dL, LDL 118 mg/dL, platelet count 215 ×10^9/L. Ultrasound shows unchanged grade I steatosis.\nPatient denies worsening fatigue or abdominal discomfort; exam: BMI 27 kg/m2, liver edge not palpable, no splenomegaly. Smoking status: former, 20 pack-years, quit 2010."
+    },
+    {
+      "memory_id": "X0111-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 10 mg OD\nDuration: 3 months"
+    },
+    {
+      "memory_id": "X0111-m07",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 50 U/L (7-56), AST 38 U/L (8-48). Lipid Profile: Triglycerides 158 mg/dL, HDL 43 mg/dL, LDL 115 mg/dL. Platelet Count: 218 ×10^9/L."
+    },
+    {
+      "memory_id": "X0111-m08",
+      "date": "2025-09-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked with Dr Suresh Menon for 2025-10-05 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0111-m09",
+      "date": "2025-10-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Abdominal ultrasound: liver shows grade I-II hepatic steatosis, no focal lesions, portal vein normal, spleen size 11 cm."
+    },
+    {
+      "memory_id": "X0111-m10",
+      "date": "2025-11-15",
+      "type": "referral",
+      "author": "D05",
+      "text": "Referral to Dr Priya Nair, Hepatology, Vikram Hospital, for further evaluation of NAFLD progression and possible fibrosis assessment."
+    },
+    {
+      "memory_id": "X0111-m11",
+      "date": "2025-12-10",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Hepatology consult: FibroScan shows CAP 260 dB/m, EID 6.8 kPa (F1-F2). Recommend continue lifestyle, silymarin, and consider vitamin E. No pharmacologic therapy change advised."
+    },
+    {
+      "memory_id": "X0111-m12",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Non-alcoholic fatty liver disease.\nEvidence: ALT 78 U/L (7-56), AST 55 U/L (8-48), triglycerides 220 mg/dL, HDL 36 mg/dL, LDL 138 mg/dL, platelet count 202 ×10^9/L. Ultrasound shows grade II steatosis, mild splenomegaly 12 cm.\nPatient reports mild right upper quadrant discomfort after meals and increased fatigue; exam: BMI 28 kg/m2, liver edge palpable 2 cm below costal margin, spleen palpable. Smoking status: former, 20 pack-years, quit 2010."
+    },
+    {
+      "memory_id": "X0111-m13",
+      "date": "2026-02-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "silymarin 140 mg TDS\nrosuvastatin discontinued\nDuration: continue silymarin indefinitely"
+    },
+    {
+      "memory_id": "X0111-m14",
+      "date": "2026-04-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 52 U/L (7-56), AST 38 U/L (8-48). Lipid Profile: Triglycerides 170 mg/dL, HDL 41 mg/dL, LDL 120 mg/dL. Platelet Count: 210 ×10^9/L."
+    },
+    {
+      "memory_id": "X0111-m15",
+      "date": "2026-08-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Non-alcoholic fatty liver disease.\nEvidence: ALT 45 U/L (7-56), AST 34 U/L (8-48), triglycerides 150 mg/dL, HDL 44 mg/dL, LDL 112 mg/dL, platelet count 215 ×10^9/L. Ultrasound shows grade I steatosis, spleen normal size.\nPatient denies any abdominal pain or fatigue; exam: BMI 27 kg/m2, liver edge not palpable, no splenomegaly. Smoking status: former, 20 pack-years, quit 2010."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "patient_id": "X0091",
+  "name": "Amudha Velu",
+  "age": 42,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Non-alcoholic fatty liver disease",
+    "Benign positional vertigo",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0091-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient presents with non‑alcoholic fatty liver disease, benign positional vertigo, and newly diagnosed hypothyroidism.\nShe reports fatigue, mild right upper quadrant discomfort, brief vertigo episodes on turning head in bed, weight gain of 4 kg over 3 months, and cold intolerance. Examination shows BMI 28 kg/m², mild tenderness in the right hypochondrium, positive Dix‑Hallpike on the left with torsional nystagmus, dry skin, and delayed ankle reflexes. No inhaler prescribed; technique checked: not applicable. Smoking status: never. Plan: lifestyle advice for NAFLD, start silymarin and rosuvastatin, betahistine for vertigo with meclizine SOS, levothyroxine 50 mcg OD for hypothyroidism, and arrange LFT, lipid panel, TSH, free T4, platelet count, and abdominal ultrasound."
+    },
+    {
+      "memory_id": "X0091-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "silymarin 140 mg tablet, take one tablet three times daily for 12 weeks.\nrosuvastatin 5 mg tablet, take one tablet once daily for 12 weeks.\nbetahistine 16 mg tablet, take one tablet twice daily for 12 weeks.\nmeclizine 25 mg tablet, take one tablet as needed for vertigo, not exceeding three times daily.\nlevothyroxine 50 mcg tablet, take one tablet once daily for 12 weeks."
+    },
+    {
+      "memory_id": "X0091-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 38 U/L (≤41), AST 34 U/L (≤37). Lipid Profile: Total cholesterol 190 mg/dL (<200), LDL 110 mg/dL (<130), HDL 48 mg/dL (>40), Triglycerides 150 mg/dL (<150). Thyroid: TSH 6.2 mIU/L (0.4‑4.0), Free T4 0.9 ng/dL (0.8‑1.8). Platelet count 225 ×10⁹/L (150‑400)."
+    },
+    {
+      "memory_id": "X0091-m04",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Abdominal ultrasound: liver shows diffuse hepatic steatosis with mild hepatomegaly (span 15 cm), no focal lesions, normal gallbladder, portal vein patent, spleen normal size."
+    },
+    {
+      "memory_id": "X0091-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient stable on current therapy for NAFLD, vertigo, and hypothyroidism.\nShe notes reduced vertigo frequency (1‑2 episodes/week), mild right upper quadrant discomfort unchanged, weight stable, and improved energy on levothyroxine. Examination: BMI 27.8 kg/m², no hepatomegaly tenderness, Dix‑Hallpike negative, skin less dry, reflexes normal. No inhaler prescribed; technique checked: not applicable. Smoking status: never. Plan: continue silymarin, rosuvastatin, betahistine, meclizine SOS; increase levothyroxine to 75 mcg OD due to TSH 6.2; repeat LFT, lipid, TSH, free T4 in 6 weeks."
+    },
+    {
+      "memory_id": "X0091-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "silymarin 140 mg tablet, take one tablet three times daily.\nrosuvastatin 5 mg tablet, take one tablet once daily.\nbetahistine 16 mg tablet, take one tablet twice daily.\nmeclizine 25 mg tablet, take one tablet as needed for vertigo.\nlevothyroxine 75 mcg tablet, take one tablet once daily."
+    },
+    {
+      "memory_id": "X0091-m07",
+      "date": "2025-07-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Liver Function Test: ALT 32 U/L (≤41), AST 30 U/L (≤37). Lipid Profile: Total cholesterol 182 mg/dL (<200), LDL 106 mg/dL (<130), HDL 50 mg/dL (>40), Triglycerides 138 mg/dL (<150). Thyroid: TSH 4.8 mIU/L (0.4‑4.0), Free T4 1.0 ng/dL (0.8‑1.8). Platelet count 230 ×10⁹/L (150‑400)."
+    },
+    {
+      "memory_id": "X0091-m08",
+      "date": "2025-10-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient doing well; NAFLD improving, vertigo controlled, euthyroid on levothyroxine 75 mcg.\nShe reports no vertigo episodes in past month, mild right upper quadrant discomfort only after heavy meals, weight down 2 kg, and feels energetic. Examination: BMI 27.2 kg/m², liver edge not tender, Dix‑Hallpike negative, skin normal, reflexes brisk. No inhaler prescribed; technique checked: not applicable. Smoking status: never. Plan: continue silymarin, rosuvastatin, betahistine, meclizine SOS; maintain levothyroxine 75 mcg OD; repeat LFT, lipid, TSH, free T4 in 3 months; schedule next review."
+    },
+    {
+      "memory_id": "X0091-m09",
+      "date": "2025-10-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "silymarin 140 mg tablet, take one tablet three times daily.\nrosuvastatin 5 mg tablet, take one tablet once daily.\nbetahistine 16 mg tablet, take one tablet twice daily.\nmeclizine 25 mg tablet, take one tablet as needed for vertigo.\nlevothyroxine 75 mcg tablet, take one tablet once daily."
+    },
+    {
+      "memory_id": "X0091-m10",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-02-14 at 09:30 with Dr Suresh Menon (D05) in Pulmonology clinic."
+    },
+    {
+      "memory_id": "X0091-m11",
+      "date": "2026-02-14",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient returns for routine review; NAFLD stable, vertigo absent, thyroid euthyroid.\nShe denies vertigo, reports occasional mild epigastric discomfort after fatty meals, weight stable, and feels well. Examination: BMI 27.0 kg/m², liver non‑tender, Dix‑Hallpike negative, skin normal, reflexes normal. No inhaler prescribed; technique checked: not applicable. Smoking status: never. Plan: continue silymarin, rosuvastatin, betahistine (reduce to OD as prophylaxis), meclizine SOS only; maintain levothyroxine 75 mcg OD; repeat LFT, lipid, TSH, free T4 in 6 months; consider FibroScan if ALT rises."
+    },
+    {
+      "memory_id": "X0091-m12",
+      "date": "2026-02-14",
+      "type": "prescription",
+      "author": "D05",
+      "text": "silymarin 140 mg tablet, take one tablet three times daily.\nrosuvastatin 5 mg tablet, take one tablet once daily.\nbetahistine 16 mg tablet, take one tablet once daily.\nmeclizine 25 mg tablet, take one tablet as needed for vertigo.\nlevothyroxine 75 mcg tablet, take one tablet once daily."
+    }
+  ]
+}

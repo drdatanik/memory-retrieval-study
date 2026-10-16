@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0234",
+  "name": "Prakash Kamath",
+  "age": 19,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Sciatica",
+    "Epilepsy",
+    "Vitamin D deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0234-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Sciatica: acute radicular pain L5-S1, straight leg raise positive 40°. Plan: start pregabalin 75 mg BD, diclofenac 50 mg BD after food, methylcobalamin 1500 mcg OD; order MRI lumbar spine.\nEpilepsy: on levetiracetam 500 mg BD, lamotrigine 50 mg BD, seizure-free 6 months. Plan: continue, check serum sodium, creatinine.\nVitamin D deficiency: symptomatic fatigue. Plan: cholecalciferol 60000 IU once weekly for 8 weeks then 1000 IU OD; check serum 25-OH vit D, calcium, phosphate.\nDue: HbA1c 2025-07-05."
+    },
+    {
+      "memory_id": "X0234-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg BD after food\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD after food\n levetiracetam 500 mg BD\n lamotrigine 50 mg BD\n cholecalciferol 60000 IU once weekly for 8 doses"
+    },
+    {
+      "memory_id": "X0234-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 12 ng/mL (ref 20-50)\n Serum calcium: 8.9 mg/dL (ref 8.5-10.5)\n Serum phosphate: 2.4 mg/dL (ref 2.5-4.5)\n Serum sodium: 138 mmol/L (ref 135-145)\n Serum creatinine: 0.9 mg/dL (ref 0.6-1.2)\n HbA1c: 5.6% (ref 4-5.6)"
+    },
+    {
+      "memory_id": "X0234-m04",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D04",
+      "text": "MRI lumbar spine: L5-S1 disc protrusion causing ventral thecal sac compression, no cord signal change. Correlates with sciatica."
+    },
+    {
+      "memory_id": "X0234-m05",
+      "date": "2025-04-09",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: background activity normal, no epileptiform discharges. No seizure focus identified."
+    },
+    {
+      "memory_id": "X0234-m06",
+      "date": "2025-05-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Sciatica pain down right leg improved after 5 days of meds, still occasional tingling. No new seizures. Feel less tired after starting vitamin D. No side effects noticed."
+    },
+    {
+      "memory_id": "X0234-m07",
+      "date": "2025-06-15",
+      "type": "allergy",
+      "author": "D04",
+      "text": "Allergy: penicillin - rash and pruritus within 30 min of oral dose in childhood. Avoid beta-lactams."
+    },
+    {
+      "memory_id": "X0234-m08",
+      "date": "2025-07-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Sciatica: pain reduced to 2/10, straight leg raise 60°. Continue pregabalin, diclofenac as needed.\nEpilepsy: seizure-free, labs normal. Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD.\nVitamin D deficiency: after 8 weeks loading, level 28 ng/mL. Switch to maintenance cholecalciferol 1000 IU OD.\nWeight 62 kg, waist 78 cm (male cut-off 90 cm).\nDue: HbA1c 2025-10-12, lipid profile 2025-10-12."
+    },
+    {
+      "memory_id": "X0234-m09",
+      "date": "2025-07-13",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg BD after food\n diclofenac 50 mg BD after food\n methylcobalamin 1500 mcg OD after food\n levetiracetam 500 mg BD\n lamotrigine 50 mg BD\n cholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0234-m10",
+      "date": "2025-07-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum 25-hydroxyvitamin D: 28 ng/mL (ref 20-50)\n Serum calcium: 9.2 mg/dL (ref 8.5-10.5)\n Serum phosphate: 3.0 mg/dL (ref 2.5-4.5)\n HbA1c: 5.5% (ref 4-5.6)\n Lipids: total cholesterol 165 mg/dL (<200), LDL 95 mg/dL (<130), HDL 42 mg/dL (>40), triglycerides 110 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0234-m11",
+      "date": "2025-09-20",
+      "type": "referral",
+      "author": "D04",
+      "text": "Refer to Physiotherapy Department, Sunrise Family Clinic for core strengthening and lumbar stabilization for persistent mild sciatica. Advise 6 sessions over 8 weeks."
+    },
+    {
+      "memory_id": "X0234-m12",
+      "date": "2025-09-21",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Physiotherapy report: patient attended 5/6 sessions, reports pain 1/10, improved flexion, home exercise plan provided. No adverse events."
+    },
+    {
+      "memory_id": "X0234-m13",
+      "date": "2026-02-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Sciatica: asymptomatic, straight leg raise 80°. Continue pregabalin as needed for breakthrough pain.\nEpilepsy: seizure-free 8 months, medication tolerance good. Continue current regimen.\nVitamin D deficiency: maintained on 1000 IU OD, level 30 ng/mL.\nWeight 63 kg, waist 80 cm (male cut-off 90).\nDue: HbA1c 2026-05-05, repeat vitamin D 2026-05-05."
+    },
+    {
+      "memory_id": "X0234-m14",
+      "date": "2026-02-06",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pregabalin 75 mg BD after food\n diclofenac 50 mg BD after food (prn)\n methylcobalamin 1500 mcg OD after food\n levetiracetam 500 mg BD\n lamotrigine 50 mg BD\n cholecalciferol 1000 IU OD"
+    },
+    {
+      "memory_id": "X0234-m15",
+      "date": "2026-02-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c: 5.4% (ref 4-5.6)\n Serum 25-hydroxyvitamin D: 30 ng/mL (ref 20-50)\n Serum calcium: 9.3 mg/dL (ref 8.5-10.5)\n Serum phosphate: 3.1 mg/dL (ref 2.5-4.5)"
+    },
+    {
+      "memory_id": "X0234-m16",
+      "date": "2026-06-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-10-15 09:30 with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0234-m17",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Sciatica: no flare, straight leg raise 85°. Continue pregabalin PRN.\nEpilepsy: seizure-free >1 year, meds well tolerated. Continue levetiracetam 500 mg BD, lamotrigine 50 mg BD.\nVitamin D deficiency: level 32 ng/mL on maintenance 1000 IU OD.\nWeight 64 kg, waist 82 cm (male cut-off 90).\nLipids (from 2025-07-14) stable.\nDue: HbA1c 2027-01-01 (patient to be recalled if needed)."
+    }
+  ]
+}

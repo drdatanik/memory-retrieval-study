@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0309",
+  "name": "Sharmila Roy",
+  "age": 19,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Psoriasis",
+    "Irritable bowel syndrome"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0309-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Visit for newly diagnosed psoriasis and irritable bowel syndrome.\nPRESENTING COMPLAINT: She reports scaly plaques on elbows and knees for 3 months and intermittent abdominal bloating with loose stools after meals.\nEXAMINATION: BP 118/76 mmHg, weight 52 kg, height 1.58 m, BMI 20.8 (normal). Plaques are erythematous with silvery scale, Auspitz sign positive. Abdomen soft, non‑tender, no masses.\nIMPRESSION: Plaque psoriasis, mild. IBS‑diarrhoea subtype likely.\nARRANGEMENTS: Start clobetasol 0.05% cream BD to plaques, calcipotriol ointment OD, methotrexate 7.5 mg weekly with folic acid 5 mg OD. For IBS: mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS. Return if: worsening skin lesions, joint pain, fever >38.5°C, bloody stools, or severe abdominal pain. Influenza vaccine offered today, patient declined."
+    },
+    {
+      "memory_id": "X0309-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "clobetasol 0.05% cream – apply BD to affected areas – 4 weeks\ncalcipotriol ointment – apply OD – 4 weeks\nmethotrexate 7.5 mg – take once weekly – 12 weeks\nfolic acid 5 mg – take OD – 12 weeks\nmebeverine 135 mg – take BD – 8 weeks\nispaghula husk 5 g – take OD with water – 8 weeks\nloperamide 2 mg – take SOS after loose stool – 8 weeks"
+    },
+    {
+      "memory_id": "X0309-m03",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 28 U/L (≤40), AST 24 U/L (≤37), ALP 78 U/L (30‑120), bilirubin 0.6 mg/dL (0.2‑1.2). CBC: Hb 12.8 g/dL (12‑16), WBC 6.2×10⁹/L (4‑10), platelets 210×10⁹/L (150‑400). Creatinine 0.7 mg/dL (0.5‑0.9). Stool routine: ova and cysts nil, pus cells 0‑1/hpf. tTG‑IgA: <2 U/mL (negative <7)."
+    },
+    {
+      "memory_id": "X0309-m04",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of labs and symptom control.\nPRESENTING COMPLAINT: Psoriasis plaques less erythematous, mild itching; IBS symptoms unchanged, occasional bloating.\nEXAMINATION: BP 122/78 mmHg, weight 53 kg, BMI 21.2 (normal). Plaques show reduced scale, no new lesions. Abdomen benign.\nIMPRESSION: Psoriasis improving on current regimen; LFTs normal. IBS stable.\nARRANGEMENTS: Reduce methotrexate to 5 mg weekly due to mild transaminitis trend, keep folic acid 5 mg OD. Continue topicals and IBS meds. Return if: skin flare, joint swelling, fever >38.5°C, mucus/blood in stool, or worsening abdominal pain. Influenza vaccine offered, patient declined."
+    },
+    {
+      "memory_id": "X0309-m05",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "methotrexate 5 mg – take once weekly – 12 weeks\nfolic acid 5 mg – take OD – 12 weeks\n(clobetasol, calcipotriol, mebeverine, ispaghula husk, loperamide unchanged)"
+    },
+    {
+      "memory_id": "X0309-m06",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up after 3 months.\nPRESENTING COMPLAINT: Patient reports clear skin, minimal itching; IBS symptoms well controlled with occasional use of loperamide.\nEXAMINATION: BP 119/76 mmHg, weight 54 kg, BMI 21.6 (normal). No active plaques, slight post‑inflammatory hypopigmentation. Abdomen soft, non‑tender.\nIMPRESSION: Psoriasis in remission; IBS controlled.\nARRANGEMENTS: Continue current meds. Give influenza vaccine today (0.5 mL IM) – patient accepted. Return if: new plaques, joint pain, fever >38.5°C, blood/mucus in stool, or severe abdominal discomfort."
+    },
+    {
+      "memory_id": "X0309-m07",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Influenza vaccine – 0.5 mL IM – given today\n(clobetasol 0.05% cream BD, calcipotriol ointment OD, methotrexate 5 mg weekly, folic acid 5 mg OD, mebeverine 135 mg BD, ispaghula husk 5 g OD, loperamide 2 mg SOS)"
+    },
+    {
+      "memory_id": "X0309-m08",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 22 U/L, AST 20 U/L, ALP 75 U/L, bilirubin 0.5 mg/dL. CBC: Hb 13.0 g/dL, WBC 5.8×10⁹/L, platelets 205×10⁹/L. Creatinine 0.68 mg/dL. Stool routine: normal. tTG‑IgA: <2 U/mL (negative)."
+    },
+    {
+      "memory_id": "X0309-m09",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of normal labs and disease status.\nPRESENTING COMPLAINT: Skin remains clear; IBS symptoms occasional, well managed.\nEXAMINATION: BP 120/77 mmHg, weight 55 kg, BMI 22.0 (normal). No lesions, no mucosal changes.\nIMPRESSION: Psoriasis remission; IBS stable. Labs normal.\nARRANGEMENTS: Increase methotrexate back to 7.5 weekly, continue folic acid 5 mg OD. Continue topicals as needed PRN. IBS meds unchanged. Return if: skin plaques reappear, joint swelling, fever >38.5°C, blood/mucus in stool, or worsening abdominal pain. Influenza vaccine status: up‑to‑date (given Oct 2025)."
+    },
+    {
+      "memory_id": "X0309-m10",
+      "date": "2026-01-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "methotrexate 7.5 mg – take once weekly – 12 weeks\nfolic acid 5 mg – take OD – 12 weeks\n(other meds unchanged)"
+    },
+    {
+      "memory_id": "X0309-m11",
+      "date": "2026-04-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed a few red, itchy patches on my scalp and behind my ears over the past week. My bowel habits are fine, just occasional bloating after lunch."
+    },
+    {
+      "memory_id": "X0309-m12",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Visit for scalp psoriasis flare.\nPRESENTING COMPLAINT: New itchy plaques on scalp and retroauricular area for 7 days; IBS unchanged.\nEXAMINATION: BP 121/78 mmHg, weight 56 kg, BMI 22.4 (normal). Scalp shows erythematous patches with fine scale; retroauricular mild erythema. No lesions elsewhere.\nIMPRESSION: Limited scalp psoriasis flare.\nARRANGEMENTS: Increase clobetasol to BD on scalp for 2 weeks, then wean. Continue other topicals and systemic methotrexate. IBS meds unchanged. Return if: rapid spread, pain, fever >38.5°C, or worsening bowel symptoms with blood/mucus."
+    },
+    {
+      "memory_id": "X0309-m13",
+      "date": "2026-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "clobetasol 0.05% cream – apply BD to scalp lesions – 2 weeks then taper to OD\n(calcipotriol, methotrexate, folic acid, mebeverine, ispaghula husk, loperamide unchanged)"
+    },
+    {
+      "memory_id": "X0309-m14",
+      "date": "2026-07-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-08-12 at 10:30 am with Dr Priya Natarajan (D03) for routine follow‑up. Patient confirmed via clinic app."
+    }
+  ]
+}

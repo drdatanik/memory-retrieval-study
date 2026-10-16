@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0259",
+  "name": "Sachin Bhosale",
+  "age": 82,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Osteoporosis",
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0259-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoporosis and stage 3b chronic kidney disease.\nPatient denies bone pain or dyspnea. BP 138/86 mmHg, mild bilateral ankle edema, lungs clear. Never smoked; inhaler technique not applicable. Labs show elevated creatinine, reduced eGFR, mild albuminuria, low vitamin D and osteoporotic T‑score."
+    },
+    {
+      "memory_id": "X0259-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Alendronate 70 mg oral once weekly\nCalcium carbonate 500 mg oral twice daily with vitamin D3 400 IU\nTelmisartan 40 mg oral once daily\nDapagliflozin 10 mg oral once daily\nFurosemide 20 mg oral once daily\nSodium bicarbonate 500 mg oral twice daily\nContinue until review."
+    },
+    {
+      "memory_id": "X0259-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.8 mg/dL (0.6-1.2); eGFR 38 mL/min/1.73m2 (>60); urine albumin‑creatinine ratio 45 mg/g (<30); hemoglobin 11.2 g/dL (13.0‑17.0); serum calcium 8.9 mg/dL (8.5‑10.5); serum 25‑OH vitamin D 18 ng/mL (30‑100); DEXA lumbar spine T‑score –2.8."
+    },
+    {
+      "memory_id": "X0259-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoporosis and chronic kidney disease stable.\nReports occasional calf cramps, no new edema. BP 142/88, trace pedal edema, lungs clear. Never smoked; inhaler technique not applicable. Adjusted furosemide for volume control."
+    },
+    {
+      "memory_id": "X0259-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Alendronate 70 mg oral once weekly\nCalcium carbonate 500 mg oral twice daily with vitamin D3 400 IU\nTelmisartan 40 mg oral once daily\nDapagliflozin 10 mg oral once daily\nFurosemide 40 mg oral once daily\nSodium bicarbonate 500 mg oral twice daily\nContinue until review."
+    },
+    {
+      "memory_id": "X0259-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.7 mg/dL (0.6-1.2); eGFR 40 mL/min/1.73m2 (>60); urine albumin‑creatinine ratio 38 mg/g (<30); hemoglobin 11.8 g/dL (13.0‑17.0); serum calcium 9.2 mg/dL (8.5‑10.5); serum 25‑OH vitamin D 22 ng/mL (30‑100)."
+    },
+    {
+      "memory_id": "X0259-m07",
+      "date": "2025-10-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-22 09:30 with Dr Suresh Menon (D05) for routine review."
+    },
+    {
+      "memory_id": "X0259-m08",
+      "date": "2025-10-22",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"Over the past week I’ve noticed more swelling in my ankles and feel a bit tired after climbing stairs.\""
+    },
+    {
+      "memory_id": "X0259-m09",
+      "date": "2025-10-25",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease with worsening fluid retention.\nAnkle edema 2+ bilaterally, mild fatigue, BP 150/92, lungs clear. Never smoked; inhaler technique not applicable. Consider reducing sodium bicarbonate due to metabolic alkalosis risk."
+    },
+    {
+      "memory_id": "X0259-m10",
+      "date": "2025-10-25",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Alendronate 70 mg oral once weekly\nCalcium carbonate 500 mg oral twice daily with vitamin D3 400 IU\nTelmisartan 40 mg oral once daily\nDapagliflozin 10 mg oral once daily\nFurosemide 40 mg oral once daily\nSodium bicarbonate 250 mg oral twice daily\nContinue until review."
+    },
+    {
+      "memory_id": "X0259-m11",
+      "date": "2026-02-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 2.0 mg/dL (0.6-1.2); eGFR 35 mL/min/1.73m2 (>60); urine albumin‑creatinine ratio 50 mg/g (<30); hemoglobin 11.0 g/dL (13.0‑17.0); serum calcium 9.0 mg/dL (8.5‑10.5); serum 25‑OH vitamin D 24 ng/mL (30‑100); DEXA lumbar spine T‑score –2.6."
+    },
+    {
+      "memory_id": "X0259-m12",
+      "date": "2026-08-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoporosis and chronic kidney disease, mild progression.\nNo new fractures, ankle edema 1+, BP 148/90, lungs clear. Never smoked; inhaler technique not applicable. Continue current regimen, monitor labs in 3 months."
+    }
+  ]
+}

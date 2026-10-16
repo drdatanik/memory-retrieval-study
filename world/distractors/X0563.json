@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0563",
+  "name": "Archana Bhosale",
+  "age": 80,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Generalised anxiety disorder",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0563-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder and rheumatoid arthritis.\nPatient reports persistent worry, muscle tension, and joint stiffness especially in mornings. Exam shows mild tachycardia, tender swollen MCP and PIP joints bilaterally, no synovial warmth. Spirometry performed: FEV1 2.8 L (92% predicted), FVC 3.2 L, FEV1/FVC 0.88; change since prior test not applicable. Smoking status: never. Inhaler technique: not applicable. Asthma Control Test not applicable."
+    },
+    {
+      "memory_id": "X0563-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "escitalopram 5 mg OD\nbuspirone 5 mg BD\nmethotrexate 10 mg once weekly\nfolic acid 5 mg once weekly\nhydroxychloroquine 200 mg OD\nprednisolone 5 mg OD"
+    },
+    {
+      "memory_id": "X0563-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "GAD-7 score: 12 (moderate anxiety)\nTSH: 2.1 mIU/L (0.4-4.0)\nHaemoglobin: 12.8 g/dL (12.0-15.5)\nESR: 28 mm/hr (0-20)\nCRP: 6 mg/L (<5)\nRheumatoid factor: 45 IU/ml (<14)\nAnti-CCP: 68 U/ml (<20)\nLiver function test: ALT 22 U/L (<35), AST 20 U/L (<34), ALP 78 U/L (40-129), bilirubin 0.9 mg/dL (0.2-1.2)"
+    },
+    {
+      "memory_id": "X0563-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder partially controlled; rheumatoid arthritis active.\nPatient notes reduced worry but still reports fatigue and morning stiffness lasting >1 hour. Joint exam: swelling and tenderness in wrists and MCP joints, mild synovial thickening. Spirometry: FEV1 2.9 L (95% predicted), FVC 3.3 L, FEV1/FVC 0.88; ΔFEV1 +0.1 L since last test. Smoking status: never. Inhaler technique: not applicable. Asthma Control Test not applicable."
+    },
+    {
+      "memory_id": "X0563-m05",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate increased to 15 mg once weekly\nfolic acid unchanged 5 mg once weekly\n hydroxychloroquine unchanged 200 mg OD\nprednisolone tapered to 7.5 mg OD\nescitalopram unchanged 5 mg OD\nbuspirone unchanged 5 mg BD"
+    },
+    {
+      "memory_id": "X0563-m06",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "GAD-7 score: 9 (mild anxiety)\nTSH: 2.0 mIU/L\nHaemoglobin: 13.0 g/dL\nESR: 22 mm/hr\nCRP: 4 mg/L\nRheumatoid factor: 48 IU/ml\nAnti-CCP: 70 U/ml\nLiver function test: ALT 24 U/L, AST 21 U/L, ALP 80 U/L, bilirubin 0.8 mg/dL"
+    },
+    {
+      "memory_id": "X0563-m07",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been feeling nauseous after taking methotrexate on Mondays, and my stomach feels upset. The anxiety is better but I still get occasional palpitations."
+    },
+    {
+      "memory_id": "X0563-m08",
+      "date": "2025-10-01",
+      "type": "referral",
+      "author": "D05",
+      "text": "Refer to Rheumatology for evaluation of persistent rheumatoid arthritis activity despite methotrexate 15 mg weekly and low-dose prednisolone. Request advice on disease-modifying therapy optimisation and possible biologics."
+    },
+    {
+      "memory_id": "X0563-m09",
+      "date": "2025-11-15",
+      "type": "referral_outcome",
+      "author": "D05",
+      "text": "Rheumatology review: patient continues to have active synovitis; recommend adding sulfasalazine 500 mg BD and consider tapering prednisolone further. Continue methotrexate 15 mg weekly with folic acid. Repeat labs in 4 weeks."
+    },
+    {
+      "memory_id": "X0563-m10",
+      "date": "2026-02-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder well controlled; rheumatoid arthritis showing improvement after sulfasalazine initiation.\nPatient reports worry minimal, GAD-7 5. Joint exam: reduced swelling, tenderness mild in wrists. Spirometry: FEV1 3.0 L (98% predicted), FVC 3.4 L, FEV1/FVC 0.88; ΔFEV1 +0.1 L. Smoking status: never. Inhaler technique: not applicable. Asthma Control Test not applicable."
+    },
+    {
+      "memory_id": "X0563-m11",
+      "date": "2026-02-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "sulfasalazine 500 mg BD added\nmethotrexate unchanged 15 mg weekly\nfolic acid unchanged 5 mg weekly\nhydroxychloroquine unchanged 200 mg OD\nprednisolone tapered to 5 mg OD\nescitalopram unchanged 5 mg OD\nbuspirone unchanged 5 mg BD"
+    },
+    {
+      "memory_id": "X0563-m12",
+      "date": "2026-03-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "GAD-7 score: 4 (minimal anxiety)\nTSH: 2.1 mIU/L\nHaemoglobin: 13.2 g/dL\nESR: 14 mm/hr\nCRP: 2 mg/L\nRheumatoid factor: 46 IU/ml\nAnti-CCP: 65 U/ml\nLiver function test: ALT 20 U/L, AST 19 U/L, ALP 75 U/L, bilirubin 0.7 mg/dL"
+    },
+    {
+      "memory_id": "X0563-m13",
+      "date": "2026-04-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for review with Dr Suresh Menon on 2026-09-30 at 10:30 AM."
+    },
+    {
+      "memory_id": "X0563-m14",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Generalised anxiety disorder in remission; rheumatoid arthritis stable on low-dose prednisolone.\nPatient denies anxiety symptoms, GAD-7 3. Joints non-tender, no swelling. Spirometry: FEV1 3.1 L (100% predicted), FVC 3.5 L, FEV1/FVC 0.88; ΔFEV1 +0.1 L. Smoking status: never. Inhaler technique: not applicable. Asthma Control Test not applicable."
+    },
+    {
+      "memory_id": "X0563-m15",
+      "date": "2026-10-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "GAD-7 score: 3\nTSH: 2.0 mIU/L\nHaemoglobin: 13.3 g/dL\nESR: 10 mm/hr\nCRP: 1 mg/L\nRheumatoid factor: 44 IU/ml\nAnti-CCP: 60 U/ml\nLiver function test: ALT 18 U/L, AST 17 U/L, ALP 70 U/L, bilirubin 0.6 mg/dL"
+    }
+  ]
+}

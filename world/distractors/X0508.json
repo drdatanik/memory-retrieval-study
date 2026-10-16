@@ -1,0 +1,131 @@
+{
+  "patient_id": "X0508",
+  "name": "Manoj Kapoor",
+  "age": 75,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Chronic urticaria"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0508-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent with ADLs, walks unaided around home, manages pharmacy work part‑time.\ncognition: Mini‑Cog 4/5 (negative screen).\nfalls: No falls in past 12 months, gait steady, timed up‑and‑go 9 seconds (normal).\nmedicines: 2 regular (levocetirizine 5 mg OD, cetirizine 10 mg HS). Not polypharmacy.\nmood: Reports occasional irritability during flare, denies depression.\ncarers: Priya, daughter.\ngoals: \"Stay symptom‑free and keep working at the pharmacy.\""
+    },
+    {
+      "memory_id": "X0508-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg OD\ncetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0508-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: WBC 6.8×10⁹/L, neutrophils 4.2, lymphocytes 2.0, eosinophils 0.4×10⁹/L (ref 0.0‑0.5).\nTSH 2.1 mIU/L (ref 0.4‑4.0), free T4 13.2 pmol/L (ref 9.0‑19.0)."
+    },
+    {
+      "memory_id": "X0508-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, occasional mild itching on arms, still works 2‑day weeks.\ncognition: Mini‑Cog 3/5 (negative).\nfalls: No falls, gait slightly slow on right heel, timed up‑and‑go 11 seconds (borderline).\nmedicines: 2 regular (levocetirizine 5 mg OD, cetirizine 10 mg HS). Not polypharmacy.\nmood: Mood stable, denies anxiety.\ncarers: Priya, daughter.\ngoals: \"Keep hives under control to avoid missing work.\""
+    },
+    {
+      "memory_id": "X0508-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg OD\ncetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0508-m06",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: eosinophils 0.3×10⁹/L (ref 0.0‑0.5). WBC 7.0×10⁹/L."
+    },
+    {
+      "memory_id": "X0508-m07",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, reports breakthrough wheals on trunk after stressful days, still manages pharmacy duties.\ncognition: Mini‑Cog 4/5 (negative).\nfalls: One fall at home 3 months ago (tripped over rug), no injury, gait cautious, timed up‑and‑go 13 seconds (raised fall risk). Plan: home‑based strength exercises, non‑slip footwear.\nmedicines: 2 regular (levocetirizine 5 mg OD, cetirizine 10 mg HS). Not polypharmacy.\nmood: Mild frustration with breakthrough symptoms, denies depression.\ncarers: Priya, daughter.\ngoals: \"Achieve longer periods without hives so I can work full days.\""
+    },
+    {
+      "memory_id": "X0508-m08",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg OD\ncetirizine 10 mg HS\nprednisolone 5 mg alternate days for 2 weeks"
+    },
+    {
+      "memory_id": "X0508-m09",
+      "date": "2025-10-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: eosinophils 0.5×10⁹/L (upper limit normal). WBC 7.2×10⁹/L.\nTSH 1.9 mIU/L, free T4 13.5 pmol/L."
+    },
+    {
+      "memory_id": "X0508-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, no new wheals since completing prednisolone taper, able to work full shifts.\ncognition: Mini‑Cog 3/5 (negative).\nfalls: No further falls, gait steady, timed up‑and‑go 10 seconds (normal).\nmedicines: 2 regular (levocetirizine 5 mg OD, cetirizine 10 mg HS). Not polypharmacy.\nmood: Mood good, reports improved sleep.\ncarers: Priya, daughter.\ngoals: \"Maintain control and reduce medication burden.\""
+    },
+    {
+      "memory_id": "X0508-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg OD\ncetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0508-m12",
+      "date": "2026-01-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: eosinophils 0.2×10⁹/L (ref 0.0‑0.5). WBC 6.9×10⁹/L."
+    },
+    {
+      "memory_id": "X0508-m13",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, occasional mild itching on forearms after heat exposure, otherwise well, works full‑time.\ncognition: Mini‑Cog 2/5 (positive screen) – plan for detailed neuropsych assessment.\nfalls: No falls in past year, gait normal, timed up‑and‑go 9 seconds (normal).\nmedicines: 2 regular (levocetirizine 5 mg OD, cetirizine 10 mg HS). Not polypharmacy.\nmood: Mood stable, denies anxiety.\ncarers: Priya, daughter.\ngoals: \"Stay comfortable and keep enjoying time with grandchildren.\""
+    },
+    {
+      "memory_id": "X0508-m14",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "levocetirizine 5 mg OD\ncetirizine 10 mg HS"
+    },
+    {
+      "memory_id": "X0508-m15",
+      "date": "2026-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: eosinophils 0.3×10⁹/L (ref 0.0‑0.5). WBC 6.7×10⁹/L.\nTSH 2.0 mIU/L, free T4 13.0 pmol/L."
+    },
+    {
+      "memory_id": "X0508-m16",
+      "date": "2026-08-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-11-20 with Dr Nandini Kulkarni for routine follow‑up."
+    },
+    {
+      "memory_id": "X0508-m17",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, no significant wheals in past month, able to work pharmacy full‑time without antihistamine drowsiness.\ncognition: Mini‑Cog 3/5 (negative).\nfalls: No falls, gait steady, timed up‑and‑go 9 seconds (normal).\nmedicines: 2 regular (levocetirizine 5 mg OD, cetirizine 10 mg HS). Not polypharmacy.\nmood: Mood positive, reports good quality of life.\ncarers: Priya, daughter.\ngoals: \"Continue symptom‑free life and stay active.\""
+    }
+  ]
+}

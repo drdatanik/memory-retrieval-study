@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0055",
+  "name": "Kalpana Bollineni",
+  "age": 72,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Asthma",
+    "Insomnia",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0055-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma with intermittent wheeze and nocturnal cough, insomnia with difficulty falling asleep, vitamin B12 deficiency with mild fatigue.\nSymptoms: episodic dyspnea on exertion, night-time awakenings, daytime somnolence. Examination: mild expiratory wheeze bilaterally, normal vitals, BMI 24 kg/m2.\nSpirometry: FEV1 2.10 L (68% pred), FVC 2.80 L (82% pred), FEV1/FVC 0.75; post‑bronchodilator FEV1 2.30 L (+0.20 L change).\nAsthma Control Test score 16 (not well controlled). Insomnia Severity Index score 14 (moderate insomnia).\nTechnique checked: correct for salbutamol MDT inhaler; inspiratory flow adequate for dry powder device.\nSmoking: never.\nPlan: continue salbutamol SOS, start budesonide-formoterol 200/6 inhaler BD, montelukast 10 mg HS, melatonin 3 mg HS, trazodone 50 mg HS, methylcobalamin 1500 mcg OD. Review in 3 months."
+    },
+    {
+      "memory_id": "X0055-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol metered-dose inhaler 100 mcg, 2 puffs SOS.\nBudesonide-formoterol 200/6 mcg inhaler, 2 puffs twice daily.\nMontelukast sodium 10 mg tablet, once nightly.\nMelatonin 3 mg tablet, once nightly.\nTrazodone 50 mg tablet, once nightly.\nMethylcobalamin 1500 mcg tablet, once daily."
+    },
+    {
+      "memory_id": "X0055-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.1 mIU/L (ref 0.4‑4.5).\nHaemoglobin 12.8 g/dL (ref 12.0‑15.5).\nSerum vitamin B12 180 pg/mL (ref 200‑900).\nMCV 92 fL (ref 80‑100)."
+    },
+    {
+      "memory_id": "X0055-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma: improved control, occasional rescue use. Insomnia: persistent sleep onset difficulty. Vitamin B12: still low despite supplementation.\nSymptoms: wheeze twice weekly, night-time cough 1‑2 times/week, takes 30‑45 min to fall asleep, fatigue mild.\nExam: mild end‑expiratory wheeze, otherwise clear lungs.\nSpirometry: FEV1 2.25 L (73% pred), FVC 2.90 L (85% pred), FEV1/FVC 0.78; change since last +0.15 L.\nAsthma Control Test score 19 (borderline not well controlled). Insomnia Severity Index 13 (moderate).\nTechnique checked: correct; dry powder inspiratory flow adequate.\nSmoking: never.\nPlan: increase budesonide-formoterol to 400/12 mcg inhaler BD, add montelukast continue, melatonin continue, consider reducing trazodone to 25 mg HS, continue methylcobalamin 1500 mcg OD. Review in 3 months."
+    },
+    {
+      "memory_id": "X0055-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol metered-dose inhaler 100 mcg, 2 puffs SOS.\nBudesonide-formoterol 400/12 mcg inhaler, 2 puffs twice daily.\nMontelukast sodium 10 mg tablet, once nightly.\nMelatonin 3 mg tablet, once nightly.\nTrazodone 25 mg tablet, once nightly.\nMethylcobalamin 1500 mcg tablet, once daily."
+    },
+    {
+      "memory_id": "X0055-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 1.9 mIU/L (ref 0.4‑4.5).\nHaemoglobin 13.0 g/dL (ref 12.0‑15.5).\nSerum vitamin B12 210 pg/mL (ref 200‑900).\nMCV 91 fL (ref 80‑100)."
+    },
+    {
+      "memory_id": "X0055-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Asthma well controlled, insomnia improved, vitamin B12 now normal.\nSymptoms: rescue inhaler use <1 per week, night-time cough absent, sleep latency 20 min, feeling rested.\nExam: clear lungs, no wheeze.\nSpirometry: FEV1 2.40 L (78% pred), FVC 3.00 L (88% pred), FEV1/FVC 0.80; change since last +0.15 L.\nAsthma Control Test score 22 (well controlled). Insomnia Severity Index 8 (mild).\nTechnique checked: correct; dry powder inspiratory flow adequate.\nSmoking: never.\nPlan: maintain budesonide-formoterol 400/12 BD, salbutamol SOS, montelukast HS, melatonin HS, trazodone 25 mg HS, methylcobalamin 1500 mcg OD. Review in 3 months."
+    },
+    {
+      "memory_id": "X0055-m08",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol metered-dose inhaler 100 mcg, 2 puffs SOS.\nBudesonide-formoterol 400/12 mcg inhaler, 2 puffs twice daily.\nMontelukast sodium 10 mg tablet, once nightly.\nMelatonin 3 mg tablet, once nightly.\nTrazodone 25 mg tablet, once nightly.\nMethylcobalamin 1500 mcg tablet, once daily."
+    },
+    {
+      "memory_id": "X0055-m09",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.0 mIU/L (ref 0.4‑4.5).\nHaemoglobin 13.2 g/dL (ref 12.0‑15.5).\nSerum vitamin B12 280 pg/mL (ref 200‑900).\nMCV 90 fL (ref 80‑100)."
+    },
+    {
+      "memory_id": "X0055-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Winter exacerbation of asthma, insomnia stable, B12 adequate.\nSymptoms: increased wheeze with cold exposure, rescue inhaler use 3‑4 times/week, nocturnal cough 2 nights/week, sleep latency unchanged.\nExam: mild bilateral wheeze, good air entry.\nSpirometry: FEV1 2.15 L (70% pred), FVC 2.85 L (84% pred), FEV1/FVC 0.75; change since last –0.25 L.\nAsthma Control Test score 17 (not well controlled). Insomnia Severity Index 9 (mild).\nTechnique checked: correct; dry powder inspiratory flow adequate.\nSmoking: never.\nPlan: increase budesonide-formoterol to 400/12 inhaler BD plus add a short course of oral prednisolone 20 mg daily for 5 days (outside routine meds), continue salbutamol SOS, montelukast HS, melatonin HS, trazodone 25 mg HS, methylcobalamin 1500 mcg OD. Review in 1 month."
+    },
+    {
+      "memory_id": "X0055-m11",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "Salbutamol metered-dose inhaler 100 mcg, 2 puffs SOS.\nBudesonide-formoterol 400/12 mcg inhaler, 2 puffs twice daily.\nMontelukast sodium 10 mg tablet, once nightly.\nMelatonin 3 mg tablet, once nightly.\nTrazodone 25 mg tablet, once nightly.\nMethylcobalamin 1500 mcg tablet, once daily.\nPrednisolone 20 mg tablet, once daily for 5 days."
+    },
+    {
+      "memory_id": "X0055-m12",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 2.2 mIU/L (ref 0.4‑4.5).\nHaemoglobin 13.1 g/dL (ref 12.0‑15.5).\nSerum vitamin B12 260 pg/mL (ref 200‑900).\nMCV 90 fL (ref 80‑100)."
+    },
+    {
+      "memory_id": "X0055-m13",
+      "date": "2026-04-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original visit scheduled for 2026-04-18 moved to 2026-04-20 at 10:30 am with Dr Suresh Menon (D05) due to patient request."
+    },
+    {
+      "memory_id": "X0055-m14",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Post‑exacerbation review: asthma controlled, insomnia stable, B12 normal.\nSymptoms: rescue inhaler use ≤1/week, no night cough, sleep latency 20 min, feels refreshed.\nExam: clear lungs.\nSpirometry: FEV1 2.35 L (76% pred), FVC 2.95 L (87% pred), FEV1/FVC 0.80; change since last +0.20 L.\nAsthma Control Test score 21 (well controlled). Insomnia Severity Index 7 (mild).\nTechnique checked: correct; dry powder inspiratory flow adequate.\nSmoking: never.\nPlan: continue budesonide-formoterol 400/12 BD, salbutamol SOS, montelukast HS, melatonin HS, trazodone 25 mg HS, methylcobalamin 1500 mcg OD. Review in 3 months."
+    },
+    {
+      "memory_id": "X0055-m15",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable asthma, well‑controlled insomnia, normal B12.\nSymptoms: occasional wheeze with exertion, rescue inhaler <1/week, sleep onset <15 min, rested.\nExam: clear lungs.\nSpirometry: FEV1 2.40 L (78% pred), FVC 3.00 L (88% pred), FEV1/FVC 0.80; change since last +0.05 L.\nAsthma Control Test score 23 (well controlled). Insomnia Severity Index 6 (mild).\nTechnique checked: correct; dry powder inspiratory flow adequate.\nSmoking: never.\nPlan: maintain current regimen, consider tapering trazodone if insomnia persists improved, continue methylcobalamin. Next review in 4 months."
+    }
+  ]
+}

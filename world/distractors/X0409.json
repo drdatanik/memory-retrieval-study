@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0409",
+  "name": "Anoop Warrier",
+  "age": 73,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Benign positional vertigo"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0409-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "73-year-old man with recurrent episodic vertigo triggered by head movement.\nPRESENTING COMPLAINT: He reports brief spinning sensations lasting seconds to minutes when looking up or turning in bed, associated with nausea but no hearing loss or tinnitus.\nEXAMINATION: BP 138/84 mmHg, weight 68 kg, height 1.68 m gives BMI 24.1 (overweight). General appearance alert. Otoscopic examination normal. Dix-Hallpike test provokes vertigo with torsional nystagmus on the right side.\nIMPRESSION: Benign positional vertigo. Fasting lipid profile and fasting blood sugar ordered; results awaited.\nARRANGEMENTS: Start betahistine 16 mg twice daily and meclizine 25 mg as needed for vertigo. Arrange audiometry. Advise reduced salt intake, regular light exercise, and avoid prolonged head‑back postures. Return if sudden hearing loss, double vision, difficulty walking, fever >39°C, or chest pain."
+    },
+    {
+      "memory_id": "X0409-m02",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Betahistine 16 mg twice daily\nMeclizine 25 mg as needed for vertigo"
+    },
+    {
+      "memory_id": "X0409-m03",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 210 mg/dL (<200 desirable), LDL 130 mg/dL (<100), HDL 38 mg/dL (>40 low), triglycerides 160 mg/dL (<150). Fasting blood sugar: 98 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0409-m04",
+      "date": "2025-04-15",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Dix-Hallpike test: Positive on the right side with transient torsional nystagmus lasting <1 minute. Audiometry: Bilateral pure‑tone averages within normal limits (0‑25 dB HL). No significant hearing loss."
+    },
+    {
+      "memory_id": "X0409-m05",
+      "date": "2025-08-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "73-year-old man with benign positional vertigo, reporting fewer episodes.\nPRESENTING COMPLAINT: Vertigo now occurs only occasionally with rapid head turns, lasting <10 seconds, no nausea.\nEXAMINATION: BP 136/82, weight 67.5 kg, BMI 23.9 (overweight). Cardiovascular and neurological exams normal.\nIMPRESSION: Improved BPV on current meds. Lipids remain elevated; FBS normal.\nARRANGEMENTS: Continue betahistine 16 mg BD, meclizine 25 mg SOS. Reinforce low‑salt diet and daily walking. Return if vertigo worsens, hearing loss, neurological deficits, fever >39°C, or chest pain."
+    },
+    {
+      "memory_id": "X0409-m06",
+      "date": "2025-08-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Betahistine 16 mg twice daily\nMeclizine 25 mg as needed for vertigo"
+    },
+    {
+      "memory_id": "X0409-m07",
+      "date": "2025-12-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "73-year-old man with benign positional vertigo, noting increased mild imbalance.\nPRESENTING COMPLAINT: Reports occasional light‑headedness when rising from chair, not true spinning vertigo; denies nausea.\nEXAMINATION: BP 138/86, weight 68 kg, BMI 24.1 (overweight). Romberg negative, gait steady.\nIMPRESSION: Possible contribution of orthostatic hypotension; betahistine may need dose adjustment.\nARRANGEMENTS: Increase betahistine to 24 mg twice daily, stop meclizine. Advise adequate hydration, rise slowly, and continue low‑salt diet. Return if fainting, falls, chest pain, dyspnea, or fever >39°C."
+    },
+    {
+      "memory_id": "X0409-m08",
+      "date": "2025-12-01",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Betahistine 24 mg twice daily\nMeclizine discontinued"
+    },
+    {
+      "memory_id": "X0409-m09",
+      "date": "2026-04-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "73-year-old man with benign positional vertigo, stable on updated regimen.\nPRESENTING COMPLAINT: No vertigo spells in the past month; occasional mild unsteadiness on fast turns.\nEXAMINATION: BP 135/80, weight 67 kg, BMI 23.7 (overweight). Cardiovascular exam regular, lungs clear.\nIMPRESSION: BPV well‑controlled. Fasting lipid profile and fasting blood sugar obtained; results below.\nARRANGEMENTS: Continue betahistine 24 mg BD. Reinforce salt restriction and regular activity. Influenza vaccine not due until autumn. Return if vertigo returns, hearing loss, syncope, fever >39°C, or chest pain."
+    },
+    {
+      "memory_id": "X0409-m10",
+      "date": "2026-04-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 190 mg/dL (<200), LDL 110 mg/dL (<100), HDL 42 mg/dL (>40), triglycerides 130 mg/dL (<150). Fasting blood sugar: 95 mg/dL (70‑99 normal)."
+    },
+    {
+      "memory_id": "X0409-m11",
+      "date": "2026-04-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: 'I have not felt dizzy for weeks and my energy is good. Thank you for the advice on diet.'"
+    },
+    {
+      "memory_id": "X0409-m12",
+      "date": "2026-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 15‑Sep‑2026 at 10:00 AM with Dr Priya Natarajan (D03). Please arrive 10 minutes early."
+    },
+    {
+      "memory_id": "X0409-m13",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "73-year-old man with benign positional vertigo, doing well.\nPRESENTING COMPLAINT: No vertigo episodes; reports feeling steady.\nEXAMINATION: BP 134/78, weight 66.5 kg, BMI 23.6 (overweight).\nIMPRESSION: BPV in remission. Lipids and sugars remain within target.\nARRANGEMENTS: Continue betahistine 24 mg BD. Administered influenza vaccine today (01‑Oct‑2026). Advise maintain low‑salt diet, regular walks, and annual flu shot. Return if vertigo recurs, hearing loss, chest pain, dyspnea, fever >39°C, or sudden weakness."
+    }
+  ]
+}

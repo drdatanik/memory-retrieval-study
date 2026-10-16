@@ -1,0 +1,110 @@
+{
+  "patient_id": "X0053",
+  "name": "Kakoli Mukherjee",
+  "age": 74,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Atrial fibrillation"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0053-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Routine follow‑up of atrial fibrillation.\nPRESENTING COMPLAINT: The patient reports occasional palpitations lasting a few seconds, no chest pain or dyspnea. She feels well otherwise and continues her school bus duties.\nEXAMINATION: BP 138/84 mmHg, weight 68 kg, height 158 cm gives BMI 27.2 (obese). Pulse 72 bpm regular. No peripheral oedema, lungs clear, heart sounds normal.\nIMPRESSION: Atrial fibrillation on warfarin 5 mg OD with subtherapeutic INR (last 1.8). Bisoprolol 2.5 mg OD for rate control. Obesity noted; advise diet and activity.\nARRANGEMENTS: Increase warfarin to 7.5 mg OD, repeat INR in one week. Continue bisoprolol. Advise low‑salt diet, 30 min walk daily. Influenza vaccine not due (spring). Return if: chest pain, breathlessness, fever >39 °C, or blood in stools. Please repeat these red‑flag symptoms back to me."
+    },
+    {
+      "memory_id": "X0053-m02",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 1.8 (target 2.0‑3.0). Serum creatinine 0.92 mg/dL (0.6‑1.2). TSH 2.1 mIU/L (0.4‑4.0)."
+    },
+    {
+      "memory_id": "X0053-m03",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Warfarin 7.5 mg OD"
+    },
+    {
+      "memory_id": "X0053-m04",
+      "date": "2025-05-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Review of anticoagulation after dose increase.\nPRESENTING COMPLAINT: Patient denies new palpitations or bleeding. Reports mild fatigue but attributes to warm weather.\nEXAMINATION: BP 140/86 mmHg, weight 67.5 kg, BMI 27.0 (obese). Pulse 70 bpm regular. No jaundice, abdomen soft.\nIMPRESSION: INR still subtherapeutic at 2.0 (borderline). Warfarin variability likely; consider switching to a DOAC for more stable anticoagulation. Obesity persists; reinforce diet and activity.\nARRANGEMENTS: Stop warfarin, start apixaban 5 mg BD. Continue bisoprolol 2.5 mg OD. Check renal function before first dose. Return if: chest pain, breathlessness, fever >39 °C, or blood in stools. Please repeat these red‑flag symptoms back to me."
+    },
+    {
+      "memory_id": "X0053-m05",
+      "date": "2025-05-22",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Warfarin stopped\nApixaban 5 mg BD\nBisoprolol 2.5 mg OD unchanged"
+    },
+    {
+      "memory_id": "X0053-m06",
+      "date": "2025-06-01",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 0.90 mg/dL (0.6‑1.2). TSH 2.0 mIU/L (0.4‑4.0). Apixaban level not routinely measured."
+    },
+    {
+      "memory_id": "X0053-m07",
+      "date": "2025-08-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Six‑month review; patient notes mild dyspnea on climbing stairs.\nPRESENTING COMPLAINT: Dyspnea on exertion for past month, no chest pain, palpitations infrequent. No orthopnea or PND.\nEXAMINATION: BP 136/82 mmHg, weight 68.0 kg, BMI 27.2 (obese). Pulse 74 bpm regular. Lung bases clear, no crackles. No peripheral oedema.\nIMPRESSION: Atrial fibrillation on apixaban 5 mg BD, bisoprolol 2.5 mg OD, rate controlled. Obesity unchanged; advise diet and activity. No signs of heart failure.\nARRANGEMENTS: Order ECG to confirm rhythm. Continue current meds. Reinforce low‑salt diet, 30 min brisk walk daily. Influenza vaccine not due (summer). Return if: chest pain, breathlessness at rest, fever >39 °C, or blood in stools. Please repeat these red‑flag symptoms back to me."
+    },
+    {
+      "memory_id": "X0053-m08",
+      "date": "2025-08-16",
+      "type": "investigation",
+      "author": "D03",
+      "text": "ECG shows normal sinus rhythm with average ventricular rate 72 bpm. No ST‑T changes. QRS duration 92 ms. No evidence of recent ischemia."
+    },
+    {
+      "memory_id": "X0053-m09",
+      "date": "2025-09-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve noticed slight swelling around my ankles by the end of the day, especially after driving the bus. It’s not painful and goes down overnight. Should I be worried?"
+    },
+    {
+      "memory_id": "X0053-m10",
+      "date": "2025-09-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Evaluate ankle swelling and review overall status.\nPRESENTING COMPLAINT: Patient reports bilateral mild ankle swelling worsening after prolonged standing, resolves overnight. No dyspnea at rest, no chest pain.\nEXAMINATION: BP 138/84 mmHg, weight 68.5 kg, BMI 27.3 (obese). Pulse 73 bpm regular. Mild pitting edema up to mid‑calf bilaterally, lungs clear, JVP not elevated.\nIMPRESSION: Atrial fibrillation on apixaban 5 mg BD, bisoprolol 2.5 mg OD. Mild dependent edema likely venous stasis from prolonged sitting/standing; early heart failure less likely given normal lungs and JVP. Obesity persists; advise diet and activity.\nARRANGEMENTS: Add furosemide 20 mg OD for edema, review in 2 weeks. Continue apixaban and bisoprolol. Administer influenza vaccine today (09/05/2025) – patient over 60 with chronic illness. Return if: sudden increase in edema, shortness of breath at rest, chest pain, fever >39 °C, or blood in stools. Please repeat these red‑flag symptoms back to me."
+    },
+    {
+      "memory_id": "X0053-m11",
+      "date": "2025-09-07",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Furosemide 20 mg OD"
+    },
+    {
+      "memory_id": "X0053-m12",
+      "date": "2025-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 15‑Nov‑2025 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0053-m13",
+      "date": "2026-03-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: Routine chronic disease review.\nPRESENTING COMPLAINT: Patient feels well, denies palpitations, dyspnea, or edema. Reports good adherence to meds and daily walks.\nEXAMINATION: BP 134/80 mmHg, weight 67.8 kg, BMI 27.1 (obese). Pulse 70 bpm regular. No peripheral edema, lungs clear.\nIMPRESSION: Atrial fibrillation on apixaban 5 mg BD, bisoprolol 2.5 mg OD, furosemide 20 mg OD as needed. Obesity unchanged; reinforce diet and activity. No signs of decompensation.\nARRANGEMENTS: Continue current meds. No influenza vaccine needed (outside autumn). Return if: chest pain, breathlessness at rest, fever >39 °C, or blood in stools. Please repeat these red‑flag symptoms back to me."
+    },
+    {
+      "memory_id": "X0053-m14",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 4.8 mmol/L (<5.2), LDL 2.9 mmol/L (<2.6 borderline), HDL 1.2 mmol/L (>1.0 good), Triglycerides 1.4 mmol/L (<1.7). Fasting blood sugar 5.6 mmol/L (<6.1 normal). Serum creatinine 0.88 mg/dL (0.6‑1.2). TSH 1.9 mIU/L (0.4‑4.0)."
+    }
+  ]
+}

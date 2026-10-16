@@ -1,0 +1,101 @@
+{
+  "patient_id": "P19",
+  "name": "Geeta Reddy",
+  "age": 70,
+  "sex": "F",
+  "primary_doctor": "D02",
+  "conditions": ["Heart failure with reduced ejection fraction", "Hypertension"],
+  "memories": [
+    {
+      "memory_id": "P19-m01",
+      "date": "2025-04-22",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake note (patient-reported): Retired school headmistress, lives with her son's family. Gets breathless climbing one flight of stairs and has to stop on the way. Walks slowly to the temple each morning. Her son keeps a weekly pill organiser for her and helps with refills."
+    },
+    {
+      "memory_id": "P19-m02",
+      "date": "2025-04-22",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "Mrs Reddy attended with her son for review of her heart failure, which is ischaemic in origin and has a reduced ejection fraction. She reports breathlessness on climbing one flight of stairs and on walking more than a short distance on level ground, with some ankle swelling by the evening. Her pulse is 78 beats per minute and her blood pressure is 128/76 mmHg. There is mild ankle oedema. She is in NYHA class III. I am continuing her bisoprolol, spironolactone, dapagliflozin, atorvastatin and furosemide at the doses on today's prescription, and I have asked for a repeat echocardiogram to reassess her ejection fraction. She has been advised to weigh herself each morning and to limit her salt intake. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P19-m03",
+      "date": "2025-04-22",
+      "type": "prescription",
+      "author": "D02",
+      "text": "Prescription, Dr Rohan Iyer (cardiology). Bisoprolol 5 mg once daily. Spironolactone 25 mg once daily. Dapagliflozin 10 mg once daily. Atorvastatin 20 mg once daily. Furosemide 40 mg once daily. All continued unchanged."
+    },
+    {
+      "memory_id": "P19-m04",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D02",
+      "text": "Transthoracic echocardiogram, 15 July 2025, reported by Dr Rohan Iyer. Left ventricular systolic function is reduced, with an ejection fraction of 30 per cent. Functional class at the time of the study: NYHA class III. The findings are consistent with known ischaemic heart failure with reduced ejection fraction."
+    },
+    {
+      "memory_id": "P19-m05",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "Mrs Reddy returned to review the echocardiogram performed today, which shows an ejection fraction of 30 per cent. She remains in NYHA class III, with breathlessness on mild exertion and no chest pain. Her blood pressure is 118/70 mmHg and her weight is stable. I am recommending that she start sacubitril with valsartan 24/26 mg twice daily, to begin on 5 August 2025. Her other medicines continue unchanged. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P19-m06",
+      "date": "2025-08-05",
+      "type": "prescription",
+      "author": "D02",
+      "text": "Prescription, Dr Rohan Iyer. New: sacubitril with valsartan 24/26 mg, one tablet twice daily, from 5 August 2025. Other medicines unchanged: bisoprolol 5 mg once daily, spironolactone 25 mg once daily, dapagliflozin 10 mg once daily, atorvastatin 20 mg once daily, furosemide 40 mg once daily."
+    },
+    {
+      "memory_id": "P19-m07",
+      "date": "2025-08-19",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "Mrs Reddy attended for her first review since starting sacubitril with valsartan on 5 August 2025. She reports mild dizziness when she stands up in the mornings but has not fainted. She remains in NYHA class III. Her blood pressure is 110/66 mmHg sitting and her pulse is 74 beats per minute. I have advised her to rise slowly from bed, to sit down at once if she feels faint, and to report any fainting episode. Her other medicines continue unchanged and I will review her again in three months. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P19-m08",
+      "date": "2025-11-18",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "Mrs Reddy has tolerated sacubitril with valsartan well, and her earlier dizziness has settled. She is now in NYHA class II, able to walk to the temple without stopping, with breathlessness only on the stairs. Her blood pressure is 116/70 mmHg and her pulse is 70 beats per minute. I have increased sacubitril with valsartan to 49/51 mg twice daily from today. Her other medicines continue unchanged, and I would like a repeat echocardiogram in the coming year. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P19-m09",
+      "date": "2025-11-18",
+      "type": "prescription",
+      "author": "D02",
+      "text": "Prescription, Dr Rohan Iyer. Dose increase: sacubitril with valsartan from 24/26 mg twice daily to 49/51 mg twice daily, from 18 November 2025. Continue bisoprolol 5 mg once daily, spironolactone 25 mg once daily, dapagliflozin 10 mg once daily, atorvastatin 20 mg once daily and furosemide 40 mg once daily."
+    },
+    {
+      "memory_id": "P19-m10",
+      "date": "2026-06-23",
+      "type": "investigation",
+      "author": "D02",
+      "text": "Transthoracic echocardiogram, 23 June 2026, reported by Dr Rohan Iyer. Left ventricular ejection fraction is 40 per cent, improved from 30 per cent on 15 July 2025. Functional class at the time of the study: NYHA class II. Systolic function has improved on the current treatment."
+    },
+    {
+      "memory_id": "P19-m11",
+      "date": "2026-06-23",
+      "type": "visit_note",
+      "author": "D02",
+      "text": "Mrs Reddy attended to review today's echocardiogram, which shows that her ejection fraction has improved to 40 per cent. She is in NYHA class II. She reports no dizziness and no ankle swelling, and her blood pressure is 114/68 mmHg. Her potassium on today's blood test is 4.9 mmol/L, at the upper end of the reference range, which is acceptable while she takes spironolactone and sacubitril with valsartan. As she is now euvolaemic on examination, I am reducing her furosemide from 40 mg to 20 mg once daily today. Plan discussed with the patient and family."
+    },
+    {
+      "memory_id": "P19-m12",
+      "date": "2026-06-23",
+      "type": "prescription",
+      "author": "D02",
+      "text": "Prescription, Dr Rohan Iyer. Dose reduction: furosemide from 40 mg once daily to 20 mg once daily, from 23 June 2026. Continue sacubitril with valsartan 49/51 mg twice daily, bisoprolol 5 mg once daily, spironolactone 25 mg once daily, dapagliflozin 10 mg once daily and atorvastatin 20 mg once daily."
+    },
+    {
+      "memory_id": "P19-m13",
+      "date": "2026-06-23",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report, serum electrolytes and renal function, collected 23 June 2026. Potassium 4.9 mmol/L (reference 3.5 to 5.0). Sodium 139 mmol/L (reference 135 to 145). Creatinine 1.0 mg/dL (reference 0.6 to 1.1). Sample: venous blood, Sunrise Family Clinic."
+    }
+  ]
+}

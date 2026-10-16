@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0596",
+  "name": "Vilas Phadke",
+  "age": 78,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Glaucoma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0596-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent in basic ADLs; uses a walking stick for outdoor walks; manages household chores.\ncognition: Mini-Cog score 3/5 (negative).\nfalls: 0 falls in the last 12 months; gait normal; timed up-and-go 10 seconds (within normal limit).\nmedicines: 5 regular (timolol eye drops, latanoprost eye drops, aspirin 81 mg, atorvastatin 10 mg, amlodipine 5 mg). Five or more medicines – polypharmacy – review against Beers criteria advised.\nmood: Reports feeling well; denies sadness or anxiety.\ncarers: Son Rajesh.\ngoals: \"I want to keep reading my newspaper without trouble.\""
+    },
+    {
+      "memory_id": "X0596-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "timolol 0.5% eye drops – 1 drop in each eye twice daily\nlatanoprost 0.005% eye drops – 1 drop in each eye at bedtime\naspirin 81 mg – 1 tablet daily\natorvastatin 10 mg – 1 tablet nightly\namlodipine 5 mg – 1 tablet daily"
+    },
+    {
+      "memory_id": "X0596-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure (IOP): Right eye 22 mmHg (REF 10‑21), Left eye 20 mmHg (REF 10‑21)\nVisual field test: Mild peripheral depression superiorly OD, within normal limits OS\nOptic disc assessment: Cup‑disc ratio 0.6 OD, 0.5 OS (mild cupping OD)"
+    },
+    {
+      "memory_id": "X0596-m04",
+      "date": "2025-04-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Noticed slight blurring of vision when reading fine print; no pain or redness. Using the eye drops as prescribed."
+    },
+    {
+      "memory_id": "X0596-m05",
+      "date": "2025-04-12",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:00 AM with Dr Nandini Kulkarni (D06)."
+    },
+    {
+      "memory_id": "X0596-m06",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Still independent; walks without stick indoors, uses stick for longer outings.\ncognition: Mini‑Cog score 3/5 (negative) – annual screen due next year.\nfalls: 1 fall in the last 12 months (tripped over rug, no injury); gait slightly unsteady; timed up‑and‑go 13 seconds (raised fall risk) – advise balance exercises and supportive footwear.\nmedicines: 5 regular (timolol, latanoprost, aspirin, atorvastatin, amlodipine). Polypharmacy – review against Beers criteria.\nmood: Reports occasional worry about vision; denies depression.\ncarers: Son Rajesh.\ngoals: \"I hope to keep walking to the market without feeling unsteady.\""
+    },
+    {
+      "memory_id": "X0596-m07",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "timolol 0.5% eye drops – 1 drop in each eye twice daily (continue)\nlatanoprost 0.005% eye drops – 1 drop in each eye at bedtime (continue)\naspirin 81 mg – 1 tablet daily\natorvastatin 10 mg – 1 tablet nightly\namlodipine 5 mg – 1 tablet daily\nbrimonidine 0.1% eye drops – 1 drop in each eye twice daily (added for IOP control)"
+    },
+    {
+      "memory_id": "X0596-m08",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure (IOP): Right eye 18 mmHg (REF 10‑21), Left eye 17 mmHg (REF 10‑21)\nVisual field test: Stable compared to prior; no new defects.\nOptic disc assessment: Cup‑disc ratio unchanged."
+    },
+    {
+      "memory_id": "X0596-m09",
+      "date": "2025-07-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Comprehensive eye exam (slit lamp, dilated fundus): Anterior segment quiet; no signs of allergic conjunctivitis. Lens clear. Fundus: mild cupping OD as prior, no hemorrhage or exudates. Visual acuity 20/30 OD, 20/25 OS with correction."
+    },
+    {
+      "memory_id": "X0596-m10",
+      "date": "2025-10-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages ADLs independently; uses walking stick only for uneven terrain.\ncognition: Mini‑Cog score 4/5 (negative) – annual screen passed.\nfalls: 0 falls in the last 6 months; gait normal; timed up‑and‑go 11 seconds (borderline) – advise continued strength training.\nmedicines: 6 regular (timolol, latanoprost, brimonidine, aspirin, atorvastatin, amlodipine). Polypharmacy – review against Beers criteria.\nmood: Feels cheerful; enjoys gardening.\ncarers: Son Rajesh.\ngoals: \"I want to see my grandchildren’s faces clearly.\""
+    },
+    {
+      "memory_id": "X0596-m11",
+      "date": "2025-10-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "timolol 0.5% eye drops – 1 drop in each eye twice daily\nlatanoprost 0.005% eye drops – 1 drop in each eye at bedtime\nbrimonidine 0.1% eye drops – 1 drop in each eye twice daily\naspirin 81 mg – 1 tablet daily\natorvastatin 10 mg – 1 tablet nightly\namlodipine 5 mg – 1 tablet daily"
+    },
+    {
+      "memory_id": "X0596-m12",
+      "date": "2025-10-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Intraocular pressure (IOP): Right eye 16 mmHg (REF 10‑21), Left eye 15 mmHg (REF 10‑21)\nVisual field test: No progression; stable.\nOptic disc assessment: Cup‑disc ratio 0.55 OD, 0.5 OS (stable)."
+    },
+    {
+      "memory_id": "X0596-m13",
+      "date": "2026-02-01",
+      "type": "referral",
+      "author": "D06",
+      "text": "Referral to Dr S. Rao, Glaucoma Specialist, Narayana Nethralaya, for further IOP control and possible surgical evaluation. Include recent IOP readings, visual field, and OCT if available."
+    },
+    {
+      "memory_id": "X0596-m14",
+      "date": "2026-02-15",
+      "type": "referral_outcome",
+      "author": "D06",
+      "text": "Specialist review: IOP remains borderline; recommends adding topical carbonic anhydrase inhibitor and considering laser trabeculoplasty. Advised to continue current drops and return in 3 months."
+    },
+    {
+      "memory_id": "X0596-m15",
+      "date": "2026-06-30",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; walks without aid; reports good balance.\ncognition: Mini‑Cog score 3/5 (negative) – annual screen due next year.\nfalls: 0 falls in the last 12 months; gait normal; timed up‑and‑go 10 seconds (within normal).\nmedicines: 6 regular (timolol, latanoprost, brimonidine, aspirin, atorvastatin, amlodipine). Polypharmacy – review against Beers criteria.\nmood: Content; enjoys daily walks.\ncarers: Son Rajesh.\ngoals: \"I wish to maintain my independence and enjoy my hobbies.\""
+    },
+    {
+      "memory_id": "X0596-m16",
+      "date": "2026-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: original follow‑up on 2026-10-10 moved to 2026-10-05 at 09:30 AM with Dr Nandini Kulkarni (D06) due to patient’s travel plans."
+    }
+  ]
+}

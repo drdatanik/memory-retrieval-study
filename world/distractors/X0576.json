@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0576",
+  "name": "Rajan Karunakaran",
+  "age": 87,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Psoriasis",
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0576-m01",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent with ADLs, walks 30 min daily, uses cane occasionally for knee pain.\ncognition: Mini-Cog 4/5 (recall 3 items, clock draw normal) – negative screen.\nfalls: No falls in last 12 months; gait steady; timed up-and-go 10 seconds – normal.\nmedicines: 6 regular – clobetasol 0.05% cream BD topically; calcipotriol ointment OD topically; methotrexate 7.5 mg once weekly; folic acid 5 mg OD; allopurinol 100 mg OD; febuxostat 40 mg OD. Polypharmacy – review against Beers criteria.\nmood: Reports good spirits, denies depression or anxiety.\ncarers: Daughter, Priya – primary support.\ngoal: \"Stay active and keep my skin clear so I can enjoy time with my grandchildren.\""
+    },
+    {
+      "memory_id": "X0576-m02",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 45 U/L (≤40), AST 38 U/L (≤40), ALP 80 U/L (30‑120), bilirubin 0.9 mg/dL (0.2‑1.2). CBC: Hb 13.8 g/dL (13‑17), WBC 6.2 ×10⁹/L (4‑10), platelets 210 ×10⁹/L (150‑400). Creatinine 1.0 mg/dL (0.6‑1.2). Uric acid 8.5 mg/dL (≤7.0)."
+    },
+    {
+      "memory_id": "X0576-m03",
+      "date": "2025-04-22",
+      "type": "prescription",
+      "author": "D06",
+      "text": "clobetasol 0.05% cream – apply BD to affected areas – 4 weeks\ncalcipotriol ointment – apply OD – 8 weeks\nmethotrexate 7.5 mg – take once weekly – ongoing\nfolic acid 5 mg – take OD – ongoing\nallopurinol 100 mg – take OD – ongoing\nfebuxostat 40 mg – take OD – ongoing"
+    },
+    {
+      "memory_id": "X0576-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Mild slowing, needs rest after garden work; ADLs independent.\ncognition: Mini-Cog not repeated (annual due in Oct).\nfalls: One fall at home 3 months ago (tripped on rug); no injury; gait slightly cautious; timed up-and-go 13 seconds – raised fall risk – advise home safety, supportive shoes.\nmedicines: 6 regular – same as before. Polypharmacy – discuss Beers review.\nmood: Feels frustrated about skin plaques; denies low mood.\ncarers: Daughter, Priya – primary support.\ngoal: \"Reduce skin itching and avoid another fall.\""
+    },
+    {
+      "memory_id": "X0576-m05",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 50 U/L (≤40), AST 42 U/L (≤40), ALP 85 U/L, bilirubin 0.9 mg/dL. CBC: Hb 13.5 g/dL, WBC 5.9 ×10⁹/L, platelets 200 ×10⁹/L. Creatinine 1.0 mg/dL. Uric acid 7.8 mg/dL (≤7.0)."
+    },
+    {
+      "memory_id": "X0576-m06",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D06",
+      "text": "methotrexate 5 mg – take once weekly – ongoing (dose reduced due to mild ALT rise)\nfolic acid 5 mg – take OD – ongoing\nallopurinol 200 mg – take OD – ongoing (increase to control uric acid)\nfebuxostat 40 mg – take OD – ongoing\nclobetasol 0.05% cream – BD – 4 weeks\ncalcipotriol ointment – OD – 8 weeks"
+    },
+    {
+      "memory_id": "X0576-m07",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Manages household chores; uses walking stick for longer walks.\ncognition: Mini-Cog 2/5 (recall 1 item, clock draw abnormal) – positive screen – plan for full neuropsych assessment.\nfalls: No new falls; gait slow; timed up-and-go 14 seconds – raised fall risk – continue exercises, review footwear.\nmedicines: 6 regular – clobetasol, calcipotriol, methotrexate 5 mg weekly, folic acid, allopurinol 200 mg, febuxostat 40 mg. Polypharmacy – Beers review pending.\nmood: Reports occasional low mood; denies hopelessness.\ncarers: Daughter, Priya – primary support.\ngoal: \"Think clearer and keep my joints comfortable.\""
+    },
+    {
+      "memory_id": "X0576-m08",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 48 U/L (≤40), AST 40 U/L (≤40), ALP 82 U/L, bilirubin 0.9 mg/dL. CBC: Hb 13.2 g/dL, WBC 5.5 ×10⁹/L, platelets 190 ×10⁹/L. Creatinine 1.0 mg/dL. Uric acid 7.2 mg/dL (≤7.0) – borderline."
+    },
+    {
+      "memory_id": "X0576-m09",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D06",
+      "text": "allopurinol 300 mg – take OD – ongoing (increase for uric control)\nfebuxostat 20 mg – take OD – ongoing (reduce)\nmethotrexate 5 mg – take once weekly – ongoing\nfolic acid 5 mg – take OD – ongoing\nclobetasol 0.05% cream – BD – 4 weeks\ncalcipotriol ointment – OD – 8 weeks"
+    },
+    {
+      "memory_id": "X0576-m10",
+      "date": "2026-01-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I’ve had a painful gout flare in my left big toe for two days, swollen and red. I’m taking extra colchicine but it’s not helping much.\""
+    },
+    {
+      "memory_id": "X0576-m11",
+      "date": "2026-01-22",
+      "type": "prescription",
+      "author": "D06",
+      "text": "colchicine 0.5 mg – take BD for 3 days during flare – then stop"
+    },
+    {
+      "memory_id": "X0576-m12",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Recovered from gout flare; walks with mild stiffness.\ncognition: No change; awaiting neuropsych referral.\nfalls: No falls since last visit; gait improved; timed up-and-go 12 seconds – borderline raised risk – advise strength exercises.\nmedicines: 6 regular – clobetasol, calcipotriol, methotrexate 5 mg weekly, folic acid, allopurinol 300 mg, febuxostat 20 mg. Polypharmacy – Beers review scheduled.\nmood: Better, denies depression.\ncarers: Daughter, Priya – primary support.\ngoal: \"Stay pain‑free and keep my skin under control.\""
+    },
+    {
+      "memory_id": "X0576-m13",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 44 U/L (≤40), AST 38 U/L (≤40), ALP 80 U/L, bilirubin 0.9 mg/dL. CBC: Hb 13.4 g/dL, WBC 6.0 ×10⁹/L, platelets 200 ×10⁹/L. Creatinine 1.0 mg/dL. Uric acid 6.8 mg/dL (≤7.0) – within target."
+    },
+    {
+      "memory_id": "X0576-m14",
+      "date": "2026-05-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-05-05 10:30 AM with Dr Nandini Kulkarni (D06) – follow‑up visit."
+    },
+    {
+      "memory_id": "X0576-m15",
+      "date": "2026-05-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Independent; enjoys light gardening.\ncognition: Mini-Cog not due (annual in Oct).\nfalls: No falls; gait normal; timed up-and-go 11 seconds – normal.\nmedicines: 6 regular – same as Feb. Polypharmacy – Beers review completed, no high‑risk meds.\nmood: Content.\ncarers: Daughter, Priya – primary support.\ngoal: \"Maintain current health and enjoy my grandkids’ school events.\""
+    },
+    {
+      "memory_id": "X0576-m16",
+      "date": "2026-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 42 U/L (≤40), AST 36 U/L (≤40), ALP 78 U/L, bilirubin 0.9 mg/dL. CBC: Hb 13.6 g/dL, WBC 6.1 ×10⁹/L, platelets 205 ×10⁹/L. Creatinine 0.9 mg/dL (0.6‑1.2). Uric acid 6.5 mg/dL (≤7.0)."
+    },
+    {
+      "memory_id": "X0576-m17",
+      "date": "2026-08-15",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Eye exam: Slit‑lamp shows mild conjunctival erythema, no corneal involvement. Visual acuity 6/9 each eye. Intra‑ocular pressure 16 mm Hg. No signs of uveitis or psoriasis‑related ocular changes."
+    },
+    {
+      "memory_id": "X0576-m18",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: Stable; walks 20 min daily, uses cane for uneven ground.\ncognition: Mini-Cog 3/5 (recall 2 items, clock draw borderline) – negative screen.\nfalls: No falls in last 12 months; gait steady; timed up-and-go 10 seconds – normal.\nmedicines: 6 regular – clobetasol, calcipotriol, methotrexate 5 mg weekly, folic acid, allopurinol 300 mg, febuxostat 20 mg. Polypharmacy – no Beers concerns.\nmood: Positive, enjoys family time.\ncarers: Daughter, Priya – primary support.\ngoal: \"Keep my skin clear and stay mobile for my granddaughter’s wedding.\""
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "patient_id": "X0198",
+  "name": "Ranjit Sethi",
+  "age": 49,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Hypothyroidism",
+    "Irritable bowel syndrome",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0198-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypothyroidism\n  - Status: newly diagnosed, symptomatic with fatigue, weight gain, cold intolerance.\n  - Plan: start levothyroxine 50 mcg OD morning empty stomach; check TSH in 6 weeks; advise weight monitoring.\n- Irritable bowel syndrome\n  - Status: chronic abdominal bloating, alternating diarrhea/constipation, triggered by spicy food.\n  - Plan: start mebeverine 135 mg BD before meals; ispaghula husk 5 g OD with water; advise low-FODMAP diet, regular meals.\n- Migraine\n  - Status: episodic headaches 2-3 per month, photophobia, nausea.\n  - Plan: start propranolol 40 mg OD for prophylaxis; sumatriptan 50 mg SOS at aura; topiramate 25 mg HS; naproxen 500 mg SOS for breakthrough; maintain headache diary.\n- General\n  - Weight 78 kg, waist 92 cm (above male cut‑off 90 cm).\n  - Due: HbA1c not indicated; next TSH in 6 weeks; lipid profile annually."
+    },
+    {
+      "memory_id": "X0198-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levothyroxine 50 mcg OD; mebeverine 135 mg BD; propranolol 40 mg OD; sumatriptan 50 mg SOS; topiramate 25 mg HS; naproxen 500 mg SOS; ispaghula husk 5 g OD"
+    },
+    {
+      "memory_id": "X0198-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 8.2 mIU/L (ref 0.4‑4.5); Free T4 9.8 pmol/L (ref 9‑22); Hemoglobin 13.8 g/dL (13‑17); WBC 6.2×10⁹/L (4‑10); Platelets 210×10⁹/L (150‑400); Stool routine: no ova, cysts, normal consistency; tTG‑IgA negative (<4 U/mL)."
+    },
+    {
+      "memory_id": "X0198-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypothyroidism\n  - Status: persistent fatigue, TSH 6.5 mIU/L (above target), weight stable.\n  - Plan: increase levothyroxine to 75 mcg OD morning empty stomach; recheck TSH in 6 weeks; reinforce adherence.\n- Irritable bowel syndrome\n  - Status: bloating improved with mebeverine and ispaghula; occasional loose stools after heavy meals.\n  - Plan: continue current regimen; add loperamide 2 mg SOS for diarrhea if needed; advise food diary.\n- Migraine\n  - Status: headache frequency reduced to 1‑2 per month; propranolol well tolerated.\n  - Plan: maintain propranolol 40 mg OD; keep sumatriptan SOS; topiramate 25 mg HS; naproxen SOS.\n- General\n  - Weight 77 kg, waist 90 cm (at cut‑off).\n  - Due: next TSH in 6 weeks; lipid profile annually."
+    },
+    {
+      "memory_id": "X0198-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levothyroxine 75 mcg OD; mebeverine 135 mg BD; propranolol 40 mg OD; sumatriptan 50 mg SOS; topiramate 25 mg HS; naproxen 500 mg SOS; ispaghula husk 5 g OD"
+    },
+    {
+      "memory_id": "X0198-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 6.5 mIU/L (ref 0.4‑4.5); Free T4 11.2 pmol/L (ref 9‑22); Hemoglobin 13.9 g/dL (13‑17); WBC 6.0×10⁹/L (4‑10); Platelets 205×10⁹/L (150‑400)."
+    },
+    {
+      "memory_id": "X0198-m07",
+      "date": "2025-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-01-15 09:30 with Dr Karthik Hegde (D04) for routine follow‑up."
+    },
+    {
+      "memory_id": "X0198-m08",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypothyroidism\n  - Status: TSH 4.2 mIU/L (within target), patient reports improved energy, weight 76 kg.\n  - Plan: increase levothyroxine to 100 mcg OD morning empty stomach; recheck TSH in 6 weeks.\n- Irritable bowel syndrome\n  - Status: occasional diarrhea after heavy meals; bloating mild.\n  - Plan: continue mebeverine BD, ispaghula husk OD; add loperamide 2 mg SOS as needed; review diet.\n- Migraine\n  - Status: headache frequency 1 per month, mild intensity; propranolol tolerated.\n  - Plan: maintain propranolol 40 mg OD; consider tapering topiramate if side effects; keep sumatriptan SOS; naproxen SOS.\n- General\n  - Weight 76 kg, waist 88 cm (below cut‑off).\n  - Due: next TSH in 6 weeks; lipid profile due now."
+    },
+    {
+      "memory_id": "X0198-m09",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levothyroxine 100 mcg OD; mebeverine 135 mg BD; propranolol 40 mg OD; sumatriptan 50 mg SOS; topiramate 25 mg HS; naproxen 500 mg SOS; ispaghula husk 5 g OD; loperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0198-m10",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH 4.2 mIU/L (ref 0.4‑4.5); Free T4 13.0 pmol/L (ref 9‑22); Lipid profile: Total cholesterol 185 mg/dL (<200), LDL 110 mg/dL (<130), HDL 42 mg/dL (>40), Triglycerides 120 mg/dL (<150)."
+    },
+    {
+      "memory_id": "X0198-m11",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypothyroidism\n  - Status: TSH 3.8 mIU/L (target), patient euthyroid, weight 75 kg.\n  - Plan: continue levothyroxine 100 mcg OD; repeat TSH in 3 months.\n- Irritable bowel syndrome\n  - Status: increased diarrhea episodes (2‑3/week) after street food; abdominal cramping.\n  - Plan: reinforce loperamide SOS; consider rifaximin course if symptoms persist; advise avoidance of high‑fat meals.\n- Migraine\n  - Status: stable, 1 headache/month; topiramate 25 mg HS causing mild paresthesia.\n  - Plan: reduce topiramate to 12.5 mg HS; monitor; keep propranolol 40 mg OD.\n- General\n  - Weight 75 kg, waist 86 cm.\n  - Due: next TSH in 3 months; lipid profile next year."
+    },
+    {
+      "memory_id": "X0198-m12",
+      "date": "2026-04-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levothyroxine 100 mcg OD; mebeverine 135 mg BD; propranolol 40 mg OD; sumatriptan 50 mg SOS; topiramate 12.5 mg HS; naproxen 500 mg SOS; ispaghula husk 5 g OD; loperamide 2 mg SOS"
+    },
+    {
+      "memory_id": "X0198-m13",
+      "date": "2026-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypothyroidism\n  - Status: TSH 4.0 mIU/L (target), patient asymptomatic, weight 74 kg.\n  - Plan: continue levothyroxine 100 mcg OD; repeat TSH in 3 months.\n- Irritable bowel syndrome\n  - Status: diarrhea reduced to 1/week with loperamide SOS; bloating occasional.\n  - Plan: continue current regimen; add probiotic if desired.\n- Migraine\n  - Status: headache frequency 0‑1 per month; topiramate 12.5 mg HS well tolerated.\n  - Plan: maintain topiramate 12.5 mg HS; propranolol 40 mg OD; continue SOS medications.\n- General\n  - Weight 74 kg, waist 84 cm.\n  - Due: next TSH in 3 months; lipid profile next year."
+    },
+    {
+      "memory_id": "X0198-m14",
+      "date": "2026-09-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypothyroidism\n  - Status: TSH 4.1 mIU/L (target), patient euthyroid, weight 73 kg.\n  - Plan: continue levothyroxine 100 mcg OD; repeat TSH in 3 months.\n- Irritable bowel syndrome\n  - Status: well controlled, occasional mild bloating.\n  - Plan: continue mebeverine BD, ispaghula husk OD, loperamide SOS as needed.\n- Migraine\n  - Status: no headaches in past 6 weeks.\n  - Plan: continue prophylactic regimen; review need for topiramate at next visit.\n- General\n  - Weight 73 kg, waist 82 cm (now below cut‑off).\n  - Due: next TSH in 3 months; lipid profile next year."
+    }
+  ]
+}

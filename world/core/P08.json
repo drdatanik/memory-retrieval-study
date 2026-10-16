@@ -1,0 +1,103 @@
+{
+  "patient_id": "P08",
+  "name": "Anil Kumar",
+  "age": 29,
+  "sex": "M",
+  "primary_doctor": "D01",
+  "conditions": [
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "P08-m01",
+      "date": "2025-04-22",
+      "type": "allergy",
+      "author": "D01",
+      "text": "Allergy: penicillin, anaphylaxis (throat swelling and low blood pressure) after an amoxicillin injection in 2019. Reaction was immediate and severe. Recorded 2025-04-22 by Dr Anjali Mehta (D01); patient advised to tell every prescriber and pharmacist."
+    },
+    {
+      "memory_id": "P08-m02",
+      "date": "2025-04-22",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o asthma. c/o cough and chest tightness at night x 2 wks, worse in dusty weather. Salbutamol SOS used 3 times this week. No fever.\nO: BP 122/78 mmHg, pulse 84/min, SpO2 98% RA. Chest: scattered wheeze on forced expiry, air entry good.\nA: 1. Asthma, mild; reliever only for now. 2. Allergy history updated.\nP: 1. Salbutamol (Asthalin) 100 mcg inhaler, 2 puffs SOS for breathlessness or wheeze. 2. Avoid dust, smoke and cold air where possible. 3. Home peak flow chart to be kept.\nAdv: Warm up before exercise, walk 30 min daily, carry the inhaler at all times. R/V in 6 months."
+    },
+    {
+      "memory_id": "P08-m03",
+      "date": "2025-04-22",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: START salbutamol (Asthalin) 100 mcg inhaler, 2 puffs as needed (SOS) for wheeze or breathlessness. Effective 2025-04-22. See doctor if needed more often than usual."
+    },
+    {
+      "memory_id": "P08-m04",
+      "date": "2025-06-18",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2025-06-18: 'Doctor, my chest feels tight when I cycle to the office in the rain and the cold air in the mornings. Should I use my blue inhaler before the ride? I have used it about twice this week.'"
+    },
+    {
+      "memory_id": "P08-m05",
+      "date": "2025-09-16",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o asthma. c/o night-time cough and wheeze on 3 nights a week for last 4 weeks. Salbutamol SOS 4 times a week. Audit season started, long hours indoors.\nO: BP 124/80 mmHg, pulse 80/min, SpO2 97% RA. Chest: bilateral scattered wheeze, air entry good.\nA: 1. Asthma, not controlled on reliever alone; step-up needed.\nP: 1. Start budesonide-formoterol (Foracort) 200/6 inhaler, 1 puff BD, regular, even when well. 2. Cont salbutamol (Asthalin) SOS. 3. Inhaler technique checked and demonstrated. 4. Rinse mouth after each budesonide-formoterol dose.\nAdv: Avoid smoke and dust, 30 min walk daily, regular sleep. R/V in 3 months."
+    },
+    {
+      "memory_id": "P08-m06",
+      "date": "2025-09-16",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: START budesonide-formoterol (Foracort) 200/6 inhaler, 1 puff twice daily (morning and night), regular use. Effective 2025-09-16. Salbutamol (Asthalin) 100 mcg SOS continues unchanged."
+    },
+    {
+      "memory_id": "P08-m07",
+      "date": "2025-10-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2025-10-02: 'Doctor, I started the twice-daily inhaler last week. My nights are much better and I have not needed the blue inhaler at night. Can I stop it once I feel fine?'"
+    },
+    {
+      "memory_id": "P08-m08",
+      "date": "2025-12-17",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o asthma. Night symptoms settled since starting the regular inhaler. Salbutamol used once in the past 3 months. Missed the evening dose occasionally.\nO: BP 126/80 mmHg, pulse 76/min, SpO2 99% RA. Chest clear.\nA: 1. Asthma, well controlled on budesonide-formoterol.\nP: 1. Cont budesonide-formoterol (Foracort) 200/6, 1 puff BD. 2. Cont salbutamol (Asthalin) SOS. 3. Explained that the regular inhaler must not be stopped when well. 4. Technique checked, good.\nAdv: Keep to the inhaler routine, avoid smoke, walk 30 min 5 days a week. R/V in 6 months."
+    },
+    {
+      "memory_id": "P08-m09",
+      "date": "2026-01-22",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2026-01-22: 'Doctor, I caught a cold last week. My chest was tight for two nights and the blue inhaler helped. The regular inhaler is working, but I still get a little cough in the mornings. Should I come in to see you?'"
+    },
+    {
+      "memory_id": "P08-m10",
+      "date": "2026-04-09",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2026-04-09: 'Doctor, the pharmacy was out of my twice-daily inhaler for five days. I used the blue inhaler a little more during those days, maybe 3 times. I have restarted the regular one now.'"
+    },
+    {
+      "memory_id": "P08-m11",
+      "date": "2026-06-18",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o asthma. Feels well, no night symptoms. Salbutamol about once a month. Restarted the regular inhaler after the pharmacy shortage in April.\nO: BP 120/78 mmHg, pulse 74/min, SpO2 98% RA. Chest clear. Inhaler technique good.\nA: 1. Asthma, well controlled.\nP: 1. Cont budesonide-formoterol (Foracort) 200/6, 1 puff BD. 2. Cont salbutamol (Asthalin) SOS. 3. Refill the regular inhaler before it runs out.\nAdv: Avoid smoke and dust, walk 30 min daily, keep the inhaler handy. R/V in 6 months."
+    },
+    {
+      "memory_id": "P08-m12",
+      "date": "2026-08-27",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2026-08-27: 'Doctor, I am a chartered accountant and audit season has been brutal. I missed my evening puffer about 3 or 4 times this month. I have been OK, just a little cough on some mornings. What is the best way to remember it?'"
+    },
+    {
+      "memory_id": "P08-m13",
+      "date": "2026-10-06",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o asthma. c/o sore throat and fever x 2 days, body ache, mild cough. Pain on swallowing. No breathlessness, no wheeze.\nO: Temp 38.6°C, pulse 102/min, BP 118/76 mmHg, SpO2 98% RA. O/E: pharynx congested; tonsils enlarged with exudate; tender anterior cervical nodes. Chest clear.\nA: 1. Sore throat with fever and tonsillar exudate, ? streptococcal; RADT sent. 2. Asthma, stable.\nP: 1. Rapid strep test (RADT) sent today; result awaited. 2. Decide on antibiotic after the RADT result. 3. Warm fluids, salt water gargles, rest. 4. Cont budesonide-formoterol (Foracort) 200/6 BD and salbutamol (Asthalin) SOS.\nAdv: Warm fluids, rest at home, avoid cold drinks, keep away from crowded places for now. R/V in 1 wk."
+    }
+  ]
+}

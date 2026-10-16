@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0156",
+  "name": "Padma Kamath",
+  "age": 61,
+  "sex": "F",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Iron-deficiency anaemia"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0156-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent in ADLs, walks 2 km daily, uses public transport. cognition: Mini-Cog 4/5 (recall 3 items, clock draw normal). falls: no falls in last 12 months, gait steady, TUG 9 seconds (normal). medicines: 1 regular (ferrous sulfate 200 mg OD). mood: reports occasional low mood, denies anhedonia. carers: daughter Priya, lives nearby. goals: \"I want to stay active and keep teaching my grandchildren stories.\""
+    },
+    {
+      "memory_id": "X0156-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "ferrous sulfate 200 mg OD"
+    },
+    {
+      "memory_id": "X0156-m03",
+      "date": "2025-04-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 9.8 g/dL (12-16), Serum ferritin 12 ng/mL (15-150), MCV 78 fL (80-100)."
+    },
+    {
+      "memory_id": "X0156-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still independent, mild fatigue after long walks. cognition: Mini-Cog 4/5. falls: none, gait slightly slower, TUG 10 seconds. medicines: 1 regular. mood: low mood improved with walking group. carers: daughter Priya. goals: \"I wish to regain my earlier stamina.\""
+    },
+    {
+      "memory_id": "X0156-m05",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.2 g/dL (12-16), Serum ferritin 28 ng/mL (15-150), MCV 82 fL (80-100)."
+    },
+    {
+      "memory_id": "X0156-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "ferrous sulfate 200 mg OD plus ferrous sulfate 200 mg on alternate days"
+    },
+    {
+      "memory_id": "X0156-m07",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, occasional shortness of breath on exertion. cognition: Mini-Cog 4/5. falls: none, gait normal, TUG 9 seconds. medicines: 2 regular. mood: stable, enjoys gardening. carers: daughter Priya. goals: \"I want to feel less breathless when climbing stairs.\""
+    },
+    {
+      "memory_id": "X0156-m08",
+      "date": "2025-10-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.5 g/dL (12-16), Serum ferritin 45 ng/mL (15-150), MCV 86 fL (80-100)."
+    },
+    {
+      "memory_id": "X0156-m09",
+      "date": "2025-10-02",
+      "type": "prescription",
+      "author": "D06",
+      "text": "ferrous sulfate 200 mg on alternate days only"
+    },
+    {
+      "memory_id": "X0156-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, mild fatigue noted after housework. cognition: Mini-Cog 4/5. falls: none, gait steady, TUG 9 seconds. medicines: 1 regular. mood: reports occasional sadness, denies hopelessness. carers: daughter Priya. goals: \"I would like to maintain my energy for volunteer teaching.\""
+    },
+    {
+      "memory_id": "X0156-m11",
+      "date": "2026-01-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 11.0 g/dL (12-16), Serum ferritin 20 ng/mL (15-150), MCV 80 fL (80-100)."
+    },
+    {
+      "memory_id": "X0156-m12",
+      "date": "2026-01-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "ferrous sulfate 200 mg OD"
+    },
+    {
+      "memory_id": "X0156-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: ADLs independent, reports good stamina. cognition: Mini-Cog 4/5. falls: none, gait normal, TUG 8 seconds. medicines: 1 regular. mood: positive, engaged in community activities. carers: daughter Priya. goals: \"I want to continue my weekly storytelling sessions at the local library.\""
+    },
+    {
+      "memory_id": "X0156-m14",
+      "date": "2026-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 12.8 g/dL (12-16), Serum ferritin 55 ng/mL (15-150), MCV 88 fL (80-100)."
+    },
+    {
+      "memory_id": "X0156-m15",
+      "date": "2026-06-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Haemoglobin 13.0 g/dL (12-16), Serum ferritin 58 ng/mL (15-150), MCV 89 fL (80-100)."
+    },
+    {
+      "memory_id": "X0156-m16",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2026-08-10 at 10:00 with Dr Nandini Kulkarni."
+    }
+  ]
+}

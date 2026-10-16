@@ -1,0 +1,139 @@
+{
+  "patient_id": "X0518",
+  "name": "Jaspreet Ahluwalia",
+  "age": 81,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Dyslipidaemia",
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0518-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia\n  - Status: LDL 118 mg/dL, HDL 42 mg/dL, TG 190 mg/dL; on atorvastatin 10 mg HS.\n  - Plan: Continue atorvastatin, repeat lipid profile in 3 months, consider adding fenofibrate if TG remains >150.\n- Gastro-oesophageal reflux\n  - Symptoms: mild heartburn after meals, relieved by antacid gel.\n  - Status: Currently on pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, antacid gel SOS.\n  - Plan: Continue PPI, review need for long-term therapy, consider H. pylori stool antigen if symptoms persist.\n- Weight 62 kg, waist 84 cm (female cut‑off 80 cm – above target).\n  - Advice: Breakfast – high‑fibre cereal with skim milk; Lunch – mixed vegetable salad with lean protein; Dinner – grilled fish, steamed veggies, small portion rice.\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0518-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Atorvastatin 10 mg HS\nPantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0518-m03",
+      "date": "2025-04-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 118 mg/dL (<100 optimal), HDL 42 mg/dL (>40), TG 190 mg/dL (<150 borderline high).\nLFT: ALT 28 U/L (≤40), AST 24 U/L (≤40), ALKP 78 U/L (≤120).\nCK 92 U/L (<200)."
+    },
+    {
+      "memory_id": "X0518-m04",
+      "date": "2025-04-13",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"I still get occasional heartburn after spicy meals, but the antacid gel helps quickly.\""
+    },
+    {
+      "memory_id": "X0518-m05",
+      "date": "2025-05-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-05-15 at 10:00 AM with Dr Karthik Hegde."
+    },
+    {
+      "memory_id": "X0518-m06",
+      "date": "2025-05-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia\n  - Status: LDL 110 mg/dL, HDL 44 mg/dL, TG 175 mg/dL; atorvastatin 10 mg HS ongoing.\n  - Plan: Add rosuvastatin 10 mg OD to achieve LDL <100; repeat lipid profile in 6 weeks.\n- Gastro-oesophageal reflux\n  - Symptoms: heartburn reduced to twice weekly, no nocturnal symptoms.\n  - Status: Pantoprazole 40 mg OD before breakfast continued; domperidone 10 mg BD before meals as needed.\n  - Plan: Continue current regimen, step down domperidone if symptoms stay mild.\n- Weight 61.5 kg, waist 83 cm (still >80 cm).\n  - Advice: Breakfast – oats with fruit; Lunch – quinoa bowl with chickpeas; Dinner – chicken stir‑fried with broccoli, limit rice to ½ cup.\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0518-m07",
+      "date": "2025-05-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Atorvastatin 10 mg HS\nRosuvastatin 10 mg OD\nPantoprazole 40 mg OD before breakfast\nDomperidone 10 mg BD before meals\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0518-m08",
+      "date": "2025-05-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Repeat lipid profile: LDL 92 mg/dL (<100 goal), HDL 46 mg/dL, TG 168 mg/dL (still slightly high).\nLFT unchanged: ALT 27, AST 23, ALKP 80 U/L.\nCK 90 U/L."
+    },
+    {
+      "memory_id": "X0518-m09",
+      "date": "2025-06-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Upper GI endoscopy performed due to persistent mild dyspepsia. Findings: Grade A reflux esophagitis, no Barrett’s epithelium, H. pylori negative on biopsy. No ulcers or masses."
+    },
+    {
+      "memory_id": "X0518-m10",
+      "date": "2025-06-05",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"Since the endoscopy I feel better; heartburn now only after large meals and improves with antacid.\""
+    },
+    {
+      "memory_id": "X0518-m11",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia\n  - Status: LDL 88 mg/dL, HDL 48 mg/dL, TG 152 mg/dL; on atorvastatin 10 mg HS + rosuvastatin 10 mg OD.\n  - Plan: TG borderline high; add fenofibrate 145 mg OD, continue statins, repeat lipid profile in 3 months.\n- Gastro-oesophageal reflux\n  - Symptoms: heartburn ≤1‑2 times/week, no regurgitation.\n  - Status: Pantoprazole 40 mg OD before breakfast continued; domperidone tapered off.\n  - Plan: Attempt PPI taper to 20 mg OD after 4 weeks if symptoms remain mild.\n- Weight 61 kg, waist 82 cm (still >80 cm).\n  - Advice: Breakfast – Greek yogurt with nuts; Lunch – lentil soup with whole‑grain bread; Dinner – baked salmon, steamed asparagus, small chapati.\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0518-m12",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Atorvastatin 10 mg HS\nRosuvastatin 10 mg OD\nFenofibrate 145 mg OD\nPantoprazole 40 mg OD before breakfast\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0518-m13",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile: LDL 84 mg/dL, HDL 50 mg/dL, TG 138 mg/dL (<150).\nLFT: ALT 26, AST 22, ALKP 77 U/L.\nCK 88 U/L."
+    },
+    {
+      "memory_id": "X0518-m14",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2025-08-15 to 2025-09-01 at 09:30 AM with Dr Karthik Hegde."
+    },
+    {
+      "memory_id": "X0518-m15",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia\n  - Status: LDL 80 mg/dL, HDL 52 mg/dL, TG 130 mg/dL; on atorvastatin 10 mg HS, rosuvastatin 10 mg OD, fenofibrate 145 mg OD.\n  - Plan: LDL at goal, TG controlled; continue current regimen, repeat lipid profile in 6 months.\n- Gastro-oesophageal reflux\n  - Symptoms: heartburn absent for past 4 weeks.\n  - Status: Pantoprazole reduced to 20 mg OD before breakfast; domperidone stopped.\n  - Plan: Continue low‑dose PPI, review need for cessation in 3 months.\n- Weight 60.5 kg, waist 81 cm (just above female cut‑off).\n  - Advice: Breakfast – smoothie with spinach, banana, protein powder; Lunch – mixed veggie wrap with hummus; Dinner – turkey meatballs, zucchini noodles, side salad.\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0518-m16",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Atorvastatin 10 mg HS\nRosuvastatin 10 mg OD\nFenofibrate 145 mg OD\nPantoprazole 20 mg OD before breakfast\nAntacid gel SOS"
+    },
+    {
+      "memory_id": "X0518-m17",
+      "date": "2025-09-02",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid profile: LDL 78 mg/dL, HDL 53 mg/dL, TG 125 mg/dL.\nLFT: ALT 24, AST 21, ALKP 75 U/L.\nCK 85 U/L."
+    },
+    {
+      "memory_id": "X0518-m18",
+      "date": "2026-03-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Dyslipidaemia\n  - Status: LDL 76 mg/dL, HDL 55 mg/dL, TG 118 mg/dL; stable on atorvastatin 10 mg HS, rosuvastatin 10 mg OD, fenofibrate 145 mg OD.\n  - Plan: Continue same statin/fibrate combination, repeat lipid profile and LFT in 12 months.\n- Gastro-oesophageal reflux\n  - Symptoms: no heartburn or regurgitation.\n  - Status: Pantoprazole 20 mg OD before breakfast continued.\n  - Plan: Attempt PPI withdrawal in 4 weeks; if symptoms return, restart low dose.\n- Weight 60 kg, waist 80 cm (at target).\n  - Advice: Maintain Mediterranean‑style meals, portion control, regular walks 30 min daily.\nDue: HbA1c not applicable."
+    }
+  ]
+}

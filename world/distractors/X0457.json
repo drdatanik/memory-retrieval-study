@@ -1,0 +1,117 @@
+{
+  "patient_id": "X0457",
+  "name": "Dipti Bhatt",
+  "age": 54,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Depression"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0457-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow-up for low mood and fatigue.\nPRESENTING COMPLAINT: She reports persistent low mood, reduced energy, and poor concentration over the past 2 months. Denies suicidal thoughts.\nEXAMINATION: BP 122/78 mmHg, weight 68 kg, height 1.58 m, BMI 27.2 (obese). General appearance calm, no psychomotor retardation.\nIMPRESSION: Depression, moderate. Current sertraline 50 mg OD partially effective. Advise lifestyle, diet, exercise. Order fasting lipid profile and fasting blood sugar as annual screen.\nARRANGEMENTS: Continue sertraline 50 mg OD, repeat in 6 weeks. Return if worsening mood, suicidal ideas, chest pain, breathlessness, fever >39°C, or bloody stools."
+    },
+    {
+      "memory_id": "X0457-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Sertraline 50 mg orally once daily for 28 days."
+    },
+    {
+      "memory_id": "X0457-m03",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of depression treatment.\nPRESENTING COMPLAINT: Mood still low, PHQ-9 score 14. Reports mild insomnia.\nEXAMINATION: BP 124/80 mmHg, weight 67.5 kg, BMI 27.0 (obese).\nIMPRESSION: Partial response to sertraline. Increase dose to improve symptoms. No thyroid abnormalities suspected; will check TSH.\nARRANGEMENTS: Increase sertraline to 100 mg OD. Repeat PHQ-9 in 4 weeks. Return if worsening depression, agitation, chest pain, fever >39°C, or suicidal thoughts."
+    },
+    {
+      "memory_id": "X0457-m04",
+      "date": "2025-07-11",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Sertraline 100 mg orally once daily for 28 days."
+    },
+    {
+      "memory_id": "X0457-m05",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Autumn review; flu vaccine offered.\nPRESENTING COMPLAINT: Mood improved, PHQ-9 8. Reports better sleep but occasional daytime fatigue.\nEXAMINATION: BP 120/76 mmHg, weight 67 kg, BMI 26.8 (overweight).\nIMPRESSION: Depression, mild to moderate. Sertraline 100 mg OD helpful. Add mirtazapine 15 mg HS for sleep aid. Check vitamin B12 and TSH.\nARRANGEMENTS: Continue sertraline 100 mg OD, start mirtazapine 15 mg HS at night. Offer influenza vaccine; patient accepts today. Return if new rash, swelling, fever >39°C, worsening mood, or suicidal ideas."
+    },
+    {
+      "memory_id": "X0457-m06",
+      "date": "2025-10-03",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Mirtazapine 15 mg orally at bedtime for 30 days."
+    },
+    {
+      "memory_id": "X0457-m07",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Cholesterol 5.2 mmol/L (<5.2 normal), Triglycerides 1.8 mmol/L (<1.7 borderline high), HDL 1.2 mmol/L (>1.0 normal), LDL 3.0 mmol/L (<2.6 high). Fasting blood sugar: 5.6 mmol/L (<6.1 normal)."
+    },
+    {
+      "memory_id": "X0457-m08",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Winter follow‑up.\nPRESENTING COMPLAINT: Reports daytime sedation and weight gain (~2 kg) since adding mirtazapine. PHQ-9 6.\nEXAMINATION: BP 126/80 mmHg, weight 70 kg, BMI 28.0 (obese).\nIMPRESSION: Depression improved but mirtazapine causing sedation and weight gain. Consider switching to escitalopram. Check TSH and vitamin B12.\nARRANGEMENTS: Stop mirtazapine, start escitalopram 10 mg OD. Repeat PHQ-9 in 4 weeks. Return if worsening depression, suicidal thoughts, chest pain, breathlessness, fever >39°C, or unusual bleeding."
+    },
+    {
+      "memory_id": "X0457-m09",
+      "date": "2026-01-16",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 10 mg orally once daily for 28 days. Discontinue mirtazapine."
+    },
+    {
+      "memory_id": "X0457-m10",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Spring check‑up.\nPRESENTING COMPLAINT: Mood stable, PHQ-9 5. No sedation. Reports mild anxiety.\nEXAMINATION: BP 124/78 mmHg, weight 69.5 kg, BMI 27.8 (overweight).\nIMPRESSION: Depression in remission on escitalopram 10 mg OD. Consider dose increase for anxiety. Vitamin B12 low at 180 pg/mL (reference 200‑900).\nARRANGEMENTS: Increase escitalopram to 20 mg OD. Start vitamin B12 1000 mcg OD. Repeat labs in 3 months. Return if worsening mood, anxiety, chest pain, fever >39°C, or suicidal ideas."
+    },
+    {
+      "memory_id": "X0457-m11",
+      "date": "2026-04-21",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Escitalopram 20 mg orally once daily for 28 days. Vitamin B12 1000 mcg orally once daily."
+    },
+    {
+      "memory_id": "X0457-m12",
+      "date": "2026-08-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Vitamin B12 340 pg/mL (200‑900 normal). TSH 2.1 mIU/L (0.4‑4.0 normal). PHQ-9 4."
+    },
+    {
+      "memory_id": "X0457-m13",
+      "date": "2026-08-06",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Feeling much better, energy improved, sleeping well. Minor nausea with B12 supplement, taking with food helps."
+    },
+    {
+      "memory_id": "X0457-m14",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Annual autumn review.\nPRESENTING COMPLAINT: Mood good, PHQ-9 3. No side effects.\nEXAMINATION: BP 122/76 mmHg, weight 69 kg, BMI 27.6 (overweight).\nIMPRESSION: Depression well controlled on escitalopram 20 mg OD and vitamin B12. Lipids stable; fasting glucose normal.\nARRANGEMENTS: Continue current meds. Offer influenza vaccine for this season; patient declines, states already vaccinated elsewhere. Return if worsening depression, suicidal thoughts, chest pain, breathlessness, fever >39°C, or abnormal bleeding."
+    },
+    {
+      "memory_id": "X0457-m15",
+      "date": "2026-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2027-01-15 at 10:00 AM with Dr Priya Natarajan (D03)."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0195",
+  "name": "Anitha Chowdary",
+  "age": 60,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Osteoporosis",
+    "Chronic kidney disease"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0195-m01",
+      "date": "2025-04-03",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient presents with osteoporosis and stage 3 chronic kidney disease.\nShe reports occasional mild back pain, no dyspnea, and normal urinary output. On exam BP 138/86 mmHg, BMI 27 kg/m2, lungs clear, no joint deformities. She has never smoked; pack-years 0. No inhaler prescribed; technique not applicable. Plan to check renal function, bone markers, and vitamin D before initiating osteoporosis therapy."
+    },
+    {
+      "memory_id": "X0195-m02",
+      "date": "2025-04-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD; dapagliflozin 10 mg OD; furosemide 20 mg OD; sodium bicarbonate 500 mg BD."
+    },
+    {
+      "memory_id": "X0195-m03",
+      "date": "2025-04-03",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.3 mg/dL (0.6-1.2); eGFR 48 mL/min/1.73m2 (>60); urine ACR 45 mg/g (<30); haemoglobin 12.4 g/dL (12-16); serum calcium 9.1 mg/dL (8.5-10.5); serum 25-OH vitamin D 18 ng/mL (30-100)."
+    },
+    {
+      "memory_id": "X0195-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Stable osteoporosis and CKD.\nShe notes improved back pain after analgesics, no orthopnea, mild ankle swelling. BP 142/90 mmHg, trace pedal edema, lungs clear. Never smoked; pack-years 0. No inhaler; technique not applicable. Continue current CKD meds, increase furosemide for edema, recheck labs."
+    },
+    {
+      "memory_id": "X0195-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD; dapagliflozin 10 mg OD; furosemide 40 mg OD; sodium bicarbonate 500 mg BD."
+    },
+    {
+      "memory_id": "X0195-m06",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.25 mg/dL (0.6-1.2); eGFR 50 mL/min/1.73m2 (>60); urine ACR 38 mg/g (<30); haemoglobin 12.6 g/dL (12-16); serum calcium 9.2 mg/dL (8.5-10.5); serum 25-OH vitamin D 20 ng/mL (30-100)."
+    },
+    {
+      "memory_id": "X0195-m07",
+      "date": "2025-10-12",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoporosis now requiring treatment; CKD stable.\nShe reports occasional back discomfort, denies dyspnea. BP 140/88 mmHg, no edema, lungs clear. Never smoked; pack-years 0. No inhaler; technique not applicable. Initiate alendronate and calcium/vitamin D, continue CKD regimen, schedule DEXA."
+    },
+    {
+      "memory_id": "X0195-m08",
+      "date": "2025-10-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "alendronate 70 mg once weekly; calcium 500 mg BD with vitamin D3 800 IU daily; telmisartan 40 mg OD; dapagliflozin 10 mg OD; furosemide 40 mg OD; sodium bicarbonate 500 mg BD."
+    },
+    {
+      "memory_id": "X0195-m09",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "DEXA lumbar spine T-score -2.6; femoral neck T-score -2.1. Serum calcium 9.3 mg/dL (8.5-10.5); serum 25-OH vitamin D 22 ng/mL (30-100)."
+    },
+    {
+      "memory_id": "X0195-m10",
+      "date": "2026-01-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-04-15 10:00 with Dr Suresh Menon (Pulmonology)."
+    },
+    {
+      "memory_id": "X0195-m11",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoporosis on treatment, CKD stage 3 stable.\nShe denies new pain, reports good adherence to meds, no dyspnea. BP 138/86 mmHg, no edema, lungs clear. Never smoked; pack-years 0. No inhaler; technique not applicable. Continue alendronate, calcium/vit D; consider lowering telmisartan if BP trends low."
+    },
+    {
+      "memory_id": "X0195-m12",
+      "date": "2026-04-15",
+      "type": "prescription",
+      "author": "D05",
+      "text": "alendronate 70 mg once weekly; calcium 500 mg BD with vitamin D3 800 IU daily; telmisartan 20 mg OD; dapagliflozin 10 mg OD; furosemide 40 mg OD; sodium bicarbonate 500 mg BD."
+    }
+  ]
+}

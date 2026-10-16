@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0169",
+  "name": "Falguni Patel",
+  "age": 87,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Coronary artery disease",
+    "Osteoporosis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0169-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine follow‑up for coronary artery disease and osteoporosis.\nPRESENTING COMPLAINT: Patient reports no new chest pain, dyspnoea, or fractures; feels well on current meds.\nEXAMINATION: BP 138/82 mmHg, weight 58 kg, height 1.55 m, BMI 24.1 (overweight). Regular rhythm, no murmurs, lungs clear, spine tender minimally.\nIMPRESSION: Stable CAD and osteoporosis. Lipid and glucose to be checked annually. Advise diet low in saturated fat, increase weight‑bearing activity.\nARRANGEMENTS: Order fasting lipid profile and fasting blood sugar today. Continue aspirin 75 mg OD, atorvastatin 40 mg HS, metoprolol succinate 25 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS, alendronate 70 mg weekly, calcium 500 mg BD with vitamin D3. Discuss influenza vaccine eligibility; offer in autumn. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0169-m02",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Atorvastatin increased to 80 mg HS; all other meds unchanged."
+    },
+    {
+      "memory_id": "X0169-m03",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 112 mg/dL (target <100). HDL 48 mg/dL. Triglycerides 162 mg/dL. Fasting blood sugar: 98 mg/dL (reference 70‑110)."
+    },
+    {
+      "memory_id": "X0169-m04",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Review of lipid results and influenza vaccination.\nPRESENTING COMPLAINT: Patient notes occasional mild knee discomfort, no cardiac symptoms.\nEXAMINATION: BP 140/84 mmHg, weight 58.5 kg, BMI 24.3 (overweight). Cardiovascular exam unchanged.\nIMPRESSION: LDL slightly above target; continue high‑intensity statin. Osteoporosis stable. Influenza vaccine due.\nARRANGEMENTS: Give inactivated influenza vaccine today (01‑Sep‑2025). Continue current meds; advise low‑salt diet, calcium‑rich foods, weight‑bearing exercise. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0169-m05",
+      "date": "2025-11-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Resting ECG: Normal sinus rhythm, rate 72 bpm. No ST‑segment changes, no Q waves. Left ventricular voltage within normal limits."
+    },
+    {
+      "memory_id": "X0169-m06",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Winter check‑up; assess osteoporosis progression.\nPRESENTING COMPLAINT: Patient reports increased back pain on lifting, denies cardiac symptoms.\nEXAMINATION: BP 136/80 mmHg, weight 59 kg, BMI 24.5 (overweight). Tenderness over lumbar spine, no deformity.\nIMPRESSION: Possible worsening osteoporosis; need DEXA. CAD stable.\nARRANGEMENTS: Order DEXA scan, serum calcium, serum 25‑OH vitamin D. Continue aspirin, atorvastatin 80 mg HS, metoprolol 25 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS, alendronate 70 mg weekly, calcium 500 mg BD with vitamin D3. Advise adequate protein, avoid excessive forward flexion. Return if chest pain, breathlessness, fever >39°C, or new neurological symptoms."
+    },
+    {
+      "memory_id": "X0169-m07",
+      "date": "2026-02-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "DEXA scan: Lumbar spine T‑score –2.6 (osteoporosis). Femoral neck T‑score –2.4. Serum calcium 9.2 mg/dL (8.8‑10.5). Serum 25‑OH vitamin D 22 ng/mL (insufficient; target >30)."
+    },
+    {
+      "memory_id": "X0169-m08",
+      "date": "2026-04-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Spring review after bone density results.\nPRESENTING COMPLAINT: Patient reports mild fatigue, no angina.\nEXAMINATION: BP 134/78 mmHg, weight 59.2 kg, BMI 24.6 (overweight).\nIMPRESSION: Osteoporosis confirmed; vitamin D insufficient. LDL from prior lipid 112 mg/dL still above target.\nARRANGEMENTS: Increase vitamin D3 to cholecalciferol 2000 IU daily. Continue calcium 500 mg BD. Order fasting lipid profile and fasting blood sugar for annual review. Keep aspirin, atorvastatin 80 mg HS, metoprolol 25 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS, alendronate 70 mg weekly. Discuss fall prevention. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0169-m09",
+      "date": "2026-06-30",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metoprolol succinate reduced to 12.5 mg OD due to occasional light‑headedness; all other meds unchanged."
+    },
+    {
+      "memory_id": "X0169-m10",
+      "date": "2026-08-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 15‑Sep‑2026 to 05‑Sep‑2026 for follow‑up visit."
+    },
+    {
+      "memory_id": "X0169-m11",
+      "date": "2026-09-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Autumn visit; influenza vaccine and medication review.\nPRESENTING COMPLAINT: Patient feels well, no cardiac or bone pain.\nEXAMINATION: BP 132/80 mmHg, weight 59 kg, BMI 24.5 (overweight).\nIMPRESSION: CAD stable on current regimen. Osteoporosis managed with alendronate, calcium, vitamin D. Influenza vaccine due.\nARRANGEMENTS: Give inactivated influenza vaccine today (05‑Sep‑2026). Continue aspirin 75 mg OD, atorvastatin 80 mg HS, metoprolol 12.5 mg OD, isosorbide mononitrate 20 mg OD, GTN SOS, alendronate 70 mg weekly, calcium 500 mg BD, vitamin D3 2000 IU daily. Advise balanced diet, regular walking. Return if chest pain, breathlessness, fever >39°C, or blood in stools."
+    },
+    {
+      "memory_id": "X0169-m12",
+      "date": "2026-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: LDL 98 mg/dL (target <100). HDL 50 mg/dL. Triglycerides 148 mg/dL. Fasting blood sugar: 95 mg/dL (reference 70‑110)."
+    }
+  ]
+}

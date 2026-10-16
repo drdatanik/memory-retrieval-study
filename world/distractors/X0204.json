@@ -1,0 +1,126 @@
+{
+  "patient_id": "X0204",
+  "name": "Selvam Balan",
+  "age": 85,
+  "sex": "M",
+  "primary_doctor": "D06",
+  "conditions": [
+    "Benign positional vertigo",
+    "Chronic urticaria",
+    "Gout"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0204-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent with ADLs, uses a walking stick for outdoor walks, reports mild dizziness on turning in bed.\ncognition: Mini-Cog score 4/5 (negative), no need for further assessment at present.\nfalls: 0 falls in last 12 months, gait steady with stick, timed up-and-go 11 seconds (within normal range).\nmedicines: 5 regular (betahistine 16 mg BD, levocetirizine 5 mg OD, cetirizine 10 mg HS, allopurinol 100 mg OD, febuxostat 40 mg OD) – polypharmacy, please review against Beers criteria.\nmood: reports occasional frustration with vertigo episodes, denies depression.\ncarers: Lakshmi (wife).\ngoals: \"I want to stay steady on my feet and continue helping at the pharmacy.\""
+    },
+    {
+      "memory_id": "X0204-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg twice daily\nmeclizine 25 mg as needed for vertigo\nlevocetirizine 5 mg once daily\ncetirizine 10 mg at bedtime\nallopurinol 100 mg once daily\nfebuxostat 40 mg once daily\ncolchicine 0.5 mg twice daily during gout flares only"
+    },
+    {
+      "memory_id": "X0204-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.2 g/dL (12-16), WBC 6.8 x10^9/L (4-10), eosinophils 0.3 x10^9/L (0.0-0.5).\nThyroid: TSH 2.1 mIU/L (0.4-4.0), FT4 1.2 ng/dL (0.9-1.7).\nSerum uric acid: 6.8 mg/dL (3.5-7.2).\nSerum creatinine: 1.0 mg/dL (0.6-1.2)."
+    },
+    {
+      "memory_id": "X0204-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: manages pharmacy counter with occasional assistance, reports less frequent vertigo spells.\ncognition: no change, Mini-Cog not repeated yet.\nfalls: 0 falls in last 12 months, gait smooth with stick, timed up-and-go 10 seconds.\nmedicines: 5 regular (same as before) – polypharmacy, continue current regimen, consider tapering cetirizine if drowsiness.\nmood: cheerful, enjoys interacting with customers.\ncarers: Lakshmi (wife).\ngoals: \"I wish to keep working part‑time without dizzy episodes.\""
+    },
+    {
+      "memory_id": "X0204-m05",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg twice daily\nmeclizine 25 mg as needed\nlevocetirizine 5 mg once daily\ncetirizine 10 mg at bedtime – try reducing to 5 mg if daytime sedation\nallopurinol 100 mg once daily\nfebuxostat 40 mg once daily\ncolchicine 0.5 mg twice daily during flares only"
+    },
+    {
+      "memory_id": "X0204-m06",
+      "date": "2025-09-01",
+      "type": "investigation",
+      "author": "D06",
+      "text": "Audiometry: bilateral mild high‑frequency hearing loss, thresholds 30‑35 dB at 4‑8 kHz, compatible with age‑related changes; no conductive component.\nDix‑Hallpike: positive on right side, torsional nystagmus lasting <10 sec – confirms benign positional vertigo."
+    },
+    {
+      "memory_id": "X0204-m07",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg twice daily\nmeclizine 25 mg as needed – increase to two doses if vertigo persists\nlevocetirizine 5 mg once daily\ncetirizine 5 mg at bedtime (reduced)\nallopurinol 100 mg once daily\nfebuxostat 40 mg once daily\ncolchicine 0.5 mg twice daily during flares only"
+    },
+    {
+      "memory_id": "X0204-m08",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: still independent, uses stick only for long walks, reports occasional mild light‑headedness after standing.\ncognition: Mini‑Cog not due yet.\nfalls: 1 fall in last 12 months (slipped on wet floor at home, no injury), gait slightly unsteady, timed up‑and‑go 13 seconds – raised fall risk; advise home safety, strength exercises, and supportive footwear.\nmedicines: 5 regular (betahistine, levocetirizine, cetirizine, allopurinol, febuxostat) – polypharmacy, continue, discuss vitamin D supplementation.\nmood: reports frustration after fall, denies depression.\ncarers: Lakshmi (wife).\ngoals: \"I want to avoid another fall and stay safe at home.\""
+    },
+    {
+      "memory_id": "X0204-m09",
+      "date": "2025-12-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum uric acid: 7.2 mg/dL (3.5-7.2) – at upper limit.\nSerum creatinine: 1.1 mg/dL (0.6-1.2) – mild rise.\nCBC: eosinophils 0.4 x10^9/L (normal).\nThyroid: TSH 2.0 mIU/L, FT4 1.1 ng/dL (normal)."
+    },
+    {
+      "memory_id": "X0204-m10",
+      "date": "2026-02-15",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: reports painful swelling of left big toe for 2 days, difficulty wearing shoe, otherwise ADLs independent.\ncognition: unchanged.\nfalls: 0 new falls, gait antalgic on left side, timed up‑and‑go 14 seconds – raised fall risk; advise rest, ice, and continue exercises.\nmedicines: 5 regular plus colchicine during flare – polypharmacy, consider lowering febuxostat if tolerated.\nmood: irritable due to pain, denies low mood.\ncarers: Lakshmi (wife).\ngoals: \"I need the gout pain to settle so I can walk comfortably.\""
+    },
+    {
+      "memory_id": "X0204-m11",
+      "date": "2026-02-15",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg twice daily\nmeclizine 25 mg as needed\nlevocetirizine 5 mg once daily\ncetirizine 5 mg at bedtime\nallopurinol 100 mg once daily\nfebuxostat 40 mg once daily – continue\ncolchicine 0.5 mg twice daily for 3 days then once daily for 4 days (flare course)"
+    },
+    {
+      "memory_id": "X0204-m12",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: back to baseline, toe pain resolved, uses stick for outdoor walks only.\ncognition: Mini‑Cog score 3/5 (negative) – no further assessment needed.\nfalls: 0 falls in past 12 months, gait steady with stick, timed up‑and‑go 11 seconds.\nmedicines: 5 regular (betahistine, levocetirizine, cetirizine, allopurinol, febuxostat) – polypharmacy, continue, review need for cetirizine.\nmood: content, enjoys gardening.\ncarers: Lakshmi (wife).\ngoals: \"I want to stay active and keep helping at the pharmacy.\""
+    },
+    {
+      "memory_id": "X0204-m13",
+      "date": "2026-04-05",
+      "type": "prescription",
+      "author": "D06",
+      "text": "betahistine 16 mg twice daily\nmeclizine 25 mg as needed\nlevocetirizine 5 mg once daily\ncetirizine 5 mg at bedtime – try stopping if no urticaria\nallopurinol 100 mg once daily\nfebuxostat 40 mg once daily\ncolchicine 0.5 mg twice daily only during flares"
+    },
+    {
+      "memory_id": "X0204-m14",
+      "date": "2026-06-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 13.0 g/dL, WBC 6.5 x10^9/L, eosinophils 0.2 x10^9/L (normal).\nThyroid: TSH 2.2 mIU/L, FT4 1.2 ng/dL (normal).\nSerum uric acid: 6.5 mg/dL (normal).\nSerum creatinine: 1.0 mg/dL (normal)."
+    },
+    {
+      "memory_id": "X0204-m15",
+      "date": "2026-08-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-09-15 10:30 with Dr Nandini Kulkarni (D06) for routine geriatric review. Patient confirmed via clinic app."
+    },
+    {
+      "memory_id": "X0204-m16",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D06",
+      "text": "function: independent, no vertigo episodes, toe pain absent, walks unaided for short distances.\ncognition: Mini‑Cog not due yet.\nfalls: 0 falls in last 12 months, gait normal with stick, timed up‑and‑go 10 seconds.\nmedicines: 5 regular (betahistine, levocetirizine, cetirizine, allopurinol, febuxostat) – polypharmacy, continue, consider stopping cetirizine as urticaria controlled.\nmood: upbeat, enjoys time with grandchildren.\ncarers: Lakshmi (wife).\ngoals: \"I would like to remain on my feet and enjoy my hobbies without medication side effects.\""
+    }
+  ]
+}

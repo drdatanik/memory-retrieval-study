@@ -1,0 +1,108 @@
+{
+  "patient_id": "P18",
+  "name": "Rakesh Sharma",
+  "age": 64,
+  "sex": "M",
+  "primary_doctor": "D01",
+  "conditions": ["Type 2 diabetes", "Chronic kidney disease stage 3a"],
+  "memories": [
+    {
+      "memory_id": "P18-m01",
+      "date": "2025-04-29",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, CKD stage 3a on earlier records. C/o fatigue in the afternoons. No hypoglycaemia. Daughter accompanied him today.\nO: BP 128/80 mmHg, pulse 74/min, wt 70 kg. O/E: NAD. Feet: sensation normal.\nA: 1. T2DM. 2. CKD stage 3a, clinically stable.\nP: 1. Continue metformin (Glycomet) 500 mg BD after breakfast and dinner. 2. Continue telmisartan (Telma) 40 mg OD. 3. Drug allergy recorded today: codeine. 4. Routine blood tests at the next visit.\nAdv: Limit rice to one small plate; walk 30 min after dinner; reduce salt. R/V in 3 months."
+    },
+    {
+      "memory_id": "P18-m02",
+      "date": "2025-04-29",
+      "type": "allergy",
+      "author": "D01",
+      "text": "Drug allergy: codeine. Reaction: severe vomiting, 2017. Recorded by Dr Anjali Mehta (D01) on 2025-04-29."
+    },
+    {
+      "memory_id": "P18-m03",
+      "date": "2025-04-29",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx (continued): metformin 500 mg BD after breakfast and dinner. Telmisartan 40 mg OD. Supply 90 days."
+    },
+    {
+      "memory_id": "P18-m04",
+      "date": "2025-04-29",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake note (patient-reported): Runs a hardware shop in Malleshwaram and works most days of the week. His daughter comes to appointments with him and keeps a copy of his medicine list."
+    },
+    {
+      "memory_id": "P18-m05",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, CKD stage 3a. Here for annual review. No new complaints. No hypoglycaemia. Daughter present.\nO: BP 130/82 mmHg, pulse 76/min, wt 70 kg. O/E: NAD. Dilated fundus examination done in clinic today, see separate record.\nA: 1. T2DM. 2. CKD stage 3a. 3. Mild diabetic retinopathy on fundus examination today.\nP: 1. Continue metformin 500 mg BD. 2. Continue telmisartan 40 mg OD. 3. Diet: reduce rice and sweets.\nAdv: Walk 30 min daily; reduce salt; avoid sugary tea. R/V in 3 months."
+    },
+    {
+      "memory_id": "P18-m06",
+      "date": "2025-06-10",
+      "type": "investigation",
+      "author": "D01",
+      "text": "Dilated fundus examination, 2025-06-10: mild non-proliferative diabetic retinopathy. No proliferative changes seen. Annual review advised. Findings explained to the patient by Dr Anjali Mehta (D01)."
+    },
+    {
+      "memory_id": "P18-m07",
+      "date": "2026-02-17",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, CKD stage 3a. Home fasting readings persistently above 180 mg/dL on tablets alone. No hypoglycaemia. Daughter present for teaching.\nO: BP 126/78 mmHg, pulse 72/min, wt 71 kg. O/E: NAD. Pen technique demonstrated with daughter present.\nA: 1. T2DM, uncontrolled on oral medicines. 2. CKD stage 3a, stable.\nP: 1. Start insulin glargine (Lantus) 10 units HS. 2. Continue metformin 500 mg BD. 3. Continue telmisartan 40 mg OD. 4. Hypoglycaemia symptoms and treatment taught; keep glucose tablets at hand.\nAdv: Inject at the same time each night; eat regular meals; walk 30 min daily. R/V in 3 months."
+    },
+    {
+      "memory_id": "P18-m08",
+      "date": "2026-02-17",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: NEW insulin glargine (Lantus) 10 units subcutaneously HS, started 2026-02-17. Metformin 500 mg BD and telmisartan 40 mg OD unchanged."
+    },
+    {
+      "memory_id": "P18-m09",
+      "date": "2026-05-19",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, CKD stage 3a. On insulin glargine 10 units HS since February. No hypoglycaemia. Mornings still high on most days. Daughter present.\nO: BP 124/76 mmHg, pulse 70/min, wt 71 kg. O/E: NAD. No pedal oedema.\nA: 1. T2DM, HbA1c 9.2 % today, above target; insulin dose too low. 2. CKD stage 3a.\nP: 1. Increase insulin glargine (Lantus) to 14 units HS from today. 2. Continue metformin 500 mg BD. 3. Continue telmisartan 40 mg OD. 4. HbA1c in 3 months.\nAdv: Regular meals; cut sugary tea and sweets; walk 30 min after dinner. R/V in 3 months."
+    },
+    {
+      "memory_id": "P18-m10",
+      "date": "2026-05-19",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 9.2 % (reference below 5.7 %). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P18-m11",
+      "date": "2026-05-19",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: insulin glargine (Lantus) increased from 10 units HS to 14 units HS, from 2026-05-19. Metformin 500 mg BD and telmisartan 40 mg OD unchanged."
+    },
+    {
+      "memory_id": "P18-m12",
+      "date": "2026-08-18",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, CKD stage 3a. On insulin glargine 14 units HS. Mornings better. No hypoglycaemia. No new complaints. Daughter present.\nO: BP 122/78 mmHg, pulse 72/min, wt 71 kg. O/E: NAD. No pedal oedema.\nA: 1. T2DM, HbA1c 8.6 % today, improving but above target. 2. CKD stage 3a; creatinine 1.6 mg/dL today.\nP: 1. Continue insulin glargine (Lantus) 14 units HS. 2. Continue metformin 500 mg BD. 3. Continue telmisartan 40 mg OD. 4. Fasting labs at the next visit, as booked.\nAdv: Keep meals regular; walk 30 min daily; limit salt and sweets. R/V in 2 months."
+    },
+    {
+      "memory_id": "P18-m13",
+      "date": "2026-08-18",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 8.6 % (reference below 5.7 %). Creatinine 1.6 mg/dL (reference 0.7 to 1.3). LDL cholesterol 131 mg/dL (desirable below 100). Fasting glucose 172 mg/dL (reference 70 to 99). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P18-m14",
+      "date": "2026-08-18",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up with Dr Anjali Mehta (D01) booked for 2026-10-20 at 08:30. Fasting labs. Booked at reception during the 2026-08-18 visit. Please come fasting and arrive 10 minutes early for registration."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "patient_id": "P12",
+  "name": "Neha Gupta",
+  "age": 33,
+  "sex": "F",
+  "primary_doctor": "D01",
+  "conditions": ["Polycystic ovary syndrome"],
+  "memories": [
+    {
+      "memory_id": "P12-m01",
+      "date": "2025-05-06",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Intake form, patient-reported: marketing executive, lives in Jayanagar with her husband. Periods irregular since age 25, cycles 45-60 days apart. Acne along the jawline and fine facial hair for about two years. Wants to discuss weight and future pregnancy planning. Has been trying to walk more but finds evening work calls make it hard."
+    },
+    {
+      "memory_id": "P12-m02",
+      "date": "2025-05-20",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: 33 F, not diabetic. C/o irregular periods, cycles 45-60 days, acne on jawline and fine facial hair x 2 yrs. Wants to discuss weight. Not trying to conceive at present. No galactorrhoea, no headache or visual change.\nO: O/E BMI 27.8 kg/m2. BP 118/76 mmHg. Mild hirsutism (upper lip and chin). Acne grade 2. Thyroid not enlarged.\nA: 1. PCOS (irregular cycles, clinical hyperandrogenism). 2. Insulin resistance likely; not diabetic. 3. Overweight.\nP: 1. Start metformin (Glycomet) 500 mg BD with meals, for PCOS. 2. HbA1c today. 3. USG pelvis. 4. Penicillin allergy recorded (see allergy record). 5. Diet and daily walk.\nAdv: Low refined carbohydrate diet, include millets and pulses. Walk 30 min, 5 days a week. Avoid sugary drinks. R/V in 3 mths."
+    },
+    {
+      "memory_id": "P12-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "HbA1c (HPLC), collected 2025-05-20, Sunrise Family Clinic Laboratory. HbA1c: 5.4 %. Reference: below 5.7 % normal; 5.7-6.4 % prediabetes range; 6.5 % or more diabetes range. Interpretation: normal."
+    },
+    {
+      "memory_id": "P12-m04",
+      "date": "2025-05-20",
+      "type": "allergy",
+      "author": "D01",
+      "text": "Allergy recorded: penicillin, mild. Itchy rash after amoxicillin in childhood (around 1999). No facial or throat swelling, no difficulty breathing, no emergency visit. Reaction: urticarial rash only. Severity: mild. Recorded 2025-05-20 by D01."
+    },
+    {
+      "memory_id": "P12-m05",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx: metformin (Glycomet) 500 mg BD after meals, for PCOS (not for diabetes), from 2025-05-20. Review tolerance at 3 months. No other medicines."
+    },
+    {
+      "memory_id": "P12-m06",
+      "date": "2025-05-27",
+      "type": "investigation",
+      "author": "D01",
+      "text": "USG pelvis (transabdominal), reported 2025-05-27: uterus normal in size, endometrium 6 mm. Both ovaries enlarged, each with more than 12 peripheral follicles, ovarian volume above 10 mL. Impression: polycystic-appearing ovaries, consistent with PCOS in the setting of irregular cycles and clinical signs."
+    },
+    {
+      "memory_id": "P12-m07",
+      "date": "2025-07-14",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message, 2025-07-14 (patient): 'Started a 30 minute walk after dinner most days. Weight 69 kg this morning, down a little. The tablets are going well, I take them with breakfast and dinner as the card says. Will the periods become regular on their own once the weight comes down?'"
+    },
+    {
+      "memory_id": "P12-m08",
+      "date": "2025-08-22",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o PCOS on metformin 500 mg BD since May. Tolerating metformin well, no diarrhoea, no nausea. C/o periods still irregular, but last cycle was 38 days, better than before. Weight down 2 kg. Acne improved. Walking 20 min most days.\nO: O/E BMI 27.1 kg/m2. BP 116/74 mmHg. Hirsutism mild, unchanged.\nA: 1. PCOS, improving on metformin. 2. Overweight, reducing.\nP: 1. Continue metformin 500 mg BD. 2. Continue lifestyle changes. 3. No new medicines today.\nAdv: Continue 30 min walk 5 days a week. Prefer whole grains and pulses. Avoid sweet drinks and bakery items. R/V in 3 mths."
+    },
+    {
+      "memory_id": "P12-m09",
+      "date": "2025-11-12",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o PCOS on metformin 500 mg BD since May. Periods now every 35-40 days. No GI symptoms. Weight stable at 68 kg. Mild acne on chin, no new hair growth. Mood fine. Penicillin allergy (mild, childhood rash) noted again today.\nO: O/E BMI 26.9 kg/m2. BP 118/72 mmHg. Hirsutism mild, unchanged.\nA: 1. PCOS, partial response, cycles improved. 2. Overweight. 3. Penicillin allergy, mild.\nP: 1. Continue metformin 500 mg BD. 2. Diet and exercise reinforced. 3. Review at next visit.\nAdv: Walk 30 min daily. Reduce refined flour. Include millets and pulses in meals. R/V in 6 mths."
+    },
+    {
+      "memory_id": "P12-m10",
+      "date": "2026-02-09",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message, 2026-02-09 (patient): 'My cycle came after 41 days, so still a bit irregular. Stomach is fine on the metformin tablets. Weight is 67 kg. Should I get a repeat pelvic scan, or is it too early?'"
+    },
+    {
+      "memory_id": "P12-m11",
+      "date": "2026-05-14",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o PCOS on metformin 500 mg BD. Cycle 32 days last month, more regular. Acne mild. No progression of hair growth. C/o tiredness mid-afternoon. Planning pregnancy in the next 1-2 years, asks about timing.\nO: O/E BMI 26.4 kg/m2. BP 116/74 mmHg. Acne grade 1.\nA: 1. PCOS, improving on metformin. 2. Overweight, slow weight loss. 3. Not diabetic, HbA1c 5.4 % in May 2025.\nP: 1. Continue metformin 500 mg BD. 2. Preconception counselling given: weight target and regular cycles. 3. Review tiredness if it persists.\nAdv: Continue 30 min walk daily. Sleep at least 7 hours. Keep eating regular meals with protein. R/V in 6 mths."
+    },
+    {
+      "memory_id": "P12-m12",
+      "date": "2026-07-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message, 2026-07-02 (patient): 'Weight 66 kg this morning. Sleeping better and the afternoon tiredness is less. Cycle was 30 days this month, which is the shortest I have had in years. Just wanted to share this.'"
+    },
+    {
+      "memory_id": "P12-m13",
+      "date": "2026-10-07",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o PCOS on metformin 500 mg BD. C/o cough and sinus pain x 10 days. Cough productive of thick yellow sputum. Frontal and maxillary sinus pain and pressure, blocked nose, reduced smell. Low-grade fever 37.9 C for 2 days. Penicillin allergy (mild, childhood rash).\nO: O/E T 37.9 C. Pulse 84/min. BP 120/76 mmHg. Maxillary sinuses tender to percussion. Nasal mucosa congested with purulent discharge. Throat mildly congested. Chest clear.\nA: 1. Acute bacterial sinusitis, likely. 2. PCOS on metformin, stable. 3. Penicillin allergy, mild.\nP: 1. Antibiotic course; non-penicillin agent chosen because of the allergy. 2. Saline nasal washes twice daily. 3. Steam inhalation and plenty of fluids. 4. Continue metformin 500 mg BD.\nAdv: Rest, warm fluids, steam inhalation twice daily. Avoid cold air exposure. Come back sooner if not better in 72 hrs. R/V in 2 wks."
+    }
+  ]
+}

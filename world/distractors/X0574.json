@@ -1,0 +1,124 @@
+{
+  "patient_id": "X0574",
+  "name": "Prakash Naik",
+  "age": 60,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0574-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency:\n- Status: symptomatic fatigue, tingling toes; B12 pending.\n- Plan: check serum B12, MCV, Hb; start methylcobalamin 1500 mcg OD; advise meat, eggs, dairy; weight 78 kg, waist 92 cm (>90 cm male cut‑off).\nDue: HbA1c not applicable (no glucose‑lowering)."
+    },
+    {
+      "memory_id": "X0574-m02",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 150 pg/mL (ref 200‑900).\nMCV: 98 fL (ref 80‑100).\nHaemoglobin: 13.2 g/dL (ref 13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0574-m03",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methylcobalamin 1500 mcg OD\nDuration: 3 months\nTake after food."
+    },
+    {
+      "memory_id": "X0574-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency:\n- Status: improved energy, tingling less; B12 result awaited.\n- Plan: continue methylcobalamin 1500 mcg OD; repeat B12, MCV, Hb; reinforce B12‑rich diet; weight 77.5 kg, waist 90 cm (at cut‑off).\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0574-m05",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 380 pg/mL (ref 200‑900).\nMCV: 92 fL (ref 80‑100).\nHaemoglobin: 13.8 g/dL (ref 13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0574-m06",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency:\n- Status: asymptomatic, B12 within normal.\n- Plan: reduce methylcobalamin to 1000 mcg OD; check B12 in 3 months; diet advice: include fortified cereals; weight 77 kg, waist 89 cm (<90 cm).\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0574-m07",
+      "date": "2025-10-16",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methylcobalamin 1000 mcg OD\nDuration: 3 months\nTake after food."
+    },
+    {
+      "memory_id": "X0574-m08",
+      "date": "2026-01-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency:\n- Status: well, no neurologic symptoms.\n- Plan: maintain methylcobalamin 1000 mcg OD; repeat B12, MCV, Hb; continue balanced diet; weight 76.8 kg, waist 88 cm.\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0574-m09",
+      "date": "2026-01-21",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 460 pg/mL (ref 200‑900).\nMCV: 90 fL (ref 80‑100).\nHaemoglobin: 14.0 g/dL (ref 13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0574-m10",
+      "date": "2026-04-25",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency:\n- Status: occasional mild nausea after supplement; B12 adequate.\n- Plan: hold methylcobalamin for 2 weeks to assess nausea; re‑check B12; emphasize natural B12 sources; weight 76.5 kg, waist 87 cm.\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0574-m11",
+      "date": "2026-04-26",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin B12: 500 pg/mL (ref 200‑900).\nMCV: 89 fL (ref 80‑100).\nHaemoglobin: 14.1 g/dL (ref 13.0‑17.0)."
+    },
+    {
+      "memory_id": "X0574-m12",
+      "date": "2026-05-02",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Dear Clinic, I stopped the B12 tablets two weeks ago as advised. The nausea has gone, but I feel a little more tired today. Should I restart the tablets or wait for the next test? Thanks, Ramesh."
+    },
+    {
+      "memory_id": "X0574-m13",
+      "date": "2026-07-30",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency:\n- Status: fatigue mild, B12 borderline high.\n- Plan: discontinue methylcobalamin; check B12 in 3 months to ensure levels stay adequate; diet: continue eggs, fish, fortified cereals; weight 76.0 kg, waist 86 cm.\nDue: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0574-m14",
+      "date": "2026-07-31",
+      "type": "prescription",
+      "author": "D04",
+      "text": "methylcobalamin: stopped\nNo further supply advised."
+    },
+    {
+      "memory_id": "X0574-m15",
+      "date": "2026-08-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-09-10 at 10:30 AM with Dr Karthik Hegde (D04) to review B12 levels and symptoms."
+    },
+    {
+      "memory_id": "X0574-m16",
+      "date": "2026-09-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "Vitamin B12 deficiency:\n- Status: asymptomatic, B12 within normal range after stopping supplement.\n- Plan: no B12 supplementation needed; repeat B12 in 6 months; maintain balanced diet; weight 75.8 kg, waist 85 cm.\nDue: HbA1c not applicable."
+    }
+  ]
+}

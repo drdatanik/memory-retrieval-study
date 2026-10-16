@@ -1,0 +1,119 @@
+{
+  "patient_id": "X0362",
+  "name": "Pravin Phadke",
+  "age": 53,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Atrial fibrillation",
+    "Benign positional vertigo",
+    "COPD"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0362-m01",
+      "date": "2025-04-03",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Atrial fibrillation: Status: stable on apixaban 5 mg BD and bisoprolol 2.5 OD, no recent palpitations. Plan: continue apixaban, bisoprolol; check INR if warfarin considered later.\n- Benign positional vertigo: Status: reports occasional brief spinning on lying down, no falls. Plan: start betahistine 16 mg BD, keep meclizine 25 mg SOS for acute episodes.\n- COPD: Status: dyspnea on exertion mMRC 1, uses tiotropium OD and salbutamol SOS. Plan: continue inhalers, check spirometry.\n- Weight 78 kg, waist 92 cm (male cut-off 90 cm) – central obesity.\n- Diet advice: Breakfast – idli with sambar, limited oil; Lunch – wheat roti, dal, vegetable curry, small rice portion; Dinner – light khichdi, curd.\n- Due: HbA1c not applicable (no glucose-lowering therapy)."
+    },
+    {
+      "memory_id": "X0362-m02",
+      "date": "2025-04-03",
+      "type": "prescription",
+      "author": "D04",
+      "text": "apixaban 5 mg twice daily\nbisoprolol 2.5 mg once daily\ntiotropium inhaler 2 puffs once daily\nsalbutamol inhaler 2 puffs as needed\nbudesonide-formoterol 200/6 mcg inhaler 2 puffs twice daily\nbetahistine 16 mg twice daily\nmeclizine 25 mg as needed for vertigo"
+    },
+    {
+      "memory_id": "X0362-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 1.1 (reference 0.9-1.1)\nSerum creatinine 0.9 mg/dL (0.6-1.2)\nTSH 2.1 µIU/mL (0.4-4.0)\nHbA1c 5.6% (4.0-5.6)\nLipids: Total cholesterol 180 mg/dL (<200), LDL 100 mg/dL (<130), HDL 42 mg/dL (>40), Triglycerides 150 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0362-m04",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Spirometry: FEV1 2.1 L (68% predicted), FVC 3.0 L (85% predicted), FEV1/FVC 0.70 (lower limit 0.70). Consistent with mild obstructive pattern."
+    },
+    {
+      "memory_id": "X0362-m05",
+      "date": "2025-04-12",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Chest X-ray: lungs clear, no infiltrate, cardiac silhouette within normal limits, no pleural effusion."
+    },
+    {
+      "memory_id": "X0362-m06",
+      "date": "2025-04-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have had three short episodes of spinning when I turn over in bed, each lasting less than a minute. No nausea or hearing loss. I feel fine otherwise."
+    },
+    {
+      "memory_id": "X0362-m07",
+      "date": "2025-05-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "betahistine 16 mg twice daily (continue)\nmeclizine 25 mg as needed for vertigo (continue)"
+    },
+    {
+      "memory_id": "X0362-m08",
+      "date": "2025-07-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Atrial fibrillation: Status: no palpitations, apixaban well tolerated. Plan: continue.\n- Benign positional vertigo: Status: episodes reduced to once weekly after betahistine, mild. Plan: continue betahistine, meclizine SOS.\n- COPD: Status: mMRC 1, using tiotropium OD, salbutamol SOS 2-3 times/week, budesonide-formoterol BD. Plan: continue.\n- Weight 77 kg, waist 90 cm (at cut-off).\n- Diet advice: Breakfast – poha with peas, limited oil; Lunch – chapati, sambar, veggie, small rice; Dinner – vegetable dalia, curd.\n- Due: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0362-m09",
+      "date": "2025-07-05",
+      "type": "prescription",
+      "author": "D04",
+      "text": "bisoprolol 5 mg once daily (increased from 2.5 mg)\napixaban 5 mg twice daily\ntiotropium inhaler 2 puffs once daily\nsalbutamol inhaler 2 puffs as needed\nbudesonide-formoterol 200/6 mcg inhaler 2 puffs twice daily\nbetahistine 16 mg twice daily\nmeclizine 25 mg as needed"
+    },
+    {
+      "memory_id": "X0362-m10",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "INR 1.2 (0.9-1.1)\nSerum creatinine 0.9 mg/dL (0.6-1.2)\nTSH 2.0 µIU/mL (0.4-4.0)\nLipids: Total cholesterol 175 mg/dL, LDL 98 mg/dL, HDL 43 mg/dL, Triglycerides 140 mg/dL"
+    },
+    {
+      "memory_id": "X0362-m11",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-07 at 10:00 AM with Dr Karthik Hegde (D04) for routine follow-up."
+    },
+    {
+      "memory_id": "X0362-m12",
+      "date": "2025-10-07",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Atrial fibrillation: Status: patient reports occasional mild palpitation, apixaban continued. Plan: consider warfarin if INR unstable; continue apixaban for now.\n- Benign positional vertigo: Status: rare episodes, betahistine helpful. Plan: continue.\n- COPD: Status: stable, inhaler technique good. Plan: continue.\n- Weight 78 kg, waist 92 cm (above cut-off).\n- Diet advice: Breakfast – upma with veggies, limited oil; Lunch – jowar roti, dal, vegetable, small rice; Dinner – vegetable pulao, curd.\n- Due: HbA1c not applicable."
+    },
+    {
+      "memory_id": "X0362-m13",
+      "date": "2025-10-07",
+      "type": "prescription",
+      "author": "D04",
+      "text": "warfarin 5 mg once daily (INR target 2-3)\nstop apixaban\nbisoprolol 5 mg once daily\ntiotropium inhaler 2 puffs once daily\nsalbutamol inhaler 2 puffs as needed\nbudesonide-formoterol 200/6 mcg inhaler 2 puffs twice daily\nbetahistine 16 mg twice daily\nmeclizine 25 mg as needed"
+    },
+    {
+      "memory_id": "X0362-m14",
+      "date": "2025-10-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "ECG: sinus rhythm, rate 78 bpm, no P wave abnormalities, PR interval 160 ms, QRS 92 ms, no ST-T changes. No signs of atrial fibrillation at this moment."
+    },
+    {
+      "memory_id": "X0362-m15",
+      "date": "2026-04-02",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Atrial fibrillation: Status: on warfarin, last INR 2.4 (target 2-3), no bleeding or thromboembolic events. Plan: continue warfarin, bisoprolol.\n- Benign positional vertigo: Status: well controlled on betahistine, occasional meclizine SOS. Plan: continue.\n- COPD: Status: mMRC 1, inhalers compliant, no exacerbations in past 6 months. Plan: continue.\n- Weight 79 kg, waist 93 cm (above cut-off).\n- Diet advice: Breakfast – multigrain toast with avocado, limited oil; Lunch – brown rice, sambar, veggie, chapati; Dinner – lentil soup, salad.\n- Due: HbA1c not applicable."
+    }
+  ]
+}

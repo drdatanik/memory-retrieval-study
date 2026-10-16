@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0017",
+  "name": "Manpreet Ahluwalia",
+  "age": 62,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Benign prostatic hyperplasia",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0017-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine follow-up for benign prostatic hyperplasia and migraine.\nPRESENTING COMPLAINT: Patient reports no new urinary symptoms, occasional mild headache relieved by rest.\nEXAMINATION: BP 138/84 mmHg, weight 78 kg, height 1.68 m, BMI 27.6 (obese). Abdomen soft, no suprapubic tenderness. Neurologic exam normal.\nIMPRESSION: BPH stable, migraine well controlled on prophylactic propranolol. Lipids borderline elevated, FBS normal, PSA 1.8 ng/mL.\nARRANGEMENTS: Continue current meds, advise low‑salt diet, regular walking 30 min daily, weight reduction. Return if: new dysuria, hematuria, worsening headache, visual changes, fever >39 °C, or chest pain."
+    },
+    {
+      "memory_id": "X0017-m02",
+      "date": "2025-04-11",
+      "type": "prescription",
+      "author": "D03",
+      "text": "tamsulosin 0.4 mg HS\nfinasteride 5 mg OD\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS"
+    },
+    {
+      "memory_id": "X0017-m03",
+      "date": "2025-04-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 210 mg/dL (≤200 desirable), LDL 130 mg/dL (<100 optimal), HDL 38 mg/dL (>40 desirable), Triglycerides 160 mg/dL (<150 normal).\nFasting blood sugar: 92 mg/dL (70‑100 normal).\nPSA: 1.8 ng/mL (0‑4 normal).\nUrine routine: Pus cells 0‑2/hpf, epithelial cells few, nil albumin, nil sugar."
+    },
+    {
+      "memory_id": "X0017-m04",
+      "date": "2025-04-22",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Neurological examination: Cranial nerves II‑XII intact, no facial asymmetry, tongue midline. Muscle strength 5/5 bilaterally. Tone normal. Coordination (finger‑nose, heel‑shin) intact. Gait steady, Romberg negative."
+    },
+    {
+      "memory_id": "X0017-m05",
+      "date": "2025-04-25",
+      "type": "investigation",
+      "author": "D03",
+      "text": "CT head (non‑contrast): No acute hemorrhage, infarct, or mass. Ventricles and sulci within normal limits. No abnormal enhancement. No evidence of chronic ischemic changes."
+    },
+    {
+      "memory_id": "X0017-m06",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up for BPH and migraine.\nPRESENTING COMPLAINT: Patient notes reduced nocturia (2‑3 times/night) and fewer migraine days (≈2/month).\nEXAMINATION: BP 132/80 mmHg, weight 76 kg, BMI 26.9 (overweight). Abdomen soft, prostate mildly enlarged on DRE.\nIMPRESSION: BPH symptoms improved; migraine prophylaxis effective. Lipids still borderline, FBS normal, PSA risen to 2.2 ng/mL.\nARRANGEMENTS: Continue meds, advise low‑fat diet, increase aerobic activity to 150 min/week. Return if: acute urinary retention, gross hematuria, severe headache unresponsive to sumatriptan, fever >39 °C, or chest pain."
+    },
+    {
+      "memory_id": "X0017-m07",
+      "date": "2025-07-16",
+      "type": "prescription",
+      "author": "D03",
+      "text": "tamsulosin 0.4 mg BD\nfinasteride 5 mg OD\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS\natorvastatin 10 mg OD (new for borderline lipids)"
+    },
+    {
+      "memory_id": "X0017-m08",
+      "date": "2025-10-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-10-10 at 10:30 am with Dr Priya Natarajan for routine review of BPH, migraine, and lipid status."
+    },
+    {
+      "memory_id": "X0017-m09",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine review visit.\nPRESENTING COMPLAINT: Patient reports stable urinary flow, occasional mild headache relieved by naproxen.\nEXAMINATION: BP 130/78 mmHg, weight 75 kg, BMI 26.5 (overweight). Abdomen soft, prostate mildly enlarged.\nIMPRESSION: BPH stable; migraine controlled. Lipids: total cholesterol 195 mg/dL, LDL 110 mg/dL, HDL 40 mg/dL, TG 140 mg/dL (improved on atorvastatin). FBS 94 mg/dL. PSA 2.4 ng/mL (slow rise).\nARRANGEMENTS: Continue current meds. Offer influenza vaccine; administered today 0.5 mL IM. Return if: dysuria, hematuria, worsening headache, visual disturbance, fever >39 °C, or chest pain."
+    },
+    {
+      "memory_id": "X0017-m10",
+      "date": "2025-10-11",
+      "type": "prescription",
+      "author": "D03",
+      "text": "tamsulosin 0.4 mg BD\nfinasteride 5 mg OD\npropranolol 40 mg OD\ntopiramate 25 mg HS\nsumatriptan 50 mg SOS\nnaproxen 500 mg SOS\natorvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0017-m11",
+      "date": "2025-10-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting lipid profile: Total cholesterol 195 mg/dL (≤200), LDL 110 mg/dL (<130), HDL 40 mg/dL (≥40), Triglycerides 140 mg/dL (<150).\nFasting blood sugar: 94 mg/dL (70‑100).\nPSA: 2.4 ng/mL (0‑4).\nUrine routine: Pus cells 0‑2/hpf, nil albumin, nil sugar."
+    },
+    {
+      "memory_id": "X0017-m12",
+      "date": "2026-01-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Via clinic app: ‘I noticed pinkish urine this morning and a burning sensation when I urinate. No fever.’"
+    },
+    {
+      "memory_id": "X0017-m13",
+      "date": "2026-01-22",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Evaluation of new hematuria.\nPRESENTING COMPLAINT: Patient reports pink urine and dysuria for 12 hours, no fever or flank pain.\nEXAMINATION: BP 128/80 mmHg, weight 75 kg, BMI 26.5. Suprapubic tenderness mild. No costovertebral tenderness.\nIMPRESSION: Acute hematuria likely due to BPH‑related irritation or possible urinary tract infection; need to rule out stone or malignancy.\nARRANGEMENTS: Order urine culture, urine cytology, and ultrasound KUB with post‑void residual. Refer to urology for cystoscopy. Return if: worsening pain, inability to pass urine, fever >38 °C, or clots in urine."
+    },
+    {
+      "memory_id": "X0017-m14",
+      "date": "2026-01-23",
+      "type": "referral",
+      "author": "D03",
+      "text": "Referral to Dr S. K. Rao, Department of Urology, Vikram Hospital, Bengaluru.\nReason: Evaluation of painless hematuria and dysuria in a 62‑year‑old male with BPH to exclude urothelial lesion, stone, or infection.\nClinical details: PSA 2.4 ng/mL, prostate mildly enlarged on DRE, recent urine showing hematuria. Request cystoscopy and upper tract imaging if needed."
+    },
+    {
+      "memory_id": "X0017-m15",
+      "date": "2026-02-10",
+      "type": "referral_outcome",
+      "author": "lab",
+      "text": "Urology report: Cystoscopy showed a small bladder stone (≈4 mm) at the bladder neck, no mucosal malignancy. Stone removed via endoscopic lithotripsy. Post‑op urine clear. Recommend continue tamsulosin for BPH, increase fluid intake, and follow‑up in 3 months."
+    },
+    {
+      "memory_id": "X0017-m16",
+      "date": "2026-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Post‑urology procedure check.\nPRESENTING COMPLAINT: Patient reports no urinary symptoms, normal stream, no headache.\nEXAMINATION: BP 128/78 mmHg, weight 74 kg, BMI 26.2 (overweight). Abdomen soft, no suprapubic tenderness.\nIMPRESSION: Hematuria resolved after bladder stone removal. BPH symptoms controlled. Migraine well controlled on prophylactic propranolol. Lipids stable on atorvastatin, FBS normal.\nARRANGEMENTS: Continue current meds. Advise regular hydration and low‑purine diet. Return if: dysuria, hematuria, severe headache, visual changes, fever >39 °C, or chest pain."
+    },
+    {
+      "memory_id": "X0017-m17",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Annual fasting lipid profile: Total cholesterol 188 mg/dL (≤200), LDL 102 mg/dL (<130), HDL 42 mg/dL (≥40), Triglycerides 130 mg/dL (<150).\nFasting blood sugar: 90 mg/dL (70‑100).\nPSA: 2.5 ng/mL (0‑4).\nUrine routine: Pus cells 0‑2/hpf, nil albumin, nil sugar."
+    }
+  ]
+}

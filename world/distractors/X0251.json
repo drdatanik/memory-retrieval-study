@@ -1,0 +1,118 @@
+{
+  "patient_id": "X0251",
+  "name": "Farzana Hussain",
+  "age": 65,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic kidney disease",
+    "Osteoarthritis of the knee"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0251-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3a with osteoarthritis of both knees.\nPatient reports mild fatigue and occasional knee pain on walking; denies dyspnea or chest pain. Examination shows BP 138/86, pulse 78, lungs clear, abdomen soft, no peripheral edema, knees tender medially with mild crepitus. Smoking status: former, 10 pack-years, quit 2010. Plan: start telmisartan 40 mg OD, dapagliflozin 10 mg OD, furosemide 20 mg OD, sodium bicarbonate 500 mg BD; paracetamol 650 mg SOS, topical diclofenac gel BD, calcium with vitamin D3 OD. Review in 3 months."
+    },
+    {
+      "memory_id": "X0251-m02",
+      "date": "2025-04-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.42 mg/dL (0.60-1.30); eGFR 52 mL/min/1.73m2 (>60); urine albumin‑creatinine ratio 85 mg/g (<30); haemoglobin 12.8 g/dL (12.0-15.5)."
+    },
+    {
+      "memory_id": "X0251-m03",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 40 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n paracetamol 650 mg SOS\n topical diclofenac gel BD\n calcium with vitamin D3 OD"
+    },
+    {
+      "memory_id": "X0251-m04",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stage 3a, stable; osteoarthritis symptomatic.\nPatient notes improved energy, occasional knee ache after long drives; no edema or dyspnea. Exam: BP 132/84, pulse 80, lungs clear, abdomen soft, no edema, knees mildly tender, full range of motion. Smoking status: former, 10 pack-years, quit 2010. Plan: continue current CKD meds; check labs; reinforce knee exercises; continue paracetamol SOS and topical diclofenac."
+    },
+    {
+      "memory_id": "X0251-m05",
+      "date": "2025-07-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.38 mg/dL; eGFR 55 mL/min/1.73m2; urine ACR 78 mg/g; haemoglobin 13.0 g/dL."
+    },
+    {
+      "memory_id": "X0251-m06",
+      "date": "2025-07-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "telmisartan 80 mg OD (increased from 40)\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n paracetamol 650 mg SOS\n topical diclofenac gel BD\n calcium with vitamin D3 OD"
+    },
+    {
+      "memory_id": "X0251-m07",
+      "date": "2025-10-05",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Weight‑bearing X‑ray both knees: joint space narrowing medial compartment, osteophytes, subchondral sclerosis – consistent with moderate osteoarthritis. No fracture or effusion."
+    },
+    {
+      "memory_id": "X0251-m08",
+      "date": "2025-10-06",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I’ve been having more pain in my right knee after long shifts; it sometimes wakes me at night. The gel helps a bit but I worry about driving safely."
+    },
+    {
+      "memory_id": "X0251-m09",
+      "date": "2025-10-07",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up visit booked for 2025-11-15 at 10:30 AM with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0251-m10",
+      "date": "2025-11-15",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Osteoarthritis worsening, CKD stable.\nPatient reports increased right‑knee pain limiting driving; occasional paracetamol use. Exam: BP 130/82, pulse 78, lungs clear, abdomen soft, no edema, right knee tender with mild effusion, crepitus. Smoking status: former, 10 pack-years, quit 2010. Plan: continue CKD meds; add supervised physiotherapy; continue paracetamol SOS and topical diclofenac; consider intra‑articular steroid if no improvement."
+    },
+    {
+      "memory_id": "X0251-m11",
+      "date": "2025-11-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum vitamin D 18 ng/mL (30-100); serum creatinine 1.40 mg/dL; eGFR 53 mL/min/1.73m2; urine ACR 80 mg/g; haemoglobin 12.9 g/dL."
+    },
+    {
+      "memory_id": "X0251-m12",
+      "date": "2025-11-17",
+      "type": "prescription",
+      "author": "D05",
+      "text": "cholecalciferol 1000 IU OD\n telmisartan 80 mg OD\n dapagliflozin 10 mg OD\n furosemide 20 mg OD\n sodium bicarbonate 500 mg BD\n paracetamol 650 mg SOS\n topical diclofenac gel BD\n calcium with vitamin D3 OD"
+    },
+    {
+      "memory_id": "X0251-m13",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "CKD stage 3a, mild decline; osteoarthritis managed.\nPatient feels better with physio, knee pain less frequent; no new symptoms. Exam: BP 128/80, pulse 76, lungs clear, abdomen soft, no edema, knees mildly tender, full ROM. Smoking status: former, 10 pack-years, quit 2010. Plan: repeat labs; continue current meds; encourage weight‑bearing exercise within limits."
+    },
+    {
+      "memory_id": "X0251-m14",
+      "date": "2026-02-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum creatinine 1.45 mg/dL; eGFR 50 mL/min/1.73m2; urine ACR 82 mg/g; haemoglobin 12.7 g/dL; serum vitamin D 32 ng/mL."
+    },
+    {
+      "memory_id": "X0251-m15",
+      "date": "2026-06-30",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Chronic kidney disease stable; osteoarthritis controlled.\nPatient reports no knee pain limiting work; occasional paracetamol for mild discomfort. Exam: BP 130/84, pulse 78, lungs clear, abdomen soft, no edema, knees non‑tender, full ROM. Smoking status: former, 10 pack-years, quit 2010. Plan: continue telmisartan 80 mg, dapagliflozin 10 mg, furosemide 20 mg, sodium bicarbonate 500 mg BD; calcium‑vit D3 OD; cholecalciferol 1000 IU OD; paracetamol SOS; topical diclofenac BD. Review in 4 months."
+    }
+  ]
+}

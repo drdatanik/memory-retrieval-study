@@ -1,0 +1,111 @@
+{
+  "patient_id": "X0339",
+  "name": "Sharmila Roy",
+  "age": 36,
+  "sex": "F",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Psoriasis",
+    "Rheumatoid arthritis"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0339-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis and rheumatoid arthritis flare.\nPatient reports worsening scaly plaques on elbows and knees, joint pain and morning stiffness lasting >1 hour. Examination shows erythematous plaques with silvery scale over extensor surfaces, tender swollen wrists and MCP joints. No respiratory symptoms. Smoking status: never. Spirometry: FEV1 3.20 L (95% pred), FVC 3.80 L (98% pred), FEV1/FVC 0.84; unchanged from baseline. Asthma Control Test not applicable. Inhaler technique: no inhaler prescribed."
+    },
+    {
+      "memory_id": "X0339-m02",
+      "date": "2025-04-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "clobetasol 0.05% cream BD topical to plaques\ncalcipotriol ointment OD topical to plaques\nmethotrexate 7.5 mg PO once weekly\nfolic acid 5 mg PO daily\nhydroxychloroquine 200 mg PO daily\nprednisolone 5 mg PO daily"
+    },
+    {
+      "memory_id": "X0339-m03",
+      "date": "2025-05-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 38 U/L (≤40), AST 34 U/L (≤40), ALKP 78 U/L (≤120), GGT 32 U/L (≤50), bilirubin 0.9 mg/dL (≤1.2). CBC: Hb 12.8 g/dL (12-16), WBC 6.2×10⁹/L (4-10), platelets 210×10⁹/L (150-400). Creatinine 0.8 mg/dL (0.6-1.1). ESR 22 mm/hr (≤20). CRP 6 mg/L (≤5). RF 12 IU/mL (<14). anti-CCP 5 U/ml (<20)."
+    },
+    {
+      "memory_id": "X0339-m04",
+      "date": "2025-06-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis improving, rheumatoid arthritis active.\nPlaques less erythematous, scaling decreased. Joint tenderness persists in wrists and MCP, morning stiffness 45 min. LFT shows mild ALT rise to 55 U/L. Smoking status: never. Spirometry: FEV1 3.18 L (94% pred), FVC 3.78 L (97% pred), FEV1/FVC 0.84; ΔFEV1 –0.02 L. Asthma Control Test not applicable. Inhaler technique: no inhaler prescribed."
+    },
+    {
+      "memory_id": "X0339-m05",
+      "date": "2025-06-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate 5 mg PO once weekly (reduced from 7.5 mg)\nfolic acid 5 mg PO daily unchanged\nother meds unchanged"
+    },
+    {
+      "memory_id": "X0339-m06",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up appointment booked for 2025-08-10 at 10:00 with Dr Suresh Menon (D05)."
+    },
+    {
+      "memory_id": "X0339-m07",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis well controlled, rheumatoid arthritis stable.\nPlaques flat, minimal scale. Joint pain mild, morning stiffness 20 min. LFT normal. Smoking status: never. Spirometry: FEV1 3.22 L (96% pred), FVC 3.82 L (99% pred), FEV1/FVC 0.84; ΔFEV1 +0.04 L. Asthma Control Test not applicable. Inhaler technique: no inhaler prescribed."
+    },
+    {
+      "memory_id": "X0339-m08",
+      "date": "2025-08-11",
+      "type": "prescription",
+      "author": "D05",
+      "text": "methotrexate 5 mg PO once weekly\nfolic acid 5 mg PO daily\nhydroxychloroquine 200 mg PO daily\nprednisolone 5 mg PO daily\nclobetasol 0.05% cream BD topical\ncalcipotriol ointment OD topical"
+    },
+    {
+      "memory_id": "X0339-m09",
+      "date": "2025-10-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 30 U/L, AST 28 U/L, ALKP 75 U/L, GGT 30 U/L, bilirubin 0.8 mg/dL. CBC: Hb 13.0 g/dL, WBC 6.0×10⁹/L, platelets 205×10⁹/L. Creatinine 0.8 mg/dL. ESR 18 mm/hr. CRP 4 mg/L. RF 10 IU/mL. anti-CCP 4 U/ml."
+    },
+    {
+      "memory_id": "X0339-m10",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis mild flare, rheumatoid arthritis worsening.\nNew plaques on scalp, itching. Joint pain increased in wrists, knees, morning stiffness 70 min. ESR elevated. Smoking status: never. Spirometry: FEV1 3.20 L (95% pred), FVC 3.80 L (98% pred), FEV1/FVC 0.84; ΔFEV1 –0.02 L. Asthma Control Test not applicable. Inhaler technique: no inhaler prescribed."
+    },
+    {
+      "memory_id": "X0339-m11",
+      "date": "2025-12-06",
+      "type": "prescription",
+      "author": "D05",
+      "text": "prednisolone 10 mg PO daily (increased from 5 mg)\nother meds unchanged"
+    },
+    {
+      "memory_id": "X0339-m12",
+      "date": "2026-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "LFT: ALT 34 U/L, AST 32 U/L, ALKP 76 U/L, GGT 31 U/L, bilirubin 0.9 mg/dL. CBC: Hb 12.9 g/dL, WBC 6.1×10⁹/L, platelets 208×10⁹/L. Creatinine 0.8 mg/dL. ESR 14 mm/hr. CRP 3 mg/L. RF 9 IU/mL. anti-CCP 3 U/ml."
+    },
+    {
+      "memory_id": "X0339-m13",
+      "date": "2026-08-10",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Spirometry: FEV1 3.25 L (97% pred), FVC 3.85 L (100% pred), FEV1/FVC 0.84; ΔFEV1 +0.05 L since last test. No bronchodilator response. Interpretation: normal lung function."
+    },
+    {
+      "memory_id": "X0339-m14",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Psoriasis in remission, rheumatoid arthritis controlled.\nPlaques clear, no scaling. Joint pain minimal, morning stiffness 10 min. LFT normal. Smoking status: never. Spirometry: FEV1 3.27 L (98% pred), FVC 3.88 L (101% pred), FEV1/FVC 0.84; ΔFEV1 +0.02 L. Asthma Control Test not applicable. Inhaler technique: no inhaler prescribed."
+    }
+  ]
+}

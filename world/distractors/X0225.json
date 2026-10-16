@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0225",
+  "name": "Nasir Mirza",
+  "age": 50,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Osteoporosis",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0225-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine review of osteoporosis and epilepsy. PRESENTING COMPLAINT: Patient reports no new seizures, mild back discomfort on exertion, otherwise well. EXAMINATION: BP 128/78 mmHg, weight 78 kg, height 1.68 m, BMI 27.6 (obese). Advised on diet and activity. Spine tender at L2-L3, no neurological deficit. IMPRESSION: 1) Osteoporosis, on alendronate and calcium/vit D, stable. 2) Epilepsy, levetiracetam 500 mg BD and lamotrigine 50 mg BD, seizure-free for 8 months. ARRANGEMENTS: Continue current meds. Order fasting lipid profile, fasting glucose, serum calcium, 25‑OH vitamin D, sodium, creatinine. DEXA scan and EEG scheduled. Return if: new seizures, worsening back pain, fever >39°C, chest pain, breathlessness, or blood in stools."
+    },
+    {
+      "memory_id": "X0225-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Alendronate 70 mg PO once weekly\nCalcium carbonate 500 mg PO BD\nCholecalciferol (vit D3) 400 IU PO BD\nLevetiracetam 500 mg PO BD\nLamotrigine 50 mg PO BD"
+    },
+    {
+      "memory_id": "X0225-m03",
+      "date": "2025-04-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 92 mg/dL (70‑99)\nFasting LDL 138 mg/dL (<100 optimal), HDL 42 mg/dL (>40 male), Triglycerides 162 mg/dL (<150)\nSerum calcium 9.4 mg/dL (8.5‑10.5)\nSerum 25‑OH vitamin D 18 ng/mL (30‑100)\nSerum sodium 138 mmol/L (135‑145)\nSerum creatinine 0.9 mg/dL (0.6‑1.2)"
+    },
+    {
+      "memory_id": "X0225-m04",
+      "date": "2025-04-07",
+      "type": "investigation",
+      "author": "D03",
+      "text": "DEXA scan lumbar spine L1‑L4: T‑score ‑2.6 at L2, consistent with osteoporosis. No vertebral fracture visualized."
+    },
+    {
+      "memory_id": "X0225-m05",
+      "date": "2025-04-08",
+      "type": "investigation",
+      "author": "D03",
+      "text": "EEG: Background activity normal, no epileptiform discharges or spike‑wave complexes. No evidence of seizure focus."
+    },
+    {
+      "memory_id": "X0225-m06",
+      "date": "2025-08-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Follow‑up after 4 months. PRESENTING COMPLAINT: Patient reports occasional mild leg cramps, no seizures, back pain unchanged. EXAMINATION: BP 130/80 mmHg, weight 77.5 kg, BMI 27.4 (obese). Advised on diet and activity. No new focal neurology. IMPRESSION: Osteoporosis stable; vitamin D low, need supplementation. Epilepsy well‑controlled. ARRANGEMENTS: Increase cholecalciferol to 1000 IU BD, re‑check calcium and vitamin D in 8 weeks. Continue other meds. Return if: new seizures, severe muscle pain, fever >39°C, chest pain, breathlessness, or blood in stools."
+    },
+    {
+      "memory_id": "X0225-m07",
+      "date": "2025-08-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Alendronate 70 mg PO once weekly\nCalcium carbonate 500 mg PO BD\nCholecalciferol (vit D3) 1000 IU PO BD\nLevetiracetam 500 mg PO BD\nLamotrigine 50 mg PO BD"
+    },
+    {
+      "memory_id": "X0225-m08",
+      "date": "2025-08-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum calcium 9.5 mg/dL (8.5‑10.5)\nSerum 25‑OH vitamin D 28 ng/mL (30‑100) – still suboptimal\nSerum sodium 139 mmol/L (135‑145)\nSerum creatinine 0.88 mg/dL (0.6‑1.2)"
+    },
+    {
+      "memory_id": "X0225-m09",
+      "date": "2025-12-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Quarterly review. PRESENTING COMPLAINT: Patient denies seizures, reports improved back comfort, occasional fatigue. EXAMINATION: BP 127/79 mmHg, weight 77 kg, BMI 27.2 (obese). Advised on diet and activity. No deformities. IMPRESSION: Osteoporosis stable; vitamin D still borderline, consider higher dose. Epilepsy unchanged, medication adherence good. ARRANGEMENTS: Increase cholecalciferol to 2000 IU BD, re‑check vitamin D in 3 months. Order fasting lipid profile and fasting glucose for annual review. Continue alendronate, calcium, levetiracetam, lamotrigine. Return if: new seizures, worsening pain, fever >39°C, chest pain, breathlessness, or blood in stools."
+    },
+    {
+      "memory_id": "X0225-m10",
+      "date": "2025-12-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Alendronate 70 mg PO once weekly\nCalcium carbonate 500 mg PO BD\nCholecalciferol (vit D3) 2000 IU PO BD\nLevetiracetam 500 mg PO BD\nLamotrigine 50 mg PO BD"
+    },
+    {
+      "memory_id": "X0225-m11",
+      "date": "2025-12-06",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 90 mg/dL (70‑99)\nFasting LDL 135 mg/dL (<100 optimal), HDL 44 mg/dL (>40 male), Triglycerides 158 mg/dL (<150)"
+    },
+    {
+      "memory_id": "X0225-m12",
+      "date": "2026-04-08",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Six‑month follow‑up. PRESENTING COMPLAINT: Patient reports one brief generalized tonic‑clonic seizure two weeks ago, lasting <2 minutes, post‑ictal confusion resolved. No injuries. Back pain mild. EXAMINATION: BP 129/81 mmHg, weight 78 kg, BMI 27.6 (obese). Advised on diet and activity. No focal deficit. IMPRESSION: Osteoporosis stable. Epilepsy: breakthrough seizure, consider dose adjustment of levetiracetam. ARRANGEMENTS: Increase levetiracetam to 750 mg BD, keep lamotrigine 50 mg BD. Check serum creatinine and sodium in 4 weeks. Continue alendronate, calcium, vitamin D 2000 IU BD. Return if: seizure recurrence, prolonged post‑ictal state, fever >39°C, chest pain, breathlessness, or blood in stools."
+    },
+    {
+      "memory_id": "X0225-m13",
+      "date": "2026-04-08",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Alendronate 70 mg PO once weekly\nCalcium carbonate 500 mg PO BD\nCholecalciferol (vit D3) 2000 IU PO BD\nLevetiracetam 750 mg PO BD\nLamotrigine 50 mg PO BD"
+    },
+    {
+      "memory_id": "X0225-m14",
+      "date": "2026-04-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum sodium 138 mmol/L (135‑145)\nSerum creatinine 0.92 mg/dL (0.6‑1.2)"
+    },
+    {
+      "memory_id": "X0225-m15",
+      "date": "2026-08-12",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Routine check‑up. PRESENTING COMPLAINT: Patient seizure‑free since medication increase, reports good energy, mild occasional back stiffness. EXAMINATION: BP 128/80 mmHg, weight 77.5 kg, BMI 27.4 (obese). Advised on diet and activity. No neurological signs. IMPRESSION: Osteoporosis stable; vitamin D level adequate on current dose. Epilepsy well‑controlled on levetiracetam 750 mg BD and lamotrigine 50 mg BD. ARRANGEMENTS: Continue current meds. Order repeat DEXA scan in 12 months. Return if: new seizures, worsening back pain, fever >39°C, chest pain, breathlessness, or blood in stools."
+    },
+    {
+      "memory_id": "X0225-m16",
+      "date": "2026-10-02",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Booking: Flu vaccine appointment scheduled for 2026-10-05 at 10:30 am with Dr Priya Natarajan (D03)."
+    },
+    {
+      "memory_id": "X0225-m17",
+      "date": "2026-10-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Autumn visit for influenza vaccine and chronic disease review. PRESENTING COMPLAINT: Patient well, no seizures, back discomfort minimal. EXAMINATION: BP 127/79 mmHg, weight 77 kg, BMI 27.2 (obese). Advised on diet and activity. No acute findings. IMPRESSION: Osteoporosis stable on alendronate, calcium, vitamin D 2000 IU BD. Epilepsy seizure‑free on levetiracetam 750 mg BD and lamotrigine 50 mg BD. ARRANGEMENTS: Influenza vaccine administered today (05‑Oct‑2026). Documented vaccine given. Continue meds. Return if: new seizures, fever >39°C, chest pain, breathlessness, or blood in stools."
+    }
+  ]
+}

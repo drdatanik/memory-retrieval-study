@@ -1,0 +1,97 @@
+{
+  "patient_id": "X0097",
+  "name": "Kalpana Gorantla",
+  "age": 35,
+  "sex": "F",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Polycystic ovary syndrome",
+    "Migraine"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0097-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: initial assessment of PCOS and migraine.\nPRESENTING COMPLAINT: Patient reports irregular menses, mild hirsutism, and monthly migraine headaches lasting 4-6 hours, responsive to sumatriptan.\nEXAMINATION: BP 118/76 mmHg, weight 62 kg, height 158 cm, BMI 24.8 (overweight). General appearance well, no acanthosis nigricans. Pelvic exam normal, no palpable masses. Neurologic exam non-focal.\nIMPRESSION: 1. Polycystic ovary syndrome, overweight. 2. Episodic migraine without aura.\nARRANGEMENTS: Start metformin 500 mg BD, combined oral contraceptive pill ethinylestradiol 30 mcg/levonorgestrel 150 mcg OD, propranolol 40 mg OD for migraine prophylaxis, sumatriptan 50 mg SOS, topiramate 25 mg HS, naproxen 500 mg SOS as needed. Advise diet low in refined carbs, 150 min/week aerobic activity. Offer influenza vaccine in autumn. Return if severe headache with vomiting, visual disturbances, pelvic pain, or fever >39°C."
+    },
+    {
+      "memory_id": "X0097-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg tablets, take one tablet twice daily.\nCombined oral contraceptive pill (ethinylestradiol 30 mcg/levonorgestrel 150 mcg), take one tablet daily.\nPropranolol 40 mg tablets, take one tablet daily.\nSumatriptan 50 mg tablets, take one tablet at migraine onset, max 2 doses/24h.\nTopiramate 25 mg tablets, take one tablet at bedtime.\nNaproxen 500 mg tablets, take one tablet after food as needed for pain, max 3 doses/day."
+    },
+    {
+      "memory_id": "X0097-m03",
+      "date": "2025-07-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar: 92 mg/dL (70-99).\nFasting lipid profile: Total cholesterol 168 mg/dL (<200), HDL 48 mg/dL (>40), LDL 95 mg/dL (<130), Triglycerides 110 mg/dL (<150).\nSerum testosterone: 48 ng/dL (15-70).\nLH: 6.2 mIU/mL, FSH: 5.8 mIU/mL, LH:FSH ratio 1.07.\nHbA1c: 5.6% (4.0-5.6).\nPelvic ultrasound: Bilateral ovaries show multiple small follicles, volume 8 mL each, endometrium 6 mm, no dominant cyst."
+    },
+    {
+      "memory_id": "X0097-m04",
+      "date": "2025-07-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: review of labs and symptom control.\nPRESENTING COMPLAINT: Patient reports regular menses on COCP, reduced hirsutism, migraine frequency down to 2 episodes/month, mild nausea on topiramate.\nEXAMINATION: BP 120/78 mmHg, weight 61.5 kg, BMI 24.6 (overweight). No new skin changes. Neurologic exam normal.\nIMPRESSION: PCOS well-controlled on COCP and metformin; migraine prophylaxis effective, topiramate causing mild nausea.\nARRANGEMENTS: Continue metformin 500 mg BD, COCP OD, propranolol 40 mg OD. Reduce topiramate to 25 mg HS every other day, reassess in 4 weeks. Continue sumatriptan SOS, naproxen SOS. Advise maintain activity, low-glycemic diet. Offer influenza vaccine in autumn. Return if worsening headache, mood changes, or abdominal pain."
+    },
+    {
+      "memory_id": "X0097-m05",
+      "date": "2025-07-15",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg tablets, take one tablet twice daily.\nCombined oral contraceptive pill (ethinylestradiol 30 mcg/levonorgestrel 150 mcg), take one tablet daily.\nPropranolol 40 mg tablets, take one tablet daily.\nTopiramate 25 mg tablets, take one tablet at bedtime every other day.\nSumatriptan 50 mg tablets, take one tablet at migraine onset, max 2 doses/24h.\nNaproxen 500 mg tablets, take one tablet after food as needed for pain, max 3 doses/day."
+    },
+    {
+      "memory_id": "X0097-m06",
+      "date": "2025-11-01",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "Message via clinic app: 'I’ve had three migraine attacks this month, each lasting about 5 hours, responded to sumatriptan. My periods are regular, no spotting. I’ve noticed slight weight gain (~1 kg) and feel a bit more tired. Otherwise fine.'"
+    },
+    {
+      "memory_id": "X0097-m07",
+      "date": "2026-02-10",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Neurological examination: No focal deficits, normal gait, Romberg negative. No migraine-associated aura symptoms. Fundoscopy normal. Reflexes 2+ bilaterally. No signs of increased intracranial pressure."
+    },
+    {
+      "memory_id": "X0097-m08",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: follow-up after patient-reported migraine increase and mild weight gain.\nPRESENTING COMPLAINT: Patient reports 3 migraine episodes/month, each 4-6 hours, sumatriptan effective. Notes mild fatigue and 1 kg weight gain since last visit.\nEXAMINATION: BP 122/80 mmHg, weight 62.5 kg, BMI 25.0 (obese). Acanthosis nigricans absent. Neurologic exam normal.\nIMPRESSION: Migraine prophylaxis may need adjustment; weight gain suggests possible insulin resistance despite metformin.\nARRANGEMENTS: Stop topiramate due to limited benefit and possible contribution to fatigue. Increase metformin to 500 mg TID. Continue propranolol 40 mg OD, COCP OD. Add lifestyle review: reduce refined sugars, aim for 180 min/week activity. Continue sumatriptan SOS, naproxen SOS. Offer influenza vaccine (patient declined, will reconsider in autumn). Return if headache becomes daily, visual changes, or pelvic pain."
+    },
+    {
+      "memory_id": "X0097-m09",
+      "date": "2026-02-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "Metformin 500 mg tablets, take one tablet three times daily.\nCombined oral contraceptive pill (ethinylestradiol 30 mcg/levonorgestrel 150 mcg), take one tablet daily.\nPropranolol 40 mg tablets, take one tablet daily.\nSumatriptan 50 mg tablets, take one tablet at migraine onset, max 2 doses/24h.\nNaproxen 500 mg tablets, take one tablet after food as needed for pain, max 3 doses/day."
+    },
+    {
+      "memory_id": "X0097-m10",
+      "date": "2026-05-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2026-05-22 at 10:30 AM with Dr Priya Natarajan for routine follow-up."
+    },
+    {
+      "memory_id": "X0097-m11",
+      "date": "2026-05-22",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "Reason for visit: routine follow-up after medication changes.\nPRESENTING COMPLAINT: Patient reports migraine down to 1 episode/month, mild improvement in energy, weight stable at 62.3 kg.\nEXAMINATION: BP 119/77 mmHg, weight 62.3 kg, BMI 24.9 (overweight). No skin changes. Neurologic exam normal.\nIMPRESSION: Migraine well-controlled on propranolol; metformin dose appropriate; weight stable.\nARRANGEMENTS: Continue metformin 500 mg TID, COCP OD, propranolol 40 mg OD. Maintain current lifestyle. Offer influenza vaccine (patient to receive in autumn). Continue sumatriptan SOS, naproxen SOS. Return if new neurological symptoms, severe headache, or pelvic discomfort."
+    },
+    {
+      "memory_id": "X0097-m12",
+      "date": "2026-09-30",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting blood sugar: 88 mg/dL (70-99).\nFasting lipid profile: Total cholesterol 162 mg/dL, HDL 50 mg/dL, LDL 90 mg/dL, Triglycerides 105 mg/dL.\nSerum testosterone: 45 ng/dL.\nLH: 5.9 mIU/mL, FSH: 5.5 mIU/mL, LH:FSH ratio 1.07.\nHbA1c: 5.5%.\nPelvic ultrasound: Ovaries multi-follicular, volumes 7.5 mL each, endometrium 5 mm, no cyst."
+    }
+  ]
+}

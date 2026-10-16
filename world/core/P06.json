@@ -1,0 +1,127 @@
+{
+  "patient_id": "P06",
+  "name": "Thomas Mathew",
+  "age": 71,
+  "sex": "M",
+  "primary_doctor": "D01",
+  "conditions": [
+    "Type 2 diabetes",
+    "Chronic kidney disease stage 3a",
+    "Gout",
+    "Hypertension"
+  ],
+  "memories": [
+    {
+      "memory_id": "P06-m01",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM on metformin, HTN, gout on allopurinol. Feels well, no gout flare in last 6 mths. No chest pain, no SOB. Never on any antiplatelet or anticoagulant.\nO: BP 146/88 mmHg, pulse 76/min, wt 79 kg. O/E: CVS and RS NAD. Feet: no ulcer, pulses palpable.\nA: 1. T2DM, not at target. 2. HTN, above target on amlodipine. 3. CKD stage 3a (eGFR 49). 4. Gout, quiescent.\nP: 1. Cont metformin (Glycomet) 1000 mg BD. 2. Cont amlodipine (Amlong) 5 mg OD. 3. Cont allopurinol (Zyloric) 100 mg OD. 4. HbA1c and RFT today.\nAdv: Walk 30 min daily, salt under 5 g/day, avoid sugary drinks and alcohol, drink 2 to 2.5 L water daily. R/V in 3 months."
+    },
+    {
+      "memory_id": "P06-m02",
+      "date": "2025-06-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 7.3 % (reference below 5.7 %). Serum creatinine 1.5 mg/dL (reference 0.7-1.3 mg/dL). eGFR 49 mL/min/1.73m² (reference above 60). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P06-m03",
+      "date": "2025-08-05",
+      "type": "investigation",
+      "author": "D01",
+      "text": "Dilated fundus examination, done at the clinic on 2025-08-05. Findings: early background diabetic retinopathy. No proliferative changes seen. Annual dilated eye review advised, and the patient was counselled that tighter blood sugar and blood pressure control slows retinopathy."
+    },
+    {
+      "memory_id": "P06-m04",
+      "date": "2025-12-09",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, CKD 3a, gout, HTN. c/o bilateral ankle swelling x 3 wks, worse by evening. No SOB, no chest pain. No gout pain since June.\nO: BP 138/84 mmHg, pulse 72/min, wt 80 kg. O/E: pitting pedal oedema both ankles (++). CVS and RS NAD.\nA: 1. Ankle oedema, likely amlodipine-related. 2. HTN with T2DM. 3. CKD 3a, eGFR 45.\nP: 1. Stop amlodipine (Amlong) 5 mg OD. 2. Start telmisartan (Telma) 40 mg OD, first-line in diabetes with HTN. 3. Cont metformin 1000 mg BD. 4. Cont allopurinol 100 mg OD.\nAdv: Elevate legs in the evening, low-salt diet, daily walk 30 min. R/V in 3 months."
+    },
+    {
+      "memory_id": "P06-m05",
+      "date": "2025-12-09",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: STOP amlodipine (Amlong) 5 mg OD, for ankle oedema. START telmisartan (Telma) 40 mg OD, once daily in the morning. Effective 2025-12-09. No other change."
+    },
+    {
+      "memory_id": "P06-m06",
+      "date": "2025-12-09",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: Serum creatinine 1.6 mg/dL (reference 0.7-1.3 mg/dL). eGFR 45 mL/min/1.73m² (reference above 60; 45 to 59 is the CKD stage 3a range). Serum potassium 4.3 mmol/L (reference 3.5-5.1). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P06-m07",
+      "date": "2026-02-10",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, CKD 3a, gout, HTN. Ankle swelling settled after amlodipine stopped. No gout pain. No new complaints. Urine output normal.\nO: BP 132/82 mmHg, pulse 70/min, wt 79 kg. O/E: no pedal oedema now. Feet normal.\nA: 1. T2DM, HbA1c 7.7 % (above 7). 2. CKD 3a, eGFR 42, falling. 3. HTN, controlled on telmisartan. 4. Gout, no flare.\nP: 1. Reduce metformin (Glycomet) from 1000 mg BD to 500 mg BD (eGFR 42). 2. Cont telmisartan (Telma) 40 mg OD. 3. Cont allopurinol (Zyloric) 100 mg OD. 4. Avoid NSAIDs for joint pain given CKD.\nAdv: Low-salt diet, cut refined carbohydrates, walk 30 min daily. R/V in 3 months."
+    },
+    {
+      "memory_id": "P06-m08",
+      "date": "2026-02-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 7.7 % (reference below 5.7 %). Serum creatinine 1.7 mg/dL (reference 0.7-1.3 mg/dL). eGFR 42 mL/min/1.73m² (reference above 60). Serum potassium 4.4 mmol/L (reference 3.5-5.1). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P06-m09",
+      "date": "2026-02-10",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: DOSE REDUCED metformin (Glycomet) from 1000 mg BD to 500 mg BD, because eGFR is 42. Effective 2026-02-10. Telmisartan (Telma) 40 mg OD and allopurinol 100 mg OD continue unchanged."
+    },
+    {
+      "memory_id": "P06-m10",
+      "date": "2026-06-15",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "App message from patient, 2026-06-15, 22:40: 'Doctor, my right big toe is very swollen, red and hot since this evening. I cannot wear my shoe and can barely walk. I had a similar pain once before. Is this gout again?'"
+    },
+    {
+      "memory_id": "P06-m11",
+      "date": "2026-06-16",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o gout, CKD 3a, T2DM, HTN. c/o R big toe pain, swelling and redness since last evening (2026-06-15). Severe, sleep disturbed. No fever. Had beer at a family function on 2026-06-13.\nO: BP 136/84 mmHg, pulse 78/min, afebrile. O/E: R first MTP joint red, hot, swollen, tender, movement limited. Other joints nil.\nA: 1. Acute gout flare, R first MTP. 2. CKD 3a. 3. T2DM. 4. HTN.\nP: 1. Colchicine (Colcrys) 0.5 mg BD for 6 days, 2026-06-16 to 2026-06-21 only. 2. Uric acid and RFT sent today. 3. Cont allopurinol 100 mg OD; do not stop during the flare. 4. No NSAIDs (CKD 3a). Ice pack and rest to the joint.\nAdv: Drink 2 to 2.5 L water daily, avoid beer, red meat, organ meats and sugary drinks. R/V in 8 weeks."
+    },
+    {
+      "memory_id": "P06-m12",
+      "date": "2026-06-16",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: Serum uric acid 8.9 mg/dL (reference 3.5-7.2 mg/dL). Serum creatinine 1.6 mg/dL (reference 0.7-1.3 mg/dL). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P06-m13",
+      "date": "2026-06-16",
+      "type": "prescription",
+      "author": "D01",
+      "text": "Rx change: Colchicine (Colcrys) 0.5 mg BD for acute gout flare. Course: 2026-06-16 to 2026-06-21 only (6 days). STOP after the last dose on 2026-06-21; not to be continued. Allopurinol 100 mg OD continues unchanged."
+    },
+    {
+      "memory_id": "P06-m14",
+      "date": "2026-08-11",
+      "type": "visit_note",
+      "author": "D01",
+      "text": "S: k/c/o T2DM, CKD 3a, gout, HTN. No flare since June; colchicine course completed. No ankle swelling. c/o nil. Taking metformin 500 mg BD, telmisartan 40 mg OD and allopurinol 100 mg OD. Never on any antiplatelet or anticoagulant.\nO: BP 130/80 mmHg, pulse 72/min, wt 78 kg. O/E: no pedal oedema. R first MTP normal.\nA: 1. T2DM, HbA1c 7.5 % (above 7). 2. CKD 3a, eGFR 44, stable. 3. HTN, controlled. 4. Gout, in remission on allopurinol.\nP: 1. Cont metformin 500 mg BD. 2. Cont telmisartan (Telma) 40 mg OD. 3. Cont allopurinol 100 mg OD. 4. Fundus exam overdue (last done 2025-08-05); counselled to get it done. 5. Renal function test and review on 2026-11-10.\nAdv: Daily walk 30 min, low-salt diet, no sugary drinks, no NSAIDs. R/V in 3 months."
+    },
+    {
+      "memory_id": "P06-m15",
+      "date": "2026-08-11",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lab report: HbA1c (glycated haemoglobin) 7.5 % (reference below 5.7 %). eGFR 44 mL/min/1.73m² (reference above 60). Serum creatinine 1.6 mg/dL (reference 0.7-1.3 mg/dL). Sample: venous blood, Sunrise Family Clinic."
+    },
+    {
+      "memory_id": "P06-m16",
+      "date": "2026-08-11",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow-up booked for 2026-11-10 at 11:00 with Dr Anjali Mehta (D01). Purpose: review with renal function test (RFT). No fasting needed; patient may eat before the visit and should bring her previous reports."
+    }
+  ]
+}

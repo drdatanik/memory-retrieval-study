@@ -1,0 +1,133 @@
+{
+  "patient_id": "X0446",
+  "name": "Stephen Thomas",
+  "age": 45,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Hypothyroidism",
+    "Asthma",
+    "Epilepsy"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0446-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypothyroidism: Status: stable on levothyroxine 50 mcg OD. Plan: Continue same dose, check TSH in 3 months.\n- Asthma: Status: well‑controlled, using budesonide/formoterol 200/6 µg BD and salbutamol SOS. Plan: Continue current inhalers, monitor symptoms.\n- Epilepsy: Status: seizure‑free on levetiracetam 500 mg BD and lamotrigine 50 mg BD. Plan: Continue meds, check EEG and electrolytes annually.\n- Weight: 78 kg, Waist: 92 cm (above male cut‑off 90 cm). Diet advice: Breakfast – whole‑grain toast with egg white and vegetables; Lunch – brown rice, dal, mixed veg salad; Dinner – grilled fish, steamed broccoli, small portion rice.\n- Due: Next HbA1c not required (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0446-m02",
+      "date": "2025-04-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levothyroxine 50 mcg OD – after food\nsalbutamol metered-dose inhaler – SOS\nbudesonide-formoterol 200/6 µg inhaler – 1-0-1 (morning‑evening) after food\nmontelukast 10 mg HS – after food\nlevetiracetam 500 mg BD – after food\nlamotrigine 50 mg BD – after food"
+    },
+    {
+      "memory_id": "X0446-m03",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 4.2 mIU/L (ref 0.4‑4.5)\nFree T4: 12.0 pmol/L (ref 9‑19)"
+    },
+    {
+      "memory_id": "X0446-m04",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 2.8 L (85% predicted), FVC 3.4 L (90% predicted), FEV1/FVC 82%\nPost‑bronchodilator FEV1 3.0 L (92% predicted) – positive reversibility\nAsthma Control Test score: 22 (well‑controlled)"
+    },
+    {
+      "memory_id": "X0446-m05",
+      "date": "2025-04-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: Background rhythm normal, no epileptiform discharges. No focal slowing."
+    },
+    {
+      "memory_id": "X0446-m06",
+      "date": "2025-04-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 138 mmol/L (ref 135‑145)\nSerum Creatinine: 0.9 mg/dL (ref 0.6‑1.2)"
+    },
+    {
+      "memory_id": "X0446-m07",
+      "date": "2025-04-11",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-07-10 at 10:00 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0446-m08",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypothyroidism: Status: TSH slightly elevated, plan to increase levothyroxine to 75 mcg OD.\n- Asthma: Status: ACT 20, mild night‑time symptoms, plan to add montelukast if needed, continue budesonide/formoterol.\n- Epilepsy: Status: seizure‑free, labs normal, plan to continue current AEDs.\n- Weight: 80 kg, Waist: 94 cm (above cut‑off). Diet advice: Breakfast – oats with milk and nuts; Lunch – quinoa, chickpea curry, cucumber raita; Dinner – chicken stir‑fried with bell peppers, small brown rice portion.\n- Due: TSH repeat in 6 weeks after dose change."
+    },
+    {
+      "memory_id": "X0446-m09",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levothyroxine 75 mcg OD – after food\nsalbutamol metered-dose inhaler – SOS\nbudesonide-formoterol 200/6 µg inhaler – 1-0-1 after food\nmontelukast 10 mg HS – after food\nlevetiracetam 500 mg BD – after food\nlamotrigine 50 mg BD – after food"
+    },
+    {
+      "memory_id": "X0446-m10",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 5.8 mIU/L (ref 0.4‑4.5)\nFree T4: 11.5 pmol/L (ref 9‑19)"
+    },
+    {
+      "memory_id": "X0446-m11",
+      "date": "2025-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Spirometry: FEV1 2.9 L (88% predicted), FVC 3.5 L (92% predicted), FEV1/FVC 83%\nPost‑bronchodilator FEV1 3.1 L (94% predicted)\nAsthma Control Test score: 20 (controlled)"
+    },
+    {
+      "memory_id": "X0446-m12",
+      "date": "2025-07-11",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-10-10 at 10:30 am with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0446-m13",
+      "date": "2025-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Hypothyroidism: Status: TSH now within target after dose increase, plan to increase levothyroxine to 100 mcg OD due to weight gain and higher waist.\n- Asthma: Status: ACT 22, no night symptoms, plan to continue current inhalers, monitor.\n- Epilepsy: Status: seizure‑free, EEG normal, plan to continue levetiracetam and lamotrigine.\n- Weight: 83 kg, Waist: 97 cm (above cut‑off). Diet advice: Breakfast – multigrain toast with avocado and poached egg; Lunch – millet pulao, lentil soup, side salad; Dinner – baked salmon, sautéed greens, small portion rice.\n- Due: TSH repeat in 3 months."
+    },
+    {
+      "memory_id": "X0446-m14",
+      "date": "2025-10-10",
+      "type": "prescription",
+      "author": "D04",
+      "text": "levothyroxine 100 mcg OD – after food\nsalbutamol metered-dose inhaler – SOS\nbudesonide-formoterol 200/6 µg inhaler – 1-0-1 after food\nmontelukast 10 mg HS – after food\nlevetiracetam 500 mg BD – after food\nlamotrigine 50 mg BD – after food"
+    },
+    {
+      "memory_id": "X0446-m15",
+      "date": "2025-10-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "TSH: 4.6 mIU/L (ref 0.4‑4.5)\nFree T4: 12.2 pmol/L (ref 9‑19)"
+    },
+    {
+      "memory_id": "X0446-m16",
+      "date": "2025-10-10",
+      "type": "investigation",
+      "author": "D04",
+      "text": "EEG: Normal background activity, no epileptiform changes. No clinical correlation needed."
+    },
+    {
+      "memory_id": "X0446-m17",
+      "date": "2025-10-11",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2026-04-10 at 09:00 am with Dr Karthik Hegde (D04)."
+    }
+  ]
+}

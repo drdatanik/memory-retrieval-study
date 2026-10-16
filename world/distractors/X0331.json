@@ -1,0 +1,140 @@
+{
+  "patient_id": "X0331",
+  "name": "Chandrashekar Hiremath",
+  "age": 27,
+  "sex": "M",
+  "primary_doctor": "D05",
+  "conditions": [
+    "Chronic urticaria",
+    "Dyslipidaemia",
+    "Hypothyroidism"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0331-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient presents with chronic urticaria, newly diagnosed dyslipidaemia, and hypothyroidism.\nHe reports daily itchy wheals lasting <24 h, occasional fatigue, and weight gain. On examination, scattered erythematous wheals on trunk and limbs, BP 128/82, pulse 78, BMI 27.4 kg/m², thyroid not enlarged. Smoking status: never. Plan: start levocetirizine 5 mg OD for urticaria, atorvastatin 10 mg HS for lipids, levothyroxine 50 mcg OD for thyroid, and order CBC with eosinophils, TSH, free T4, fasting lipid profile, liver function tests, and creatine kinase."
+    },
+    {
+      "memory_id": "X0331-m02",
+      "date": "2025-04-07",
+      "type": "prescription",
+      "author": "D05",
+      "text": "levocetirizine 5 mg OD\natorvastatin 10 mg HS\nlevothyroxine 50 mcg OD"
+    },
+    {
+      "memory_id": "X0331-m03",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 14.8 g/dL (13-17), WBC 7.2 x10^9/L (4-10), eosinophils 0.6 x10^9/L (0-0.5) slightly high.\nTSH 5.8 mIU/L (0.4-4.5) high; free T4 11.2 pmol/L (12-22) low.\nLipids: LDL 152 mg/dL (<100), HDL 38 mg/dL (>40), triglycerides 210 mg/dL (<150).\nLFT: ALT 32 U/L (<40), AST 28 U/L (<40), ALP 78 U/L (40-129), GGT 45 U/L (<51).\nCK 190 U/L (30-200) normal."
+    },
+    {
+      "memory_id": "X0331-m04",
+      "date": "2025-06-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Patient returns for review of urticaria, dyslipidaemia, and hypothyroidism.\nUrticaria improved but mild residual itch; fatigue less; weight stable. Exam shows few scattered wheals, BP 126/80, pulse 76, BMI 27.1. Smoking status: never. Labs: TSH down but still high, lipids improved but LDL still high, eosinophils slightly elevated. Assessment: chronic urticaria partially controlled, dyslipidaemia persistently elevated, hypothyroidism inadequately replaced. Plan: increase levothyroxine to 75 mcg OD, switch antihistamine to cetirizine 10 mg HS for nighttime itch, continue atorvastatin 10 mg HS, repeat labs in 6–8 weeks."
+    },
+    {
+      "memory_id": "X0331-m05",
+      "date": "2025-06-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "cetirizine 10 mg HS\natorvastatin 10 mg HS\nlevothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0331-m06",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 14.9 g/dL, WBC 7.0 x10^9/L, eosinophils 0.5 x10^9/L (upper limit normal).\nTSH 3.2 mIU/L (0.4-4.5) now normal; free T4 14.5 pmol/L (12-22) normal.\nLipids: LDL 130 mg/dL, HDL 40 mg/dL, triglycerides 180 mg/dL.\nLFT: ALT 30, AST 26, ALP 76, GGT 42.\nCK 185 U/L."
+    },
+    {
+      "memory_id": "X0331-m07",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Follow‑up visit for chronic urticaria, dyslipidaemia, and hypothyroidism.\nUrticaria: occasional wheals, minimal itch, quality of life good. Dyslipidaemia: LDL still above target, triglycerides modestly high. Hypothyroidism: TSH normal, patient reports improved energy. Exam: few faint wheals, BP 124/78, pulse 75, BMI 27.0. Smoking status: never. Plan: add fenofibrate 145 mg OD to address triglycerides, keep levothyroxine 75 mcg OD, continue cetirizine 10 mg HS, repeat lipids and TSH in 3 months."
+    },
+    {
+      "memory_id": "X0331-m08",
+      "date": "2025-09-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "cetirizine 10 mg HS\natorvastatin 10 mg HS\nlevothyroxine 75 mcg OD\nfenofibrate 145 mg OD"
+    },
+    {
+      "memory_id": "X0331-m09",
+      "date": "2025-11-20",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-12-10 at 10:30 am with Dr Suresh Menon (D05) in Pulmonology clinic."
+    },
+    {
+      "memory_id": "X0331-m10",
+      "date": "2025-12-10",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Review visit for chronic urticaria, dyslipidaemia, and hypothyroidism.\nUrticaria: well controlled, no wheals for past 4 weeks. Dyslipidaemia: LDL 115 mg/dL, HDL 42 mg/dL, triglycerides 130 mg/dL after fenofibrate; mild myalgia reported. Hypothyroidism: stable on levothyroxine 75 mcg OD, TSH 2.8. Exam: skin clear, BP 122/80, pulse 74, BMI 26.8. Smoking status: never. Plan: stop fenofibrate due to myalgia, continue atorvastatin 10 mg HS, keep levothyroxine 75 mcg OD, maintain cetirizine 10 mg HS, repeat lipids and LFT in 6 weeks."
+    },
+    {
+      "memory_id": "X0331-m11",
+      "date": "2025-12-12",
+      "type": "prescription",
+      "author": "D05",
+      "text": "cetirizine 10 mg HS\natorvastatin 10 mg HS\nlevothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0331-m12",
+      "date": "2026-02-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 15.0 g/dL, WBC 6.8 x10^9/L, eosinophils 0.4 x10^9/L.\nTSH 2.6 mIU/L (0.4-4.5); free T4 15.0 pmol/L (12-22).\nLipids: LDL 108 mg/dL, HDL 44 mg/dL, triglycerides 125 mg/dL.\nLFT: ALT 28, AST 24, ALP 73, GGT 40.\nCK 190 U/L."
+    },
+    {
+      "memory_id": "X0331-m13",
+      "date": "2026-03-01",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Quarterly review for chronic urticaria, dyslipidaemia, and hypothyroidism.\nUrticaria: asymptomatic, no wheals. Dyslipidaemia: LDL at goal, triglycerides normal, no muscle symptoms. Hypothyroidism: euthyroid, patient feels well. Exam: skin clear, BP 120/78, pulse 73, BMI 26.5. Smoking status: never. Plan: continue current medications, repeat labs in 4 months, next review in 3 months."
+    },
+    {
+      "memory_id": "X0331-m14",
+      "date": "2026-03-03",
+      "type": "prescription",
+      "author": "D05",
+      "text": "cetirizine 10 mg HS\natorvastatin 10 mg HS\nlevothyroxine 75 mcg OD"
+    },
+    {
+      "memory_id": "X0331-m15",
+      "date": "2026-05-20",
+      "type": "investigation",
+      "author": "D05",
+      "text": "Resting ECG: sinus rhythm 72 bpm, normal axis, no ST‑T changes, no QRS abnormalities. No evidence of ischemia or hypertrophy."
+    },
+    {
+      "memory_id": "X0331-m16",
+      "date": "2026-07-10",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "CBC: Hb 15.1 g/dL, WBC 7.0 x10^9/L, eosinophils 0.3 x10^9/L.\nTSH 2.4 mIU/L (0.4-4.5); free T4 15.2 pmol/L (12-22).\nLipids: LDL 105 mg/dL, HDL 45 mg/dL, triglycerides 120 mg/dL.\nLFT: ALT 27, AST 23, ALP 71, GGT 38.\nCK 188 U/L."
+    },
+    {
+      "memory_id": "X0331-m17",
+      "date": "2026-09-05",
+      "type": "visit_note",
+      "author": "D05",
+      "text": "Six‑month follow‑up for chronic urticaria, dyslipidaemia, and hypothyroidism.\nUrticaria: remains free of wheals; occasional mild tingling but no lesions. Dyslipidaemia: all lipid parameters within target ranges. Hypothyroidism: stable, TSH 2.3. Exam: skin clear, BP 118/76, pulse 72, BMI 26.2. Smoking status: never. Plan: consider tapering cetirizine to as‑needed basis, continue atorvastatin 10 mg HS and levothyroxine 75 mcg OD, repeat labs in 4 months."
+    },
+    {
+      "memory_id": "X0331-m18",
+      "date": "2026-10-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed: previous visit on 2026-09-05 rescheduled to 2026-11-15 at 09:00 am with Dr Suresh Menon (D05) for routine review."
+    }
+  ]
+}

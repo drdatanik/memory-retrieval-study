@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0502",
+  "name": "Vasanthi Velu",
+  "age": 35,
+  "sex": "F",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Epilepsy",
+    "Asthma"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0502-m01",
+      "date": "2025-04-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment booked for 2025-04-15 10:00 with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0502-m02",
+      "date": "2025-04-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: No seizures in past month, medication adherence reported good.\n  - Plan: Continue levetiracetam 500 mg BD after food; lamotrigine 50 mg BD after food; maintain seizure diary.\n- Asthma\n  - Status: Occasional night-time cough, salbutamol SOS used twice weekly.\n  - Plan: Start budesonide-formoterol 200/6 inhaler 2 puffs BD after food; continue montelukast 10 mg HS; check inhaler technique.\n- Weight: 62 kg; Waist: 78 cm (female cut‑off 80 cm, within limit).\n- Due: HbA1c not indicated as patient not on glucose‑lowering therapy."
+    },
+    {
+      "memory_id": "X0502-m03",
+      "date": "2025-04-15",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg BD after food\nLamotrigine 50 mg BD after food\nBudesonide-formoterol 200/6 inhaler 2 puffs BD after food\nMontelukast 10 mg HS\nSalbutamol MDI SOS"
+    },
+    {
+      "memory_id": "X0502-m04",
+      "date": "2025-05-20",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 138 mmol/L (135-145)\nSerum Creatinine: 0.9 mg/dL (0.6-1.1)"
+    },
+    {
+      "memory_id": "X0502-m05",
+      "date": "2025-06-10",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "\"Over the past week I have woken up wheezing twice and needed my rescue inhaler three times. My chest feels tight especially after climbing stairs.\""
+    },
+    {
+      "memory_id": "X0502-m06",
+      "date": "2025-06-20",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure-free, medication taken as prescribed.\n  - Plan: Continue current regimen; remind about sleep hygiene.\n- Asthma\n  - Status: Increased wheeze and nocturnal symptoms, salbutamol SOS use 4‑5 times/week.\n  - Plan: Increase budesonide-formoterol to 2 puffs BD after food (already), add a short course of oral prednisolone 20 mg daily for 5 days; reinforce spacer use.\n- Weight: 63 kg; Waist: 80 cm (at cut‑off).\n- Due: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0502-m07",
+      "date": "2025-06-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg BD after food\nLamotrigine 50 mg BD after food\nBudesonide-formoterol 200/6 inhaler 2 puffs BD after food\nMontelukast 10 mg HS\nPrednisolone 20 mg OD for 5 days\nSalbutamol MDI SOS"
+    },
+    {
+      "memory_id": "X0502-m08",
+      "date": "2025-08-01",
+      "type": "investigation",
+      "author": "D04",
+      "text": "Spirometry with reversibility: FEV1 2.05 L (78% pred), FVC 2.78 L (84% pred), FEV1/FVC 0.74. Post‑bronchodilator FEV1 2.30 L (+12% change), indicating reversible airflow obstruction."
+    },
+    {
+      "memory_id": "X0502-m09",
+      "date": "2025-08-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Serum Sodium: 139 mmol/L (135-145)\nSerum Creatinine: 0.88 mg/dL (0.6-1.1)"
+    },
+    {
+      "memory_id": "X0502-m10",
+      "date": "2025-09-01",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: No seizures, medication adherence good.\n  - Plan: Continue levetiracetam 500 mg BD; lamotrigine 50 mg BD.\n- Asthma\n  - Status: Symptoms improved, nocturnal cough resolved, salbutamol SOS use ≤2 times/week.\n  - Plan: Continue budesonide-formoterol 200/6 inhaler 2 puffs BD; montelukast 10 mg HS; schedule spirometry in 3 months.\n- Weight: 62.5 kg; Waist: 79 cm (within limit).\n- Due: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0502-m11",
+      "date": "2025-09-01",
+      "type": "prescription",
+      "author": "D04",
+      "text": "Levetiracetam 500 mg BD after food\nLamotrigine 50 mg BD after food\nBudesonide-formoterol 200/6 inhaler 2 puffs BD after food\nMontelukast 10 mg HS\nSalbutamol MDI SOS"
+    },
+    {
+      "memory_id": "X0502-m12",
+      "date": "2025-10-10",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2025-10-12 09:30 to 2025-10-15 11:00 with Dr Karthik Hegde (D04) per patient request."
+    },
+    {
+      "memory_id": "X0502-m13",
+      "date": "2025-10-15",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure-free for 3 months, meds taken regularly.\n  - Plan: Continue current regimen; consider EEG if any new episodes.\n- Asthma\n  - Status: Well controlled, no night symptoms, salbutamol SOS use nil.\n  - Plan: Continue budesonide-formoterol 200/6 inhaler 2 puffs BD; montelukast 10 mg HS; review inhaler technique.\n- Weight: 62 kg; Waist: 78 cm.\n- Due: HbA1c not indicated."
+    },
+    {
+      "memory_id": "X0502-m14",
+      "date": "2025-10-15",
+      "type": "referral",
+      "author": "D04",
+      "text": "Referral to Neurology, Dr S. Rao (consultant) for review of epilepsy management and consideration of possible medication optimization. Patient reports stable seizure control but wishes expert opinion on long-term therapy."
+    },
+    {
+      "memory_id": "X0502-m15",
+      "date": "2025-11-30",
+      "type": "referral_outcome",
+      "author": "D04",
+      "text": "Neurology review completed. EEG shows no epileptiform activity. Recommendation: continue levetiracetam and lamotrigine at current doses; consider taper of lamotrigine only if seizure-free for >2 years. No changes advised now."
+    },
+    {
+      "memory_id": "X0502-m16",
+      "date": "2026-02-14",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Lipid Profile: Total Cholesterol 180 mg/dL (<200 desirable), HDL 48 mg/dL (>40 good), LDL 102 mg/dL (<130 optimal), Triglycerides 110 mg/dL (<150 normal)."
+    },
+    {
+      "memory_id": "X0502-m17",
+      "date": "2026-10-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Epilepsy\n  - Status: Seizure-free for over 18 months, medication adherence excellent.\n  - Plan: Continue levetiracetam 500 mg BD; lamotrigine 50 mg BD; discuss possible lamotrigine taper after 2-year seizure‑free period.\n- Asthma\n  - Status: Well controlled, no exacerbations in past 6 months, salbutamol SOS use nil.\n  - Plan: Continue budesonide-formoterol 200/6 inhaler 2 puffs BD; montelukast 10 mg HS; annual spirometry scheduled.\n- Weight: 61.8 kg; Waist: 77 cm (within limit).\n- Due: HbA1c not indicated."
+    }
+  ]
+}

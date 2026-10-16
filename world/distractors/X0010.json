@@ -1,0 +1,103 @@
+{
+  "patient_id": "X0010",
+  "name": "Daniel Pereira",
+  "age": 24,
+  "sex": "M",
+  "primary_doctor": "D04",
+  "conditions": [
+    "Gastro-oesophageal reflux"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0010-m01",
+      "date": "2025-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro-oesophageal reflux\n  - Status: New diagnosis, typical heartburn after meals, regurgitation, no alarm symptoms.\n  - Plan: Start pantoprazole 40 mg OD before breakfast, domperidone 10 mg BD before meals, antacid gel SOS. Advise small frequent meals, avoid spicy/fatty foods, no lying down within 2 h after food. Weight 68 kg, waist 78 cm (female cut‑off 80 cm, within limit).\n  - Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0010-m02",
+      "date": "2025-04-12",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pantoprazole 40 mg OD before breakfast\\ndomperidone 10 mg BD before meals\\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0010-m03",
+      "date": "2025-04-15",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (<10 U/mL). Reference range: Negative <20 U/mL."
+    },
+    {
+      "memory_id": "X0010-m04",
+      "date": "2025-05-20",
+      "type": "patient_context",
+      "author": "patient",
+      "text": "I have been taking the pantoprazole each morning and domperidone twice daily. The heartburn has improved; I only need antacid gel occasionally after heavy meals. No nausea or vomiting."
+    },
+    {
+      "memory_id": "X0010-m05",
+      "date": "2025-07-18",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro-oesophageal reflux\n  - Status: Improved, heartburn 1‑2 times weekly, regurgitation rare, using antacid gel SOS ≤2 times/week.\n  - Plan: Continue pantoprazole 40 mg OD before breakfast, reduce domperidone to 5 mg BD before meals, continue antacid gel SOS. Reinforce meal timing, avoid late‑night snacks. Weight 67 kg, waist 77 cm (within limit).\n  - Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0010-m06",
+      "date": "2025-07-20",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pantoprazole 40 mg OD before breakfast\\ndomperidone 5 mg BD before meals\\nantacid gel SOS"
+    },
+    {
+      "memory_id": "X0010-m07",
+      "date": "2025-08-01",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Follow‑up appointment booked for 2025-10-05 at 10:30 AM with Dr Karthik Hegde (D04)."
+    },
+    {
+      "memory_id": "X0010-m08",
+      "date": "2025-10-05",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro-oesophageal reflux\n  - Status: Well controlled, heartburn ≤1 time per week, no regurgitation, antacid gel SOS used <1 time/week.\n  - Plan: Continue current regimen. Consider tapering pantoprazole to 20 mg OD after 4 weeks if symptoms remain absent. Weight 66 kg, waist 76 cm (within limit).\n  - Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0010-m09",
+      "date": "2025-10-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Repeat H. pylori stool antigen: Negative (<8 U/mL). Reference range: Negative <20 U/mL."
+    },
+    {
+      "memory_id": "X0010-m10",
+      "date": "2026-01-12",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro-oesophageal reflux\n  - Status: Symptoms recurred over past month, heartburn 3‑4 times weekly, mild regurgitation after large meals, antacid gel SOS used daily.\n  - Plan: Increase pantoprazole to 40 mg OD before breakfast (restart full dose), continue domperidone 5 mg BD before meals, add sucralfate 1 g SOS after meals. Review diet, avoid late meals. Weight 68 kg, waist 79 cm (approaching female cut‑off 80 cm).\n  - Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0010-m11",
+      "date": "2026-01-14",
+      "type": "prescription",
+      "author": "D04",
+      "text": "pantoprazole 40 mg OD before breakfast\\ndomperidone 5 mg BD before meals\\nsucralfate 1 g SOS after meals"
+    },
+    {
+      "memory_id": "X0010-m12",
+      "date": "2026-04-10",
+      "type": "visit_note",
+      "author": "D04",
+      "text": "- Gastro-oesophageal reflux\n  - Status: Symptoms controlled, heartburn ≤1 time per week, no regurgitation, antacid gel SOS used occasionally.\n  - Plan: Continue pantoprazole 40 mg OD before breakfast, domperidone 5 mg BD before meals, sucralfate SOS as needed. Aim for weight reduction; advise 30‑min walk daily. Weight 66 kg, waist 77 cm (within limit).\n  - Due: Not applicable (no glucose‑lowering therapy)."
+    },
+    {
+      "memory_id": "X0010-m13",
+      "date": "2026-07-05",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "H. pylori stool antigen: Negative (<5 U/mL). Reference range: Negative <20 U/mL."
+    }
+  ]
+}

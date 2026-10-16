@@ -1,0 +1,132 @@
+{
+  "patient_id": "X0521",
+  "name": "Hitesh Desai",
+  "age": 81,
+  "sex": "M",
+  "primary_doctor": "D03",
+  "conditions": [
+    "Non-alcoholic fatty liver disease",
+    "Vitamin B12 deficiency"
+  ],
+  "memories": [
+    {
+      "memory_id": "X0521-m01",
+      "date": "2025-04-05",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: 81‑year‑old man with known NAFLD and B12 deficiency requests review and renewal of medications.\nEXAMINATION: BP 138/84 mmHg, weight 68 kg, BMI 24.3 (overweight). Abdomen soft, no hepatomegaly.\nIMPRESSION: Stable NAFLD, B12 deficiency on replacement.\nARRANGEMENTS: Continue silymarin 140 mg TDS, rosuvastatin 5 mg OD, methylcobalamin 1500 mcg OD. Order LFT, lipid profile, vitamin B12, CBC, platelet count and abdominal ultrasound. Return if jaundice, dark urine, abdominal pain, fever >39°C, or bleeding."
+    },
+    {
+      "memory_id": "X0521-m02",
+      "date": "2025-04-05",
+      "type": "prescription",
+      "author": "D03",
+      "text": "silymarin 140 mg TDS\nrosuvastatin 5 mg OD\nmethylcobalamin 1500 mcg OD"
+    },
+    {
+      "memory_id": "X0521-m03",
+      "date": "2025-04-07",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 48 U/L (7‑35), AST 42 U/L (10‑40), ALP 92 U/L (30‑120), GGT 55 U/L (<51). Total bilirubin 1.0 mg/dL (0.2‑1.2). Albumin 4.0 g/dL (3.5‑5.0). INR 1.0. Triglycerides 168 mg/dL (<150). HDL 38 mg/dL (>40). LDL 112 mg/dL (<100). Vitamin B12 210 pg/mL (200‑900). Hemoglobin 13.2 g/dL (13‑17). MCV 92 fL (80‑100). Platelets 210 ×10⁹/L (150‑400)."
+    },
+    {
+      "memory_id": "X0521-m04",
+      "date": "2025-04-09",
+      "type": "investigation",
+      "author": "D03",
+      "text": "Abdominal ultrasound: Liver size 15 cm, diffuse increased echogenicity suggestive of steatosis. No focal lesion. Portal vein normal. Spleen normal. No ascites. Impression: Consistent with NAFLD, grade 1 steatosis."
+    },
+    {
+      "memory_id": "X0521-m05",
+      "date": "2025-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up; patient reports good tolerance, no new symptoms.\nEXAMINATION: BP 136/82 mmHg, weight 67.5 kg, BMI 24.2 (overweight).\nIMPRESSION: LFTs improved slightly; LDL still above target.\nARRANGEMENTS: Increase rosuvastatin to 10 mg OD to improve lipid control. Continue silymarin and methylcobalamin. Repeat LFT, lipid profile, vitamin B12, CBC in 3 months. Return if muscle pain, weakness, dark urine, fever >39°C, or bleeding."
+    },
+    {
+      "memory_id": "X0521-m06",
+      "date": "2025-07-10",
+      "type": "prescription",
+      "author": "D03",
+      "text": "rosuvastatin 10 mg OD"
+    },
+    {
+      "memory_id": "X0521-m07",
+      "date": "2025-07-12",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 44 U/L, AST 38 U/L, ALP 88 U/L, GGT 50 U/L. Triglycerides 152 mg/dL, HDL 40 mg/dL, LDL 92 mg/dL. Vitamin B12 225 pg/mL. Hemoglobin 13.4 g/dL, MCV 93 fL, Platelets 205 ×10⁹/L."
+    },
+    {
+      "memory_id": "X0521-m08",
+      "date": "2025-10-02",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Routine review; patient feels well.\nEXAMINATION: BP 134/80 mmHg, weight 67 kg, BMI 23.9 (overweight).\nIMPRESSION: LDL now at goal; liver enzymes stable.\nARRANGEMENTS: Maintain current meds. Order LFT, lipid profile, vitamin B12, CBC, platelet count. Return if jaundice, abdominal swelling, fever >39°C, or unexplained bleeding."
+    },
+    {
+      "memory_id": "X0521-m09",
+      "date": "2025-10-04",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 46 U/L, AST 40 U/L, ALP 90 U/L, GGT 52 U/L. Triglycerides 148 mg/dL, HDL 41 mg/dL, LDL 88 mg/dL. Vitamin B12 230 pg/mL. Hemoglobin 13.5 g/dL, MCV 94 fL, Platelets 200 ×10⁹/L."
+    },
+    {
+      "memory_id": "X0521-m10",
+      "date": "2026-01-15",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Mild fatigue noted over past week.\nEXAMINATION: BP 132/78 mmHg, weight 66.8 kg, BMI 23.8 (overweight).\nIMPRESSION: Fatigue possibly related to borderline B12; hemoglobin normal.\nARRANGEMENTS: Check vitamin B12 level; continue silymarin, rosuvastatin, methylcobalamin. Order LFT, lipid profile, vitamin B12, CBC. Return if worsening fatigue, dyspnea, chest pain, fever >39°C, or bleeding."
+    },
+    {
+      "memory_id": "X0521-m11",
+      "date": "2026-01-17",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "ALT 45 U/L, AST 39 U/L, ALP 89 U/L, GGT 51 U/L. Triglycerides 150 mg/dL, HDL 40 mg/dL, LDL 90 mg/dL. Vitamin B12 190 pg/mL (low). Hemoglobin 13.3 g/dL, MCV 95 fL (slightly high), Platelets 198 ×10⁹/L."
+    },
+    {
+      "memory_id": "X0521-m12",
+      "date": "2026-01-17",
+      "type": "prescription",
+      "author": "D03",
+      "text": "methylcobalamin 1500 mcg BID"
+    },
+    {
+      "memory_id": "X0521-m13",
+      "date": "2026-04-20",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Follow‑up after B12 adjustment; fatigue improved.\nEXAMINATION: BP 130/76 mmHg, weight 66.5 kg, BMI 23.7 (overweight).\nIMPRESSION: B12 now adequate; liver stable.\nARRANGEMENTS: Continue silymarin 140 mg TDS, rosuvastatin 10 mg OD, methylcobalamin 1500 mcg BID. Order fasting lipid profile and fasting blood sugar as annual review. Return if polyuria, polydipsia, weight loss, fever >39°C, or bleeding."
+    },
+    {
+      "memory_id": "X0521-m14",
+      "date": "2026-04-22",
+      "type": "lab_result",
+      "author": "lab",
+      "text": "Fasting glucose 92 mg/dL (70‑99). Total cholesterol 168 mg/dL, triglycerides 145 mg/dL, HDL 42 mg/dL, LDL 95 mg/dL. Vitamin B12 260 pg/mL. Hemoglobin 13.6 g/dL, MCV 93 fL, Platelets 202 ×10⁹/L."
+    },
+    {
+      "memory_id": "X0521-m15",
+      "date": "2026-07-05",
+      "type": "appointment",
+      "author": "front_desk",
+      "text": "Appointment changed from 2026-07-10 09:00 to 2026-07-10 10:30 per patient request."
+    },
+    {
+      "memory_id": "X0521-m16",
+      "date": "2026-07-10",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Annual review; patient asymptomatic.\nEXAMINATION: BP 128/74 mmHg, weight 66 kg, BMI 23.5 (overweight).\nIMPRESSION: All parameters within target; NAFLD stable.\nARRANGEMENTS: Continue current meds. No new labs needed today. Return if jaundice, abdominal pain, fever >39°C, or bleeding."
+    },
+    {
+      "memory_id": "X0521-m17",
+      "date": "2026-10-01",
+      "type": "visit_note",
+      "author": "D03",
+      "text": "PRESENTING COMPLAINT: Final review before year end; patient reports feeling well.\nEXAMINATION: BP 126/72 mmHg, weight 65.8 kg, BMI 23.4 (overweight).\nIMPRESSION: NAFLD and B12 deficiency well controlled.\nARRANGEMENTS: Advise to maintain medication regimen and lifestyle. Return if new jaundice, unexplained weight loss, fever >39°C, or bleeding."
+    }
+  ]
+}
